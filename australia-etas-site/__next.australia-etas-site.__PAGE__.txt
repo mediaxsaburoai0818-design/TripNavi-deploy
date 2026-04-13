@@ -1,0 +1,82 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T1a4f,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ ETAS(イータス)申請に関するサイトのご案内</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>ETAS(イータス)申請に関するサイトのご案内</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">ETAS(イータス)申請に関するサイトのご案内</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#links1">ETAS(イータス)公式ページ(英語)</a></li>
+<li><a className="ez-toc-link" href="#links2">在日オーストラリア大使館</a></li>
+<li><a className="ez-toc-link" href="#links3">オーストラリア政府内務省公式ホームページ</a></li>
+<li><a className="ez-toc-link" href="#links4">外務省海外安全ホームページ</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="ETAS(イータス)申請に関するサイトのご案内" className="img_big m20-t m20-b" height="480" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/116f12278e58380250577fee085e39d0-1.webp" type="image/webp" width="640"/>
+<img alt="ETAS(イータス)申請に関するサイトのご案内" className="img_big m20-t m20-b" decoding="async" height="480" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/116f12278e58380250577fee085e39d0-1.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="links1">ETAS(イータス)公式ページ(英語)</h2>
+<div className="Class_AB">
+<a aria-label=" (新しいタブで開く)" href="https://www.eta.homeaffairs.gov.au/ETAS3/etasp" rel="noreferrer noopener" target="_blank">https://www.eta.homeaffairs.gov.au/ETAS3/etasp</a></div>
+<p>オーストラリア政府主導のもとで管理運営を行っているETAS(イータス)申請サイトです。<br />ETAS(イータス)はご自身で申請することも可能ですが、全ての項目を英語で入力する必要があります。</p>
+<p><strong>＜お知らせ＞</strong><br />現在、新型コロナウイルスの感染拡大防止のためETAS(イータス)申請受付は停止しております。</p>
+<h2 className="wp-block-heading" id="links2">在日オーストラリア大使館</h2>
+<div className="Class_AB">
+<a aria-label=" (新しいタブで開く)" href="https://japan.embassy.gov.au/" rel="noreferrer noopener" target="_blank">https://japan.embassy.gov.au/</a></div>
+<p>オーストラリア渡航の際の注意点やビザ取得方法などについて案内しております。<br />パスポート申請などに関する質問はメール・電話にて受け付けておりますが、事前に「よくある質問」の内容をご確認ください。</p>
+<p><strong>＜お知らせ＞</strong><br />現在、オーストラリア大使館領事部では新型コロナウイルス感染拡大防止のため、2020年3月24日から各種認証サービスの受付を予約制にしております。<br />予約方法などの詳細はオーストラリア大使館サイトをご確認ください。</p>
+<h2 className="wp-block-heading" id="links3">オーストラリア政府内務省公式ホームページ</h2>
+<div className="Class_AB">
+<a aria-label=" (新しいタブで開く)" href="https://immi.homeaffairs.gov.au/" rel="noreferrer noopener" target="_blank">https://immi.homeaffairs.gov.au/</a></div>
+<p>オーストラリア渡航時に必要となるETAS(イータス)やビザの取得方法を英語で解説しております。<br />就業や留学などオーストラリアでの長期滞在を検討されている方は、「<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-finder" rel="noreferrer noopener" target="_blank">ビザファインダー</a>」ページより渡航目的に合わせたビザを検索することができます。</p>
+<p><strong>＜お知らせ＞</strong><br />現在、オーストラリア政府内務省ではビザ申請前に入国制限に関する最新情報を確認するよう推奨しております。<br />最新情報は「<a href="http://xs640823.xsrv.jp/etas/news/detail/990100.html">オーストラリアの新型コロナウイルスと入国制限 最新情報</a>」をご確認ください。</p>
+<h2 className="wp-block-heading" id="links4">外務省海外安全ホームページ</h2>
+<div className="Class_AB">
+<a aria-label=" (新しいタブで開く)" href="https://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_071.html#ad-image-0" rel="noreferrer noopener" target="_blank">https://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_071.html#ad-image-0</a></div>
+<p>外務省によるオーストラリア渡航に関する情報ページとなります。<br />渡航時における注意事項などを案内しておりますので、渡航前にご確認いただくことをお勧めします。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="australia-etas.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

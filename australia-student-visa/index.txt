@@ -1,0 +1,164 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","australia-student-visa",""],"q":"","i":false,"f":[[["",{"children":["australia-student-visa",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T487b,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 学生ビザとは</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>学生ビザとは</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading"> 学生ビザとは </h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#studentvisa1">学生ビザ(Subclass500)</a></li>
+<li><a className="ez-toc-link" href="#studentvisa2">学生ビザ申請時の必須条件と注意事項</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#studentvisa3">必須条件</a></li>
+<li><a className="ez-toc-link" href="#studentvisa4">オーストラリア国内での注意事項</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#studentvisa5">必要書類と申請のタイミング</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#studentvisa6">必要書類</a></li>
+<li><a className="ez-toc-link" href="#studentvisa7">申請のタイミング</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#studentvisa8">申請方法</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#studentvisa9">学生ビザ（Subclass500）申請ページ</a></li>
+<li><a className="ez-toc-link" href="#studentvisa10">1. ImmiAccountにログイン</a></li>
+<li><a className="ez-toc-link" href="#studentvisa11">2. 申請するビザの選択</a></li>
+<li><a className="ez-toc-link" href="#studentvisa12">3. 申請書記入</a></li>
+<li><a className="ez-toc-link" href="#studentvisa13">4. 必要書類の提出</a></li>
+<li><a className="ez-toc-link" href="#studentvisa14">5. 申請書の提出</a></li>
+<li><a className="ez-toc-link" href="#studentvisa15">6. 申請料金の支払い</a></li>
+<li><a className="ez-toc-link" href="#studentvisa16">7. 審査開始</a></li>
+<li><a className="ez-toc-link" href="#studentvisa17">8. 追加書類の提出と審査結果</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#studentvisa18">留学中の就労について</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#studentvisa19">学生ビザ保持者の就労条件</a></li>
+<li><a className="ez-toc-link" href="#studentvisa20">学生ビザ申請者に同行している扶養家族</a></li>
+</ul></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="学生ビザとは" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p15_01.webp" type="image/webp" width="640"/>
+<img alt="学生ビザとは" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p15_01.jpg" width="640"/>
+</picture>
+<p>オーストラリアには入国を希望する外国籍の方に様々な種類のビザが制定されており、Subclass(サブクラス)により細かく分類分けされております。観光または短期商用を滞在目的とした90日以内の渡航の場合はSubclass601のETAS(イータス)申請を推奨しています。<br />乗り継ぎの為にオーストラリアへ短時間の入国を希望する渡航者向けのトランジットビザ(Subclass771)、観光・就労・4か月間までの就学ができるワーキングホリデービザ(Subclass417)などが代表的なオーストラリアビザですが、その中でも就学について特化しているのが学生ビザ(Subclass500)です。オーストラリアの学生ビザは留学先の教育機関によりビザが異なりSubclass570～576までに細分化されていましたが、2016年7月1日よりSubclass500に統一されました。 </p>
+<h2 className="wp-block-heading" id="studentvisa1">学生ビザ(Subclass500)</h2>
+<p>学生ビザとは、オーストラリアの教育機関に3か月以上の留学を目的とした場合に必要となるビザです。<br />申請対象となる留学先は大学・語学学校・専門学校・TAFE(Technical and Further Education)などのオーストラリア政府認定校(CRICOS登録校)に限られます。TAFE(Technical and Further Education)とは、州立の職業訓練学校のことを言います。<br />オーストラリア国内には100以上のTAFEがあり、様々な職業に関する専門的な知識や技術を学ぶことができます。なお、オーストラリアの学生ビザは留学中にオーストラリア国内での就労が許可されており、それと合わせて扶養家族の同行と就労が認められています。 </p>
+<h2 className="wp-block-heading" id="studentvisa2">学生ビザ申請時の必須条件と注意事項</h2>
+<p> 学生ビザを利用する場合は以下の必須条件と注意事項を遵守する必要があります。 </p>
+<h3 className="wp-block-heading" id="studentvisa3">必須条件</h3>
+<ul className="wp-block-list"><li>留学先の教育機関がオーストラリア政府認定校(CRICOS登録校)であること</li><li>オーストラリア政府認定校のコースを週25時間以上受講すること</li><li>健康であること(健康診断書の提出を求められるケース有)</li><li>留学にあたり十分な資金があること</li><li>申請時の年齢が6歳以上であること</li><li>申請者が18歳未満の場合は保護者も同行するか適切な児童福祉を手配しなければいけません (両親または両親が推薦した保護者、21歳以上の親類など)</li></ul>
+<p></p>
+<div className="Class_AB">
+  18歳未満の児童福祉の手配について詳細は<a aria-label=" (新しいタブで開く)" href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/welfare-arrangements-students-under-18" rel="noreferrer noopener" target="_blank">オーストラリア政府内務省公式サイト</a>よりご確認ください。 </div>
+<div className="Class_AB">
+  同行する保護者は学生保護者ビザと呼ばれるStudent Guardian visa(Subclass590)を取得する必要があります。<br />学生保護者ビザについての詳細は<a aria-label=" (新しいタブで開く)" href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-590" rel="noreferrer noopener" target="_blank">オーストラリア政府内務省公式サイト</a>より確認してください。</div>
+<h3 className="wp-block-heading" id="studentvisa4">オーストラリア国内での注意事項</h3>
+<ul className="wp-block-list"><li><strong>学生ビザ取得者がオーストラリアに到着した際は1週間以内に進学先の学校に連絡すること</strong></li><li><strong>オーストラリアの法律を理解し、それを遵守すること</strong></li><li><strong>各学期の出席率が80％以上であること</strong></li></ul>
+<p>上記の注意事項を順守し認定校のコースを完了した際には、その後も勉強や仕事を目的とした滞在が可能となる「卒業ビザ(サブクラス485)」の申請資格が与えられるため、滞在期間の延長が可能です。 所定の出席率を下回った場合や違反行為が発覚した場合は留学先の教育機関から移民局に通達され、学生ビザの破棄または帰国を促される場合がありますのでご注意ください。 </p>
+<h2 className="wp-block-heading" id="studentvisa5">必要書類と申請のタイミング</h2>
+<h3 className="wp-block-heading" id="studentvisa6">必要書類</h3>
+<ol className="wp-block-list"><li><strong>パスポート：　留学期間を含み十分な有効期限があるもの</strong></li><li><strong>CoE(Confirmation of Enrolment)：　留学先の教育機関より付与される入学許可番号</strong></li><li><strong>GTE(Genuine Temporary Entrant)：　学歴や職歴などを記載した書類</strong></li><li><strong>OSHC(Overseas Student Health Cover)：　海外留学生健康保険</strong></li><li><strong>オーストラリア及び留学先の学校を選択した理由</strong></li><li><strong>希望留学先のコースと学歴や職歴の関わりまたは将来設計との関係性</strong></li><li><strong>クレジットカード</strong></li><li><strong>オーストラリアでの生活設計</strong></li></ol>
+<p> GTE(Genuine Temporary Entrant)とは、オーストラリアに短期留学する理由についての書類です。<br />同行する扶養家族がいる場合は、同行する家族のパスポートなどの準備も同時に行いましょう。 </p>
+<h3 className="wp-block-heading" id="studentvisa7">申請のタイミング</h3>
+<p>申請時に日本とオーストラリアのどちらに滞在しているかによって申請可能な時期が異なりますのでご注意ください。  </p>
+<ul className="wp-block-list"><li><strong>日本にいる場合は、コースが開始される4ヵ月前から申請可能</strong></li><li><strong>オーストラリアにいる場合は、コースが開始される3ヵ月前から申請可能</strong></li></ul>
+<p>オーストラリア内務省では遅くともコースが始まる6週間前のビザ申請を推奨しております。 提出書類は全て英語で準備する必要がありますので、書類手配の時間を含め留学が確定した際は早めにビザ申請手続きに取り掛かると良いでしょう。申請内容に誤りがあった場合や、留学先の教育機関、移民局などの都合によりビザ取得までに長時間を要することもありますので、期間に余裕をもって申請を行うようにしましょう。 </p>
+<picture>
+<source alt="申請方法 " className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p15_02.webp" type="image/webp" width="640"/>
+<img alt="申請方法 " className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p15_02.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="studentvisa8">申請方法 </h2>
+<p>オーストラリア政府移民局・市民権省のウェブサイトよりオンラインで申請することができます。<br />すべて英文での質問、回答となりますので間違えないように注意しましょう。</p>
+<h3 className="wp-block-heading" id="studentvisa9">学生ビザ（Subclass500）申請ページ</h3>
+<div className="Class_AB">
+<a aria-label=" (新しいタブで開く)" href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500" rel="noreferrer noopener" target="_blank">https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500</a></div>
+<h3 className="wp-block-heading" id="studentvisa10">1. ImmiAccountにログイン</h3>
+<div className="Class_AB">
+<a aria-label=" (新しいタブで開く)" href="https://online.immi.gov.au/lusc/login" rel="noreferrer noopener" target="_blank">https://online.immi.gov.au/lusc/login</a></div>
+<p>オーストラリア移民局のウェブサイトにログインする為ImmiAccountというオンラインアカウントを作成する必要があります。<br />以前オーストラリアのビザを取得したことがある方は既存のアカウントにログインしてください。</p>
+<h3 className="wp-block-heading" id="studentvisa11">2. 申請するビザの選択</h3>
+<p> 作成したImmiAccountにてログインを行い、「My applications summary」ページの「New Application」より新規ビザの申請手続きができます。申請が可能なビザの項目より「Student(学生)」を選択すると以下の選択肢が追加で表示されます。 </p>
+<ul className="wp-block-list"><li><strong>Student Guardian Visa (590)： 学生保護者ビザ</strong></li><li><strong>Student Visa (500)： 新規作成の学生ビザ</strong></li><li><strong>Student Visa (Subsequent Entrant) (500)： 継続申請の学生ビザ</strong></li></ul>
+<p>学生ビザを新規作成しますのでStudent Visa (500)を選択してください。 </p>
+<h3 className="wp-block-heading" id="studentvisa12">3. 申請書記入</h3>
+<p>Current location(申請者の現在地)の項目から始まり、入力ページは全25ページに至ります。<br />CoEやGTEなどの入力項目もありますので必要書類を手元に置きながら作業を進めましょう。特にパスポート情報などに入力間違いがあるとオーストラリア行きの飛行機への搭乗を拒否される場合がありますのでご注意ください。<br />申請手続きは画面下部にある「Save(保存する)」より保存しながら進めることができます。作業を再開させる場合はImmiAccountにログインしアプリケーションリストから保存した申請書を「Edit(編集する)」より開くことができます。同行する扶養家族がいる場合はこちらで届け出る必要があります。 </p>
+<h3 className="wp-block-heading" id="studentvisa13">4. 必要書類の提出</h3>
+<ul className="wp-block-list"><li>パスポート</li><li>OSHC</li><li>GTE</li></ul>
+<p> などの必要書類を画面の指示に従いPDFに変換して添付しましょう。 </p>
+<h3 className="wp-block-heading" id="studentvisa14">5. 申請書の提出</h3>
+<p> 全ての添付書類を提出すると、「Submit Application(申請書を提出する)」のページに移行しますので「Submit Now(今すぐ提出する)」より手続きを完了しましょう。 </p>
+<h3 className="wp-block-heading" id="studentvisa15">6. 申請料金の支払い</h3>
+<p>申請書の提出が完了すると申請料金の支払い画面に移ります。学生ビザの申請料金は620AUD(約4万5千円)になります。クレジットカードにて支払いを完了しましょう。 </p>
+<h3 className="wp-block-heading" id="studentvisa16">7. 審査開始</h3>
+<p> 全ての手続きが完了するとビザの審査が開始されます。<br />移民局より申請を受け付けた旨のメールが届きますので合わせて確認しましょう。 </p>
+<h3 className="wp-block-heading" id="studentvisa17">8. 追加書類の提出と審査結果</h3>
+<p>申請内容によっては追加書類の提出を求められる場合があります。その際は追加書類提出の通知メールが移民局から届きますのでご確認をお願いします。<br />書類の提出には期限が設けられていますので、移民局からの通知にある指示に従い速やかに手配を済ませましょう。<br />ビザの審査結果についても移民局より通知メールが届きます。迷惑メールとして受信されない場合や何らかの理由によりメールが届かない場合も報告されておりますので、定期的にImmiAccountより審査状況を確認することをお勧めします。 </p>
+<h2 className="wp-block-heading" id="studentvisa18">留学中の就労について</h2>
+<p> オーストラリアの学生ビザは留学中の就労が認められている稀なビザです。<br />学生ビザ保持者と、それに同行する扶養家族とでは就労条件が異なりますのでご注意ください。 </p>
+<h3 className="wp-block-heading" id="studentvisa19">学生ビザ保持者の就労条件</h3>
+<p> コース期間中は2週間で40時間(就労開始日に関わらず月曜日から換算して2週間)までの就労が認められております。<br />学校が認めた休暇期間中は時間に制限なく就労が可能となっていますが、コース開始前の就労は認められておりませんのでご注意ください。 </p>
+<h3 className="wp-block-heading" id="studentvisa20">学生ビザ申請者に同行している扶養家族</h3>
+<p> 2週間で40時間までの就労が認められております。扶養家族の場合は学生ビザ保持者本人のように休暇期間に無制限で就労することは認められておりませんのでご注意ください。大学院の修士課程(マスター・コースまたはリサーチ)に在学、Defense(オーストラリア国防省)またはAus Aid(オーストラリア国際開発庁)の支援を受けて修士号か博士号に在学している学生ビザ保持者の扶養家族の方に限り、就労に関しての時間制限がありません。<br />ただし、それに該当する扶養家族であってもコース開始前の就労は認められておりませんのでご注意ください。 </p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="australia-etas.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"学生ビザとは | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

@@ -1,0 +1,157 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T4daf,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダビザ申請センター・カナダ大使館について</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダビザ申請センター・カナダ大使館について</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">カナダビザ申請センター・カナダ大使館について</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1">
+<li><a className="ez-toc-link" href="#embassy1">ビザ申請センターについて</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#embassy2">バイオメトリクス登録とは</a></li>
+<li><a className="ez-toc-link" href="#embassy3">カナダビザ申請センター</a></li>
+<li><a className="ez-toc-link" href="#embassy4">合同会社VFSサービシズ・ジャパン(東京)</a></li>
+<li><a className="ez-toc-link" href="#embassy5">合同会社VFSサービシズ・ジャパン(大阪)</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#embassy6">カナダのビザ、eTA(イータ)に関する情報について</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#embassy7">IRCCへの問い合わせ方法</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#embassy8">在日カナダ大使館・領事館</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#embassy9">在日カナダ大使館(東京)</a></li>
+<li><a className="ez-toc-link" href="#embassy10">カナダ領事館(名古屋)</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#embassy11">その他の在日カナダ公館</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#embassy12">在札幌カナダ名誉領事館</a></li>
+<li><a className="ez-toc-link" href="#embassy13">在大阪カナダ名誉領事館</a></li>
+<li><a className="ez-toc-link" href="#embassy14">在広島カナダ名誉領事館</a></li>
+<li><a className="ez-toc-link" href="#embassy15">在福岡カナダ名誉領事館</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="カナダビザ申請センター・カナダ大使館について" className="img_big m20-t m20-b" height="384" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p31_01.webp" type="image/webp" width="640"/>
+<img alt="カナダビザ申請センター・カナダ大使館について" className="img_big m20-t m20-b" decoding="async" height="384" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p31_01.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="embassy1">ビザ申請センターについて</h2>
+<p>カナダへ渡航する日本国籍者を含む外国人は、事前にビザを取得する必要があります。ビザの取得が免除される条件を満たしている対象者は電子渡航認証システム<a className="link-no-color" href="http://xs640823.xsrv.jp/eta/">eTA(イータ)申請</a>の取得のみで渡航することも可能ですが、eTA(イータ)申請の取得条件に該当しない方またはeTA(イータ)申請の取得を拒否された方はカナダへの渡航内容に沿ったビザを取得する必要があります。<br /> 2012年4月末日にて在日カナダ大使館における査証(ビザ)部が閉鎖されたことにより、日本国内のカナダビザに関する業務は在フィリピンカナダ大使館(マニラ)へと移行されました。<br />日本におけるカナダビザに関する業務は民間のVFSグループに委託されておりカナダビザ申請センター(CVAC)として運営を行っております。<br />ビザ申請センターでは就学許可証(学生ビザ)、就労許可証(就労ビザ)など一時滞在で必要となるビザとカナダ永住者渡航証(トラベルドキュメント)の申請受付、バイオメトリクスの登録などビザの基本的な情報提供が中心となっています。<br />ビザ申請に関するアドバイス等は一切受け付けておりませんのでご了承ください。<br />なお、カナダの各種ビザはオンラインから申請が可能です。ビザ申請センターへ出向かなくても申請手続をすることが可能ですが、バイオメトリクスの登録については必ずビザ申請センターにて行う必要があります。</p>
+<h3 className="wp-block-heading" id="embassy2">バイオメトリクス登録とは</h3>
+<p>カナダのビザを取得するにはバイオメトリクス(個人識別情報)の登録がほとんどのケースで必要となります。<br />就学許可証、就労許可証、訪問者ビザの申請者は10年に一度、永住権申請者は申請の都度バイオメトリクスを提供しなければなりません。<br />日本ではカナダビザ申請センター(東京都港区)にて顔写真撮影と指紋採取が行われ、個人識別情報としてカナダ政府へ提供されます。</p>
+<h3 className="wp-block-heading" id="embassy3">カナダビザ申請センター</h3>
+<div className="Class_AB">
+<a href="https://www.vfsglobal.ca/canada/japan/japanese/index.html" target="_blank">https://www.vfsglobal.ca/canada/japan/japanese/index.html</a></div>
+<h4 className="wp-block-heading">お知らせ</h4>
+<p>カナダビザ申請センターは新型コロナウイルスの感染対策として窓口を閉鎖していましたが、2020年6月8日より東京・大阪ともに業務を再開しました。<br />同センターは、当面のあいだバイオメトリクスの登録やパスポート返却等のみの対応となります。<br />詳細はカナダビザ申請センターの「<a href="https://visa.vfsglobal.com/jpn/ja/can/" rel="noreferrer noopener" target="_blank">新型コロナウイルスによる営業時間など変更のお知らせ</a>」をご確認ください。</p>
+<h3 className="wp-block-heading" id="embassy4">合同会社VFSサービシズ・ジャパン(東京)</h3>
+<figure className="wp-block-table"><table><tbody><tr><td> 所在地 </td><td> 〒105-0014 東京都港区芝1-4-3 SANKI芝金杉橋ビル4階 </td></tr><tr><td> 電話 </td><td> 0120-961-673 </td></tr><tr><td> Eメール </td><td> <a href="mailto:info.cajp@vfshelpline.com">info.cajp@vfshelpline.com</a> </td></tr><tr><td> 営業時間 </td><td> 9:00～17:00 </td></tr><tr><td> 営業日 </td><td> 月曜日～金曜日 (祝祭日をのぞく) </td></tr></tbody></table></figure>
+<div aria-hidden="true" className="wp-block-spacer" style="height:20px"></div>
+
+<h3 className="wp-block-heading" id="embassy5">合同会社VFSサービシズ・ジャパン(大阪)</h3>
+<figure className="wp-block-table"><table><tbody><tr><td> 所在地 </td><td>〒542-0081 大阪府大阪市中央区南船場1-3-5 リプロ南船場ビル10F</td></tr><tr><td> 電話 </td><td>0120-961-673</td></tr><tr><td> Eメール </td><td> <a href="mailto:info.cajp@vfshelpline.com">info.cajp@vfshelpline.com</a></td></tr><tr><td> 営業時間 </td><td> 9:00～17:00 </td></tr><tr><td> 営業日 </td><td> 月曜日～金曜日 (祝祭日をのぞく) </td></tr></tbody></table></figure>
+<div aria-hidden="true" className="wp-block-spacer" style="height:20px"></div>
+
+<h4 className="wp-block-heading">休館日一覧 (2022年)</h4>
+<p>ご訪問の際には事前に公式サイトまたは電話にてご確認いただくことを推奨いたします。</p>
+<ul className="wp-block-list"><li>1月3日(月)　お正月休み</li><li>1月10日(月)　成人の日</li><li>2月11日(金)　建国記念の日</li><li>2月23日(水)　天皇誕生日</li><li>3月21日(月)　春分の日</li><li>4月29日(金)　昭和の日</li><li>5月3日(火)　憲法記念日</li><li>5月4日(水)　みどりの日</li><li>5月5日(木)　こどもの日</li><li>7月18日(月)　海の日</li><li>8月11日(木)　山の日</li><li>9月19日(月)　敬老の日</li><li>9月23日(金)　秋分の日</li><li>10月10日(月)　スポーツの日</li><li>11月3日(木)　文化の日</li><li>11月23日(水)　勤労感謝の日</li></ul>
+<p></p>
+<div className="Class_AB">
+<a href="https://assets.ctfassets.net/xxg4p8gt3sg6/1lFpfWD8qhmp8NzSx8jrQe/95926edf90ef3bfaf8d8c31d8ddf85ff/Public_Holiday-Japan-2022-JA.pdf" target="_blank">カナダビザ申請センター　休館日一覧</a></div>
+<h2 className="wp-block-heading" id="embassy6">カナダのビザ、eTA(イータ)に関する情報について</h2>
+<p>カナダの各種ビザに関する業務を委託されているビザ申請センターでは、ビザ取得の際に必要となる基本的な情報を提供しております。<br />ビザ申請センターはビザに関する窓口となっており、eTA(イータ)に関する事柄は管轄外となりますのでご了承ください。<br />カナダのビザや電子渡航認証eTA(イータ)の詳しい情報はIRCC(カナダ移民・難民・市民権省)のウェブサイトに掲載されておりますのでご覧いただくことをお勧めいたします。</p>
+<div className="Class_AB">
+<a href="https://www.canada.ca/en/services/immigration-citizenship.html" target="_blank">IRCCウェブサイト</a></div>
+<h3 className="wp-block-heading" id="embassy7">IRCCへの問い合わせ方法</h3>
+<p>eTA(イータ)やビザについてのご質問は以下のページより問い合わせが可能です。<br />問い合わせの種類を選択フォームから選び、氏名、生年月日、出生国、問い合わせ内容をご入力ください。<br />対応言語は英語、フランス語のみとなります。IRCCからの返答は数日から数週間を要する場合がありますのでご了承ください。</p>
+<div className="Class_AB">
+<a href="https://secure.cic.gc.ca/enquiries-renseignements/canada-case-cas-eng.aspx" target="_blank">IRCC問い合わせフォーム</a></div>
+<h2 className="wp-block-heading" id="embassy8">在日カナダ大使館・領事館</h2>
+<h3 className="wp-block-heading" id="embassy9">在日カナダ大使館(東京)</h3>
+<p>カナダ大使館は商務部、広報部、領事部、政治経済部、防衛関係部、総務部等からなり、日本とカナダの関係推進に携わっています。</p>
+<figure className="wp-block-table"><table><tbody><tr><td>所在地 </td><td>〒107-8503 東京都港区赤坂7-3-38 </td></tr><tr><td>電話 </td><td>03-5412-6200(日本国内から)　+81-3-5412-6200(海外から) </td></tr><tr><td>開館時間</td><td>9:00～16:00</td></tr><tr><td>開館日 </td><td>月曜日～金曜日 </td></tr><tr><td>閉館日 </td><td>土日、日本およびカナダの休日の一部</td></tr><tr><td>お知らせ</td><td>現在、新型コロナウイルス感染予防対策としてカナダ大使館・領事館を含めカナダ政府管轄オフィスでは窓口の対応を制限しています。<br />緊急な認証サービスを必要とされる方は詳細を明記しtokyo-consul@international.gc.caまでご連絡ください。</td></tr></tbody></table></figure>
+<p>4階のレセプション・展示スペース及び地下2階のE・H・ノーマン図書館、オスカー・ピーターソンシアター、高円宮記念ギャラリーは開館時に一般公開されています。入館には写真付き身分証明書が必要となります。</p>
+<div className="Class_AB">
+<a href="https://www.canadainternational.gc.ca/japan-japon/index.aspx?lang=jpn" target="_blank">https://www.canadainternational.gc.ca/japan-japon/index.aspx?lang=jpn</a></div>
+
+<div className="wp-block-group"><div className="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<div className="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div className="wp-block-group__inner-container"></div></div>
+</div></div>
+<h3 className="wp-block-heading" id="embassy10">カナダ領事館(名古屋)</h3>
+<p>2007年に大阪、福岡の領事館が閉鎖されたことにより、唯一の駐日カナダ領事館です。<br />ビザ、観光、税関および通関の質問は一切受け付けておりませんのでご注意ください。</p>
+<figure className="wp-block-table"><table><tbody><tr><td>所在地 </td><td>〒460-0002 愛知県名古屋市中区丸の内3-17-6ナカトウ丸の内ビル６階 </td></tr><tr><td>電話 </td><td>052-972-0450(日本国内から)　+81-52-972-0450(海外から) </td></tr><tr><td>管轄区域</td><td>東海および関西 </td></tr><tr><td>開館時間</td><td>9:00～12:30、13:30～17:30</td></tr><tr><td>開館日 </td><td>月曜日～金曜日 </td></tr><tr><td>閉館日 </td><td>土日、日本およびカナダの休日の一部 </td></tr><tr><td>お知らせ</td><td>現在、新型コロナウイルス感染予防対策としてカナダ大使館・領事館を含めカナダ政府管轄オフィスでは窓口の対応を制限しています。<br />緊急な認証サービスを必要とされる方は詳細を明記しtokyo-consul@international.gc.caまでご連絡ください。</td></tr></tbody></table></figure>
+<p></p>
+
+<h4 className="wp-block-heading">カナダ大使館 休館日(2022年度)</h4>
+<p>大使館は日本およびカナダの休日を休館日としています。<br />ご訪問の際には事前に公式サイトまたは電話にてご確認いただくことを推奨いたします。 <br /><br /><strong>【休館日一覧】</strong></p>
+<ul className="wp-block-list"><li>1月3日(月) 　お正月</li><li>2月11日(金) 　建国記念の日</li><li>3月21日(月)　春分の日</li><li>4月15日(金)　グッドフライデー</li><li>4月18日(月)　イースターマンデー</li><li>5月3日(火)　憲法記念日</li><li>5月4日(水)　緑の日</li><li>7月4日(月) 　カナダデー ※振替</li><li>9月30日(金)　真実と和解の日</li><li>10月10日(月)　体育の日/感謝祭</li><li>11月11日(金)　リメンバランスデー</li><li>12月26日(月)　クリスマス ※振替</li><li>12月27日(火) 　ボクシングデー ※振替</li><li>12月30日(金) 　大晦日 ※振替</li></ul>
+<p></p>
+<div className="Class_AB">
+<a href="https://www.canadainternational.gc.ca/japan-japon/offices-bureaux/dates-closed-jour-fermeture.aspx?lang=jpn" target="_blank">カナダ大使館　休館日</a></div>
+<h2 className="wp-block-heading" id="embassy11">その他の在日カナダ公館</h2>
+<p>上記の他にカナダ政府名誉領事館が大阪、札幌、福岡、広島の計4か所あり、領事業務の一部を行っています。 </p>
+<h4 className="wp-block-heading">お知らせ</h4>
+<p>現在、新型コロナウイルス感染予防対策としてカナダ大使館・領事館を含めカナダ政府管轄オフィスでは窓口の対応を制限しています。<br />緊急な認証サービスを必要とされる方は詳細を明記しtokyo-consul@international.gc.caまでご連絡ください。</p>
+<h3 className="wp-block-heading" id="embassy12">在札幌カナダ名誉領事館 </h3>
+<figure className="wp-block-table"><table><tbody><tr><td>所在地 </td><td>〒064-0820  札幌市中央区大通西26丁目1番3 </td></tr><tr><td>電話 </td><td>011-643-2520 </td></tr><tr><td>管轄区域 </td><td>北海道 </td></tr><tr><td>開館時間</td><td>13:30～17:00</td></tr><tr><td>開館日</td><td>火曜日、木曜日</td></tr></tbody></table></figure>
+<h3 className="wp-block-heading" id="embassy13">在大阪カナダ名誉領事館</h3>
+<figure className="wp-block-table"><table><tbody><tr><td>所在地 </td><td>〒559-8550 大阪市住之江区平林南1-8-19　津田産業（株）内 </td></tr><tr><td>電話 </td><td> 06-6681-0250 </td></tr><tr><td>管轄区域 </td><td>大阪 兵庫 京都 奈良 滋賀 和歌山 岡山 </td></tr><tr><td>開館時間</td><td>13:30～17:00</td></tr><tr><td>開館日</td><td>火曜日、木曜日</td></tr></tbody></table></figure>
+<h3 className="wp-block-heading" id="embassy14">在広島カナダ名誉領事館</h3>
+<figure className="wp-block-table"><table><tbody><tr><td>所在地 </td><td>〒730-8701 広島市中区小町4-33　中国電力（株）内 </td></tr><tr><td>電話 </td><td>082-246-0057 </td></tr><tr><td>管轄地域 </td><td>広島 島根 鳥取 山口 </td></tr><tr><td>開館時間</td><td>13:30～17:00</td></tr><tr><td>開館日</td><td>火曜日、木曜日</td></tr></tbody></table></figure>
+<h3 className="wp-block-heading" id="embassy15">在福岡カナダ名誉領事館</h3>
+<figure className="wp-block-table"><table><tbody><tr><td>所在地 </td><td>〒810-8720 福岡県福岡市中央区渡辺通2-1-82　九州電力（株）内 </td></tr><tr><td>電話 </td><td>092-726-6348 </td></tr><tr><td>管轄地域 </td><td>九州 沖縄 </td></tr><tr><td>開館時間</td><td>14:00～17:30</td></tr><tr><td>開館日</td><td>火曜日、木曜日</td></tr></tbody></table></figure>
+<p>また、通商事務所が3か所あり、カナダとの貿易、通商、科学技術の交流などを担っています。</p>
+<h4 className="wp-block-heading">カナダ政府 札幌通商事務所</h4>
+<figure className="wp-block-table"><table><tbody><tr><td> 所在地 </td><td>〒060-0004 札幌市中央区北4条西4丁目日興ビル5F </td></tr><tr><td> 電話 </td><td>011-281-6565 </td></tr></tbody></table></figure>
+<h4 className="wp-block-heading">カナダ政府 大阪通商事務所</h4>
+<figure className="wp-block-table"><table><tbody><tr><td> 所在地 </td><td>〒541-0059 大阪市中央区博労町 3-5-1御堂筋グランタワー19階</td></tr><tr><td> 電話 </td><td>06-6252-0120 </td></tr></tbody></table></figure>
+<h4 className="wp-block-heading">カナダ政府　西日本通商事務所</h4>
+<figure className="wp-block-table"><table><tbody><tr><td> 所在地 </td><td>〒802-0001 北九州市小倉北区浅野3丁目8-1AIMビル8F</td></tr><tr><td> 電話 </td><td>093-533-4300 </td></tr></tbody></table></figure>
+<p></p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

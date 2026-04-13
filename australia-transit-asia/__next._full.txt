@@ -1,0 +1,359 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","australia-transit-asia",""],"q":"","i":false,"f":[[["",{"children":["australia-transit-asia",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T42cb,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ アジア諸国を経由してオーストラリア渡航をする方へ</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>アジア諸国を経由してオーストラリア渡航をする方へ</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading"> アジア諸国を経由してオーストラリア渡航をする方へ </h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#viaasia1">人気の国々を経由してのオーストラリア渡航</a></li>
+<li><a className="ez-toc-link" href="#viaasia2">アジア諸国を経由して渡航する場合に必要なビザ</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#viaasia3">シンガポール共和国</a></li>
+<li><a className="ez-toc-link" href="#viaasia4">インドネシア共和国</a></li>
+<li><a className="ez-toc-link" href="#viaasia5">マレーシア</a></li>
+<li><a className="ez-toc-link" href="#viaasia6">フィリピン共和国</a></li>
+<li><a className="ez-toc-link" href="#viaasia7">パプアニューギニア独立国</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#viaasia8">オーストラリア渡航にビザは必要？</a></li>
+<li><a className="ez-toc-link" href="#viaasia9">ETAS(イータス)申請とは</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#viaasia10">ETAS(イータス)申請の有効期限</a></li>
+</ul></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="人気の国々を経由してのオーストラリア渡航" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p08_01.webp" type="image/webp" width="640"/>
+<img alt="人気の国々を経由してのオーストラリア渡航" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p08_01.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="viaasia1">人気の国々を経由してのオーストラリア渡航</h2>
+<p>成田国際空港と関西国際空港から発着しているオーストラリアへの直行便は約9時間半となっており、季節を問わず多くの利用者がいます。<br />フライト時間が長いことから2国間に位置しているアジア諸国を経由して渡航するルートも多く利用されております。<br />このページではオーストラリアへ渡航する際の代表的なルートをご紹介します。</p>
+<p>経由地で乗り継ぐには以下の3つの方法があります。</p>
+<figure className="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td className="td-250">トランジット<br />(乗り継ぎ) </td>
+<td>飛行機の燃料調達などの目的で1～2時間の寄港のあと再度同じ飛行機に搭乗すること</td>
+</tr>
+<tr>
+<td>トランスファー<br />(乗り換え)</td>
+<td>途中の国で寄港し飛行機を乗り換えること(トランジットと同義語として使われる場合もあります)</td>
+</tr>
+<tr>
+<td>ストップオーバー/レイオーバー<br />(短期滞在)</td>
+<td>経由地で24時間以上の滞在をすること</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p>最終目的地以外の国で乗り継ぎや乗り換え、短期滞在などを行う場合は短時間の滞在でも入国したことになりますので、その国がビザの取得を必要とするのか確認しておきましょう。</p>
+<h2 className="wp-block-heading" id="viaasia2">アジア諸国を経由して渡航する場合に必要なビザ</h2>
+<p>日本からオーストラリアへの渡航ルートの間には、韓国、香港、シンガポール、インドネシア、マレーシア、フィリピン、パプアニューギニアなどのアジア諸国が位置しています。他国籍者が入国する場合はビザ(査証)の取得を義務付けている国もありますが、定められた条件内であればビザの取得を免除されることもあります。以下より各国のビザ情報をご確認ください。</p>
+<h3 className="wp-block-heading" id="viaasia3">シンガポール共和国</h3>
+<p>日本国籍者が渡航する場合、以下の条件を満たす短期滞在者に限りビザの取得が免除されます。</p>
+<figure className="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td className="td-220"> 滞在目的 </td>
+<td> 観光、商用、外交または公用目的 </td>
+</tr>
+<tr>
+<td> 滞在期間 </td>
+<td> 30日以内 </td>
+</tr>
+<tr>
+<td> パスポート有効期限 </td>
+<td> 入国時に6か月以上の残存期間があること </td>
+</tr>
+<tr>
+<td> パスポートの未使用査証欄 </td>
+<td> 1ページ以上 </td>
+</tr>
+<tr>
+<td>航空券</td>
+<td>シンガポールから出国する為の航空券を所持していること</td>
+</tr>
+<tr><td>渡航資金</td>
+<td>滞在に必要な資金を十分所持していること</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p>また、次の訪問国でビザの取得が必要な場合すでに所持していることが必要となります。</p>
+<h3 className="wp-block-heading" id="viaasia4">インドネシア共和国</h3>
+<p>これまで入国にはビザが必要でしたが、2015年6月12日より日本を含む169か国に対して観光を渡航目的として滞在期間が30日以内の場合に限り、インドネシア入国査証の取得が免除されました。以下の条件を満たすことでビザの取得が免除されます。</p>
+<figure className="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td className="td-220"> 滞在目的 </td>
+<td> 観光、親族訪問、社会訪問、芸術・文化活動、国際展示会参加、政府用務、講義・セミナーなどの参加、インドネシアにある本社または代理店の会議への出席、他国への乗り継ぎ </td>
+</tr>
+<tr>
+<td> 滞在期間 </td>
+<td> 30日以内 </td>
+</tr>
+<tr>
+<td> パスポートの有効期限 </td>
+<td> 入国時に6か月以上の残存期間があること </td>
+</tr><tr><td> パスポートの未使用査証欄 </td>
+<td>連続した査証欄空白ページが1ページ以上</td>
+</tr>
+<tr>
+<td>航空券</td>
+<td>インドネシアから出国する為の航空券を所持していること</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<h3 className="wp-block-heading" id="viaasia5">マレーシア</h3>
+<p>日本のパスポートを利用した渡航の場合、以下の条件を満たすことでビザの取得が免除されます。</p>
+<figure className="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td className="td-220"> 滞在目的 </td>
+<td> 観光、業務(商談・会議・視察)、外交または公用 </td>
+</tr>
+<tr>
+<td> 滞在期間 </td>
+<td> 90日以内 </td>
+</tr>
+<tr>
+<td> パスポートの有効期限 </td>
+<td> 入国時に6か月以上の残存期間があること </td>
+</tr>
+<tr>
+<td> パスポートの未使用査証欄 </td>
+<td> 連続2ページ以上 </td>
+</tr>
+<tr>
+<td>航空券</td>
+<td>マレーシアから出国する為の航空券を所持していること</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<h3 className="wp-block-heading" id="viaasia6">フィリピン共和国</h3>
+<p>入国には基本的にビザが必要となりますが、以下の条件を満たすことでビザの取得が免除されます。</p>
+<figure className="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td className="td-220"> 渡航目的 </td>
+<td> 観光、療養、企業間でのミーティングや会議への出席、ワークショップやセミナーへの参加 </td>
+</tr>
+<tr>
+<td> 滞在期間 </td>
+<td> 30日以内 </td>
+</tr>
+<tr>
+<td> パスポートの有効期限 </td>
+<td>滞在期間プラス6か月以上</td>
+</tr>
+<tr>
+<td> パスポートの未使用査証欄 </td>
+<td> 見開き2ページ以上 </td>
+</tr>
+<tr>
+<td>航空券</td>
+<td>フィリピンから出国する為の航空券を所持していること</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<h3 className="wp-block-heading" id="viaasia7">パプアニューギニア独立国</h3>
+<p>渡航目的に合ったビザを取得する必要があります。事前に在日パプアニューギニア大使館で取得または現地の空港で取得する方法があります。</p>
+<h4 className="wp-block-heading">観光ビザの取得条件</h4>
+<figure className="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td className="td-220"> 渡航目的 </td>
+<td> 観光 </td>
+</tr>
+<tr>
+<td> 滞在期間 </td>
+<td> 60日以内 </td>
+</tr>
+<tr>
+<td> パスポートの有効期限 </td>
+<td> 入国時に6か月以上の残存期間があること </td>
+</tr>
+<tr>
+<td> パスポートの未使用査証欄 </td>
+<td> 4ページ以上 </td>
+</tr>
+</tbody>
+</table>
+</figure>
+<h4 className="wp-block-heading">短期商用ビザの取得条件</h4>
+<figure className="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td className="td-220"> 渡航目的 </td>
+<td> 短期間の商用(就労禁止) </td>
+</tr>
+<tr>
+<td> 滞在期間 </td>
+<td> 30日以内 </td>
+</tr>
+<tr>
+<td> 必要書類 </td>
+<td> 日本の在籍会社作成の会社推薦状(英文) </td>
+</tr>
+<tr>
+<td> パスポートの有効期限 </td>
+<td> 入国時に6か月以上の残存期間があること </td>
+</tr>
+<tr>
+<td> パスポートの未使用査証欄 </td>
+<td> 4ページ以上 </td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p>上記必要書類を持参し大使館で直接申請する必要があります(郵送不可)</p>
+<h4 className="wp-block-heading">パプアニューギニア大使館での取得方法</h4>
+<figure className="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td className="td-220"> 必要書類 </td>
+<td> <a href="http://png.or.jp/wp-content/uploads/2016/01/Application_for_entry_permit_form_new_savable.pdf" rel="noopener" target="_blank">ビザ申請用紙 (PDF)</a>、3か月以内の顔写真(5cm×5cm カラー)、パスポート、予約済みの往復航空券申請書 </td>
+</tr>
+</tbody>
+</table>
+</figure>
+<h4 className="wp-block-heading">パプアニューギニア大使館</h4>
+<figure className="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td className="td-220"> 住所 </td>
+<td> 〒153-0064 東京都目黒区下目黒5-32-20 </td>
+</tr>
+<tr>
+<td> 電話番号 </td>
+<td> 03-3710-7001 （FAX）03-3710-7040 </td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p>大使館は日本およびパプアニューギニアの休日(祝日)を休館日としています。ご訪問の際には事前に公式サイトまたは電話にて開館日をご確認ください。</p>
+<div aria-hidden="true" className="wp-block-spacer" style="height:24px"></div>
+
+<h4 className="wp-block-heading">アライバルビザ</h4>
+<figure className="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td className="td-220">渡航目的</td>
+<td>観光または短期商用</td>
+</tr>
+<tr>
+<td>滞在期間</td>
+<td>60日以内</td>
+</tr></tbody>
+</table>
+</figure>
+<h4 className="wp-block-heading">現地空港での取得方法</h4>
+<figure className="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td className="td-220"> ビザ取得可能空港 </td>
+<td> ジャクソン国際空港(首都：ポートモレスビー)またはトクア国際空港(ラバウル) </td>
+</tr>
+<tr>
+<td> 必要書類 </td>
+<td> 入国カード(飛行機の機内で配布)、パスポート、往復の航空券</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p></p>
+<div className="Class_AB">
+<a href="https://www.anzen.mofa.go.jp/info/pcsafetymeasure_075.html" target="_blank">パプアニューギニア査証、出入国審査について(外務省公式サイト)</a></div>
+<picture>
+<source alt="オーストラリア渡航にビザは必要？" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p08_02.webp" type="image/webp" width="640"/>
+<img alt="オーストラリア渡航にビザは必要？" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p08_02.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="viaasia8">オーストラリア渡航にビザは必要？</h2>
+<p>他国籍者がオーストラリアに入国する場合はビザを取得する必要があります。<br />オーストラリアにはサブクラスにより細かく分類分けされた訪問者ビザ(サブクラス600)や一時就労ビザ(サブクラス400)、学生ビザ(サブクラス500)など多種類のビザが制定されていますが、日本を含む<a className="aioseop-link link-no-color" href="http://xs640823.xsrv.jp/etas/">ETAS(イータス)</a>申請対象国の国籍者は90日以内の観光や短期商用を目的とした渡航の場合、ウェブ上で取得手続きが可能な電子渡航認証システムのETAS(イータス)申請を取得して渡航することが許可されております。</p>
+<h2 className="wp-block-heading" id="viaasia9">ETAS(イータス)申請とは</h2>
+<p>ETAS(イータス)申請は “ELECTRIC TRAVEL AUTHORITY SYSTEM”の略称でサブクラス601に分類されるオーストラリアの電子渡航認証システムです。ETAS(イータス)申請対象国の国籍を有している渡航者はETAS(イータス)申請を取得するとビザを取得せずにオーストラリアに渡航することが許可されています。ETAS(イータス)申請を利用して渡航する場合は事前にウェブ上で申請し取得しておく必要があります。<br />認証審査は時間を要する場合がありますのでオーストラリア渡航の予定がある渡航者は早めに申請手続きを始めることが推奨されています。</p>
+<p>ETAS(イータス)申請は以下の条件を満たした場合に申請することができます。</p>
+<ul className="wp-block-list"><li><strong>ETAS(イータス)申請対象国の国籍者であること</strong></li><li><strong>ICチップ搭載で有効期限のあるパスポートを所持していること</strong></li><li><strong>渡航目的が観光または短期商用(会議出席、調査、契約交渉など)であること</strong></li><li><strong>オーストラリアでの滞在が90日(3か月)以内であること</strong></li><li><strong>結核を患っていない健康な状態で犯罪歴がないこと</strong></li><li><strong>申請時にオーストラリア国外にいること</strong></li><li><strong>ETAS(イータス)申請以外のオーストラリアビザを所持していないこと</strong></li></ul>
+<div className="Class_J">
+<h4>ETAS(イータス)申請対象国</h4>
+<p>日本／アメリカ合衆国／シンガポール／カナダ／韓国／香港特別行政区／ブルネイ・ダルサラーム／マレーシア</p>
+</div>
+<h3 className="wp-block-heading" id="viaasia10">ETAS(イータス)申請の有効期限</h3>
+<p>ETAS(イータス)申請の有効期限は認証が承認されてから1年間です。<br />ただし、パスポートの有効期限が1年よりも短い場合はETAS(イータス)申請の有効期限も同日に設定されます。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="australia-etas.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"アジア諸国を経由してオーストラリア渡航をする方へ | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

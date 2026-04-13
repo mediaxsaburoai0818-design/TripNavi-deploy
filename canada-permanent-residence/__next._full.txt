@@ -1,0 +1,168 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","canada-permanent-residence",""],"q":"","i":false,"f":[[["",{"children":["canada-permanent-residence",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T6268,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダの永住権について</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダの永住権について</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">カナダの永住権について</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#permanent1">カナダの永住権とは</a></li>
+<li><a className="ez-toc-link" href="#permanent2">カナダにおける永住権の種類</a></li>
+<li><a className="ez-toc-link" href="#permanent3">連邦スキルワーカープログラム(FSWP・FSTP)</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#permanent4">連邦スキルワーカークラス(FSWP：Eligibility to apply as a Federal Skilled Worker)</a></li>
+<li><a className="ez-toc-link" href="#permanent5">連邦スキルトレードプログラム(FSTP：Eligibility to apply for the Federal Skilled Trades Program)</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#permanent6">カナダ経験クラス(CEC：Canadian experience class)</a></li>
+<li><a className="ez-toc-link" href="#permanent7">州指名プログラム(PNP：How the Provincial Nominee Program)</a></li>
+<li><a className="ez-toc-link" href="#permanent8">ケベック移民プログラム(PEQ・QSW)</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#permanent9">ケベック技能労働者プログラム(QSW：Quebec Skilled Worker Program)</a></li>
+<li><a className="ez-toc-link" href="#permanent10">ケベック体験プログラム(PEQ： Quebec Experience Program)</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#permanent11">ファミリークラス(Family class)</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#permanent12">スポンサーの主な要件</a></li>
+<li><a className="ez-toc-link" href="#permanent13">申請者の主な要件</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#permanent14">ビジネスクラス(Business Immigration Program – Start-up Business Class)</a></li>
+<li><a className="ez-toc-link" href="#permanent15">ケアギバークラス(Caregivers)</a></li>
+<li><a className="ez-toc-link" href="#permanent16">カナダへ渡航する際はeTA(イータ)の申請が必要</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="永住権" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/f28dae391d47b5b261732a48b15d94e8.webp" type="image/webp" width="640"/><img alt="永住権" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/f28dae391d47b5b261732a48b15d94e8.jpg" width="640"/>
+</picture>
+<p>カナダは古くから外国人の受け入れ体制が整備されている国として知られ、現在も移住や永住を目的として国外から多くの市民が訪れます。特にバンクーバーやトロントなどの都市部は多くの移民が居住し、日本からの移住者も多く見受けられます。<br />カナダ政府は毎年30万人以上の外国人にカナダ永住権を発行し、率先して国外からの移民を受け入れています。カナダでの永住権を取得した方は “Permanent Resident” (永住者)として認められ、カナダ市民と同じく就学、就労、居住する権利が与えられます。ただし、永住権を取得した方であっても選挙権は与えられません。また、カナダ国籍のパスポートも取得することができませんが、それ以外はカナダ市民と同様の権利が認められます。カナダの移民制度は公平で透明性があり所定の条件を満たすことで永住が認められるため、他国と比べて永住権が取得しやすい傾向にあります。<br />このページではカナダへの移住や永住権に関する条件等について詳しく解説します。</p>
+<h2 className="wp-block-heading" id="permanent1">カナダの永住権とは</h2>
+<p>カナダでの永住権を取得した方は以下の権利が与えられます。</p>
+<div className="Class_AB">
+<ol><li>医療保険などカナダ市民が受けることが可能な社会的保障が認められます。</li><li>カナダ国内の法律とカナダでの権利、および自由憲章の下で保護されます。</li><li>一定期間カナダに居住した方は、カナダの市民権を申請することが認められます。</li><li>カナダ国内に居住し、就労と就学が認められます。</li></ol></div>
+<p>永住権が認められた方は期限が設定されることなく自由にカナダ国内で居住が認められ、カナダ市民権者と同様の社会保障、高等教育、就労機会が与えられます。永住権を維持するには過去5年間に少なくとも730日間カナダに滞在している必要があります。730日間は連続した期間ではなく、合計の滞在期間にて算出します。</p>
+<h2 className="wp-block-heading" id="permanent2">カナダにおける永住権の種類</h2>
+<p>カナダには60を超える移民プログラムがあり、将来的に永住を希望する方に向けて様々なプランが用意されています。主な移民プログラムは連邦スキルワーカープログラム(FSWP・FSTP)、カナダ経験クラス(CEC)、州指名プログラム(PNP)、ケベック移民プログラム(PEQ・QSW)、ファミリークラス、ビジネスクラス、ケアギバークラスに分類されます。連邦スキルワーカープログラムは所定の条件を満たす熟練技能者、カナダ経験クラスとビジネスクラスはカナダ国内での実務経験がある方、州指名プログラムは特定州の経済に貢献できるスキルを所有している方、ファミリークラスはカナダの永住権を保有している方の家族や親類が対象となります。申請条件は各移民プロブラムにより異なりますが、基本的な語学力のほか学歴や職歴などが審査において重要となります。移民プログラムの申請を希望する方は、以下の項目から自身に適した条件をご確認ください。</p>
+<h2 className="wp-block-heading" id="permanent3">連邦スキルワーカープログラム(FSWP・FSTP)</h2>
+<p>カナダへの永住を希望する外国籍の方で、熟練した技能を持つ技術者を対象としています。<br /><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html" rel="noreferrer noopener" target="_blank">職業分類(NOC)</a>に該当する職種に就労した経験があり、所定のスキルを有していることが求められます。</p>
+<h3 className="wp-block-heading" id="permanent4">連邦スキルワーカークラス(FSWP：Eligibility to apply as a Federal Skilled Worker)</h3>
+<div className="Class_J">
+<h4>主な要件</h4>
+<p><ul><li>所定の技術職による就労経験が1年(合計1,560時間/週30時間)以上あること。または相当のパート・アルバイトに従事した経験があること。</li><li>過去10年以内に所定の実務経験があり、熟練した技能を取得していること。</li><li>過去の実務経験が有給であること。(ボランティアや無給のインターンシップは対象外となります)</li><li>現在就労している職業が、申請の際に希望する職業と同様であること。</li><li>カナダの言語基準(CLB)で7点以上を取得していること。</li><li>中等教育機関または高等教育機関の卒業証明、または学位を保有していること。</li><li>カナダでの生活に際し、十分な資金を所持していること。</li><li>ケベック州以外に居住する予定であること。</li></ul></p>
+</div>
+<h3 className="wp-block-heading" id="permanent5">連邦スキルトレードプログラム(FSTP：Eligibility to apply for the Federal Skilled Trades Program)</h3>
+<p>FSTPは特定の技術職や技能職に従事している方を対象としています。FSWPと比べて語学力に関する要件が緩和されています。</p>
+<div className="Class_J">
+<h4>主な要件</h4>
+<p><ul><li>過去5年以内に所定の技能職に従事した経験があり、2年以上の実務経験があること。または同程度のパート・アルバイトの経験があること。</li><li>過去の実務経験が有給であること。(ボランティアや無給のインターンシップは対象外となります)</li><li><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html" rel="noreferrer noopener" target="_blank">職業分類(NOC)</a>に該当する職種に従事した経験があり、所定の技能要件を満たしていること。</li><li>過去1年以上にわたりカナダ国内で正社員として就労した経験があり、州や地域または連邦当局が発行した技能証明書を所持していること。</li><li>就労にあたり必要な言語能力を有していること。</li><li>ケベック州以外に居住する予定であること。</li></ul></p>
+</div>
+<h2 className="wp-block-heading" id="permanent6">カナダ経験クラス(CEC：Canadian experience class)</h2>
+<p>CECは永住権を希望する技能職経験者のためのプログラムです。カナダ国内でスキルワーカーの仕事に1年以上従事した方が対象となります。</p>
+<div className="Class_J">
+<h4>主な要件</h4>
+<p><ul><li>過去3年間のうち1年以上にわたりカナダ国内で<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html" rel="noreferrer noopener" target="_blank">職業分類(NOC)</a>に該当する職種に就いた経験があり、所定の技能要件を満たしていること。</li><li>過去の実務経験が有給であること。(ボランティアや無給のインターンシップは対象外となります)</li><li>就労にあたり必要な言語能力を有していること。スキルレベル0またはAの職種ではカナダの言語基準(CLB)で7点以上、スキルレベルBの職種では5点以上を取得していること。</li><li>ケベック州以外に居住する予定であること。</li></ul></p>
+</div>
+<h2 className="wp-block-heading" id="permanent7">州指名プログラム(PNP：How the Provincial Nominee Program)</h2>
+<p>PNPは各州政府による独自の永住権プログラムです。州内の労働規模や市場のニーズに合わせ、必要とする人材を州の基準により選定します。<br />州から指名を受けた後に連邦政府へカナダ永住権を申請することができます。</p>
+<div className="Class_J">
+<h4>主な要件</h4>
+<p><ul><li>当該の州または準州が規定する条件を満たし、地域に貢献するためのスキルを有していること。</li><li>当該の州または準州に居住する予定であること。</li></ul></p>
+</div>
+<p>PNPにおける要件は州により異なります。要件に関する詳細は各州政府の移民申請プログラムページをご確認ください。(各州政府の関連ページに遷移します)</p>
+<div className="Class_AB">
+<ul><li><a href="https://www.welcomebc.ca/Immigrate-to-B-C" rel="noreferrer noopener" target="_blank">British Columbia (ブリティッシュコロンビア州)</a></li><li><a href="https://www.alberta.ca/ainp.aspx" rel="noreferrer noopener" target="_blank">Alberta (アルバータ州)</a></li><li><a href="http://www.immigratemanitoba.com/" rel="noreferrer noopener" target="_blank">Manitoba (マニトバ州)</a></li><li><a href="https://www.saskatchewan.ca/" rel="noreferrer noopener" target="_blank">Saskatchewan (サスカチュワン州)</a></li><li><a href="https://www.welcomenb.ca/content/wel-bien/en.html" rel="noreferrer noopener" target="_blank">New Brunswick (ニューブランズウィック州)</a></li><li><a href="https://novascotiaimmigration.com/" rel="noreferrer noopener" target="_blank">Nova Scotia (ノバスコシア州)</a></li><li><a href="https://www.ontario.ca/page/immigrate-to-ontario" rel="noreferrer noopener" target="_blank">Ontario (オンタリオ州)</a></li><li><a href="https://www.princeedwardisland.ca/en/topic/immigrate?utm_source=redirect&amp;utm_medium=url&amp;utm_campaign=Immigrate" rel="noreferrer noopener" target="_blank">Prince Edward Island (プリンスエドワードアイランド州)</a></li><li><a href="https://www.gov.nl.ca/immigration/" rel="noreferrer noopener" target="_blank">Newfoundland and Labrador (ニューファンドランド・ラブラドール州)</a></li><li><a href="https://www.immigratenwt.ca/" rel="noreferrer noopener" target="_blank">Northwest Territories (ノースウエスト準州)</a></li><li><a href="https://yukon.ca/en/apply-immigrate-yukon" rel="noreferrer noopener" target="_blank">Yukon (ユーコン準州)</a></li></ul></div>
+<h2 className="wp-block-heading" id="permanent8">ケベック移民プログラム(PEQ・QSW)</h2>
+<p>ケベック州はカナダ政府と移民に関する特別協定を結び、州独自の移民プログラムを制定しています。<br />代表的なプログラムとして“ケベック技能労働者プログラム”(QSW)と“ケベック体験プログラム”(PEQ) があり、いずれも<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html" rel="noreferrer noopener" target="_blank">職業分類(NOC)</a>に該当する職種の就労経験と所定のスキルを有していることが求められます。申請にあたりケベック州への移住意思を示すことが求められますが、永住権取得後はカナダ憲法の下で移動の自由が保証されます。ケベック州では住民の約8割以上がフランス語を第一言語としているため、一定のフランス語力が必要となります。</p>
+<h3 className="wp-block-heading" id="permanent9">ケベック技能労働者プログラム(QSW：Quebec Skilled Worker Program)</h3>
+<p>QSWはポイント制にて選考が行われます。既婚や独身、年齢や社会的条件によりポイントが変動します。35歳以上は年齢に関するポイントが漸減するため、青年層の申請者が優遇される傾向にあります。</p>
+<div className="Class_J">
+<h4>主な要件</h4>
+<p><ul><li>ケベック州政府のケベック・セレクション証明書(Certificat de selection du Quebec)を所持していること。</li><li>Police Certificate(無犯罪証明書)および永住権申請書を提出すること。</li><li>ケベック州内に定住し就労する予定であること。</li></ul></p>
+</div>
+<h3 className="wp-block-heading" id="permanent10">ケベック体験プログラム(PEQ： Quebec Experience Program)</h3>
+<p>PEQはケベック州での永住権を希望する外国籍の方に対し、体験的な滞在を認めるプログラムです。永住権取得の過程において申請することが可能で、州内での就労や留学経験がある外国籍の方を対象としています。</p>
+<div className="Class_J">
+<h4>主な要件</h4>
+<p><ul><li>過去にケベック州での就労を目的として州内に滞在した経験があり、滞在条件を遵守していること。</li><li><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html" rel="noreferrer noopener" target="_blank">職業分類(NOC)</a>のレベル0、AまたはBの職種に常勤として就労し、申請書提出前の36か月間のうち24か月間以上にわたり勤務していたこと。</li><li>フランス語に関する語学力が中級程度以上であること。</li><li>ケベック州が定める規定により、配偶者や事実上の配偶者、家族や子供を3か月間以上扶養することに合意すること。</li><li>満18歳以上で有効なパスポートを所持していること。</li><li>所定の期限までに民主主義的価値観とケベック州の規定について学び、学習内容を証明できること。</li><li>ケベック州内に定住し就労する予定であること。</li></ul></p>
+</div>
+<h2 className="wp-block-heading" id="permanent11">ファミリークラス(Family class)</h2>
+<p>ファミリークラスはカナダ市民およびカナダ永住権保有者の配偶者や事実上の配偶者、家族や子供がいる方を対象としたプログラムです。カナダ市民または永住権保有者はファミリークラスにおいてスポンサーと呼ばれる位置づけとなり、カナダでの同居を希望する配偶者や家族は永住権の申請が認められます。ファミリークラスを申請する配偶者や家族は、スポンサーとの関係を証明する書面の提示が求められます。また、コモンロー・パートナー(事実上の配偶者)やコンジュガル・パートナー(カナダ国外に居住する外国籍の市民で婚姻と同等関係にある方)がファミリークラスを申請する際も、スポンサーとの関係を証明する必要があります。なお、両親や祖父母などのスポンサーになる方は当局が定める収入条件を満たしていることが求められます。</p>
+<h3 className="wp-block-heading" id="permanent12">スポンサーの主な要件</h3>
+<ul className="wp-block-list"><li>満18歳以上で有効なパスポートを所持していること。</li><li>申請者が永住権を取得した後、スポンサーは一定期間において申請者を経済的にサポートする義務を負うこと。<br />※ 配偶者、コモンロー・パートナー、コンジュガル・パートナーは3年間、両親、祖父母は20年間のサポートが義務付けられます。</li><li>両親や祖父母のスポンサーになる方は、過去3年間にわたり規定の収入条件を満たしていること。<br />※ 収入条件は扶養家族の人数によって異なり、収入を証明する書類の提出が求められます。</li></ul>
+<h3 className="wp-block-heading" id="permanent13">申請者の主な要件</h3>
+<ul className="wp-block-list"><li>身元、年齢、スポンサーとの関係を明確に証明できること。</li><li>スポンサーとの関係がカナダ国内の法律で認められていること。</li><li>有効なパスポートまたはビザを所持していること。</li><li>申請目的がカナダへの永住権を取得するためであること。<br />※ スポンサーの配偶者またはコモンロー・パートナーとして永住権を取得した方は、取得から5年間経過するまで新たに別の外国人配偶者やコモンロー・パートナーのスポンサーになることができません。</li></ul>
+<h2 className="wp-block-heading" id="permanent14">ビジネスクラス(Business Immigration Program – Start-up Business Class)</h2>
+<p>このプログラムはカナダ経済に貢献する外国籍の起業家を対象としています。規定の条件を満たした外国籍の事業主とその家族に永住権をあたえ、国外の起業家がカナダで事業を立ち上げるための支援を行っています。ビジネスクラスには主に「投資移民プログラム」、「サスカチュワン州起業移民プログラム」(SINP)、「自営業者向けプログラム」が用意されています。いずれも申請の際は十分な資金と、英語およびフランス語に関する語学力が必要となります。</p>
+<div className="Class_J">
+<h4>主な要件</h4>
+<p><ul><li>起業にあたり特定の自治体や事業体との取引が確約されていること。</li><li>英語およびフランス語の語学力が中級程度以上であること。</li><li>事業運営のために十分な資金を用意していること。</li></ul></p>
+</div>
+<h2 className="wp-block-heading" id="permanent15">ケアギバークラス(Caregivers)</h2>
+<p>ケアギバークラスは国外からカナダに移住し、介護職への就労を希望する方を対象としたプログラムです。主に介護施設などで幼児やお年寄り、障がい者のケアをする仕事に就く方をサポートします。ケアギバークラスを取得した方はカナダ永住権の取得、または一時的な移住を選択することが可能です。</p>
+<div className="Class_J">
+<h4>主な要件</h4>
+<p><ul><li>カナダ国内外で取得した高校卒業証書または同等の証明書を所持していること。</li><li>有効な労働許可証を所持していること、介護者として規定のスキルを保有していること。</li><li>介護職の実務経験があり、労働許可証の延長または再申請を済ませている方。</li><li>過去4年間のうち2年以上にわたり、カナダ国内で在宅のチャイルドケアワーカーとして常勤経験がある方。</li><li>指定機関による英語またはフランス語の語学テストを受験し、必要な語学力を満たしていると判断された方。(Canadian Language Benchmarkでレベル5以上のスコアを取得していること)</li></ul></p>
+</div>
+<h2 className="wp-block-heading" id="permanent16">カナダへ渡航する際はeTA(イータ)の申請が必要</h2>
+<p>カナダでの長期滞在を希望する方はビザの取得が必要となりますが、短期のビジネスや観光旅行でカナダへ訪れる場合は<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)</a>を申請することで渡航が可能です。eTA(イータ)はカナダ政府およびIRCC(カナダ移民・難民・市民権省)が定める入国制度で、外国籍の渡航者が取得しなければならない渡航認証制度です。日本を含むビザ免除プログラムに該当する国籍の方のみ申請することができ、カナダへ渡航する前にオンラインにて申請する必要があります。<a href="http://xs640823.xsrv.jp/eta/reapplication/index.html">eTA(イータ)の有効期限</a>は5年間となり、取得した方は1回の渡航で最大180日間の滞在が認められます。ただし、180日以内の滞在であってもカナダ国内で就労を予定している方はeTA(イータ)の対象外となり、ビザの申請が必要となりますのでご注意ください。日本国内のカナダビザ申請窓口は「<a href="http://xs640823.xsrv.jp/eta/embassy/index.html">カナダビザ申請センター・カナダ大使館について</a>」のページをご確認ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"カナダの永住権について | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

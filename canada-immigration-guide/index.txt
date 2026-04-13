@@ -1,0 +1,187 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","canada-immigration-guide",""],"q":"","i":false,"f":[[["",{"children":["canada-immigration-guide",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T7a37,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 【2022年最新】カナダに移住するには？条件や申請方法、仕事の探し方</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>【2022年最新】カナダに移住するには？条件や申請方法、仕事の探し方</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">【2022年最新】カナダに移住するには？条件や申請方法、仕事の探し方</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1">
+<li><a className="ez-toc-link" href="#immi1">「移民大国」カナダの現状</a></li>
+<li><a className="ez-toc-link" href="#immi2">カナダ移住のメリット</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#immi2-1">様々な文化に触れることができる</a></li>
+<li><a className="ez-toc-link" href="#immi2-2">雄大な自然のなかで生活できる</a></li>
+<li><a className="ez-toc-link" href="#immi2-3">医療費や学費が安い</a></li>
+<li><a className="ez-toc-link" href="#immi2-4">仕事とプライベートの区別が明確</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#immi3">カナダ移住のデメリット</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#immi3-1">外食代や日本の食材が高い</a></li>
+<li><a className="ez-toc-link" href="#immi3-2">税金が全般的に高い</a></li>
+<li><a className="ez-toc-link" href="#immi3-3">医療機関の混雑</a></li>
+<li><a className="ez-toc-link" href="#immi3-4">都市部の家賃が高い</a></li>
+<li><a className="ez-toc-link" href="#immi3-5">子供1人での通学や留守番が禁止</a></li>
+<li><a className="ez-toc-link" href="#immi3-6">希望する職種への就職が困難</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#immi4">カナダ移住に必要なビザと主な条件</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#immi4-1">エクスプレス・エントリー(Express Entry)</a></li>
+<li><a className="ez-toc-link" href="#immi4-2">ファミリー・スポンサーシップ(Family sponsorship)</a></li>
+<li><a className="ez-toc-link" href="#immi4-3">スタートアップビザ(Start-up Visa)</a></li>
+<li><a className="ez-toc-link" href="#immi4-4">ポスグラビザ (Post Graduation Work Permit Program / PGWPP)</a></li>
+<li><a className="ez-toc-link" href="#immi4-5">カナダでの永住権を取得するために</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#immi5">カナダへ移住する前に短期滞在を推奨する理由</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="カナダに移住するには？条件や申請方法、仕事の探し方" className="img_big m20-t m20-b lazyloaded" height="360" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/251b1bf25896a0b7d9b8eb0291483d5e.webp" type="image/webp" width="640"/><img alt="カナダに移住するには？条件や申請方法、仕事の探し方" className="img_big m20-t m20-b" decoding="async" height="360" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/251b1bf25896a0b7d9b8eb0291483d5e.jpg" width="640"/>
+</picture>
+<p>カナダは国の政策により、毎年多くの移民を積極的に受け入れています。カナダにおける移民の人口は800万人を超え、総人口の約22%を占めます。カナダの移民プログラムには連邦政府が申請基準を定める「フェデラルプログラム」と、各州が申請基準を定める「ノミニープログラム」があります。さらに各プログラムでカテゴリーが細分化され、約60種類もの移民申請のなかから相応しいプランを選択することが求められます。このページではカナダへ移住する際に必要となるビザや手続き、生活するうえでの注意点等を解説します。</p>
+<h2 className="wp-block-heading" id="immi1">「移民大国」カナダの現状</h2>
+<p>カナダには様々な国から訪れた移民がカナダ市民と同様の権利を得て生活を送っています。出身国別ではフィリピンからの移民が最も多く、インド、中国と続きます。新型コロナウイルス感染拡大の影響によりカナダ政府は移民の入国を制限していましたが、経済活動の再開にあたり移民の受け入れ枠を拡大しました。<br />2020年10月、IRCC(カナダ移民・難民・市民権省)は2021年から2023年にかけて合計120万人以上の移民を受け入れる<a href="https://www.canada.ca/en/immigration-refugees-citizenship/news/2020/10/government-of-canada-announces-plan-to-support-economic-recovery-through-immigration.html" rel="noreferrer noopener" target="_blank">計画</a>を発表。IRCCが発表した移民政策の概要は以下の通りです。</p>
+<div className="Class_J">
+<h4>IRCCが発表した移民政策の概要</h4>
+<p><ul><li>さらなる経済成長の基盤を築くために、2021年より有能な移民を積極的に受け入れます。</li><li>特に経済の回復と成長に焦点をあて、新たな移民の約60%を “Economic Class” (特定の職歴・学歴を必要とするカテゴリー)に定めます。</li><li>世界における多様な労働力と人口統計を鑑みて、革新的で地域主導による移民政策を重視します。</li><li>オンラインによる移民申請を推奨し、新型コロナウイルスの感染リスクを軽減します。</li><li>2021年から2023年の移民制度は、家族全員がカナダで生活できるよう計画を推進します。移民大国としての責務を果たし、難民の受け入れなど人道的な支援も引き続き行います。</li></ul></p>
+</div>
+<p>カナダ政府は各州と連携し、それぞれの州・準州が定める「ノミニープログラム」を通じて多くの移民を誘致するよう要請。さらに、ケベック州を除くフランス語圏の地域サポートにも注力する方針を示しています。カナダは長年にわたり、特出した才能や技術を持った移民をコミュニティに受け入れてきました。移民はカナダにおける経済成長のために重要な人材とされ、今後もニーズが高まるものとみられます。</p>
+<h2 className="wp-block-heading" id="immi2">カナダ移住のメリット</h2>
+<h3 className="wp-block-heading" id="immi2-1">様々な文化に触れることができる</h3>
+<p>カナダには多種多様な民族が集まるため、国内の文化だけでなく他国の言語や風習に触れることができます。各州の都市部では国籍ごとにコミュニティが存在し、バンクーバーにはかつて“ジャパタウン”と呼ばれる日本人街がありました。現在も一部で名残があり、当時の日本文化を感じることができます。カナダ最大の都市であるトロントは特に多くの移民が居住し、”ネイバーフッド”と呼ばれるエスニックタウンは観光地としても人気を博しています。また、モントリオールは17世紀からフランス人とイギリス人が入植したことにより、街の至るところにヨーロッパの雰囲気が残ります。モントリオールはカナダで唯一フランス語を公用語とし、美しい街並みは「北米のパリ」と呼ばれ市民や観光客に親しまれています。</p>
+<h3 className="wp-block-heading" id="immi2-2">雄大な自然のなかで生活できる</h3>
+<p>カナダは都市部でも山や川などの自然が身近にあり、広大な敷地の公園も数多くあります。春夏は森や公園へ散歩に出かけ、真夏は河川でのカヤックや森林でのキャンプを楽しむことができます。冬はスキーやスケートが盛んで、山や公園は一年を通じて大自然の中でのアクティビティを楽しむ市民で賑わいます。<br />カナダでは冬にマイナス30度を下回る地域もあり、厳しい寒さのなか暖を取って春を待ちます。極寒の冬を越したあとに迎える暖かな春の陽射しは、特に自然の恵みを感じる瞬間として思い出に残るでしょう。</p>
+<h3 className="wp-block-heading" id="immi2-3">医療費や学費が安い</h3>
+<p>カナダでは「国民皆保険制度」を採用しています。そのため、原則として患者の自己負担はなく、全てを税収で負担しています。歯科診療や処方薬剤などの費用を除き、カナダ市民およびカナダ永住権を持つ方は医療費が無料となります。ただし、移民やワーキングホリデイ含む留学生は、州や地域により加入条件が異なります。加入が認められるまでの間は、原則として医療費は有料になりますのでご注意ください。<br />なお、カナダの医療制度は日本の国民健康保険のように月々の支払いはありません。また、日本と比べて学費が安く、高校までの学費は無料となります。カナダは先進国のなかで大学に関する学費も安価で、奨学金や補助金などの制度も充実しています。</p>
+<h3 className="wp-block-heading" id="immi2-4">仕事とプライベートの区別が明確</h3>
+<p>カナダでは仕事とプライベートの区別が明確で、残業や休日出勤をするケースはほとんどありません。<br />職種や役職により多少の差はありますが、カナダでは定時に仕事を終えて帰宅することが慣例となっています。残業をする場合は必ず相当の賃金が支払われ、代休や有給休暇が認められるなど諸外国と比べて仕事に関する条件が整備されています。金曜日は早めに仕事を切り上げる方が多く、家族との団らんやプライベートのために時間を有意義に使うことが一般的となっています。カナダでは多くの企業で以下の休暇制度を導入しています。</p>
+<div className="Class_J">
+<h4>カナダ企業における休暇制度の例</h4>
+<p><ul><li>Foundation Day / 会社創立記念日による休暇</li><li>Maternity Leave / 出産・産後のための休暇</li><li>Sick Day / 病気治療のための休暇</li><li>Stressed-Out Day / ストレス解消のための休暇</li></ul></p>
+</div>
+<p>企業の従業員は3週間以上の有給休暇が保証され、多くの方は期限内に休暇を消化します。休暇が消化できない場合は、賃金に換算して請求することが認められます。</p>
+<h2 className="wp-block-heading" id="immi3">カナダ移住のデメリット</h2>
+<h3 className="wp-block-heading" id="immi3-1">外食代や日本の食材が高い</h3>
+<p>カナダは日本と比べると物価はやや高く、特に都市部は家賃や外食に関する価格が高い傾向にあります。野菜や肉など生鮮食品の価格は日本とあまり変わりませんが、牛乳や調味料などは日本と比べ2割ほど高くなります。外食代は全般的に高くチップも必要となるため、一般的な飲食店での昼食も総額20カナダドル(日本円で約1,800円)を上回ります。レストランでは食事代の10〜20%をチップとして渡すことが通例ですが、ファストフードやフードコートでは基本的にチップが不要となります。<br />トロントやバンクーバーなどの都市部には日本食のレストランが多くありますが、チップを含めた総額は日本と比べ約3倍の費用がかかります。また、カナダでは日本の食材が少なく入手することは困難です。留学などで都市部での長期滞在を予定している方は、なるべく外食を控え自炊することをお勧めします。</p>
+<h3 className="wp-block-heading" id="immi3-2">税金が全般的に高い</h3>
+<p>カナダの税率は日本のように国内同一ではありません。カナダの税金制度は主に3種類あり、国税(Goods and Services Tax)、州税(Provincial Sales Tax)、統一売上税(Harmonized Sales Tax)に分類されます。州ごとに食事や買い物にかかる消費税が異なり、オンタリオ州では国税と州税が加算されるため合計13%の税金が課されます。アルバータ州は州税を導入していないため国税の5%のみ適用となります。<br />州税は主にブリティッシュコロンビア州・サスカチュワン州・マニトバ州・ケベック州で税率が定められ、日本の地方消費税に該当します。主な地域の州税は以下の通りです。</p>
+<div className="Class_J">
+<h4>主な地域の州税</h4>
+<p><ul><li>ケベック州 : 9.975%</li><li>マニトバ州 : 8%</li><li>ブリティッシュコロンビア州 : 7%</li><li>サスカチュワン州 : 6%</li></ul></p>
+</div>
+<p>生鮮食品や子供用品は、地域により州税が課されない場合もあります。州税は滞在先や渡航先によって異なるため、買い物をする際は予め当該地域の税金を把握しておきましょう。</p>
+<h3 className="wp-block-heading" id="immi3-3">医療機関の混雑</h3>
+<p>カナダでは一部の例外を除き基本的に医療費は無料です。そのため診察を希望する方が非常に多く、病院などの医療機関は常に混雑しています。日本と比べ待ち時間が長く、緊急を要する症状であっても優先されない場合があります。カナダは公平を重視する国民性のため、医療機関を利用する際も例外を認めることはありません。ただし、医師の判断により緊急を必要とする患者は優先的に治療や手術を受けることができます。また、カナダでは市民の高齢化が大きな問題となっています。高齢化が進むことで医療機関はさらに人員不足になるとみられ、移住制度を利用した医療スタッフの募集が活発化しています。</p>
+<h3 className="wp-block-heading" id="immi3-4">都市部の家賃が高い</h3>
+<p>日本と同様、カナダも都市圏での家賃相場は高い傾向にあります。多くの留学生が暮らすトロントやバンクーバーなどの都市部はカナダ国内で最も家賃が高く、単身者用の賃貸物件は月に約10万円が相場となります。夫婦や家族で暮らす場合は月に15万円以上が相場となり、東京都内と同等の家賃や生活費が必要となるでしょう。また、アメリカとの国境に近く大勢の移民が暮らすビクトリアも家賃は高い傾向にありますが、トロントやバンクーバーと比較すると相場はやや安価となります。カナダへの移住を希望する際は通勤や通学にかかる時間を想定し、予算に合わせた居住先を選択しましょう。</p>
+<h3 className="wp-block-heading" id="immi3-5">子供1人での通学や留守番が禁止</h3>
+<p>カナダでは子どもの保護と健全な育成を目的とした法律や条例が多くあります。そのため、子ども１人での外出や留守番は禁止され、通学する際はスクールバスの停留所まで保護者の送迎が必要となります。<br />対象年齢は州や地域により異なりますが、主に13歳まで保護者の送迎を要請しています。子どもが外出する際は常に保護者または親族の同行が求められますが、都合により同行できない場合はベビーシッター等に依頼する必要があります。やむを得ず子どもが単身で留守番をする場合もベビーシッター等に依頼する必要があり、一般的な日本の養育姿勢と比べた場合に多少の不便を感じるケースもあるでしょう。</p>
+<h3 className="wp-block-heading" id="immi3-6">希望する職種への就職が困難</h3>
+<p>多くの移民を受け入れているカナダですが、現地企業への就職に関しては自国民が有利となります。カナダ国内で働くためには就労ビザが必須となり、移住を希望する多くの方が「クローズド・ワークビザ」を取得しています。クローズド・ワークビザは指定雇用主のもとでの就労を条件とし、HRSDC(カナダ人材技能開発省)が定める労働条件や語学に関する審査基準を満たした方のみが対象となります。各雇用主が求めるスキルは年々上昇し、英語が堪能な方でも希望する職種への就職が困難となっています。<br />また、カナダ国内における平均失業率は5.5%で、日本の2.4%と比べ高い傾向にあります。そのため、各企業は自国民の雇用機会を妨げることなく、外国人を雇用する際は慎重かつ適正な審査を行っています。なお、カナダやアメリカでは日本の新卒採用のようなポテンシャルを重視するケースは少なく、経験豊富な人材や即戦力を求める傾向があります。日本人の特性である勤勉性や協調性は高く評価されますが、主体的な行動力を重視する企業が多いため面接でのアピールが重要です。</p>
+<h2 className="wp-block-heading" id="immi4">カナダ移住に必要なビザと主な条件</h2>
+<p>カナダにおける永住権の申請方法は複数あり、カテゴリーにより求められるスキルや語学力が異なります。最も一般的な申請方法は「エクスプレス・エントリー」と呼ばれ、オンラインにて永住権の申請が可能です。自身の学歴・職歴・語学力等を登録することで自動的に評価が採点され、高得点を獲得した申請者から優先的にITA(永住権の招待状)が届く仕組みとなっています。<br />カナダでの移住と就労に必要となる主なビザは以下となります。</p>
+<h3 className="wp-block-heading" id="immi4-1">エクスプレス・エントリー(Express Entry)</h3>
+<p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html" rel="noreferrer noopener" target="_blank">エクスプレス・エントリー</a>は主に卓越した技能や技術を持つ方が対象となるビザ制度で、2015年より導入されました。エクスプレス・エントリーは以下の3つに分類されます。<br /></p>
+<div className="Class_J">
+<h4>エクスプレス・エントリーの種類</h4>
+<p><ul><li>フェデラル・スキルド・ワーカー / 専門性の高い職種に就き、高い語学力を有する方</li><li>フェデラル・スキルド・トレード / 過去5年以内に国外で2年以上の就労経験がある方</li><li>カナディアン・エクスペリエンス・クラス / 過去3年以内にカナダで1年以上の就労経験がある方</li></ul></p>
+</div>
+<p>上記の制度は年齢、学歴、職歴、語学力、カナダでの職歴に基づき総合的に判断されます。<br />まず応募資格の有無をオンラインで確認し、応募する際は専用フォームに必要事項を入力します。評価は1,200点満点で採点され、高得点を獲得した申請者から優先的にITA(永住権の招待状)が届きます。ITAを受領した方は90日以内にオンラインで永住権の申請を行うことが求められ、半年以内に結果通知が届きます。</p>
+<h3 className="wp-block-heading" id="immi4-2">ファミリー・スポンサーシップ(Family sponsorship)</h3>
+<p>すでにカナダで暮らす家族を持つ方は、<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship.html" rel="noreferrer noopener" target="_blank">ファミリー・スポンサーシップ</a>を利用して永住権を取得することが可能です。<br />ファミリー・スポンサーシップはカナダ市民と結婚した方や、カナダ永住権を有する配偶者を持つ方が申請の対象となります。ファミリー・スポンサーシップを申請する配偶者や家族は、スポンサーとの関係を証明する書面の提示が求められます。また、事実婚の方も申請が認められますが、カナダ国籍を有するパートナーと1年以上の同棲を証明することが求められます。<br />子どもの申請は原則として22歳以下、または経済的に両親の支援を必要とする22歳以上の方が対象となります。申請する際は年齢を問わず、期限が有効なパスポートまたはビザの所持が求められます。カナダにおけるファミリー・スポンサーシップの対象は幅広く、親・祖父母・姉妹・いとこ・孫・養子・親戚なども申請が認められます。</p>
+<p>なお、同制度における「スポンサー」とは、カナダ市民やカナダでの永住権を有する方を指します。スポンサーは申請した家族全員を経済的に支援し、申請した家族は政府からの社会的支援を受けないことが求められます。</p>
+<h3 className="wp-block-heading" id="immi4-3">スタートアップビザ(Start-up Visa)</h3>
+<p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa.html" rel="noreferrer noopener" target="_blank">スタートアップビザ</a>とは、カナダ国内での起業や投資を計画している外国籍の方を対象としたビザ制度です。<br />同制度は2013年に試験的に導入され、ニーズが高いことから2018年に恒久的なビザプログラムとなりました。スタートアップビザには明確な審査基準があり、申請者は原則として以下の条件が求められます。</p>
+<div className="Class_J">
+<h4>スタートアップビザの主な申請条件</h4>
+<p><ul><li>計画中のビジネスプランが健全で、カナダの経済に貢献できる可能性が高いこと</li><li>カナダ政府指定の機関や自治体からのビジネスサポートが認められる“Letter of Support”を取得すること</li><li>英語またはフランス語の語学レベルが中級以上であること<br />(英語はIELTSまたはCELPIP、フランス語はTEFまたはTCFのスコア提出が必要となります)</li><li>カナダへの移住に際し、十分な生活資金や財産の証明ができること</li></ul></p>
+</div>
+<p>家族を帯同する方は、扶養するための資金証明が求められます。資金額は家族の人数や年齢によって異なり、求められる金額は毎年更新されます。スタートアップビザを取得した方はカナダでの移住権と国内でのビジネスサポートが保証され、カナダの国益につながる事業を継続することが求められます。</p>
+<h3 className="wp-block-heading" id="immi4-4">ポスグラビザ (Post Graduation Work Permit Program / PGWPP)</h3>
+<p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program.html" rel="noreferrer noopener" target="_blank">ポスグラビザ</a>とは、カナダ国内の教育機関を卒業した後にカナダでの就労が認められるビザ制度です。<br />取得した方はカナダ国内の教育機関に通学した年数と同じ期間有効となる就労ビザが発行されます。ポスグラビザを申請する際は以下の条件が求められます。</p>
+<div className="Class_J">
+<h4>ポスグラビザの主な申請条件</h4>
+<p><ul><li>カナダ政府が指定するプログラムを公立大学などで受講したこと</li><li>指定のプログラムを8～24か月にわたり受講し、修了または卒業したこと</li><li>修了または卒業の対象となる教育機関が公立大学または公立大学院であること</li></ul></p>
+</div>
+<p>24か月以上にわたるプログラムの終了または卒業が認められた方は、ポスグラビザの申請により最長3年間の就労ビザが与えられます。ポスグラビザには年齢制限はありませんが、申請は生涯で1度のみとなります。</p>
+<p>なお、ポスグラビザを取得した方は、カナダで同居する配偶者の就労ビザ申請も認められます。申請の際は配偶者との関係を示す戸籍謄本等のほか、ポスグラビザ所有者が所属する企業や団体が発行した雇用証明書を添付する必要があります。</p>
+<h3 className="wp-block-heading" id="immi4-5">カナダでの永住権を取得するために</h3>
+<p>カナダでの永住権を希望する際は、一般的に移民プログラムを利用してカナダで数年にわたり滞在することが求められます。カナダには希望やスキルに応じて60種類以上もの移民プログラムが用意され、自身の条件に相応しいプログラムを選択する必要があります。カナダにおける代表的な移民プログラムは以下の通りです。</p>
+<div className="Class_J">
+<h4>カナダの代表的な移民プログラム</h4>
+<p><ul><li>連邦スキルワーカープログラム(FSWP・FSTP) : 政府指定の条件を満たし卓越した技能を持つ方</li><li>カナダ経験クラス(CEC) : カナダ国内での実務経験がある方</li><li>州指名プログラム(PNP) : 特定州の経済に貢献できるスキルを有する方</li><li>ケベック移民プログラム(PEQ・QSW) : ケベック州での滞在と指定の条件を満たす方</li><li>オープン・ワークビザ(OWP) : 職種および雇用主を限定しない就労ビザ</li><li>クローズド・ワークビザ(CWP) : 職種および雇用主が限定される就労ビザ</li></ul></p>
+</div>
+<p>他にもファミリークラス(ファミリー・スポンサーシップ)、ビジネスクラス、ケアギバークラス等の移民ビザプログラムが用意されています。<br />ファミリークラスはカナダでの永住権を持つ方の家族や親類が対象となります。ビジネスクラスはカナダ経験クラス(CEC)と同様、カナダ国内で実務経験がある方を対象としています。ケアギバークラスは、主に介護職への就労を希望する方を対象としたプログラムです。申請条件は各プロブラムにより異なりますが、移民当局では基本的な語学力のほか学歴や職歴などを重視しています。移住を希望する際は長期にわたりカナダ国内での滞在歴がある方や、少なくとも1年以上の就労経験がある方が優遇される傾向にあります。<br />カナダへ移住し現地での就労を希望する方は、渡航前に雇用主と契約する「クローズド・ワークビザ」を取得することをお勧めします。</p>
+<p>なお、ケベック州では第一言語がフランス語となります。ケベック移民プログラムを希望する方は、フランス語と英語ともに中級レベル以上であることが求められます。カナダの永住権に関する詳しい内容は「<a href="http://xs640823.xsrv.jp/eta/permanent-residence/index.html">カナダの永住権について</a>」をご確認ください。</p>
+<h2 className="wp-block-heading" id="immi5">カナダへ移住する前に短期滞在を推奨する理由</h2>
+<p>カナダは日本と比べ失業率が高く、トロントやバンクーバーなど人口が多い都市部でも求人募集は少ない傾向にあります。カナダでは技能や語学力が重視されるため、就労を希望する方は自身のスキルを正確に把握し向上に努めましょう。現地でのキャリアフォーラムへの参加やインターンシップに応募するなど、就職先を定めた後に移住することを推奨します。<br />また、カナダの春夏は清々しく快適な気温が続きますが、冬は非常に寒く連日にわたり気温がマイナスを下回ります。冬は日照時間が少なく心身のバランスを崩す人も多いため、移住を希望する方は1年を通してカナダの気候を知っておくことをお勧めします。</p>
+<p>なお、カナダでの長期滞在や就労・留学を希望する際は目的に合わせたビザの取得が必要となりますが、90日間以内の滞在はeTA(イータ)申請のみでカナダへの渡航が認められます。ただし、90日間以内の滞在でも現地での就労を予定している方はeTA(イータ)申請の対象外となります。<br />カナダでの短期滞在に必要となるeTA(イータ)に関する詳細は「<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"【2022年最新】カナダに移住するには？条件や申請方法、仕事の探し方 | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

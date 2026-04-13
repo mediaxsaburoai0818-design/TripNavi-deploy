@@ -1,0 +1,129 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T56c6,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オンタリオ湖の魅力やおすすめ観光スポットを紹介</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>オンタリオ湖の魅力やおすすめ観光スポットを紹介</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">オンタリオ湖の魅力やおすすめ観光スポットを紹介</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1">
+<li><a className="ez-toc-link" href="#ontario1">オンタリオ湖とは</a></li>
+<li><a className="ez-toc-link" href="#ontario2">オンタリオ湖の魅力</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#ontario2-1">フィッシングが楽しめる</a></li>
+<li><a className="ez-toc-link" href="#ontario2-2">ダイビングスポットが豊富</a></li>
+<li><a className="ez-toc-link" href="#ontario2-3">スタンドアップパドルに挑戦</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#ontario3">オンタリオ湖のおすすめスポット</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#ontario3-1">トロントアイランドパーク / Toronto Island Park</a></li>
+<li><a className="ez-toc-link" href="#ontario3-2">スカボロー・ブラフス / Scarborough Bluffs</a></li>
+<li><a className="ez-toc-link" href="#ontario3-3">トロント・ウォーターフロント / Toronto Waterfront</a></li>
+<li><a className="ez-toc-link" href="#ontario3-4">レスリー・ストリート・スピット / Leslie Street Spit</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#ontario4">オンタリオ湖周辺グルメ</a></li>
+<li><a className="ez-toc-link" href="#ontario5">オンタリオ湖からナイアガラの滝へ</a></li>
+<li><a className="ez-toc-link" href="#ontario6">短期のカナダ入国・渡航にはeTA(イータ)の事前申請が必要です</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="オンタリオ湖の魅力やおすすめ観光スポットを紹介" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/12/2554a722abbe5298b1daaccce7c17a9f.webp" type="image/webp" width="640"/><img alt="オンタリオ湖の魅力やおすすめ観光スポットを紹介" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/12/2554a722abbe5298b1daaccce7c17a9f.jpg" width="640"/>
+</picture>
+<p>オンタリオ湖(Lake Ontario)は、カナダのオンタリオ州とアメリカのニューヨーク州に隣接する五大湖のうちの一つです。アイロクア・インディアン語で「すばらしい湖」を意味する「オンタリオ」に由来します。湖水の影響を受け温和な気候となる沿岸部は代表的な農業地域として知られ、果樹や野菜の生産が盛んです。オンタリオ湖沿岸都市のひとつにカナダのNY(ニューヨーク)と呼ばれるトロントがあり、人気の観光スポットとなっています。<br />このページではカナダ最大の都市トロント周辺にもスポットをあて、オンタリオ湖の魅力について紹介します。</p>
+<h2 className="wp-block-heading" id="ontario1">オンタリオ湖とは</h2>
+<p>オンタリオ湖は、北アメリカ大陸にあるヒューロン湖(Lake Huron)、スペリオル湖(Lake Superior)、ミシガン湖(Lake Michigan)、エリー湖(Lake Erie)、オンタリオ湖(Lake Ontario)の五つの湖で成り立つ五大湖のうちのひとつで、淡水湖です。面積は五大湖のなかでは最小ですが、世界で14番目となる19,000平方キロメートルを誇ります。北側がカナダ、南側がアメリカに接し、キングストン、トロント、ハミルトン、ミシサガなどの都市ではアメリカとの交易も盛んです。</p>
+<h2 className="wp-block-heading" id="ontario2">オンタリオ湖の魅力</h2>
+<p>オンタリオ湖は自然にあふれたアクティビティの宝庫です。自然の中で、釣り、ダイビング、スタンドアップパドルを楽しんだ後には、トロントからフェリーに乗り、ウォーターフロントやアイランドパークでショッピングやグルメを楽しむのはいかがでしょう。市民の足として親しまれるフェリーは主要都市を結び、景色を楽しみながら移動することができます。忘れられない思い出の旅になるでしょう。</p>
+<h3 className="wp-block-heading" id="ontario2-1">フィッシングが楽しめる</h3>
+<p>オンタリオ湖周辺には無数の湖や川、水路があり、釣りの好きな方には特におすすめのスポットです。サーモン、ブラックトラウト、ウォールアイ、ブラウントラウト、ノーザンパイク、マウスパス、パンフィッシュなど季節により多種多様な種類の魚を釣ることができます。冬は湖が凍って釣りができないため、水温の高い12月～5月がベストシーズンといわれています。なお、オンタリオ州で釣りを楽しむにはフィッシングライセンスが必要です。フィッシングライセンスには2種類あり、釣った魚を持ち帰ることのできる「スポーツフィッシングライセンス」と、キャッチ&amp;リリースで釣りを楽しむ「コンサベーションフィッシングライセンス」です。観光で一日釣りを楽しむだけなら、<a href="https://www.ontario.ca/page/fishing-licence-non-residents-canada" rel="noreferrer noopener" target="_blank">オンタリオ州自然資源(森林省)のウェブサイト</a>からライセンスを購入できます。</p>
+<h3 className="wp-block-heading" id="ontario2-2">ダイビングスポットが豊富</h3>
+<p>最大水深244mを誇るオンタリオ湖は、ナイアガラ川を通して流れ込む他の四大湖の水をセントローレンス川から大西洋に吐き出します。五大湖の中で最も小さく最も下流に位置するオンタリオ湖ですが、北米有数の淡水ダイビングスポットとして知られます。水温が比較的高く、水も澄んでいるためダイビング初心者の方も挑戦しやすいでしょう。五大湖の海底には過去の嵐や湖上戦の影響で多くの<a href="https://www.gousa.jp/experience/dive-great-lakes" rel="noreferrer noopener" target="_blank">難破船</a>が沈んでいます。オンタリオ湖では主にセントローレンス川付近に、1914年に沈没したオーシャン・ライナー“<a href="https://www.canadashistory.ca/explore/transportation/empress-of-ireland-remembered" rel="noreferrer noopener" target="_blank">エンプレス・オブ・アイルランド(Empress of Ireland)</a>”をはじめ1800年代から現代までカナダ貿易を支えてきた船が沈みます。海底に沈む難破船を見るダイビングツアーは観光客やダイバーたちに人気で、湖畔には多くのダイビングショップが立ち並びます。</p>
+<h3 className="wp-block-heading" id="ontario2-3">スタンドアップパドルに挑戦</h3>
+<p>波が穏やかなオンタリオ湖は、<a href="https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/paddle-sports/" rel="noreferrer noopener" target="_blank">スタンドアップパドル</a>が盛んです。スタンドアップパドルはSUP(サップ)とも呼ばれ、大きめのサーフボードの上でバランスを取りパドルを漕ぐアクティビティです。大きなボードを使用するため転覆の心配が少なく、慣れたらボード上でヨガやフィッシングを楽しむこともできます。初心者でも安心して楽しめるアクティビティとして人気があります。波がある季節には、一般的なサーフボードだけでなく、スタンドアップパドルボードでサーフィンを楽しむ人の姿もみられます。開放的な湖上にボードを浮かべ、自分好みの楽しみ方でゆったりとした時間を過ごしてみてはいかがでしょうか。</p>
+<h2 className="wp-block-heading" id="ontario3">オンタリオ湖のおすすめスポット</h2>
+<picture>
+<source alt="トロントアイランドパーク / Toronto Island Park" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/12/20467ddee730669b9bf320ce025b38fa.webp" type="image/webp" width="640"/><img alt="トロントアイランドパーク / Toronto Island Park" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/12/20467ddee730669b9bf320ce025b38fa.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="ontario3-1">トロントアイランドパーク / Toronto Island Park</h3>
+<p>オンタリオ湖に浮かぶトロントアイランドパークは15の島で構成され、全長は約5kmにおよびます。それぞれの島には飛行場や公園、居住区、レストランがあり、ほとんどが橋で繋がり徒歩や自転車で移動できます。冬には氷で覆われた白銀の湖を、夏には深い青々とした緑の景色をのぞむことができ、まさに湖に浮かぶオアシスといえます。5月から10月は30以上のアトラクションがある遊園地が営業するため子供も楽しめ、自転車、カヌー、ローラーブレード、ゴルフなどのスポーツアクティビティもできます。カヌーやスタンドアップパドルに乗りながら、アヒルや白鳥などの野生生物を観察するのもおすすめです。センターアイランド・ビーチにある桟橋からはオンタリオ湖を一望でき、そこから眺める都会の夜景は必見です。</p>
+<div className="Class_AB">
+<strong>所在地：</strong>M5J 2H3 9 Queens Quay West, Jack Layton Ferry Terminal, Toronto, Ontario, Canada<br /><strong>公式サイト：</strong><a href="https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/toronto-island-park/" rel="noreferrer noopener" target="_blank">Toronto Island Park</a></div>
+<picture>
+<source alt="スカボロー・ブラフス / Scarborough Bluffs" className="img_big m20-t m20-b lazyloaded" height="424" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/12/10e21f06434bf38b69e94229867e16e2.webp" type="image/webp" width="640"/><img alt="スカボロー・ブラフス / Scarborough Bluffs" className="img_big m20-t m20-b" decoding="async" height="424" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/12/10e21f06434bf38b69e94229867e16e2.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="ontario3-2">スカボロー・ブラフス / Scarborough Bluffs</h3>
+<p>スカボロー・ブラフスは、オンタリオの湖畔にそびえる断崖の絶壁です。西はトロントのイースタンビーチから、東はイーストポイントパークまで続き海岸線からの高さは90メートル(300フィート)、距離は15キロメートル(9.3マイル)続いています。約1万2千年前の堆積物が、オンタリオ湖からの風や水の浸食により現在の姿に形成されました。スカボロー・ブラフスには11の公園があり、尖塔がそびえ立つカテドラル・ブラフス・パーク(Cathedral Bluffs Park) や、<a href="https://www.toronto.ca/data/parks/prd/facilities/complex/2/index.html" rel="noreferrer noopener" target="_blank">ブラフアーズ・パーク・ビーチ(Bluffer’s Park and Beach)</a>には展望台やピクニック広場があり、湖へ直接アクセスすることもできます。この崖上のウォーキングトレイルや遊歩道からは広大な自然を一望でき、崖下の湖では船をチャーターし釣りを楽しむこともできます。郊外ではなくトロント市内にあり、アクセスしやすいのもポイントです。</p>
+<div className="Class_AB">
+<strong>所在地：</strong>101 Copperfield Rd, Scarborough, ON M1E 3T9 Canada<br /><strong>公式サイト：</strong><a href="https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/scarborough-bluffs/" rel="noreferrer noopener" target="_blank">Scarborough Bluffs</a></div>
+<picture>
+<source alt="トロント・ウォーターフロント / Toronto Waterfront" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/12/884721d749457e475775a353d007f38c.webp" type="image/webp" width="640"/><img alt="トロント・ウォーターフロント / Toronto Waterfront" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/12/884721d749457e475775a353d007f38c.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="ontario3-3">トロント・ウォーターフロント / Toronto Waterfront</h3>
+<p>広大なオンタリオ湖畔は海のように広く、天気が良い日には湖畔の散策がおすすめです。繁華街からアクセスしやすく、観光客はもちろん地元の人々の憩いの場として人気を集めています。週末には多くの人が芝の上でくつろぎ、レストランのパティオで食事を楽しみます。オンタリオ湖のウォーターフロントまでは、ユニオン駅から徒歩10分ほど。街のランドマーク<a href="https://www.cntower.ca/en-ca/home.html" rel="noreferrer noopener" target="_blank">CNタワー</a>をはじめ、<a href="https://www.toronto.ca/data/parks/prd/facilities/complex/2261/index.html" rel="noreferrer noopener" target="_blank">ビーチ</a>やマリーナ、アートギャラリーやコンサート、ランチ、ショッピング、イベントなど様々な楽しみ方ができます。フェリーでオンタリオ湖に浮かぶトロント島へ渡る場合は、「カヤマ(KAJAMA)」と呼ばれる約2時間のハーバークルーズがおすすめです。湖上から眺める高層ビル群の美しさには、心を奪われるでしょう。</p>
+<div className="Class_AB">
+<strong>所在地：</strong>20 Bay St, Toronto, ON M5J 2N8 Canada<br /><strong>公式サイト：</strong><a href="https://waterfrontoronto.ca/nbe/portal/waterfront/Home" rel="noreferrer noopener" target="_blank">Toronto Waterfront</a></div>
+<picture>
+<source alt="レスリー・ストリート・スピット / Leslie Street Spit" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/12/641eda5b996fb24faafb243b7a0f8be4.webp" type="image/webp" width="640"/><img alt="レスリー・ストリート・スピット / Leslie Street Spit" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/12/641eda5b996fb24faafb243b7a0f8be4.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="ontario3-4">レスリー・ストリート・スピット / Leslie Street Spit</h3>
+<p>トロントにある人工の岬で、市の東端からオンタリオ湖に向かってほぼ南西方向に伸びています。広さ1,236エーカー(約5平方キロメートル)の人工の半島で、トミートンプソンパークの一部です。かつてこの場所はゴミ処理場として利用されていましたが、生物の多様性に富んだ原生林に生まれ変わりました。野生の花が咲き誇る牧草地、沼、ビーチ、遊歩道、1974年に建てられた自動点灯式の灯台があります。ここでは300種以上の野鳥が確認されており、重要野鳥生息地に指定されています。自転車をレンタルして、コヨーテ、蝶、フクロウ、マスクラット、アジサシ、ミミヒメウなどを探しながらのサイクリングはいかがでしょう。ハイキングやローラーブレード、釣りなども楽しめます。</p>
+<div className="Class_AB">
+<strong>所在地：</strong>Tommy Thompson Park,1 Leslie Street,Toronto<br /><strong>公式サイト：</strong><a href="https://tommythompsonpark.ca/" rel="noreferrer noopener" target="_blank">Leslie Street Spit</a></div>
+<picture>
+<source alt="プーティン(POUTINE)" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/12/3a25721d3eebd6888c4d6b8b28f467b3.webp" type="image/webp" width="640"/><img alt="プーティン(POUTINE)" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/12/3a25721d3eebd6888c4d6b8b28f467b3.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="ontario4">オンタリオ湖周辺グルメ</h2>
+<p>高層ビル群やチャイナタウンなど、さまざまな文化が混在するオンタリオ湖周辺は、カナダの大自然と100か国を超える世界中の食文化が楽しめるグルメスポットです。ユニオン駅からほど近いグルメ市場<a href="http://www.stlawrencemarket.com/" rel="noreferrer noopener" target="_blank">セント・ローレンス・マーケット(St. Lawrence Market)</a>では、サーモンをはじめとしたカナダの海の幸が堪能できます。オンタリオでは今、若者たちの間で「プーティン(POUTINE)」という食べ物が大流行中です。プーティンとは、フレッシュチーズの一種“チーズカード”と、グレービーソースがかかったフライドポテトの事で、ハイカロリーながら美味しいと専門店ができるほど人気を呼んでいます。オンタリオには、この他にも紹介しきれないほどのグルメが満載です。<br />カナダといえば名産品として<a href="http://xs640823.xsrv.jp/eta/maplesyrup/index.html">メープルシロップ</a>が有名ですが、メープルシロップを使用した料理の中でメープルシロップを自然の雪で固めた「メープルタフィー」をご存じでしょうか。作り方は簡単、トレーに冷たい雪を敷き詰め、その上に煮詰めた熱いメープルシロップを垂らします。固まらないうちに棒ですくうとシロップが固まり棒つきキャンティーになります。まさにカナダの大自然が生み出したグルメと言えます。</p>
+<h2 className="wp-block-heading" id="ontario5">オンタリオ湖からナイアガラの滝へ</h2>
+<p><a href="http://xs640823.xsrv.jp/eta/border/index.html">ナイアガラの滝</a>は、世界三大瀑布のひとつに数えられ、高さ約54m、幅約670mという壮大な規模をほこり、名前の由来となった先住民の言葉「ニアガル(雷轟く水)」の通り、雷鳴のような轟音を響かせる迫力は圧巻です。エリー湖からオンタリオ湖に流れる川にかかり、カナダのトロントから南南西に120km、アメリカのバッファローから北北東に27km、二国の国境に位置します。地図でみると近くみえるオンタリオ湖とナイアガラの滝ですが、オンタリオ湖からは車で約2時間かかります。それでも足を延ばして是非見ておきたい絶景です。</p>
+<h2 className="wp-block-heading" id="ontario6">短期のカナダ入国・渡航にはeTA(イータ)の事前申請が必要です</h2>
+<p>トロントやオンタリオ湖、ナイアガラの滝への観光、出張などを目的としたカナダ渡航の際には、<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)</a>の事前申請が必要です。eTA(イータ)はカナダ政府が導入している電子渡航認証制度です。eTA(イータ)を利用して渡航する際は、一度の渡航で6ヶ月以内の滞在が認められます。なお、eTA(イータ)は取得日から5年間またはパスポートの期日まで有効となります。eTA(イータ)の申請に関する詳細は「<a href="http://xs640823.xsrv.jp/eta/flow/index.html">カナダ電子渡航認証eTA(イータ)申請方法の手順と記入例</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

@@ -1,0 +1,152 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T61de,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダ イエローナイフの観光スポット13選とオーロラのベストシーズン</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダ イエローナイフの観光スポット13選とオーロラのベストシーズン</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">カナダ イエローナイフの観光スポット13選とオーロラのベストシーズン</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1">
+<li><a className="ez-toc-link" href="#yellowknife1">イエローナイフとは</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#yellowknife1-1">イエローナイフの気候</a></li>
+<li><a className="ez-toc-link" href="#yellowknife1-2">イエローナイフへの移動と滞在日数の目安</a></li>
+<li><a className="ez-toc-link" href="#yellowknife1-3">イエローナイフの名物料理</a></li>
+<li><a className="ez-toc-link" href="#yellowknife1-4">イエローナイフと日本の時差</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#yellowknife2">イエローナイフのおすすめ観光スポット</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#yellowknife2-1">ブラッチフォード・レイク・ロッジ / Blachford Lake Lodge</a></li>
+<li><a className="ez-toc-link" href="#yellowknife2-2">オーロラ・ビレッジ / Aurora Village</a></li>
+<li><a className="ez-toc-link" href="#yellowknife2-3">オールドタウン / Old town</a></li>
+<li><a className="ez-toc-link" href="#yellowknife2-4">ブッシュ・パイロット・モニュメント(記念碑) / Bush Pilot’s Monument</a></li>
+<li><a className="ez-toc-link" href="#yellowknife2-5">ノーザン・ヘリテージ・センター / Northern Heritage Centre</a></li>
+<li><a className="ez-toc-link" href="#yellowknife2-6">州立法議事堂 / Legislative Assembly of The Northwest Territories</a></li>
+<li><a className="ez-toc-link" href="#yellowknife2-7">イエローナイフ市庁舎 / Yellowknife City Hall &amp; Park</a></li>
+<li><a className="ez-toc-link" href="#yellowknife2-8">ダウン トゥ アース ギャラリー / Down to Earth Gallery</a></li>
+<li><a className="ez-toc-link" href="#yellowknife2-9">ノースウエスト準州ダイヤモンドセンター / NWT Diamond Centre</a></li>
+<li><a className="ez-toc-link" href="#yellowknife2-10">プレリュード・レイク・テリトリアル・パーク / Prelude Lake Territorial Park</a></li>
+<li><a className="ez-toc-link" href="#yellowknife2-11">フレーム・レイク・トレイル / Frame Lake Trail</a></li>
+<li><a className="ez-toc-link" href="#yellowknife2-12">キャメロン・フォールズ・トレイル / Cameron Falls Trail</a></li>
+<li><a className="ez-toc-link" href="#yellowknife2-13">グレートスレーブ湖 / Great Slave Lake</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#yellowknife3">カナダ観光をする際に必要な手続き</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="yellowknife" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/60394d39b37d19214165e37d190cce00.webp" type="image/webp" width="640"/><img alt="yellowknife" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/60394d39b37d19214165e37d190cce00.jpg" width="640"/>
+</picture>
+<p>イエローナイフはノースウエスト準州の州都で、カナダで最も北極圏に近い街です。世界屈指のオーロラ出現率を誇り、世界中から多くの観光客が訪れます。<br />イエローナイフにおけるオーロラ鑑賞のベストシーズンは11月中旬～4月、8月中旬～9月頃となります。夏期でもオーロラ鑑賞ができる地域として知られ、湖が凍結していない時期は水面に映る″逆さオーロラ”が観光客の人気を集めています。また、イエローナイフは大自然の中で楽しめるアクティビティが充実し、伝統的なカナダ北部の料理も堪能できます。<br />このページではイエローナイフの魅力と観光スポットについて解説します。</p>
+<h2 className="wp-block-heading" id="yellowknife1">イエローナイフとは</h2>
+<h3 className="wp-block-heading" id="yellowknife1-1">イエローナイフの気候</h3>
+<p>イエローナイフは北極圏からおよそ400km南に位置し、グレートスレーブ湖の北にある都市です。亜寒帯気候に属し、冬(10～4月)は平均気温が氷点下となり厳しい寒さが続きます。最も寒くなる1～2月はマイナス30℃近くまで気温が下がるため、オーロラ鑑賞の際はしっかりと防寒対策を行いましょう。オーロラ鑑賞ツアーに参加する際は耐寒ブーツや極地仕様のジャケットなどのレンタルが可能なため利用をお勧めします。<br />なお、夏(7～8月)は20℃を超える日があり過ごしやすい気候となります。日中は半袖で過ごせる日もありますが、昼夜の寒暖差には注意が必要です。また、夜間は10℃前後まで気温が下がるため、重ね着などで調節できるよう準備しましょう。</p>
+<h3 className="wp-block-heading" id="yellowknife1-2">イエローナイフへの移動と滞在日数の目安</h3>
+<p>日本からイエローナイフ空港(YZF)への直行便は就航していないため乗り継ぎが必要です。イエローナイフ空港にはカナダ各都市よりウエストジェット航空、カナディアン・ノース、ファースト・エアーなどが運航しています。日本からはANAまたはエアカナダのカルガリーやバンクーバーへの直行便を利用し、国内線に乗り継ぐルートが主流となります。カルガリーからイエローナイフまでのフライト時間は約2時間、バンクーバーからは約2時間半で、日本から11時間半程かかります。<br />また、イエローナイフはオーロラベルト(オーロラが最も頻繁に表れるエリア)の真下に位置し、晴天率も高いことから世界屈指のオーロラ出現率を誇ります。統計では“3日間の滞在で遭遇率95％”とのデータもあり、オーロラ鑑賞を目的に訪れる際は遭遇率をより上げるためにも3日間以上の滞在をお勧めします。</p>
+<h3 className="wp-block-heading" id="yellowknife1-3">イエローナイフの名物料理</h3>
+<p>カナダ北部の極北に位置するイエローナイフでは、日本では珍しい貴重な料理を味わうことができます。北極イワナ(アークティックチャー)などの魚介をはじめ、バッファローやヘラジカ(ムース)などの肉類がイエローナイフ特有の食材です。北極イワナはサーモンに似た魚で、淡白な味わいが特長のため揚げ物や燻製など様々な料理に利用されます。現地の日本食レストランでも食すことができ、新鮮な刺身を提供している店舗もあります。バッファローやヘラジカは一般的な食肉として流通し、定番のステーキやハンバーガーの食材として親しまれています。バッファローは牛肉の味に近く、ヘラジカは牛肉よりも高たんぱくでコレステロールが低い利点を持ちます。また、多くの飲食店で提供されているシーフードチャウダーは、イエローナイフを代表する伝統的な名物料理です。オーロラ鑑賞で体が冷えた際は、温かいシーフードチャウダーで一息つくことをお勧めします。</p>
+<div className="Class_J">
+<h4>Bullocks Bistro</h4>
+<p>オールドタウンにある<a href="https://www.bullocksbistroyk.com/" rel="noreferrer noopener" target="_blank">Bullocks Bistro</a>では、北極イワナやバッファローステーキを味わうことができます。地元の人だけでなく観光客にも人気の有名店です。<br /><strong>所在地：</strong>3534 Weaver Drive, Yellowknife, Canada<br /><strong>電話：</strong>(867) 873-3474</p>
+</div>
+<div className="Class_J">
+<h4>TRADER’S GRILL</h4>
+<p><a href="https://www.explorerhotel.ca/" rel="noreferrer noopener" target="_blank">Explorer Hotel</a>の中にあるレストラン<a href="https://www.explorerhotel.ca/traders-grill.htm" rel="noreferrer noopener" target="_blank">TRADER’S GRILL</a>は、カナダ北部の料理を味わえる高級店です。北極イワナやヘラジカのステーキなどイエローナイフならではの料理を楽しむことができ、特にシーフードチャウダーが人気メニューとなっています。<br /><strong>所在地：</strong>4825 49 Avenue Yellowknife, Northwest Territories X1A 2R3, Canada<br /><strong>電話：</strong>(867) 873-3531</p>
+</div>
+<h3 className="wp-block-heading" id="yellowknife1-4">イエローナイフと日本の時差</h3>
+<p>カナダは6つのタイムゾーンに分類され、イエローナイフがあるノースウエスト準州はアルバータ州やブリティッシュコロンビア州南東部と同様の“山岳部時間“に該当します。日本とは16時間(サマータイム中は15時間)の時差があります。<br />カナダと日本の時差について詳しくは「<a href="http://xs640823.xsrv.jp/eta/time_difference/index.html">カナダ主要都市と日本の時差・サマータイムについて</a>」をご確認ください。</p>
+<picture>
+<source alt="yellowknife2" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/d8aee61987b480e76ca019cb00dc4283.webp" type="image/webp" width="640"/><img alt="yellowknife2" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/d8aee61987b480e76ca019cb00dc4283.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="yellowknife2">イエローナイフのおすすめ観光スポット</h2>
+<h3 className="wp-block-heading" id="yellowknife2-1">ブラッチフォード・レイク・ロッジ / Blachford Lake Lodge</h3>
+<p>ブラッチフォード湖畔にあり、多くのロッジが建ち並ぶ自然豊かなリゾート地です。郊外のためオーロラ鑑賞に最適なスポットですがロッジ付近は道路がありません。イエローナイフからのアクセスは“ブッシュ・プレーン“と呼ばれるセスナ機のみとなり、滞在する際は事前予約が必要となります。ブッシュ・プレーンは夏には湖上で離発着し、冬は凍った湖の上を滑走します。ロッジ周辺は日中のアクティビティも充実し、夏から秋にかけての時期は湖でカヌーやカヤックが楽しめます。また、冬はオーロラ鑑賞のほか、スノーモービルや凍った湖上で行うスケートなどが人気です。</p>
+<p className="Class_J"><strong>所在地：</strong>North East Shore Blachford Lake, NWT<br /><strong>公式サイト：</strong><a href="https://blachfordlakelodge.com/" rel="noreferrer noopener" target="_blank">Blachford Lake Lodge ＆ Wilderness Resort</a></p>
+<h3 className="wp-block-heading" id="yellowknife2-2">オーロラ・ビレッジ / Aurora Village</h3>
+<p>オーロラ鑑賞に特化したイエローナイフで最大級のリゾート施設です。イエローナイフからティビット湖までを結ぶ<a href="https://www.nwtparks.ca/explore/ingraham-trail" rel="noreferrer noopener" target="_blank">イングラハム・トレイル</a>沿いにあり、オーロラが出現するまでは先住民のテント型移動式住居“ティピー(teepee)”で待機します。テント内には薪ストーブが完備され、暖かい環境でオーロラの出現を待つことができます。</p>
+<p className="Class_J"><strong>所在地：</strong>4709 Franklin Ave, Yellowknife, NWT, Canada<br /><strong>公式サイト：</strong><a href="https://auroravillage.com/" rel="noreferrer noopener" target="_blank">Aurora Village</a></p>
+<h3 className="wp-block-heading" id="yellowknife2-3">オールドタウン / Old town</h3>
+<p>ダウンタウンからタクシーでおよそ10分の場所にある旧市街地です。19世紀のゴールドラッシュ時の中心街で当時の建物が多く残され、歴史的な観光名所のほか地元で人気のカフェやレストラン、土産物屋が点在しています。記念碑がある高台“THE ROCK“からは美しい街並みやグレートスレーブ湖などの素晴らしい景色を眺めることができます。</p>
+<h3 className="wp-block-heading" id="yellowknife2-4">ブッシュ・パイロット・モニュメント(記念碑) / Bush Pilot’s Monument</h3>
+<p>19世紀の開拓時代にパイロットがイエローナイフの目印とした場所である小高い丘“THE ROCK“にあります。当時のイエローナイフには滑走路がなく、水上や草原など場所を選ばず着陸する必要がありました。悪条件の中で飛行し発展に貢献した操縦士は“ブッシュパイロット“と呼ばれ、パイロットやエンジニアの功績を称えたモニュメントが設置されています。</p>
+<p className="Class_J"><strong>所在地：</strong>3513 Ingraham Dr #3511, Yellowknife, NT X1A 2E8<br /><strong>公式サイト：</strong><a href="https://spectacularnwt.com/attraction/bush-pilots-monument" rel="noreferrer noopener" target="_blank">BUSH PILOT’S MONUMENT</a></p>
+<picture>
+<source alt="yellowknife3" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/d5c8cdd6c8f429829796c99bc9337f57.webp" type="image/webp" width="640"/><img alt="yellowknife3" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/d5c8cdd6c8f429829796c99bc9337f57.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="yellowknife2-5">ノーザン・ヘリテージ・センター / Northern Heritage Centre</h3>
+<p>ノーザン・ヘリテージ・センターはフレーム湖のほとりにある博物館です。正式名称は“プリンス・オブ・ウェールズ・ノーザン・ヘリテージ・センター“と言います。1979年にイギリスのチャーチル皇太子が訪れたときにオープンしました。カナダ北部に生息する動物のはく製や先住民族の歴史・文化などの資料が展示されています。入館料は無料で、年間58,000人が訪れる人気の観光スポットです。</p>
+<p className="Class_J"><strong>所在地：</strong>4750 48 St, Yellowknife, NT X1A 3T5<br /><strong>開館日：</strong>毎週水曜日～日曜日 13:00～17:00<br /><strong>公式サイト：</strong><a href="https://www.pwnhc.ca/" rel="noreferrer noopener" target="_blank">Prince of Wales Northern Heritage Centre</a></p>
+<h3 className="wp-block-heading" id="yellowknife2-6">州立法議事堂 / Legislative Assembly of The Northwest Territories</h3>
+<p>ノースウエスト準州立法議事堂はフレーム湖のほとりにあり、グランドピアノをイメージしたガラス張りの美しい建物です。無料のガイド付きツアーが開催されているほか、日本語のオーディオガイドも利用できます。議事堂の中央にはホッキョクグマの毛皮が敷かれ、ダイヤモンドが付いている職杖(メイス)やアート作品が数多く飾られています。</p>
+<p className="Class_J"><strong>所在地：</strong>48 St, Yellowknife, NT X1A 2L9<br /><strong>開館日：</strong>月～金 7:00～18:00、土・日 10:00～18:00<br /><strong>公式サイト：</strong><a href="https://www.ntassembly.ca/" rel="noreferrer noopener" target="_blank">Legislative Assembly of The Northwest Territories</a></p>
+<h3 className="wp-block-heading" id="yellowknife2-7">イエローナイフ市庁舎 / Yellowknife City Hall &amp; Park</h3>
+<p>イエローナイフの詳細な地図やパンフレットが用意されているため、観光前に立ち寄ることをお勧めします。館内にはホッキョクグマやホッキョクオオカミなど、極北地域を象徴する動物のはく製なども展示されています。1階のビジターセンターでは北緯60度線に到達した証明書を名前入りで発行するサービスを提供しています。</p>
+<p className="Class_J"><strong>所在地：</strong>4807-52 Street, Yellowknife, Northwest Territories X1A 2N4<br /><strong>公式サイト：</strong><a href="https://www.yellowknife.ca/en/index.asp" rel="noreferrer noopener" target="_blank">City of Yellowknife</a></p>
+<h3 className="wp-block-heading" id="yellowknife2-8">ダウン トゥ アース アート ギャラリー / Down to Earth Art Gallery</h3>
+<p>オールドタウンの外れにあるログハウスが目印のアートギャラリーです。ノースウェスト準州在住のアーティストが運営し、アート作品や工芸品を展示・販売しています。また、様々なワークショップも開催しています。</p>
+<p className="Class_J"><strong>所在地：</strong>5007 Bryson Dr, Yellowknife, NT X1A 2A3<br /><strong>開館日：</strong>月曜日～金曜日 12:00～17:00、土曜日 11:00～17:00、日曜日 12:00～16:00<br /><strong>公式サイト：</strong><a href="https://www.downtoearth.ca/" rel="noreferrer noopener" target="_blank">Down to Art Earth Gallery</a></p>
+<h3 className="wp-block-heading" id="yellowknife2-9">ノースウエスト準州ダイヤモンドセンター / NWT Diamond Centre</h3>
+<p>ノースウェスト準州はダイヤモンドの産地としても有名な地域です。同施設では採鉱の歴史やダイヤモンドの原石が採掘・研磨される様子を写真やビデオを通して学ぶことができ、研磨体験に参加することもできます。また、ノースウエスト準州で採掘、切断、研磨した美しいダイヤモンドが多数展示され販売も行っています。</p>
+<p className="Class_J"><strong>所在地：</strong>5105 49 St, Yellowknife, NT X1A 1P8<br /><strong>営業時間：</strong>年中無休 10:00～17:30<br /><strong>公式サイト：</strong><a href="https://www.nwtdiamondcentre.com/japanese" rel="noreferrer noopener" target="_blank">NWT Diamond and Jewellery Centre</a></p>
+<picture>
+<source alt="yellowknife4" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/e3f5b15f53ad51105ce23bbec682779b.webp" type="image/webp" width="640"/><img alt="yellowknife4" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/851f58f5eb8d6288f925e70cebe00454.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="yellowknife2-10">プレリュード・レイク・テリトリアル・パーク / Prelude Lake Territorial Park</h3>
+<p>イエローナイフから東に位置するプレリュード湖に面した公園で、夜はオーロラが見られるスポットとしても知られています。ハイキングコースや湖水浴用のビーチ、キャンプ場などがあり、自然を満喫できるスポットとして地元市民にも人気です。</p>
+<p className="Class_J"><strong>所在地：</strong>1 Prelude Lake Main, Yellowknife, NT X1A 2P2<br /><strong>公式サイト：</strong><a href="https://www.nwtparks.ca/explore/ingraham-trail/prelude-lake-territorial-park" rel="noreferrer noopener" target="_blank">Prelude Lake Territorial Park</a></p>
+<h3 className="wp-block-heading" id="yellowknife2-11">フレーム・レイク・トレイル / Frame Lake Trail</h3>
+<p><a href="https://spectacularnwt.com/attraction/frame-lake-trail" rel="noreferrer noopener" target="_blank">フレーム・レイク・トレイル</a>は、イエローナイフの市街地からすぐそばにあるフレーム湖の周囲に整備されたハイキングコースです。観光スポットであるノーザン・ヘリテージ・センターや州立議事堂のそばを通る東側のルートは、きれいに舗装されているため散策にお勧めです。一方で西側は岩場や沼地が続き、水鳥やコヨーテ、キツネなど野生動物に遭遇することもあります。全長はおよそ7kmあり、約2時間で湖を1周することができます。</p>
+<h3 className="wp-block-heading" id="yellowknife2-12">キャメロン・フォールズ・トレイル / Cameron Falls Trail</h3>
+<p>イエローナイフから車で約1時間の場所にあるキャメロン・フォールズ・トレイルは、<a href="https://www.nwtparks.ca/explore/ingraham-trail/hidden-lake" rel="noreferrer noopener" target="_blank">ヒドゥン・レイク・テリトリアル・パーク</a>内にある約1.2kmのハイキングコースです。暖かい時期にはリスなどの野生動物に出会うこともあります。ハイキングコースにはおよそ17メートルの<a href="https://www.nwtparks.ca/explore/ingraham-trail/cameron-falls" rel="noreferrer noopener" target="_blank">キャメロン滝</a>があり、大自然の壮大な迫力に圧倒されることでしょう。<br />気温がマイナス20度を下回る冬場は滝全体が凍結し、美しく神秘的な景色を堪能することができます。</p>
+<h3 className="wp-block-heading" id="yellowknife2-13">グレートスレーブ湖 / Great Slave Lake</h3>
+<p><a href="https://spectacularnwt.com/attraction/great-slave-lake" rel="noreferrer noopener" target="_blank">グレートスレーブ湖</a>はノースウェスト準州の南部に位置します。カナダ国内ではグレートベア湖に次いで2番目に大きく、最大水深は614メートルあり北アメリカでは最も深い湖です。冬(1～3月)には“アイスロード“と呼ばれる氷の道となり、車両が走行する道路になります。</p>
+<h2 className="wp-block-heading" id="yellowknife3">カナダ観光をする際に必要な手続き</h2>
+<p>イエローナイフなどカナダへ観光を目的に入国する際は、eTA(イータ)の取得が必須となります。eTA(イータ)は観光や短期商用などを目的にカナダを訪れる際に必要となる電子渡航認証です。有効期限は申請日から5年間となり、1度の渡航につき最長180日間の滞在が認められます。イエローナイフへの旅行を計画中の方は、渡航前に必ずeTA(イータ)申請の手続きを行いましょう。<br />eTA(イータ)に関する詳細は「<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

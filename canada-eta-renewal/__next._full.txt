@@ -1,0 +1,193 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","canada-eta-renewal",""],"q":"","i":false,"f":[[["",{"children":["canada-eta-renewal",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T4953,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ eTA(イータ)の更新について</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>eTA(イータ)の更新について</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading"> eTA(イータ)の更新について </h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#update1">eTA(イータ)の有効期限とは</a></li>
+<li><a className="ez-toc-link" href="#update2">eTA(イータ)の更新について</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#update3">更新(再申請)が必要なケース</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#update4">パスポートの更新について</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#update5">パスポート更新方法</a></li>
+<li><a className="ez-toc-link" href="#update6">パスポート更新の流れ</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#update7">eTA(イータ)申請内容の変更(修正)について</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#update8">パスポート情報の変更(修正)をご希望の方</a></li>
+<li><a className="ez-toc-link" href="#update9">個人情報に変更が生じた場合</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#update10">eTA(イータ)認証確認について</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#update11">eTA(イータ)申請状況確認方法</a></li>
+<li><a className="ez-toc-link" href="#update12">問い合わせ方法</a></li>
+</ul></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="eTA(イータ)の有効期限とは" className="img_big m20-t m20-b" height="391" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p12_1.webp" type="image/webp" width="640"/>
+<img alt="eTA(イータ)の有効期限とは" className="img_big m20-t m20-b" decoding="async" height="391" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p12_1.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="update1">eTA(イータ)の有効期限とは</h2>
+<p><a className="link-no-color aioseop-link" href="http://xs640823.xsrv.jp/eta/">eTA(イータ)</a>は申請日より5年間またはパスポートの期限(5年未満の場合)まで有効となります。<br />承認後に送付されるメールに有効期限が記載されていますのでご確認ください。<br />有効期限内であればカナダへの複数回の渡航が可能となり、一度に6カ月以内の滞在が許可されます。</p>
+<h2 className="wp-block-heading" id="update2">eTA(イータ)の更新について</h2>
+<p>eTA(イータ)には更新制度がありません。<br />承認されるとeTA番号(eTA number)が発行されますが、新たにeTA(イータ)申請をする際にこの番号が引き継がれることはございません。<br />既存のeTA(イータ)の申請内容(パスポート情報や個人情報など)についても引き継がれることはありませんので、新たに必要事項を全て入力する必要があります。eTA(イータ)の有効期限の延長を希望する場合やパスポートを新たに取得した際は改めてeTA(イータ)申請が必要となります。<br />改めてeTA(イータ)を申請すると新しいeTA(イータ)番号が発行されます。</p>
+<h3 className="wp-block-heading" id="update3">更新(再申請)が必要なケース</h3>
+<div className="Class_AB">
+<ul className="contents-block__ul"><li>有効期限の延長を希望する場合</li><li>新しいパスポートを取得してパスポート番号が変更となった場合</li></ul></div>
+<p> eTA(イータ)の有効期限が切れた方や間近になった方で期限の延長を希望される場合は、新たにeTA(イータ)申請を行いましょう。<br />また、eTA(イータ)はパスポート番号に基づいた認証のため、パスポート番号が変更となったときには新たに申請が必要となります。<br />eTA(イータ)の有効期限内であってもパスポートの紛失、氏名や本籍地の変更などによりパスポートを新たに取得された際は、既存のeTA(イータ)を利用することができなくなりますのでご注意ください。  </p>
+<picture>
+<source alt="パスポートの更新について" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p12_2.webp" type="image/webp" width="640"/>
+<img alt="パスポートの更新について" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p12_2.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="update4">パスポートの更新について</h2>
+<p> eTA(イータ)は申請時のパスポート情報に紐づいて管理されているため、パスポートを更新した際や新たにパスポートを取得された際には再申請が必要となります。 また、カナダ渡航時にはパスポートの残存期限が予定滞在期間プラス1日であることが定められていますので、eTA(イータ)申請を行う際はパスポートの有効期限を事前に確認しておきましょう。 <br />もし渡航中にパスポートの期限が切れてしまうと、現地の日本大使館・領事館にてパスポートの新規発行と帰国のための渡航書の発行手続きを行う必要があります。帰国のための渡航書とは、外国での滞在中にパスポートの失効や紛失、盗難にあった場合など、やむを得ない理由で緊急帰国するための渡航書です。発行には時間を要し、渡航スケジュールにも大きな影響を与えてしまうためパスポートの有効期限には余裕を持って渡航されることをお勧めいたします。 </p>
+<h3 className="wp-block-heading" id="update5">パスポート更新方法</h3>
+<figure className="wp-block-table"><table><tbody><tr><td> ① 新規申請</td><td>パスポートの期限が既に切れてしまっている場合には新規申請をします。</td></tr><tr><td> ② 切り替え申請</td><td>パスポートは有効期限が1年以内になると切り替え申請が可能となります。<br />パスポートの期限を延長されたい方は切り替え申請を行いましょう。<br />新規で申請する際に提出する申請書と同じものを使用し、手続きの方法は新規申請と同様となります。</td></tr><tr><td> ③ 記載事項変更</td><td>氏名、本籍地の都道府県、性別、生年月日を変更した場合にはパスポートに記載されている内容を変更しなければなりません。<br />有効期限はそのままに記載事項を変更する手続きが可能です。<br />申請料は新規・切り替え申請と比べ安価となっています。</td></tr></tbody></table></figure>
+<p>※結婚を機に姓が変更となった方、本籍地の都道府県に変更があった方は切り替え申請または記載事項変更の手続きをしましょう。<br />※①～③は全てパスポート番号が新しいものへ変更されます。</p>
+<h3 className="wp-block-heading" id="update6">パスポート更新の流れ</h3>
+<h4 className="wp-block-heading">1. 必要書類を揃える</h4>
+<div className="Class_D">
+<h5>一般旅券発給申請書(10年用・5年用)または記載事項変更用の一般旅券発給申請書　1通</h5>
+</div>
+<p> 未成年の方は5年用のパスポートのみの申請となります。<br />申請書はパスポート申請窓口や市区町村役場または<a href="https://www.mofa.go.jp/mofaj/toko/passport/download/top.html" rel="noreferrer noopener" target="_blank">外務省のウェブサイト</a>よりダウンロードが可能です。 </p>
+<div className="Class_D">
+<h5>写真　1枚</h5>
+</div>
+<p> 6カ月以内に撮影されたものでなくてはなりません。サイズは縦45mm × 横35mmのふちなしのものに限ります。 </p>
+<div className="Class_D">
+<h5></h5>
+</div>
+<div className="Class_D">
+<h5>有効なパスポート　1点</h5>
+</div>
+<p>新しいパスポートを発行された際には無効(VOID)印を押印し返却されます。 </p>
+<div className="Class_D">
+<h5>戸籍謄本または戸籍抄本　1通</h5>
+</div>
+<p>現在手元にあるパスポートの情報より氏名または本籍の都道府県に変更があった場合に必要になります。<br />6カ月以内に発行されたものでなくてはなりません。本籍地の市区町村役場で発行できますが郵送も可能です。 各役場へお問い合わせください。 </p>
+<div className="Class_D">
+<h5>住民票の写し　1通</h5>
+</div>
+<p>住民登録している都道府県以外で申請する居所申請の場合または申請窓口において、住民基本台帳ネットワークシステムによる情報検索を希望しない場合に必要になります。 <br />6カ月以内に発行されたものであり、コピーではなく交付された原本でなくてはなりません。 </p>
+<h4 className="wp-block-heading">2. 窓口にて申請手続き</h4>
+<p>原則として住民登録がある各都道府県のパスポート申請窓口で手続きを行います。申請から受領まで1週間ほどかかります。</p>
+<h4 className="wp-block-heading">3. 受け取り</h4>
+<p>申請手数料は受け取りの際に支払います。パスポートは必ず本人が受け取りに行かなければなりません。</p>
+<h4 className="wp-block-heading">パスポート申請手数料</h4>
+<figure className="wp-block-table">
+<table style="width:auto;">
+<tbody>
+<tr>
+<td className="width-260">新規・切り替え 10年用</td>
+<td className="width-100">16000円</td>
+</tr>
+<tr>
+<td>新規・切り替え 5年用</td>
+<td>11000円</td>
+</tr>
+<tr>
+<td>新規・切り替え 5年用 (12歳未満)</td>
+<td>6000円</td>
+</tr>
+<tr>
+<td>記載事項変更</td>
+<td>6000円</td>
+</tr>
+<tr>
+<td>査証欄増補</td>
+<td>2500円</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<picture>
+<source alt=" eTA(イータ)申請内容の変更(修正)について " className="img_big m20-t m20-b" height="360" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p12_3.webp" type="image/webp" width="640"/>
+<img alt=" eTA(イータ)申請内容の変更(修正)について " className="img_big m20-t m20-b" decoding="async" height="360" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p12_3.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="update7">eTA(イータ)申請内容の変更(修正)について </h2>
+<h3 className="wp-block-heading" id="update8">パスポート情報の変更(修正)をご希望の方</h3>
+<p>パスポート情報に誤りがあると飛行機に搭乗出来ない恐れがありますので、パスポートに記載されている内容(氏名のスペル、パスポート番号、発行国、生年月日など)の入力ミスがある場合には新たにeTA(イータ)申請手続きが必要となります。 </p>
+<h3 className="wp-block-heading" id="update9">個人情報に変更が生じた場合</h3>
+<p>パスポート情報以外の現在の個人情報(ご自宅の住所や勤務先・学校の情報など)が過去にeTA(イータ)申請をされた時点の内容と異なっていても、再申請の必要はありません。eTA(イータ)を再申請しなくてもカナダへの渡航は認められますが、申請内容の変更を希望される方は新たにeTA(イータ)申請手続きをお願い致します。 <br /><br />なお、当サイトにて申請された方については申請内容の修正を承っております。修正方法については「<a className="aioseop-link" href="http://xs640823.xsrv.jp/eta/howtofix/index.html">eTA(イータ)申請を間違えてしまった場合の対処方法</a>」をご確認ください。 </p>
+<h2 className="wp-block-heading" id="update10">eTA(イータ)認証確認について</h2>
+<p>過去に承認されたeTA(イータ)申請状況は<a href="https://onlineservices-servicesenligne.cic.gc.ca/eta/applicationQuery?lang=en" rel="noreferrer noopener" target="_blank">IRCC(カナダ移民・難民・市民権省)のウェブサイト</a>にて進捗確認が可能です。<br />パスポート情報(パスポート番号、パスポート発行国・地域、パスポート発行日と有効期限)、eTA番号(eTA number)を入力すると申請状況が表示されます。eTA番号は申請後に送付されているメールに記載がありますのでご確認ください。</p>
+<h3 className="wp-block-heading" id="update11">eTA(イータ)申請状況確認方法</h3>
+<p>上記URLをクリックすると“Electronic Travel Authorization(eTA) Status”というページが表示されます。</p>
+<h4 className="wp-block-heading">既にeTA(イータ)が承認されており「J」から始まる“eTA number(eTA番号)“をお持ちの方</h4>
+<div className="Class_AB">
+<ol><li>“Check your status”の選択欄は“I have an approved eTA. I want to consult my file.”を選択します。</li><li> “eTA number”にeTA番号を入力します。</li><li> “Passport number”にパスポート番号を入力します。</li><li> “Country/territory of issue”パスポート発行国を選択します。</li><li> “Issue date”パスポートの発行年月日を選択します。</li><li> “Expiry date”パスポート有効期間満了日を選択します。</li><li> “Check application status”をクリックするとステータスが表示されます。</li></ol></div>
+<h4 className="wp-block-heading">eTA(イータ)申請中で「V」から始まる“Application number(申請番号)”をお持ちの方</h4>
+<div className="Class_AB">
+<ol><li>“Check your status”の選択欄は“I am a new applicant. I want to check my status.”を選択します。</li><li> “Application number”に申請番号を入力します。</li><li> “Passport number”にパスポート番号を入力します。</li><li> “Country/territory of issue”パスポート発行国を選択します。</li><li> “Issue date”パスポートの発行年月日を選択します。</li><li> “Expiry date”パスポート有効期間満了日を選択します。</li><li> “Check application status”をクリックするとステータスが表示されます。</li></ol></div>
+<p>なお、上述のウェブフォームからはeTA(イータ)番号および申請番号を入力しなければ申請状況の確認ができません。番号が不明で上記のフォームにて確認ができない場合の申請状況の問い合わせは<a href="https://secure.cic.gc.ca/enquiries-renseignements/canada-case-cas-eng.aspx" rel="noreferrer noopener" target="_blank">IRCCのウェブフォーム</a>より行うことが可能です。</p>
+<h3 className="wp-block-heading" id="update12">問い合わせ方法</h3>
+<p>IRCC Webformというページが表示されます。</p>
+<ol className="wp-block-list"><li><strong>“Type of application/enquiry”の選択肢から“Electronic Travel Authorization”を選択します。</strong></li><li><strong>“your enquiry”に問い合わせ内容を英語またはフランス語にて入力します。</strong><br />パスポート番号等を詳しく記載しましょう。</li><li><strong>“Application Information”に申請者の情報を入力します。</strong><br />【入力必須項目】<br />・Family name ⇒ 姓<br />・Given name ⇒ 名<br />・Date of birth ⇒ 生年月日<br />・Country of birth ⇒ 出生国</li><li><strong>“Enquirer Information”に問い合わせをしている人物の情報を入力します。</strong><br />【入力必須項目】<br />・Relationship to applicant(申請者との関係)を“Applicant(申請者本人)”“Representative(代表)”から選択<br />・Family name ⇒ 姓<br />・Given name ⇒ 名<br />・Email address ⇒ メールアドレス<br />※IRCCからメールで返答がありますので、メールアドレスは必ず受け取ることができるものをご入力ください。</li><li><strong>“NEXT”をクリックすると問い合わせがアップロードされ完了です。</strong><br />IRCCより入力されたメールアドレスへ返答があります。迷惑メールの設定、受信制限を掛けている方は解除することをお勧めいたします。<br />※IRCCから返答があるまで数日～数週間の時間を要することがあります。</li></ol>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"eTA(イータ)の更新について | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

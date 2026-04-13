@@ -1,0 +1,179 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3ddb,<div className="page-layout">
+    <main className="page-main">
+      <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-usa.html">アメリカ</a> ＞ <a href="tips.html">入国・ビザガイド</a> ＞ ビザ免除プログラム(VWP)とは</div>
+
+      <article className="article-detail">
+        <span className="card-tag">入国・ビザガイド</span>
+        <h1>ビザ免除プログラム(VWP)とは？対象国・条件・ESTAとの違いを解説</h1>
+        <div className="article-meta">
+          <span className="meta-date">更新日：2026年3月5日</span>
+        </div>
+        <img src="https://images.unsplash.com/photo-1501466044931-62695aada8e9?w=800&h=400&fit=crop" alt="アメリカの国旗とパスポート" className="article-hero" />
+
+        <div className="content">
+          <p>アメリカへビザなしで渡航できる「ビザ免除プログラム（VWP：Visa Waiver Program）」。日本を含む41の国と地域が対象となっており、90日以内の観光・商用目的であればビザの取得が不要です。本記事では、VWPの仕組みや対象国一覧、ESTA（エスタ）との違い、利用条件について詳しく解説します。</p>
+
+          <div className="article-toc">
+            <p className="toc-title">目次</p>
+            <ul>
+              <li><a href="#vwp-about">ビザ免除プログラム(VWP)とは</a></li>
+              <li><a href="#vwp-countries">VWP対象国と開始年月日</a></li>
+              <li><a href="#vwp-esta-diff">VWPとESTAの違い</a></li>
+              <li><a href="#vwp-conditions">VWPの利用条件</a></li>
+              <li><a href="#vwp-ineligible">VWPを利用できない方</a></li>
+              <li><a href="#vwp-passport">VWPに有効なパスポートの条件</a></li>
+              <li><a href="#vwp-land">陸路でのアメリカ入国</a></li>
+              <li><a href="#vwp-terror">テロリスト渡航防止法による制限</a></li>
+            </ul>
+          </div>
+
+          <h2 id="vwp-about">ビザ免除プログラム(VWP)とは</h2>
+          <img src="https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=300&fit=crop" alt="パスポートと航空券" className="section-img" />
+          <p>ビザ免除プログラム（VWP：Visa Waiver Program）とは、アメリカ政府が定めた国・地域の市民に限り、ビザを取得せずに渡米が認められる制度です。渡航目的は90日以内の観光または商用に限られ、VWPを利用して渡米する際は電子渡航認証システム「ESTA（エスタ）」を申請し、「渡航認証許可」の取得が求められます。</p>
+          <div className="point-box">
+            <p className="box-title">💡 ポイント</p>
+            <p>就労や留学を目的として渡米する方はVWPの利用条件に該当しないため、ビザの取得が必須です。ビザの取得には多くの書類提出や領事官との面接などが求められ、申請から取得までに1か月以上かかるため早めの手続きをお勧めします。</p>
+          </div>
+
+          <h2 id="vwp-countries">VWP対象国と開始年月日</h2>
+          <p>現時点におけるビザ免除プログラム（VWP）の該当国と適用開始年月日は以下の通りです。</p>
+          <ul>
+            <li><strong>1988年7月1日</strong> — イギリス</li>
+            <li><strong>1988年12月15日</strong> — 日本</li>
+            <li><strong>1989年7月1日</strong> — フランス、スイス</li>
+            <li><strong>1989年7月15日</strong> — ドイツ、スウェーデン</li>
+            <li><strong>1989年7月29日</strong> — イタリア、オランダ</li>
+            <li><strong>1991年10月1日</strong> — アイスランド、アンドラ、オーストリア、ベルギー、デンマーク、フィンランド、リヒテンシュタイン、ルクセンブルク、モナコ、ノルウェー、サンマリノ、スペイン、ニュージーランド</li>
+            <li><strong>1993年7月29日</strong> — ブルネイ</li>
+            <li><strong>1995年4月1日</strong> — アイルランド</li>
+            <li><strong>1996年7月29日</strong> — オーストラリア</li>
+            <li><strong>1997年9月30日</strong> — スロベニア</li>
+            <li><strong>1999年8月9日</strong> — シンガポール、ポルトガル</li>
+            <li><strong>2008年11月17日</strong> — 韓国、チェコ、エストニア、ハンガリー、ラトビア、リトアニア、スロバキア</li>
+            <li><strong>2008年12月30日</strong> — マルタ</li>
+            <li><strong>2010年4月5日</strong> — ギリシャ</li>
+            <li><strong>2012年11月1日</strong> — 台湾</li>
+            <li><strong>2014年3月31日</strong> — チリ</li>
+            <li><strong>2019年11月11日</strong> — ポーランド</li>
+            <li><strong>2021年12月1日</strong> — クロアチア</li>
+            <li><strong>2023年9月29日</strong> — イスラエル</li>
+            <li><strong>2024年11月21日</strong> — カタール</li>
+          </ul>
+          <p>※イギリス国民のビザ免除プログラム取得はイングランドのほか、ウェールズ・スコットランド・北アイルランド・チャネル島・マン島の永住権保有者に限ります。</p>
+          <p>※ビザ免除プログラムへの参加基準は移民国籍法（Title 8 U.S.C. §1187）で定められ、非入国移住者ビザの非常に低い拒絶率とパスポートの安全性に基づきます。</p>
+
+          <h2 id="vwp-esta-diff">VWPとESTAの違い</h2>
+          <p>ビザ免除プログラム（VWP）対象国の市民は、ビザを取得せずにアメリカへ最長90日間の滞在が認められます。渡航目的は商用または観光に限られ、VWPの利用には電子渡航認証ESTA（エスタ）を申請し「渡航認証許可」を取得する必要があります。一方でESTAは、VWPを利用した渡航者の適格性を事前に審査する電子渡航認証システムです。</p>
+          <p>また、ESTAは米国入国を保証するものではなく、空港のCBP（米国国土安全保障省税関・国境取締局）審査官が最終的に判断します。承認済みのESTAを保持する渡航者であっても、入国審査時の質問に正確な渡航目的を回答できず入国を拒否されるケースも少なくありません。</p>
+
+          <h2 id="vwp-conditions">VWPの利用条件</h2>
+          <img src="https://images.unsplash.com/photo-1540339832862-474599807836?w=800&h=300&fit=crop" alt="空港のチェックインカウンター" className="section-img" />
+          <p>ビザ免除プログラム（VWP）を利用してアメリカへ入国する際は、以下の条件を満たす必要があります。</p>
+          <ul>
+            <li>ESTA（エスタ）を申請し「渡航認証許可」を取得していること</li>
+            <li>VWP参加国の市民であり、期限が有効なICチップ搭載のパスポートを所持していること</li>
+            <li>米国内での滞在期間が90日以内であること</li>
+            <li>渡航目的が短期の観光や商用、または乗り継ぎ（トランジット）に該当すること</li>
+            <li>海路および空路で入国する際は、次の目的地または往復の乗船券・旅行券を所持していること（eチケットを利用の際は、旅行日程が記載された書面の提示が求められます）</li>
+          </ul>
+
+          <h2 id="vwp-ineligible">VWPを利用できない方</h2>
+          <p>下記のいずれかに該当する方は、原則としてビザ免除プログラム（VWP）の利用が認められないため注意が必要です。</p>
+          <ul>
+            <li>就労や留学目的で渡米を希望する方</li>
+            <li>理由を問わず、アメリカ国内で90日以上の滞在を希望する方</li>
+            <li>起訴を含む逮捕歴または重大な犯罪歴がある方</li>
+            <li>過去にアメリカ入国を拒否された方</li>
+            <li>過去にオーバーステイ（不法滞在）の履歴があり、強制送還された方</li>
+            <li>特定の伝染病を患っている方</li>
+          </ul>
+          <div className="warn-box">
+            <p className="box-title">⚠️ ご注意ください</p>
+            <p>上記に該当する方はESTA（エスタ）申請の対象外となるため、在日米国大使館・総領事館にて目的にあわせたビザの取得をご検討ください。</p>
+          </div>
+          <p>また、カナダ・メキシコ・英領バミューダ諸島は、アメリカのVWPに参加していません。ただし、米国移民国籍法ではカナダおよびバミューダ諸島の市民がビザを取得せずに渡航する場合は特定の条項を定めています。</p>
+
+          <h2 id="vwp-passport">VWPに有効なパスポートの条件</h2>
+          <p>ビザ免除プログラム（VWP）を利用してアメリカへ入国する際に、有効となるパスポートの条件は以下の通りです。</p>
+          <ul>
+            <li>パスポートにICチップが搭載されていること</li>
+            <li>期限が有効なパスポートにてESTA申請を済ませ、「渡航認証許可」を取得していること</li>
+            <li>パスポートの残存期間が90日以下の場合は、有効期限日までにアメリカから退去する意志を証明できること</li>
+          </ul>
+          <p>アメリカへ渡航する際は原則として、滞在期間に加えて6か月以上のパスポート残存有効期間が求められます。ただし、VWP参加国の市民は「Six-Month Club」制度の対象となるため、パスポートの残存有効期限が6か月以内の場合も渡米が認められます。</p>
+
+          <h2 id="vwp-land">陸路でのアメリカ入国</h2>
+          <p>これまで陸路でアメリカへ入国する際はESTA（エスタ）の申請は不要でしたが、2022年10月1日より条件が改定されました。同日より日本を含むVWP参加国の市民は、陸路で入国する際もESTA（エスタ）の取得が必須となりましたので必ず渡航前に申請を済ませましょう。</p>
+          <p>また、カナダやメキシコから陸路で入国する際に提出を義務付けていたI-94W用紙は撤廃され、現在は専用ウェブサイトからの事前申請を推奨しています。</p>
+
+          <h2 id="vwp-terror">テロリスト渡航防止法による制限</h2>
+          <p>ビザ免除プログラム（VWP）テロリスト渡航防止法では、2011年3月1日以降にソマリアまたはイエメン、シリア、リビア、イラク、イラン、スーダン、北朝鮮、キューバに渡航または入国した方は、VWPを利用しての渡米が認められません。VWP対象国の市民で、シリア、イラク、イラン、スーダン、北朝鮮の国籍を有する二重国籍者の方も同様です。</p>
+          <p>また、以下の条件に該当する渡航者は免除となる場合があります。</p>
+          <ul>
+            <li>イエメン、リビア、ソマリア、スーダン、イラク、イラン、シリア、北朝鮮、キューバに、政府・地域・国際機関の公務、非政府組織（NGO）や人道支援、報道を目的とするジャーナリストとして入国した場合</li>
+            <li>2015年7月14日以降に商用目的でイランに入国した場合</li>
+            <li>商用目的でイラクに入国した場合</li>
+          </ul>
+
+          <div className="summary-box">
+            <p className="box-title">📝 この記事のまとめ</p>
+            <ul>
+              <li>VWPは日本を含む41か国が対象で、90日以内の観光・商用目的ならビザ不要</li>
+              <li>VWP利用にはESTA申請が必須（出発72時間前までに申請推奨）</li>
+              <li>就労・留学目的の方はビザ取得が必要</li>
+              <li>2011年3月1日以降の特定国渡航歴がある方はVWP利用不可</li>
+              <li>2022年10月1日より陸路入国でもESTAが必須に</li>
+            </ul>
+          </div>
+
+          <h2>よくある質問</h2>
+          <div className="accordion-item">
+            <div className="accordion-header">VWPとESTAは同じものですか？<span className="icon">▼</span></div>
+            <div className="accordion-body">
+              <p>いいえ。VWPはビザ免除の「制度」であり、ESTAはVWP利用者が渡航前に取得する「電子渡航認証」です。VWPの条件を満たす方がESTAを申請し、認証許可を得てビザなしで渡米できます。</p>
+            </div>
+          </div>
+          <div className="accordion-item">
+            <div className="accordion-header">ESTAの有効期限はどのくらいですか？<span className="icon">▼</span></div>
+            <div className="accordion-body">
+              <p>ESTAの有効期限は取得日から2年間です。ただし、パスポートの有効期限が2年以内の場合は、パスポートの失効日にESTAも無効となります。有効期間中は何度でも渡米が可能です。</p>
+            </div>
+          </div>
+          <div className="accordion-item">
+            <div className="accordion-header">乗り継ぎ（トランジット）だけでもESTAは必要ですか？<span className="icon">▼</span></div>
+            <div className="accordion-body">
+              <p>はい。アメリカでは乗り継ぎ客も「入国者」として扱われるため、トランジットであってもESTA申請が必須です。年齢や性別を問わず、全ての渡航者が対象となります。</p>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <section className="related-articles">
+        <h2 className="related-title">関連記事</h2>
+        <div className="related-grid">
+          <a href="usa-transit.html" className="related-card">
+            <img src="https://images.unsplash.com/photo-1556388158-158ea5ccacbd?w=300&h=180&fit=crop" alt="トランジットESTA" />
+            <p>アメリカでの乗り継ぎ(トランジット)にもESTA申請は必要！</p>
+          </a>
+          <a href="usa-news-latest.html" className="related-card">
+            <img src="https://images.unsplash.com/photo-1508433957232-3107f5fd5995?w=300&h=180&fit=crop" alt="アメリカ入国最新情報" />
+            <p>アメリカ入国・渡航に関する最新情報【2026年最新】</p>
+          </a>
+          <a href="usa-losangeles-immigration.html" className="related-card">
+            <img src="https://images.unsplash.com/photo-1534190239940-9ba8944ea261?w=300&h=180&fit=crop" alt="ロサンゼルス入国審査" />
+            <p>ロサンゼルス国際空港(LAX)入国審査の流れを徹底解説</p>
+          </a>
+          <a href="usa-hawaii-news.html" className="related-card">
+            <img src="https://images.unsplash.com/photo-1507876466758-bc54f384809c?w=300&h=180&fit=crop" alt="ハワイ渡航情報" />
+            <p>ハワイ入国・渡航に関する最新情報【2026年3月最新】</p>
+          </a>
+        </div>
+      </section>
+    </main>
+    <div id="sidebar-mount"></div>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

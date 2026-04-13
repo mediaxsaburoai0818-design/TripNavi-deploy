@@ -1,0 +1,136 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","canada-eta-check",""],"q":"","i":false,"f":[[["",{"children":["canada-eta-check",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T4235,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ eTA(イータ)申請の認証確認ができない時の対処法</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>eTA(イータ)申請の認証確認ができない時の対処法</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading"> eTA(イータ)申請の認証確認ができない時の対処法 </h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#operationerror1">eTA(イータ)申請の認証情報を確認する為には</a></li>
+<li><a className="ez-toc-link" href="#operationerror2">eTA(イータ)申請の手続き完了後に送られてくる通知の種類について</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#operationerror3">Confirmation of receipt of eTA application：認証保留状態</a></li>
+<li><a className="ez-toc-link" href="#operationerror4">Request for documents：追加提出の書類請求</a></li>
+<li><a className="ez-toc-link" href="#operationerror5">eTA approved：認証承認</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#operationerror6">eTA(イータ)申請を取得した後、認証状況が確認できない原因とは？</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#operationerror7">eTA(イータ)申請の認証状況が記載されたメールが来ない、受信されない場合</a></li>
+<li><a className="ez-toc-link" href="#operationerror8">認証確認を行うと「申請はありません」や「有効期限が切れています」と表示される場合</a></li>
+<li><a className="ez-toc-link" href="#operationerror9">公式サイトのシステムメンテナンスにより確認ができない場合</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#operationerror10">バックグラウンドの回答を見直してみましょう</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#operationerror11">バックグラウンドに関する質問</a></li>
+</ul></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt=" eTA(イータ)申請の認証確認ができない時の対処法 " className="img_big m20-t m20-b" height="379" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p09_01-1.webp" type="image/webp" width="640"/>
+<img alt=" eTA(イータ)申請の認証確認ができない時の対処法 " className="img_big m20-t m20-b" decoding="async" height="379" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p09_01-1.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="operationerror1">eTA(イータ)申請の認証情報を確認する為には</h2>
+<p><a className="link-no-color" href="http://xs640823.xsrv.jp/eta/">eTA(イータ)申請</a>の審査完了後、認証結果とeTA(イータ)申請番号をご登録いただいたメールアドレス宛にお送りします。<br />申請情報のご確認はカナダ政府公式サイトにアクセスいただき、eTA(イータ)申請番号、姓名、パスポート番号、パスポート発行国、パスポート発行日と有効期限を入力してください。申請情報や審査の進捗をご確認いただけます。</p>
+<div className="Class_AB">
+<a href="https://onlineservices-servicesenligne.cic.gc.ca/eta/applicationQuery?lang=en" target="_blank">https://onlineservices-servicesenligne.cic.gc.ca/eta/applicationQuery?lang=en</a></div>
+<picture>
+<source alt="eTA(イータ)申請の認証情報を確認する為には" className="img_big m20-t m20-b" height="572" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p09_ss_01.webp" type="image/webp" width="640"/>
+<img alt="eTA(イータ)申請の認証情報を確認する為には" className="img_big m20-t m20-b" decoding="async" height="572" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p09_ss_01.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="operationerror2">eTA(イータ)申請の手続き完了後に送られてくる通知の種類について</h2>
+<p> 保留中を伝える通知はeTA(イータ)申請が即時承認された申請者に対しては送信されません。 </p>
+<h3 className="wp-block-heading" id="operationerror3">Confirmation of receipt of eTA application：認証保留状態</h3>
+<p>アプリケーション番号として “ V ” から始まる番号が付与され、eTA(イータ)申請の認証が保留状態にあることを意味します。<br />eTA(イータ)申請が問題なく承認されると再度通知が来ますが、それより前に認証状況を確認したい場合は付与されたアプリケーション番号を使いウェブ上で確認することもできます。認証保留状態ではeTA(イータ)申請を保持しているとは認められませんのでeTA(イータ)申請を利用してカナダへ渡航することはできません。保留中を伝える通知はeTA(イータ)申請が即時承認された申請者に対しては送信されませんので、受け取っていない場合でも認証承認の通知を受け取っている場合は問題ありません。</p>
+<h3 className="wp-block-heading" id="operationerror4">Request for documents：追加提出の書類請求</h3>
+<p>渡航者のeTA(イータ)申請内容についてカナダ移民・難民・市民権省(IRCC)が追加書類の提出が必要と判断した場合にのみ通知されます。<br />追加の書類提出を求められた場合、指定された書類の提出が全て完了するまでeTA(イータ)申請を進めることは出来ません。メールの文面に記載されている手順に従い、指定された書類提出の手配を進めましょう。</p>
+<h3 className="wp-block-heading" id="operationerror5">eTA approved：認証承認</h3>
+<p>“eTA approved”とはeTA(イータ)申請が承認されたことを意味します。承認されると“J”から始まるeTA(イータ)番号と有効期限が付与されますので必ずご確認ください。eTA(イータ)申請の認証情報はパスポート情報に紐づいて管理されています。<br />入国審査の際、eTA(イータ)申請番号などの提示を求められる事はありませんが、承認画面をプリントアウトして所持するかeTA(イータ)番号と有効期限を手帳に書き留めておくことをお勧めします。</p>
+<h2 className="wp-block-heading" id="operationerror6">eTA(イータ)申請を取得した後、認証状況が確認できない原因とは？</h2>
+<p>eTA(イータ)申請の認証状況を確認する為には以下の情報を入力する必要があります。<br />万一、認証状況が確認できない場合は入力した以下の内容が正しいか確認しましょう。</p>
+<ul className="wp-block-list"><li><strong>eTA(イータ)申請番号(VまたはJから始まる番号)</strong></li><li><strong>パスポート番号</strong></li><li><strong>姓名のスペル</strong></li><li><strong>パスポート発行国</strong></li><li><strong>パスポート発行日と有効期限</strong></li></ul>
+<h3 className="wp-block-heading" id="operationerror7">eTA(イータ)申請の認証状況が記載されたメールが来ない、受信されない場合</h3>
+<p>eTA(イータ)申請の認証審査時間は申請者の申請情報により異なります。多くの場合は申請手続きが完了してから数分以内に“認証保留中”または“認証承認”と記載された通知が送られます。eTA(イータ)申請の認証状況を確認するにはメールに記載されている番号が必要となりますが、認証審査にかかる最大72時間を過ぎてもメールが受信されない場合は以下の問題が発生している可能性があります。</p>
+<ul className="wp-block-list"><li><strong>登録したメールアドレスが正しい情報ではない</strong></li><li><strong>登録したメールアドレスの迷惑メール防止フィルターにより通知が受信できない状態にある</strong></li></ul>
+<p>eTA(イータ)申請の通知が受信できなかった場合は、正しいメールアドレスで再申請手続きを行うか認証審査期間の72時間を超えてから下記よりお問合せください。</p>
+<div className="Class_AB">
+<a href="http://www.cic.gc.ca/english/contacts/web-form.asp" target="_blank">http://www.cic.gc.ca/english/contacts/web-form.asp</a></div>
+<h3 className="wp-block-heading" id="operationerror8">認証確認を行うと「申請はありません」や「有効期限が切れています」と表示される場合</h3>
+<p>eTA(イータ)申請番号を入力しているにもかかわらず認証状況が確認できない時には以下のような原因が考えられます。</p>
+<h4 className="wp-block-heading"><span className="has-inline-color has-black-color">1. eTA(イータ)申請番号の入力間違い</span></h4>
+<p>eTA(イータ)申請の認証状況を確認するためには申請手続きが完了した際に通知される番号を入力する必要があります。認証保留中の場合は” V “から始まるアプリケーション番号、認証が承認された場合は” J “から始まるeTA(イータ)申請番号になります。この番号は1文字でも入力を間違えたり、数字の間にスペースを入れたりすると認証情報が照合されませんので正しく入力しましょう。</p>
+<h4 className="wp-block-heading"><span className="has-inline-color has-black-color">2. パスポート番号・お名前・生年月日など入力したパスポート情報に誤りがある</span></h4>
+<p>申請状況を確認する為には正しい情報で検索する必要があります。パスポート番号の入力間違い、姓名を逆に入力してしまっている、生年月日の選択間違えなどはありませんか？ eTA(イータ)申請時と同じパスポート情報を再度入力しましょう。</p>
+<h4 className="wp-block-heading"><span className="has-inline-color has-black-color">3. パスポート情報とeTA(イータ)申請時の情報が一致しない</span></h4>
+<p>eTA(イータ)申請は誤ったパスポート情報であっても認証審査を進めることが可能です。そのため、認証が承認されてから認証情報を確認しないまま入国審査まで進んでしまい、実際のパスポートとeTA(イータ)申請時に入力したパスポート情報がシステム上で一致せず取得情報が見つけられない場合は飛行機の搭乗や入国を拒否されてしまう可能性もございます。正しいパスポート情報にて確認した際にeTA(イータ)申請の認証情報が照合できない場合は、渡航時のトラブルを避ける為にも正しいパスポート情報で再申請の手続きを進めましょう。</p>
+<h4 className="wp-block-heading"><span className="has-inline-color has-black-color">4. eTA(イータ)申請の有効期限が切れている</span></h4>
+<p>eTA(イータ)申請の有効期限は5年間ですが、申請の際に登録したパスポートの有効期限が5年以内の場合はパスポートの有効期限と同日にeTA(イータ)申請の有効期限も失効となります。また、eTA(イータ)申請の際に登録したパスポートを名義変更や有効期限切れなどで更新または再発行を行った場合はパスポート番号に紐づき管理されている為eTA(イータ)申請も同時に失効されます。<br />eTA(イータ)申請は更新制度がありませんのでパスポートの再発給を受けた場合はeTA(イータ)申請も新しいパスポート番号で再取得する必要があります。ただし、eTA(イータ)申請が失効された場合でもカナダへ渡航する予定がなければ再取得を急ぐ必要はありません。</p>
+<h3 className="wp-block-heading" id="operationerror9">公式サイトのシステムメンテナンスにより確認ができない場合</h3>
+<p>eTA(イータ)申請のウェブサイトを運営しているカナダ移民・難民・市民権省(IRCC)は不定期でサイトのシステムメンテナンスを行います。<br />TOPページなどにシステムメンテナンス予定日や現在メンテナンス中などの旨が記載されますので確認する必要があります。システムメンテナンス中は申請手続きや申請状況の確認などの作業が行えなくなりますので、渡航予定日から余裕をもって申請手続きや申請状況の確認を行いましょう。</p>
+<h2 className="wp-block-heading" id="operationerror10">バックグラウンドの回答を見直してみましょう</h2>
+<p>申請書には申請者の健康状態や犯罪歴、過去の海外渡航歴についてなどバックグラウンドに関しての質問項目があります。この質問には正確な情報で回答する必要がありますので慎重な入力をお願いします。<br />カナダ移民・難民・市民権省(IRCC)のシステムには申請者の過去の電子渡航システムやビザの申請履歴が蓄積されております。虚偽の回答は偽証とみなされ渡航認証拒否となるケースもありますので、正確な回答をお願いします。</p>
+<h3 className="wp-block-heading" id="operationerror11">バックグラウンドに関する質問</h3>
+<ol className="wp-block-list"><li><strong>Have you ever been refused a visa or permit, denied entry to, or ordered to leave Canada or any other country/territory?<br /></strong>ビザまたは認証を拒否されたこと、カナダや他の国/地域への入国を拒否された事または退去を命じられたことはありますか</li><li><strong>Have you ever committed, been arrested for, been charged with or convicted of any criminal offence in any country/territory?<br /></strong>今までに罪を犯し逮捕された、起訴された、または有罪判決を受けたことがありますか</li><li><strong>In the past two years, were you diagnosed with tuberculosis or have you been in close contact with a person with tuberculosis?<br /></strong>過去2年間で結核と診断された事または結核の人と密接に接触したことはありますか</li><li><strong>Do you have one of these conditions?<br /></strong>以下の症状に該当するものはありますか<br /><strong>Untreated syphilis</strong>　(未治療の梅毒)、<strong>Untreated drug or alcohol addiction</strong>　(未治療の薬物またはアルコール中毒)、<strong>Untreated mental health condition with psychosis</strong>　(精神病をともなう未治療の精神的健康状態)</li></ol>
+<p>上記の質問に対して“Yes”を選択するとさらに質問が表示されます。現在の状況や事実に基づき、正しい情報を入力してください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"eTA(イータ)申請の認証確認ができない時の対処法 | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

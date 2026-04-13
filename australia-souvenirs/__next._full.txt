@@ -1,0 +1,152 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","australia-souvenirs",""],"q":"","i":false,"f":[[["",{"children":["australia-souvenirs",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T670f,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オーストラリアお土産13選 【人気＆定番からおすすめまでご紹介】</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>オーストラリアお土産13選 【人気＆定番からおすすめまでご紹介】</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">オーストラリアお土産13選 【人気＆定番からおすすめまでご紹介】</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#souvenirs1">オーストラリア旅行を満喫するために</a></li>
+<li><a className="ez-toc-link" href="#souvenirs2">オーストラリアのお土産 食べ物</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#souvenirs3">マカダミアナッツ / Macadamia nuts</a></li>
+<li><a className="ez-toc-link" href="#souvenirs4">ティムタム / Tim Tam</a></li>
+<li><a className="ez-toc-link" href="#souvenirs5">オリーブオイル / Olive Oil</a></li>
+<li><a className="ez-toc-link" href="#souvenirs6">オーストラリアワイン</a></li>
+<li><a className="ez-toc-link" href="#souvenirs7">オーストラリアビール</a></li>
+<li><a className="ez-toc-link" href="#souvenirs8">紅茶</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#souvenirs9">オーストラリアのお土産 グッズ</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#souvenirs10">コアラグッズ</a></li>
+<li><a className="ez-toc-link" href="#souvenirs11">カンガルーグッズ</a></li>
+<li><a className="ez-toc-link" href="#souvenirs12">アボリジナル(アボリジニ)アート / Aboriginal Art</a></li>
+<li><a className="ez-toc-link" href="#souvenirs13">オパール / Opal</a></li>
+<li><a className="ez-toc-link" href="#souvenirs14">ラウンドタオル / Round Towel</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#souvenirs15">オーストラリアのお土産 化粧品</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#souvenirs16">ユーカリオイル / Eucalyptus Oil</a></li>
+<li><a className="ez-toc-link" href="#souvenirs17">ティーツリーオイル / Tea Tree Oil</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#souvenirs18">オーストラリア入国について</a></li>
+<li><a className="ez-toc-link" href="#souvenirs19">渡航の前にETAS(イータス)申請を</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="マカダミアナッツ / Macadamia nuts" className="img_big m20-t m20-b" height="412" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/e366181d2f39dae101d2089c9d5c4688-1.webp" type="image/webp" width="640"/>
+<img alt="マカダミアナッツ / Macadamia nuts" className="img_big m20-t m20-b" decoding="async" height="412" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/e366181d2f39dae101d2089c9d5c4688-1.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="souvenirs1">オーストラリア旅行を満喫するために</h2>
+<p>日本から毎年約50万人が訪れるオーストラリアには、豊かな自然や大都市、歴史的建造物など多彩な<a href="http://xs640823.xsrv.jp/etas/tourism/index.html">観光スポット</a>があります。旅行ではお土産を購入する方も多いと思いますが、価格や購入場所に加え「定番のお土産は避けた方が良い？」など悩みどころは多いのではないでしょうか。このページでは現地でお土産探しに悩むことが無いよう、オーストラリア土産の定番からおすすめまで紹介します。</p>
+<h2 className="wp-block-heading" id="souvenirs2">オーストラリアのお土産 食べ物</h2>
+<h3 className="wp-block-heading" id="souvenirs3">マカダミアナッツ / Macadamia nuts</h3>
+<p>マカダミアナッツといえばハワイを思い浮かべる方が多いかもしれませんが、オーストラリアはマカダミアナッツの原産国であり、ハワイを上回る世界の生産量の約30％を占めます。マカダミアナッツはクイーンズランド州南部の熱帯雨林などに自生し、別名をクイーンズランド・ナッツと言います。マカダミアナッツは<a href="http://xs640823.xsrv.jp/etas/indigenouspeople/index.html">オーストラリアの先住民アボリジナル(アボリジニ)</a>にとって豊作の象徴であり、ご馳走として食べられていました。脳卒中の予防作用があるパルミトオレイン酸(POA)を豊富に含むマカダミアナッツはビタミン、ミネラル、食物繊維、抗酸化物質なども含み栄養価が高く近年生産量が増加傾向にあります。土産店や地元のスーパーマーケットで置いてあることが多く、塩味やバター味をはじめチョコレートコーティングなど種類が豊富なのでお土産として人気です。</p>
+<h3 className="wp-block-heading" id="souvenirs4">ティムタム / Tim Tam</h3>
+<p>ティムタムはオーストラリア旅行で定番のお土産のひとつと言えるでしょう。クッキーがチョコレートでコーティングされ1個のボリュームが大きく、最近では日本でも購入できるほど人気のあるお菓子です。定番の味はミルクチョコレート、ダークチョコレート、ホワイトチョコレート、キャラメルクリーム、チョコレートコーティングが通常の2倍のダブルコートの5種類です。この他にオーストラリア国内ではココナッツクリーム、塩キャラメル、アップル、パイナップルなどのオリジナルフレーバーが購入できます。また、通常のティムタムはクッキーチョコレートが11枚入った大袋で販売されますが、オーストラリアではミニサイズの個包装タイプもあり、お土産を大人数に配る際にピッタリです。土産店や空港でも購入できますが、ウールワースやColesなどの大型スーパーマーケットでもお手頃価格で販売されていますので観光プランに合わせた購入場所を探してみてください。</p>
+<h3 className="wp-block-heading" id="souvenirs5">オリーブオイル / Olive Oil</h3>
+<p>地中海地方で多く生産されるオリーブオイルですが、南オーストラリア州やビクトリア州などのオーストラリア南部はオリーブ生産諸国と気候が似ているため質の良いオリーブが採れることで知られます。特にオーストラリア最大のシェア率を誇るオリーブオイルブランド「Cobram Estate(コブラム・エステート)」は、世界のオリーブオイルコンペティションで多くの受賞歴を持ちます。オーストラリアのスーパーマーケットでは、日本にはあまり普及していないスプレーボトルタイプのオリーブオイルが多く販売されます。スプレータイプは少量のオリーブオイルを均等に吹きかけられ、料理の際に便利なため人気です。また、ガーリックやレモン、バジルのスパイス入りなど種類が豊富で、日本でも販売される同じような商品でもオーストラリアでは半額以下で購入できる場合もあります。</p>
+<h3 className="wp-block-heading" id="souvenirs6">オーストラリアワイン</h3>
+<p>紀元前からワイン造りが行われる欧州諸国は“オールドワールド”と呼ばれ、新しくワイン造りを始めたアメリカ、チリ、オーストラリアなどの国を“ニューワールド”と呼びます。ニューワールドの中でもオーストラリアは、ワインの輸出量が多く低価格ながら高品質なことで知られます。オーストラリアの主なワイン生産地には、国内最古のワイン産地“ハンター・バレー”、世界的に良質なワイン産地として知られる“バロッサ・バレー”、果樹園やオリーブ畑も広がる“モーニントン半島”、国内最高級のピノノワール産地“ヤラ・バレー”、世界トップクラスのワイナリーやレストランが軒を連ねる“マーガレット・リバー”などがあります。シドニーのサーキュラーキー/Circular Quay駅にあるワイン専門店「オーストラリアン・ワイン・センター」は1400種類以上のワインが販売されています。ワイン選びに迷った場合は、ワインカウンセラーと呼ばれるスタッフに相談できるので安心です。ワインはスーパーマーケットなどでも購入できますが、ワイナリーツアーや試飲会に参加し、お気に入りのワインを探してみるのも旅行の楽しみではないでしょうか。</p>
+<ul className="wp-block-list"><li><a href="https://www.australia.com/ja-jp/things-to-do/food-and-drinks/australias-best-wineries.html" rel="noreferrer noopener" target="_blank">オーストラリアのワイナリー</a> / オーストラリア政府観光局</li></ul>
+<h3 className="wp-block-heading" id="souvenirs7">オーストラリアビール</h3>
+<p>オーストラリアでは日本の居酒屋のような感覚でパブがあり、「パブとビール」の文化が根付いています。オーストラリアのビールは多種多様な味があり、ラベルやボトルがカラフルなものが多くお土産におすすめです。オーストラリアで人気のあるマイルドな口当たりで少し辛口なラガー/Lagerやフルーティーな味わいでコクが深いエール/Ale、黒ビールの一種でロースト風味が強いポーター/Porter、アルコール度数の高いボック/Bock、ナッツやチョコレートのような香ばしい香りが特徴のスタウト/Stoutなどがあります。オーストラリアでシェア率が高いビールブランドは緑色のラベルで通称ヴィビー/VBと呼ばれるビクトリアビター/Victoria Bitterと黄色いラベルのフォーエックス ゴールド/XXXX GOLDです。両方とも日本人には馴染みのあるラガーなので口当たりも良く飲みやすいでしょう。フォーエックスは他にビターとサマーブライトラガーがあり、天然ライムの果汁が入ったサマーブライトラガーはフルーティーな味わいで女性に人気です。他にもパーティーでよく飲まれるクラウンラガー/Crown Lager、インパクトの強い風味で苦みのあるエミュ/EMU、濃い味と独特の風味のあるカスケードプレミアム/Cascade Premium、パンチの効いた味のトゥーイーズニュー/Tooheys NEWなどがあります。<br />また、ワイン醸造所をワイナリーと呼ぶようにビール醸造所はブルワリー/breweryと呼ばれ、シドニーやメルボルンなどの都市部にはバーが併設されるブルワリーが多数あります。クイーンズランド州サンシャインコーストにはモフェットビーチ・ブルワリーング・カンパニー/MOFFAT BEACH BREWING CO.というブルワリーがあり、ビーチサイドでクラフトビールを味わうことができます。ビール好きの方はブルワリー巡りも観光プランに加えてみてはいかがでしょうか。</p>
+<ul className="wp-block-list"><li><a href="https://www.australia.com/ja-jp/things-to-do/food-and-drinks/australias-best-breweries.html" rel="noreferrer noopener" target="_blank">オーストラリアのビール醸造所</a> / オーストラリア政府観光局</li></ul>
+<h3 className="wp-block-heading" id="souvenirs8">紅茶</h3>
+<p>オーストラリアで紅茶と言えば専門店の「T2」が有名です。ビクトリア州メルボルン発祥の「T2」は、1996年にフィッツロイで1号店がオープンしてから今日までオーストラリア国民に愛される紅茶専門店です。T2は紅茶だけでなくハーブティーやフルーツティー、緑茶やウーロン茶なども取り扱い、200種類以上のフレーバーがあります。店内では試飲もできるので渡す相手を想像しながらセレクトしてみてはいかがでしょうか。味もさることながらキューブ型のパッケージがカラフルで目を引きます。<br />また、イギリス発祥の紅茶ブランド「TWININGS(トワイニング)」はオーストラリア限定フレーバー「AUSTRARIAN AFTERNOON TEA」を販売しています。地元のスーパーマーケットなどでも販売され、T2と比べてお手頃価格で購入できます。</p>
+<picture>
+<source alt="コアラグッズ" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/a66ebf21d496b29f964684ce82100de3.webp" type="image/webp" width="640"/>
+<img alt="コアラグッズ" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/a66ebf21d496b29f964684ce82100de3.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="souvenirs9">オーストラリアのお土産 グッズ</h2>
+<h3 className="wp-block-heading" id="souvenirs10">コアラグッズ</h3>
+<p>オーストラリアでは固有種のコアラをモチーフとしたグッズが土産店を始め数々のショップで販売されます。Tシャツやキーホルダーなどの小物からコアラ型のチョコやクッキーなどのお菓子まで様々なグッズがあります。特にコアラが木にしがみついている形のクリップは定番のお土産で、国旗や<a href="http://xs640823.xsrv.jp/etas/indigenouspeople/index.html">先住民アボリジナル(アボリジニ)</a>の民芸品であるブーメランを持っていたりと種類が豊富です。クリップ型のコアラは複数個入りの大袋でも販売されるため大人数に配る際に便利です。</p>
+<h3 className="wp-block-heading" id="souvenirs11">カンガルーグッズ</h3>
+<p>南半球最大手“カンタス航空”のロゴにもなっているカンガルーはコアラに次いで人気があり、土産店などで多種多様なグッズが販売されます。お腹で子供を育てる有袋類のカンガルーは、ぬいぐるみになるととても可愛く、子どもへのお土産で重宝されます。他にもボクシングをしているように見えるボールペンや、カンガルーの形をしたチキン味のスナック“Jumpy’s/ジャンピーズ“、カンガルー味のビーフジャーキーなども人気です。コアラとカンガルーがセットになったグッズも多く、どちらも購入したい方は必見です。</p>
+<h3 className="wp-block-heading" id="souvenirs12">アボリジナル(アボリジニ)アート / Aboriginal Art</h3>
+<p>オーストラリアの先住民“<a href="http://xs640823.xsrv.jp/etas/indigenouspeople/index.html">アボリジナル(アボリジニ)</a>”は言語を持たない民族のため、歴史や情報を伝承する手段として絵や歌を用いていました。洞窟の岩壁や岩などに描かれた絵はオーストラリアの文化的遺産として保存されています。カカドゥ国立公園内にある西アーネムランドの洞窟や岩陰に残される多数の壁画は、2万年以上前のものを含み人類最古の絵画のひとつと言われます。アボリジナルアートには特徴的な画法が2つあります。X線(レントゲン)画像のように動物の骨格や内臓が細かく描かれる“エックスレイ・ペインティング“と、何百万、何千万個からなる小さな点で自然や動物などを描く”ドット・ペインティング(点描画)“と呼ばれる手法です。アボリジナルアートは各国で展覧会が開催されるほど国際的に高い評価を得ています。ユニークなアボリジナルアートが描かれる定番のお土産はTシャツやキーボルダーですが、アボリジナルが狩猟の際に使用していた”ブーメラン“も人気があります。また、オーストラリア産のワインやビールのラベルにアボリジナルアートが装飾されているものなどもおすすめです。</p>
+<ul className="wp-block-list"><li><a href="https://www.australia.com/ja-jp/things-to-do/aboriginal-australia.html" rel="noreferrer noopener" target="_blank">先住民アボリジナル(アボリジニ)</a> / オーストラリア政府観光局</li></ul>
+<h3 className="wp-block-heading" id="souvenirs13">オパール / Opal</h3>
+<p>オーストラリアはオパールの世界の生産量のうち90%以上を占め、国家を象徴する石(宝石)の“国石”としてオパールを指定しています。オパールは10月の誕生石であり、見る角度によって様々な輝きを放つ魅力的な石として知られます。一般的に販売されるホワイトオパールは名前の通り乳白色で柔らかな色合いのものが多く、アクセサリーなどに加工されます。専門店に限らず空港の免税店や土産店でも販売されているので自分好みなデザインを探してみてください。ホワイトオパールの他に世界でニューサウスウェールズ州ライトニングリッジでしか産出されない七色の光彩を放つブラックオパールと波打つ光彩が綺麗なボルダーオパールがあります。この2種類を購入する場合はオパール専門店を訪れてみてください。また、砂山の中からオパールを探し出すアクティビティもあり、自分で掘り出したオパールをアクセサリーとして身に着けるのも旅の思い出になるかもしれません。</p>
+<h3 className="wp-block-heading" id="souvenirs14">ラウンドタオル / Round Towel</h3>
+<p>世界で最も美しいビーチのひとつと言われるホワイトヘブンビーチをはじめ、オーストラリアには数多くの美しいビーチがあります。ビーチ大国で人気のあるラウンドタオルは近年SNSで注目され、お土産としても人気です。大人が寝転がれるほど大きい円形のラウンドタオルは、サーフブランドやファッションブランドなどで多く販売されています。オーストラリアのブランド「the beach people」はラウンドタオルの発祥店といわれ、多種多様なデザインを取り揃えています。ラウンドタオルには砂がつきにくい加工や渇きやすい布が使用され利便性に優れます。ビーチ以外でもブランケットやラグとして活躍するためオシャレ好きな方へのお土産にピッタリです。</p>
+<picture>
+<source alt="オーストラリアのお土産 化粧品" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/5f78f174b2f54463dbfc3ba8e69555c2.webp" type="image/webp" width="640"/>
+<img alt="オーストラリアのお土産 化粧品" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/5f78f174b2f54463dbfc3ba8e69555c2.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="souvenirs15">オーストラリアのお土産 化粧品</h2>
+<h3 className="wp-block-heading" id="souvenirs16">ユーカリオイル / Eucalyptus Oil</h3>
+<p>ユーカリオイルはコアラの主食として知られる“ユーカリ”の葉に含まれる油から抽出されます。オーストラリアの家庭に一つはあるといわれるユーカリオイルには、殺菌・抗菌作用、炎症などの鎮静作用、リラックス効果など様々な効能があります。ユーカリオイルを数滴垂らしたお湯を蒸気吸引すると喉の痛みを緩和し鼻通りが良くなり、患部に塗り込むと筋肉痛を和らげます。のど飴や軟膏などにもよく使われ、すっきりした香りが特徴的です。オーストラリアのスーパーマーケットでは掃除用のスプレータイプや洗濯用のリキッドタイプが売られ、様々な用途で活躍します。日本では炎症を鎮める働きから化粧品に含まれ、リラックス効果からアロマオイルとしても使われます。使い勝手も良くオーストラリア特産のユーカリオイルはお土産としておすすめです。</p>
+<h3 className="wp-block-heading" id="souvenirs17">ティーツリーオイル / Tea Tree Oil</h3>
+<p>殺菌や抗菌、抗炎症作用に優れ感染症予防や肌トラブル対策にも有効なティーツリーオイルは、ユーカリオイルと共にオーストラリアの家庭における常備品のひとつです。ティーツリーオイルはオーストラリア東海岸の亜熱帯地域に自生するフトモモ科の植物“ティーツリー”の葉を水蒸気蒸留して抽出されます。<a href="http://xs640823.xsrv.jp/etas/indigenouspeople/index.html">オーストラリアの先住民アボリジナル(アボリジニ)</a>はティーツリーの葉で怪我の殺菌消毒や皮膚トラブルの治療を行っていたと言われます。ティーツリーはオイルやスキンクリームなどを始め様々な商品に使用され、水虫の治療に効くフットパウダーなども販売されています。スーパーマーケットやドラッグストアなどで購入できます。</p>
+<picture>
+<source alt="ティーツリーオイルTea Tree Oil" className="img_big m20-t m20-b" height="363" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/a9ace6debae66612773a34bff5990db2.webp" type="image/webp" width="640"/>
+<img alt="ティーツリーオイルTea Tree Oil" className="img_big m20-t m20-b" decoding="async" height="363" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/a9ace6debae66612773a34bff5990db2.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="souvenirs18">オーストラリア入国について</h2>
+<p>海外渡航者がオーストラリアへ入国する際は、ETAS(イータス)またはビザを取得する必要があります。渡航目的や滞在日数などによって取得するビザの種類は異なります。ビザの申請は<a href="https://immi.homeaffairs.gov.au/" rel="noreferrer noopener" target="_blank">オーストラリア内務省サイト</a>にてオンラインで行いましょう。パスポートの残存期間はオーストラリアに滞在する期間を含む日数であれば問題ありません。未成年者がビザ申請をする際の追加書類については「<a href="http://xs640823.xsrv.jp/etas/minority/index.html">未成年のオーストラリア渡航について</a>」よりご確認ください。また、オーストラリアでは固有の動植物の保護と環境維持のため、入国する際に厳しい検疫が行われます。検疫についての詳細は<a href="https://japan.embassy.gov.au/tkyojapanese/quarantine_jp.html" rel="noreferrer noopener" target="_blank">オーストラリア大使館のページ</a>よりご確認ください。</p>
+<h2 className="wp-block-heading" id="souvenirs19">渡航の前にETAS(イータス)申請を</h2>
+<p>日本国籍者がオーストラリアに90日以内の観光や短期商用を目的とする場合、電子渡航認証のETAS(イータス)を申請するとビザを取得せず渡航することができます。ETAS(イータス)申請はオンラインで完結し、申請が承認されるとパスポート情報に紐づいて管理されます。ビザを取得せずETAS(イータス)利用してオーストラリアに渡航する場合は、飛行機に搭乗する前にETAS(イータス)を取得する必要があります。ETAS(イータス)申請について詳しくは「<a href="http://xs640823.xsrv.jp/etas/service/index.html">オーストラリア観光ビザのETAS(イータス)とは</a>」よりご確認ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="australia-etas.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"オーストラリアお土産13選 【人気＆定番からおすすめまでご紹介】 | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","canada-maple-syrup",""],"q":"","i":false,"f":[[["",{"children":["canada-maple-syrup",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T677f,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダの名産品メープルシロップとは？種類や選び方を紹介</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダの名産品メープルシロップとは？種類や選び方を紹介</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">カナダの名産品メープルシロップとは？種類や選び方を紹介</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#maplesyrup1">カナダのメープルシロップとは</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#maplesyrup2">メープルシロップの歴史</a></li>
+<li><a className="ez-toc-link" href="#maplesyrup3">メープルシロップの採取方法</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#maplesyrup4">メープルシロップの種類</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#maplesyrup5">ゴールデン(デリケートテイスト)</a></li>
+<li><a className="ez-toc-link" href="#maplesyrup6">アンバー(リッチテイスト)</a></li>
+<li><a className="ez-toc-link" href="#maplesyrup7">ダーク(ロバストテイスト)</a></li>
+<li><a className="ez-toc-link" href="#maplesyrup8">ベリーダーク(ストロングテイスト)</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#maplesyrup9">メープルシロップの選び方</a></li>
+<li><a className="ez-toc-link" href="#maplesyrup10">カナダのおすすめメープルシロップ</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#maplesyrup11">カドデュケベック メープルシロップ / Cadeau du Quebec Maple Syrup</a></li>
+<li><a className="ez-toc-link" href="#maplesyrup12">カナダ No.1メープルシロップ / Canada No.1 Maple Syrup</a></li>
+<li><a className="ez-toc-link" href="#maplesyrup13">シタデール ピュアメープルシロップ / Citadelle Pure Maple Syrup</a></li>
+<li><a className="ez-toc-link" href="#maplesyrup14">アレガニーズ メープルシロップ / Alleghanys Maple Syrup</a></li>
+<li><a className="ez-toc-link" href="#maplesyrup15">カークランド メープルシロップ / Kirkland Maple Syrup</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#maplesyrup16">メープルシロップの保存方法</a></li>
+<li><a className="ez-toc-link" href="#maplesyrup17">カナダ観光をする際に必要な手続き</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="カナダの名産品メープルシロップとは" className="img_big m20-t m20-b lazyloaded" height="426" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/4c378d9fcd5719806e8f88dad288c293.webp" type="image/webp" width="640"/><img alt="カナダの名産品メープルシロップとは" className="img_big m20-t m20-b" decoding="async" height="426" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/4c378d9fcd5719806e8f88dad288c293.jpg" width="640"/>
+</picture>
+<p>カナダの名産品として有名なメープルシロップは国旗にも描かれるカエデの樹液から作られます。日本でもパンケーキなどスイーツのトッピングとしてお馴染みのメープルシロップは、現地のスーパーなどで気軽に購入できる定番のお土産です。しかし、カナダでは色や風味が異なるメープルシロップが数多く販売されているため、どれを選べばよいのか悩む方も多いのではないでしょうか。このページではメープルシロップの種類や特徴、購入時の注意点などを紹介します。</p>
+<h2 className="wp-block-heading" id="maplesyrup1">カナダのメープルシロップとは</h2>
+<h3 className="wp-block-heading" id="maplesyrup2">メープルシロップの歴史</h3>
+<p>カナダは世界最大のメープルシロップ生産量を誇り、そのうちの約7割がケベック州で作られます。また、メープルシロップはカナダの名産品として日本をはじめ世界50か国以上に輸出されており、生産量に並び輸出量も世界最大です。パンケーキのトッピングや料理の調味料としても馴染みのあるメープルシロップの歴史はカナダに入植者が訪れる遥か昔、約500年以上前にさかのぼります。<br />原材料となるサトウカエデの樹液(メープルウォーター)は天然の糖分より甘く、栄養価が高いことから先住民のエネルギー源として古くから食されていました。1600年代に先住民が欧州からの入植者へメープルウォーターの採取方法を伝え、1700年頃からは鉄の大釜でメープルウォーターを煮詰めて濃縮したシロップが作られるようになったと言われています。当初は木で作られた採取口を幹に取り付け、木の皮の器でメープルウォーターを集めていましたが、長い年月をかけて採取方法や製造方法は発展を遂げました。1850年以降はメープルウォーターを集めていた器がアルミ製のバケツに変わり、1960年代には採取方法としてバキュームポンプシステムを採用。馬などで運んでいたメープルウォーターは木の採取口に取り付けたチューブから直接小屋のタンクへ溜められるようになりました。1980年代からは原料に含まれる水分だけを濃縮する“逆浸透”という技術がシロップの製造に利用されるようになります。技術の進化によって古くからカナダで愛されているメープルシロップをより効率的に生産できるようになりました。</p>
+<picture>
+<source alt="メープルシロップの採取方法" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/332233792193321b75e3f321a98f8aea.webp" type="image/webp" width="640"/>
+<img alt="メープルシロップの採取方法" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/332233792193321b75e3f321a98f8aea-1.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="maplesyrup3">メープルシロップの採取方法</h3>
+<p>メープルシロップはサトウカエデの樹液を煮詰めて濃縮した甘味料です。カエデの木はカナダの厳しい寒さを乗り切るために生成したデンプンを糖分に変え、エネルギーとして蓄えます。そして春を迎えると地面から雪解け水を吸い上げ、吸収された水分は糖分を含んだ樹液“メープルウォーター”として流れ出します。シロップの原材料となるメープルウォーターは3月から4月頃までの限られた期間しか採取することが出来ません。この時期になると生産者はカエデの木に採取口を取り付け、バケツやチューブを使ってメープルウォーターを集めます。1本の木から約40～80リットルのメープルウォーターが採れますが、40リットルでおよそ1リットルのシロップしか作ることが出来ません。集めたメープルウォーターはシュガーハウスと呼ばれる小屋の中で糖度が66％になるまで煮詰められます。高温で長時間煮詰められた液体を最後にろ過し、不純物を取り除くとメープルシロップの完成です。煮詰める時間をさらに長くするとメープルスプレッドやメープルシュガーになります。<br />販売されるメープルシロップには色味が濃いものや薄いものがありますが、これらの違いはメープルウォーターの採取時期によって生じます。採取時期が早いものは糖分の保有量が多いため、煮詰める時間が短くなることから色味の薄い“ゴールデン(デリケートテイスト)”と呼ばれるシロップになります。一方、採取時期が遅くなるにつれ、メープルウォーターの糖分は減少します。液体を煮詰める時間がより長くなり、アンバー(リッチテイスト)、ダーク(ロバストテイスト)、ベリーダーク(ストロングテイスト)の順で色味や風味が濃いシロップが出来上がります。</p>
+<picture>
+<source alt="メープルシロップの種類" className="img_big m20-t m20-b" height="316" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/d79c1fe856d5270be347c9feb33fec6d.webp" type="image/webp" width="640"/>
+<img alt="メープルシロップの種類" className="img_big m20-t m20-b" decoding="async" height="316" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/d79c1fe856d5270be347c9feb33fec6d-1.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="maplesyrup4">メープルシロップの種類</h2>
+<h3 className="wp-block-heading" id="maplesyrup5">ゴールデン(デリケートテイスト)</h3>
+<p>ゴールデン(デリケートテイスト)は最も色味が薄いメープルシロップです。採取時期の初期に集められた樹液“メープルウォーター”から作られ、光の透過率100％～75％の基準値を満たすシロップが分類されます。採取時期が早いメープルウォーターは糖分を多く含み糖度を濃縮する際の加熱時間が短いことから、透明度が高く色が薄いシロップになります。限られた時期の希少なメープルウォーターを使用するため、販売価格はやや高めです。<br />ゴールデン(デリケートテイスト)はアンバー(リッチテイスト)、ダーク(ロバストテイスト)、ベリーダーク(ストロングテイスト)より液体の透明度が高く、黄色い蜂蜜のような見た目をしています。最も風味が軽く繊細な味わいのため、パンや果物、ナッツなどにかけてシロップそのものの風味を堪能する食べ方がおすすめです。メープル特有の香りやクセが控えめなので砂糖の代わりとして紅茶に入れたり、料理に使用されることもあります。サラダのドレッシングなど加熱しない料理に使うことでゴールデン(デリケートテイスト)ならではの風味をより楽しむことができます。</p>
+<h3 className="wp-block-heading" id="maplesyrup6">アンバー(リッチテイスト)</h3>
+<p>アンバー(リッチテイスト)は光の透過率が74.9％～50％ほどの琥珀色をしたメープルシロップです。ゴールデン(デリケートテイスト)が作られるメープルウォーターの採取時期よりも後となる、3月末頃に集められたメープルウォーターを原料としています。色味は一般的なメープルシロップとしてイメージされる透明度のある琥珀色となり、流通しているシロップの多くがアンバー(リッチテイスト)に分類されます。日本人にも馴染みのある味わいのため、同種のメープルシロップはカナダ旅行のお土産としてもおすすめです。地元のスーパーなどで気軽に購入でき、大容量サイズから手土産にピッタリな小さめサイズまで販売されています。特にカエデの葉の形をした瓶に入ったものは見た目も可愛らしく、お土産の定番として人気があります。<br />原料の採取時期が早いゴールデン(デリケートテイスト)は風味が控えめで軽やかな味わいとなる一方、アンバー(リッチテイスト)はメープルの香りが程よく感じられるまろやかな味わいが特徴的です。パンケーキやヨーグルトなどのソースとしてそのまま使われることが多い印象ですが、料理への使用にも適しています。アンバー(リッチテイスト)のメープルシロップはデザートから普段の食事まで幅広く使うことができる万能なシロップと言えるでしょう。</p>
+<h3 className="wp-block-heading" id="maplesyrup7">ダーク(ロバストテイスト)</h3>
+<p>ダーク(ロバストテイスト)は一般的に見かけるメープルシロップに比べてやや濃い色味をしています。4月頃に採取されたメープルウォーターで作られ、光の透過率が49.9％～25％となるシロップが分類されます。加熱時間がアンバー(リッチテイスト)に比べて長い為、シロップは深みのある暗い色合いとなります。身近なスーパーなどで手に入る通常のメープルシロップよりも香りが強く、濃厚な味わいが特徴的です。名称に含まれる「ロバスト(Robust)」には「コクのある」という意味合いがあり、風味が強いためメープルシロップ好きの方に人気です。初めて食べる方はメープル特有のクセのある香りが気になることがあるかもしれません。<br />ダーク(ロバストテイスト)のシロップはパンケーキなどに直接かけて濃い風味や香りをダイレクトに楽しむのも良いですが、料理への使用がおすすめです。蜂蜜や砂糖の代用品として使用することができ、メープルシロップはこれらの調味料よりもカロリーが低いことで知られます。また、65種のポリフェノール、カリウム、抗酸化物質など栄養素も豊富で美容や健康にも効果が高い食品でもあります。肉料理や魚料理にも合うため、様々な料理の調味料として使ってみてはいかがでしょうか。</p>
+<h3 className="wp-block-heading" id="maplesyrup8">ベリーダーク(ストロングテイスト)</h3>
+<p>ベリーダーク(ストロングテイスト)はメープルウォーターが採取できる最後の時期、4月末頃に集められたものを原料としています。光の透過率は24.9％～0％となり、コーヒーのような黒い色合いが特徴的です。メープルウォーターは採取時期が後になるほど糖分が下がり、最終的な保有量は初期に採取されたメープルウォーターの半数ほどに下がります。原料の糖度を濃縮する際、ゴールデン(デリケートテイスト)、アンバー(リッチテイスト)、ダーク(ロバストテイスト)に比べて煮詰める時間が最も長いことから、色味が濃くスモーキーな風味が感じられるメープルシロップです。<br />ベリーダーク(ストロングテイスト)はメープル特有の香りが非常に強く、ややクセの強い味わいをしているため、シロップそのものをかけて食べるといった使い方はあまりされません。カナダでは主に料理の調味料や加工食品用として使われます。スペアリブ、魚の煮つけなどオーブン料理や煮込み料理に使うとコクが出るのでおすすめです。また、少量でメープルの風味づけが出来るのでクッキーやパン生地に練りこんだり、ドリンクに混ぜるのも良いでしょう。</p>
+<h2 className="wp-block-heading" id="maplesyrup9">メープルシロップの選び方</h2>
+<p>カナダではメープルシロップの生成方法、色味、香り、透明度、不純物の有無などに厳しい基準値(グレード)を設けています。これらの基準を満たし“Canada Grade A”を獲得したメープルシロップは店頭でのパッケージ販売が認められますが、基準に満たないシロップは加工食品用として使用されます。しかし、販売される商品の中にはメープルシロップの類似品があるため注意が必要です。特にカナダのスーパーで安価に購入することのできる“ケーキシロップ”は、水飴やコーンシロップなどを原材料とした「メープル風味のシロップ」となります。メープルシロップとは異なる商品のため、購入する際はお気を付けください。<br />純度100％のメープルシロップは添加物を使用せず、サトウカエデの樹液(メープルウォーター)のみを煮詰めて作られます。購入する際は原料欄にカエデ樹液やメープルシロップと記載されているものを選びましょう。パッケージには「PURE Maple Syrup」やグレードを示す「Canada Grade A」、メープルシロップの種類(ゴールデン、アンバー、ダーク、ベリーダーク)が記載されている場合もあります。また、購入時には原材料のほか、原産国をチェックするのもおすすめです。一般的に流通しているメープルシロップの約70％はカナダのケベック州で生産されていますが、カナダ以外にもアメリカのニューイングランド地方、日本の埼玉県や山形県でも作られています。そのほかの国が原産国として記載されている場合や価格が極端に安いものなどは類似品である可能性が高いため注意しましょう。</p>
+<h2 className="wp-block-heading" id="maplesyrup10">カナダのおすすめメープルシロップ</h2>
+<h3 className="wp-block-heading" id="maplesyrup11">カドデュケベック メープルシロップ / Cadeau du Quebec Maple Syrup</h3>
+<p>“カドデュケベック メープルシロップ“はカナダのケベック州で作られたメープルシロップです。カドデュケベックは「ケベックからの贈り物」という意味があり、同州で採取されたサトウカエデの樹液(メープルウォーター)を原料としています。種類はゴールデン(デリケートテイスト)、アンバー(リッチテイスト)、ダーク(ロバストテイスト)が揃うため、好みや用途に応じて選ぶことができます。また、カドデュケベックは少量だけ使う際に便利なポーションタイプのシロップやメープルスプレッドも販売しています。メープルスプレッドはピーナツバターのような見た目ですが、乳製品は使用されていません。スプレッドはメープルシロップを長時間煮詰めてクリーム状にしたもので、シロップ同様にケベック州産のカエデの樹液100％で作られます。</p>
+<h3 className="wp-block-heading" id="maplesyrup12">カナダ No.1メープルシロップ / Canada No.1 Maple Syrup</h3>
+<p><a href="https://www.alleghanysmaple.com/?lang=en" rel="noreferrer noopener" target="_blank">アレガニーメープルファーム社</a>が販売する“カナダ No.1メープルシロップ”はカナダのケベック州で作られています。カナダ国内のスーパーでも販売されており、長年国民に愛されているメープルシロップのひとつです。なかでもアンバー(リッチテイスト)のシロップはメープルならではの甘みや風味を感じることができ人気があります。口当たりがよく、クセの無い味わいが特徴的でパンケーキやヨーグルトにかけたり、コーヒーや紅茶に入れるのがおすすめです。また、料理に使うことのできる万能なメープルシロップとしても人気があります。肉じゃがなどの和食にも合うことから様々な料理に活用できます。</p>
+<h3 className="wp-block-heading" id="maplesyrup13">シタデール ピュアメープルシロップ / Citadelle Pure Maple Syrup</h3>
+<p>ピュアメープルシロップはカナダ最大のメープルシロップ製造業社“<a href="https://www.suzusho.co.jp/maker/citadelle/" rel="noreferrer noopener" target="_blank">シタデール</a>”が販売しています。社名は国内有数のメープルシロップ生産地となるケベック州の名所「la Citadelle de Québec(ケベック要塞)」が由来です。シタデール社ではメープルシロップに厳しい品質基準を設け、原料となる樹液(メープルウォーター)を採取するサトウカエデの原生林も厳格に管理されています。安定して高品質な商品を販売しているため同社のシロップはメープルならではの香りが高く、風味を重視する方に人気です。</p>
+<h3 className="wp-block-heading" id="maplesyrup14">アレガニーズ メープルシロップ / Alleghanys Maple Syrup</h3>
+<p>1995年に設立された“アレガニーズ社”が生産するメープルシロップは、アパラチア山脈で無農薬栽培されたサトウカエデの樹液(メープルウォーター)を使用しています。安心して口にすることができるオーガニックのメープルシロップとして知られ、砂糖や蜂蜜よりもカロリーが低く、栄養が豊富に含まれていることから健康志向の方にも人気です。また、同社は品質管理の高さに定評があり、日本の農林水産省による有機JAS認定も獲得しています。厳しい品質基準をクリアしたシロップはメープル特有の濃い香りと豊かな風味を楽しむことができます。</p>
+<h3 className="wp-block-heading" id="maplesyrup15">カークランド メープルシロップ / Kirkland Maple Syrup</h3>
+<p>“カークランド メープルシロップ”は有機栽培のサトウカエデから採取したメープルウォーターを使用しています。グレードはアンバー(リッチテイスト)に該当し、メープルの香りが強すぎない上品な風味と優しい甘さが特徴的です。パンケーキやグラノーラにそのままかけて食べるのはもちろんのこと、料理にも使いやすいメープルシロップとなっています。約1リットルの大容量サイズで販売されているためコスパが良い商品として人気があり、日常的にたくさんメープルシロップを使う方におすすめです。</p>
+<h2 className="wp-block-heading" id="maplesyrup16">メープルシロップの保存方法</h2>
+<p>メープルシロップは未開封の場合、常温で保存することができます。高温多湿や直射日光があたる場所を避けて冷暗所で保存するようにしましょう。ただし、開封後は常温ではなく冷蔵庫での保存が必須です。メープルシロップは常温保存が可能な蜂蜜と似ていますが、蜂蜜より水分量が多いため開封後はカビが生えやすくなります。中身が空気に触れることで劣化速度も早まるため、なるべく早めに使い切るようにしてください。賞味期限は未開封の状態で2～3年とされますが、開封後は1～2か月ほどになります。もしメープルシロップの消費に時間がかかる場合は冷凍庫で保存することも可能です。糖度が高いことから冷凍保存の際にシロップが完全に凍ることはありません。液体は通常時より少し固くなるため、常温に戻してから使用しましょう。</p>
+<h2 className="wp-block-heading" id="maplesyrup17">カナダ観光をする際に必要な手続き</h2>
+<p>旅行や観光目的でカナダへ渡航される方はeTA(イータ)を取得する必要があります。eTA(イータ)はカナダ政府により導入された電子渡航認証制度です。申請はオンラインで行い、eTA(イータ)を取得した方はパスポートのみでカナダへ訪れることができます。渡航に際して別途ビザを申請する必要はありません。<br />eTA(イータ)の有効期限は申請日から5年間となり、期限内であれば複数回のカナダ渡航が認められます。また、1度の渡航につき6か月以内の滞在が許可されるため、観光や出張などでカナダに訪れる方はビザではなくeTA(イータ)の取得を推奨します。申請時には渡航時に使用するパスポート、受信可能なEメールアドレス、申請料金の支払いを行うクレジットカードが必要です。eTA(イータ)申請手続きに関する詳細は「<a href="http://xs640823.xsrv.jp/eta/flow/index.html">eTA(イータ)申請方法の手順と記入例</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"カナダの名産品メープルシロップとは？種類や選び方を紹介 | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

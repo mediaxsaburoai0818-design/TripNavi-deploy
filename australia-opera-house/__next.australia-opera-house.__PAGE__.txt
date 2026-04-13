@@ -1,0 +1,127 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T4c09,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オーストラリアの世界遺産“シドニー・オペラハウス”を徹底解説</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>オーストラリアの世界遺産“シドニー・オペラハウス”を徹底解説</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">オーストラリアの世界遺産“シドニー・オペラハウス”を徹底解説</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1">
+<li><a className="ez-toc-link" href="#operahouse1">オーストラリアの象徴 シドニー・オペラハウスの歴史</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#operahouse1-1">オペラハウスの歴史とヨーン・ウツソン</a></li>
+<li><a className="ez-toc-link" href="#operahouse1-2">オペラハウス・ガイドツアー</a></li>
+<li><a className="ez-toc-link" href="#operahouse1-3">オペラハウスの外観</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#operahouse2">シドニー・オペラハウスで芸術と祭典を堪能しよう</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#operahouse2-1">オペラハウスで行われるフェスティバル</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#operahouse3">シドニー・オペラハウスへのアクセス</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#operahouse3-1">シドニー空港からのルート</a></li>
+<li><a className="ez-toc-link" href="#operahouse3-2">セントラル駅からのルート</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#operahouse4">シドニー・オペラハウスを満喫するには</a></li>
+<li><a className="ez-toc-link" href="#operahouse5">短期のオーストラリアへの渡航にはETAS(イータス)の事前申請が必要です</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="シドニー・オペラハウス" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2022/01/0bdfc741673ace6f06c30b6d828b3843.webp" type="image/webp" width="640"/><img alt="シドニー・オペラハウス" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2022/01/0bdfc741673ace6f06c30b6d828b3843.jpg" width="640"/>
+</picture>
+<p>オーストラリア・シドニーにある”オペラハウス”は、2007年に世界遺産に登録された著名な観光名所です。オペラやバレエ・演劇など年間1,600公演が開催され、世界中から観光客が訪れます。その独創的な形状と構造設計の困難さから完成までに時間がかかり、建築様式も常識を覆すものでした。しかし、完成後は人気の高い建築物として世界中の人々に親しまれています。このページでは、オペラハウスの歴史やイベント情報、アクセス方法についてお伝えします。</p>
+<h2 className="wp-block-heading" id="operahouse1">オーストラリアの象徴 シドニー・オペラハウスの歴史</h2>
+<p><a href="https://www.sydneyoperahouse.com/" rel="noreferrer noopener" target="_blank">オペラハウス</a>はオーストラリアの象徴とも言える建築物のため、オペラハウスを目的にシドニーを訪問する観光客も少なくありません。オペラハウスは内装や外装が特徴的で、建築物として高く評価されています。様々な職人により手掛けられ、オペラハウスは世界遺産に登録される建築物に仕上がりました。</p>
+<h3 className="wp-block-heading" id="operahouse1-1">オペラハウスの歴史とヨーン・ウツソン</h3>
+<p>優れた音響設備を有する大規模なコンサートホールの建設を目的として、1956年シドニーでオペラハウス建設が着想されました。世界中のデザイナーによる国際コンペで233のデザイン案から選ばれたのは、当時無名であったデンマークの建築家ヨーン・ウツソンのデザインでした。<br />ウツソン氏のデザイン案をもとに1959年オペラハウスの建設が着工されましたが、「船の帆」や「貝殻」を彷彿とさせるデザインは曲線が多用されていたため、四角いフォルムが主流の当時の技術では計画の変更が度々必要でした。完成までに14年の歳月と14倍もの予算が計上され、一時は計画を中断する事態にまで発展。これによりウツソン氏はプロジェクトから撤退しますが、設計を引き継いだ別の建築家チームの手により1973年10月に完成します。常識では考えられない独創的なフォルムやドラマチックな内装が話題となり、現在では世界中から高い評価を受けています。<br />完成から34年後、オペラハウスは世界を代表する近代建築として2007年に世界遺産に登録されますが、ウツソン氏はその一年後に亡くなりました。ウツソン氏はオペラハウスを設計した功績により、シドニー大学から名誉博士号を授与されるなど数々の栄誉を得ています。</p>
+<h3 className="wp-block-heading" id="operahouse1-2">オペラハウス・ガイドツアー</h3>
+<p>オペラハウスは外装が完成してから内装が作られたため、建物の中にさらに建物がある特殊な造りになっています。内装の中で特に注目したい部分はコンサートホールです。コンサートホールには2,679の座席が備わり、オペラやバレエ・演劇など、毎年1,600もの公演が開催されます。コンサートホールにある大きなパイプオルガンは、完成までに約10年を要し、運が良ければリハーサル中の音色を聴くことができます。毎日開催されているガイド付き見学ツアーでは、オペラハウス完成までの歴史や建築様式の解説を聞きながらステージやバックステージを見学できます。このツアーは立入禁止エリアにも入場できるため、オペラハウスの裏側も知ることができます。対応言語は日本語をはじめ英語、フランス語、ドイツ語、スペイン語、中国語、韓国語など多岐にわたり、世界中から観光客が訪れていることを物語ります。また、オペラハウス周辺には椅子やテーブルが並べられ、市民の憩いの場となっています。隣接するレストランからはシドニー湾を一望することができます。</p>
+<h3 className="wp-block-heading" id="operahouse1-3">オペラハウスの外観</h3>
+<p>オペラハウスは貝殻を何枚も重ねたようなデザインが壮観で、シドニーの象徴・観光名所として多くの観光客が訪れます。総面積4.5ヘクタール、高さは183mあり、遠くから見ると白一色に見えますが、実は6光沢の白色と光沢のない薄いクリーム色の2色のタイルが組み合わされ、天候や時間によって見え方が変化するよう計算されています。使われたタイルは105万6,000枚にも上ります。滑りやすい形状のため建材は全て地上で成形し、緻密なクレーン操作によって取り付けられました。</p>
+<h2 className="wp-block-heading" id="operahouse2">シドニー・オペラハウスで芸術と祭典を堪能しよう</h2>
+<p>オペラハウスでは1年間を通して1,600公演が開催されています。公演のチケットは<a href="https://www.sydneyoperahouse.com/events/whats-on.html" rel="noreferrer noopener" target="_blank">公式サイト</a>から予約できます。新型コロナウイルスの影響で1日あたりの公演数は減っていますが、ほぼ毎日公演が行われています。シドニーでは年末にカウントダウンイベントが開催され、年明けと同時に約10分間7か所の会場から花火が打ち上げられます。カウントダウンに打ち上げられる花火は、オペラハウスからの見物がおすすめです。オペラハウスでは花火の打ち上げ時間に合わせてオペラ公演の休憩時間が設定されているため、オペラとともに花火を楽しむことができます。この特別なプログラムは、生涯忘れられない素敵な思い出になるでしょう。</p>
+<h3 className="wp-block-heading" id="operahouse2-1">オペラハウスで行われるフェスティバル</h3>
+<p>オペラハウスでは年間を通して様々なフェスティバルが実施されます。年末年始に開催される「<a href="https://www.sydneyoperahouse.com/events/whats-on/experience/NYE-at-Portside-2021.html" rel="noreferrer noopener" target="_blank">ニューイヤーズイブ・ファイヤーワークス</a>」や「<a href="https://opera.org.au/productions/la-traviata-on-sydney-harbour/" rel="noreferrer noopener" target="_blank">ハンダ・オペラ・オン・シドニー・ハーバー</a>」は、市民や観光客に人気の祭典です。中でも<a href="https://www.vividsydney.com/" rel="noreferrer noopener" target="_blank">ビビッド・シドニー</a>は「世界最大級の光、音楽、発想の祭典」として特に有名です。毎年シドニーの各施設で開催され、2019年開催時には200万人以上の観光客が訪れました。オペラハウスの白い外壁にもプロジェクションマッピングが投影され、水や花火を使った様々なパフォーマンスも圧巻です。ビビッド・シドニーの開催期間は5月27日から6月18日の約3週間。ひと味違うオペラハウスを楽しむため、フェスティバルの開催期間にあわせて訪れてみるのはいかがでしょうか。</p>
+<picture>
+<source alt="シドニー・オペラハウス" className="img_big m20-t m20-b lazyloaded" height="397" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/12/qaL2HYTKa1ndo991640755549.webp" type="image/webp" width="640"/><img alt="シドニー・オペラハウス" className="img_big m20-t m20-b" decoding="async" height="397" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/12/qaL2HYTKa1ndo991640755549.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="operahouse3">シドニー・オペラハウスへのアクセス</h2>
+<p>シドニー空港とシドニーの中心地・セントラル駅からオペラハウスまでのルートを紹介します。日本からシドニー空港へは、<a href="https://www.qantas.com/jp/ja.html" rel="noreferrer noopener" target="_blank">カンタス航空</a>と<a href="https://www.jal.co.jp/jp/ja/" rel="noreferrer noopener" target="_blank">日本航空(JAL)</a>が直行便を運航しています。</p>
+<h3 className="wp-block-heading" id="operahouse3-1">シドニー空港からのルート</h3>
+<p><a href="https://www.sydneyairport.com.au/" rel="noreferrer noopener" target="_blank">シドニー空港</a>(キングスフォードスミス空港)からオペラハウスまでは約15km、公共交通機関でスムーズにアクセスできます。</p>
+<div className="Class_J">
+<h4>電車でのアクセス</h4>
+<p>シドニー空港からは電車(Airport Link)での移動がおすすめです。空港からオペラハウスの最寄り駅「サーキュラー・キー駅」までは約20分で到着します。<br /> 「シドニー国際空港(International Airport Station)」駅のプラットフォーム１(Platform1)から「サーキュラー・キー(Circular Quay)」駅行きに乗車します。「シドニー国際空港」駅から「サーキュラー・キー」駅までは停車駅が7駅で、乗り換えなく到着します。途中にある「セントラル(central)」駅から乗り換える方法もありますが、そのまま電車に乗り続ける方法が安全でしょう。「サーキュラー・キー」駅からは徒歩10分程度で到着します。</p>
+</div>
+<div className="Class_J">
+<h4>シャトルバスでのアクセス</h4>
+<p>シドニー空港からは、エアポートシャトルバスでもオペラハウスへアクセスできます。エアポートバスは8人乗り程度のミニバンで、乗客が目的地を指定するシステムです。他の乗客の目的地を経由してからオペラハウスに向かう場合もあるため、所要時間は変動します。同乗する人によって到着時間が変わってしまうため、時間に余裕がある場合のみのご利用をおすすめします。<br /><strong>主なシャトルバス運行会社</strong><br /><a href="https://www.redy2go.com.au/" rel="noopener" target="_blank">redy2go</a>、<a href="https://sydneyairport.mozio.com/en-us/" rel="noopener" target="_blank">mozio</a></p>
+</div>
+<div className="Class_J">
+<h4>タクシーでのアクセス</h4>
+<p>シドニー空港からタクシーを利用する場合は約40～60AUD(オーストラリアドル)、約30分で市内に到着します。公共交通機関の利用に不安を感じる方は、タクシーでの移動がおすすめです。</p>
+</div>
+<h3 className="wp-block-heading" id="operahouse3-2">セントラル駅からのルート</h3>
+<p>電車での移動は「シドニー国際」駅から「サーキュラー・キー」駅まで直行するのがおすすめですが、途中の「<a href="https://transportnsw.info/stop?q=10101100#/" rel="noreferrer noopener" target="_blank">セントラル(Central Station)</a>」駅で乗り換えるルートもあります。「セントラル」駅で環状路線「シティ・サークル(City Circle)」へ乗り継ぎ、「サーキュラー・キー」駅まで3駅、下車して徒歩10分でオペラハウスに到着します。「セントラル」駅で乗り換えるメリットは運賃がやや安くなることと時間が節約できることです。「セントラル」駅からはバスも運行しています。</p>
+<div className="Class_J">
+<h4>バスでのアクセス</h4>
+<p>「セントラル」駅の “H”のバス停から343番のバスに乗車し、「ロフタス・ストリート at ブリッジ・ストリート(Loftus Stat at Bridge St)」停車場で下車します。「セントラル」駅に付帯するコンビニ「ニュースリンク(News Link)」でチケットが購入可能です。乗車時間は10～15分ほど、オペラハウスまでは徒歩15分で到着します。</p>
+</div>
+<picture>
+<source alt="シドニー・オペラハウス" className="img_big m20-t m20-b lazyloaded" height="480" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/12/5No2gTf3QISkI5X1640755577.webp" type="image/webp" width="640"/><img alt="シドニー・オペラハウス" className="img_big m20-t m20-b" decoding="async" height="480" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/12/5No2gTf3QISkI5X1640755577.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="operahouse4">シドニー・オペラハウスを満喫するには</h2>
+<p>オーストラリア・シドニーの象徴ともいえるオペラハウスは、「世界で最も建造年代が新しい世界遺産」としても知られ、その独特なデザインと存在感は国民だけでなく世界中の人々に親しまれています。楽しみ方は様々で、白い屋根と青い空をバックにした写真撮影はもちろん、建物内部での多くのプログラムや芸術鑑賞・舞台裏を覗くガイドツアー、オペラハウス周辺での食事やショッピングも楽しみのひとつです。多くの人が建設に関わった膨大な歴史に想いを馳せながら、世界最高水準の芸術と美しい景色を楽しめます。オペラハウスを満喫するには、情報サイトやツアーガイドなどを利用し、オペラハウスについてしっかり学ぶことをおすすめします。素敵な旅をお楽しみください。<br />※2020年3月以降、新型コロナウイルスの世界的な感染拡大による渡航制限や、感染対策に伴うプログラム数の縮小などが懸念されています。</p>
+<h2 className="wp-block-heading" id="operahouse5">短期のオーストラリアへの渡航にはETAS(イータス)の事前申請が必要です</h2>
+<p>オペラハウスへの観光や出張などを目的としたオーストラリア渡航の際は、ETAS(イータス)を事前に申請することでビザを取得せずに入国することができます。ETAS(イータス)はオンライン上のフォームに入力するだけで申請でき、オーストラリア移民局にて審査されます。審査に時間が必要な場合もあるため、渡航3日前までにはETAS(イータス)申請を済ませましょう。ETAS(イータス)の有効期限は1年間と定められていますが、パスポートの有効期限が切れた場合はETAS(イータス)も同日に失効しますので注意が必要です。ETAS(イータス)に関する詳しい情報と申請方法は「<a href="http://xs640823.xsrv.jp/etas/service/index.html">オーストラリア観光ビザのETAS(イータス)とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="australia-etas.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

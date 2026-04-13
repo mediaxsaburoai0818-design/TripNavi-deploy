@@ -1,0 +1,124 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+a:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","australia-etas-criminal-record",""],"q":"","i":false,"f":[[["",{"children":["australia-etas-criminal-record",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L6","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L7",{},null,false,null]},null,false,"$@8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+f:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+11:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+12:"$Sreact.suspense"
+6:["$","$L4",null,{}]
+c:T4026,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 前科・犯罪歴がある場合のオーストラリア入国とETAS(イータス)申請</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>前科・犯罪歴がある場合のオーストラリア入国とETAS(イータス)申請</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">前科・犯罪歴がある場合のオーストラリア入国とETAS(イータス)申請</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1">
+<li><a className="ez-toc-link" href="#criminal1">前科・犯罪歴がある場合もオーストラリア入国とETAS(イータス)申請は可能か</a></li>
+<li><a className="ez-toc-link" href="#criminal2">前科・犯罪歴がある場合のオーストラリア入国・ETAS(イータス)申請</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#criminal2-1">オーストラリアでビザ申請・ETAS(イータス)申請が却下される犯罪歴の目安とは</a></li>
+<li><a className="ez-toc-link" href="#criminal2-2">交通違反がある場合のETAS(イータス)申請</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#criminal3">前科・犯罪歴によりETAS申請が拒否された場合のオーストラリア入国手続き</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#criminal3-1">在韓オーストラリア大使館　ビザ・国籍登録課</a></li>
+<li><a className="ez-toc-link" href="#criminal3-2">犯罪経歴証明書(警察証明書)について</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#criminal4">オーストラリア入国には余裕を持ってETAS(イータス)申請を行いましょう</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="オーストラリア国旗と裁判" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/axWmxv4r59hxeSa1630395233_1630395262.webp" type="image/webp" width="640"/><img alt="オーストラリア国旗と裁判" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/axWmxv4r59hxeSa1630395233_1630395262.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="criminal1">前科・犯罪歴がある場合もオーストラリア入国とETAS(イータス)申請は可能か</h2>
+<p>観光や短期商用を目的として日本からオーストラリアへ渡航する際は、事前にETAS(イータス)の申請が必須となります。ETAS(イータス)を申請する際は前科に関する質問があり、過去に重大な犯罪歴がある方は申請の対象外となるため「渡航認証拒否」の通知が届くことが予想されます。前科に関する質問は各国の警察機関による連携のもと危険人物を特定し、テロ等の犯罪行為を未然に防ぐことを目的としています。虚偽の回答が判明した場合はETAS(イータス)による「渡航認証許可」が取り消され、今後のオーストラリア渡航が困難となりますのでご注意ください。</p>
+<p>重大な犯罪歴とは主に以下の内容を指します。</p>
+<div className="Class_JB"><ul><li>殺人、過失致死、誘拐、複数回におよぶ暴行など他者に重大な危害を与えた犯罪</li><li>放火、強盗、盗難、詐欺、盗品の受け取りなど他者の財産をはく奪した犯罪</li><li>多額の脱税、贈収賄、偽証、薬物犯罪など政府当局に対し損害を与えた犯罪</li></ul></div>
+<p>これらに該当しない犯罪歴も、内容によりETAS(イータス)申請の対象外とみなされる場合があります。また、上記に関連する事件に関与し、国外で逮捕・起訴・有罪判決を受けた方もETAS(イータス)を利用してオーストラリアへ渡航することはできません。当該の方は大使館にて<a href="https://immi.homeaffairs.gov.au/Visa-subsite/Pages/visit/600-visitor-landing.aspx" rel="noreferrer noopener" target="_blank">訪問ビザ(サブクラス600)</a>の申請をご検討ください。</p>
+<h2 className="wp-block-heading" id="criminal2">前科・犯罪歴がある場合のオーストラリア入国・ETAS(イータス)申請</h2>
+<h3 className="wp-block-heading" id="criminal2-1">オーストラリアでビザ申請・ETAS(イータス)申請が却下される犯罪歴の目安とは</h3>
+<p>過去に重大な犯罪歴がある方は、原則としてETAS(イータス)申請の対象外となります。目安として過失致死などで1年以上の服役経験がある方が該当し、家庭内暴力や性犯罪による逮捕歴がある方もETAS(イータス)申請が認められません。該当する方はオーストラリア大使館にて<a href="https://immi.homeaffairs.gov.au/Visa-subsite/Pages/visit/600-visitor-landing.aspx" rel="noreferrer noopener" target="_blank">訪問ビザ(サブクラス600)</a>を申請することで渡航が認められますが、以下の条件が求められます。</p>
+<div className="Class_JB"><ul><li>オーストラリアへの渡航目的が観光や商用など正当な理由であること</li><li>虚偽の申告、偽造書類の提出、他者のパスポートや身分証明書を使用しないこと</li><li>オーストラリアでの滞在期間が最長1年以内であること</li></ul></div>
+<p>申請の際は所定の手数料が必要となり、滞在可能な期間はケースオフィサー(担当審査官)の判断に委ねられます。訪問ビザの申請が却下された方は、当面のあいだオーストラリアへ入国することができません。</p>
+<h3 className="wp-block-heading" id="criminal2-2">交通違反がある場合のETAS(イータス)申請</h3>
+<p>過失致死を伴わない交通違反や飲酒運転等は、ETAS(イータス)申請における前科・犯罪歴に該当しません。過去に運転免許の取り消しを受けた方や、交通違反で起訴され失効猶予中の場合もETAS(イータス)申請が認められます。ただし、悪質な交通違反や複数回の飲酒運転で逮捕歴がある方は、ETAS(イータス)申請の対象外となることが予想されます。<br />なお、訪問ビザ申請の際に犯罪経歴証明書(警察証明)の提出を求められた場合は、警視庁または警察本部にて申請の手続きを行ってください。</p>
+<h2 className="wp-block-heading" id="criminal3">前科・犯罪歴によりETAS申請が拒否された場合のオーストラリア入国手続き</h2>
+<p>前科・犯罪歴の質問に対し「はい」を選択した方は、ETAS(イータス)によるオーストラリア渡航が認められず「渡航認証拒否」の通知が届くことが予想されます。当該の通知が届いた場合は、<a href="https://immi.homeaffairs.gov.au/Visa-subsite/Pages/visit/600-visitor-landing.aspx" rel="noreferrer noopener" target="_blank">訪問ビザ(サブクラス600)</a>の申請をご検討ください。訪問ビザは申請者の犯罪歴を大使館の審査官が個別に確認します。訪問ビザの申請を希望する方は<a href="https://immi.homeaffairs.gov.au/help-support/applying-online-or-on-paper/overview" rel="noreferrer noopener" target="_blank">ImmiAccount</a>より手続きを行ってください。<br />なお、ETAS(イータス)の犯罪歴に関する質問に「いいえ」を選択した方も稀に「渡航認証拒否」となる場合があります。大半のケースは回答の選択ミスによるものですが、ETAS(イータス)を審査するDIBP(Department of Immigration and Border Protection：オーストラリア移民国境警備省)では理由を開示していません。回答の選択ミスや入力間違いがなく渡航認証拒否となった場合は、以下の理由が想定されます。</p>
+<div className="Class_JB"><ul><li>海外渡航のブラックリストに同姓同名の人物がいる</li><li>複数回のオーバーステイをした同姓同名の人物がいる</li><li>虚偽の回答と判断された場合</li><li>オーストラリアのビザ免除国に該当しない国籍の市民と判断された場合</li></ul></div>
+<p>※オーストラリア政府は日本／韓国／香港／アメリカ／カナダ／シンガポール／マレーシア／ブルネイの8か国をビザ免除対象国としています。</p>
+<p>渡航認証拒否の通知が届いた方は、約2日経過していなければETAS(イータス)の再申請ができません。入力した内容を見直し、再申請または訪問ビザの申請をお勧めします。当該の際は「<a href="http://xs640823.xsrv.jp/etas/refusal/index.html">ETAS(イータス)申請が認証拒否された場合</a>」をご確認ください。</p>
+<h3 className="wp-block-heading" id="criminal3-1">在韓オーストラリア大使館　ビザ・国籍登録課</h3>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">住所</td><td>Visa Section, Australian Embassy 19th Floor Kyobo Building 1 Jong-Ro, Jongno-Gu Seoul 03154</td></tr><tr><td>電話番号</td><td>(+61) 2-6196-0196</td></tr><tr><td>営業時間</td><td>月曜日～金曜日 9：00～12：30、13：30～17：00(予約制)</td></tr><tr><td>お問い合わせ</td><td><a href="mailto:soul-inform@dfat.gov.au" rel="noreferrer noopener" target="_blank">soul-inform@dfat.gov.au</a></td></tr><tr><td>公式サイト</td><td><a href="https://southkorea.embassy.gov.au/" rel="noreferrer noopener" target="_blank">https://southkorea.embassy.gov.au/</a></td></tr></tbody></table></figure>
+<p>在日オーストラリア大使館ではビザに関する電話での問い合わせや窓口での対応を行っておりません。<br />Eメール(<a href="mailto:immigration.tokyo@dfat.gov.au" rel="noreferrer noopener" target="_blank">immigration.tokyo@dfat.gov.au</a>)または在韓オーストラリア大使館へお問い合わせください。<br />ビザを希望する方は<a href="https://immi.homeaffairs.gov.au/" rel="noreferrer noopener" target="_blank">オーストラリア内務省のウェブサイト</a>を確認し、自身の渡航目的に沿ったビザの申請をご検討ください。ビザ申請は審査官が全ての状況を考慮したうえで判断を行います。犯罪歴がある方は正確な内容の申告が求められ、虚偽と判断された場合はビザ申請が却下されますのでご注意ください。</p>
+<h3 className="wp-block-heading" id="criminal3-2">犯罪経歴証明書(警察証明書)について</h3>
+<p>前科がある方はビザ申請の際に<a href="https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/character/#content-index-5" rel="noreferrer noopener" target="_blank">犯罪経歴証明書(警察証明書)</a>の提出を求められる場合があります。該当の方は各都道府県の警察本部へ申請が必要となるため、パスポートや住民票など必要書類の準備をお願いします。東京都に住民登録がある方は警視庁へ、その他地域の方は道府県内の警察本部にて手続きを行ってください。手続きは申請者本人が行う必要があり指紋の採取が行われます。必要書類や申請手数料は申請理由や各都道府県の警察本部により異なる場合があります。犯罪経歴証明書は手続きから発行までに2週間ほどかかるため、日程に余裕をもって申請することをお勧めします。</p>
+<div className="Class_J">
+<h4>主な必要書類</h4>
+<p><ul><li>期限が有効なパスポート(コピー不可)</li><li>内務省からの要請書など犯罪経歴証明書(警察証明書)の必要性を確認できる書類</li><li>氏名と住所登録が確認できる下記の書類<ul><li>6か月以内に発行された住民票の写し</li><li>政府など公的機関が発行した氏名と住所が確認できる書類(運転免許証や住民基本台帳カードなど)</li></ul></li></ul></p>
+</div>
+<h4 className="wp-block-heading">警視庁に関する情報</h4>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">住所</td><td>千代田区霞が関2丁目1番1号　警視庁本部庁舎1階(正面玄関受付)</td></tr><tr><td>電話番号</td><td>03-3581-4321(警視庁代表)</td></tr><tr><td>受付日</td><td>月曜から金曜(祝日、年末年始を除く)</td></tr><tr><td>受付時間</td><td>午前8時30分から午前11時30分、午後1時00分から午後5時00分</td></tr><tr><td>公式サイト<br />渡航証明(犯罪経歴証明書)の申請について</td><td><a href="https://www.keishicho.metro.tokyo.jp/" rel="noreferrer noopener" target="_blank">https://www.keishicho.metro.tokyo.jp/</a><br /><a href="https://www.keishicho.metro.tokyo.jp/tetsuzuki/toko/toko.html" rel="noreferrer noopener" target="_blank">https://www.keishicho.metro.tokyo.jp/tetsuzuki/toko/toko.html</a></td></tr></tbody></table></figure>
+<h2 className="wp-block-heading" id="criminal4">オーストラリア入国には余裕を持ってETAS(イータス)申請を行いましょう</h2>
+<p>ETAS(イータス)の犯罪歴に関する質問は、申請者がオーストラリア国内に危害を及ぼす恐れがないかを判断する役割を担っています。重大な前科がある方やオーストラリア国内で逮捕歴がある方は、原則としてETAS(イータス)を利用して渡航することができません。また、過去にオーストラリアや他国で不法滞在により強制送還された方もETAS(イータス)申請の対象外となり、数年間にわたりビザの取得も認められませんのでご注意ください。<br />ETAS(イータス)申請の結果が「渡航認証拒否」となった方は、再申請やビザの手続きに数週間以上かかることも予想されます。重大な過失や前科がある方は日程に余裕をもってビザまたはETAS(イータス)申請の手続きをお願いします。渡航認証拒否が通知された際の対処方法は「<a href="http://xs640823.xsrv.jp/etas/refusal/index.html">ETAS(イータス)申請が認証拒否された場合</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="australia-etas.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>7:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"}}],null,"$Ld"]}]
+e:[]
+8:"$We"
+9:["$","$1","h",{"children":[null,["$","$Lf",null,{"children":"$L10"}],["$","div",null,{"hidden":true,"children":["$","$L11",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L13"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+d:["$","$L14",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+13:[["$","title","0",{"children":"前科・犯罪歴がある場合のオーストラリア入国とETAS(イータス)申請 | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L16","2",{}]]
+15:null

@@ -1,0 +1,168 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","canada-vancouver-souvenirs",""],"q":"","i":false,"f":[[["",{"children":["canada-vancouver-souvenirs",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T69da,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダ・バンクーバーおすすめのお土産20選、定番から人気の雑貨までご紹介</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダ・バンクーバーおすすめのお土産20選、定番から人気の雑貨までご紹介</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">カナダ・バンクーバーおすすめのお土産20選、定番から人気の雑貨までご紹介</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1">
+<li><a className="ez-toc-link" href="#souvenir01">カナダ定番のお土産</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#souvenir02">1. メープルシロップ</a></li>
+<li><a className="ez-toc-link" href="#souvenir03">2. メープルクッキー</a></li>
+<li><a className="ez-toc-link" href="#souvenir04">3. メープルティー</a></li>
+<li><a className="ez-toc-link" href="#souvenir05">4. スモークサーモン</a></li>
+<li><a className="ez-toc-link" href="#souvenir06">5. アイスワイン</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#souvenir07">カナダのスーパーで買えるお土産</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#souvenir08">6. 「COFFEE CRISP」チョコレートバー</a></li>
+<li><a className="ez-toc-link" href="#souvenir09">7. 「Hawkins Cheezies」のスナック</a></li>
+<li><a className="ez-toc-link" href="#souvenir10">8. グレービーソースの素</a></li>
+<li><a className="ez-toc-link" href="#souvenir11">9. ピーナッツバター</a></li>
+<li><a className="ez-toc-link" href="#souvenir12">10. ツーバイトブラウニー / Two-bite brownies</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#souvenir13">カナダのお土産物屋で買えるグッズ</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#souvenir14">11. カナダの先住民族、ファーストネーションのドリームキャッチャー</a></li>
+<li><a className="ez-toc-link" href="#souvenir15">12. ファーストネーションのアクセサリー</a></li>
+<li><a className="ez-toc-link" href="#souvenir16">13. メープルをモチーフにした小物</a></li>
+<li><a className="ez-toc-link" href="#souvenir17">14. ムースをモチーフにした雑貨</a></li>
+<li><a className="ez-toc-link" href="#souvenir18">15. カナダの国旗を使った小物</a></li></ul></li>
+<li><a className="ez-toc-link" href="#souvenir19">カナダの有名ブランドのお土産</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#souvenir20">16. MAC</a></li>
+<li><a className="ez-toc-link" href="#souvenir21">17. Canada Goose</a></li>
+<li><a className="ez-toc-link" href="#souvenir22">18. Arc’teryx</a></li>
+<li><a className="ez-toc-link" href="#souvenir23">19. DAVIDs TEA</a></li>
+<li><a className="ez-toc-link" href="#souvenir24">20. Rogers Chocolates</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#souvenir25">カナダ入国・渡航にはeTA(イータ)の事前申請が必要です
+</a></li></ul>
+</nav>
+</div>
+<picture>
+<source alt="バンクーバーおすすめのお土産20選" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/6b79284c44bb318448a725d72f2d79a4.webp" type="image/webp" width="640"/><img alt="バンクーバーおすすめのお土産20選" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/6b79284c44bb318448a725d72f2d79a4.jpg" width="640"/>
+</picture>
+<p>世界で2番目に広い国土を持つカナダにはカナディアンロッキー、ナイアガラの滝など数多くの世界遺産や名所が揃います。カナダは世界各国から旅行客が訪れる人気の高い観光地として知られ、国内有数の大都市“バンクーバー”にあるバンクーバー国際空港には日本からの直行便も運航しています。バンクーバーは比較的治安も良いことから旅行だけでなく留学先としても人気がありますが、「大人数へ配るお土産のおすすめは？」「定番のお土産以外に人気のある商品は？」など帰国時のお土産に頭を悩ませる方も多いのではないでしょうか。こちらのページではカナダ土産の定番品から現地のお土産屋さんやスーパーで購入できるおすすめ商品などを紹介します。</p>
+<h2 className="wp-block-heading" id="souvenir01">カナダ定番のお土産</h2>
+<h3 className="wp-block-heading" id="souvenir02">1. メープルシロップ</h3>
+<p>サトウカエデの樹液で作られる“メープルシロップ”はカナダの名産品です。カエデの原生林が広がるカナダ南東部を中心に生産されています。中でもケベック州は世界最大級の生産地として知られ、全世界で流通されるメープルシロップのうち約7割が同州で作られます。メープルシロップは空港内のショップ以外に現地のスーパーやドラッグストアで購入することができるカナダ土産の定番アイテムです。サイズや種類も豊富に揃い、カエデの葉をモチーフとした可愛らしいパッケージの商品もあります。また、カナダのメープルシロップは風味や色合いに応じて4つのグレード(ゴールデン、アンバー、ダーク、ベリーダーク)に分類されています。日本ではあまり見かけることのない商品も沢山あるので購入してみてはいかがでしょうか。</p>
+<h3 className="wp-block-heading" id="souvenir03">2. メープルクッキー</h3>
+<p>メープルクッキーは生地やクリームにメープルシロップが練りこまれたお菓子です。クッキーの間にクリームが挟まれているもの、メープルの風味が強いものなど様々な種類が販売されているため、食べ比べを楽しんでみてはいかがでしょうか。また、カエデの形をしたクッキーはカナダらしいお土産のひとつとして人気があります。値段も2～3カナダドル程とお手頃で個包装されている商品も多く、職場や学校など沢山の方へ渡すばらまき用のお土産にぴったりです。</p>
+<h3 className="wp-block-heading" id="souvenir04">3. メープルティー</h3>
+<p>メープルの香りが付けられた紅茶“メープルティー”はカナダ土産の定番です。ティーバックにお湯を注ぐとメープルならではの甘い香りが広がります。紅茶はそのまま飲むのも良いですが、砂糖の代わりにメープルシロップを入れても美味しく頂けます。軽いので沢山買っても持ち帰りやすく、パックで小分けされているものもあるので大人数へのお土産として人気があります。メープルクッキーなどお菓子とセットで配るのもおすすめです。</p>
+<h3 className="wp-block-heading" id="souvenir05">4. スモークサーモン</h3>
+<p>スモークサーモンはブリティッシュコロンビア州の名産品です。使用される鮭には色々な種類がありますが、中でも高級な天然サーモン“<a href="https://www.canada.jp/stories/post-4374/" rel="noreferrer noopener" target="_blank">ベニザケ(Sockeye Salmon)</a>”で作られたものは人気があります。スモークサーモンは冷凍のものや常温保存が可能な真空パックのものが販売されており、お土産として購入する際は持ち運びに便利な真空パックのタイプがおすすめです。おつまみとしてそのまま食べるのも良いですが、サラダやサンドイッチなど料理にも使いやすいのでお酒が飲めない方へのお土産にも良いでしょう。</p>
+<h3 className="wp-block-heading" id="souvenir06">5. アイスワイン</h3>
+<p>カナダでは甘口ワインの最高峰として知られる“<a href="https://winecountryontario.ca/icewine/" rel="noreferrer noopener" target="_blank">アイスワイン</a>”を世界で最も多く生産しています。アイスワインは気温の低い環境で凍結されたぶどうを使用して作られ、原料となる凍ったぶどうからは通常の果実の10％ほどしか果汁を採ることができません。希少な果汁を使ったワインであることから、「貴族のワイン」と呼ばれていました。お土産としてアイスワインを購入する際はパッケージの表記をしっかりと確認しましょう。自然のなかで凍結されたぶどうを使用したワインには“ice wine”、人工的に凍らせたぶどうを使用したワインは“iced wine”または“dessert wine”と表記されます。また、カナダワイン協定が認めた高品質なワインにはVQA(Vintners Quality Alliance)マークもあるため、この2点をチェックしてワインを選ぶことをおすすめします。</p>
+<picture>
+<source alt="カナダ土産のおすすめ20選" className="img_big m20-t m20-b lazyloaded" height="492" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/4ccb67acc8cef681abfe67020ac78178.webp" type="image/webp" width="640"/><img alt="カナダ土産のおすすめ20選" className="img_big m20-t m20-b" decoding="async" height="492" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/4ccb67acc8cef681abfe67020ac78178.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="souvenir07">カナダのスーパーで買えるお土産</h2>
+<h3 className="wp-block-heading" id="souvenir08">6. 「COFFEE CRISP」チョコレートバー</h3>
+<p>黄色いパッケージが目を引く“<a href="https://www.madewithnestle.ca/coffee-crisp" rel="noreferrer noopener" target="_blank">COFFEE CRISP(コーヒー・クリスプ)</a>”はカナダの国民的なお菓子です。コーヒー味とバニラ味のウエハースをミルクチョコレートでコーティングしたチョコレートバーは食べやすく、サクッとした軽い食感を楽しめます。コーヒー・クリスプは現地のスーパーやコンビニなどのレジ横に置いてある場合も多く気軽に購入することができ、カナダ限定で販売されるお菓子のためお土産におすすめです。また、個包装された小分けパッケージも販売されており、ばらまき用のお土産にも重宝します。</p>
+<h3 className="wp-block-heading" id="souvenir09">7. 「Hawkins Cheezies」のスナック</h3>
+<p>カナダ生まれのスナック菓子“<a href="http://www.cheezies.com/index3.htm" rel="noreferrer noopener" target="_blank">Hawkins Cheezies</a>”はホームパーティーなどでよく見かける定番のお菓子として知られます。濃厚なチェダーチーズパウダーがかけられたスナックは病みつきになる美味しさでカナダの子供達にも大人気です。ファミリーパックの大きいサイズで販売されることが多い商品ですが、大型スーパーなど店舗によってはお土産用にぴったりな小袋サイズも売られています。見かけた場合はぜひ購入してみてはいかがでしょうか。</p>
+<h3 className="wp-block-heading" id="souvenir10">8. グレービーソースの素</h3>
+<p>グレービーソースの素は現地のスーパーで購入でき、1.50カナダドル前後で販売されています。肉汁をベースとしたグレービーソースは肉料理やマッシュポテトなどによく使われますが、ソースの素を購入した際はカナダのローカルフード“<a href="https://www.clubhouse.ca/en-ca/products/meal-helpers/gravies/poutine-gravy-mix" rel="noreferrer noopener" target="_blank">Poutine(プーティン)</a>”を再現してみてはいかがでしょうか。プーティンはフライドポテトの上にグレービーソースとチーズをかけた料理です。現地ではレストランやファーストフード店でも食べることができ、カナダで愛される人気メニューです。グレービーソースを一から作るのは手間がかかりますが、ソースの素があれば水やお湯を混ぜるだけで簡単に作ることができるので日本でも気軽にカナダの味を楽しめます。</p>
+<h3 className="wp-block-heading" id="souvenir11">9. ピーナッツバター</h3>
+<p>カナダでは自宅に常備されていることが多いピーナッツバターはお土産にもおすすめです。中でも「<a href="https://www.kraftcanada.ca/brands/kraft-peanut-butter" rel="noreferrer noopener" target="_blank">Kraft Canada</a>」のピーナッツバターは国内シェアナンバーワンを誇ります。定番タイプのSmooth（スムース）、粒の食感を残したCrunchy (クランチー)、濃厚な味わいのExtra Creamy(エキストラクリーミー)など様々な種類が揃うため、好みに合わせて選ぶことができます。現地のスーパーでは5カナダドル前後で販売されており、クマのイラストがトレードマークの可愛らしいパッケージが目印です。</p>
+<h3 className="wp-block-heading" id="souvenir12">10. ツーバイトブラウニー / Two-bite brownies</h3>
+<p><a href="https://www.twobite.ca/" rel="noreferrer noopener" target="_blank">ツーバイトブラウニー</a>はサクサクとした外側と中のしっとり柔らかな食感が人気のチョコレートブラウニーです。チョコレートの濃厚な味わいが楽しめるため、甘いものが好きな方へのお土産にいかがでしょうか。ツーバイトブラウニーはその名の通り“2口で食べることができる”程の小さめサイズのブラウニーが一袋にいくつか入った状態で販売されています。中でも小袋パックの商品は丁度よいサイズ感なのでお土産におすすめです。</p>
+<picture>
+<source alt="カナダ土産のおすすめ20選" className="img_big m20-t m20-b lazyloaded" height="425.5" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/0a39a90609da59b1e8511336a7097d29.webp" type="image/webp" width="640"/><img alt="カナダ土産のおすすめ20選" className="img_big m20-t m20-b" decoding="async" height="425.5" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/0a39a90609da59b1e8511336a7097d29.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="souvenir13">カナダのお土産物屋で買えるグッズ</h2>
+<h3 className="wp-block-heading" id="souvenir14">11. カナダの先住民族、ファーストネーションのドリームキャッチャー</h3>
+<p>ドリームキャッチャーはクモの巣状に編み込んだ糸とビーズや鳥の羽の装飾が特徴的な工芸品です。カナダとアメリカの先住民族“<a href="http://www.ojibwa.com/" rel="noreferrer noopener" target="_blank">オジブワ族</a>”に古くから伝わる魔よけのお守りとして知られています。良い夢だけが網の目を通り抜けると言われており悪夢から身を守るためベッドの上に吊るすのが一般的ですが、部屋のインテリアとして使用されることもあります。色やデザインが豊富のため、好みのものを探してみてはいかがでしょうか。</p>
+<h3 className="wp-block-heading" id="souvenir15">12. ファーストネーションのアクセサリー</h3>
+<p>カナダの先住民族(ファーストネーション)のアクセサリーは人気のあるお土産のひとつです。先住民族が崇拝の対象としている動物や精霊をモチーフとした指輪、ブレスレット、ネックレスなどが販売されています。モチーフになっている動物、精霊には「名声」「幸運」「友情」など色々な意味が込められているため、購入時にはデザインだけでなくこちらの点にも注目してみてはいかがでしょうか。お守り替わりに身に着けたり、プレゼントにもおすすめです。民族によってモチーフの意味合いが異なる場合があるので、お店の方に聞きながら商品を選ぶと良いでしょう。</p>
+<h3 className="wp-block-heading" id="souvenir16">13. メープルをモチーフにした小物</h3>
+<p>カナダでは国旗に描かれるメープルリーフ(カエデの葉)をモチーフにしたグッズが多く販売されています。メープルリーフ柄のタンブラーやマグカップなどの雑貨からメープルリーフの形をしたパスタやクッキー、チョコなどの食品まで色々な商品が揃います。また、お土産の定番アイテムとされるマグネットやキーホルダーなどの小物類は2～3個ずつセット販売されていることもあります。安価で購入することが出来てかさばらないため、職場など沢山の人へ渡すお土産としてもぴったりです。</p>
+<h3 className="wp-block-heading" id="souvenir17">14. ムースをモチーフにした雑貨</h3>
+<p>カナダに生息する世界最大のヘラジカ“<a href="https://www.canada.jp/stories/post-4990/" rel="noreferrer noopener" target="_blank">ムース(Moose)</a>”は北米で最も背が高い哺乳類です。大きな体格が特徴的でオスには最大2mほどの巨大な角が生えています。アパレルブランド「<a href="https://www.abercrombie.com/shop/am-ja" rel="noreferrer noopener" target="_blank">アバクロンビー&amp;フィッチ</a>」のシンボルにもなっており、目にしたことがある方も多いのではないでしょうか。ムースをモチーフにしたアイテムはカナダらしいデザインが揃っており、ぬいぐるみやムース柄の靴下、ポストカード、お菓子など見た目にも可愛らしいものが沢山あります。</p>
+<h3 className="wp-block-heading" id="souvenir18">15. カナダの国旗を使った小物</h3>
+<p>カナダ国旗がデザインされたグッズはカナダ土産の定番アイテムです。トランプ、メモ帳、ペン、手袋、Tシャツ、折り畳み傘などバリエーションが豊富です。7月1日の建国記念日“<a href="https://www.canada.ca/en/canadian-heritage/campaigns/canada-day.html" rel="noreferrer noopener" target="_blank">カナダデー</a>”前後になると国旗をモチーフにしたグッズが特に沢山店頭へ並びます。また、これらのグッズはお土産物屋さんのほか国内で人気のある1ドルショップ「<a href="https://www.dollarama.com/en-CA/" rel="noreferrer noopener" target="_blank">Dollarama(ダララマ)</a>」でも販売されています。1ドルショップは日本の100円均一ショップのような店でキーホルダーやマグネット、お菓子などお土産にぴったりな商品を安く手に入れることができます。</p>
+<picture>
+<source alt="カナダ土産のおすすめ20選" className="img_big m20-t m20-b lazyloaded" height="426.5" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/60804e157a3e807b6566645bc4a0046b.webp" type="image/webp" width="640"/><img alt="カナダ土産のおすすめ20選" className="img_big m20-t m20-b" decoding="async" height="426.5" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/60804e157a3e807b6566645bc4a0046b.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="souvenir19">カナダの有名ブランドのお土産</h2>
+<h3 className="wp-block-heading" id="souvenir20">16. MAC</h3>
+<p>日本でも人気のあるコスメブランド“<a href="https://www.maccosmetics.ca/" rel="noreferrer noopener" target="_blank">MAC</a>”は1984年にトロントで生まれたブランドです。ブランド名のMACは“Make-Up Art Cosmetics”の略称で、元々はメイクアップアーティストやモデル、カメラマン向けに設立されたブランドのためMACのコスメは発色や色持ちの良さに定評があります。現地では日本で販売されていない商品やカラーも沢山あり、メイク好きな友人へのお土産にもぴったりです。また、日本よりも安く販売されており、免税店などでは更にお得に買うことができます。</p>
+<h3 className="wp-block-heading" id="souvenir21">17. Canada Goose</h3>
+<p><a href="https://www.canadagoose.com/ca/en/home-page" rel="noreferrer noopener" target="_blank">Canada Goose(カナダグース)</a>は1957年にカナダのトロントで創業されました。「メイドインカナダ」にこだわって作られ、人気の高いダウンジャケットは抜群の防寒性を誇ります。フード周りのファーは上質なコヨーテの毛皮が使用されているため、氷点下でも凍ることはありません。カナダグースは登山家や探検家、カナダ北部やシベリア、アラスカといった極寒の地で生活する人々からも根強い支持を受けています。現地では取り扱い店舗が多くデザインや種類も豊富なため、お気に入りの一着を見つけることができるでしょう。</p>
+<h3 className="wp-block-heading" id="souvenir22">18. Arc’teryx</h3>
+<p><a href="https://arcteryx.com/ca/en" rel="noreferrer noopener" target="_blank">Arc’teryx(アークテリクス)</a>はバンクーバーで生まれたアウトドアブランドです。ブランド名は世界最古の鳥“アーケオプテリクス(始祖鳥)”に由来し、ロゴはその化石をモチーフにして作られています。アウトドア用品のほか雑貨なども販売されており、アウトドアブランドならではの高性能なアイテムが揃います。メンズライクでスタイリッシュなデザインは日常やビジネスシーンにもマッチするため、アウトドア好きの方へのお土産にはもちろん、それ以外の方へのお土産にもおすすめです。</p>
+<h3 className="wp-block-heading" id="souvenir23">19. DAVIDs TEA</h3>
+<p><a href="https://www.davidstea.com/ca_en/home/" rel="noreferrer noopener" target="_blank">DAVIDs TEA(デービッド ティー)</a>はカナダで人気のある茶葉専門店です。アールグレイ、オレンジペコーといった人気のフレーバーやオリジナルブレンドの紅茶など150種類以上の茶葉が販売されています。取り扱う種類が多いため、何を買えば良いのか迷った場合は店員さんに相談すると一緒に選んでくれるので安心です。茶葉の香りの確認や試飲をすることもできるので好みに合ったものを見つけることができるでしょう。茶葉は量り売りのため少量から購入できます。店舗では茶葉以外にもマグカップ、タンブラーなどの雑貨も売られています。</p>
+<h3 className="wp-block-heading" id="souvenir24">20. Rogers Chocolates</h3>
+<p>観光客のみならず地元の人からも愛される<a href="https://www.rogerschocolates.com/" rel="noreferrer noopener" target="_blank">Rogers Chocolates(ロジャーズ・チョコレート)</a>は創業130年の老舗チョコレートショップです。バニラやメープルなどのフレーバークリームをチョコレートで包んだ“Victoria Creams”はリピーターの多い商品です。また、カナダの街並みや自然、動物などが描かれた缶に入ったチョコレートの詰め合わせ“Canadian Art Tinsシリーズ”は可愛らしいパッケージのためお土産やギフト用におすすめです。店舗では色々な種類のチョコレートを一粒ずつ箱に詰めてもらうこともできます。</p>
+<h2 className="wp-block-heading" id="souvenir25">カナダ入国・渡航にはeTA(イータ)の事前申請が必要です</h2>
+<p>観光などを目的としてカナダへ渡航する際、eTA(イータ)の申請を行う必要があります。日本を含むビザ免除対象国の国籍をお持ちの方はビザではなく、電子渡航認証eTA(イータ)を取得することでカナダへの渡航が許可されます。eTA(イータ)の有効期限は申請日より5年間、またはパスポートの有効期限日までとなります。有効期限内であればeTA(イータ)を利用したカナダ渡航は何度でも認められますが、1度につき最長6か月の滞在に限られます。eTA(イータ)はオンラインでの申請となり承認までに最大72時間かかる場合があるため、渡航日までに余裕を持って申請するようにしましょう。eTA(イータ)の詳細に関しては「<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"カナダ・バンクーバーおすすめのお土産20選、定番から人気の雑貨までご紹介 | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

@@ -1,0 +1,303 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3e82,<div className="page-layout">
+    <main className="page-main">
+      <div className="breadcrumb">
+        <a href="index.html">ホーム</a> ＞ 
+        <a href="#usa">アメリカ</a> ＞ 
+        <a href="#visa-info">渡航ノウハウ</a> ＞ 
+        ESTAのグループ申請方法
+      </div>
+
+      <article className="article-detail">
+        <span className="card-tag">USA渡航ノウハウ</span>
+        <h1>ESTAのグループ申請方法を解説！家族で申請する際の注意点も紹介</h1>
+        <div className="article-meta">
+          <span className="meta-date">更新日：2026年03月31日</span>
+        </div>
+
+        <div className="content">
+          
+          <div className="article-toc">
+            <h4 className="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">ESTAのグループ申請について</a>
+                  <ul>
+                    <li><a href="#section1-1">グループ申請のメリット</a></li>
+                    <li><a href="#section1-2">1人での申請との違い</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section2">ESTAのグループ申請に必要な書類・情報</a></li>
+                <li><a href="#section3">ESTAのグループ申請手順</a>
+                  <ul>
+                    <li><a href="#section3-1">1. ESTA申請公式サイトで「グループによる申請」を選ぶ</a></li>
+                    <li><a href="#section3-2">2. グループの代表者の連絡先を登録</a></li>
+                    <li><a href="#section3-3">3. グループ全員分の申請者情報を入力</a></li>
+                    <li><a href="#section3-4">4. 申請内容を確認</a></li>
+                    <li><a href="#section3-5">5. 申請手数料の支払い</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section4">よくある質問</a></li>
+                <li><a href="#section5">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          
+          <p>家族や友人グループでアメリカ旅行を計画している場合、<strong>ESTAのグループ申請</strong>が便利です。この記事では、グループ申請のメリット、手順、注意点をわかりやすく解説します。</p>
+
+          
+          <h2 id="section1">ESTAのグループ申請について</h2>
+          <p>ESTAのグループ申請は、<strong>最大50人分</strong>まで一度に申請できる便利な方法です。代表者が全員分の費用を一括決済し、<strong>グループID</strong>でまとめて管理できます。</p>
+
+          <h3 id="section1-1">グループ申請のメリット</h3>
+          <div className="info-box">
+            <h4>✅ グループ申請の主なメリット</h4>
+            <ul>
+              <li><strong>クレジットカード情報の繰り返し入力が不要</strong> - 代表者が一括支払い</li>
+              <li><strong>グループIDで全員の申請状況を一括管理</strong> - 管理が簡単</li>
+              <li><strong>家族だけでなく友人・知人も登録可能</strong> - 血縁関係不要</li>
+              <li><strong>最大50人まで申請可能</strong> - 大人数の旅行にも対応</li>
+            </ul>
+          </div>
+
+          <h3 id="section1-2">1人での申請との違い</h3>
+          <p>個人申請とグループ申請の主な違いを表で比較します：</p>
+          
+          <div style="overflow-x: auto; margin: 20px 0;">
+            <table style="width: 100%; border-collapse: collapse; background: #fff;">
+              <thead>
+                <tr style="background: var(--primary-light);">
+                  <th style="padding: 12px; border: 1px solid var(--gray-200); text-align: left;">項目</th>
+                  <th style="padding: 12px; border: 1px solid var(--gray-200); text-align: left;">個人申請</th>
+                  <th style="padding: 12px; border: 1px solid var(--gray-200); text-align: left;">グループ申請</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>申請可能人数</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">1名のみ</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">最大50名まで</td>
+                </tr>
+                <tr style="background: var(--gray-50);">
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>支払い方法</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">申請ごとに個別決済</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">代表者が一括決済</td>
+                </tr>
+                <tr>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>申請状況の管理</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">申請番号で個別確認</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">グループIDで一括管理</td>
+                </tr>
+                <tr style="background: var(--gray-50);">
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>申請情報入力</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">1人分</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">全員を個別に入力</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          
+          <h2 id="section2">ESTAのグループ申請に必要な書類・情報</h2>
+          
+          <div className="info-box">
+            <h4>📋 必要な書類（全員分）</h4>
+            <ul>
+              <li><strong>ICチップ搭載の有効なパスポート</strong></li>
+              <li><strong>クレジットカード/デビットカード/PayPal</strong>（代表者のみ）</li>
+              <li><strong>メールアドレス</strong>（代表者のみ）</li>
+            </ul>
+          </div>
+
+          <div className="info-box">
+            <h4>📝 必要な情報（全員分）</h4>
+            <ul>
+              <li>名前、生年月日、性別、国籍</li>
+              <li>居住地、電話番号</li>
+              <li>パスポート情報（番号、有効期限、発行日）</li>
+              <li>両親の名前</li>
+              <li>勤務先情報（住所、連絡先）</li>
+              <li>アメリカでの滞在先情報</li>
+            </ul>
+          </div>
+
+          
+          <h2 id="section3">ESTAのグループ申請手順</h2>
+          <p>ESTAのグループ申請は、以下の5ステップで完了します。</p>
+
+          <h3 id="section3-1">1. ESTA申請公式サイトで「グループによる申請」を選ぶ</h3>
+          <ol>
+            <li>DHS公式サイト（<strong>https://esta.cbp.dhs.gov/</strong>）へアクセス</li>
+            <li>言語選択で「日本語」に変更</li>
+            <li>「申請」メニューから「<strong>グループによる申請</strong>」を選択</li>
+            <li>「セキュリティに関する通告」を確認して続行</li>
+          </ol>
+
+          <h3 id="section3-2">2. グループの代表者の連絡先を登録</h3>
+          <p>代表者の基本情報を入力します：</p>
+          <ul>
+            <li>氏名（<strong>アルファベット</strong>）</li>
+            <li>生年月日</li>
+            <li>メールアドレス（申請完了時・ステータス変更時に通知）</li>
+          </ul>
+          <p>入力後「次へ」をクリックすると、<strong>グループID</strong>が発行されます。</p>
+          
+          <div className="warn-box">
+            <h4>⚠️ 重要</h4>
+            <p>グループIDは必ずメモして保管してください。後で申請状況を確認する際に必要です。</p>
+          </div>
+
+          <h3 id="section3-3">3. グループ全員分の申請者情報を入力</h3>
+          <p>各メンバーの申請情報を1人ずつ入力します：</p>
+          <ol>
+            <li>免責事項に「<strong>同意する</strong>」をチェック</li>
+            <li>パスポートの顔写真ページをアップロード（情報が自動反映）</li>
+            <li>勤務先情報、連絡先、滞在先住所を入力</li>
+            <li>9つの質問（犯罪歴、不法入国歴等）に回答</li>
+          </ol>
+
+          <h3 id="section3-4">4. 申請内容を確認</h3>
+          <p>グループ管理画面で全員のステータスを確認します：</p>
+          <ul>
+            <li>メンバー追加が必要な場合は「<strong>新規の申請を追加する</strong>」をクリック</li>
+            <li>全員分の入力が完了したら「<strong>確認と検証</strong>」をクリック</li>
+            <li>名前、生年月日、パスポート情報、性別、9つの質問の回答を最終確認</li>
+          </ul>
+
+          <h3 id="section3-5">5. 申請手数料の支払い</h3>
+          <p>代表者が全員分の費用を一括支払いします：</p>
+          <ol>
+            <li>「<strong>支払いを行う</strong>」をクリック</li>
+            <li>申請人数と合計金額を確認（1人<strong>40.27米ドル</strong>）</li>
+            <li>クレジットカードまたはPayPalで決済</li>
+            <li>利用規約に同意し、「<strong>今すぐ支払う</strong>」をクリック</li>
+            <li>「支払いが完了しました」と表示されれば手続き完了</li>
+          </ol>
+
+          <div className="warn-box">
+            <h4>⚠️ 支払い期限</h4>
+            <p>グループID発行後、<strong>7日以内</strong>に支払いを完了してください。期限を過ぎると申請が無効になります。</p>
+          </div>
+
+          
+          <h2 id="section4">よくある質問</h2>
+
+          <div className="faq-item">
+            <h3>Q1: 申請後に入力内容の修正はできますか？</h3>
+            <p><strong>A:</strong> 滞在先情報とメールアドレス以外は修正できません。スペルミスを発見した場合は、再申請が必要です（別途手数料がかかります）。</p>
+          </div>
+
+          <div className="faq-item">
+            <h3>Q2: 申請済みの場合、メンバーを追加できますか？</h3>
+            <p><strong>A:</strong> 代表者の申請完了後は、メンバーの追加はできません。他のメンバーは個別申請または新規グループ申請が必要です。</p>
+          </div>
+
+          <div className="faq-item">
+            <h3>Q3: 未就学児・乳幼児もESTAの申請が必要ですか？</h3>
+            <p><strong>A:</strong> はい、年齢不問で申請が必須です。保護者による代理申請が可能ですが、申請者本人（子供）のパスポート情報を入力してください。</p>
+          </div>
+
+          <div className="faq-item">
+            <h3>Q4: 申請結果は代表者のみに通知されるのですか？</h3>
+            <p><strong>A:</strong> ステータス変更時に代表者のメールへ通知されます。プライバシー保護のため、結果はメール本文に記載されません。公式サイトでグループIDを使用して確認してください。</p>
+          </div>
+
+          <div className="faq-item">
+            <h3>Q5: 申請費用は代表者がまとめて支払うのですか？</h3>
+            <p><strong>A:</strong> はい、代表者が全員分を一括支払いします。1人あたり40.27米ドルで、7日以内に支払う必要があります。期限を過ぎると申請が無効になります。</p>
+          </div>
+
+          
+          <h2 id="section5">まとめ</h2>
+          <p>家族や複数人でアメリカへ渡航する際は、ESTAのグループ申請が便利です。代表者がグループIDを発行し、全員分の費用を一括決済・管理できます。ただし、申請情報は1人ずつ入力が必要なため、全員分のパスポートを事前に準備しておきましょう。</p>
+
+          <div className="info-box">
+            <h4>✅ グループ申請のポイント</h4>
+            <ul>
+              <li>最大50人まで一度に申請可能</li>
+              <li>代表者が一括支払い・管理</li>
+              <li>グループIDは必ず保管</li>
+              <li>支払い期限は7日以内</li>
+              <li>申請情報は1人ずつ入力が必要</li>
+              <li>未成年・乳幼児も申請必須</li>
+            </ul>
+          </div>
+        </div>
+
+        
+        <div className="related-articles">
+          <h3 className="related-title">関連記事</h3>
+          <div className="related-grid">
+            <a href="usa-esta-application.html" className="related-card">
+              <div className="related-card-body">
+                <span className="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
+              </div>
+            </a>
+            
+            <a href="usa-esta-renewal.html" className="related-card">
+              <div className="related-card-body">
+                <span className="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA(エスタ)に更新は必要？入力ミスをした際の対応</h3>
+              </div>
+            </a>
+            
+            <a href="usa-esta-smartphone.html" className="related-card">
+              <div className="related-card-body">
+                <span className="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAアプリでの申請方法を解説！</h3>
+              </div>
+            </a>
+            
+            <a href="usa-hawaii-esta.html" className="related-card">
+              <div className="related-card-body">
+                <span className="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ハワイ渡航時にESTAは必要？</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    
+    <aside className="sidebar">
+      <div className="sidebar-section">
+        <h3 className="sidebar-title">人気記事ランキング</h3>
+        <ol className="sidebar-ranking">
+          <li>
+            <a href="canada-eta-about.html">
+              <span className="rank-num">1</span>
+              <div className="rank-info">
+                <span className="rank-tag">カナダeTA</span>
+                <div className="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="australia-etas-about.html">
+              <span className="rank-num">2</span>
+              <div className="rank-info">
+                <span className="rank-tag">オーストラリア</span>
+                <div className="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="usa-esta-application.html">
+              <span className="rank-num">3</span>
+              <div className="rank-info">
+                <span className="rank-tag">USA ESTA</span>
+                <div className="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

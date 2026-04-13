@@ -1,0 +1,335 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T4745,<div className="area-hero" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=1400&h=400&fit=crop')">
+ <div className="area-hero-overlay"></div>
+ <div className="area-hero-content">
+ <span className="area-hero-label">AUSTRALIA</span>
+ <h1>オーストラリア</h1>
+ <p>グレートバリアリーフ、エアーズロック、野生動物との出会い。オーストラリア渡航に必要なETAS情報と魅力的な観光スポットをご案内。</p>
+ </div>
+ </div>
+
+ <div className="container">
+ <div className="section-inner">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ オーストラリア</div>
+
+ <div className="country-info">
+ <div className="country-intro">
+ <h2>オーストラリアについて</h2>
+ <p>オーストラリアは南半球に位置する世界第6位の国土を持つ国で、ユニークな自然環境と多文化社会が魅力です。シドニー・オペラハウス、グレートバリアリーフ、ウルル（エアーズロック）など世界的な観光地が点在。日本国民は観光目的の短期滞在（最長3か月）にビザは不要ですが、ETAS（イータス：電子渡航認証）の事前取得が必須です。</p>
+ </div>
+ <div className="country-basics">
+ <h3>基本情報</h3>
+ <table className="basics-table">
+ <tr><th>首都</th><td>キャンベラ</td></tr>
+ <tr><th>公用語</th><td>英語</td></tr>
+ <tr><th>通貨</th><td>オーストラリアドル（AUD）</td></tr>
+ <tr><th>時差</th><td>+30分～+1時間（3つのタイムゾーン）</td></tr>
+ <tr><th>渡航認証</th><td>ETAS（イータス）必須</td></tr>
+ </table>
+ </div>
+ </div>
+
+ <section className="section">
+ <h2 className="section-title">🛂 入国・ビザガイド</h2>
+ <div className="card-grid-4">
+ <a href="australia-working-holiday.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>【2022年最新】 オーストラリアのワーキングホリデー</h3>
+ </div>
+ </a>
+ <a href="australia-partner-visa.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>【2022年最新】オーストラリアパートナービザの申請方法・取得方法</h3>
+ </div>
+ </a>
+ <a href="australia-etas-vs-visa.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>ETAS(イータス)とビザの違い</h3>
+ </div>
+ </a>
+ <a href="australia-etas-renewal.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>ETAS(イータス)更新方法について</h3>
+ </div>
+ </a>
+ <a href="australia-etas-rejection.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>ETAS(イータス)申請が認証拒否された場合</h3>
+ </div>
+ </a>
+ <a href="australia-etas-site.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>ETAS(イータス)申請に関するサイトのご案内</h3>
+ </div>
+ </a>
+ <a href="australia-etas-timing.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>ETAS(イータス)申請のベストなタイミングとは？</h3>
+ </div>
+ </a>
+ <a href="australia-etas-about.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</h3>
+ </div>
+ </a>
+ <a href="australia-etas-validity.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>オーストラリアETAS(イータス)の有効期限と再申請について</h3>
+ </div>
+ </a>
+ <a href="australia-immigration-guide.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>オーストラリアに移住するには？ビザの種類やメリット・デメリットについて</h3>
+ </div>
+ </a>
+ <a href="australia-etas-smartphone.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>スマホでのETAS(イータス)申請方法</h3>
+ </div>
+ </a>
+ <a href="australia-etas-transit.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>乗り継ぎでオーストラリアに入国する際ETAS(イータス)申請は必要？</h3>
+ </div>
+ </a>
+ <a href="australia-etas-criminal-record.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>前科・犯罪歴がある場合のオーストラリア入国とETAS(イータス)申請</h3>
+ </div>
+ </a>
+ <a href="australia-student-visa.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>学生ビザとは</h3>
+ </div>
+ </a>
+ <a href="australia-minors.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>未成年のオーストラリア渡航について</h3>
+ </div>
+ </a>
+ <a href="australia-etas-pending.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>認証審査が保留された場合の対処法</h3>
+ </div>
+ </a>
+ </div>
+ </section>
+
+ <section className="section">
+ <h2 className="section-title">✈️ 観光・グルメ</h2>
+ <div className="card-grid-4">
+ <a href="australia-macquarie-island.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>【最南端の世界遺産】 オーストラリアのマッコーリー島</h3>
+ </div>
+ </a>
+ <a href="australia-transit-asia.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>アジア諸国を経由してオーストラリア渡航をする方へ</h3>
+ </div>
+ </a>
+ <a href="australia-uluru-climbing-ban.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>ウルル/エアーズロックが登山禁止の理由とは</h3>
+ </div>
+ </a>
+ <a href="australia-fremantle.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリア・パースの港町“フリーマントル”の歴史・文化と観光スポット</h3>
+ </div>
+ </a>
+ <a href="australia-perth-spots.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリア「パース」で人気の観光スポットを紹介</h3>
+ </div>
+ </a>
+ <a href="australia-souvenirs.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリアお土産13選 【人気＆定番からおすすめまでご紹介】</h3>
+ </div>
+ </a>
+ <a href="australia-koala-zoos.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリアでコアラと出会える動物園</h3>
+ </div>
+ </a>
+ <a href="australia-rugby.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリアでプレーされるラグビーの種類や環境について</h3>
+ </div>
+ </a>
+ <a href="australia-bushfires.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリアで森林火災が多発する原因とは？</h3>
+ </div>
+ </a>
+ <a href="australia-top-destinations.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリアのエリア別観光スポット・見どころ15選</h3>
+ </div>
+ </a>
+ <a href="australia-opera-house.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリアの世界遺産“シドニー・オペラハウス”を徹底解説</h3>
+ </div>
+ </a>
+ <a href="australia-world-heritage.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリアの世界遺産15選 自然遺産から文化遺産まで</h3>
+ </div>
+ </a>
+ <a href="australia-cuisine.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリアの代表的な料理16選 本場の味を紹介</h3>
+ </div>
+ </a>
+ <a href="australia-aboriginal-culture.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリアの先住民、アボリジニの文化と歴史について</h3>
+ </div>
+ </a>
+ <a href="australia-history.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリアの歴史と成り立ち</h3>
+ </div>
+ </a>
+ <a href="australia-climate.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリアの気候と季節ごとの服装</h3>
+ </div>
+ </a>
+ <a href="australia-time-difference.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリア主要都市と日本の時差・サマータイムについて</h3>
+ </div>
+ </a>
+ <a href="australia-wildlife.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリア固有の動物と絶滅危惧種について</h3>
+ </div>
+ </a>
+ <a href="australia-embassy.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリア大使館について</h3>
+ </div>
+ </a>
+ <a href="australia-study-abroad.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オーストラリア留学のメリット・デメリット、学校の選び方など徹底解説</h3>
+ </div>
+ </a>
+ <a href="australia-cairns-spots.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</h3>
+ </div>
+ </a>
+ <a href="australia-gold-coast-spots.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>ゴールドコーストでおすすめの人気観光スポット20選</h3>
+ </div>
+ </a>
+ <a href="australia-sydney-spots.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>シドニーの観光スポット10選 定番からおすすめまでを紹介</h3>
+ </div>
+ </a>
+ <a href="australia-antarctica-access.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>南極にアクセスできる国とは？南極への行き方や必需品</h3>
+ </div>
+ </a>
+ <a href="australia-deserts.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>自然が満喫できるオーストラリアの砂漠</h3>
+ </div>
+ </a>
+ </div>
+ </section>
+ </div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

@@ -1,0 +1,186 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","australia-immigration-guide",""],"q":"","i":false,"f":[[["",{"children":["australia-immigration-guide",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T874d,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オーストラリアに移住するには？ビザの種類やメリット・デメリットについて</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>オーストラリアに移住するには？ビザの種類やメリット・デメリットについて</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">オーストラリアに移住するには？ビザの種類やメリット・デメリットについて</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1">
+<li><a className="ez-toc-link" href="#immi1">オーストラリア移住の現状</a></li>
+<li><a className="ez-toc-link" href="#immi2">オーストラリア移住のメリット</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#immi2-1">豊かな自然を体感できる</a></li>
+<li><a className="ez-toc-link" href="#immi2-2">移民国家ならではの多様性</a></li>
+<li><a className="ez-toc-link" href="#immi2-3">日本との時差が短い</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#immi3">オーストラリア移住のデメリット</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#immi3-1">日本と比べ物価が高い</a></li>
+<li><a className="ez-toc-link" href="#immi3-2">季節を問わず紫外線対策が必要</a></li>
+<li><a className="ez-toc-link" href="#immi3-3">歯科治療費が高額</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#immi4">オーストラリアへの移住と永住権を取得する方法</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#immi4-1">技術独立永住ビザ(サブクラス189) / Skilled Independent Subclass 189 visas(S189)</a></li>
+<li><a className="ez-toc-link" href="#immi4-2">一時的技能不足ビザ(サブクラス482) / Temporary Skill Shortage visa(TSS)(S482)</a></li>
+<li><a className="ez-toc-link" href="#immi4-3">配偶者ビザ(サブクラス801) / Permanent Partner visa(S801)</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#immi5">オーストラリアでの永住について</a></li>
+<li><a className="ez-toc-link" href="#immi6">オーストラリア移住におすすめの都市</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#immi6-1">メルボルン(ビクトリア州)</a></li>
+<li><a className="ez-toc-link" href="#immi6-2">パース(西オーストラリア州)</a></li>
+<li><a className="ez-toc-link" href="#immi6-3">シドニー(ニューサウスウェールズ州)</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#immi7">オーストラリアへの入国と短期渡航にはETAS(イータス)の申請が必要です</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="移住" className="img_big m20-t m20-b lazyloaded" height="425" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/07/e35ae78a70ee6ae4585466259f66b975.webp" type="image/webp" width="640"/><img alt="移住" className="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/07/e35ae78a70ee6ae4585466259f66b975.jpg" width="640"/>
+</picture>
+<p>世界中から多くの観光客が訪れるオーストラリアは移住先としても高い人気を誇ります。オーストラリアへ訪れたことがある方の中には豊かな自然と温暖な気候などに魅了され、オーストラリアを移住先の候補に挙げている方も見受けられます。このページではオーストラリアへ移住する際の条件やメリット・デメリット、必要な手続きなどを解説します。</p>
+<h2 className="wp-block-heading" id="immi1">オーストラリア移住の現状</h2>
+<p>オーストラリアは1788年にイギリスの植民地として発足し、ゴールドラッシュの時期を経て1901年に連邦政府が設立されました。国家設立当初から多くの移民が居住し、現在も総人口の約30％を国外からの移民で占めています。出身国別ではイギリスからの移民が最も多く、中国、インドと続きます。日本からは2018年時点で5万8千人を超える方が永住権を取得してオーストラリアへ移住。留学や駐在など長期滞在中の方を含むと、約10万人の日本人がオーストラリアで暮らしています。オーストラリア国内で最も移民が多い都市は経済の中心地であるシドニーで、就労先も多いことから今後も移住を希望する人口が増えると予想されます。</p>
+<h2 className="wp-block-heading" id="immi2">オーストラリア移住のメリット</h2>
+<h3 className="wp-block-heading" id="immi2-1">豊かな自然を体感できる</h3>
+<p>広大な国土を有するオーストラリアには多くの世界自然遺産があります。世界最大級のサンゴ礁「<a href="https://www.queensland.com/au/en/places-to-see/experiences/great-barrier-reef.html" rel="noreferrer noopener" target="_blank">グレートバリアリーフ</a>」をはじめ、巨大な一枚岩「<a href="https://parksaustralia.gov.au/uluru/discover/highlights/uluru/" rel="noreferrer noopener" target="_blank">ウルル/エアーズロック</a>」を間近で体感できる「<a href="https://parksaustralia.gov.au/uluru/index.html" rel="noreferrer noopener" target="_blank">ウルル=カタ・ジュタ国立公園</a>」などは人気の観光地となっています。他にも広大な砂漠や日本国土の4倍にも及ぶ森林など、豊かな自然がオーストラリア最大の魅力と言えるでしょう。<br />オーストラリアの砂漠は比較的降水量が多いため、草が生い茂る草原地域には様々な動物が生息しています。国内には多くの動物園があり、コアラやカンガルー、ウォンバットなどオーストラリア固有の動物と触れ合うことができます。</p>
+<h3 className="wp-block-heading" id="immi2-2">移民国家ならではの多様性</h3>
+<p>オーストラリアでは国家事業として移民政策を推進したことにより、人口の1/3が他国のルーツを持つと言われています。古代から居住する<a href="http://xs640823.xsrv.jp/etas/indigenouspeople/index.html">アボリジニ</a>はオセアニアを代表する先住民族であり、自然神を敬う独自の価値観や風習はオーストラリア文化の土台を築きました。オーストラリアはアボリジニを始めとする民族と諸外国からの移民によって独自の文化を形成したことにより、多様性を認めあう傾向が強くあります。そのため国籍に関しての差別や偏見が少なく、日本人が移住しやすい環境にあると言えるでしょう。<br />また、各都市には各国のコミュニティによるマーケットがあり、アジア系の店舗では米や日本の調味料など様々な食材を取り揃えています。</p>
+<h3 className="wp-block-heading" id="immi2-3">日本との時差が短い</h3>
+<p>北半球に位置する日本と南半球のオーストラリアでは四季が正反対となりますが、時差は30分から1時間と非常に短いこともメリットとして挙げられます。広大な面積のオーストラリアでは東部・中部・西部による<a href="http://xs640823.xsrv.jp/etas/time-difference/index.html#time1">3つのタイムゾーン</a>があります。中部標準時間(Australian Central Time=ACT)に該当する南オーストラリア州アデレードと日本との時差はわずか30分です。日本とアメリカとの時差は約12時間、ヨーロッパは約6時間ですが、オーストラリアは時差が短いことから日本の家族や知人とスムーズに連絡を行うことが可能です。</p>
+<h2 className="wp-block-heading" id="immi3">オーストラリア移住のデメリット</h2>
+<h3 className="wp-block-heading" id="immi3-1">日本と比べ物価が高い</h3>
+<p>日本は世界的にも物価が高い傾向にありますが、オーストラリアは一部の食材等を除き日本よりも高い印象を受けます。特に輸入に頼る雑貨や衣料品、加工食品は値段が高く、日本で販売している価格の約2倍が相場となります。国土が広大なため膨大な輸送費がかかることや、日本と比べ人口が少ないことから流通業に従事する人材不足が物価高騰の要因として挙げられます。また、飲食店を利用する際はチップが必要となり、都市部で日本食を提供するレストランの価格は日本の約3倍が相場となります。肉・野菜・果物などの生鮮品は日本と比べ物価が安く、現地で獲れた新鮮な食材を手軽に入手することができます。</p>
+<h3 className="wp-block-heading" id="immi3-2">季節を問わず紫外線対策が必要</h3>
+<p>オーストラリアは日本と比べ紫外線が非常に強く、一部の都市では日本の5～10倍もの紫外線量となります。南半球に位置しているため地理的な理由が大きく影響していますが、広範囲におよぶ森林伐採や山火事などによるオゾン層の減少も要因とされています。夏期となる11月から2月は特に紫外線が強く、日中の外出は熱中症対策が必須です。夏期以外も全般的に紫外線が強いため、日焼け止めや帽子・サングラス・長袖衣類を活用した日焼け対策は欠かせません。<br />紫外線対策の先進国であるオーストラリアでは、衣類のタグにUPF値(紫外線保護指数)が表示されています。現地で衣類を購入する際は目安としてUPF15以上の衣類を選ぶことをお勧めします。</p>
+<h3 className="wp-block-heading" id="immi3-3">歯科治療費が高額</h3>
+<p>オーストラリアでは歯科治療が国民健康保険Medicare(メディケア)の適用外となるため、歯の治療費が非常に高額となります。<a href="https://www.ada.org.au/" rel="noreferrer noopener" target="_blank">オーストラリア歯科医師会(ADA/Ausutralian Dental Association)</a>によるアンケートでは定期検診とフッ素治療で平均215ドル(約18,000円)の費用がかかると報告され、歯科治療を躊躇する市民も少なくありません。そのため、オーストラリアでは個人保険に加入することで治療費の5~8割を保険料でカバーすることが一般的となっています。なお、未成年には1人あたり年間1,000ドルまで政府が歯科治療費を負担する“Child Dental Benefits Schedule”(児童歯科診療給付金制度)が制定されています。同制度はMedicare(メディケア)に加入している世帯のみが対象となり、移住者が利用を希望する場合は永住権の取得が必須となります。</p>
+<h2 className="wp-block-heading" id="immi4">オーストラリアへの移住と永住権を取得する方法</h2>
+<h3 className="wp-block-heading" id="immi4-1">技術独立永住ビザ(サブクラス189) / Skilled Independent Subclass 189 visas(S189)</h3>
+<p>「技術独立永住ビザ」は最も一般的なオーストラリアの永住ビザです。スポンサーや推薦者を必要としないため、以下の条件を満たすことで申請が可能です。<br />長期滞在ビザと異なりオーストラリアでの居住が無期限で認められ、国民健康保険Medicare(メディケア)の加入対象となります。</p>
+<div className="Class_J">
+<h4>申請条件</h4>
+<p><ul><li>18歳以上45歳未満であること</li><li>職業が<a href="https://immi.homeaffairs.gov.au/work-in-australia/Pages/Skill-occupation-list.aspx" rel="noreferrer noopener" target="_blank">技能職リスト</a>に記載されていること</li><li>IELTS・TOEFL・PTE・OET・C1 Advancedいずれかによる<a href="https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/competent-english" rel="noreferrer noopener" target="_blank">英語力の証明</a>が可能であること　</li><li>年齢や英語力、実務経験など<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189/points-table" rel="noopener noreferrer" target="_blank">ポイント制の審査</a>にて65ポイント以上獲得すること<br />※ 基準となるポイント数は随時変更となります。</li><li><a href="https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/health" rel="noreferrer noopener" target="_blank">健康要件</a>を満たしていること</li><li><a href="https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/character" rel="noreferrer noopener" target="_blank">犯罪歴・起訴歴</a>等がないこと</li><li>過去にビザのキャンセルや申請却下、不法滞在等の履歴がないこと</li></ul></p>
+</div>
+<div className="Class_J">
+<h4>申請方法</h4>
+<p><p><strong>手順1. <a href="https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect" rel="noreferrer noopener" target="_blank">関心表明(EOI)</a>を登録する</strong><br />登録後に「申請許可通知」が届いた方のみビザ申請が認められます。申請許可が否認された場合は審査ポイント等を考慮し再申請をご検討ください。<br /><strong>手順2. <a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189/points-tested#HowTo" rel="noreferrer noopener" target="_blank">必要書類</a>を用意する</strong><br /><strong>手順3. ビザを申請する</strong><br />申請許可通知の受領から60日以内にオンラインにて申請を行ってください。<br /><strong>手順4. 在京オーストラリア大使館にてパスポートへ永住ビザとなるシールの貼付を受ける</strong></p><p>詳しくはオーストラリア内務省の<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189/points-tested#About" rel="noreferrer noopener" target="_blank">技術独立永住ビザページ</a>をご確認ください。</p></p>
+</div>
+<h3 className="wp-block-heading" id="immi4-2">一時的技能不足ビザ(サブクラス482) / Temporary Skill Shortage visa(TSS)(S482)</h3>
+<p>「一時的技能不足ビザ」(TSSビザ)とは、オーストラリア国外に居住する熟練技術者を対象とした就労ビザです。オーストラリア企業からの推薦または招致が条件となり、滞在期間はShort-Term stream (短期間ストリーム)とMedium-Term stream (中期間ストリーム)に分類されます。<br />永住権の取得を希望する場合はMedium-Term streamを取得したうえで3年以上就業し、永住が可能となる雇用主指名制度(サブクラス186)の申請を行う必要があります。申請が承認された方は国民健康保険Medicare(メディケア)の加入が認められ、オーストラリア市民と同様の医療制度が保証されます。企業からの推薦が条件となるため他のビザと比べ取得がやや困難となりますが、帯同する配偶者も自由な就労が認められるなど付帯的なメリットがあります。</p>
+<div className="Class_J">
+<h4>Medium-Term stream(中期間ストリーム)の申請条件</h4>
+<p><ul><li><a href="https://immi.homeaffairs.gov.au/work-in-australia/Pages/Skill-occupation-list.aspx" rel="noreferrer noopener" target="_blank">技能職リスト</a>記載の職種でありオーストラリア企業からの推薦申請がなされていること</li><li>推薦申請を提出した企業(スポンサー企業)でのみ雇用されること<br />※ 契約企業を含め、スポンサー企業以外での就労は禁止となります。</li><li><a href="https://www.legislation.gov.au/Details/F2018L00294" rel="noreferrer noopener" target="_blank">技能審査</a>に合格していること</li><li>当該の職種において2年以上の実務経歴があること</li><li><a href="https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/health/adequate-health-insurance" rel="noreferrer noopener" target="_blank">健康保険</a>に加入していること</li><li><a href="https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/health" rel="noreferrer noopener" target="_blank">健康要件</a>を満たしていること</li><li><a href="https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/character" rel="noreferrer noopener" target="_blank">犯罪歴・起訴歴</a>等がないこと</li><li><a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/sufficient-english" rel="noreferrer noopener" target="_blank">基準を満たす英語力</a>があること</li><li>過去にビザのキャンセルや申請却下、不法滞在等の履歴がないこと</li></ul></p>
+</div>
+<div className="Class_J">
+<h4> Medium-Term stream(中期間ストリーム)の申請方法</h4>
+<p><p><strong>手順1. 雇用主がスポンサー企業申請のうえ、推薦申請書を提出<br />手順2. <a href="https://www.legislation.gov.au/Details/F2018L00294" rel="noreferrer noopener" target="_blank">技能審査</a>・<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/sufficient-english" rel="noreferrer noopener" target="_blank">英語能力検定</a>・<a href="https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/health" rel="noreferrer noopener" target="_blank">健康診断</a>を実施<br />手順3. <a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream#HowTo" rel="noreferrer noopener" target="_blank">必要書類</a>を用意する<br />手順4. <a href="https://immi.homeaffairs.gov.au/help-support/applying-online-or-on-paper/online" rel="noreferrer noopener" target="_blank">オンライン</a>でビザを申請する</strong><br />※ビザ申請時にスポンサー企業による推薦申請の取引参照番号(TRN)が必要となります。<br /><strong>手順5. 一時的技能不足ビザ(サブクラス482)の交付</strong></p><p>詳しくはオーストラリア内務省の<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream#HowTo" rel="noreferrer noopener" target="_blank">一時的技能不足ビザページ</a>をご確認ください。</p></p>
+</div>
+<div className="Class_J">
+<h4>永住権 / 雇用主指名制度(サブクラス186)(ENS TRT Stream)の申請条件</h4>
+<p><ul><li>原則として申請時の年齢が45歳未満であること</li><li><a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/temporary-work-skilled-457" rel="noreferrer noopener" target="_blank">臨時労働ビザ/熟練(サブクラス457)</a>または<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream#Overview" rel="noreferrer noopener" target="_blank">一時的技能不足ビザ(サブクラス482)ビザのMedium-Term stream (中期間ストリーム)</a>を保持し、スポンサー企業にて3年以上の職務経験があること<br />※ 臨時労働ビザ/熟練(サブクラス457)は2017年に廃止され、申請の受け付けは終了しました。</li><li>スポンサー企業からの推薦を受けていること</li><li>ビザ取得後にスポンサー企業にて2年以上勤務する意思があること</li><li><a href="https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/health" rel="noreferrer noopener" target="_blank">健康要件</a>を満たしていること</li><li><a href="https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/character" rel="noreferrer noopener" target="_blank">犯罪歴・起訴歴</a>等がないこと</li><li><a href="https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/competent-english" rel="noreferrer noopener" target="_blank">基準を満たす英語力</a>があること</li><li>過去にビザのキャンセルや申請却下、不法滞在等の履歴がないこと</li></ul></p>
+</div>
+<div className="Class_J">
+<h4>永住権 / 雇用主指名制度(サブクラス186)(ENS TRT Stream)の申請方法</h4>
+<p><p><strong>手順1. スポンサー企業が推薦申請書を提出<br />手順2. <a href="https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/competent-english" rel="noreferrer noopener" target="_blank">英語能力検定</a>と<a href="https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/health" rel="noreferrer noopener" target="_blank">健康診断</a>を実施<br />手順3. <a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/employer-nomination-scheme-186/temporary-residence-transition-stream#HowTo" rel="noreferrer noopener" target="_blank">必要書類</a>を用意する<br />手順4. <a href="https://immi.homeaffairs.gov.au/help-support/applying-online-or-on-paper/online" rel="noreferrer noopener" target="_blank">オンライン</a>でビザを申請する</strong><br />※ ビザ申請時にスポンサー企業による推薦申請の取引参照番号(TRN)が必要となります。<br /><strong>手順5. 雇用主指名制度ビザ(サブクラス186)の交付</strong></p><p>詳しくはオーストラリア内務省の<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/employer-nomination-scheme-186/temporary-residence-transition-stream#Overview" rel="noreferrer noopener" target="_blank">雇用主指名制度ページ</a>をご確認ください。</p></p>
+</div>
+<h3 className="wp-block-heading" id="immi4-3">配偶者ビザ(サブクラス801) / Permanent Partner visa(S801)</h3>
+<p>配偶者ビザ(サブクラス801)はオーストラリア市民または永住権保有者と婚姻関係にある方を対象とした永住ビザです。申請から2年後に審査が行われるため、先に「一時的配偶者ビザ」(サブクラス820)を取得することで配偶者との婚姻関係が認められます。</p>
+<div className="Class_J">
+<h4>一時的配偶者ビザ(サブクラス820)の申請条件</h4>
+<p><ul><li>以下の方との婚姻関係または事実婚関係が証明できること<ul><li>オーストラリア市民</li><li>オーストラリアの永住権を有する方</li><li>ニュージーランド市民</li></ul></li><li>18歳以上であること</li><li><a href="https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/health" rel="noreferrer noopener" target="_blank">健康要件</a>を満たしていること</li><li><a href="https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/character" rel="noreferrer noopener" target="_blank">犯罪歴・起訴歴</a>等がないこと</li><li>過去にビザのキャンセルや申請却下、不法滞在等の履歴がないこと</li></ul></p>
+</div>
+<div className="Class_J">
+<h4>配偶者ビザ(サブクラス801)の申請条件</h4>
+<p><ul><li><a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/partner-onshore/temporary-820#Overview" rel="noreferrer noopener" target="_blank">一時的配偶者ビザ(サブクラス820)</a>または<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/dependent-child-445" rel="noreferrer noopener" target="_blank">扶養家族ビザ(サブクラス445)</a>を取得していること</li><li>一時的配偶者ビザ申請時と同一の配偶者またはパートナーとの婚姻関係や事実婚関係が証明できること</li></ul></p>
+</div>
+<div className="Class_J">
+<h4>申請までの流れ</h4>
+<p><p><strong>手順1. <a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/partner-onshore/temporary-820#HowTo" rel="noreferrer noopener" target="_blank">一時的配偶者ビザの必要書類</a>を用意する</strong><br /><strong>手順2. 一時的配偶者ビザと配偶者ビザを申請</strong><br /><strong>手順3. 一時的配偶者ビザの交付</strong><br />～ビザ申請から2年後の手続き～<br /><strong>手順4. <a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/partner-onshore/permanent-801#HowTo" rel="noreferrer noopener" target="_blank">配偶者ビザの必要書類</a>を提出</strong><br /><strong>手順5. 配偶者ビザを再申請</strong><br /><strong>手順6. 配偶者ビザの交付</strong></p><p>詳しくはオーストラリア内務省の<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/partner-onshore" rel="noreferrer noopener" target="_blank">配偶者ビザページ</a>をご確認ください。</p></p>
+</div>
+<picture>
+<source alt="移住" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/07/515e5ae4bdf7b5daf007d05bc256d780.webp" type="image/webp" width="640"/><img alt="移住" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/07/515e5ae4bdf7b5daf007d05bc256d780.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="immi5">オーストラリアでの永住について</h2>
+<p>日本の20倍以上もの面積を誇るオーストラリアは、自然豊かな地域と近代的な都市が融合するオセアニア最大の国です。温暖な気候や多様性が認められる文化により、世界中から多くの方が永住を希望してオーストラリアへ訪れます。国土が広大なため、気候・産業・風習など、生活環境は地域により大きく異なります。永住を希望する方は渡航前に十分なリサーチを行い、自身の希望や条件に見合ういくつかの地域で短期間滞在することをお勧めします。<br />また、オーストラリアは治安の良い国としても知られています。経済平和研究所(IEP /Institute for Economics and Peace)による163か国を対象とした2021年の「<a href="https://www.visionofhumanity.org/maps/#/" rel="noreferrer noopener" target="_blank">平和な国ランキング</a>」では16位と評価されました。治安水準は12位の日本とほぼ同等で、犯罪件数が比較的少ない傾向にあります。</p>
+<h2 className="wp-block-heading" id="immi6">オーストラリア移住におすすめの都市</h2>
+<h3 className="wp-block-heading" id="immi6-1">メルボルン(ビクトリア州)</h3>
+<p>オーストラリア南東部に位置するビクトリア州<a href="https://jp.visitmelbourne.com/regions/melbourne" rel="noreferrer noopener" target="_blank">メルボルン</a>は、国内で2番目の人口を誇る大都市です。<br />エコノミスト誌の調査部門<a href="https://www.eiu.com/n/" rel="noreferrer noopener" target="_blank">エコノミスト・インテリジェンス・ユニット</a>による「<a href="https://www.eiu.com/n/campaigns/global-liveability-index-2021/" rel="noreferrer noopener" target="_blank">世界で最も住みやすい都市ランキング</a>」では過去に7年連続で1位を獲得するなど、魅力あふれる都市として知られます。治安・教育・医療・交通の利便性など全ての面において高く評価され、近代的なビルと中世ヨーロッパの建物が融合する街並みは人気の観光地として多くの旅行者が訪れます。市内には緑が多く街の中でも自然を感じることができることから「<a href="https://jp.visitmelbourne.com/regions/melbourne/things-to-do/nature-and-wildlife" rel="noreferrer noopener" target="_blank">ガーデンシティ</a>」とも呼ばれています。大都市のメルボルンはオーストラリア国内で家賃相場が高い傾向にあります。また、他の地域と比べ多くの求人がありますが、移住者が就職する際は一定の英語力が求められます。</p>
+<h3 className="wp-block-heading" id="immi6-2">パース(西オーストラリア州)</h3>
+<p>雄大な自然に囲まれた西オーストラリア州<a href="https://www.destinationperth.com.au/" rel="noreferrer noopener" target="_blank">パース</a>は人気の観光都市で、多くの移住者が暮らす街としても知られています。美しいエメラルドグリーンが印象的なビーチには大勢の市民や観光客で賑わいます。中心地から少し離れた地域には洗練された住宅街があり、ゆったりとした時間が流れています。<a href="https://www.australia.com/ja-jp/facts-and-planning/weather-in-australia/perth-weather.html" rel="noreferrer noopener" target="_blank">年間を通して晴天が多い</a>地域で、市内に点在する<a href="https://www.destinationperth.com.au/region/best-beaches-perth" rel="noreferrer noopener" target="_blank">ビーチ</a>はダイビングやサーフィンの人気スポットとなっています。また、古くからの港町である<a href="https://www.westernaustralia.com/jp/Destination/%e3%83%95%e3%83%aa%e3%83%bc%e3%83%9e%e3%83%b3%e3%83%88%e3%83%ab_(Fremantle)/56b266c1d5f1565045da9d6d" rel="noreferrer noopener" target="_blank">フリーマントル</a>の<a href="https://www.fremantlemarkets.com.au/" rel="noreferrer noopener" target="_blank">マーケット</a>では一年中新鮮なシーフード料理を味わうことができます。パースはシドニーなどの大都市と比べ求人は少ない傾向にありますが、ホテルやリゾート施設が多くあるため給与が高い職場も見受けられます。</p>
+<h3 className="wp-block-heading" id="immi6-3">シドニー(ニューサウスウェールズ州)</h3>
+<p>オーストラリア経済の中心地である<a href="https://jp.sydney.com/" rel="noreferrer noopener" target="_blank">シドニー</a>は、東海岸に位置するニューサウスウェールズ州の州都です。整備された街には緑豊かな公園があり、ウォーキングやサイクリングなどのアクティビティを気軽に楽しむことができます。年間を通して<a href="https://jp.sydney.com/events" rel="noreferrer noopener" target="_blank">様々なイベント</a>が開催され、<a href="https://jp.sydney.com/destinations/sydney/sydney-city/sydney-harbour" rel="noreferrer noopener" target="_blank">シドニーハーバー</a>を背景に打ち上げる<a href="https://www.australia.com/ja-jp/events/arts-culture-and-music/sydney-new-years-eve.html" rel="noreferrer noopener" target="_blank">真夏の花火大会</a>は長年にわたり多くの市民や観光客に親しまれています。国内最大の都市であるシドニーは家賃相場が高めですが、企業や店舗が多いため求人が豊富にあります。これまでの職歴を活かした仕事に従事することは比較的容易とされていますが、就労の際は一定の英語力が求められます。</p>
+<h2 className="wp-block-heading" id="immi7">オーストラリアへの入国と短期渡航にはETAS(イータス)の申請が必要です</h2>
+<p>移住先を選定する際は目的や条件に見合った地域を訪問し、現地の印象や住み心地を確かめることが大切です。日本国籍の方はビザを取得せずにオーストラリアで最長90日間の滞在が可能ですが、渡航する際は<a href="http://xs640823.xsrv.jp/etas/service/index.html">電子渡航認証システムETAS(イータス)</a>の申請が必須となります。ETAS(イータス)の有効期限は1年間で、期限内であればビザを取得せずに複数回のオーストラリア渡航が認められます。オーストラリアへの移住を希望する方はETAS(イータス)を利用し、候補地を訪れたうえで選定することをお勧めします。<br />ETAS(イータス)の有効期限や渡航可能な回数については「<a href="http://xs640823.xsrv.jp/etas/reapplication/index.html">オーストラリアETAS(イータス)の有効期限と再申請について</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="australia-etas.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"オーストラリアに移住するには？ビザの種類やメリット・デメリットについて | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

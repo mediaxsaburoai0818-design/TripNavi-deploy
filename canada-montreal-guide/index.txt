@@ -1,0 +1,172 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","canada-montreal-guide",""],"q":"","i":false,"f":[[["",{"children":["canada-montreal-guide",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T651e,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ モントリオール観光ガイド &#8220;北米のパリ&#8221; おすすめスポット</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>モントリオール観光ガイド &#8220;北米のパリ&#8221; おすすめスポット</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">モントリオール観光ガイド “北米のパリ” おすすめスポット</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1">
+<li><a className="ez-toc-link" href="#montreal1">モントリオールの基本情報</a></li>
+<li><a className="ez-toc-link" href="#montreal2">モントリオールのおすすめ観光スポット</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#montreal2-1">ノートルダム大聖堂</a></li>
+<li><a className="ez-toc-link" href="#montreal2-2">モントリオール地下街</a></li>
+<li><a className="ez-toc-link" href="#montreal2-3">モントリオール美術館</a></li>
+<li><a className="ez-toc-link" href="#montreal2-4">ジャン・タロン・マーケット</a></li>
+<li><a className="ez-toc-link" href="#montreal2-5">聖ジョゼフ礼拝堂</a></li>
+<li><a className="ez-toc-link" href="#montreal2-6">バイオスフィア</a></li>
+<li><a className="ez-toc-link" href="#montreal2-7">モントリオール国際会議場</a></li>
+<li><a className="ez-toc-link" href="#montreal2-8">モントリオール植物園</a></li>
+<li><a className="ez-toc-link" href="#montreal2-9">モン・ロワイヤル公園</a></li>
+<li><a className="ez-toc-link" href="#montreal2-10">モントリオール旧港</a></li>
+<li><a className="ez-toc-link" href="#montreal2-11">モントリオール・バイオドーム</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#montreal3">モントリオール観光に必要な日数</a></li>
+<li><a className="ez-toc-link" href="#montreal4">モントリオール観光のモデルプラン</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#montreal4-1">1日目：ノートルダム大聖堂</a></li>
+<li><a className="ez-toc-link" href="#montreal4-2">1日目：モントリオール地下街</a></li>
+<li><a className="ez-toc-link" href="#montreal4-3">2日目：ジャン・タロン・マーケット</a></li>
+<li><a className="ez-toc-link" href="#montreal4-4">2日目：モン・ロワイヤル公園・聖ジョセフ礼拝堂</a></li>
+<li><a className="ez-toc-link" href="#montreal4-5">2日目：モントリオール美術館</a></li>
+<li><a className="ez-toc-link" href="#montreal4-6">3日目：オリンピック公園&amp;モントリオール・バイオドーム</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#montreal5">カナダ観光をする際に必要な手続き</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="モントリオール観光ガイド" className="img_big m20-t m20-b lazyloaded" height="425" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/50bdc69d75b2b26fe74a6d8d67fdc43e.webp" type="image/webp" width="640"/><img alt="モントリオール観光ガイド" className="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/50bdc69d75b2b26fe74a6d8d67fdc43e.jpg" width="640"/>
+</picture>
+<p>モントリオールはケベック州のセントローレンス川沿いに位置し、アメリカ国境やオンタリオ州との州境に接した北米を代表する都市です。市民の大半がフランス系カナダ人で構成されているため、同地域はカナダで唯一フランス語を第一言語としています。「北米のパリ」と呼ばれるモントリオールはヨーロッパの雰囲気が色濃く漂い、国内外から多くの旅行者が訪れます。このページではモントリオールの魅力と観光スポットについて解説します。</p>
+<h2 className="wp-block-heading" id="montreal1">モントリオールの基本情報</h2>
+<p>モントリオールはケベック州最大の都市で、オンタリオ州のトロントに次ぐカナダ第二の都市です。<br />周辺地域を含むモントリオールの面積は約4,000km2で人口は約400万人。2015年におけるビジネスや文化を対象とした総合的な世界都市ランキングにおいて24位と評価されました。モントリオールは住民の約7割が第一言語をフランス語とし、パリ(フランス)とキンシャサ(コンゴ民主共和国)に次ぐフランス語圏地域です。異国的な雰囲気やヨーロッパ調の街並みなどから「北米のパリ」と呼ばれ、季節を問わず多くの観光客が訪れます。<br />モントリオールを含むケベック州では新型コロナウイルス感染拡大の影響により、入国制限や公衆衛生対策を施行しています。詳細は「<a href="http://xs640823.xsrv.jp/eta/news/detail/990100/quebec.html">モントリオール – ケベック州の新型コロナウイルスと入国制限 最新情報</a>」をご確認ください。</p>
+<h2 className="wp-block-heading" id="montreal2">モントリオールのおすすめ観光スポット</h2>
+<h3 className="wp-block-heading" id="montreal2-1">ノートルダム大聖堂</h3>
+<p>ノートルダム大聖堂はモントリオールの旧市街に所在し、世界遺産にも登録されている有名なカトリック教会です。左右非対称の建物はバロック様式の最高傑作と呼ばれ、荘厳な佇まいは当時の雰囲気を現代に伝えています。屋内は色鮮やかなステンドグラスや美しい青色の装飾が施され、祭壇後方の巨大なパイプオルガンは訪れた方を圧倒します。大聖堂で行われるプロジェクションマッピング“AURA”は連日行われ、天井に映し出される美しい映像と壮大な音楽を体感することができます。</p>
+<p className="Class_J">所在地：110, Notre-Dame Street West Montreal (Quebec) H2Y 1T1<br />入場料：18歳以上 10ドル、7～17歳 5ドル、6歳以下 無料<br />公式サイト：<a href="https://www.basiliquenotredame.ca/en" rel="noreferrer noopener" target="_blank">https://www.basiliquenotredame.ca/en</a></p>
+<h3 className="wp-block-heading" id="montreal2-2">モントリオール地下街</h3>
+<p>全長33kmにもおよぶモントリオール地下街は世界最大規模のマーケットです。地下街にはフードコートや雑貨店のほか、ホテルや専門店も立ち並ぶ複合商業施設となっています。生活必需品のほか衣料や家具なども取り揃えているため、多くの市民や観光客が買い物に訪れます。地下街は天候にかかわらず足を運ぶことができ、雨の日やマイナス20度まで冷え込むことがある冬場でも快適に買い物をすることができます。一部の天井は吹き抜け仕様となり、光が差し込み開放的な気分が味わえます。</p>
+<p className="Class_J">所在地：747 Rue du Square-Victoria #247, Montreal, QC H2Y 3Y9<br />公式サイト：<a href="https://montrealundergroundcity.com/" rel="noreferrer noopener" target="_blank">https://montrealundergroundcity.com/</a></p>
+<h3 className="wp-block-heading" id="montreal2-3">モントリオール美術館</h3>
+<p>モントリオール美術館は1879年に開館し、ケベック州内で最も大規模な美術館として市民や観光客に親しまれています。館内には彫刻、絵画、版画、写真など36,000点余りの作品が展示され、国内外の貴重な美術品を鑑賞することができます。新館と旧館に分かれ、カナダ最古の美術館である旧館は歴史的な価値の高い建造物として知られています。新館と旧館は地下通路で結ばれているため、気温が氷点下となる冬でも快適に移動することができます。ギフトショップにはお土産用のポストカードや文房具のほか、子ども向けのグッズなど豊富なラインナップを取り揃えています。</p>
+<p className="Class_J">所在地：1380, rue Sherbrooke Ouest Montreal (Quebec) H3G 1J5<br />入場料：31歳以上 24ドル、21～30歳 16ドル、20歳以下 無料<br />公式サイト：<a href="https://www.mbam.qc.ca/fr/" rel="noreferrer noopener" target="_blank">https://www.mbam.qc.ca/fr/</a></p>
+<h3 className="wp-block-heading" id="montreal2-4">ジャン・タロン・マーケット</h3>
+<p>ジャン・タロン・マーケットは古くから地元市民に親しまれている市場で、カナダの様々な食材が購入できる人気のスポットです。マーケットは屋内外に店舗があり、屋内では主に食品が販売されています。お土産に最適なメープルシロップや紅茶、地元で生産された新鮮な野菜や果物を扱う店舗が並び、連日多くの市民で賑わいを見せています。カフェやフードコートも充実しているため、買い物だけでなくカナダならではの食事も楽しむことができます。</p>
+<p className="Class_J">所在地：7070 Avenue Henri-Julien, Montreal, QC H2S 3S3<br />公式サイト：<a href="https://www.marchespublics-mtl.com/marches/jean-talon/" rel="noreferrer noopener" target="_blank">https://www.marchespublics-mtl.com/marches/jean-talon/</a></p>
+<picture>
+<source alt="モントリオール観光ガイド" className="img_big m20-t m20-b lazyloaded" height="425" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/fdaafe218af941b5cf4ca1533f813147.webp" type="image/webp" width="640"/><img alt="モントリオール観光ガイド" className="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/fdaafe218af941b5cf4ca1533f813147.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="montreal2-5">聖ジョゼフ礼拝堂</h3>
+<p>聖ジョセフ礼拝堂はモントリオールの最高地点となる標高263mにそびえる礼拝堂で、高さ44mにおよぶ大きなドーム型の建物が特長です。施設からはモントリオールの街が一望でき、世界中から毎年約200万人が訪れる観光名所となっています。聖ジョセフ礼拝堂はモントリオール出身のカトリック修道士アンドレ・ベセット氏に捧げる目的で建立されました。過去には訪れた方に独自の香油を塗布し、病気や怪我が完治したことから「奇跡の館」と呼ばれています。敷地内には博物館があり、アンドレ修道士の貴重な聖遺物や世界中から寄せられた200点以上のキリスト降誕図が展示されています。</p>
+<p className="Class_J">所在地：3800, chemin Queen-Mary Montreal (Quebec) Canada, H3V 1H6<br />公式サイト：<a href="https://www.saint-joseph.org/fr/" rel="noreferrer noopener" target="_blank">https://www.saint-joseph.org/fr/</a></p>
+<p className="Class_J">礼拝堂博物館所在地：3800 Queen Mary Road (Quebec) H3V 1H6 Montreal<br />入場料：18歳以上 4ドル、6～17歳 2ドル、6歳以下 無料<br />公式サイト：<a href="https://www.saint-joseph.org/en/culture/oratory-museum/" rel="noreferrer noopener" target="_blank">https://www.saint-joseph.org/en/culture/oratory-museum/</a></p>
+<h3 className="wp-block-heading" id="montreal2-6">バイオスフィア</h3>
+<p>モントリオール万博の会場となったサン・テレーヌ島にある「バイオスフィア」は、世界的にも珍しい水に関する博物館として多くの観光客が訪れます。ユニークな球体型の建物が特長で、館内には水資源に関する様々な展示物やモントリオール万博のパネルが並んでいます。子ども向けに水路を歩くアトラクションや水の性質を学べるゲームもあり、家族で楽しみながら水資源と環境の大切さを学ぶことができます。</p>
+<p className="Class_J">所在地：160 Chemin du Tour de l’isle, Montreal, QC H3C 4G8<br />入場料：大人 15ドル、65歳以上 12ドル、18歳以上 10ドル、17歳以下 無料<br />公式サイト：<a href="https://www.parcjeandrapeau.com/en/biosphere-environment-museum-montreal/" rel="noreferrer noopener" target="_blank">https://www.parcjeandrapeau.com/en/biosphere-environment-museum-montreal/</a></p>
+<h3 className="wp-block-heading" id="montreal2-7">モントリオール国際会議場</h3>
+<p>色鮮やかで透き通った外観が特長のモントリオール国際会議場は、大規模な国際会議やイベントが行われるコンベンションセンターです。“Montreal International Auto Show”(モントリオール国際モーターショー)の開催地としても有名で、訪問者は毎年20万人にもおよびます。イベントへの参加は有料となりますが、建物の1階はいつでも自由に入場することができます。屋内にはカフェやレストランが併設され、カラフルなガラス越しからモントリオールの街並みが見渡せます。夜は美しくライトアップされ、多くの観光客で賑わいを見せています。</p>
+<p className="Class_J">所在地：1001 Jean Paul Riopelle Pl, Montreal, QC H2Z 1H5<br />公式サイト：<a href="https://congresmtl.com/" rel="noreferrer noopener" target="_blank">https://congresmtl.com/</a></p>
+<h3 className="wp-block-heading" id="montreal2-8">モントリオール植物園</h3>
+<p>イギリスのキュー王立植物園に次ぐ面積を誇るモントリオール植物園は、世界有数の植物園としてその名が知られています。10棟の温室のほか、異なるテーマの庭園が辺り一面に広がります。ブリティッシュガーデン、チャイニーズガーデン、ジャパニーズガーデンなど約30の庭園を展開し、世界中から多くの観光客が訪れます。園内には北米最大の昆虫博物館があり、世界の貴重な昆虫を観察することもできます。秋にはチャイニーズガーデンを中心に飾り付けられたランタンがライトアップされる「マジック・オブ・ランタン」を開催。幻想的な光と花の調和が多くの人々を魅了しています。</p>
+<p className="Class_J">所在地：4101, rue Sherbrooke Est, Montreal, QC H1X 2B2 Canada<br />入場料：大人 21.50ドル、65歳以上 19.25ドル、学生 15.50ドル、5～17歳 10.75ドル、4歳以下 無料<br />公式サイト：<a href="https://espacepourlavie.ca/en/botanical-garden" rel="noreferrer noopener" target="_blank">https://espacepourlavie.ca/en/botanical-garden</a></p>
+<h3 className="wp-block-heading" id="montreal2-9">モン・ロワイヤル公園</h3>
+<p>モン・ロワイヤル公園は標高232mの小高い丘に広がる市内最大の公園です。広大な敷地内ではサイクリングやジョギングなどを楽しむ方が多くみられ、モントリオール市民の憩いの場として親しまれています。冬は園内のカストール湖が凍り自然のアイススケートを体験することができ、近隣から多くの方が訪れます。雄大な自然が広がる園内にはリスやアライグマ、様々な鳥が生息しています。頂上には2か所の展望台とカフェがあり、モントリオールの街並みが一望できます。</p>
+<p className="Class_J">所在地：2000, chemin Remembrance Montreal (Quebec) H3H 1A2<br />公式サイト：<a href="https://montreal.ca/lieux/parc-du-mont-royal" rel="noreferrer noopener" target="_blank">https://montreal.ca/lieux/parc-du-mont-royal</a></p>
+<h3 className="wp-block-heading" id="montreal2-10">モントリオール旧港</h3>
+<p>モントリオール旧港はセントローレンス川沿いに広がる港で、モントリオールの歴史を感じることができる観光地です。港の距離は約2kmにわたり、整備された遊歩道を散歩しながら街の風景を眺めることができます。港からは街のシンボルである観覧車やモントリオール万博の会場となったサン・テレーヌ島が一望でき、季節を問わず多くの市民や観光客が訪れます。4つある埠頭のひとつ「ジャック・カルティエ埠頭」はセントローレンス川のボートクルーズ発着場になっているため、特に休日は多くの人で賑わいます。海辺のような大きな川辺には各国のクルーズ船が停泊し、付近には科学博物館や空中アトラクションなど家族で楽しめる施設も用意されています。</p>
+<p className="Class_J">所在地：333 rue de la commune o montreal qc h2y 2e2 canada<br />公式サイト：<a href="https://www.vieuxportdemontreal.com/" rel="noreferrer noopener" target="_blank">https://www.vieuxportdemontreal.com/</a></p>
+<picture>
+<source alt="モントリオール観光ガイド" className="img_big m20-t m20-b lazyloaded" height="425" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/41564e3186227002d550498c53a070e3.webp" type="image/webp" width="640"/><img alt="モントリオール観光ガイド" className="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/41564e3186227002d550498c53a070e3.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="montreal2-11">モントリオール・バイオドーム</h3>
+<p>オリンピックスタジアムに隣接するモントリオール・バイオドームは、植物園・動物園・水族館が融合した人気の観光スポットです。屋内施設では熱帯地方から北極圏まで様々な気候を体験することができます。園内には熱帯雨林・南北極地圏・カナダ落葉広葉樹林帯・セントローレンス海洋による4つのエリアを展示。なかでも熱帯雨林エリアは世界最大規模の面積を誇り、木の上でくつろぐタマリンや川を泳ぎ回るピラニアなどを観察することができます。</p>
+<p className="Class_J">所在地：4777 Avenue Pierre-De Coubertin, Montreal, QC H1V 1B3<br />入場料：大人 21.50ドル、65歳以上 19.25ドル、学生 15.50ドル、5～17歳 10.75ドル、4歳以下 無料<br />公式サイト：<a href="https://espacepourlavie.ca/en" rel="noreferrer noopener" target="_blank">https://espacepourlavie.ca/en</a></p>
+<h2 className="wp-block-heading" id="montreal3">モントリオール観光に必要な日数</h2>
+<p>モントリオールには大聖堂や美術館、公園など多くの観光スポットがある魅力的な都市です。旧市街とダウンタウン内にあるノートルダム大聖堂やジャック・カルティエ広場は徒歩での移動が可能なため、1日で観光を満喫することができます。ただし、郊外のモン・ロワイヤル公園やサン・ジョセフ礼拝堂などへ訪れる場合は、2日以上の滞在をお勧めします。モントリオールの観光地は広範囲にわたり点在しています。市内と郊外の観光をゆっくり楽しみたい方は、数日間にわたる滞在をご検討ください。<br />なお、モントリオール郊外のローレンシャン高原とイースタンタウンシップス(カントン・ド・レスト)はモントリオール市街を挟んだ遠隔地域に位置しています。両方へ訪れる際は2日以上の滞在と、予め宿泊先や移動手段を手配しておくことをお勧めします。</p>
+<h2 className="wp-block-heading" id="montreal4">モントリオール観光のモデルプラン</h2>
+<p>モントリオール観光を2～3日間で楽しめるモデルプランを紹介します。モントリオールは地下鉄やバスが整備されているため、主要な観光地への移動は交通機関の利用をお勧めします。多くの観光スポットが集中するダウンタウン内には冬や雨の日も便利な地下道があり、徒歩での移動も可能です。</p>
+<h3 className="wp-block-heading" id="montreal4-1">1日目: ノートルダム大聖堂 (2時間)</h3>
+<p>大聖堂と塔の内部は約2時間で見学が可能です。宝物庫や地下遺跡も訪れる場合は3時間以上必要となります。</p>
+<h3 className="wp-block-heading" id="montreal4-2">1日目: モントリオール地下街 (2時間)</h3>
+<p>地下街はとても広いため、1日で全ての施設や店舗へ訪れることは困難です。予め購入したい商品や訪問したい場所を決めて効率よく買い物を楽しみましょう。</p>
+<picture>
+<source alt="モントリオール観光ガイド" className="img_big m20-t m20-b lazyloaded" height="425" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/b08adda782dc1794f77c2fc5c44246c6.webp" type="image/webp" width="640"/><img alt="モントリオール観光ガイド" className="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/b08adda782dc1794f77c2fc5c44246c6.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="montreal4-3">2日目: ジャン・タロン・マーケット (1時間)</h3>
+<p>最寄りのジャンタロン駅から徒歩5分で到着します。レストランやカフェも多くあり、市場を散策しながら地元ならではの昼食を味わうことができます。なお、市場の営業時間は曜日によって変動するため、訪れる前に確認することをお勧めします。</p>
+<h3 className="wp-block-heading" id="montreal4-4">2日目: モン・ロワイヤル公園・聖ジョセフ礼拝堂 (2時間)</h3>
+<p>昼食のあとはモン・ロワイヤル公園の美しい庭を散策し、荘厳な聖ジョセフ礼拝堂へ訪れるコースをお勧めします。礼拝堂へ訪問する際はモン・ロワイヤル公園を往復するシャトルバスが便利です。</p>
+<h3 className="wp-block-heading" id="montreal4-5">2日目: モントリオール美術館 (1～2時間)</h3>
+<p>同美術館はダウンタウンのシェルブルック通りに所在し、公共交通機関のアクセスも良好です。広大な敷地のなかに新館と旧館がありますが、地下通路で繋がっているためスムーズな移動が可能です。</p>
+<h3 className="wp-block-heading" id="montreal4-6">3日目: オリンピック公園&amp;モントリオール・バイオドーム (3～4時間)</h3>
+<p>旧市街から地下鉄で約15分の場所にあるオリンピック公園は、モントリオール・オリンピックの開催地として有名です。現在は各種競技やアトラクションを行う複合施設として親しまれ、約30分のガイドツアーに参加することで敷地内を見学することができます。モントリオール・バイオドームはオリンピックスタジアムに隣接し、徒歩での移動が可能です。</p>
+<h2 className="wp-block-heading" id="montreal5">カナダ観光をする際に必要な手続き</h2>
+<p>日本国籍の方が空路でカナダへ渡航する際は、年齢を問わず電子渡航認証eTA(イータ)の申請手続きが必須となります。一般的な観光旅行を目的としてカナダへ渡航する場合は、ビザではなくeTA(イータ)を申請することで滞在が認められます。eTA(イータ)を管轄するIRCC(カナダ移民・難民・市民権省)では、少なくとも出発3日前までにオンラインにて申請を行うことを推奨しています。<br />eTA(イータ)に関する詳細は「<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"モントリオール観光ガイド &#8220;北米のパリ&#8221; おすすめスポット | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

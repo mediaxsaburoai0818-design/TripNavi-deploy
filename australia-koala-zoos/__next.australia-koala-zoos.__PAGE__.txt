@@ -1,0 +1,140 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T8545,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オーストラリアでコアラと出会える動物園</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>オーストラリアでコアラと出会える動物園</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading"><strong>オーストラリアでコアラと出会える動物園</strong></h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#koalazoo1">オーストラリアのコアラ</a></li>
+<li><a className="ez-toc-link" href="#koalazoo2">オーストラリアにいるコアラの数</a></li>
+<li><a className="ez-toc-link" href="#koalazoo3">オーストラリアでコアラの抱っこができる動物園</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#koalazoo4">クイーンズランド州　ケアンズ</a></li>
+<li><a className="ez-toc-link" href="#koalazoo5">クイーンズランド州　タウンズビル</a></li>
+<li><a className="ez-toc-link" href="#koalazoo6">クイーンズランド州　イェプーン</a></li>
+<li><a className="ez-toc-link" href="#koalazoo7">クイーンズランド州　サンシャイン・コースト</a></li>
+<li><a className="ez-toc-link" href="#koalazoo8">クイーンズランド州　ブリスベン</a></li>
+<li><a className="ez-toc-link" href="#koalazoo9">クイーンズランド州　ゴールドコースト</a></li>
+<li><a className="ez-toc-link" href="#koalazoo10">南オーストラリア州　アデレード</a></li>
+<li><a className="ez-toc-link" href="#koalazoo11">西オーストラリア州　パース</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#koalazoo12">オーストラリア渡航にはETAS(イータス)申請が必要</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="オーストラリアでコアラと出会える動物園" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/385a355623e8e1b9a5d7a22cf3507c9b.webp" type="image/webp" width="640"/>
+<img alt="オーストラリアでコアラと出会える動物園" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/385a355623e8e1b9a5d7a22cf3507c9b.jpg" width="640"/>
+</picture>
+<p>広大な土地と雄大な自然に囲まれたオーストラリアでは多くの動物が生息しています。なかでもコアラは愛くるしい姿と人に懐きやすい特性により、国内だけでなく世界中からの寵愛を受けるオーストラリアを代表する動物と言えるでしょう。日本の動物園でもコアラは飼育されていますが、抱っこなどの触れ合いや記念写真の撮影は禁止されています。オーストラリア国内でもコアラを抱っこして撮影ができる場所は一部の州に所在する動物園に限られ、全ての動物園で撮影ができる訳ではありませんのでご注意ください。オーストラリア国内でコアラを抱っこして写真撮影ができる地域はクイーンズランド州、南オーストラリア州、西オーストラリア州の3州のみとなります。シドニーがあるニューサウスウェールズ州や、メルボルンが所在するビクトリア州ではコアラとの撮影が許可されていません。このページではオーストラリア国内でコアラとの記念撮影が可能な動物園を州ごとに紹介します。</p>
+<h2 className="wp-block-heading" id="koalazoo1">オーストラリアのコアラ</h2>
+<p>コアラはコアラ科コアラ属に分類される有袋類で、主にオーストラリア東部の森林地帯やユーカリが密集する温帯林などに生息しています。体長は60～80センチで体重は約5～10キロ。体の腹部は白色で背面は灰色に覆われ、オーストラリア北部に生息するコアラと比べ南部に生息するコアラは大柄で体毛が長い特長があります。タンニンや油分を多く含むユーカリの葉を好んで食べ、歩くときは4足で歩行します。<br />コアラはオーストラリア国内のクイーンズランド州南東部、ニューサウスウェールズ州東部、ビクトリア州、南オーストラリア州南東部に分布し、西オーストラリア州、タスマニア州での分布は見られません。<br />通常は単独で行動し2頭以上で行動することは稀です。繁殖期のみオスとメスが一緒にいることや、メスと子供が共に行動する場合があります。主に樹上で生活していますが、特定の巣を持つことはありません。<br />休むときは太陽光や雨がしのげる樹上で休息し、1日に18時間以上の睡眠をとり生活しています。</p>
+<h2 className="wp-block-heading" id="koalazoo2">オーストラリアにいるコアラの数</h2>
+<p>オーストラリアにはかつて多くのコアラが生息していましたが、伝染病や森林火災により近年は生息数が減少しています。1980年代には多くのコアラでクラミジアの感染が確認され、ブリスベン森林公園やフィリップ島などで生息するコアラのクラミジア感染率は80%以上であったと報告。大半のコアラはクラミジアを保有しているとされ、生息地の環境破壊と並ぶ大きな問題として取り上げられました。現在は野生のコアラにワクチンを注射し、ストレスなく生息できる環境をつくる活動が保護団体を中心に進められています。また、頻発する大規模な森林火災もコアラの生息に大きな影響を与えています。多くのコアラが生息するニューサウスウェールズ州では、2019年9月から2020年2月にかけて続いた大規模な森林火災により州内における24％のコアラ生息地が焼失し、州内の一部地域では81％の面積が焼失したと報告。当該の森林火災により、州内だけで約8,000頭のコアラが犠牲になったと伝えました。また、南部のカンガルー島でも大規模な火災が発生。島内で犠牲になったコアラは2万5千頭を超えるなど、生態系を脅かす深刻な事態が続いています。オーストラリア国内で野生のコアラが生息する地域はニューサウスウェールズ州を含む東部と南東部のみで、2016年の推計では33万頭が生息していると発表。しかし、頻発した火災や森林伐採により多くのコアラが犠牲になったため、現在の生息数は10万頭未満であるとの見解を保護団体は示しています。コアラの繁殖ペースは1頭の出生につき1年半以上を要するため、個体数の保護とともに生態系の回復が危ぶまれます。</p>
+<h2 className="wp-block-heading" id="koalazoo3">オーストラリアでコアラの抱っこができる動物園</h2>
+<h3 className="wp-block-heading" id="koalazoo4">クイーンズランド州　ケアンズ</h3>
+<h4 className="wp-block-heading">ケアンズ・ワイルドライフ・ドーム</h4>
+<p>ケアンズ・ワイルドライフ・ドーム は、プルマン・リーフ・カジノホテル内にある動物園です。飼育している動物の種類は他の動物園と比べて少ないですが、ケアンズ市内の中心部に位置しているためアクセスは良好です。コアラやワラビーなど、オーストラリアを代表する動物たちに出会えます。鳥の餌付けショーやワニの餌付けショー、爬虫類に触れることができるショーなどが連日開催されています。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>ケアンズ ワイルドライフ ドーム (Cairns Wildlife Dome)</td></tr><tr><td>アクセス</td><td>ケアンズ市内中心部</td></tr><tr><td>住所</td><td>The Reef Hotel Casino, 35-41 Wharf St, Cairns City QLD 4870</td></tr><tr><td>料金</td><td>入園料：大人25ドル、子ども13ドル　コアラ抱っこ撮影：30ドル</td></tr><tr><td>webサイト</td><td><a href="https://cairnszoom.com.au" rel="noreferrer noopener" target="_blank">https://cairnszoom.com.au</a></td></tr></tbody></table></figure>
+<h4 className="wp-block-heading">ハートリーズ・クロコダイル・アドベンチャーズ</h4>
+<p>ハートリーズ・クロコダイル・アドベンチャーズはケアンズで最大規模の動物園です。園内には多種多様なワニが飼育されているだけでなく、様々なショーやクルーズ船によるアクティビティも充実しています。<br />園の付近には公共交通機関がないため、訪問の際はレンタカーや送迎が伴うツアーへの参加をお勧めします。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>ハートリーズ クロコダイル アドベンチャーズ (Hartley’s Crocodile Adventures)</td></tr><tr><td>アクセス</td><td>ケアンズ市内より車で約1時間</td></tr><tr><td>住所</td><td>Captain Cook Highway, Wangetti QLD</td></tr><tr><td>料金</td><td>入園料：大人41ドル、子ども21ドル　コアラ抱っこ撮影：21ドル</td></tr><tr><td>webサイト</td><td><a href="https://www.crocodileadventures.com/" rel="noreferrer noopener" target="_blank">https://www.crocodileadventures.com/</a></td></tr></tbody></table></figure>
+<h4 className="wp-block-heading">キュランダ・コアラ・ガーデンズ</h4>
+<p>キュランダ・コアラ・ガーデンズはキュランダ村内にあるファミリーに人気の動物園です。コアラやカンガルーのほか、ワラビー、ウォンバット、ワニなどオーストラリアを代表する多くの動物が飼育されています。コアラとの記念撮影は午前10時から午後3時までとなり、毎時ごとに1回のセッションが行われます。ツアーで訪れる方が多く、規定人数に達すると一般客の当日撮影は締切りとなります。同園でコアラとの撮影を希望する方は、ツアーへの参加か撮影のためのチケットを事前に購入し予約しておくことをお勧めします。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>キュランダ・コアラ・ガーデンズ（Kuranda Koala Gardens）</td></tr><tr><td>アクセス</td><td>キュランダ村内  キュランダ村までケアンズ市内より車で約1時間</td></tr><tr><td>住所</td><td>2-4 Rob Veivers Dr, Kuranda QLD 4881</td></tr><tr><td>料金</td><td>入園料：大人19ドル、子ども9.5ドル　コアラ抱っこ撮影：24ドル</td></tr><tr><td>webサイト</td><td><a href="https://www.koalagardens.com/" rel="noreferrer noopener" target="_blank">https://www.koalagardens.com/</a></td></tr></tbody></table></figure>
+<h4 className="wp-block-heading">レインフォレ・ステーション・ワイルドライフ・パーク</h4>
+<p>レインフォレ・ステーション・ワイルドライフ・パークはキュランダ村から車で10分の場所に所在しています。熱帯雨林のテーマパーク「レインフォレ・ステーション」の中にあり、コアラやカンガルー、ワラビー、ワニ、ウォンバット、タスマニアンデビルといったオーストラリア特有の動物が飼育されています。<br />コアラとの記念撮影は、ガイド付きツアーで入場した方のみとなります。一般客として入場した方は撮影が出来ませんのでご注意ください。また、ご自身が所有するカメラでの撮影は園内の規定により禁止されています。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>レインフォレ・ステーション・ワイルドライフ パーク (Rainforestation Wildlife Park)</td></tr><tr><td>アクセス</td><td>キュランダ村より車で約10分　ケアンズ市内より車で約40分</td></tr><tr><td>住所</td><td>1030 Kennedy Hwy Kurada QLD 4881</td></tr><tr><td>料金</td><td>入園料：大人18ドル、子ども9ドル  コアラ抱っこ撮影：18ドル</td></tr><tr><td>webサイト</td><td><a href="https://www.rainforest.com.au/experiences/koala-wildlife-park/" rel="noreferrer noopener" target="_blank">https://www.rainforest.com.au/experiences/koala-wildlife-park/</a></td></tr></tbody></table></figure>
+<h4 className="wp-block-heading">ポートダグラス・ワイルドライフ・ハビタット</h4>
+<p>ポートダグラス・ワイルドライフ・ハビタットはケアンズから北に70kmに位置し、リゾート地として知られるポートダグラスにある動物園です。オーストラリアの固有種で絶滅危惧種に指定されているツリー・カンガルーのほか、ワラビー、ウォンバット、エミューなど多様な動物が飼育されています。<br />コアラとの記念撮影は午前10時と午後1時の2回のみ行われます。撮影を希望する方は入園時に受付でお申し込みください。コアラのほか、ワニやニシキヘビとの記念撮影も可能です。付近に公共交通機関の駅やバス停はありませんので、ツアーによる送迎バスかレンタカーの利用をご検討ください。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>ポートダグラス・ワイルドライフ・ハビタット (Port Douglas Wildlife Habitat)</td></tr><tr><td>アクセス</td><td>ケアンズ市内より車で約1時間</td></tr><tr><td>住所</td><td>Port Douglas Rd, Port Douglas QLD 4877</td></tr><tr><td>料金</td><td>入園料：大人38ドル、子ども19ドル　コアラ抱っこ撮影：27ドル</td></tr><tr><td>webサイト</td><td><a href="https://www.wildlifehabitat.com.au/" rel="noreferrer noopener" target="_blank">https://www.wildlifehabitat.com.au/</a></td></tr></tbody></table></figure>
+<h3 className="wp-block-heading" id="koalazoo5">クイーンズランド州　タウンズビル</h3>
+<h4 className="wp-block-heading">ビラボン・サンクチュアリー</h4>
+<p>ビラボン・サンクチュアリーはタウンズビルから車で20分ほどの郊外にあります。園内ではクロコダイルの餌付けショーやバードショーなどが開催され追加料金なしで体験することができます。ビラボン・サンクチュアリーではコアラとの記念撮影のほか、他の園では類を見ないウォンバットとの撮影も行われています。なお、コアラとの記念撮影は身長140cm以上の方に限られます。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>ビラボン・サンクチュアリー (Billabong Sanctuary)</td></tr><tr><td>アクセス</td><td>タウンズビルより車で約20分</td></tr><tr><td>住所</td><td>11 Country Rd, Nome QLD 4816</td></tr><tr><td>料金</td><td>入園料：大人38ドル、子供25ドル　コアラ抱っこ撮影：30ドル</td></tr><tr><td>webサイト</td><td><a href="https://www.billabongsanctuary.com.au/" rel="noreferrer noopener" target="_blank">https://www.billabongsanctuary.com.au/</a></td></tr></tbody></table></figure>
+<h4 className="wp-block-heading">バンガロー・ベイ・コアラ・ビレッジ</h4>
+<p>バンガロー・ベイ・コアラ・ビレッジは、タウンズビルからフェリーで約20分のマグネチック島にある宿泊施設を備えた動物園です。マグネチック島にはバラエティに富んだ宿泊施設があり、マリンスポーツや乗馬など様々なアクティビティが楽しめます。バンガロー・ベイ・コアラ・ビレッジではコアラのほか、ウォンバット、クロコダイル、トカゲ、ニシキヘビ等が飼育され、1日3回レンジャーによる園内ツアーを行っています。なお、コアラとの記念撮影は身長140cm以上の方に限られます。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>バンガロー・ベイ・コアラ・ビレッジ (Bungalow Bay Koala Village)</td></tr><tr><td>アクセス</td><td>タウンズビルからマグネチック島までフェリーで約20分 フェリーターミナルからバスまたはタクシーで約15分</td></tr><tr><td>住所</td><td>40 Horseshoe Bay Rd, Horseshoe Bay QLD 4819</td></tr><tr><td>料金</td><td>入園料：大人30ドル、子供13ドル　コアラ抱っこ撮影：30ドル</td></tr><tr><td>webサイト</td><td><a href="https://www.bungalowbay.com.au/" rel="noreferrer noopener" target="_blank">https://www.bungalowbay.com.au/</a></td></tr></tbody></table></figure>
+<h3 className="wp-block-heading" id="koalazoo6">クイーンズランド州　イェプーン</h3>
+<h4 className="wp-block-heading">クーバリー公園野生動物サンクチュアリー</h4>
+<p>クーバリー公園野生動物サンクチュアリーはイェプーンから車で約15分、ロックハンプトンより約30分に位置する動物園です。同園は約100年以上前に植物園として開園し、45年前より動物の飼育を開始。25エーカーにおよぶ広大な敷地の中で、約300種類の動物を飼育しています。コアラとの記念撮影は園が用意したカメラではなく、ご自身が所有するカメラを利用しての撮影となります。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>クーバリー公園野生動物サンクチュアリー (Cooberrie Park Wildlife Sanctuary)</td></tr><tr><td>アクセス</td><td>イェプーンより車で15分</td></tr><tr><td>住所</td><td>9 Stones Rd, Woodbury QLD 4703</td></tr><tr><td>料金</td><td>入園料：大人30ドル、子ども15ドル　コアラ抱っこ撮影：20ドル</td></tr><tr><td>webサイト</td><td><a href="https://www.cooberriepark.com.au/" rel="noreferrer noopener" target="_blank">https://www.cooberriepark.com.au/</a></td></tr></tbody></table></figure>
+<h3 className="wp-block-heading" id="koalazoo7">クイーンズランド州　サンシャイン・コースト</h3>
+<h4 className="wp-block-heading">オーストラリア動物園</h4>
+<p>オーストラリア動物園はクロコダイルハンターとして世界的に有名な“スティーブ・アーウィン”の野生動物園として知られています。グレート・バリア・リーフでの不慮の事故によりスティーブは亡くなってしまいましたが、彼の意思とこの動物園はスティーブの妻テリーと子息のビンディとロバートに引き継がれています。同園にはコアラのほか、カンガルー、ワラビー、タスマニアンデビル、ウォンバット、エミューなどのオーストラリア固有の動物だけでなく、トラ、チーター、サイ、シマウマなどアフリカの動物も飼育されています。コアラとの記念撮影は午前11時半と正午の1日2回行われ、参加者は8歳以上および身長120㎝以上であることが条件となります。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>オーストラリア動物園 (Australia Zoo)</td></tr><tr><td>アクセス</td><td>ブリスベンから車で約1時間半</td></tr><tr><td>住所</td><td>1638 Steve Irwin Way, Beerwah QLD 4519</td></tr><tr><td>料金</td><td>入園料：大人59ドル、子ども35ドル　コアラ抱っこ撮影：49ドル</td></tr><tr><td>webサイト</td><td><a href="https://www.australiazoo.com.au/" rel="noreferrer noopener" target="_blank">https://www.australiazoo.com.au/</a></td></tr></tbody></table></figure>
+<h3 className="wp-block-heading" id="koalazoo8">クイーンズランド州　ブリスベン</h3>
+<h4 className="wp-block-heading">ローンパイン・コアラ・サンクチュアリ</h4>
+<p>世界最大で最古のコアラ保護区である「ローンパイン・コアラ・サンクチュアリ」には130頭以上のコアラが生息しています。同保護区は1927年にコアラの病気や怪我の治癒、孤児の保護を目的として開設されたコアラのための避難場所です。コアラを抱っこして写真撮影することは可能ですが、保護の観点から人数制限を行っています。コアラとの記念撮影は当日午前9時半に予約を開始し、上限人数に達した時点で終了となります。上限は当日のコアラの状態を見て飼育員が判断するため日により変動します。撮影は午前9時半と午後2時半の2回にわたり行われます。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>ローンパイン・コアラ保護区 (Lonepine Koala Sanctuary)</td></tr><tr><td>アクセス</td><td>ブリスベン市内中心部より車で約20分</td></tr><tr><td>住所</td><td>708 Jesmond Rd, Fig Tree Pocket QLD 4069</td></tr><tr><td>料金</td><td>入園料：大人42ドル、子ども25ドル　コアラ抱っこ撮影：25ドル</td></tr><tr><td>webサイト</td><td><a href="https://koala.net/" rel="noreferrer noopener" target="_blank">https://koala.net/</a></td></tr></tbody></table></figure>
+<h3 className="wp-block-heading" id="koalazoo9">クイーンズランド州　ゴールドコースト</h3>
+<h4 className="wp-block-heading" id="Currumbin_Wildlife_Sanctuary">カランビン・ワイルドライフ・サンクチュアリ</h4>
+<p>カランビン・ワイルドライフ・サンクチュアリは、ゴールドコースト・サーファーズパラダイスの南側に位置するゴールドコースト・クーランガッタ空港近くの動物園です。コアラとの記念撮影会場は入場口からすぐの場所にあり、家族での撮影も可能です(抱っこできるのは1名のみとなります)。撮影から10分ほどで現像が完了し、写真は同園のオリジナルホルダーに収められて受け取ることが出来ます。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>カランビン・ワイルドライフ・サンクチュアリ (Currumbin Wildlife Sanctuary)</td></tr><tr><td>アクセス</td><td>ゴールドコースト・サーファーズパラダイス市内中心部より車で約30分 ゴールドコースト・クーランガッタ空港より車で約5分</td></tr><tr><td>住所</td><td>28 Tomewin St, Currumbin QLD 4223</td></tr><tr><td>料金</td><td>入園料：大人49.95ドル、子ども39.95ドル　コアラ抱っこ撮影：29ドル</td></tr><tr><td>webサイト</td><td><a href="https://currumbinsanctuary.com.au/" rel="noreferrer noopener" target="_blank">https://currumbinsanctuary.com.au/</a></td></tr></tbody></table></figure>
+<h4 className="wp-block-heading" id="Dreamworld">ドリームワールド</h4>
+<p>ドリームワールドはオーストラリアを代表する大規模なアミューズメントパークです。広大な敷地の中には遊園地、動物園、プール、文化施設の4つが統合され、数日間にわたり各施設をめぐるツアーが人気です。動物園にはコアラのほか、カンガルー、カソワリ、クロコダイル、ディンゴなど多様な動物が飼育されています。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>ドリームワールド (Dreamworld)</td></tr><tr><td>アクセス</td><td>ゴールドコースト・サーファーズパラダイス市内中心部より車で約30分</td></tr><tr><td>住所</td><td>Dreamworld Pkwy, Coomera QLD 4209</td></tr><tr><td>料金</td><td>入園料：大人99ドル、子ども89ドル　コアラ抱っこ撮影：24.95ドル</td></tr><tr><td>webサイト</td><td><a href="https://www.dreamworld.com.au/" rel="noreferrer noopener" target="_blank">https://www.dreamworld.com.au/</a></td></tr></tbody></table></figure>
+<h4 className="wp-block-heading" id="Paradise_Country_Farm">パラダイスカントリー牧場</h4>
+<p>広大な土地を有するパラダイスカントリー牧場は、多くの牛や羊を飼育する牧場型のテーマパークです。1日3回にわたり、牧羊犬ショーや羊の毛刈りショー、牛の乳搾りなどの体験プログラムが行われます。園内にはコアラのほか、カンガルーやディンゴなどオーストラリア固有の動物を間近で観賞することができます。様々な動物の赤ちゃんが飼育されている「赤ちゃんブース」は連日多くの市民や観光客で賑わいを見せています。コアラとの記念撮影は予約制で、午前9時半、午前11時45分、午後1時45分の3回にわたり行われます。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>パラダイスカントリー牧場 (Paradise Country Farm)</td></tr><tr><td>アクセス</td><td>ゴールドコースト・サーファーズパラダイス市内中心部より車で約30分</td></tr><tr><td>住所</td><td>Production Dr, Oxenford QLD 4210</td></tr><tr><td>料金</td><td>入園料：大人39ドル、子ども29ドル　コアラ抱っこ撮影：22ドル</td></tr><tr><td>webサイト</td><td><a href="https://paradisecountry.com.au/" rel="noreferrer noopener" target="_blank">https://paradisecountry.com.au/</a></td></tr></tbody></table></figure>
+<h3 className="wp-block-heading" id="koalazoo10">南オーストラリア州　アデレード</h3>
+<h4 className="wp-block-heading">クリーランド野生動物園</h4>
+<p>クリーランド野生動物園は南オーストラリア州政府が運営する公営の動物園です。アデレード市内から車で30分ほどの郊外に位置し、付近に住む市民や観光客に親しまれています。コアラやタスマニアデビル、ウォンバットなどオーストラリア固有の動物が飼育され、カンガルーやワラビー、エミューなどの餌付け体験も出来ます。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>クリーランド野生動物園 (Cleland Wildlife Park)</td></tr><tr><td>アクセス</td><td>アデレード市内より車で約30分</td></tr><tr><td>住所</td><td>365 Mount Lofty Summit Rd, Crafers SA 5152</td></tr><tr><td>料金</td><td>入園料：大人30ドル、子ども15ドル　コアラ抱っこ撮影：32.50ドル</td></tr><tr><td>webサイト</td><td><a href="https://www.clelandwildlifepark.sa.gov.au/Home" rel="noreferrer noopener" target="_blank">https://www.clelandwildlifepark.sa.gov.au/Home</a></td></tr></tbody></table></figure>
+<h4 className="wp-block-heading">カンガルー島野生動物園</h4>
+<p>カンガルー島野生動物園はアデレード郊外に位置するカンガルー島内の動物園です。広大な敷地を誇る園内にはオーストラリアの野生動物を中心に150種類600頭以上の動物が飼育され、カンガルー島内で最も人気の施設となっています。コアラとの撮影は午前11時、午後2時、午後4時半の3回にわたり行われます。また、ウォンバットとの記念撮影も可能です。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>カンガルー島野生動物園 (Kanagroo Island Wildlife Park)</td></tr><tr><td>アクセス</td><td>アデレード市内より車とフェリーで約3時間半</td></tr><tr><td>住所</td><td>4068 Playford Hwy, Duncan SA 5223</td></tr><tr><td>料金</td><td>入園料：大人28ドル、子ども16ドル　コアラ抱っこ撮影：35ドル</td></tr><tr><td>webサイト</td><td><a href="https://kangarooislandwildlifepark.com/" rel="noreferrer noopener" target="_blank">https://kangarooislandwildlifepark.com/</a></td></tr></tbody></table></figure>
+<h4 className="wp-block-heading">ゴージ野生動物園</h4>
+<p>ゴージ野生動物園はアデレード市内から車で40分ほどの郊外に所在する動物園です。小規模でアットホームな動物園ですが、多くのオーストラリア固有の動物と触れ合うことができます。コアラとの撮影は午前11時半、午後1時半、午後3時半の3回にわたり行われますが、最高気温が34℃を超える場合は11時半のみとなります。他の動物園と比べて入場料が安価で、コアラとの記念撮影もリーズナブルな価格となっています。記念撮影の際はご自身が所有するカメラを使用することが求められます。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>ゴージ野生動物園 (Gorge Wildlife Park)</td></tr><tr><td>アクセス</td><td>アデレード市内より車で約40分</td></tr><tr><td>住所</td><td>30 Redden Drive、Cudlee Creek SA 5232</td></tr><tr><td>料金</td><td>入園料：大人19ドル、子ども12ドル　コアラ抱っこ撮影：10ドル</td></tr><tr><td>webサイト</td><td><a href="https://gorgewildlifepark.com.au/" rel="noreferrer noopener" target="_blank">https://gorgewildlifepark.com.au/</a></td></tr></tbody></table></figure>
+<h3 className="wp-block-heading" id="koalazoo11">西オーストラリア州　パース</h3>
+<h4 className="wp-block-heading">コフヌ・コアラ園</h4>
+<p>コフヌ・コアラ園はパース市内から車で40分ほどの場所に所在する素朴でのどかな動物園です。園内には多くの恐竜のオブジェが設置され、放し飼いのカンガルーやワラビー、エミュー、ポニーなどが自由に活動しています。コアラとの撮影可能な時間帯は午前10時から午後4時までとなり、参加者の身長は140cm以上であることが求められます。</p>
+<figure className="wp-block-table"><table><tbody><tr><td width="220">名称</td><td>コフヌ・コアラ園 (Cohunu Koala Park)</td></tr><tr><td>アクセス</td><td>パース市内から車で約40分</td></tr><tr><td>住所</td><td>LOT 103 Nettleton Rd, Byford WA 6122</td></tr><tr><td>料金</td><td>入園料：大人15ドル、子ども5ドル　コアラ抱っこ撮影：30ドル</td></tr><tr><td>webサイト</td><td><a href="http://cohunu.com.au/" rel="noreferrer noopener" target="_blank">http://cohunu.com.au/</a></td></tr></tbody></table></figure>
+<h2 className="wp-block-heading" id="koalazoo12">オーストラリア渡航にはETAS(イータス)申請が必要</h2>
+<p>ツアーなどを利用して観光旅行でオーストラリアへ訪れる方は、渡航前にオーストラリア政府が指定する電子渡航認証ETAS(イータス)を申請する必要があります。オーストラリア渡航前にETAS(イータス)を申請していない方は飛行機への搭乗が咎められることが予想されるため早めの申請をお勧めします。<br />オーストラリアへの渡航を希望する日本国籍の方は、年齢を問わずETAS(イータス)の申請が必要となります。オーストラリアへ家族旅行をする際は、同行するお子様のETAS(イータス)申請も忘れずにお願いします。なお、ETAS(イータス)を利用してオーストラリアで滞在が認められる期間は最長3か月以内で、渡航目的は一般的な観光か短期ビジネスに限られます。オーストラリアで3か月以上の滞在を希望する方や、数日であっても現地での就労を予定している方はETAS(イータス)申請の対象外となります。該当する方は在日オーストラリア大使館または総領事館にてビザの取得をご検討ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="australia-etas.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

@@ -1,0 +1,335 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T45d5,<div className="area-hero" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1400&h=400&fit=crop')">
+ <div className="area-hero-overlay"></div>
+ <div className="area-hero-content">
+ <span className="area-hero-label">CANADA</span>
+ <h1>カナダ</h1>
+ <p>壮大な自然、多文化都市、オーロラ鑑賞。カナダ渡航に必要なeTA（イータ）情報と人気観光スポットをご紹介。</p>
+ </div>
+ </div>
+
+ <div className="container">
+ <div className="section-inner">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ カナダ</div>
+
+ <div className="country-info">
+ <div className="country-intro">
+ <h2>カナダについて</h2>
+ <p>カナダは世界第2位の国土面積を誇り、多様な自然と文化が共存する国です。バンクーバーやトロントなどの国際都市、ナイアガラの滝、ロッキー山脈、イエローナイフのオーロラなど、見どころが満載。日本国民は観光・商用目的の短期滞在（最長6か月）にビザは不要ですが、eTA（電子渡航認証）の事前取得が必須です。</p>
+ </div>
+ <div className="country-basics">
+ <h3>基本情報</h3>
+ <table className="basics-table">
+ <tr><th>首都</th><td>オタワ</td></tr>
+ <tr><th>公用語</th><td>英語、フランス語</td></tr>
+ <tr><th>通貨</th><td>カナダドル（CAD）</td></tr>
+ <tr><th>時差</th><td>-12.5～-17時間（6つのタイムゾーン）</td></tr>
+ <tr><th>渡航認証</th><td>eTA（イータ）必須</td></tr>
+ </table>
+ </div>
+ </div>
+
+ <section className="section">
+ <h2 className="section-title">🛂 入国・ビザガイド</h2>
+ <div className="card-grid-4">
+ <a href="canada-eta-renewal.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>eTA(イータ)の更新について</h3>
+ </div>
+ </a>
+ <a href="canada-eta-rejection.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>eTA(イータ)申請が認証拒否となった場合の対処方法</h3>
+ </div>
+ </a>
+ <a href="canada-eta-site.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>eTA(イータ)申請とカナダ渡航に関するサイト</h3>
+ </div>
+ </a>
+ <a href="canada-eta-check.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>eTA(イータ)申請の認証確認ができない時の対処法</h3>
+ </div>
+ </a>
+ <a href="canada-eta-pending.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>eTA(イータ)申請後に「認証保留」になった場合の対処方法</h3>
+ </div>
+ </a>
+ <a href="canada-transit-usa.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>アメリカを経由してカナダ渡航をする方へ</h3>
+ </div>
+ </a>
+ <a href="canada-eta-application-guide.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>カナダeTA(イータ)申請の婚姻状況と職業の申請方法</h3>
+ </div>
+ </a>
+ <a href="canada-eta-transit.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>カナダで乗り継ぐ時にeTA(イータ)申請は必要？</h3>
+ </div>
+ </a>
+ <a href="canada-eta-vs-visa.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>カナダのeTA(イータ)とビザの違いとは</h3>
+ </div>
+ </a>
+ <a href="canada-student-visa.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>カナダの学生ビザ(就学許可証)について</h3>
+ </div>
+ </a>
+ <a href="canada-カナダの電子渡航認証etaイータとは.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>カナダの電子渡航認証eTA(イータ)とは</h3>
+ </div>
+ </a>
+ <a href="canada-visa-center.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>カナダビザ申請センター・カナダ大使館について</h3>
+ </div>
+ </a>
+ <a href="canada-eta-validity.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について</h3>
+ </div>
+ </a>
+ <a href="canada-eta-smartphone.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>スマホでのeTA(イータ)申請方法</h3>
+ </div>
+ </a>
+ <a href="canada-faq.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>よくある質問</h3>
+ </div>
+ </a>
+ <a href="canada-eta-criminal-record.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>前科・犯罪歴がある場合のカナダ入国とeTA(イータ)申請</h3>
+ </div>
+ </a>
+ <a href="canada-minors.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag">渡航ノウハウ</span>
+ <h3>未成年者のカナダ渡航について</h3>
+ </div>
+ </a>
+ </div>
+ </section>
+
+ <section className="section">
+ <h2 className="section-title">✈️ 観光・グルメ</h2>
+ <div className="card-grid-4">
+ <a href="canada-immigration-guide.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>【2022年最新】カナダに移住するには？条件や申請方法、仕事の探し方</h3>
+ </div>
+ </a>
+ <a href="canada-top-destinations.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>【2022年最新】カナダのおすすめ人気観光地10選</h3>
+ </div>
+ </a>
+ <a href="canada-lake-ontario.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>オンタリオ湖の魅力やおすすめ観光スポットを紹介</h3>
+ </div>
+ </a>
+ <a href="canada-yellowknife-aurora.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダ イエローナイフの観光スポット13選とオーロラのベストシーズン</h3>
+ </div>
+ </a>
+ <a href="canada-vancouver-souvenirs.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダ・バンクーバーおすすめのお土産20選、定番から人気の雑貨までご紹介</h3>
+ </div>
+ </a>
+ <a href="canada-vancouver-spots.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダ・バンクーバーの観光スポット13選 見どころやおすすめ料理を紹介</h3>
+ </div>
+ </a>
+ <a href="canada-aurora-viewing.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</h3>
+ </div>
+ </a>
+ <a href="canada-job-guide.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダでの仕事・就職事情～日本人が就職するためのポイント</h3>
+ </div>
+ </a>
+ <a href="canada-living-guide.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダでの生活における基本情報</h3>
+ </div>
+ </a>
+ <a href="canada-french-language.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダでフランス語が使われている理由と歴史</h3>
+ </div>
+ </a>
+ <a href="canada-usa-border.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダとアメリカの国境線は世界最長の絶景</h3>
+ </div>
+ </a>
+ <a href="canada-working-holiday.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダのワーキングホリデー(ワーホリ)</h3>
+ </div>
+ </a>
+ <a href="canada-world-heritage.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダの世界遺産一覧</h3>
+ </div>
+ </a>
+ <a href="canada-indigenous-peoples.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダの先住民族とは？歴史や問題点を解説</h3>
+ </div>
+ </a>
+ <a href="canada-maple-syrup.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダの名産品メープルシロップとは？種類や選び方を紹介</h3>
+ </div>
+ </a>
+ <a href="canada-cannabis.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダの大麻(マリファナ)合法化に関する実情と注意点</h3>
+ </div>
+ </a>
+ <a href="canada-permanent-residence.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダの永住権について</h3>
+ </div>
+ </a>
+ <a href="canada-ottawa-spots.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダの首都”オタワ”のおすすめ観光スポット15選</h3>
+ </div>
+ </a>
+ <a href="canada-time-difference.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダ主要都市と日本の時差・サマータイムについて</h3>
+ </div>
+ </a>
+ <a href="canada-study-abroad.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>カナダ留学の特徴・メリットデメリットを徹底解説</h3>
+ </div>
+ </a>
+ <a href="canada-quebec-spots.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>ケベックシティの人気・おすすめ観光スポット10選</h3>
+ </div>
+ </a>
+ <a href="canada-モントリオール観光ガイド-北米のパリ-おすすめスポット.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>モントリオール観光ガイド “北米のパリ” おすすめスポット</h3>
+ </div>
+ </a>
+ <a href="canada-best-countries.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>世界で最も住みたい国ランキングTOP10</h3>
+ </div>
+ </a>
+ <a href="canada-toronto-spots.html" className="card">
+ <div className="card-img" style="background-image:url('https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop')"></div>
+ <div className="card-body">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h3>初めてのトロントで押さえたいおすすめ観光スポット10選</h3>
+ </div>
+ </a>
+ </div>
+ </section>
+ </div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

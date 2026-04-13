@@ -1,0 +1,132 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","canada-toronto-spots",""],"q":"","i":false,"f":[[["",{"children":["canada-toronto-spots",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T55a0,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 初めてのトロントで押さえたいおすすめ観光スポット10選</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>初めてのトロントで押さえたいおすすめ観光スポット10選</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">初めてのトロントで押さえたいおすすめ観光スポット10選</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#tourism1">カナダの都市”トロント”とは</a></li>
+<li><a className="ez-toc-link" href="#tourism2">トロントでおすすめの観光スポット10選</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#s01">CNタワー / CN tower</a></li>
+<li><a className="ez-toc-link" href="#s02">ロジャースセンター / Rogers Centre</a></li>
+<li><a className="ez-toc-link" href="#s03">ウォーターフロント / Toronto’s waterfront</a></li>
+<li><a className="ez-toc-link" href="#s04">トロント・イートン・センター / Toronto Eaton Centre</a></li>
+<li><a className="ez-toc-link" href="#s05">セント・ローレンス・マーケット / St. Lawrence Market</a></li>
+<li><a className="ez-toc-link" href="#s06">ナイアガラの滝 / Niagara Falls</a></li>
+<li><a className="ez-toc-link" href="#s07">チャーチストリート / Church Street</a></li>
+<li><a className="ez-toc-link" href="#s08">オンタリオ美術館 / AGO Art Gallery of Ontario</a></li>
+<li><a className="ez-toc-link" href="#s09">カサロマ / Casa Loma</a></li>
+<li><a className="ez-toc-link" href="#s10">トロント・アイランド / Toronto Islands</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#tourism3">カナダ入国・渡航にはeTA(イータ)の事前申請が必要です</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="カナダのトロント" className="img_big m20-t m20-b lazyloaded" height="417" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/16d657b38e3ae0613d3bf766d90f2080-1.webp" type="image/webp" width="640"/><img alt="カナダのトロント" className="img_big m20-t m20-b" decoding="async" height="417" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/16d657b38e3ae0613d3bf766d90f2080-1.jpg" width="640"/>
+</picture>
+<p>国際色豊かで自然あふれるカナダは北アメリカ大陸に位置し、10の州と3つの準州で構成されています。面積はロシアの1,710万km2に次ぐ998万km2を誇り、総人口は3,759万人に及びます。首都オタワを有するオンタリオ州はカナダ中東部に位置し、総人口の約3分の1が集まるカナダ最大の州です。このページではオンタリオ州の州都であるトロントについてご紹介します。</p>
+<h2 className="wp-block-heading" id="tourism1">カナダの都市”トロント”とは</h2>
+<p>オンタリオ州の南東部に位置するトロントは、アメリカのニューヨーク州と接するオンタリオ湖に面します。毎年多くの移民を受け入れるため“人種のモザイク”と呼ばれる一方で、カナダの経済、政治、文化面での中枢機能が集まることから“カナダ最大の都市”と称されます。また、季節ごとの多種多様なイベントなど芸術活動も盛んで、毎年9月に開催される“<a href="https://www.tiff.net/" rel="noreferrer noopener" target="_blank">トロント国際映画祭</a>”は世界でも注目されるノン・コンペティション映画祭です。</p>
+<h2 className="wp-block-heading" id="tourism2">トロントでおすすめの観光スポット10選</h2>
+<ul className="wp-block-list"><li><a href="#s01">CNタワー / CN tower</a></li><li><a href="#s02">ロジャースセンター / Rogers Centre</a></li><li><a href="#s03">ウォーターフロント / Toronto’s waterfront</a></li><li><a href="#s04">トロント・イートン・センター / Toronto Eaton Centre</a></li><li><a href="#s05">セント・ローレンス・マーケット / St. Lawrence Market</a></li><li><a href="#s06">ナイアガラの滝 / Niagara Falls</a></li><li><a href="#s07">チャーチストリート / Church Street</a></li><li><a href="#s08">オンタリオ美術館 / AGO Art Gallery of Ontario</a></li><li><a href="#s09">カサロマ / Casa Loma</a></li><li><a href="#s10">トロント・アイランド / Toronto Islands</a></li></ul>
+<h3 className="wp-block-heading" id="s01">CNタワー / CN tower</h3>
+<p>トロントの高層ビル群にそびえ立つ、高さ553.33m のCNタワー(CN：Canadian National)は、日本のスカイツリーと中国の広州タワーに次ぐ高さを誇る自立式電波塔です。塔内はレストランや展望台の他に、空中散歩が体験できるアクティビティ”<a href="https://www.cntower.ca/en-ca/plan-your-visit/attractions/edgewalk/edgewalk-overview.html" rel="noreferrer noopener" target="_blank">エッジウォーク / Edge Walk</a>”が有名です。地上356m地点にあるエッジウォークは世界で最も高い“ハンズフリー・ウォーク”として知られ、360度の景色を隔てるものなく眺めることができます。</p>
+<p><strong>所在地：</strong>CN Tower 301 Front Street West, Toronto<br /><strong>公式サイト：</strong><a href="https://www.cntower.ca/intro.html" rel="noreferrer noopener" target="_blank">https://www.cntower.ca/intro.html</a></p>
+<h3 className="wp-block-heading" id="s02">ロジャースセンター / Rogers Centre</h3>
+<p>1989年に世界初の可動式屋根付きスタジアムとして開場したロジャースセンターは、MLB(メジャー・リーグ・ベースボール)のトロント・ブルージェイズとCFL(カナディアン・フットボール・リーグ)のトロント・アルゴノーツのホームスタジアムとして知られます。約4万8000人の観客収容数を誇り、コンサートや国際会議の会場としても使用されます。併設されるホテル“<a href="https://www.marriott.co.jp/hotels/travel/yyzcc-toronto-marriott-city-centre-hotel/" rel="noreferrer noopener" target="_blank">トロント・マリオット・シティセンター・ホテル / Toronto Marriott City Centre Hotel</a>”に宿泊すると、部屋から試合を観戦することもできます。</p>
+<p><strong>所在地：</strong>1 Blue Jays Way, Toronto, ON M5V 1J1<br /><strong>公式サイト：</strong><a href="https://www.mlb.com/bluejays/ballpark/information/guide" rel="noreferrer noopener" target="_blank">https://www.mlb.com/bluejays/ballpark/information/guide</a></p>
+<h3 className="wp-block-heading" id="s03">ウォーターフロント / Toronto’s waterfront</h3>
+<p>ウォーターフロントと呼ばれるオンタリオ湖沿いの一帯は、2001年から大規模な再開発が行われている注目のスポットです。800ヘクタールに及ぶエリア内には遊歩道やカフェなどが建ち並び、夏にはオンタリオ湖を見渡しながら日光浴やテラスでお酒が飲めるパティオバーが人気です。カナダの建国記念日に開催される“<a href="https://towaterfrontfest.com/" rel="noreferrer noopener" target="_blank">レッドパス・ウォーターフロント・フェスティバル</a>”など1年を通して様々なイベントが催され、国内外から大勢の参加者が集まります。</p>
+<p><strong>所在地：</strong>20 Bay St, Toronto, ON M5J 2N8<br /><strong>公式サイト：</strong><a href="https://www.waterfrontoronto.ca/nbe/portal/waterfront/Home" rel="noreferrer noopener" target="_blank">https://www.waterfrontoronto.ca/nbe/portal/waterfront/Home</a></p>
+<h3 className="wp-block-heading" id="s04">トロント・イートン・センター / Toronto Eaton Centre</h3>
+<p>トロント・イートン・センターは、アルバータ州エドモントンの“<a href="https://www.wem.ca/" rel="noreferrer noopener" target="_blank">ウエスト・エドモントン・モール / West Edmonton Mall</a>”に次ぐ規模を誇るショッピングセンターです。地下鉄の“<a href="http://www.ttc.ca/Subway/Stations/Queen/station.jsp" rel="noreferrer noopener" target="_blank">クイーン駅 / Queen Station</a>”と“<a href="http://www.ttc.ca/Subway/Stations/Dundas/station.jsp" rel="noreferrer noopener" target="_blank">ダンダス駅 / Dundas Station</a>”から直結しているためアクセスも抜群で、建物内には900席を有するフードコートや230以上の店舗が集まります。毎年クリスマスシーズンに飾られる高さ33mにも及ぶ巨大なクリスマスツリーは、トロントで最も巨大なクリスマスツリーと称され、点灯式には多くの見物客が押し寄せます。</p>
+<p><strong>所在地：</strong>220 Yonge Street Toronto, Ontario M5B 2H1<br /><strong>公式サイト：</strong><a href="https://www.cfshops.com/toronto-eaton-centre.html" rel="noreferrer noopener" target="_blank">https://www.cfshops.com/toronto-eaton-centre.html</a></p>
+<h3 className="wp-block-heading" id="s05">セント・ローレンス・マーケット / St. Lawrence Market</h3>
+<p>1803年の開設以来トロント市民に愛されるセント・ローレンス・マーケットは“市民の台所”と呼ばれ、100店舗以上が軒を連ねます。“<a href="https://torontounion.ca/" rel="noreferrer noopener" target="_blank">ユニオン駅 / Union Station</a>“から徒歩12分の位置にあり、建物内は地上1階と地下1階に分かれます。生鮮食料品からキッチン用品、観光客向けギフトショップなど品揃え豊富で、毎週土曜日には近隣農家が出店するファーマーズ・マーケット、日曜日にはアンティークの雑貨やジュエリーが出品されるアンティークマーケットが開催されます。</p>
+<p><strong>所在地：</strong>93 Front St E, Toronto, ON M5E 1C3<br /><strong>公式サイト：</strong><a href="http://www.stlawrencemarket.com/about_us" rel="noreferrer noopener" target="_blank">http://www.stlawrencemarket.com/about_us</a></p>
+<picture>
+<source alt="ナイアガラの滝 / Niagara Falls" className="img_big m20-t m20-b" height="505" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/4d227519d1c2df116b67093e4ae34bb6.webp" type="image/webp" width="760"/>
+<img alt="ナイアガラの滝 / Niagara Falls" className="img_big m20-t m20-b" decoding="async" height="505" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/4d227519d1c2df116b67093e4ae34bb6.jpg" width="760"/>
+</picture>
+<h3 className="wp-block-heading" id="s06">ナイアガラの滝 / Niagara Falls</h3>
+<p>ニューヨーク州との国境に位置するナイアガラの滝は、アフリカの<a href="https://www.zambiatourism.com/destinations/waterfalls/victoria-falls/" rel="noreferrer noopener" target="_blank">ヴィクトリアの滝</a>、南米の<a href="https://iguazuargentina.com/es/index" rel="noreferrer noopener" target="_blank">イグアスの滝</a>と合わせて世界3大瀑布として知られます。長距離バスや鉄道などを利用するとトロント市街からは2時間ほど、トロント・ピアソン国際空港からは1時間30分ほどで訪れることができます。ナイアガラの滝はカナダ側にあるカナダ滝、アメリカ側にあるアメリカ滝とブライダルベール滝から形成され、 カナダ滝周辺には真横から滝を眺められる“<a href="https://www.niagaraparks.com/visit-niagara-parks/plan-your-visit/travel-information/welcome-centres/" rel="noreferrer noopener" target="_blank">テーブルロック・ウェルカムセンター</a>”、滝の裏側に入れる“<a href="https://www.niagaraparks.com/visit/attractions/journey-behind-the-falls/" rel="noreferrer noopener" target="_blank">ジャーニー・ビハインド・ザ・フォールズ</a>”、滝周辺の絶景を見下ろせる“<a href="https://www.skylon.com/" rel="noreferrer noopener" target="_blank">スカイロンタワー</a>”など展望台が数多く設けられています。</p>
+<p><strong>所在地：</strong>6650 Niagara Pkwy Niagara Falls, ON L2E 3E8, Niagara Falls, Ontario L2G 3Y9, Canada<br /><strong>公式サイト：</strong><a href="https://www.niagarafallstourism.com/" rel="noreferrer noopener" target="_blank">https://www.niagarafallstourism.com/</a></p>
+<h3 className="wp-block-heading" id="s07">チャーチストリート / Church Street</h3>
+<p>チャーチストリートと“ウェルズリーストリート / Wellesley Street”の交差点を中心としたエリアは“The village”と呼ばれ、世界でも有名なLGBTコミュニティ発祥の地として知られます。通りにはレインボーに飾られたLGBT関連のコミュニティセンターやカフェ、アートギャラリー、雑貨屋などが建ち並びます。The village エリアでは、6月に女性を中心としたデモ行進の“ダイク・マーチ”やライブ、映画上映を含むフェスティバル“<a href="https://www.pridetoronto.com/" rel="noreferrer noopener" target="_blank">プライド・パレード / Pride Parade</a>”が1か月ほど開催されます。</p>
+<p><strong>所在地：</strong>Wellesley St East at Church St　Toronto, ON M4Y 2C6<br /><strong>公式サイト：</strong><a href="https://www.churchwellesleyvillage.ca/" rel="noreferrer noopener" target="_blank">https://www.churchwellesleyvillage.ca/</a></p>
+<h3 className="wp-block-heading" id="s08">オンタリオ美術館 / AGO Art Gallery of Ontario</h3>
+<p>1900年に創設されたオンタリオ美術館は頭文字を取り“エージーオー / AGO”と呼ばれます。所蔵作品数は9万5000点以上におよび、カナディアンアートについては世界最大の所蔵規模を誇ります。2008年の建物拡張リニューアルの際には、トロント出身の著名な建築家“フランク・ゲーリー”のデザインが採用され話題になりました。入場料は通常大人$19.50子供$11.00ですが、AGOメンバーや25歳以下、先住民族、毎週水曜日の18時から21時は入場料が無料になる特典もあるので、訪れる際は事前に入場料の確認をおすすめします。</p>
+<p><strong>所在地：</strong>317 Dundas Street WestToronto, OntarioM5T 1G4<br /><strong>公式サイト：</strong><a href="https://ago.ca/" rel="noreferrer noopener" target="_blank">https://ago.ca/</a></p>
+<h3 className="wp-block-heading" id="s09">カサロマ / Casa Loma</h3>
+<p>スペイン語で“丘の上の邸宅”という意味を持つカサロマは、1914年にカナダの大富豪<a href="https://casaloma.ca/history/" rel="noreferrer noopener" target="_blank">ヘンリー・ミル・ペラット卿</a>により建設されました。総工費350万ドル(約3億6000万円)を要した豪邸は1911年から3年の歳月をかけて築き上げられ、現在では中世のお城を彷彿とさせる外観や内装から観光スポットとして知られます。<a href="https://www.destinationtoronto.com/things-to-do/attractions/must-see-attractions/casa-loma/" rel="noreferrer noopener" target="_blank">トロント市</a>が管理や運営を行っており、入場料を支払うと音声ガイドとマップを参考に邸宅内を見て回ることができます。邸宅内には、高さ18mの天井が開放的なメインホールをはじめ、ステンドガラスや大理石が美しい温室、暖炉の脇に秘密扉がある書斎、天井に家紋が刻まれた図書室、ヘンリー卿がデザインしたオリジナルの家具が配置されたサービスルームなど豪華絢爛な装飾が施された部屋が100室ほどあります。敷地内では秘密扉や地下通路を利用した脱出ゲームやコンサートなど<a href="https://casaloma.ca/events/" rel="noreferrer noopener" target="_blank">イベント</a>も不定期で開催されます。</p>
+<p><strong>所在地：</strong>1 Austin Terrace, Toronto, ON M5R 1X8<br /><strong>公式サイト：</strong><a href="http://www.casaloma.ca/" rel="noreferrer noopener" target="_blank">http://www.casaloma.ca/</a></p>
+<h3 className="wp-block-heading" id="s10">トロント・アイランド / Toronto Islands</h3>
+<p>オンタリオ湖に位置するトロント・アイランドは、橋や小道で繋がれた15の島々から形成されます。トロント市街にあるジャック・レイトン・フェリーターミナルから<a href="https://www.toronto.ca/data/parks/prd/facilities/complex/2725/index.html" rel="noreferrer noopener" target="_blank">センターアイランド</a>、<a href="https://www.toronto.ca/data/parks/prd/facilities/complex/2541/index.html" rel="noreferrer noopener" target="_blank">ハンランズ・ポイント</a>、<a href="https://www.toronto.ca/data/parks/prd/facilities/complex/2039/index.html" rel="noreferrer noopener" target="_blank">ウォーズ・アイランド</a>へ船が就航していますが、冬季はウォーズ・アイランド線のみ運航されます。島の中心部にあるセンターアイランドは観光スポットが豊富で、噴水や庭園、ビーチ、小さな遊園地“<a href="https://www.centreisland.ca/centreville-amusement-park" rel="noreferrer noopener" target="_blank">センタービル・アミューズメント・パーク / Centreville Amusement Park</a>”があり、最も観光客が集まります。西部に位置し、“<a href="https://www.billybishopairport.com/home" rel="noreferrer noopener" target="_blank">ビリー・ビショップ・トロント・シティー空港 / Billy Bishop Toronto City Airport</a>”を有するハンランズ・ポイントでは、ビーチや12のピクニックエリアなど自然の中でゆっくりと過ごすことができます。東部にあるウォーズ・アイランドには居住区があるため観光客は比較的少なく、カフェやサッカー場の他に、島の南側にある遊歩道からは壮観なオンタリオ湖が望めます。</p>
+<p><strong>所在地：</strong>Centre Island Toronto Ontario<br />公式サイト：<a href="https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/toronto-island-park/" rel="noreferrer noopener" target="_blank">https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/toronto-island-park/</a></p>
+<h2 className="wp-block-heading" id="tourism3">カナダ入国・渡航にはeTA(イータ)の事前申請が必要です</h2>
+<p>カナダ国籍や永住権の保有者以外がカナダへ入国する際は、<a href="http://xs640823.xsrv.jp/eta/lengthofstay/index.html">ビザ</a>を取得する必要があります。ただし、<a href="http://xs640823.xsrv.jp/eta/service/index.html#%E3%82%AB%E3%83%8A%E3%83%80%E3%81%AE%E3%83%93%E3%82%B6%E5%85%8D%E9%99%A4%E5%9B%BD%E3%83%BB%E5%9C%B0%E5%9F%9F%E4%B8%80%E8%A6%A7">ビザ免除対象国</a>に限り<a href="http://xs640823.xsrv.jp/eta/service/index.html">電子渡航認証のeTA(イータ)申請</a>を事前に取得する事でカナダへの入国が許可されます。eTA(イータ)はオンラインで申請手続きが完了し、承認が下りるとパスポート情報に紐づいて電子的に管理されます。承認時に発行される英数字10桁のeTA numberは、メモなどに書き留めておくことをおすすめします。また、国際的な子供の不法連れ去り行為などを防ぐために締結されているハーグ条約により、18歳未満の未成年者が単独または片方の親権者とカナダへ入国する際は渡航同意書の携行が推奨されます。渡航の際には“<a href="http://xs640823.xsrv.jp/eta/minority/index.html">未成年者のカナダ渡航について</a>”を事前に確認しましょう。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"初めてのトロントで押さえたいおすすめ観光スポット10選 | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

@@ -1,0 +1,117 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","canada-eta-criminal-record",""],"q":"","i":false,"f":[[["",{"children":["canada-eta-criminal-record",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T3d92,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 前科・犯罪歴がある場合のカナダ入国とeTA(イータ)申請</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>前科・犯罪歴がある場合のカナダ入国とeTA(イータ)申請</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">前科・犯罪歴がある場合のカナダ入国とeTA(イータ)申請</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1">
+<li><a className="ez-toc-link" href="#criminal1">前科・犯罪歴がある場合もeTA(イータ)は申請できる？</a></li>
+<li><a className="ez-toc-link" href="#criminal2">前科・犯罪歴がある場合のeTA(イータ)申請</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#criminal2-1">交通違反の前科がある場合</a></li>
+<li><a className="ez-toc-link" href="#criminal2-2">薬物犯罪の前科がある場合</a></li>
+<li><a className="ez-toc-link" href="#criminal2-3">暴行や窃盗による前科がある場合</a></li>
+<li><a className="ez-toc-link" href="#criminal2-4">執行猶予中のeTA(イータ)申請</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#criminal3">前科・犯罪歴によりeTA申請が拒否された場合のカナダ入国手続き</a></li>
+<li><a className="ez-toc-link" href="#criminal4">カナダへの入国が認められないケース</a></li>
+<li><a className="ez-toc-link" href="#criminal5">前科・犯罪歴がある方は日程に余裕をもってカナダ入国の手続きを</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="前科" className="img_big m20-t m20-b lazyloaded" height="405" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/cec463fa5472ff7a92b88663960fe7e0.webp" type="image/webp" width="640"/><img alt="前科" className="img_big m20-t m20-b" decoding="async" height="405" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/cec463fa5472ff7a92b88663960fe7e0.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="criminal1">前科・犯罪歴がある場合もeTA(イータ)は申請できる？</h2>
+<picture>
+<source alt="前科" className="img_big m20-t m20-b lazyloaded" height="80" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/08/0d739cb1e9729099142c3e1eacf37b2b.webp" type="image/webp" width="640"/><img alt="前科" className="img_big m20-t m20-b" decoding="async" height="80" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/08/0d739cb1e9729099142c3e1eacf37b2b.png" width="640"/>
+</picture>
+<p>過去に刑事上の有罪判決を受けて逮捕された方は上記の質問に対し、「はい」と回答することが求められます。該当する方は原則としてeTA(イータ)申請によるカナダ渡航が認められないため、ビザの取得をご検討ください。ビザの申請先に関する詳細は「<a href="http://xs640823.xsrv.jp/eta/embassy/index.html">カナダビザ申請センター・カナダ大使館について</a>」をご確認ください。</p>
+<p>なお、上記の質問に該当する主な犯罪歴は以下の通りです。</p>
+<ul className="wp-block-list"><li>殺人、過失致死、誘拐、複数回におよぶ暴行や悪質な交通違反など他者に重大な危害を与えた犯罪</li><li>放火、強盗、盗難、詐欺、盗品の受け取りなど他者の財産をはく奪した犯罪</li><li>多額の脱税、贈収賄、偽証、薬物犯罪など政府当局に対し損害を与えた犯罪</li></ul>
+<p>これらに該当しない事件でも犯罪の性質等により対象とみなされる場合があります。<br />なお、重大事件に関与し国外で逮捕や起訴、有罪判決を受けた方も対象となります。</p>
+<h2 className="wp-block-heading" id="criminal2">前科・犯罪歴がある場合のeTA(イータ)申請</h2>
+<h3 className="wp-block-heading" id="criminal2-1">交通違反の前科がある場合</h3>
+<p>IRCC(カナダ移民・難民・市民権省)およびカナダ政府当局が定める規定により、過失致死を伴わない交通違反や飲酒運転等は重大犯罪の対象外とみなされます。ただし、悪質な交通違反や複数回の飲酒運転で逮捕歴がある方は、犯罪歴に関する質問に対し「はい」と回答する必要があります。<br />なお、過去に重大な過失を伴わないスピード違反や駐車違反の経験がある方は「いいえ」を選択して構いません。</p>
+<h3 className="wp-block-heading" id="criminal2-2">薬物犯罪の前科がある場合</h3>
+<p>過去に違法薬物の使用や所持による逮捕歴がある方は、犯罪歴に関する質問に対し「はい」を選択する必要があります。薬物犯罪による前科がある方はeTA(イータ)申請の対象外となり、カナダへの渡航を希望する際はビザの取得が求められます。当該の方は在日カナダ大使館・領事館、またはビザ申請センターに相談のうえ、ビザの取得をご検討ください。<br />ビザ申請先の詳細は「<a href="http://xs640823.xsrv.jp/eta/embassy/index.html">カナダビザ申請センター・カナダ大使館について</a>」をご確認ください。</p>
+<h3 className="wp-block-heading" id="criminal2-3">暴行や窃盗による前科がある場合</h3>
+<p>過去に暴行や窃盗による前科がある方は、犯罪の内容等により質問に対する回答が異なります。他人の財産に重大な危害や損害を与えていないと法的に認められた方は、犯罪歴に関する質問に対し「いいえ」を選択してください。一方、重大な暴行事件や窃盗に関与した方や常習者として複数回の逮捕歴がある方は「はい」を選択する必要があります。「はい」に該当する方はeTA(イータ)申請の対象外となるため、カナダへの渡航を希望する際はビザの取得をご検討ください。<br />なお、暴行等の理由で逮捕や起訴された後に冤罪と認定された方も、犯罪歴に関する質問は「はい」を選択する必要があります。<br />過去の犯罪歴に関する情報は各国の警察や法執行機関を通じてeTA(イータ)申請の際にIRCC(カナダ移民・難民・市民権省)にて照合が行われます。前科や重大な犯罪歴を申告せずにeTA(イータ)申請を行った方は、承認された渡航認証許可が取り消されることが予想されます。前科を隠ぺいし犯罪歴の質問について虚偽の回答を行った場合、ビザの取り消しや入国拒否に至ったケースも報告されていますのでご注意ください。</p>
+<h3 className="wp-block-heading" id="criminal2-4">執行猶予中のeTA(イータ)申請</h3>
+<p>執行猶予は条件付きの司法罰であり、原則として前科があるものとみなされます。ただし、カナダ政府およびIRCC(カナダ移民・難民・市民権省)では執行猶予中の方に対してもeTA(イータ)申請を認めているため、当該の質問に対して「いいえ」を選択して構いません。<br />執行猶予はさらなる犯罪により逮捕または起訴された際に猶予が取り消され刑が執行されます。猶予が取り消された場合はeTA(イータ)申請の対象外となり、原則としてカナダへの渡航は認められません。<br />また、執行猶予中に新たなパスポートの取得を希望する方は、申請手続きの際に現在執行猶予中の旨を申告する必要があります。申請の際は判決謄本の添付が求められ、外務省にてパスポートの発行および有効期限や渡航先の審査が行われます。審査の結果、パスポートの発行が認められない方はeTA(イータ)およびビザを申請することができませんのでご注意ください。</p>
+<h2 className="wp-block-heading" id="criminal3">前科・犯罪歴によりeTA申請が拒否された場合のカナダ入国手続き</h2>
+<p>犯罪歴を含む質問項目に対し1つでも「はい」に該当する方は、原則としてeTA(イータ)申請の対象外となるため審査結果が「渡航認証拒否」となることが予想されます。渡航認証拒否の通知が届いた方はeTA(イータ)を利用してカナダへ渡航することが認められないため、ビザの取得をご検討ください。<br />ビザはカナダへの渡航に際し正当な理由があると認められた方のみが申請の対象となります。ビザを希望する方は下記のビザ申請センターへお問い合わせください。</p>
+<p className="Class_J"><strong>合同会社VFSサービシズ・ジャパン(東京)</strong><br />住所：〒105-0014 東京都港区芝1-4-3 SANKI 芝金杉橋ビル4F<br />電話番号：0120-961-673<br />営業時間：月曜日～金曜日(祝祭日を除く)　10：00～17：00<br />Eメール：<a href="mailto:info.cajp@vfshelpline.com" rel="noreferrer noopener" target="_blank">info.cajp@vfshelpline.com</a><br /><br /><strong>合同会社VFSサービシズ・ジャパン(大阪)</strong><br />住所：〒542-0081 大阪府大阪市中央区南船場1-3-5 リプロ南船場ビル10F<br />電話：0120-961-673<br />営業時間：月曜日～金曜日 (祝祭日を除く)　9：00～17：00<br />Eメール：<a href="mailto:info.cajp@vfshelpline.com" rel="noreferrer noopener" target="_blank">info.cajp@vfshelpline.com</a><br /><br />新型コロナウイルス感染防止に伴い、東京・大阪ともに当面のあいだ以下の対応のみとなります。<br />・バイオメトリクスの登録<br />・審査後の書類の受け取り<br />・永住者渡航証の申請</p>
+<p>なお、犯罪歴を含む質問項目に対し「いいえ」を選択した方も、何らかの理由によりeTA(イータ)申請の結果が「渡航認証拒否」と通知される場合があります。理由については開示されないため、渡航認証拒否と判断された方は登録した内容に間違いがないか確認をお願いします。当該の際は「<a href="http://xs640823.xsrv.jp/eta/refusal/index.html">eTA(イータ)申請が認証拒否となった場合の対処方法</a>」をご確認ください。<br />登録した内容に間違いがない場合は再度eTA(イータ)を申請していただくか、上記のビザ申請センターにてビザの取得をご検討ください。</p>
+<h2 className="wp-block-heading" id="criminal4">カナダへの入国が認められないケース</h2>
+<p>IRCC(カナダ移民・難民・市民権省)は以下に該当する渡航者を入国拒否の対象としています。虚偽の申告は入国拒否や強制送還の対象となりますのでご注意ください。<br />なお、重大な前科がある方や感染症等を患っている方は、詳細な説明や追加書類の提出により渡航が認められるケースもあります。</p>
+<ul className="wp-block-list"><li>意図的なオーバーステイや犯罪などの理由で強制送還された履歴がある</li><li>国や地域を問わず、これまでの渡航に際し虚偽の申告を行なったことがある</li><li>感染症や精神疾患など医学的理由により健康状態に問題がある</li><li>スパイ活動やテロ行為等によりカナダの安全を脅かす恐れがある人物</li><li>戦争や非人道的な行為に関与し、人権または国際的な権利を侵害したことがある</li><li>複数回に及ぶ麻薬の所持や過失致死を伴う飲酒運転等の前科がある</li><li>テロ組織や反社会的な組織に関与している、または関与したことがある</li><li>移民・難民保護法に違反している、または違反した履歴がある</li></ul>
+<p>上記に関する詳細とその他の該当者はカナダ政府の“<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility/reasons.html" rel="noreferrer noopener" target="_blank">Reasons you may be inadmissible to Canada</a>“をご確認ください。</p>
+<h2 className="wp-block-heading" id="criminal5">前科・犯罪歴がある方は日程に余裕をもってカナダ入国の手続きを</h2>
+<p>eTA(イータ)はカナダへの渡航を希望する方が安全な市民であり、国内に危害を及ぼす恐れがないかを判断する重要な役割を担っています。重大な犯罪歴がある方やカナダ国内で逮捕歴がある方は危険人物と認定され、eTA(イータ)によるカナダ渡航は認められません。犯罪歴に関する質問は入国可否を判断する際の重要事項であり、回答を確認したうえで審査結果が通知されます。eTA(イータ)申請の際は入力完了後に必ず全ての内容を見直し、質問項目については特に十分な確認をお願いします。<br />なお、過去にカナダおよび他国での不法滞在により強制送還となった方はeTA(イータ)申請の対象外となり、数年間にわたりビザの取得も認められません。<br />eTA(イータ)申請の結果が「渡航認証拒否」となった方は、再申請やビザの手続きに数週間以上かかることも予想されます。重大な過失や前科がある方は日程に余裕をもってビザまたはeTA(イータ)申請の手続きをお願いします。<br />eTA(イータ)とビザの違いや、渡航の際にビザの取得が相応しいケースは「<a href="http://xs640823.xsrv.jp/eta/lengthofstay/index.html">カナダのeTA(イータ)とビザの違いとは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"前科・犯罪歴がある場合のカナダ入国とeTA(イータ)申請 | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

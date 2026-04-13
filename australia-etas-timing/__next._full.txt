@@ -1,0 +1,121 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","australia-etas-timing",""],"q":"","i":false,"f":[[["",{"children":["australia-etas-timing",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T2f83,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ ETAS(イータス)申請のベストなタイミングとは？</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>ETAS(イータス)申請のベストなタイミングとは？</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">ETAS(イータス)申請のベストなタイミングとは？</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#timing1">ETAS(イータス)とは</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#timing2">ETAS(イータス)申請が必要なケース</a></li>
+<li><a className="ez-toc-link" href="#timing3">ETAS(イータス)申請はいつまでに行えばよいのでしょうか</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#timing4">ETAS(イータス)申請が拒否されたら</a></li>
+<li><a className="ez-toc-link" href="#timing5">訪問者ビザ/Visitor visa(subclass600)について</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#timing6">観光ビザ(Tourist stream)</a></li>
+<li><a className="ez-toc-link" href="#timing7">ビジネス訪問者用ビザ(Business Visitor stream)</a></li>
+</ul></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="ETAS(イータス)申請のベストなタイミングとは？" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p09_01.webp" type="image/webp" width="640"/>
+<img alt="ETAS(イータス)申請のベストなタイミングとは？" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p09_01.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="timing1">ETAS(イータス)とは</h2>
+<p>オーストラリアに3ケ月以内の短期滞在を希望する方で、渡航目的が観光や短期のビジネスである場合はビザではなく<a className="link-no-color aioseop-link" href="http://xs640823.xsrv.jp/etas/">ETAS(イータス)</a>を取得することでオーストラリアへの渡航が可能となります。<br />ETAS(イータス)はオーストラリア政府が定める対象国・地域のパスポートを有する方のみが申請可能となっており、日本はこの対象国に該当しています。日本国籍を有する方で一般的なオーストラリア旅行を希望する場合はETAS(イータス)申請を行うことで渡航が認められます。<br />ETAS(イータス)は他のビザよりも申請手続きが簡易的で、オンライン上でパスポート情報、連絡先等を入力するだけでオーストラリアへの渡航許可を取得することが出来ます。</p>
+<h3 className="wp-block-heading" id="timing2">ETAS(イータス)申請が必要なケース</h3>
+<div className="Class_D">
+<h5>一度の滞在が3ケ月以内であること</h5>
+</div>
+<div className="Class_D">
+<h5>滞在目的が観光か短期商用であること(オーストラリア国内で就労することはできません)</h5>
+</div>
+<div className="Class_D">
+<h5>オーストラリア国内の空港を経由して他国へ向かう場合</h5>
+</div>
+<div aria-hidden="true" className="wp-block-spacer" style="height:1px"></div>
+<p>空港から離れることなく8時間以内に乗り継ぎをする場合に限りETAS(イータス)申請は不要です。<br />乗り継ぎに8時間以上を要する場合や、一時的にでも空港からの外出を希望される方は渡航前にETAS(イータス)申請が必要となります。</p>
+<div className="Class_J country-list">
+<h4>ETAS(イータス)対象国・地域一覧(2022年1月現在)</h4>
+<ul><li>アンドラ</li><li>オーストリア</li><li>ベルギー</li><li>ブルネイ</li><li>カナダ</li><li>デンマーク</li><li>フィンランド</li><li>フランス</li><li>ドイツ</li><li>ギリシャ</li><li>香港</li><li>アイスランド</li><li>アイルランド</li><li>イタリア</li><li>日本</li><li>リヒテンシュタイン</li><li>ルクセンブルク</li><li>マレーシア</li><li>マルタ</li><li>モナコ</li><li>ノルウェー</li><li>ポルトガル</li><li>サンマリノ共和国</li><li>シンガポール</li><li>韓国</li><li>スペイン</li><li>スウェーデン</li><li>スイス</li><li>台湾</li><li>オランダ</li><li>イギリス</li><li>アメリカ合衆国</li><li>バチカン市国</li></ul>
+</div>
+<h3 className="wp-block-heading" id="timing3">ETAS(イータス)申請はいつまでに行えばよいのでしょうか</h3>
+<p>オーストラリアへの渡航が決まりましたら早めの手続きをお勧めいたします。<br />通常、ETAS(イータス)は申請後すぐに審査結果が通知されますが、オーストラリア政府が主導となり管理しているETAS(イータス)オンラインアプリケーションの都合上、審査に時間がかかってしまうケースや承認されないケースもありますのでご注意ください。<br />ETAS(イータス)はオーストラリア国内で審査や運営を行っており、定期的にシステムメンテナスを行っております。<br />システムメンテナス中は審査が滞ってしまうことが報告されておりますのでオーストラリアへの渡航が決まり次第、航空チケットの手配と同時にETAS(イータス)申請を済ませることを推奨しております。</p>
+<picture>
+<source alt="ETAS(イータス)申請はいつまでに行えばよいのでしょうか" className="img_big m20-t m20-b" height="378" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p09_02.webp" type="image/webp" width="640"/>
+<img alt="ETAS(イータス)申請はいつまでに行えばよいのでしょうか" className="img_big m20-t m20-b" decoding="async" height="378" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p09_02.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="timing4">ETAS(イータス)申請が拒否されたら</h2>
+<p>ETAS(イータス)申請の審査結果が拒否となってしまった場合は、申請した内容に誤りがないか確認をしましょう。<br />特にパスポート番号や氏名の登録に間違いがないか、十分なご確認をお願いします。入力間違いを発見した際は、あらためてETAS(イータス)の申請手続きを行うことができますが、再度申請費用が必要となりますのでご注意ください。<br /><a className="aioseop-link" href="http://xs640823.xsrv.jp/etas/refusal/index.html">渡航認証が拒否された場合について詳しく見る </a><br />入力に間違いがなく拒否されてしまった方は訪問者ビザの申請をご検討ください。<br />オーストラリア政府は一時滞在用など、様々なビザを用意しております。渡航目的や滞在期間に合わせて該当するビザを取得しましょう。なお、犯罪歴があり刑期が12ケ月以上の有罪判決を受けたことがある方はETAS(イータス)申請の対象外となりますのでビザの申請をお願いします。</p>
+<h2 className="wp-block-heading" id="timing5">訪問者ビザ/Visitor visa(subclass600)について</h2>
+<p>オーストラリアはビザの種類がとても豊富です。訪問者ビザ(Visitor visas)、学生ビザ(Studying and training visas)、家族とパートナーの為のビザ(Family and partner visas)、就労ビザ(Working and skilled visas)、難民および人道的ビザ(Refugee and humanitarian visas)、その他のビザ(Other visas)の6つのカテゴリーに大きく分けられます。<br />そのカテゴリーの中で分類がなされており、“サブクラス600“のように数字が割り当てられています。訪問者ビザのサブクラス600は観光やビジネス(出張など)用のビザとなっております。”ストリーム”にて細かく分けられており観光ストリーム、ビジネス訪問者ストリーム、団体の中国国籍者ストリームなど全部で6種類あります。<br />日本国籍の方がETAS(イータス)申請を拒否された場合、訪問者ビザの中で取得可能な2つのストリームについてご紹介します。</p>
+<h3 className="wp-block-heading" id="timing6">観光ビザ(Tourist stream)</h3>
+<p>一般的な観光、家族や友人への訪問、クルーズ等で訪れる際に申請が可能となるのが観光ビザです。<br />滞在期間は3、6、12ケ月から選択して申請することができ、期間が長いほど審査が厳しくなり提出書類も多くなります。<br />希望滞在期間にもよりますが、申請から取得までに約1ケ月を要します。<br />なお、観光ビザを取得して渡航した場合、オーストラリア国内での就労は一切認められておりません。</p>
+<h3 className="wp-block-heading" id="timing7">ビジネス訪問者用ビザ(Business Visitor stream)</h3>
+<p>出張などでオーストラリアへ訪問する際に申請が可能なビザで、申請から取得までに約2週間を要します。<br />最大で3ケ月のオーストラリア滞在が認められ、一般的な出張、会議、契約交渉、報酬を伴わない展示会やセミナーへの参加等が可能です。<br />ただし、現地の企業に勤務することや商品やサービスを直接販売すること、報酬を伴うビジネスを行うことはできませんのでご注意ください。</p>
+<p>訪問者ビザはオンラインでの申請が可能です。フォームに従い手続きを進めましょう。<br />ビザの取得には通常1ケ月ほどかかります。情報の入力ミスや書類の不備がある場合はさらに時間を要しますので、渡航スケジュールに余裕をもって申請を行いましょう。ビザ申請に関する決定は書面にて通知されますが、ビザ付与番号、ビザ開始日、ビザの条件が記載されていますので大切に保管してください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="australia-etas.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"ETAS(イータス)申請のベストなタイミングとは？ | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

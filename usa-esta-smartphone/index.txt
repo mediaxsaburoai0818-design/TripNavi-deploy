@@ -1,0 +1,338 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","usa-esta-smartphone",""],"q":"","i":false,"f":[[["",{"children":["usa-esta-smartphone",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T436a,<div className="page-layout">
+    <main className="page-main">
+      <div className="breadcrumb">
+        <a href="index.html">ホーム</a> ＞ 
+        <a href="#usa">アメリカ</a> ＞ 
+        <a href="#visa-info">渡航ノウハウ</a> ＞ 
+        ESTAアプリでの申請方法
+      </div>
+
+      <article className="article-detail">
+        <span className="card-tag">USA渡航ノウハウ</span>
+        <h1>ESTAアプリでの申請方法を解説！スマホ申請のポイントを紹介</h1>
+        <div className="article-meta">
+          <span className="meta-date">更新日：2026年03月31日</span>
+        </div>
+
+        <div className="content">
+          
+          <div className="article-toc">
+            <h4 className="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">「ESTA Mobile」について</a>
+                  <ul>
+                    <li><a href="#section1-1">公式サイトからの申請との違い</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section2">ESTA Mobileでの申請で必要なもの</a></li>
+                <li><a href="#section3">ESTA Mobileでの申請方法</a>
+                  <ul>
+                    <li><a href="#section3-1">1. モバイルアプリ「ESTA Mobile」をインストール</a></li>
+                    <li><a href="#section3-2">2. パスポートの顔写真をスキャン</a></li>
+                    <li><a href="#section3-3">3. パスポートのICチップの読み取り</a></li>
+                    <li><a href="#section3-4">4. 顔写真の撮影と個人情報の入力</a></li>
+                    <li><a href="#section3-5">5. 申請料金の支払い</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section4">申請時の注意点</a></li>
+                <li><a href="#section5">よくある質問</a></li>
+                <li><a href="#section6">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          
+          <p>アメリカへの短期滞在にはESTA（エスタ）申請が必須ですが、2023年より米国CBPが公式アプリ<strong>「ESTA Mobile」</strong>の提供を開始しました。この記事では、スマホアプリでのESTA申請方法と、公式サイトとの違いを詳しく解説します。</p>
+
+          
+          <h2 id="section1">「ESTA Mobile」について</h2>
+          <p><strong>ESTA Mobile</strong>は、米国税関・国境警備局（CBP）が2023年より提供している公式ESTAアプリです。スマホ1台で、<strong>申請から支払い、ステータス確認まで完結</strong>できます。</p>
+
+          <div className="info-box">
+            <h4>📱 ESTA Mobileの特徴</h4>
+            <ul>
+              <li><strong>iOS/Android対応</strong></li>
+              <li><strong>パスポート自動読み取り</strong>（OCR機能でスペルミス防止）</li>
+              <li><strong>ICチップスキャン</strong>で情報自動入力</li>
+              <li><strong>カメラで顔写真撮影</strong>→そのままアップロード</li>
+              <li><strong>申請ステータスをアプリで確認</strong>可能</li>
+            </ul>
+          </div>
+
+          <p><strong>ダウンロード:</strong></p>
+          <ul>
+            <li><strong>iOS:</strong> App Store</li>
+            <li><strong>Android:</strong> Google Play</li>
+          </ul>
+
+          <h3 id="section1-1">公式サイトからの申請との違い</h3>
+          
+          <div style="overflow-x: auto; margin: 20px 0;">
+            <table style="width: 100%; border-collapse: collapse; background: #fff;">
+              <thead>
+                <tr style="background: var(--primary-light);">
+                  <th style="padding: 12px; border: 1px solid var(--gray-200); text-align: left;">項目</th>
+                  <th style="padding: 12px; border: 1px solid var(--gray-200); text-align: left;">ESTA Mobile（アプリ）</th>
+                  <th style="padding: 12px; border: 1px solid var(--gray-200); text-align: left;">公式サイト</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>パスポート情報</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">カメラでスキャン→自動入力</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">手動入力</td>
+                </tr>
+                <tr style="background: var(--gray-50);">
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>顔写真</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">カメラで新規撮影</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">事前撮影した写真をアップロード</td>
+                </tr>
+                <tr>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>ICチップ</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">スマホでスキャン（自動入力）</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">手動入力</td>
+                </tr>
+                <tr style="background: var(--gray-50);">
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>メリット</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">スペルミス防止、入力の手間削減</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">PC画面で作業しやすい</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          
+          <h2 id="section2">ESTA Mobileでの申請で必要なもの</h2>
+          
+          <div className="info-box">
+            <h4>📋 必要なもの</h4>
+            <ul>
+              <li><strong>有効なパスポート</strong>（ICチップ搭載、有効期限が渡航終了日から6ヶ月以上）</li>
+              <li><strong>メールアドレス</strong>（申請完了通知受信用）</li>
+              <li><strong>クレジットカード/デビットカード/PayPal</strong>（支払い用）</li>
+              <li><strong>パスポートの顔写真ページ</strong>（カメラで撮影）</li>
+              <li><strong>申請者本人の顔写真</strong>（アプリ内で新規撮影、無地背景、上半身が鮮明に写っていること）</li>
+            </ul>
+          </div>
+
+          
+          <h2 id="section3">ESTA Mobileでの申請方法</h2>
+          <p>ESTA Mobileでの申請は、以下の5ステップで完了します。</p>
+
+          <h3 id="section3-1">1. モバイルアプリ「ESTA Mobile」をインストール</h3>
+          <ol>
+            <li>App StoreまたはGoogle Playから<strong>「ESTA Mobile」</strong>をダウンロード</li>
+            <li>アプリを起動し、<strong>「操作の継続」</strong>をタップ</li>
+            <li><strong>「セキュリティ通告」</strong>を確認し、<strong>「同意」</strong>をタップ</li>
+            <li>ホーム画面で<strong>「開始する」</strong>をタップ</li>
+            <li>免責事項を確認し、<strong>「同意」</strong>→<strong>「操作の継続」</strong></li>
+          </ol>
+
+          <h3 id="section3-2">2. パスポートの顔写真をスキャン</h3>
+          <ol>
+            <li><strong>「スキャンの開始」</strong>をタップ</li>
+            <li>カメラアクセスを<strong>「許可」</strong></li>
+            <li>白い枠内にパスポートの顔写真ページを収める</li>
+            <li>自動読み取り完了後、<strong>「正常にスキャンができました」</strong>と表示される</li>
+            <li>パスポート番号、生年月日などが自動反映されるので確認</li>
+          </ol>
+
+          <div className="warn-box">
+            <h4>⚠️ 注意</h4>
+            <p>光の反射や影でうまく読み取れない場合があります。明るい場所で撮影してください。</p>
+          </div>
+
+          <h3 id="section3-3">3. パスポートのICチップの読み取り</h3>
+          <ol>
+            <li>パスポートの<strong>裏表紙側</strong>の上にスマホを重ねる</li>
+            <li>エラーが出る場合は、スマホケースを外し、パスポートの裏表紙側に当てる</li>
+            <li><strong>「スキャンの準備ができました」</strong>と表示される</li>
+            <li>氏名、性別、生年月日、有効期限が表示されるので確認</li>
+            <li><strong>「操作の継続」</strong>をタップ</li>
+          </ol>
+
+          <h3 id="section3-4">4. 顔写真の撮影と個人情報の入力</h3>
+          <ol>
+            <li>青い枠内に顔を収めて撮影（無地背景、上半身が鮮明に写るように）</li>
+            <li>生年月日、パスポート番号などが表示されるので確認</li>
+            <li><strong>「操作の継続」</strong>をタップ</li>
+            <li>住所、電話番号、勤務先、アメリカでの滞在先を<strong>英語（ローマ字）</strong>で入力</li>
+            <li>伝染病、犯罪歴などの質問に<strong>「はい/いいえ」</strong>で回答</li>
+          </ol>
+
+          <h3 id="section3-5">5. 申請料金の支払い</h3>
+          <ol>
+            <li>最終確認を行い、支払いページへ進む</li>
+            <li>料金: <strong>40.27米ドル/人</strong></li>
+            <li>支払い期限: 申請日から<strong>6日以内</strong></li>
+            <li>支払い方法: Visa/Mastercard/JCB/AMEX/Diners/PayPal</li>
+            <li><strong>「PAY NOW」</strong>をタップして決済完了</li>
+            <li>申請番号が表示されるので<strong>スクリーンショットで保存</strong>（ステータス確認時に必要）</li>
+          </ol>
+
+          
+          <h2 id="section4">申請時の注意点</h2>
+          
+          <div className="warn-box">
+            <h4>⚠️ 重要な注意点</h4>
+            
+            <p><strong>申請期限:</strong></p>
+            <p>出発<strong>72時間前（3日前）まで</strong>に申請を完了することを推奨します。審査には最大3日かかる場合があります。</p>
+
+            <p><strong>ステータス確認:</strong></p>
+            <ul>
+              <li>アプリのホーム画面で<strong>「見つける」</strong>をタップ</li>
+              <li>氏名、生年月日、申請番号を入力</li>
+              <li>審査中: <strong>「保留中」</strong>と表示</li>
+              <li>結果: <strong>「渡航認証許可」</strong>または<strong>「渡航認証拒否」</strong></li>
+              <li>⚠️ 画面を横スワイプすると無効化される可能性があるため注意</li>
+            </ul>
+
+            <p><strong>料金改定:</strong></p>
+            <ul>
+              <li>2025年9月29日まで: 21米ドル</li>
+              <li>2025年9月30日〜: 40米ドル（大幅改定）</li>
+              <li>2026年1月1日〜: <strong>40.27米ドル</strong>（インフレ調整）</li>
+              <li>今後も年次調整が予定されています</li>
+            </ul>
+          </div>
+
+          
+          <h2 id="section5">よくある質問</h2>
+
+          <div className="faq-item">
+            <h3>Q1: ESTAの申請はスマホでできますか？</h3>
+            <p><strong>A:</strong> はい、可能です。公式アプリ<strong>「ESTA Mobile」</strong>をインストールすることで、スマホから申請できます。カメラでパスポートを撮影し、ICチップをスキャンする必要があります。公式サイトからの申請とは手順が一部異なります。</p>
+          </div>
+
+          <div className="faq-item">
+            <h3>Q2: ESTAの入力は日本語にならない？</h3>
+            <p><strong>A:</strong> ESTA Mobileアプリは日本語表示に切り替え可能です。ただし、<strong>入力は英語（ローマ字）のみ</strong>です。スペルミスがあると再申請が必要になり、虚偽申請と見なされると入国拒否の恐れがあるため、慎重に入力してください。</p>
+          </div>
+
+          <div className="faq-item">
+            <h3>Q3: ESTAの料金は2025年にいくらになりますか？</h3>
+            <p><strong>A:</strong> ESTA申請料金は以下の通りです：</p>
+            <ul>
+              <li><strong>2025年9月29日まで:</strong> 21米ドル</li>
+              <li><strong>2025年9月30日〜:</strong> 40米ドル（大幅改定）</li>
+              <li><strong>2026年1月1日〜:</strong> 40.27米ドル（インフレ調整）</li>
+            </ul>
+            <p>今後も年次調整が予定されています。</p>
+          </div>
+
+          
+          <h2 id="section6">まとめ</h2>
+          <p>アメリカへの短期滞在にはESTA申請が必須です。2023年より公式アプリ<strong>「ESTA Mobile」</strong>が提供開始され、スマホで申請から支払い、ステータス確認まで完結できるようになりました。</p>
+
+          <p>パスポート撮影やICチップ読み取りなど、公式サイトとは手順が一部異なるため、事前に手順を確認してから申請を進めることを推奨します。</p>
+
+          <div className="info-box">
+            <h4>✅ ESTA Mobileのポイント</h4>
+            <ul>
+              <li>スマホ1台で申請完結</li>
+              <li>パスポート自動読み取りでスペルミス防止</li>
+              <li>ICチップスキャンで情報自動入力</li>
+              <li>申請料金: 40.27米ドル（2026年1月1日〜）</li>
+              <li>出発72時間前までに申請完了推奨</li>
+              <li>iOS/Android対応</li>
+            </ul>
+          </div>
+        </div>
+
+        
+        <div className="related-articles">
+          <h3 className="related-title">関連記事</h3>
+          <div className="related-grid">
+            <a href="usa-esta-application.html" className="related-card">
+              <div className="related-card-body">
+                <span className="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
+              </div>
+            </a>
+            
+            <a href="usa-esta-group.html" className="related-card">
+              <div className="related-card-body">
+                <span className="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAのグループ申請方法を解説！</h3>
+              </div>
+            </a>
+            
+            <a href="usa-esta-renewal.html" className="related-card">
+              <div className="related-card-body">
+                <span className="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA(エスタ)に更新は必要？</h3>
+              </div>
+            </a>
+            
+            <a href="usa-hawaii-esta.html" className="related-card">
+              <div className="related-card-body">
+                <span className="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ハワイ渡航時にESTAは必要？</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    
+    <aside className="sidebar">
+      <div className="sidebar-section">
+        <h3 className="sidebar-title">人気記事ランキング</h3>
+        <ol className="sidebar-ranking">
+          <li>
+            <a href="canada-eta-about.html">
+              <span className="rank-num">1</span>
+              <div className="rank-info">
+                <span className="rank-tag">カナダeTA</span>
+                <div className="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="australia-etas-about.html">
+              <span className="rank-num">2</span>
+              <div className="rank-info">
+                <span className="rank-tag">オーストラリア</span>
+                <div className="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="usa-esta-application.html">
+              <span className="rank-num">3</span>
+              <div className="rank-info">
+                <span className="rank-tag">USA ESTA</span>
+                <div className="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"ESTAアプリでの申請方法を解説！スマホ申請のポイントを紹介 | TripNavi | TripNavi"}],["$","meta","1",{"name":"description","content":"ESTAアプリでの申請方法を詳しく解説。スマホ申請のポイント、5ステップの手順、公式サイトとの違いをわかりやすく紹介します。"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","3",{}]]
+14:null

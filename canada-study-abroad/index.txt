@@ -1,0 +1,135 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","canada-study-abroad",""],"q":"","i":false,"f":[[["",{"children":["canada-study-abroad",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T52f2,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダ留学の特徴・メリットデメリットを徹底解説</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダ留学の特徴・メリットデメリットを徹底解説</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">カナダ留学の特徴・メリットデメリットを徹底解説</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#study1">カナダ留学のメリット</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#study2">メリット1：留学の種類が豊富</a></li>
+<li><a className="ez-toc-link" href="#study3">メリット2：治安が良い</a></li>
+<li><a className="ez-toc-link" href="#study4">メリット3：観光地がたくさんある</a></li>
+<li><a className="ez-toc-link" href="#study5">メリット4：移住しやすい</a></li>
+<li><a className="ez-toc-link" href="#study6">メリット5：移民が多く多様性が認められやすい</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#study7">カナダ留学のデメリット</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#study8">デメリット1：冬の寒さが厳しい地域がある</a></li>
+<li><a className="ez-toc-link" href="#study9">デメリット2：物価が高い</a></li>
+<li><a className="ez-toc-link" href="#study10">デメリット3：英語が上達しなくても生活できる</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#study11">カナダ留学の種類</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#study12">長期留学(大学・大学院)</a></li>
+<li><a className="ez-toc-link" href="#study13">語学学校</a></li>
+<li><a className="ez-toc-link" href="#study14">進学準備留学</a></li>
+<li><a className="ez-toc-link" href="#study15">短期留学(大学院・大学・語学学校)</a></li>
+<li><a className="ez-toc-link" href="#study16">ワーキングホリデー</a></li>
+<li><a className="ez-toc-link" href="#study17">1～2週間の旅行で英語に触れる</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#study18">カナダへの入国・渡航にはeTA(イータ)の事前申請が必要</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="カナダ留学のメリット・デメリットについて" className="img_big m20-t m20-b lazyloaded" height="412" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/d75418af534cf5d59a533c2eac0decff.webp" type="image/webp" width="640"/><img alt="カナダ留学のメリット・デメリットについて" className="img_big m20-t m20-b" decoding="async" height="412" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/35c273cab2cc92531d09c8c1e57f9471.jpg" width="640"/>
+</picture>
+<p>世界第2位の面積を保有するカナダ。人口は約3,800万人で、日本のおよそ1/3となります。雄大な自然環境に囲まれながらも都市圏へのアクセスに優れ、治安も良いことから毎年多くの移民や留学生が訪れます。市民のおよそ7割はトロントやバンクーバーなどアメリカ国境付近の南側の都市に居住し、留学生の受け入れ先である学校や大学も集中しています。カナダの公用語は英語とフランス語のため、2か国語を同時に学べる地域もあります。このページではカナダの語学留学、高校留学、専門留学、ワーキングホリデーなど様々な分野の留学について解説します。</p>
+<h2 className="wp-block-heading" id="study1">カナダ留学のメリット</h2>
+<h3 className="wp-block-heading" id="study2">メリット1：留学の種類が豊富</h3>
+<p>カナダは留学生の受け入れ体制が充実しているため世界中から高い評価を受けています。語学留学や専門課程を習得するだけでなく、ホームステイやビジネスを通した留学プログラムも盛んです。カナダ留学の主な例として以下の内容が挙げられます。</p>
+<ul className="contents-block__ul wp-block-list"><li>語学留学 : 英会話の向上、ビジネス英語の習得、TOEICやTOEFLなど資格の取得</li><li>カレッジ(College)留学 : 様々な職業に関する知識やスキルの習得<br />※カナダの短大は日本の短大と異なり、準博士号を取得する2年制の大学ではありません。</li><li>専門学校留学 : 専門知識の取得、職業訓練、スキルの向上<br />※カナダの専門学校はカレッジと同義語で、様々な専門科目から自身でコースを選択することが出来ます。</li><li>ワーキングホリデー : 就労を通じて文化や語学を学ぶ</li><li>大学留学 : 専門分野の修学、博士号の取得</li></ul>
+<h3 className="wp-block-heading" id="study3">メリット2：治安が良い</h3>
+<p>カナダは地域により気候や街の雰囲気が異なりますが、全ての地域で共通している点として「治安が良い」ということが挙げられます。世界各国の治安や犯罪、紛争や軍事情勢などの指標を数値化し平和度を表した「世界平和度指数」の2019年度版によると、日本は9位でカナダは6位となっています。また、2017年度の「世界で最も安全な都市ランキング」では、東京、シンガポール、大阪に次いでオンタリオ州トロントが4位に選出されました。カナダは全土において治安が良いことから語学留学だけでなく、社会人やシニアの留学先としても選ばれています。</p>
+<h3 className="wp-block-heading" id="study4">メリット3：観光地がたくさんある</h3>
+<p>雄大な自然を有するカナダには世界遺産や歴史的建造物など、数多くの観光名所があります。カナダとアメリカの国境付近にあるナイアガラの滝は世界有数の観光スポットとして、連日多くの観光客で賑わっています。北米唯一の城塞都市であるケベックシティはフランス人入植者により築かれ、カナダに居ながらフランスの文化と歴史が堪能できる街としてその名が知られています。カナダ南東部のセント・ローレンス湾には小説「赤毛のアン」の舞台となったプリンス・エドワード島が浮かび、美しい海岸線と赤土の断崖、のどかな田園風景に彩られた島は世界中の観光客を魅了して止みません。他にもナイアガラからケベックへと続く全長800kmのメープル街道や、バンフ国立公園で有名なカナディアンロッキー、人気のスキーリゾート地ウィスラー、オーロラが観測できるイエローナイフなど国内各地で大自然の醍醐味が味わえるため、世界中から多くの観光客がカナダを訪れています。</p>
+<h3 className="wp-block-heading" id="study5">メリット4：移住しやすい</h3>
+<p>カナダは多くの移民が暮らす国として世界的に有名で、2018年には30万人以上の外国人に永住権が与えられました。海外送金事業を行うイギリスのRemitly社が2020年に行った調査では、「移住を希望する国」の1位にカナダが選ばれたと発表。2位の日本との差は2倍以上の得票差があり、カナダ移住の人気の高さが伺えます。カナダは移民を希望する方に寛容な国として知られていますが、永住権の取得に関する条件は年々厳しくなっています。カナダの都市圏では多くの移民や留学生が暮らし、留学による長期滞在を経験した後に永住権を申請する方も少なくありません。カナダでは留学生向けのホームステイや学生寮、シェアハウスなど住宅の選択肢も多く存在します。将来的に移住を希望する方は留学で長期滞在をした後、ご自身に合った地域や環境を選択することをお勧めします。</p>
+<h3 className="wp-block-heading" id="study6">メリット5：移民が多く多様性が認められやすい</h3>
+<p>多くの移民が生活するカナダでは世界各国の様々な文化に触れることができ、多様性が認められやすい国としても知られています。トロントやバンクーバーなどの大都市圏には日本人から移住した市民も多く、市街のいたるところで英語以外の言語を聞く機会があります。フランス人の入植により栄えたケベック州のモントリオールやケベックシティではフランス語が多く使われるため、英語と同時にフランス語の習得を希望する留学生が多く訪れます。英語が第1言語でない国からカナダへ移住した方も多く、母国語を大切にする風習が各地域で見受けられます。カナダはこれまで移民が国の発展に貢献した経緯もあることから、多様性を尊重する国として今も移住を希望する方が増加しています。</p>
+<h2 className="wp-block-heading" id="study7">カナダ留学のデメリット</h2>
+<h3 className="wp-block-heading" id="study8">デメリット1：冬の寒さが厳しい地域がある</h3>
+<p>広大な面積を有するカナダは北米特有の厳しい寒さに見舞われる地域や季節があります。カナダ南西部に位置するバンクーバーは冬も比較的過ごしやすいと言われていますが、冬季の最低気温はマイナス5度を下回り、最高気温は15度ほどまで上昇する寒暖差の激しい地域です。バンクーバーは秋から冬にかけて長い雨季に入り、およそ半年にわたり雨が降り続けます。気温は氷点下にならず雪が降ることはほとんどありませんが、日照時間が短く安定しない天候が続きます。長期にわたり屋内で過ごす時間が多くなるため、体調を崩さないよう注意が必要です。カナダ東部のトロント、オタワ、モントリオール、ケベックシティは10月から4月頃まで厳しい寒さに見舞われ雪の日が続きます。カナダは全般的に10月から氷点下に達する日が増えて雪が降り始めるため、冬季の滞在には十分な防寒対策が必要です。</p>
+<h3 className="wp-block-heading" id="study9">デメリット2：物価が高い</h3>
+<p>日本とカナダでは税収のルールが異なるとともに、カナダの物価は日本よりも全般的に1～2割ほど高い印象を受けます。カナダでは生鮮品や生活必需品には消費税がかかりませんが外食や衣服、雑貨等には消費税がかかります。税率は州ごとに異なり、大半の州では10％以上の消費税を設定しています。また、アメリカと同様カナダにもチップ文化があるため、外食の際は消費税に加えて約15～20％のチップを用意する必要があります。最も留学生が多く訪れるトロントの消費税は13％となり、モントリオールやカルガリーなどの都市と比べて若干高めとなっています。日本と同じくカナダも都市圏では食料品や住居に関する物価は高騰しますが、人口が多いためアルバイトによる収入が得やすい傾向にあります。</p>
+<h3 className="wp-block-heading" id="study10">デメリット3：英語が上達しなくても生活できる</h3>
+<p>カナダの都市圏では日本語が通じるコミュニティや施設、飲食店などが多くあるため、英語を話すことなく生活が可能な地域もあります。日本語が通じる環境に長く滞在したことで英語を話す機会が減り、結果的に英語の上達に至らなかったという方も見受けられます。海外で日本語が通じる環境があることは留学当初やトラブルの際には安心できますが、留学やワーキングホリデーは滞在期間が限られています。トロント、モントリオール、バンクーバーは日本からの留学生が多く、学校全体の2、3割の生徒が日本人で占めるという学校も珍しくありません。留学を有効にするためにもカナダでは英語で会話し、日本語が通じる環境から少し離れる期間を設けることをお勧めします。</p>
+<h2 className="wp-block-heading" id="study11">カナダ留学の種類</h2>
+<h3 className="wp-block-heading" id="study12">長期留学(大学・大学院)</h3>
+<p>カナダ国内における総合大学はわずか100校あまりで、全ての大学が高水準の教育であると評されます。そのため、カナダ国内の大学には世界中から優秀な学生が集まり、卒業生は各国の様々な分野において活躍し高い評価を受けています。入学の難易度が高く公用語である英語とフランス語を理解する必要があるため、日本国内の大学で履修したのちに留学または編入する方も多く見受けられます。</p>
+<h3 className="wp-block-heading" id="study13">語学学校</h3>
+<p>英語とフランス語が公用語であるカナダは語学に対する教育が盛んです。カナダ国内における大半の語学学校では英語初心者でも入学が可能で、都市圏では日本人スタッフが常駐している学校も多く存在します。<br />初級コースでは英語のスキルを総合的に習得したい方を対象とし、中級コースではTOEICなど英語関連の試験対策やビジネス英語を学ぶ方に向けて授業を行っています。</p>
+<h3 className="wp-block-heading" id="study14">進学準備留学</h3>
+<p>日本の高校を卒業した後に外国の大学に進学する場合は、本科とともに英語の補強授業や準備課程の受講を必要とするケースがあります。ただし、外国の高校卒業資格を取得した方は現地大学への出願が認められるため、中学・高校への留学が増加しています。カナダではアメリカと同じ教育制度が導入されているため、卒業後の進路は国内に留まらず多岐に渡ります。国際的に認められているカリキュラムを履修した方は、アメリカやカナダだけでなくヨーロッパやオーストラリアへの大学進学も認められます。高校卒業に必要な科目や単位数は州により異なります。また、科目や単位の取得だけでなく各州の統一試験に合格することが条件となります。大学、短期大学、専門学校など進学先により必須科目が異なるため、各高校のアドバイザーと相談のうえ就学先を検討することを推奨します。</p>
+<h3 className="wp-block-heading" id="study15">短期留学(大学院・大学・語学学校)</h3>
+<p>カナダの都市圏には多くの語学学校があり、世界中から留学生を受け入れています。主に英語の習得を目的とした短期留学生が多く、小規模でアットホームな学校や授業の選択が可能な大規模な学校など自身の希望に沿った学校を選ぶことができます。大学付属の英語コースは大学キャンパス内で開講されているため、語学の習得だけでなく現地学生との様々な交流イベントが行われています。また、高水準な教育レベルと評されるカナダの大学院へ留学を希望する学生も年々増加しています。カナダの大学院における修士課程は平均で1～2年、博士課程は3年以上かかることが通例となっています。</p>
+<h3 className="wp-block-heading" id="study16">ワーキングホリデー</h3>
+<p>カナダにはワーキングホリデーを利用して多くの日本人が訪れます。募集人数は毎年設定され、発表は秋から年末頃となります。対象年齢は申請時18～30歳まで、滞在可能期間は最長1年間と定められています。現地の学校に就学できる期間は最大6か月以内ですが、就労期間に関する制限はありません。滞在期間中を保障する医療保険への加入やカナダでの就職が内定していないなど、利用の際は様々な条件があります。資金は最低2,500カナダドル(約20万円)以上必要とされていますが、滞在費用や復路の航空代金を考慮し6,000カナダドル(約50万円)以上準備することをお勧めします。英語は現地でコミュニケーションが可能な初級程度でも申請が可能ですが、英文による履歴書の提出が必要となります。</p>
+<h3 className="wp-block-heading" id="study17">1～2週間の旅行で英語に触れる</h3>
+<p>カナダ都市部における大半の私立学校では語学留学を目的とする学生に対し、1週間程度からの留学を認めています。1日の授業時間は3～6時間で選択することができ、自身のレベルや目的に応じて授業を受けることが可能です。トロント、モントリオール、バンクーバーの私立学校では日本から多くの短期留学生が習学していますが、在学中は母国語を禁止とする学校もあるため集中して英語を学ぶことができます。大学付属の英語コースは3週間以上のカリキュラムで構成され、現地生徒との共同作業によるプロジェクトワークなどの授業が用意されています。</p>
+<h2 className="wp-block-heading" id="study18">カナダへの入国・渡航にはeTA(イータ)の事前申請が必要</h2>
+<p>カナダでは渡航の際にeTA(イータ)と呼ばれる電子渡航認証制度を導入しています。eTA(イータ)は航空機を利用してカナダへの入国を希望する方が必要となる制度で、未成年であっても事前に申請が必須となります。eTA(イータ)に関する詳細は<a href="http://xs640823.xsrv.jp/eta/service/index.html">こちら</a>をご確認ください。<br />eTA(イータ)を取得することにより最長6か月間のカナダ滞在が認められるため、一般的な観光や短期のビジネスを目的として入国する方はビザではなくeTA(イータ)の取得を推奨しています。カナダで6か月以内の短期留学を希望する方もeTA(イータ)申請の対象となりますが、滞在が短期間であってもワーキングホリデーやカナダでの就労を希望する方は申請の対象外となります。また、留学を目的としてカナダで6か月以上の滞在を希望する方もeTA(イータ)申請の対象外となります。留学に則したビザの取得が必要となりますので、東京または大阪の<a href="http://xs640823.xsrv.jp/eta/embassy/index.html#%E3%83%93%E3%82%B6%E7%94%B3%E8%AB%8B%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6">ビザ申請センター</a>へお問い合わせください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"カナダ留学の特徴・メリットデメリットを徹底解説 | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

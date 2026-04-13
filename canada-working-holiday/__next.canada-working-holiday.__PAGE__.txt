@@ -1,0 +1,138 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T70e9,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダのワーキングホリデー(ワーホリ)</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダのワーキングホリデー(ワーホリ)</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">カナダのワーキングホリデー</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#working0">ワーキングホリデーとカナダ渡航に関する最新情報</a></li>
+<li><a className="ez-toc-link" href="#working1">ワーキングホリデービザの申請方法</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#working2">ワーキングホリデービザ申請条件</a></li>
+<li><a className="ez-toc-link" href="#working3">ワーキングホリデービザ申請方法</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#working4">自然豊かな多文化国家カナダ</a></li>
+<li><a className="ez-toc-link" href="#working5">カナダでワーキングホリデーを経験するメリットとデメリット</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#working6">カナダでワーキングホリデーを経験するメリット</a></li>
+<li><a className="ez-toc-link" href="#working7">カナダでワーキングホリデーを経験するデメリット</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#working8">カナダのワーキングホリデーで多い仕事</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#working9">スキー場でのアルバイト</a></li>
+<li><a className="ez-toc-link" href="#working10">日本食レストランのスタッフ</a></li>
+<li><a className="ez-toc-link" href="#working11">ツアーガイド</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#working12">カナダでのワーキングホリデーにかかる生活費の目安</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="カナダのワーキングホリデー" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/544b6f3073c112ca7139aa0a19946ab5.webp" type="image/webp" width="640"/><img alt="カナダのワーキングホリデー" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/544b6f3073c112ca7139aa0a19946ab5.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="working0">ワーキングホリデーとカナダ渡航に関する最新情報</h2>
+<p>規定回数のワクチン接種が完了した方は、渡航目的を問わずカナダへの入国が可能です。入国する際はカナダ政府が承認するワクチンの接種完了を示す証明書の提示が必須となり、接種完了の翌日から2週間以上の経過が求められます。日本からカナダへ入国する際の条件や渡航に関する最新情報は「<a href="http://xs640823.xsrv.jp/eta/news/detail/990100.html">カナダの新型コロナウイルスと入国制限 最新情報</a>」をご確認ください。<br />なお、2022年1月15日より、ワクチン未接種の方に対する入国制限が強化されました。これまでワーキングホリデービザ所持者はワクチン未接種の場合も条件付きで入国を認めていましたが、現在は規定回数の接種が必須となりますのでご注意ください。<br />カナダ政府は2022年度における日本国籍のワーキングホリデー発給枠を6,500件に策定しました。最新の発給状況や残数は<a href="https://www.cic.gc.ca/english/work/iec/selections.asp?country=jp&amp;cat=wh" rel="noreferrer noopener" target="_blank">IRCC(カナダ移民・難民・市民権省)のワーキングホリデー情報</a>をご確認ください。</p>
+<h2 className="wp-block-heading" id="working1">ワーキングホリデービザの申請方法</h2>
+<p>カナダのワーキングホリデービザではカナダに1年間滞在でき、それぞれ6カ月以内の就労と就学が許可されます。日本国籍者がカナダのワーキングホリデービザを申請する際はいくつかの条件を満たさなければいけません。</p>
+<h3 className="wp-block-heading" id="working2">ワーキングホリデービザ申請条件</h3>
+<ul className="wp-block-list"><li>申請書を提出する時点で18歳以上30歳以下であること</li><li>過去にワーキングホリデービザを発行されていないこと</li><li>最低2,500カナダドル(約26万円)相当の資金が確保できていること</li><li>滞在中に有効な海外医療保険に加入していること</li><li>往復の航空券を購入している、または費用が確保できていること</li><li>扶養家族がいる場合、同行しないこと</li></ul>
+<h3 className="wp-block-heading" id="working3">ワーキングホリデービザ申請方法</h3>
+<p>カナダのワーキングホリデービザは、まず応募枠にエントリーしなければなりません。その後、招待メールが届いた場合はWork Permit（就労許可）ビザの申請手続きを行い、就労許可通知書を取得すれば完了となります。ワーキングホリデービザ申請の主な流れを紹介します。</p>
+<ol className="wp-block-list"><li>カナダ移民・難民・市民権省IRCC(Immigration, Refugees and Citizenship Canada)サイトでMyCICアカウントを作成します</li><li>就労や就学を通して海外との人材交流を図るカナダのプロジェクトIEC(International Experience Canada)に登録します</li><li>IECからワーキングホリデービザの応募枠にエントリーします</li><li>招待メールが届いた場合は10日以内にWork Permit(就労許可)ビザの申請手続きを行います</li><li>申請書や必要書類などの提出と申請料金を支払います</li><li>指紋登録(バイオメトリックス)を<a href="http://xs640823.xsrv.jp/eta/links/index.html#visacenter">カナダビザ申請センター</a>で登録します</li><li>申請手続き完了(カナダ政府は就労許可通知書の発行に8週間(約2か月)を要する可能性があると通知しています)</li><li>許可が下りるとMyCICに「Correspondence Letter」が届き就労許可通知書がPDFでダウンロードできるのでプリントアウトしてください</li><li>カナダに渡航し空港での入国審査時に就労許可通知書を提示するとWork Permit(就労許可)ビザが付与されます。就労許可通知書はなくさないよう注意しましょう</li></ol>
+<p>※就労許可通知書が発行されてから12カ月以内にカナダに入国する必要があります。渡航者が入国してから1年間がワーキングホリデービザの滞在可能期間となります。</p>
+<div className="Class_AB">
+<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec.html" rel="noreferrer noopener" target="_blank">ワーキングホリデービザ</a> / IRCC</div>
+<h2 className="wp-block-heading" id="working4">自然豊かな多文化国家カナダ</h2>
+<p>1763年からイギリス領であるカナダは1867年にイギリスの植民地として初めて自治が認められ「カナダ連邦」となりました。その後、1926年に外交権を付与され、1931年にはウェストミンスター憲章によりイギリスと対等な権利を獲得し事実上の独立を果たしました。国名は北米にある五大湖から大西洋を結び、カナダ東部を東北に流れるセントローレンス川流域を拠点としていたイロコイ族の言葉で「村落」を意味する「カナタ」に由来します。<br /><br />カナダは多民族で多文化な国として知られ、教育機関においても外国人留学生の受け入れ体制が充実しています。長年移民を受け入れているカナダでは様々な国の人々と異文化交流をはぐくむこともでき、都会の華やかさと郊外に残る豊かな自然にも触れられます。2022年現在、日本は26の国・地域とワーキングホリデー協定を結び、年間約2万人が渡航しています。ワーキングホリデー渡航者数ランキングでは、1位のオーストラリアに次ぎ2位にカナダがランクインしています。ワーキングホリデービザの取得には年齢制限があり検討中の方は一度詳しく調べてみてはいかがでしょうか。</p>
+<h2 className="wp-block-heading" id="working5">カナダでワーキングホリデーを経験するメリットとデメリット</h2>
+<h3 className="wp-block-heading" id="working6">カナダでワーキングホリデーを経験するメリット</h3>
+<h4 className="wp-block-heading">多国籍文化に触れることができる</h4>
+<p>カナダは異なる文化の共存と、社会参加の平等を推進する“多文化主義政策“を1971年に世界で初めて採用しました。「移民の国」と呼ばれるほど毎年各国からの移民を受け入れ、国内の移民人口比率は21％と世界でもトップクラスです。また、2019年に過去最高となる年間約34万人の新移民者を受け入れました。200以上の民族が共に生活しているカナダでは、学校教育における複数言語教育や40ヶ国語以上の新聞や雑誌が発行されています。</p>
+<h4 className="wp-block-heading">治安が良い</h4>
+<p>カナダは欧米諸国の中で比較的治安が良いと言われています。バンクーバーやトロント、モントリオール、カルガリー、オタワなどの主要都市は、エコノミスト・インテリジェンス・ユニット(EIU)が毎年発表している“世界の住みやすい都市”ランキングで度々上位に選出されます。安全性、医療、文化と環境、教育、インフラの主要カテゴリで評価され、2019年のランキングではオーストリアのウィーン、オーストラリアのメルボルン、シドニー、日本の大阪に次いで5位にカルガリー、6位にバンクーバーがランクインしました。<br /><br />一方で、総人口は約3759万人と日本の約3分の1のカナダですが、犯罪発生率(人口10万人当たりの犯罪認知件数)は日本の約5倍と高いです。カナダの銃規制は連邦法により定められ、所有する為には国の許可が必要となります。狩猟が盛んであるため銃の需要が高い国ですが、銃の携帯は警察や軍関係者のみ許可されています。<br /><br />また、2020年4月中旬に発生した銃乱射事件を受けて銃規制の強化を求める機運が高まったことを受け、同年5月1日に殺傷能力の高い銃器約1500種の販売と使用を禁止し、更なる銃規制の強化に踏み込みました。<br />欧米諸国の中では安全な地域が多いと言われているカナダですが、日本ほど治安は良くありません。人が多い場所などでのスリや置き引き、ひったくりなどは観光客が狙われるケースが多いので注意が必要です。人気のない通りや夜間の一人歩き、多額の現金や貴重品の不要な持ち歩きは控えましょう。</p>
+<div className="Class_AB">
+<a href="https://www.anzen.mofa.go.jp/info/pcsafetymeasure_222.html" rel="noreferrer noopener" target="_blank">カナダ 犯罪発生状況、防犯対策</a> / 外務省</div>
+<h4 className="wp-block-heading">訛りが少ない英語のため語学勉強に向いている</h4>
+<p>多文化の共生を尊重しているカナダでは「バイリンガリズム」が推奨されます。バイリンガリズムとは二言語併用のことを言い、政府はフランス語と英語をカナダの公用語としています。1600年代に現在のケベック州とニューブランズウィック州の周辺はフランス領だった為、現在も多くのフランス人が居住しています。多くの州では英語を第一言語としていますがケベック州とニューブランズウィック州ではフランス語を第一言語とする人が多く地域差があります。また、英語圏の中でも国や地域によりアクセントなどの訛りがありますが、カナダの都市部で話される英語は訛りが少なく国際標準語に近いと言われます。元々アメリカ系イギリス人が居住していたカナダではアメリカ英語が浸透していましたが、その後イギリス英語の教育が盛んになったため2国の英語が入り交じり、訛りが緩和していったという背景があります。ワーキングホリデーで英語を習得する際、国際標準語に近い英語を学べるカナダはおすすめの留学先と言えるでしょう。</p>
+<h3 className="wp-block-heading" id="working7">カナダでワーキングホリデーを経験するデメリット</h3>
+<h4 className="wp-block-heading">物価が高い</h4>
+<p>カナダでは日本のように税率が全国で統一されておらず、州によって異なります。税率は連邦消費税(GST)、州税(PST)、ハーモナイズド消費税(HST)の3種類があります。ワーキングホリデー先の州で施行されている税率を渡航前に確認しておきましょう。</p>
+<div className="Class_J">
+<h4>連邦消費税(Goods and Services Tax)の5％のみ課税される州</h4>
+<p>アルバータ州、ユーコン準州、ノースウエスト準州、ヌナブト準州</p>
+</div>
+<div className="Class_J">
+<h4>連邦消費税(Goods and Services Tax)に加えて州税(Provincial Sales Tax)が課税される州</h4>
+<p>ケベック州 9.975％、マニトバ州 7%、サスカチュワン州 6%、ブリティッシュコロンビア州 7%</p>
+</div>
+<div className="Class_J">
+<h4>ハーモナイズド消費税(Harmonized Sales Tax)のみ課税される州</h4>
+<p>オンタリオ州 13%<br />ノバスコシア州、ニューブランズウィック州、ニューファンドランド・ラブラドール州、プリンスエドワードアイランド州 15%</p>
+</div>
+<p>例えば、トロントがあるオンタリオ州はハーモナイズド消費税のため13%です。2022年現在、1カナダドル(CAD)= 約80円となり20CAD(約1,614円)の商品では 20CAD + 消費税2.6CAD = 22.6CAD(約1,824円)になります。ただし、カナダでは非課税対象や連邦消費税のみ対象のものもありますので注意が必要です。<br />主な非課税対象は家賃、公共交通機関の運賃、処方箋薬、基本的な食材(肉、魚、野菜など)となり、連邦消費税のみ対象は4ドル以下の調理済み食品や飲み物、本や新聞などとなります。詳しい課税率は各州のサイトよりご確認ください。</p>
+<div className="Class_AB">
+<ul><li><a href="https://www2.gov.bc.ca/gov/content/taxes/sales-taxes/pst#:~:text=Tax%20Rates,price%20of%20goods%20and%20services." rel="noreferrer noopener" target="_blank">バンクーバー</a> / ブリティッシュコロンビア州</li><li><a href="https://www.fin.gov.on.ca/en/tax/hst/whatstaxable.html" rel="noreferrer noopener" target="_blank">トロント</a> / オンタリオ州</li><li><a href="https://www.quebec.ca/en/finance-income-and-other-taxes/consumption-taxes/#:~:text=As%20a%20consumer%2C%20you%20are,%2Drated%20or%20tax%2Dexempt." rel="noreferrer noopener" target="_blank">モントリオール</a> / ケベック州</li><li><a href="https://www.alberta.ca/taxes.aspx" rel="noreferrer noopener" target="_blank">カルガリー</a> / アルバータ州</li></ul></div>
+<h4 className="wp-block-heading">州や時期によって仕事探しが大変</h4>
+<p>ワーキングホリデービザで就労可能な6か月間のうちに自分に合った仕事先で働けるのか、求人をどう探せばいいのか、働くためにはどの程度の英語力が必要とされているのかなど不安なことは多いのではないでしょうか。<br />バンクーバーやトロントなどの都会で働きたい方は、お土産屋さんなど観光客向けの仕事やカフェなどシーズンに左右されにくい仕事があります。観光客向けの仕事は観光客が訪れる春から夏が繁忙期となるので、その2ケ月前頃に求人が多く出る傾向があります。一方で冬の求人数は激減しやすく仕事探しは難航するでしょう。<br />リゾート地や郊外で働きたい方は、シーズンジョブがおすすめです。シーズンジョブとはスキー場などでのリゾートジョブと農家や牧場でのファームジョブの総称として呼ばれます。<br />シーズンジョブの仕事先は基本的に郊外のため住み込みの条件付きで雇用されることが多く、住む場所を探す手間が省けるのでワーキングホリデーの方たちに人気があります。シーズンジョブは繁忙期の2～3ヵ月前から求人を出しますがタイミングを逃すと応募枠が埋まり面接にチャレンジできないこともあります。募集時期を事前に把握しておきましょう。</p>
+<h2 className="wp-block-heading" id="working8">カナダのワーキングホリデーで多い仕事</h2>
+<p>カナダではネットでの求人だけでなくお店に直接訪れて履歴書を渡す応募方法が主流です。ネット求人は応募してもなかなか返事が返ってこないケースが多いようで、いつまでも返事を待っていると他の良い求人を見逃してしまうかもしれません。家や学校の周りを探索し、求人募集のポスターを探してみるのもおすすめです。日本人スタッフを募集している場合は求人募集も日本語で書かれていることが多く分かりやすいです。また、カナダの日本人向け求人情報サイトにはワーキングホリデー向けの求人も掲載されているので、渡航前にどのような仕事があるのか目を通しておくのも良いでしょう。<br />ここではワーキングホリデーでのバイト先として特に人気な4つを紹介します。</p>
+<h3 className="wp-block-heading" id="working9">スキー場でのアルバイト</h3>
+<p>カナダでは都会近郊にも豊かな自然が広がり、スキーやハイキングなどのアクティビティが盛んです。ウィスラーや世界遺産カナディアンロッキー、バンフ、レイク・ルイーズなどは愛好家も集まるスキーの聖地として知られています。ウィスラーは世界有数のスキーリゾートであり、2010年に開催されたバンクーバーオリンピックでのスキー会場となったことでも有名です。スキー場での仕事はインストラクター、施設スタッフ、リゾート内のホテルスタッフなどがあり、英語力は会話ができる程度から募集されています。<br />スキーの聖地でのアルバイトは競争率が高く、特にワーキングホリデーの方にはとても人気があります。求人募集は夏に始まり秋口にはほとんど終了してしまうところが多く、タイミングを逃すと募集枠が埋まってしまうこともしばしばあるようです。求人募集が始まるタイミングに合わせて語学学校の終了時期を組み立てるなど希望のアルバイト先によってカナダ渡航時期を計画するのも良いでしょう。</p>
+<div className="Class_AB">
+<ul><li><a href="https://jp-keepexploring.canada.travel/places-to-go/whistler" rel="noreferrer noopener" target="_blank">ウィスラー</a> / ブリティッシュコロンビア州</li><li><a href="https://www.travelalberta.com/ca/" rel="noreferrer noopener" target="_blank">カナディアンロッキー</a> / アルバータ州</li><li><a href="https://jp-keepexploring.canada.travel/places-to-go/banff" rel="noreferrer noopener" target="_blank">バンフ</a> / アルバータ州</li></ul></div>
+<h3 className="wp-block-heading" id="working10">日本食レストランのスタッフ</h3>
+<p>シーズンジョブとは異なり、1年中募集のタイミングがある日本食レストランはワーキングホリデーの方に人気のアルバイト先です。日本食レストランは通称“ジャパレス”と呼ばれ、観光客が多いバンクーバーやトロントなどの都市で複数の店舗が出店しています。オーナーやスタッフに日本人が多いので、英語に少し不安がある方もコミュニケーションを取りやすく職場環境としては安心できるのではないでしょうか。一方で、キッチンに配属されると周りがほとんど日本人のため英語力を上げることが難しい場合もあります。サーバーと呼ばれるウエイトレスやウエイターのように配膳や注文を取る接客担当になると英語力を上げるきっかけになるでしょう。ただし、コミュニケーションがとれる程度の中~上級の英語力が無いと配属されないので難易度はキッチンより高くなります。日本食レストランで働くメリットとして多くの経験者が話すのは「まかない」と「チップ」です。ワーキングホリデーで働いている中で1食分の食費が浮くのは節約になりますし、チップ文化がある欧米は給料の他にチップをもらえることがあるので予想外に稼げる可能性もあります。</p>
+<h3 className="wp-block-heading" id="working11">ツアーガイド</h3>
+<p>ツアーガイドは観光シーズンの春から冬にかけて需要が高まるので、シーズンの2~3ヵ月前から募集がスタートします。ツアーガイドは日本食レストランやお土産ショップに比べて時給が高い場合が多く人気なため、募集のタイミングを逃さないようにしましょう。人気のツアーはバンクーバーやトロントの街歩き、イエローナイフのオーロラ鑑賞、トロントのナイアガラの滝、プリンセスエドワード島の赤毛のアンツアー、バンフ国立公園などがあります。有名な観光地には日本からの観光客も多いため日本人観光客向けのツアーガイドの募集もあります。初級の英語力でも採用される可能性は高いですが、緊急時には施設やホテルなどへの電話や現地のスタッフとの交渉など英語力が必要になる場合もあるので注意が必要です。</p>
+<div className="Class_AB">
+<ul><li><a href="https://jp-keepexploring.canada.travel/things-to-do/aurora-capital-north-america" rel="noreferrer noopener" target="_blank">イエローナイフ</a> / ノースウエスト準州</li><li><a href="https://jp-keepexploring.canada.travel/things-to-do/niagara-wonders-wineries" rel="noreferrer noopener" target="_blank">ナイアガラの滝</a> / トロント(オンタリオ州)</li><li><a href="https://jp-keepexploring.canada.travel/places-to-go/prince-edward-island" rel="noreferrer noopener" target="_blank">赤毛のアン</a> / プリンセスエドワード島</li></ul></div>
+<h2 className="wp-block-heading" id="working12">カナダでのワーキングホリデーにかかる生活費の目安</h2>
+<p>ワーキングホリデーでは語学を学びながら国の文化に触れ、働くことができます。1年間の滞在期間をどのように過ごすかは渡航者次第で、多種多様なプランを立てることができます。滞在中のよくあるプランとして、渡航から1～3カ月はホームステイをしながら語学学校に通い、4カ月目からシェアハウスなどに移り住み仕事先を探すケースがあげられます。ワーキングホリデービザで認められる就学と就労期間はそれぞれ最長6カ月の為、その期間内で収まるように計画しましょう。ワーキングホリデーでの滞在先は多くの場合でホームステイとシェアハウスに集中します。現地の一般家庭の家で一緒に生活するホームステイは3食付きの場合も多く少し家賃が高めですが、ホームステイ先はビザ申請時に語学学校と同時に申し込めるので初めての方にはおすすめです。複数人とアパートや家で共同生活するシェアハウスは家賃が比較的安価ですが自分で探さなければならないので慣れていない方にはハードルが高いかもしれません。他にも学生寮やユースホテル、1人でアパートを借りることも可能ですので、自分に合った住居を検討してみてください。カナダのワーキングホリデービザ申請時に残高証明書を提出する必要はありませんが、渡航前にカナダでの当面の滞在費用が確保できていなければいけません。ワーキングホリデービザでは現地での就労が認められますが、就労先が必ずしも見つかるとは限らないので多めに費用を用意しておくと良いでしょう。また、航空券は渡航時期により価格が大きく変動します。年末年始や夏休みは一般の旅行者も多く航空券代が高くなるので、渡航時期にこだわりが無い方はオフシーズンを選ぶことをおすすめします。</p>
+<p>例：カナダのワーキングホリデーで必要なおおよその費用(合計 約200万円)</p>
+<figure className="wp-block-table"><table><tbody><tr><td>ビザ取得代金</td><td>約3万円(IEC登録料、ビザ申請料、指紋登録料)</td></tr><tr><td>航空券(往復)</td><td><strong>バンクーバー</strong> : 東京発着 14万円、大阪発着 14万円、福岡発着 12万円、札幌発着 16万円<br /><strong>トロント</strong> : 東京発着 15万円、大阪発着 15万円、福岡発着 16万円、札幌発着 16万円<br /><strong>モントリオール</strong> : 東京発着 10万円、大阪発着 15万円、福岡発着 17万円、札幌発着 16万円</td></tr><tr><td>海外旅行保険(1年間)</td><td>約5～15万円</td></tr><tr><td>語学学校(1カ月)</td><td>約10万円</td></tr><tr><td>家賃(1年間)</td><td>シェアハウス　約60万円、ホームステイ　約90万円</td></tr><tr><td>生活費(1年間)</td><td>約50万円(交通費、食費、交際費、携帯代など)</td></tr></tbody></table></figure>
+<p></p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

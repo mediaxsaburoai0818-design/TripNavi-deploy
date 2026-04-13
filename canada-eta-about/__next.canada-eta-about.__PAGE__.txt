@@ -1,0 +1,164 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T619e,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダの電子渡航認証eTA(イータ)とは：eTA Online Center</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダの電子渡航認証eTA(イータ)とは：eTA Online Center</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading"> eTA(イータ)とは </h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#service1">カナダの電子渡航認証eTA(イータ)</a></li>
+<li><a className="ez-toc-link" href="#service2">カナダのビザ免除国・地域一覧</a></li>
+<li><a className="ez-toc-link" href="#service3">カナダ渡航当日の流れ</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#service4">1. 飛行機に搭乗する</a></li>
+<li><a className="ez-toc-link" href="#service5">2. カナダへ到着</a></li>
+<li><a className="ez-toc-link" href="#service6">3. キオスクのレシートを係員へ提出</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#service7">eTA(イータ)申請方法について</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#service8">eTA(イータ)申請の際に用意するもの</a></li>
+<li><a className="ez-toc-link" href="#service9">eTA(イータ)申請確認方法</a></li>
+<li><a className="ez-toc-link" href="#service10">eTA(イータ)の問い合わせについて</a></li>
+<li><a className="ez-toc-link" href="#service11">メールが届かない場合の対処法</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#service12">ビザが必要な方について</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#service13">ビザが必要な国・地域一覧</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#service14">eTA(イータ)申請のサービス内容について</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#service15">eTA(イータ)申請料金</a></li>
+<li><a className="ez-toc-link" href="#service16">利用可能なクレジットカード</a></li>
+</ul></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="カナダの電子渡航認証eTA(イータ)とは：eTA Online Center" className="img_big m20-t m20-b" height="360" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p03_01.webp" type="image/webp" width="640"/>
+<img alt="カナダの電子渡航認証eTA(イータ)とは：eTA Online Center" className="img_big m20-t m20-b" decoding="async" height="360" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p03_01.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="service1">カナダの電子渡航認証eTA(イータ)</h2>
+<p><a className="link-no-color aioseop-link" href="http://xs640823.xsrv.jp/eta/">eTA(イータ)</a>とはカナダに入国する際に外国人渡航者が取得しなければならない渡航認証です。<br />日本を含むビザ免除プログラムに該当する国籍の方のみが申請することができ、カナダへの渡航前にオンラインにて申請することが可能です。同様の渡航認証システムでオーストラリア入国時に必要となる電子渡航認証ETAS(イータス)も“ETA”と表記されることがありますが、eTA(イータ)とは異なりますので申請時に混同しないようご注意ください。 <br />eTA(イータ)はテロや不法滞在を未然に防ぐ策の一環として設けられた制度で、既にアメリカで導入されているESTA(エスタ)を参考にして2016年より取得制度を開始しました。飛行機に搭乗する前にカナダへ入国可能であるかを確認するとともに不適格な人物が渡航することを未然に防ぐ役割を担っており、入国審査場の混雑緩和にも繋がっています。eTA(イータ)は空路(飛行機)でカナダへ入国し滞在する場合または乗り継ぎをする場合にのみ必要な認証で、バスや鉄道など陸路を経由して入国する場合は不要となります。<br />また、船舶を利用して海路でカナダへ入国する場合もeTA(イータ)申請は必要ありません。<br />eTA(イータ)は取得すると6カ月以内のカナダ滞在が許可され、滞在中は観光、出張、友人や親類宅への訪問や短期留学などが可能となります。<br />有効期限は5年間で、有効期限内には複数回の渡航が可能ですが、その間にパスポートの期限が切れてしまう場合はパスポートの有効期限日をもってeTA(イータ)も失効となりますのでご注意ください。<br />eTA(イータ)申請の有効期限についての詳細は「<a className="aioseop-link" href="http://xs640823.xsrv.jp/eta/reapplication/index.html">カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について</a>」をご確認ください。</p>
+<h2 className="wp-block-heading" id="service2">カナダのビザ免除国・地域一覧</h2>
+<p>ビザ免除国のパスポートを所有する方はビザを取得せずにeTA(イータ)申請のみでカナダへの渡航が可能となります。<br />カナダのビザ免除国は以下の国・地域が該当します。</p>
+<div className="Class_J"><p>アンドラ／オーストラリア／オーストリア／バハマ／バルバドス／ベルギー／イギリス国民(※1)イギリスの海外領土市民／ブルネイ・ダルサラーム国／ブルガリア／チリ／クロアチア／キプロス／チェコ共和国／デンマーク／エストニア／フィンランド／フランス／ドイツ／ギリシャ／(※2)香港／ハンガリー／アイスランド／アイルランド／(※3)イスラエル／イタリア／日本／大韓民国／ラトビア／リヒテンシュタイン／リトアニア／ルクセンブルク／マルタ／メキシコ／モナコ／オランダ／ニュージーランド／ノルウェー／パプアニューギニア／ポーランド／ポルトガル／(※4)ルーマニア／サモア／サンマリノ／シンガポール／スロバキア／スロベニア／ソロモン諸島／スペイン／スウェーデン／スイス／(※5)台湾／アラブ首長国連邦／アメリカ合衆国の合法的永住者／(※6)バチカン市国</p>
+<p>※1 イギリスの海外領土：アンギラ／バミューダ／イギリス領ヴァージン諸島／ケイマン諸島／フォークランド諸島(マルビナス)／ジブラルタル／モントセラト／ピトケアン島／セントヘレナ／タークス諸島およびカイコス諸島で市民権を持つもの<br />
+※2 香港特別行政区発行のパスポートが必要<br />
+※3 パスポート所持者のみ(パスポートではなく旅行書類所持者はビザを取得)<br />
+※4 電子パスポート所持者のみ(非電子パスポート所持者はビザを取得)<br />
+※5 台湾の外務省により発行された個人識別番号が記載されたパスポートが必要(該当しなければビザを取得)<br />
+※6 バチカン発行のパスポートまたは旅行書類の所持が必要</p></div>
+<picture>
+<source alt="カナダ渡航当日の流れ" className="img_big m20-t m20-b" height="360" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p03_02.webp" type="image/webp" width="640"/>
+<img alt="カナダ渡航当日の流れ" className="img_big m20-t m20-b" decoding="async" height="360" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p03_02.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="service3">カナダ渡航当日の流れ</h2>
+<p> eTA(イータ)を利用し観光などを目的として６カ月以内のカナダ滞在をする場合の手続きについてご紹介します。<br />学生ビザや就労ビザでカナダへ入国する場合には入国審査官による面接等が行われます。</p>
+<h3 className="wp-block-heading" id="service4">1. 飛行機に搭乗する</h3>
+<p>事前にeTA(イータ)を取得済みであれば飛行機への搭乗が認められます。eTA(イータ)はパスポートに取得情報がリンクされており、空港で航空会社のスタッフがパスポートをスキャンすることでeTA(イータ)の有無がチェックされます。申請番号が記載された書類等の提出は必要ありませんが、航空会社のスタッフから確認を求められるケースもありますので、eTA(イータ)番号を提示できるよう手帳などにメモをしておくことをお勧めします。</p>
+<h3 className="wp-block-heading" id="service5">2. カナダへ到着</h3>
+<p>到着後には入国審査場にて審査があります。<br />カナダの主要国際空港(10か所)ではセルフサービスで入国審査が可能な「<a href="https://www.cbsa-asfc.gc.ca/travel-voyage/pik-bip-eng.html" rel="noreferrer noopener" target="_blank">キオスク</a>」と呼ばれる端末が設置されております。<br />キオスクの設置により端末の画面操作で身元の確認や税関申告等が出来るため、入国審査の簡素化と迅速化が進んでいます。</p>
+<div className="Class_J">
+<h4>キオスクの使い方</h4>
+<p><ol><li>パスポートをスキャンする</li><li>顔写真撮影</li><li>指紋採取</li><li>税関申告書に画面上で入力</li><li>レシートを受け取る</li></ol></p>
+</div>
+<div className="Class_J">
+<h4>キオスクが設置されている空港</h4>
+<p><ul><li>バンクーバー国際空港（YVR）</li><li>カルガリー国際空港（YYC）</li><li>エドモントン国際空港（YEG）</li><li>ウィニペグリチャードソン国際空港（YWG）</li><li>ビリービショップトロントシティ空港（YTZ）</li><li>オタワ国際空港（YOW）</li><li>モントリオール-トルドー国際空港（YUL）</li><li>ケベックシティジャンレサージュ国際空港（YQB）</li><li>ハリファックススタンフィールド国際空港（YHZ）</li><li>トロントピアソン国際空港（YYZ）のターミナル3</li></ul></p>
+</div>
+<h3 className="wp-block-heading" id="service6">3. キオスクのレシートを係員へ提出</h3>
+<p>キオスクのレシートを係員へ提出しましょう。入国要件を満たしていると判断されると入国審査は終了です。<br />なお、キオスクが設置されていない空港の場合は飛行機内で出入国カードと税関申告書が配布されるため、ご記入のうえ提出をお願いします。<br />空港到着後は団体用、個人用に該当する入国審査の列に並びましょう。</p>
+<div className="Class_J">
+<h4>カナダ入国要件</h4>
+<p><ul><li>パスポート等の有効な旅行書類を所持している</li><li>心身ともに健康な状態であること</li><li>刑事上、入国管理上の有罪判決がないこと</li><li>家庭、仕事、金融資産など自国との繋がりがあること</li><li>滞在にかかる費用を賄えること</li><li>カナダから出国する予定を証明できること(帰国便のチケットなど)</li></ul></p>
+</div>
+<picture>
+<source alt="地図のカナダとスマートフォン" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p03_03.webp" type="image/webp" width="640"/>
+<img alt="地図のカナダとスマートフォン" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p03_03.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="service7">eTA(イータ)申請方法について</h2>
+<p>eTA(イータ)申請は全てオンライン上で行います。パスポート情報、渡航情報、個人情報等の必要事項を入力しクレジットカードで申請料をお支払いください。通常は申請後直ぐに渡航許可が下りますが、審査に時間がかかるケースや追加の書類の提出を求められる場合もありますので、カナダ渡航が決まりましたら早めに申請することをお勧めいたします。</p>
+<h3 className="wp-block-heading" id="service8">eTA(イータ)申請の際に用意するもの</h3>
+<ul className="wp-block-list"><li>滞在期間をカバーする有効なパスポート</li><li>申請料の支払いに使用するクレジットカードやデビットカード：ご本人名義でなくても構いません。</li><li>有効なメールアドレス：審査結果はメールにて送信されますので確実に受信可能なメールアドレスをご用意ください。</li><li>勤務先や学校の住所</li><li>航空券(eチケット)：渡航日や飛行機の時間が決定している場合には入力する必要があります。</li></ul>
+<h3 className="wp-block-heading" id="service9">eTA(イータ)申請確認方法</h3>
+<p>eTA(イータ)申請状況は<a href="https://onlineservices-servicesenligne.cic.gc.ca/eta/applicationQuery?lang=en" rel="noreferrer noopener" target="_blank">IRCC(カナダ移民・難民・市民権省)のウェブフォーム</a>より確認が可能です。確認の際はパスポート番号、<br />パスポート発行国・地域、パスポート発行日と有効期限、eTA番号(eTA number)または申請番号(Application number)を入力してください。<br />eTA番号や申請番号は申請後に送信されるメールに記載がありますのでご確認をお願いします。</p>
+<h3 className="wp-block-heading" id="service10">eTA(イータ)の問い合わせについて</h3>
+<p>申請中のeTA(イータ)についての状況は<a href="https://onlineservices-servicesenligne.cic.gc.ca/eta/applicationQuery?lang=en" rel="noreferrer noopener" target="_blank">IRCC(カナダ移民・難民・市民権省)のウェブフォーム</a>より問い合わせが可能です。<br />問い合わせ内容の種類を選択し、氏名、出生国、メールアドレスとともに問い合わせ内容を入力し送信します。<br />対応言語は英語とフランス語のみで日本語には対応しておりませんのでご了承ください。<br />IRCCにて問い合わせを確認した後、Eメールにて返答がありますので内容をご確認ください。</p>
+<h3 className="wp-block-heading" id="service11">メールが届かない場合の対処法</h3>
+<p>eTA(イータ)申請はウェブ上で完結するシステムのため許可通知等は全てEメールにて送信されますが、「メールが来ない」といったお問合せを多く頂戴します。メールが届かずお困りの方はまず次の事を確認してください。 </p>
+<ul className="wp-block-list"><li>迷惑メール設定の解除 ドコモ、au、ソフトバンクなどのキャリアメールをご利用の方は迷惑メールの設定により届かない場合がありますので設定を解除してくだい。 </li><li>迷惑メールフォルダの確認 Gmail、Yahooメールなどのフリーメールアドレスをご利用の方は迷惑メールフォルダに振り分けられている場合がありますのでフォルダを確認してください。 </li></ul>
+<h2 className="wp-block-heading" id="service12">ビザが必要な方について</h2>
+<p>以下の国籍の方はカナダのビザ免除プログラムに該当していないため、eTA(イータ)申請の対象となりません。<br />カナダへ渡航する際はビザの取得が必要となります。なお、以下の国籍の方は空路、海路、陸路いずれの手段であってもカナダへ入国する際にビザが必要となりますので、ご自身の渡航目的に合わせたビザの取得をご検討ください。<br /> カナダビザ申請センター・カナダ大使館については<a className="aioseop-link" href="http://xs640823.xsrv.jp/eta/embassy/index.html">こちら</a>をご参照ください。</p>
+<h3 className="wp-block-heading" id="service13">ビザが必要な国・地域一覧</h3>
+<ul className="contents-block__ul coulm-3-list sp-coulm-1-list"><li>アフガニスタン</li><li>アルバニア</li><li>アルジェリア</li><li>アンゴラ</li><li>アンティグアバーブーダ</li><li>アルゼンチン</li><li>アルメニア</li><li>アゼルバイジャン</li><li>バーレーン</li><li>バングラデシュ</li><li>ベラルーシ</li><li>ベリーズ</li><li>ベナン</li><li>ブータン</li><li>ボリビア</li><li>ボスニアヘルツェゴビナ</li><li>ボツワナ</li><li>(※1)ブラジル</li><li>ブルキナファソ</li><li>ミャンマー</li><li>ブルンジ</li><li>カンボジア</li><li>カメルーン共和国</li><li>カーボベルデ</li><li>中央アフリカ共和国</li><li>チャド</li><li>中華人民共和国</li><li>コロンビア</li><li>コモロ</li><li>コンゴ民主共和国</li><li>コンゴ共和国</li><li>コスタリカ共和国</li><li>キューバ</li><li>ジブチ</li><li>ドミニカ</li><li>ドミニカ共和国</li><li>東ティモール</li><li>エクアドル</li><li>エジプト</li><li>エルサルバドル</li><li>赤道ギニア共和国</li><li>エリトリア</li><li>エチオピア</li><li>フィジー</li><li>ガボン</li><li>ガンビア</li><li>ジョージア</li><li>ガーナ</li><li>グレナダ</li><li>グアテマラ</li><li>ギニアビサウ</li><li>ガイアナ</li><li>ハイチ</li><li>ホンジュラス</li><li>インド</li><li>インドネシア</li><li>イラン</li><li>イラク</li><li>イスラエル</li><li>コートジボワール</li><li>ジャマイカ</li><li>ヨルダン</li><li>カザフスタン</li><li>ケニア</li><li>キリバス</li><li>北朝鮮</li><li>コソボ</li><li>クウェート</li><li>キルギスタン</li><li>ラオス</li><li>レバノン</li><li>レソト</li><li>リベリア</li><li>リビア</li><li>マカオ特別行政区</li><li>マケドニア</li><li>マダガスカル</li><li>マラウイ</li><li>マレーシア</li><li>モルディブ諸島</li><li>マリ</li><li>マーシャル諸島</li><li>モーリタニア</li><li>モーリシャス</li><li>ミクロネシア連邦</li><li>モルドバ</li><li>モンゴル</li><li>モンテネグロ</li><li>モロッコ</li><li>モザンビーク</li><li>ナミビア</li><li>ナウル</li><li>ネパール</li><li>ニカラグア</li><li>ニジェール</li><li>ナイジェリア</li><li>オマーン</li><li>パキスタン</li><li>パラオ</li><li>パレスチナ自治政府</li><li>パナマ</li><li>パラグアイ</li><li>ペルー</li><li>フィリピン</li><li>カタール</li><li>ルーマニア</li><li>ロシア</li><li>ルワンダ</li><li>サントメプリンシペ</li><li>サウジアラビア</li><li>セネガル</li><li>セルビア</li><li>セイシェル</li><li>シエラレオネ</li><li>ソマリア</li><li>南アフリカ</li><li>南スーダン</li><li>スリランカ</li><li>セントクリストファーネイビス</li><li>セントルシア</li><li>セントビンセント・グレナディーン</li><li>スーダン</li><li>スリナム</li><li>スワジランド</li><li>シリア</li><li>タジキスタン</li><li>タンザニア</li><li>トーゴ</li><li>トンガ</li><li>トリニダード・トバゴ</li><li>チュニジア</li><li>トルコ</li><li>トルクメニスタン</li><li>ツバル</li><li>ウガンダ</li><li>ウクライナ</li><li>ウルグアイ</li><li>ウズベキスタン</li><li>バヌアツ</li><li>ベネズエラ</li><li>ベトナム</li><li>イエメン</li><li>ザンビア</li><li>ジンバブエ</li><li>ギニア</li><li>タイ</li></ul>
+<p style="padding-left:20px;">※1 一定の条件を満たしていればeTAを申請できる可能性あり</p>
+<h2 className="wp-block-heading" id="service14">eTA(イータ)申請のサービス内容について</h2>
+<p>eTA online centerではお客様に代わり、分かりにくいeTA(イータ)申請の複雑な作業を代行いたします。カナダ移民・難民・市民権局(IRCC)でのeTA(イータ)申請作業には様々な入力項目があり回答には英語またはフランス語での入力が必要ですが、当サイトではすべて日本語にてサポートいたします。カナダ渡航に不慣れな方や入力に不安がある方へ専門知識を兼ね備えたスタッフが迅速かつ丁寧にアドバイスさせていただきます。eTA(イータ)申請は365日24時間体制で受け付けておりますのでスピーディーな申請手続きが可能です。</p>
+<ul className="wp-block-list"><li>PC、スマートフォン、タブレット端末の各デバイスでのアクセスに対応</li><li> 365日24時間でのサポート体制</li><li> IRCCサイトのメンテナンス発生時にもリトライ申請可能</li><li> 申請手続き時に発生したトラブルやイレギュラー発生時の解決をサポート</li><li> お問合せは何度でも無料、質問・回答ともに日本語にて対応</li><li> 申請結果を日本語によるメールにて通知</li><li> 申請内容や決済状況がサイト上で常時照会可能</li><li> 登録内容のお間違え修正は無料対応</li></ul>
+<h3 className="wp-block-heading" id="service15">eTA(イータ)申請料金</h3>
+<p>申請情報入力後、クレジットカード決済画面が表示されますのでフォームに従って内容を入力してください。<br />カナダ移民・難民・市民権局(IRCC)申請料(7C$) + 申請代行サービス料 = 7,200円(税込7,920円)<br />以下のクレジットカードでお支払いが可能です。</p>
+<h3 id="service16">利用可能なクレジットカード</h3>
+<div className="Class_ZZ">
+<div className="Class_ZZ_Cards">
+<div className="Class_ZZ_Cards_Card">
+<img alt="VISA" className="Class_ZZ_Cards_Card_img Class_ZZ_Cards_Card_img_VISA" decoding="async" src="/wp-content/themes/eta/images/cards_visa.svg"/>
+</div>
+<div className="Class_ZZ_Cards_Card">
+<img alt="Master Card" className="Class_ZZ_Cards_Card_img Class_ZZ_Cards_Card_img_Master" decoding="async" src="/wp-content/themes/eta/images/cards_master_card.svg"/>
+</div>
+<div className="Class_ZZ_Cards_Card">
+<img alt="JCB" className="Class_ZZ_Cards_Card_img Class_ZZ_Cards_Card_img_JCB" decoding="async" src="/wp-content/themes/eta/images/cards_jcb.svg"/>
+</div>
+<div className="Class_ZZ_Cards_Card">
+<img alt="Diners" className="Class_ZZ_Cards_Card_img Class_ZZ_Cards_Card_img_Diners" decoding="async" src="/wp-content/themes/eta/images/cards_diners_club.png"/>
+</div>
+<div className="Class_ZZ_Cards_Card">
+<img alt="American Express" className="Class_ZZ_Cards_Card_img Class_ZZ_Cards_Card_img_American" decoding="async" src="/wp-content/themes/eta/images/cards_american_express.png"/>
+</div>
+</div>
+</div>
+<p></p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

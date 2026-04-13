@@ -1,0 +1,283 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3448,<div className="page-layout">
+    <main className="page-main">
+      <div className="breadcrumb">
+        <a href="index.html">ホーム</a> ＞ 
+        <a href="country-canada.html">カナダ</a> ＞ 
+        <a href="#visa-info">渡航ノウハウ</a> ＞ 
+        カナダeTAの申請方法
+      </div>
+
+      <article className="article-detail">
+        <span className="card-tag">カナダ渡航ノウハウ</span>
+        <h1>カナダeTA（電子渡航認証）の申請方法を解説！</h1>
+        <div className="article-meta">
+          <span className="meta-date">更新日：2026年03月31日</span>
+        </div>
+
+        <div className="content">
+          
+          <div className="article-toc">
+            <h4 className="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">カナダeTA（電子渡航認証）とは？</a></li>
+                <li><a href="#section2">カナダeTA申請に必要な書類・情報</a></li>
+                <li><a href="#section3">カナダeTA申請の流れ</a></li>
+                <li><a href="#section4">よくある質問</a></li>
+                <li><a href="#section5">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          
+          <p>カナダへ空路で渡航する際には、<strong>eTA（電子渡航認証）</strong>の取得が必要です。この記事では、カナダeTAの概要と、13ステップの詳細な申請方法を解説します。</p>
+
+          
+          <h2 id="section1">カナダeTA（電子渡航認証）とは？</h2>
+          <p><strong>eTA（Electronic Travel Authorization）</strong>は、ビザ免除対象国が<strong>空路で</strong>カナダへ渡航する際に必要となる電子渡航認証です。</p>
+
+          <div className="info-box">
+            <h4>📌 カナダeTAの特徴</h4>
+            <ul>
+              <li><strong>対象:</strong> 空路でのカナダ入国（観光、短期商用、トランジット）</li>
+              <li><strong>滞在期間:</strong> 1回の入国につき最長6か月以内</li>
+              <li><strong>申請料金:</strong> 7カナダドル</li>
+              <li><strong>有効期間:</strong> 発行日から最長5年間（パスポート有効期限まで）</li>
+              <li><strong>複数回入国:</strong> 有効期間内であれば何度でも入国可能</li>
+              <li><strong>紐づけ:</strong> パスポート情報と電子的に紐づけ</li>
+            </ul>
+          </div>
+
+          <div className="warn-box">
+            <h4>⚠️ 注意</h4>
+            <p>陸路・海路での入国はeTA対象外です。空路での入国時のみ必要となります。</p>
+          </div>
+
+          
+          <h2 id="section2">カナダeTA申請に必要な書類・情報</h2>
+          
+          <div className="info-box">
+            <h4>📋 必要な書類</h4>
+            <ul>
+              <li><strong>パスポート</strong>（ICチップ付き、有効期限内）</li>
+              <li><strong>クレジットカードまたはデビットカード</strong>（支払い用）</li>
+              <li><strong>メールアドレス</strong>（送受信可能）</li>
+            </ul>
+          </div>
+
+          <div className="info-box">
+            <h4>📝 必要な情報</h4>
+            <ul>
+              <li>パスポート情報（番号、発行日、有効期限、発行国）</li>
+              <li>個人情報（氏名、生年月日、電話番号、現住所）</li>
+              <li>渡航目的（観光、商用、乗り継ぎ等）</li>
+              <li>カナダでの滞在先情報（ホテル名・住所等）</li>
+              <li>職業および雇用に関する情報</li>
+              <li>感染症歴や犯罪歴の有無</li>
+            </ul>
+          </div>
+
+          
+          <h2 id="section3">カナダeTA申請の流れ</h2>
+          <p>カナダeTAの申請は、以下の13ステップで完了します。</p>
+
+          <h3>1. カナダ政府の公式ウェブサイトへアクセス</h3>
+          <p>IRCC（カナダ移民・難民・市民権省）の公式サイトにアクセスします。言語は英語またはフランス語を選択します。</p>
+
+          <h3>2. 申請者の選択</h3>
+          <p>代理申請か本人申請かを選択します。未成年者の場合は、親または保護者が代理申請を行います。</p>
+
+          <h3>3. 申請者情報の入力</h3>
+          <ul>
+            <li>渡航文書: パスポート（ordinary/regular）</li>
+            <li>国コード: <strong>JPN</strong></li>
+            <li>国籍: <strong>Japan</strong></li>
+          </ul>
+
+          <h3>4. パスポート情報の入力</h3>
+          <p>以下の情報を入力します：</p>
+          <ul>
+            <li>パスポート番号</li>
+            <li>国籍</li>
+            <li>姓名</li>
+            <li>生年月日</li>
+            <li>性別</li>
+            <li>出生国・地域</li>
+            <li>出生市町村</li>
+            <li>発行日</li>
+            <li>有効期限</li>
+          </ul>
+
+          <h3>5. 個人情報の入力</h3>
+          <ul>
+            <li>二重国籍の有無</li>
+            <li>婚姻状況</li>
+            <li>カナダ渡航歴</li>
+            <li>職業</li>
+          </ul>
+
+          <h3>6. 職業情報の入力</h3>
+          <p>職業カテゴリを選択します：</p>
+          <ul>
+            <li>芸術</li>
+            <li>金融</li>
+            <li>教育</li>
+            <li>保健医療</li>
+            <li>主婦/主夫</li>
+            <li>経営管理</li>
+            <li>退職者</li>
+            <li>学生</li>
+            <li>無職　等</li>
+          </ul>
+          <p>また、職業名、所属先、所在国・市町村、就業・就学開始年を入力します。</p>
+
+          <h3>7. 連絡先情報（メールアドレス・現住所）の入力</h3>
+          <p>メールアドレスと現住所を入力します。住所は<strong>アルファベット表記</strong>で、<strong>小さい単位から大きい単位へ</strong>記入します（日本語と逆順）。</p>
+
+          <h3>8. 渡航情報の入力</h3>
+          <p>渡航予定日と航空便情報を入力します。航空便が未確定でも申請可能です。</p>
+
+          <h3>9. 犯罪歴に関する設問への回答</h3>
+          <p>以下の質問に回答します：</p>
+          <ul>
+            <li>ビザ却下・入国拒否・退去命令歴の有無</li>
+            <li>犯罪・逮捕・起訴・有罪判決歴の有無</li>
+          </ul>
+
+          <h3>10. 健康状態に関する設問への回答</h3>
+          <p>以下の質問に回答します：</p>
+          <ul>
+            <li>結核診断・濃厚接触歴の有無</li>
+            <li>梅毒、薬物・アルコール依存症、精神疾患の有無</li>
+          </ul>
+
+          <h3>11. 申請内容および同意事項の確認</h3>
+          <p>最終確認を行い、個人情報取り扱いと真実性宣誓に同意します。署名欄にはパスポート記載の氏名を入力します。</p>
+
+          <h3>12. 申請料金の支払い</h3>
+          <p><strong>7カナダドル</strong>をクレジットカードまたはデビットカードで支払います。</p>
+
+          <h3>13. 申請完了</h3>
+          <p>申請受付確認メールを受領します。審査結果は通常<strong>72時間以内</strong>に通知されます。混雑時や追加確認が必要な場合は、数日かかることもあります。</p>
+
+          
+          <h2 id="section4">よくある質問</h2>
+
+          <div className="faq-item">
+            <h3>Q1: カナダに入国するにはeTAが必要ですか？</h3>
+            <p><strong>A:</strong> 航空機でカナダに入国または乗り継ぎをする場合、<strong>eTA必須</strong>です。eTA未取得の場合、チェックイン拒否や入国拒否の可能性があります。</p>
+            <p>ただし、以下の場合はeTA不要です：</p>
+            <ul>
+              <li>陸路・海路での入国</li>
+              <li>有効なカナダビザを所持している場合</li>
+            </ul>
+          </div>
+
+          <div className="faq-item">
+            <h3>Q2: カナダのeTAは何日前までに申請すればいいですか？</h3>
+            <p><strong>A:</strong> 審査結果の通知は数分以内〜72時間以内ですが、追加確認が必要な場合や混雑期には数日以上かかることがあります。<strong>渡航日の1〜2週間前まで</strong>に申請することを推奨します。出発直前の申請はリスクが高いです。</p>
+          </div>
+
+          <div className="faq-item">
+            <h3>Q3: eTA申請はどれくらいかかる？</h3>
+            <p><strong>A:</strong> 申請手続き自体は<strong>数分〜数十分程度</strong>です。選択式の質問が多いため、比較的スムーズに進みます。審査結果は数分〜最大72時間で通知されます。</p>
+          </div>
+
+          
+          <h2 id="section5">まとめ</h2>
+          <p>カナダeTA（電子渡航認証）は、ビザ免除対象国が空路でカナダへ短期滞在する際に必要な電子渡航認証です。料金は<strong>7カナダドル</strong>、有効期間は<strong>5年間</strong>です。</p>
+
+          <p>オンラインで申請可能で、入力ミスや虚偽申告は承認遅延や入国拒否の可能性があります。渡航日の<strong>1〜2週間前まで</strong>に申請することを推奨します。</p>
+
+          <div className="info-box">
+            <h4>✅ カナダeTA申請のポイント</h4>
+            <ul>
+              <li>空路でのカナダ入国時に必須</li>
+              <li>申請料金: 7カナダドル</li>
+              <li>有効期間: 5年間（パスポート有効期限まで）</li>
+              <li>申請推奨: 渡航日の1〜2週間前</li>
+              <li>審査時間: 数分〜最大72時間</li>
+              <li>複数回入国可能（有効期間内）</li>
+              <li>1回の滞在: 最長6か月</li>
+              <li>陸路・海路での入国は対象外</li>
+            </ul>
+          </div>
+        </div>
+
+        
+        <div className="related-articles">
+          <h3 className="related-title">関連記事</h3>
+          <div className="related-grid">
+            <a href="canada-eta-about.html" className="related-card">
+              <div className="related-card-body">
+                <span className="related-card-tag">カナダeTA</span>
+                <h3>カナダの電子渡航認証eTA（イータ）とは</h3>
+              </div>
+            </a>
+            
+            <a href="usa-esta-application.html" className="related-card">
+              <div className="related-card-body">
+                <span className="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
+              </div>
+            </a>
+            
+            <a href="uk-eta-application.html" className="related-card">
+              <div className="related-card-body">
+                <span className="related-card-tag">イギリス渡航ノウハウ</span>
+                <h3>イギリスETAとは？申請方法を解説</h3>
+              </div>
+            </a>
+            
+            <a href="australia-etas-about.html" className="related-card">
+              <div className="related-card-body">
+                <span className="related-card-tag">オーストラリア</span>
+                <h3>ETAS（イータス）とは - オーストラリア観光ビザ</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    
+    <aside className="sidebar">
+      <div className="sidebar-section">
+        <h3 className="sidebar-title">人気記事ランキング</h3>
+        <ol className="sidebar-ranking">
+          <li>
+            <a href="canada-eta-about.html">
+              <span className="rank-num">1</span>
+              <div className="rank-info">
+                <span className="rank-tag">カナダeTA</span>
+                <div className="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="australia-etas-about.html">
+              <span className="rank-num">2</span>
+              <div className="rank-info">
+                <span className="rank-tag">オーストラリア</span>
+                <div className="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="usa-esta-application.html">
+              <span className="rank-num">3</span>
+              <div className="rank-info">
+                <span className="rank-tag">USA ESTA</span>
+                <div className="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

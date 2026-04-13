@@ -1,0 +1,128 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","australia-rugby",""],"q":"","i":false,"f":[[["",{"children":["australia-rugby",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T4b88,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オーストラリアでプレーされるラグビーの種類や環境について</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>オーストラリアでプレーされるラグビーの種類や環境について</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">オーストラリアでプレーされるラグビーの種類や環境について</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1">
+<li><a className="ez-toc-link" href="#rugby1">オーストラリアといえばラグビー</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#rugby2">ワラビーズの国際大会の戦績</a></li>
+<li><a className="ez-toc-link" href="#rugby3">スーパーラグビー(スーパー14)とは</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#rugby4">ラグビーユニオンとラグビーリーグとは</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#rugby5">オーストラリアのラグビーの種類</a></li>
+<li><a className="ez-toc-link" href="#rugby6">ラグビーユニオンとラグビーリーグの違い</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#rugby7">オーストラリアのラグビー環境</a></li>
+<li><a className="ez-toc-link" href="#rugby8">オーストラリア入国・渡航にはETAS(イータス)の事前申請が必要です</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="オーストラリアでプレーされるラグビーの種類や環境について" className="img_big m20-t m20-b lazyloaded" height="426" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/25kDV2aa2HGdzwc16238229621.webp" type="image/webp" width="640"/>
+<img alt="オーストラリアでプレーされるラグビーの種類や環境について" className="img_big m20-t m20-b" decoding="async" height="426" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/3bab7612448901cd298388c14c72bc7c.jpg" width="640"/>
+</picture>
+<p>2019年のワールドカップ開催により日本でも人気が高まったラグビーの強豪国として知られるオーストラリア。ラグビーが誕生したイギリスの植民地であったことも影響し、18世紀頃にはオーストラリアでプレーされるようになりました。ラグビーは今もなお国内で広く親しまれ、地域のスポーツクラブや高校の授業で行われる人気スポーツのひとつです。こちらのページではオーストラリアにおけるラグビーの歴史や種類、国内のラグビー環境について解説します。</p>
+<h2 className="wp-block-heading" id="rugby1">オーストラリアといえばラグビー</h2>
+<p>オーストラリアはラグビーの世界3大大会のひとつ、<a href="https://www.rugbyworldcup.com/" rel="noreferrer noopener" target="_blank">ラグビーワールドカップ</a>(W杯)で2度の優勝経験がある強豪国です。国内ではW杯でお馴染みの15人制ラグビー“ラグビーユニオン”と13人制の“ラグビーリーグ”と呼ばれる2種が行われ、ラグビーユニオン代表は「ワラビーズ」、ラグビーリーグ代表は「カンガルーズ」と呼ばれ親しまれています。<br />ラグビーは1820年にサッカーを起源としてイギリスで発祥したスポーツです。イギリスで盛んとなったラグビーは植民地のオーストラリアへ徐々に広まり、1864年にはシドニー大学で国内最初のラグビークラブが誕生しました。1900年代後半にはニューサウスウェールズ州とクイーンズランド州でラグビー協会が発足。現在もオーストラリア代表のライバルチームとして知られるニュージーランドの“オールブラックス”やラグビーの母国となるイギリスの “ブリティッシュ・ライオンズ”との試合が行われるようになりました。<br />1908年にはオーストラリア代表チームが初の海外遠征を実施しましたが、遠征時にイギリスの報道機関は代表チームを害獣とされるウサギになぞらえた「the Rabbits (ラビッツ)」と称して新聞に掲載。オーストラリア代表チームはこの名前が蔑称に値すると主張し、自らを国の固有種“ワラビー”から命名した「the Wallabies(ワラビーズ)」と名乗るようになります。オーストラリア代表チーム“ワラビーズ”は遠征中に行われたツアーマッチで39試合中33試合の勝利を収め、同年に開催されたロンドンオリンピックでは金メダルを獲得しました。<br />1948年、オーストラリアは国際ラグビー連盟IRB(International Rugby Board)に加盟し、南アフリカやアイルランド、フランスなどラグビー強豪国とも試合を行うようになります。1995年以降はオーストラリア、ニュージーランド、南アフリカの3か国で現在の<a href="https://super.rugby/therugbychampionship/" rel="noreferrer noopener" target="_blank">チャンピオンシップ</a>や<a href="https://super.rugby/superrugby/" rel="noreferrer noopener" target="_blank">スーパーラグビー</a>の前進となる大会「トライネーションズ」や「スーパー12」を開催。1987年にはニュージーランドと共同で第1回ラグビーワールドカップ(W杯)を立ち上げ、オーストラリアは1991年、1999年のW杯で優勝を飾りました。2021年現在、W杯で2回の優勝を記録する国はオーストラリアと南アフリカの2か国のみです。強豪国のひとつとなるオーストラリアは今日まで世界のラグビー業界を牽引し続けています。</p>
+<h3 className="wp-block-heading" id="rugby2">ワラビーズの国際大会の戦績</h3>
+<ul className="wp-block-list"><li>1908年 ロンドンオリンピック 優勝</li><li>1934年 ブレディスローカップ 優勝</li><li>1949年 ブレディスローカップ 優勝</li><li>1979年 ブレディスローカップ 優勝</li><li>1980年 ブレディスローカップ 優勝</li><li>1986年 ブレディスローカップ 優勝</li><li>1987年 ラグビーワールドカップ(オーストラリア・ニュージーランド大会) 4位</li><li>1991年 ラグビーワールドカップ(イギリス・アイルランド・フランス大会) 優勝</li><li>1992年 ブレディスローカップ 優勝</li><li>1994年 ブレディスローカップ 優勝</li><li>1995年 ラグビーワールドカップ(南アフリカ大会) ベスト8</li><li>1998年 ブレディスローカップ 優勝</li><li>1999年 ラグビーワールドカップ(ウェールズ大会) 優勝、ブレディスローカップ 優勝</li><li>2000年 トライネーションズ 優勝、ブレディスローカップ 優勝</li><li>2001年 トライネーションズ 優勝、ブレディスローカップ 優勝</li><li>2002年 ブレディスローカップ 優勝</li><li>2003年 ラグビーワールドカップ(オーストラリア大会) 2位</li><li>2007年 ラグビーワールドカップ(フランス大会) ベスト8</li><li>2011年 ラグビーワールドカップ(ニュージーランド大会) 3位、トライネーションズ 優勝</li><li>2015年 ラグビーワールドカップ(イングランド大会) 2位、ラグビーチャンピオンシップ 優勝 </li><li>2019年 ラグビーワールドカップ(日本大会) ベスト8</li></ul>
+<h3 className="wp-block-heading" id="rugby3">スーパーラグビー(スーパー14)とは</h3>
+<p><a href="https://super.rugby/superrugby/" rel="noreferrer noopener" target="_blank">スーパーラグビー</a>(スーパー14)は南半球に位置するオーストラリア、ニュージーランド、南アフリカ、アルゼンチンの4か国から選ばれた地域代表14チームで行うリーグ戦です。オーストラリアからはキャンベラを本拠地とする「<a href="https://brumbies.rugby/" rel="noreferrer noopener" target="_blank">ブランビーズ</a>(BRUMBIES)」、パースの「<a href="https://www.westernforce.com.au/" rel="noreferrer noopener" target="_blank">ウェスタン・フォース</a>(WESTERN FORCE)」、シドニーの「<a href="https://nsw.rugby/teams/nsw-waratahs" rel="noreferrer noopener" target="_blank">ワラターズ</a>(NSW WARATAHS)」、メルボルンの「<a href="https://melbournerebels.rugby/" rel="noreferrer noopener" target="_blank">レベルズ</a>(MELBOURNE REBELS)」、ブリスベンの「<a href="https://reds.rugby/" rel="noreferrer noopener" target="_blank">レッズ</a>(QUEENSLAND REDS)」が出場。オーストラリアの出場チーム「ブランビーズ」は2001年と2004年、「レッズ」は2011年、「ワラターズ」は2014年に優勝を果たしています。</p>
+<h4 className="wp-block-heading">スーパーラグビー参加チーム</h4>
+<div className="Class_J">
+<h4>オーストラリア</h4>
+<p>ブランビーズ(BRUMBIES)、ウェスタン・フォース(WESTERN FORCE)、ワラターズ(NSW WARATAHS)、レベルズ(MELBOURNE REBELS)、レッズ(QUEENSLAND REDS)</p>
+</div>
+<div className="Class_J">
+<h4>ニュージーランド</h4>
+<p>ブルーズ(BLUES)、チーフス(CHIEFS)、クルセイダーズ(CRUSADERS)、ハイランダーズ(HIGHLANDERS)、ハリケーンズ(HURRICANES)</p>
+</div>
+<div className="Class_J">
+<h4>南アフリカ共和国</h4>
+<p>ブルズ(BULLS)、ストーマーズ(STORMERS)、ライオンズ(LIONS)、シャークス(SHARKS)</p>
+</div>
+<div className="Class_J">
+<h4>アルゼンチン</h4>
+<p>ジャガーズ(JAGUARES)</p>
+</div>
+<h2 className="wp-block-heading" id="rugby4">ラグビーユニオンとラグビーリーグとは</h2>
+<p>ラグビーにはラグビーユニオンとラグビーリーグの2種類があり、オーストラリアでは両方のラグビーが広く親しまれています。これらは元々同じルールで試合が行われていましたが、チーム人数やルールなどが徐々に変わっていきました。それぞれ独自の特徴を持つ“ラグビーユニオン”と“ラグビーリーグ”について解説します。</p>
+<h3 className="wp-block-heading" id="rugby5">オーストラリアのラグビーの種類</h3>
+<p>オーストラリアではラグビーユニオン、ラグビーリーグという2種類のラグビーが行われます。チーム人数やルールが異なり、W杯で行われる15人制のラグビーは“ラグビーユニオン”に分類されます。国内では両者共に広くプレーされていますが、もうひとつのラグビー“ラグビーユニオン”はクイーンズランド州やニューサウスウェールズ州で特に人気があります。<br />また、オーストラリアではラグビーと同じような楕円状のボールを使う競技“オーストラリアンフットボール”も盛んです。オーストラリアンフットボールはオーストラリア固有のスポーツで、国内人気No.1を誇ります。ラグビー(ラグビーユニオン/ラグビーリーグ)とオーストラリアンフットボールはプレー内容に似ている点があることから、近年ではオーストラリアンフットボールからラグビーへ転向する選手も多く見られます。</p>
+<h3 className="wp-block-heading" id="rugby6">ラグビーユニオンとラグビーリーグの違い</h3>
+<p>ラグビーユニオンとラグビーリーグの誕生は1895年にラグビー発祥の地、イギリスでラグビー協会が二分されたことが発端となります。仕事を休んで試合に出場する選手の休業補償の支払いが論点となり、休業保障を認めた北部地域はラグビーをプロスポーツとして容認する「ラグビーリーグ」を設立。保障を認めず、アマチュア主義を主張した南部地域は「ラグビーユニオン」を立ち上げます。両者の対立は長期に渡り続きましたが、W杯開催などをきっかけにラグビーユニオンが1995年にプロを容認したことから対立状態は緩和されました。<br />当初、ラグビーユニオンとラグビーリーグは同じルールを適用していましたが、プロスポーツ化にあたりラグビーリーグはルールを徐々に変更しました。現在は選手の怪我の回避とスピーディな試合進行を目的としたルールへ変わっています。W杯などで見ることができる“ラグビーユニオン”は1チーム15人、スクラムやタックルなど選手の激しいぶつかり合いや密集戦が多く発生しますが、“ラグビーリーグ”は1チームを13人に設定し、ラックやモール、ラインアウトといった激しい密集戦を伴うプレーを廃止。タックルは攻撃のひとつとして行われますが回数が制限されます。また、スクラムに関しては試合開始時の形式的な型として行います。ボールを奪い合う攻撃として行うものではないため、両チームが体を押し合うことはありません。激しいプレーが魅力のひとつとなるラグビーユニオンですが、W杯では危険なタックルを行う選手が退場となるケースが発生しています。近年ではラグビーユニオンの国際競技連盟“ワールドラグビー(WR)”がタックルの判定基準を厳しくするなどの措置をとり、選手の安全を優先とした環境づくりに取り組んでいます。</p>
+<h2 className="wp-block-heading" id="rugby7">オーストラリアのラグビー環境</h2>
+<p>オーストラリアでは15人制のラグビーユニオン、13人制のラグビーリーグと2種類のラグビーが行われます。中でもラグビーユニオンのオーストラリア代表“ワラビーズ”は世界三大大会となるワールドカップで2度の優勝経験を持つ強豪チームとして有名です。また、日本ではあまり聞き馴染みのないラグビーリーグですが、30か国以上で行われる人気競技で1954年からはラグビーユニオンと同様にワールドカップ(<a href="https://www.rlwc2021.com/" rel="noreferrer noopener" target="_blank">ラグビーリーグ・ワールドカップ</a>)が開催されています。オーストラリアは過去15回行われたラグビーリーグ・ワールドカップでも11回の優勝を収める強豪国として知られます。<br />オーストラリア国内で広く親しまれるラグビーですが、西オーストラリア州では特に高い人気を誇ります。2006年にオーストラリア、ニュージーランド、南アフリカの地域代表12チームで行われるラグビーユニオンのリーグ戦“スーパー12”(現在のスーパーラグビーの前進となる大会)へパースのチーム“ウェスタン・フォース/Western Force”の加入が決定した理由のひとつは州内におけるラグビー人気の高さだと言われています。西オーストラリア州のラグビーユニオンは1月からプレシーズンが始まり、4月から9月までが公式シーズンとなります。シーズン中は地域内のラグビーチームで7人制ラグビー“セブンズ(7’s)”の大会が開かれることもあります。また、攻撃時のタックルを安全なタッチに置き換えた“タッチラグビー”もよくプレーされています。タッチラグビーはオーストラリアのラグビー選手のウォーミングアップから生まれた簡易版のラグビーです。チームの練習メニューとして行われるほか、地域のスポーツセンターでは男女混合チームによるリーグ戦が開催されることもあり、オーストラリアでは色々な形でラグビーが楽しまれています。</p>
+<h2 className="wp-block-heading" id="rugby8">オーストラリア入国・渡航にはETAS(イータス)の事前申請が必要です</h2>
+<p>旅行や出張、会議出席などでオーストラリアへ短期滞在する際は渡航前にETAS(イータス)申請を行う必要があります。ETAS(イータス)はオーストラリア政府が管轄する電子渡航認証制度です。日本、韓国、香港、アメリカ、カナダ、シンガポール、マレーシア、ブルネイの国籍を持つ方はETAS(イータス)をオンラインで申請することが出来ます。ETAS(イータス)申請が承認された方はビザなしでオーストラリアへ渡航することが認められますが、滞在期間は1度の渡航につき3か月以内に限られます。3か月以上の長期滞在や就労、留学を目的として渡航される方はETAS(イータス)ではなく、ビザの取得をご検討ください。<br />ETAS(イータス)の詳細は「<a href="http://xs640823.xsrv.jp/etas/service/index.html">オーストラリア観光ビザのETAS(イータス)とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="australia-etas.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"オーストラリアでプレーされるラグビーの種類や環境について | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

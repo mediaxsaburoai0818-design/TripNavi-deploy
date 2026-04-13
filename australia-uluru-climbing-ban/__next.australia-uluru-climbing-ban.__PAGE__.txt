@@ -1,0 +1,88 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3675,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ ウルル/エアーズロックが登山禁止の理由とは</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>ウルル/エアーズロックが登山禁止の理由とは</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">ウルル/エアーズロックが登山禁止の理由とは</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1">
+<li><a className="ez-toc-link" href="#ayersrock1">ウルル/エアーズロックは先住民の聖地</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#ayersrock1-1">アボリジニにおけるウルルとは</a></li>
+<li><a className="ez-toc-link" href="#ayersrock1-2">観光地としてのウルルと登山禁止への動き</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#ayersrock2">アボリジニと迫害の歴史</a></li>
+<li><a className="ez-toc-link" href="#ayersrock3">撮影が禁止されている場所</a></li>
+<li><a className="ez-toc-link" href="#ayersrock4">ウルル＝カタ・ジュタ国立公園へのアクセス</a></li>
+<li><a className="ez-toc-link" href="#ayersrock5">オーストラリアへ渡航する際は早めにETAS(イータス)の申請をお願いします</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="オーストラリアのエアーズロック" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/7UWhWKcNrj2qTdS1633345957_1633345986.webp" type="image/webp" width="640"/><img alt="オーストラリアのエアーズロック" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/7UWhWKcNrj2qTdS1633345957_1633345986.jpg" width="640"/>
+</picture>
+<p>オーストラリア内陸部に横たわる巨大な一枚岩”ウルル/エアーズロック”は、その雄大な姿を見に世界中から観光客が訪れる人気の観光スポットです。アウトバックと呼ばれる広大な乾燥地帯の眺望を求め、かつては高さ300mを超える岩山に多くの観光客が登りました。しかし、この地を聖地とする<a href="http://xs640823.xsrv.jp/etas/indigenouspeople/index.html">アボリジニ(先住民)</a>の文化に対する敬意と安全性の観点から、ウルル/エアーズロックでの登山は2019年10月26日より禁止となりました。このページではウルル/エアーズロックをアボリジニの歴史とともに紹介します。</p>
+<h2 className="wp-block-heading" id="ayersrock1">ウルル/エアーズロックは先住民の聖地</h2>
+<h3 className="wp-block-heading" id="ayersrock1-1">アボリジニにおけるウルルとは</h3>
+<p>エアーズロックは<a href="http://xs640823.xsrv.jp/etas/news/detail/alicesprings.html">ノーザンテリトリー(北部準州)</a>の<a href="https://parksaustralia.gov.au/uluru/" rel="noreferrer noopener" target="_blank">ウルル＝カタ・ジュタ国立公園</a>にあります。イギリスによるオーストラリア入植が行われた1873年に探検家ウィリアム・ゴスが発見し、当時の南オーストラリア総督ヘンリー・エアーズにちなんで名付けられました。現在はアボリジニの言葉で「偉大な石」を意味する伝統的な名称が正式に採用され”ウルル”と呼ばれます。<br />ウルルがあるオーストラリアの内陸部は降水量が少なく気温も高い乾燥地帯に位置します。アナング族などのアボリジニは雨風をしのぎ飲み水を得ることができるウルル周辺で、麓に生息する昆虫や動植物を食料としながら3万年以上前から暮らしていたと言われます。<br />アボリジニにとってウルルは住居や食料を得られる大切な生活の場であるとともに、枯れた大地にありながら命を育む崇拝の対象であったと言えます。</p>
+<h3 className="wp-block-heading" id="ayersrock1-2">観光地としてのウルルと登山禁止への動き</h3>
+<p>ウルルが観光地として注目されるきっかけは1930年代に発生したゴールドラッシュでした。ヨーロッパ諸国によるオーストラリア入植当時、ウルルがある内陸部は乾燥がひどく、農地や牧畜に向かないため手つかずのまま残されました。しかし、1929年、オーストラリアの金鉱探索者ルイス・ハロルド・ベル・ラセターがオーストラリア中部にて巨大な金鉱を発見したと発表。金鉱を求め内陸部へ訪れる人が増加し、ウルルは観光地として見直されることとなりました。<br />現在、ウルルはオーストラリアを代表する景勝地として知られます。日の出や日没の時間帯に赤く染まるウルルを眺めるツアーやウルルを間近で散策するツアーは毎年多くの観光客が訪れる人気のアクティビティです。しかし、ウルルを聖地として崇拝するアボリジニコミュニティは観光客に対し、ウルル登山の中止を長らく要請していました。1985年、当地一帯はアナング族へ返還されましたが、共同管理する「<a href="https://parksaustralia.gov.au/" rel="noreferrer noopener" target="_blank">パークス・オーストラリア</a>」との協議により観光業への影響を鑑みてウルル登山は自粛要請に留まりました。その後、2010年にフランスの女性ダンサーがウルルの上で水着姿になる事件が発生。2015年には台湾人観光客が下山ルートを外れ滑落し、ヘリコプターで救助される事態となりました。アボリジニ文化を軽視する振る舞いや聖地での事故などを危惧して、<a href="https://parksaustralia.gov.au/uluru/" rel="noreferrer noopener" target="_blank">ウルル＝カタ・ジュタ国立公園</a>の理事会は2017年にウルル登山の禁止を決定。2019年10月26日より施行されました。</p>
+<h2 className="wp-block-heading" id="ayersrock2">アボリジニと迫害の歴史</h2>
+<p>数万年前からオーストラリア大陸に定住する先住民族のアボリジニは、部族ごとに異なる言語や風習、文化を持ちつつも共通して自然を崇拝する世界観を持つ特徴があります。イギリスによる入植以前は700以上の部族が狩猟や採取を中心とした移動生活をしていたと見られています。しかし、入植が始まると大陸外から持ち込まれた伝染病や白人移民による搾取、虐待により人口を減らし、1901年には入植以前の6～8％となる6万人まで減少したと言われています。<br />アボリジニについては「<a href="http://xs640823.xsrv.jp/etas/indigenouspeople/index.html">オーストラリアの先住民、アボリジニの文化と歴史について</a>」をご覧ください。</p>
+<h2 className="wp-block-heading" id="ayersrock3">撮影が禁止されている場所</h2>
+<p>ウルルがある<a href="https://parksaustralia.gov.au/uluru/" rel="noreferrer noopener" target="_blank">ウルル＝カタ・ジュタ国立公園</a>では厳しい撮影規制が設けられています。古くから当地に住むアナング族は多くのアボリジニと同様に自然を崇拝し、祖先や土地とのつながりを大切にしてきました。一族の歴史は飲み水と生活の場を与えてくれるウルルとともにあり、死後もその土地にエネルギーが残るとする独自の世界観を持ちます。ウルルに数ある割れ目や窪みには精霊が宿ると信じられ、許可された一部の人を除き立ち入りを禁止するなど伝統的な決まり事が存在します。撮影の規制は、アナング族が立ち入り禁止の場所を写した写真を見ることで意図せず決まり事を侵してしまうことを避ける意図があります。撮影禁止となる場所には”聖地”であることを示す看板が立てられているので注意しましょう。<br />また、アナング族には死者の名誉のために故人の名前を語らず写真を残さない風習があるため、アナング族スタッフと写真を撮る際は配慮が必要です。撮影する際は前もって本人に確認を取りましょう。<br />撮影禁止場所にまつわる伝承を文字や映像に残すことはタブーとされますが、アナング族のガイドから直接聞くことはできるかもしれません。ウルルを観光する際はカメラをしまい、雄大な自然やアボリジニの歴史に思いを馳せ、彼らの文化と真摯に向き合うことをおすすめします。</p>
+<h2 className="wp-block-heading" id="ayersrock4">ウルル＝カタ・ジュタ国立公園へのアクセス</h2>
+<p>ウルル＝カタ・ジュタ国立公園の最寄り空港となるエアーズロック空港へは、<a href="http://xs640823.xsrv.jp/etas/news/detail/sydney.html">シドニー</a>や<a href="http://xs640823.xsrv.jp/etas/news/detail/melbourne.html">メルボルン</a>などオーストラリアの主要都市から運航する直行便が便利です。エアーズロック空港から宿泊施設やレストランなどが集まる<a href="https://www.ayersrockresort.com.au/" rel="noreferrer noopener" target="_blank">エアーズロック・リゾート</a>へは無料の循環バスで約10分となります。循環バスはリゾート内のタウンスクエアやビジターセンターへ向かう際も利用できます。エアーズロック・リゾートからウルル＝カタ・ジュタ国立公園へはシャトルバス(<a href="https://uluruhoponhopoff.com.au/" rel="noreferrer noopener" target="_blank">ULURU HOP ON &amp; HOP OFF</a>)やホテルによる無料送迎バスが運行しています。<br />ウルル＝カタ・ジュタ国立公園については「<a href="http://xs640823.xsrv.jp/etas/world-heritage-site/index.html#world3-1">オーストラリアの世界遺産15選</a>」もご覧ください。</p>
+<div className="Class_J">
+<h4>ウルル＝カタ・ジュタ国立公園 / Uluru-Kata Tjuta National Park</h4>
+<p><strong>所在地：</strong>Petermann NT 0872 Australia<br /><strong>入園料(3日間)：</strong>$38 (18歳未満は無料)<br /><strong>公式サイト：</strong><a href="https://parksaustralia.gov.au/uluru/" rel="noreferrer noopener" target="_blank">Uluru-Kata Tjuta National Park</a></p>
+</div>
+<h2 className="wp-block-heading" id="ayersrock5">オーストラリアへ渡航する際は早めにETAS(イータス)の申請をお願いします</h2>
+<p>エアーズロック観光や出張など、一般的なオーストラリア旅行を目的としてオーストラリアへ入国する方はオンラインによるETAS(イータス)申請が必須となります。ETAS(イータス)は日本を含むオーストラリア政府が定めた国籍を持つ方が利用できる電子渡航認証制度で、取得することで一度の渡航につき最大3か月間の滞在が認められます。<br />ETAS(イータス)を管轄するオーストラリア政府移民局およびオーストラリア大使館では、渡航が決定した段階でETAS(イータス)の申請を推奨しています。申請後は当局による審査が行われ、多くの場合は申請当日または翌日には審査結果が届きます。稀に結果の通知に時間を要するケースもあるため、渡航3日前までにETAS(イータス)申請を済ませましょう。<br />ETAS(イータス)に関する詳しい情報と申請方法は「<a href="http://xs640823.xsrv.jp/etas/service/index.html">オーストラリア観光ビザのETAS(イータス)とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="australia-etas.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

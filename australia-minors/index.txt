@@ -1,0 +1,138 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","australia-minors",""],"q":"","i":false,"f":[[["",{"children":["australia-minors",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T3b8a,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 未成年のオーストラリア渡航について</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>未成年のオーストラリア渡航について</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading"> 未成年のオーストラリア渡航について </h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#minority1">ETAS(イータス)申請の対象者とは</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#minority2">ETAS(イータス)申請対象国</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#minority3">未成年者がオーストラリア国内で単独宿泊する場合</a></li>
+<li><a className="ez-toc-link" href="#minority4">未成年者がビザ申請を行う場合</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#minority5">戸籍謄本</a></li>
+<li><a className="ez-toc-link" href="#minority6">申請書「Form 1229」と両親の身分証明書(パスポート等)</a></li>
+<li><a className="ez-toc-link" href="#minority7">申請書「Form 1257」</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#minority8">渡航同意書が必要となる国</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#minority9">アメリカ</a></li>
+<li><a className="ez-toc-link" href="#minority10">カナダ</a></li>
+<li><a className="ez-toc-link" href="#minority11">イギリス</a></li>
+<li><a className="ez-toc-link" href="#minority12">ドイツ</a></li>
+<li><a className="ez-toc-link" href="#minority13">渡航同意書　記載事項</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#minority14">未成年が安全な海外渡航を行うために</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="未成年のオーストラリア渡航について" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p12_01.webp" type="image/webp" width="640"/>
+<img alt="未成年のオーストラリア渡航について" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p12_01.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="minority1">ETAS(イータス)申請の対象者とは</h2>
+<p>ビザを取得せずにオーストラリアへ観光や短期商用で訪れる場合、渡航者は<a className="link-no-color aioseop-link" href="http://xs640823.xsrv.jp/etas/">ETAS(イータス)</a>を取得しなければなりません。申請対象者は現在オーストラリア国外に滞在している下記の国籍をお持ちの方のみとなり、ETAS(イータス)を取得すると一度のオーストラリア渡航につき3か月以内の滞在が可能となります。 </p>
+<h3 className="wp-block-heading" id="minority2">ETAS(イータス)申請対象国</h3>
+<div className="Class_AB">
+<p>日本、韓国、香港、アメリカ合衆国、カナダ、シンガポール、マレーシア、ブルネイ、アンドラ、オーストリア、ベルギー、ドイツ、デンマーク、フィンランド、フランス、ギリシャ、アイスランド、アイルランド、イタリア、リヒテンシュタイン、ルクセンブルク、マルタ、モナコ、ノルウェー、ポルトガル、サンマリノ共和国、スペイン、スウェーデン、スイス、台湾、オランダ、イギリス、バチカン市国<br /><br />ただし、オンラインによるETAS(イータス)申請が認められているのは以下の8か国に限定されています。<br />日本、韓国、香港、アメリカ合衆国、カナダ、シンガポール、マレーシア、ブルネイ</p></div>
+<p>その他の対象国の方は旅行代理店や航空会社などを通じてETAS(イータス)を申請することが可能です。なお、ETAS(イータス)の申請時に申請者の年齢制限はありません。乳幼児から成人の方まで、年齢に関わらず全てのオーストラリア渡航者はETAS(イータス)申請が義務づけられていますので、保護者の方はお子様のETAS(イータス)申請も忘れずに済ませましょう。 </p>
+<h2 className="wp-block-heading" id="minority3">未成年者がオーストラリア国内で単独宿泊する場合</h2>
+<p>18歳未満の未成年の方が単独もしくは友人のみでオーストラリアへ訪れる場合、ホテル等の宿泊施設を予約する際は注意が必要となります。州により異なりますが、オーストラリアでは18歳未満の未成年者のみでの宿泊が禁止されているホテルが多く存在します。<br />渡航時に旅行会社のパックツアーをご検討されている場合、未成年者のみでの宿泊が許可されていない場合がございますので事前にチェックしておきましょう。未成年の方は滞在予定のホテルが“18歳未満の未成年のみでの利用が可能であるか“を十分に確認したうえで予約をご検討ください。 </p>
+<h2 className="wp-block-heading" id="minority4">未成年者がビザ申請を行う場合</h2>
+<p>ETAS(イータス)申請が“渡航拒否”となった場合や、長期でのオーストラリア渡航を予定している場合にはビザの取得が必須です。<br />ただし、ビザを18歳未満の未成年者が申請する際には、通常のビザ申請時に提出する書類の他に以下の追加書類が必要となりますので、ビザ申請前には必要書類の手配を行いましょう。 </p>
+<h3 className="wp-block-heading" id="minority5">戸籍謄本</h3>
+<p>申請者の親権について確認ができる公的書類が必要です。<br />日本で出生した方で日本国籍を取得されていない場合には、出生届の記載事項証明書を提出してください。<br />ただし、住民票は利用することができませんのでお気をつけください。</p>
+<h3 className="wp-block-heading" id="minority6">申請書「Form 1229」と両親の身分証明書(パスポート等)</h3>
+<p>「Form 1229」は両親が申請者のオーストラリア渡航を承認する同意書となります。<br />申請書の雛形はオーストラリア政府の公式サイトまたは在日オーストラリア大使館の公式サイトより取得することができます。また、署名の確認用に両親のパスポートや運転免許証など写真入りの身分証明書も必要となります。離婚等の理由により、片方の親のみが親権を持っている場合はそれが確認できる公的書類も追加しましょう。 </p>
+<div className="Class_AB">
+<a href="https://immi.homeaffairs.gov.au/form-listing/forms/1229.pdf" target="_blank">申請書「Form 1229」テンプレート</a></div>
+<h3 className="wp-block-heading" id="minority7">申請書「Form 1257」</h3>
+<p>未成年の申請者が両親以外の方とオーストラリア渡航を行う際にご手配ください。「Form 1257」は渡航者の両親が、同行者を責任者として認めることを証明する書類となります。署名を行った両親の身分証明書(パスポート等)は「Form 1257」の提出時にも必要となりますので併せてご準備ください。<br />尚、書類の雛形はオーストラリア政府の公式サイトまたは在日オーストラリア大使館の公式サイトより取得することができます。 </p>
+<div className="Class_AB">
+<a href="https://immi.homeaffairs.gov.au/form-listing/forms/1257.pdf" target="_blank">申請書「Form 1257」テンプレート</a></div>
+<h2 className="wp-block-heading" id="minority8">渡航同意書が必要となる国</h2>
+<p>海外へ未成年者が入国する際、親権者以外の片方の親による一方的な子供の連れ去りや犯罪等を防ぐため、特に綿密な入国審査が行われています。渡航者が以下のケースに当てはまる場合、渡航者の安全を保障するため英文で作成された渡航同意書を要求することがあります。</p>
+<p><strong>【未成年者(18歳未満)の単独渡航 / 親以外の成人との渡航 / 片方の親のみが同行する渡航】<br /></strong>渡航同意書は必ずしも要求されるものではありませんが、未成年の渡航者がスムーズに入国審査を通過できるよう書類のご用意をお勧めします。</p>
+<p>未成年者の渡航同意書の持参を推奨している主な国をご紹介します</p>
+<h3 className="wp-block-heading" id="minority9">アメリカ</h3>
+<p> 両親の署名が入った渡航同意書が必要です。<br />離婚や死別等の理由により署名が片方の親のみとなる際は、戸籍謄本など理由を証明する公的書類も必要です。 </p>
+<h3 className="wp-block-heading" id="minority10">カナダ</h3>
+<p> 両親の署名入り渡航同意書、戸籍謄本または出生証明書、両親のパスポートのコピーが必要となります。<br />両親が離婚、または死別している場合は親権が明記されている書類や死亡証明書が必要です。<br />また、法的後見人や養父母が同行する場合は後見・養子縁組に関する書類等をご用意ください。<br />渡航同意書のサンプルはカナダ移民・難民・市民権省(IRCC)公式サイトにて公開されています。 </p>
+<h3 className="wp-block-heading" id="minority11">イギリス</h3>
+<p> 渡航者の滞在先、両親の署名や連絡先、滞在期間を記入した同意書をご用意ください。<br />一方の親のみが署名を記入する際には同意書に死別・離婚等の理由も記載しましょう。戸籍謄本等の手配は不要です。 </p>
+<h3 className="wp-block-heading" id="minority12">ドイツ</h3>
+<p>両親の署名入り渡航同意書、両親の身分証明書の写しとパスポートが必要となり、離婚・死別により親権者が1名の場合は、それを証明する戸籍謄本などの公的書類の提示を推奨しています。なお、同意書のサンプルはドイツ大使館公式サイトにて公開されています。</p>
+<p>上記の国以外にも18歳未満の未成年者が入国を行う場合、渡航同意書の持参を勧める国は数多く存在します。<br />国によっては追加で提出する書類が異なりますので、渡航前に大使館公式サイト等で確認を行いましょう。<br />渡航同意書に関しては大使館公式サイトにてサンプルが公開されている場合もありますが、規定の形式を設けていない国もあります。<br />その場合は自身で手配する必要がありますので、下記の情報を含む同意書を英文で作成してください。</p>
+<h3 className="wp-block-heading" id="minority13">渡航同意書 記載事項</h3>
+<figure className="wp-block-table"><table><tbody><tr><td>渡航者情報 </td><td>名前、パスポート番号、入国/出国日、渡航先、渡航目的 </td></tr><tr><td>同行者情報 </td><td>名前、渡航者との続柄、パスポート番号、住所、電話番号、生年月日 </td></tr><tr><td>滞在先情報</td><td>滞在先名(宿泊するホテル等)、滞在先住所、滞在先電話番号 </td></tr><tr><td>両親の署名</td><td>両親の名前、連絡先、サイン、記入日 </td></tr></tbody></table></figure>
+<picture>
+<source alt=" 未成年が安全な海外渡航を行うために " className="img_big m20-t m20-b" height="426" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p12_02.webp" type="image/webp" width="640"/>
+<img alt=" 未成年が安全な海外渡航を行うために " className="img_big m20-t m20-b" decoding="async" height="426" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p12_02.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="minority14">未成年が安全な海外渡航を行うために</h2>
+<p> 海外渡航を18歳未満の未成年者が行うにあたり、渡航者の安全を確保するため世界各国で厳重な入国審査が行われています。必ずしも渡航同意書は提示を要求されるとは限りませんが、入国審査官に求められた場合に掲示できなければ、渡航者の身柄や安全を確認するまで審査に長時間を要することがあり、現地で入国拒否と判断されてしまうケースもあります。<br />同意書は未成年者による単独渡航時のみならず、片方の親が同行される渡航に関しても書類を要求する国も存在しますので、問題なく入国審査を終えるためにも同意書の有無は事前に必ず確認しておきましょう。訪問する国によっては公証役場での認証を得た書類を併せて提示する場合もあり、書類の中には手配に時間がかかるものもございます。<br />渡航までに余裕を持って渡航同意書の準備を行いましょう。 </p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="australia-etas.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"未成年のオーストラリア渡航について | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

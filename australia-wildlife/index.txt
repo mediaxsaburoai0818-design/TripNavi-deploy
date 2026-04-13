@@ -1,0 +1,140 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","australia-wildlife",""],"q":"","i":false,"f":[[["",{"children":["australia-wildlife",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T54d2,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オーストラリア固有の動物と絶滅危惧種について</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>オーストラリア固有の動物と絶滅危惧種について</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">オーストラリア固有の動物と絶滅危惧種について</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1">
+<li><a className="ez-toc-link" href="#animal1">オーストラリアで人気の動物(有袋類)</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#animal2">コアラ</a></li>
+<li><a className="ez-toc-link" href="#animal3">カンガルー</a></li>
+<li><a className="ez-toc-link" href="#animal4">ワラビー</a></li>
+<li><a className="ez-toc-link" href="#animal5">ウォンバット</a></li></ul></li>
+<li><a className="ez-toc-link" href="#animal6">オーストラリアに生息する哺乳類</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#animal7">タスマニアンデビル</a></li>
+<li><a className="ez-toc-link" href="#animal8">ディンゴ</a></li></ul></li>
+<li><a className="ez-toc-link" href="#animal9">オーストラリアの単孔類</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#animal10">ハリモグラ</a></li>
+<li><a className="ez-toc-link" href="#animal11">カモノハシ</a></li></ul></li>
+<li><a className="ez-toc-link" href="#animal12">オーストラリアの爬虫類</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#animal13">ウミガメ</a></li>
+<li><a className="ez-toc-link" href="#animal14">オーストラリアワニ</a></li></ul></li>
+<li><a className="ez-toc-link" href="#animal15">オーストラリア渡航にはETAS(イータス)の申請が必要です</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="オーストラリア固有の動物と絶滅危惧種について" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/3bb11443bad87d72b101523116d5766a.webp" type="image/webp" width="640"/>
+<img alt="オーストラリア固有の動物と絶滅危惧種について" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/3bb11443bad87d72b101523116d5766a.jpg" width="640"/>
+</picture>
+<p>広大な自然を有するオーストラリアには多種多様な動物が暮らしています。他の大陸から離れた場所に位置することからオーストラリア大陸でしか見ることのできない動物も数多く生息しており、人気のあるコアラやカンガルーはこの国ならではの固有種のひとつです。オーストラリアには約378種の哺乳類と828種の鳥類、爬虫類は300種のトカゲ、140種のヘビ、2種のワニが生息しています。海や川には魚類が4,000種、海洋哺乳類は50種ほど確認され、幅広い種類の動物が共存しています。これらの中には絶滅の危機に瀕している希少な動物も含まれ、生態系は政府の動物保護法などによって守られています。このページではオーストラリアに生息する有名な動物から珍しい動物まで紹介します。</p>
+<h2 className="wp-block-heading" id="animal1">オーストラリアで人気の動物(有袋類)</h2>
+<h3 className="wp-block-heading" id="animal2">コアラ</h3>
+<p>オーストラリアの代表的な動物“コアラ”はオーストラリアの固有種です。好物のユーカリの木が豊富なクイーンズランド州や南オーストラリア州、ニューサウスウェールズ州などオーストラリア東部から南部にかけて多く生息します。コアラはユーカリの葉を毎日500g以上食べ、葉に含まれる毒成分を消化しながら木の上で1日16時間以上寝て過ごします。可愛らしい顔とおっとりとした動きで人気がありますが、手足には鋭い爪が生えているためコアラと触れ合ったり、抱っこをする際は注意しましょう。コアラが飼育されるオーストラリアの動物園については“<a href="http://xs640823.xsrv.jp/etas/koalazoo.html">コアラと出会える動物園</a>”を参照してください。<br />1973年、コアラは国際的に絶滅の危機に瀕している種や生態系の保全を目的としてアメリカで制定された<a href="https://ecos.fws.gov/ecp/" rel="noreferrer noopener" target="_blank">絶滅危惧種保護法</a>(Endangered Species Act)で絶滅危惧種の次に危険な種“Threatened”へ認定されました。ただし、オーストラリアでは連邦政府による公式な保護法が制定されておらず、コアラの保護は各州政府に一任されている状況です。ニューサウスウェールズ州議会は2020年に発生した大規模な森林火災の影響から今後50年の間にコアラが絶滅する可能性を示唆しており、国内ではコアラの保護について政府が介入するよう求める声が高まっています。</p>
+<h3 className="wp-block-heading" id="animal3">カンガルー</h3>
+<p>カンガルーはコアラに並ぶオーストラリアを象徴する動物のひとつです。国内ではカンガルーを略して“ルー(Roo)”、カンガルーの赤ちゃんは“ジョーイ(Joey)”と呼ばれます。特徴的なお腹の袋(育児嚢/いくじのう)を持つ有袋類の動物で、育児嚢で授乳などを行いながら生後1年半ほど袋の中で子供を育てます。カンガルーはワラビーを含め約55種類に分類され、体長は種類によって様々です。ワラビーのような小型で約25cm、大型のアカカンガルーは160cm以上の個体が確認されています。後ろ脚を使ったジャンプでの移動は大型の種類になると時速70km程のスピードが出ます。ただし、カンガルーは前に進むことはできても後退することはできません。<br />カンガルーの生息地はオーストラリア国内に広く分布し、生息数はなんと約5,000万匹。この数は国内人口の2倍以上の数となります。道路に飛び出してくるケースも多いため、旅行時に運転を行う際は注意が必要です。国内各地にある動物園、自然保護区などカンガルーは様々な場所で見ることができますが、クイーンズランド州北東部にある<a href="https://capehillsboroughresort.com.au/" rel="noreferrer noopener" target="_blank">ケープ・ヒルズバラ</a>は国内で唯一ビーチに集まるカンガルーが見られる場所として人気です。早朝になるとカンガルー・ビーチと呼ばれる砂浜へ野生のカンガルーが餌を求めて集まります。</p>
+<h3 className="wp-block-heading" id="animal4">ワラビー</h3>
+<p>ワラビーはカンガルー科に属し、カンガルーの中でも小型の種類がワラビーに分類されます。ワラビーの体長は25～75cmほどで体重は約25kgと一般的なカンガルーより小さく、後ろ脚や尾も小さめです。また、体長75cm以上でカンガルーよりもサイズが小さい場合はワラビーではなくワラルーと言います。ワラビーはオーストラリアの広い地域に生息し、国内にある多くの動物園で飼育されています。西オーストラリア州の沖合に浮かぶ“<a href="https://www.rottnestisland.com/" rel="noreferrer noopener" target="_blank">ロットネスト島</a>”ではワラビーの中でも非常に人気のある種類“クオッカ”を見ることができます。まるで笑っているような可愛らしい顔が特徴的で「世界一幸せな動物」と呼ばれています。クオッカは好奇心旺盛な性格のため人間に近寄ってくることも多く、可愛い姿を間近で撮影することができると観光客からの人気を博しています。</p>
+<h3 className="wp-block-heading" id="animal5">ウォンバット</h3>
+<p>ウォンバットはオーストラリアの固有種でカンガルーやコアラと同様に袋の中で子供を育てる有袋類の動物です。タスマニア州などオーストラリア南部を中心に生息しています。夜行性のため日中は巣穴で身を潜めていますが、気温が低く寒い日は日中に日向ぼっこをする姿を見ることができます。体長は約1ｍ、体重は20kgから30kgほどで、のそのそと歩く可愛らしい姿が人気です。人懐っこい性格をしており、タスマニア州のマリア島では野生のウォンバットを間近で見ることができます。また、国内にはウォンバットを抱っこして写真撮影ができるクイーンズランド州タウンズビルにある<a href="https://www.billabongsanctuary.com.au/" rel="noreferrer noopener" target="_blank">ビラボン自然保護区</a>をはじめ、ふれあい体験を楽しめる施設が多くあります。</p>
+<picture>
+<source alt="タスマニアンデビル" className="img_big m20-t m20-b" height="426.5" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/05/610ad813db7667ac78b2caf8b47c28da.webp" type="image/webp" width="640"/>
+<img alt="タスマニアンデビル" className="img_big m20-t m20-b" decoding="async" height="426.5" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/05/610ad813db7667ac78b2caf8b47c28da.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="animal6">オーストラリアに生息する哺乳類</h2>
+<h3 className="wp-block-heading" id="animal7">タスマニアンデビル</h3>
+<p>タスマニアンデビルは哺乳綱フクロネコ目フクロネコ科に分類される動物で世界最大の肉食有袋類です。可愛らしい見た目をしていますが気性は荒く、威嚇時に発する大きな鳴き声や食事のために他の動物の死骸を漁る姿は悪魔のようだと例えられ、“タスマニアンデビル”の名が付きました。タスマニアンデビルは体長1ｍ前後となる肉食獣で体の割に頭部が大きく、顎は80度まで開きます。体長と噛む力の比率は哺乳類界最強と言われるほど顎の力が強く、上顎に生えた2本の鋭い牙で鳥やネズミなどを捕食します。食事の際は骨や皮なども全てバリバリと噛み砕くため食べ残すことはありません。<br />タスマニアンデビルは“<a href="https://www.wildlifesydney.com.au/" rel="noreferrer noopener" target="_blank">ワイルドライフ・シドニー</a>”などオーストラリアにある多くの動物園で見ることができ、野生の姿はタスマニア州のみで見られます。しかし、近年は顔面腫瘍性疾患にかかるタスマニアンデビルが多く、絶滅の危機に瀕しているため2008年には国際自然保護連合のレッドリストにより絶滅危惧種へ認定されました。</p>
+<h3 className="wp-block-heading" id="animal8">ディンゴ</h3>
+<p>ディンゴはタスマニア州を除くオーストラリア全土に生息する野犬です。およそ4000年前に先住民がオーストラリア大陸に移住した際、一緒に連れてこられたことが起源とされています。ディンゴはペットとして見かけるような一般的な犬(イエイヌ)と同じような姿をしていますが、タイリクオオカミの亜種に分類される野性的な肉食動物です。仲間同士はオオカミのような遠吠えでコミュニケーションをとり、ヒツジやワラビー、ウォンバットなどを主食にしています。現在はイエイヌとの交配により純潔のディンゴは減少傾向にあるため、国際自然保護連合(IUCN)により絶滅危惧種へ認定されています。クイーンズランド州のフレーザー島には野生のディンゴが数多く生息していますが、旅行客が噛まれたり子どもが襲われる痛ましい事件が発生しているため見かけた際には注意が必要です。ディンゴとの触れ合いを希望する場合はニューサウスウェールズ州にある“<a href="https://symbiozoo.com.au/" rel="noreferrer noopener" target="_blank">シンビオワイルドライフパーク</a>”などの動物園を訪れることをおすすめします。</p>
+<picture>
+<source alt="ハリモグラ" className="img_big m20-t m20-b" height="426.5" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/05/8cb422ec3585ee083c22072047679a54.webp" type="image/webp" width="640"/>
+<img alt="ハリモグラ" className="img_big m20-t m20-b" decoding="async" height="426.5" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/05/8cb422ec3585ee083c22072047679a54.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="animal9">オーストラリアの単孔類</h2>
+<h3 className="wp-block-heading" id="animal10">ハリモグラ</h3>
+<p>オーストラリアの5セント硬貨にも描かれている“ハリモグラ”は国内で有名な動物のひとつです。2000年に開催されたシドニーオリンピックではマスコットキャラクターに採用されました。ハリモグラは砂漠地帯を除くオーストラリア全域に生息する固有種で全長は約30～50cm、その名の通り鋭い針によって体全体が覆われています。長い舌で主食のアリやシロアリを食べ、外敵に襲われた際は体を丸くして身を守ります。ハリモグラは哺乳類の一種ですが、単孔類に属し卵を産む珍しい動物として知られます。国内各地の動物園で見ることができ、ブリズベンの<a href="https://www.australiazoo.com.au/" rel="noreferrer noopener" target="_blank">オーストラリア動物園</a>ではハリモグラと直接触れ合うことができます。</p>
+<h3 className="wp-block-heading" id="animal11">カモノハシ</h3>
+<p>カモノハシはカワウソのような胴体にカモのようなくちばし、水かきの付いた足がある不思議な動物です。古代の化石などから白亜紀時代には既に存在していたことが分かっており、「生きた化石」と呼ばれます。カモノハシは哺乳類に分類されますが、単孔類に属し卵を産んで繁殖する珍しい特徴を持ちます。生息地はクイーンズランド州、ニューサウスウェールズ州、ビクトリア州、タスマニア州などオーストラリア東部から南部となり、川や湖を中心に暮らしています。野生の姿はビクトリア州の<a href="https://www.zoo.org.au/healesville" rel="noreferrer noopener" target="_blank">ヒールズビル自然保護区</a>、キャンベラ近郊にある<a href="https://www.tidbinbilla.act.gov.au/" rel="noreferrer noopener" target="_blank">ティドビンビラ自然保護区</a>などオーストラリアの自然保護区で見ることができます。しかし、なかなか遭遇できないため現地のツアーガイドに参加したり、<a href="https://www.zoo.org.au/melbourne/" rel="noreferrer noopener" target="_blank">メルボルン動物園</a>など国内の動物園を訪れるのもおすすめです。</p>
+<picture>
+<source alt="ウミガメ" className="img_big m20-t m20-b" height="360" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/05/1f92a97ed0b7b1098fa23c108c7b5b15.webp" type="image/webp" width="640"/>
+<img alt="ウミガメ" className="img_big m20-t m20-b" decoding="async" height="360" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/05/1f92a97ed0b7b1098fa23c108c7b5b15.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="animal12">オーストラリアの爬虫類</h2>
+<h3 className="wp-block-heading" id="animal13">ウミガメ</h3>
+<p>現存するウミガメは全部で7種に分類され、そのうちアオウミガメ、オサガメ、タイマイ、アカウミガメ、ヒラタウミガメ、ヒメウミガメの6種は世界遺産“<a href="http://xs640823.xsrv.jp/etas/cairns_tourist/index.html#sec_great">グレートバリアリーフ</a>”の海域で見ることができます。ウミガメはカメの中では大型で、最小のヒメウミガメでも甲羅は60〜70cm程の大きさになります。基本的には海中で暮らしていますが、産卵時期はメスのみ砂浜へ上陸します。グレートバリアリーフの玄関口として知られる街“<a href="https://www.australia.com/ja-jp/places/brisbane-and-surrounds/guide-to-bundaberg.html" rel="noreferrer noopener" target="_blank">バンダバーグ</a>”は絶滅の危機に瀕しているアカウミガメの営巣地として有名で、<a href="https://parks.des.qld.gov.au/parks/mon-repos/attractions/mon-repos-turtle-encounter-tours" rel="noreferrer noopener" target="_blank">モン・レポ自然保護公園</a>ではカメの産卵や海へ帰る子ガメの姿を見ることができます。美しい海の中でウミガメと一緒に泳ぎたい方はハミルトン島での観光ツアー“<a href="https://www.hamiltonisland.com.au/jp/scuba-diving-and-snorkeling/turtle-discovery" rel="noreferrer noopener" target="_blank">タートルディスカバリーツアー</a>”などに参加するのがおすすめです。</p>
+<h3 className="wp-block-heading" id="animal14">オーストラリアワニ</h3>
+<p>クロコダイル属に分類されるオーストラリアワニは別名“ジョンストンワニ”と呼ばれるオーストラリアの固有種です。体長は最大で2～3ｍ程となり、国内北部の川や湖など淡水を中心に生息するため“Freshwater Crocodile(淡水ワニ)”と呼ばれることもあります。オーストラリアに生息するもう一種のワニ「イリエワニ」に比べると口先は細長く、体長が小さいのが特徴です。ワニの中では動きが俊敏で、最高時速は約16kmとなります。危険を感じた場合は飛び跳ねるように走る“ギャロップ”と呼ばれる走法で逃げ去ります。オーストラリアワニは皮を目的とした乱獲や毒をもつオオヒキガエルを誤って捕食したことによる大量死などの影響を受けて生存数が減少傾向にあるため、現在は保護活動が進んでいます。</p>
+<h2 className="wp-block-heading" id="animal15">オーストラリア渡航にはETAS(イータス)の申請が必要です</h2>
+<p>観光目的などでオーストラリアへ渡航される方はオンラインによる<a href="http://xs640823.xsrv.jp/etas/service/index.html">ETAS(イータス)申請</a>が必須となります。ETAS(イータス)は日本を含むオーストラリア政府が定めた国籍を持つ方が利用できる電子渡航認証制度です。ETAS(イータス)を取得することで一度の渡航につき最大3か月間の滞在が認められます。ただし、3か月以上の長期滞在やオーストラリア国内での就労、留学を目的として訪れる場合はETAS(イータス)ではなく渡航目的に合わせたビザの取得を行いましょう。ETAS(イータス)とビザに関する詳細は「<a href="http://xs640823.xsrv.jp/etas/diff/index.html">ETAS(イータス)とビザの違い</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="australia-etas.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"オーストラリア固有の動物と絶滅危惧種について | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

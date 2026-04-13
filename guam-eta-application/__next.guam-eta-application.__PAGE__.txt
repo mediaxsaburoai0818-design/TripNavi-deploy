@@ -1,0 +1,301 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3fef,<div className="page-layout">
+    <main className="page-main">
+      <div className="breadcrumb">
+        <a href="index.html">ホーム</a> ＞ 
+        <a href="#guam">グアム</a> ＞ 
+        <a href="#visa-info">渡航ノウハウ</a> ＞ 
+        Guam-CNMI ETAの申請方法
+      </div>
+
+      <article className="article-detail">
+        <span className="card-tag">グアム渡航ノウハウ</span>
+        <h1>グアム旅行に必要なGuam-CNMI ETAの申請方法について解説</h1>
+        <div className="article-meta">
+          <span className="meta-date">更新日：2026年03月31日</span>
+        </div>
+
+        <div className="content">
+          
+          <div className="article-toc">
+            <h4 className="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">Guam-CNMI ETA（グアム-北マリアナ諸島連邦電子渡航認証）</a>
+                  <ul>
+                    <li><a href="#section1-1">ESTAとの違い</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section2">Guam-CNMI ETAの必要書類</a></li>
+                <li><a href="#section3">Guam-CNMI ETAの申請方法</a>
+                  <ul>
+                    <li><a href="#section3-1">1. 公式ウェブサイトへアクセス</a></li>
+                    <li><a href="#section3-2">2. パスポートのスキャンまたはアップロード</a></li>
+                    <li><a href="#section3-3">3. 個人情報の入力</a></li>
+                    <li><a href="#section3-4">4. 渡航情報の入力</a></li>
+                    <li><a href="#section3-5">5. 適格性（健康、犯罪歴）に関する質問への回答</a></li>
+                    <li><a href="#section3-6">6. 申請内容の確認・提出</a></li>
+                    <li><a href="#section3-7">7. 審査結果メールを受け取る</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section4">グアムへの未成年者渡航について</a></li>
+                <li><a href="#section5">申請内容の確認と入国時の実施事項</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          
+          <p>グアムへの旅行を計画している方は、<strong>Guam-CNMI ETA（グアム-北マリアナ諸島連邦電子渡航認証）</strong>の取得が必要です。この記事では、Guam-CNMI ETAの申請方法と、ESTAとの違いを詳しく解説します。</p>
+
+          
+          <h2 id="section1">Guam-CNMI ETA（グアム-北マリアナ諸島連邦電子渡航認証）</h2>
+          <p><strong>Guam-CNMI ETA</strong>は、グアムおよび北マリアナ諸島へ最長<strong>45日以内</strong>の短期滞在が可能な電子渡航認証です。日本はビザ免除プログラムの対象国であり、オンラインで<strong>無料</strong>申請できます。</p>
+
+          <div className="info-box">
+            <h4>📌 Guam-CNMI ETAの特徴</h4>
+            <ul>
+              <li><strong>渡航先:</strong> グアム・北マリアナ諸島のみ</li>
+              <li><strong>料金:</strong> 無料</li>
+              <li><strong>最長滞在期間:</strong> 45日間</li>
+              <li><strong>有効期限:</strong> 2年間</li>
+              <li><strong>申請方法:</strong> オンライン</li>
+            </ul>
+          </div>
+
+          <div className="warn-box">
+            <h4>⚠️ 注意</h4>
+            <p>米国ビザまたはESTAを取得済みの方は、Guam-CNMI ETAの申請は不要です。</p>
+          </div>
+
+          <h3 id="section1-1">ESTAとの違い</h3>
+          <p>Guam-CNMI ETAとESTAの主な違いを表で比較します：</p>
+
+          <div style="overflow-x: auto; margin: 20px 0;">
+            <table style="width: 100%; border-collapse: collapse; background: #fff;">
+              <thead>
+                <tr style="background: var(--primary-light);">
+                  <th style="padding: 12px; border: 1px solid var(--gray-200); text-align: left;">項目</th>
+                  <th style="padding: 12px; border: 1px solid var(--gray-200); text-align: left;">Guam-CNMI ETA</th>
+                  <th style="padding: 12px; border: 1px solid var(--gray-200); text-align: left;">ESTA</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>渡航先</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">グアム・北マリアナ諸島のみ</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">米国全域（グアム、ハワイ、本土）</td>
+                </tr>
+                <tr style="background: var(--gray-50);">
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>料金</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">無料</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">40.27ドル</td>
+                </tr>
+                <tr>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>最長滞在期間</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">45日間</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">90日間</td>
+                </tr>
+                <tr style="background: var(--gray-50);">
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>有効期限</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">2年間</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">2年間</td>
+                </tr>
+                <tr>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>申請推奨タイミング</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">7日前まで（遅くとも5日前）</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">72時間前まで</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          
+          <h2 id="section2">Guam-CNMI ETAの必要書類</h2>
+          
+          <div className="info-box">
+            <h4>📋 必要な情報・書類</h4>
+            <ul>
+              <li><strong>パスポート</strong>（ICチップ搭載、有効期限内）</li>
+              <li><strong>メールアドレス</strong>（審査結果受信用）</li>
+              <li><strong>申請者情報:</strong> 氏名、性別、生年月日、国籍、出生国、住所、電話番号、職業</li>
+              <li><strong>渡航情報:</strong> 出入国予定日、便名、宿泊先、緊急連絡先</li>
+              <li><strong>適格性質問への回答:</strong> 健康状態、犯罪歴、テロ歴、特定国渡航歴等</li>
+            </ul>
+          </div>
+
+          
+          <h2 id="section3">Guam-CNMI ETAの申請方法</h2>
+          <p>Guam-CNMI ETAの申請は、以下の7ステップで完了します。</p>
+
+          <h3 id="section3-1">1. 公式ウェブサイトへアクセス</h3>
+          <p>米国CBPの公式サイト（<strong>https://g-cnmi-eta.cbp.dhs.gov/</strong>）にアクセスします。言語を「日本語」に選択し、新規申請を開始します。</p>
+
+          <h3 id="section3-2">2. パスポートのスキャンまたはアップロード</h3>
+          <p>パスポートの顔写真ページを撮影またはアップロードします。情報が自動反映されるので、内容を確認してください。</p>
+
+          <h3 id="section3-3">3. 個人情報の入力</h3>
+          <p>氏名、住所、電話番号、職業などを<strong>ローマ字（英語）</strong>で入力します。</p>
+
+          <h3 id="section3-4">4. 渡航情報の入力</h3>
+          <p>グアムでの宿泊先情報、緊急連絡先を入力します。</p>
+
+          <h3 id="section3-5">5. 適格性（健康、犯罪歴）に関する質問への回答</h3>
+          <p>健康状態や犯罪歴に関する質問に<strong>「はい/いいえ」</strong>で回答します。</p>
+
+          <h3 id="section3-6">6. 申請内容の確認・提出</h3>
+          <p>入力内容を最終確認し、提出します。<strong>提出後は修正ができません</strong>ので、慎重に確認してください。</p>
+
+          <h3 id="section3-7">7. 審査結果メールを受け取る</h3>
+          <p>審査結果は<strong>最長72時間以内</strong>にメールで通知されます。ETA認証番号が記載されているので、大切に保管してください。</p>
+
+          
+          <h2 id="section4">グアムへの未成年者渡航について</h2>
+          <p><strong>18歳未満</strong>の方も、Guam-CNMI ETAの申請が必要です。また、以下の場合は渡航同意書が必要になります：</p>
+
+          <div className="warn-box">
+            <h4>⚠️ 未成年者の渡航同意書</h4>
+            <ul>
+              <li><strong>単独渡航:</strong> 両親からの渡航同意書（英文）が必要</li>
+              <li><strong>片親同行:</strong> 同行しない親からの渡航同意書が必要</li>
+              <li>フォーマットはなし、記入例を参考に自作</li>
+              <li>入国審査時に提示を求められる可能性があるため、携帯を推奨</li>
+            </ul>
+          </div>
+
+          
+          <h2 id="section5">申請内容の確認と入国時の実施事項</h2>
+          <p>申請後、以下の手順でステータスを確認できます：</p>
+
+          <ol>
+            <li>公式サイトにアクセス</li>
+            <li>「<strong>個人ステータスを確認</strong>」をクリック</li>
+            <li>パスポート番号、生年月日、申請番号を入力</li>
+            <li>ステータス確認: <strong>"Authorization Approved"</strong>で承認完了</li>
+          </ol>
+
+          
+          <h2 id="section6">よくある質問</h2>
+
+          <div className="faq-item">
+            <h3>Q1: グアムのETA申請のやり方は？</h3>
+            <p><strong>A:</strong> 公式サイトからオンラインで申請します。パスポート情報、申請者情報、渡航情報を入力し、適格性に関する質問に回答します。<strong>ローマ字（英語）入力</strong>が必須です。平均所要時間は約20分、申請料金は<strong>無料</strong>です。</p>
+          </div>
+
+          <div className="faq-item">
+            <h3>Q2: グアムのETAは何日前までに申請すればいいですか？</h3>
+            <p><strong>A:</strong> 渡航日の<strong>7日前まで</strong>、遅くとも<strong>5日前まで</strong>に申請することを推奨します。承認に時間がかかる場合があるため、余裕を持って申請してください。</p>
+          </div>
+
+          <div className="faq-item">
+            <h3>Q3: グアムに渡航するにはETAが必要ですか？</h3>
+            <p><strong>A:</strong> Guam-CNMI ETA、ESTA、米国ビザのいずれかが必要です。</p>
+            <ul>
+              <li><strong>45日以内の短期滞在:</strong> Guam-CNMI ETAで可</li>
+              <li><strong>90日以内・今後2年以内にアメリカ本土渡航予定:</strong> ESTA推奨</li>
+              <li><strong>就業・留学:</strong> 米国ビザが必要</li>
+            </ul>
+          </div>
+
+          <div className="faq-item">
+            <h3>Q4: グアム-CNMI ETAは無料ですか？</h3>
+            <p><strong>A:</strong> はい、CBP公式サイトからの申請は<strong>無料</strong>です。ただし、46日以上滞在する場合はESTAが必要となり、<strong>40.27ドル</strong>の費用がかかります。事前に滞在日数と申請要件を確認することを推奨します。</p>
+          </div>
+
+          
+          <h2 id="section7">まとめ</h2>
+          <p>グアム旅行には<strong>Guam-CNMI ETA</strong>の取得が必須です（ESTA/米国ビザ取得済みの方を除く）。オンライン申請で、料金は無料。45日以内の短期滞在に適しています。</p>
+
+          <p>早めにパスポートの有効期限を確認し、Guam-CNMI ETAまたはESTAを申請することで、安心してグアム旅行を楽しめます。</p>
+
+          <div className="info-box">
+            <h4>✅ Guam-CNMI ETA申請のポイント</h4>
+            <ul>
+              <li>グアム・北マリアナ諸島への短期滞在（45日以内）に必要</li>
+              <li>申請料金: 無料</li>
+              <li>有効期限: 2年間</li>
+              <li>申請推奨: 7日前まで（遅くとも5日前）</li>
+              <li>未成年者も申請必要（渡航同意書も準備）</li>
+              <li>ローマ字（英語）入力必須</li>
+              <li>ESTA/米国ビザ取得済みなら申請不要</li>
+            </ul>
+          </div>
+        </div>
+
+        
+        <div className="related-articles">
+          <h3 className="related-title">関連記事</h3>
+          <div className="related-grid">
+            <a href="usa-esta-application.html" className="related-card">
+              <div className="related-card-body">
+                <span className="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
+              </div>
+            </a>
+            
+            <a href="usa-hawaii-esta.html" className="related-card">
+              <div className="related-card-body">
+                <span className="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ハワイ渡航時にESTAは必要？</h3>
+              </div>
+            </a>
+            
+            <a href="usa-esta-smartphone.html" className="related-card">
+              <div className="related-card-body">
+                <span className="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAアプリでの申請方法を解説！</h3>
+              </div>
+            </a>
+            
+            <a href="usa-esta-renewal.html" className="related-card">
+              <div className="related-card-body">
+                <span className="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA(エスタ)に更新は必要？</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    
+    <aside className="sidebar">
+      <div className="sidebar-section">
+        <h3 className="sidebar-title">人気記事ランキング</h3>
+        <ol className="sidebar-ranking">
+          <li>
+            <a href="canada-eta-about.html">
+              <span className="rank-num">1</span>
+              <div className="rank-info">
+                <span className="rank-tag">カナダeTA</span>
+                <div className="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="australia-etas-about.html">
+              <span className="rank-num">2</span>
+              <div className="rank-info">
+                <span className="rank-tag">オーストラリア</span>
+                <div className="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="usa-esta-application.html">
+              <span className="rank-num">3</span>
+              <div className="rank-info">
+                <span className="rank-tag">USA ESTA</span>
+                <div className="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

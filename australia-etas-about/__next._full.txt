@@ -1,0 +1,161 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","australia-etas-about",""],"q":"","i":false,"f":[[["",{"children":["australia-etas-about",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T5a77,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">オーストラリア観光ビザのETAS(イータス)とは</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#service1">ETAS(イータス)とは</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#service2">ETAS(イータス)の申請について</a></li>
+<li><a className="ez-toc-link" href="#service3">ETAS(イータス)の種類について</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#service4">ETAS(イータス)の有効期限</a></li>
+<li><a className="ez-toc-link" href="#service5">ETAS(イータス)の申請料金</a></li>
+<li><a className="ez-toc-link" href="#service6">ETAS(イータス)の取得資格と取得条件</a></li>
+<li><a className="ez-toc-link" href="#service7">ETAS(イータス)の申請方法と手順</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#service8">当サイトのETAS(イータス)申請は4ステップで完了します。</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#service9">ETAS(イータス)の申請における注意点</a></li>
+<li><a className="ez-toc-link" href="#service10">ETAS(イータス)の申請が却下された場合の対応</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#service11">ETAS(イータス)の申請が却下された場合の対応方法について</a></li>
+</ul></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="ETASとは -オーストラリア観光ビザ(電子渡航認証システム)" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p06_01.webp" type="image/webp" width="640"/>
+<img alt="ETASとは -オーストラリア観光ビザ(電子渡航認証システム)" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p06_01.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="service1">ETAS(イータス)とは</h2>
+<p><a className="aioseop-link link-no-color" href="http://xs640823.xsrv.jp/etas/">ETAS(イータス)</a>とは「Electronic Travel Authority System」の略称で、オーストラリアへ渡航する際に必要となる電子渡航認証システムを意味します。ETAS(イータス)はオーストラリア政府移民局が管理と発行に関する運営を行っており、世界中からのアクセスに対応しています。ETAS(イータス)を取得することで1回の渡航につき、最長で3ヶ月(90日)以内の商用または観光目的のオーストラリア滞在が可能となります。日本国籍の方がビザを取得せずにオーストラリアに入国する際はETAS(イータス)の申請が義務付けられております。ETAS(イータス)を取得していない場合はオーストラリアへの入国が認められないだけでなく、飛行機への搭乗も拒否されることが予想されます。<br />ETAS(イータス)の申請に必要なものはICチップ機能搭載のパスポート、メールアドレス、クレジットカードの3つのみです。パスポートの有効期限に関しては、帰国予定日まで有効であることが条件となります。有効期限の日にちに余裕がない場合は、パスポートの更新手続きを済ませた後にETAS(イータス)の申請を行うことを推奨します。</p>
+<h3 className="wp-block-heading" id="service2">ETAS(イータス)の申請について</h3>
+<p>ETAS(イータス)は従来のビザとは異なり、大使館または領事館に出向いて申請する必要はございません。オンライン上の申請フォームに入力するだけで申請が可能となります。入力された渡航者情報はオーストラリア移民局にて審査され、申請の認証可否の決定がなされます。申請結果については当サイトよりEメールにて速やかに通知いたします。オーストラリア政府移民局が運営しているサイトでは不定期でシステムメンテナンスを行っており、その間はETAS(イータス)の申請を受け付けておりませんので予めご了承ください。申請から結果通知までは通常12時間、最大で3日を要することもございますので、目安としてはオーストラリアへ渡航される3日前には申請を済ませるようにご準備をお願いします。<br />ETAS(イータス)はオーストラリアへ渡航する日にちや、オーストラリアでの滞在先が決まっていなくても申請手続きが可能です。オーストラリアへの渡航が決まりましたら、早めにETAS(イータス)の申請を行うことをお勧めいたします。 </p>
+<h3 className="wp-block-heading" id="service3">ETAS(イータス)の種類について</h3>
+<p>ETAS(イータス)には観光用と短期商用の2種類があります。<br />観光目的で最長3か月の滞在が可能な「観光ETA (T=TOURIST)」と、短期の商用活動目的で3か月の滞在が可能な「短期商用ETA (B= BUSINESS)」です。この種類についてはETAS(イータス)を申請する際の渡航目的の入力により決定がなされます。どちらのETAS(イータス)を取得しても、観光と短期商用の両方に利用できるため、種類については大きな差がないものとお考えください。<br />オーストラリアのビザにはワーキングホリデーや留学、就労や一時滞在の観光など、入国の目的に応じて様々な種類があり、「Subclass (サブクラス)」という名称で分類されています。ファースト・ワーキングホリデービザ「Subclass 417」、一時就労(短期滞在活動)ビザ「Subclass 400」、婚約者ビザは「Subclass 300」などがあります。ETAS(イータス)のサブクラスは「Subclass 601」となっております。<br />ETAS(イータス)は以前、観光用と短期商用と長期商用の3種類があり、「観光ETA (V=VISITOR ETA)」は「Subclass 976」、「短期商用ETA (S=SHORT ETA)」は「Subclass 977または956」と、サブクラスも異なっていましたが、2013年3月23日に法律が改正され、長期商用の廃止と統合が行われたことにより現在の2種類となりました。 </p>
+<h2 className="wp-block-heading" id="service4">ETAS(イータス)の有効期限</h2>
+<p><a href="/reapplication/index.html">ETAS(イータス)の有効期限</a>は1年間と定められております。ただし、ETAS(イータス)が有効期限内であってもパスポートの有効期限が切れた場合は、ETAS(イータス)の有効期限もパスポートの有効期限日と同日に失効いたしますのでご注意ください。パスポートの有効期限が1年に満たない場合でETAS(イータス)申請を行った際は、ETAS(イータス)の有効期限も1年未満となります。パスポートの有効期限が1年未満の方は、まずパスポートの更新を済ませた後にETAS(イータス)の申請を行うことを推奨いたします。</p>
+<h2 className="wp-block-heading" id="service5">ETAS(イータス)の申請料金</h2>
+<p>当サイトではETAS(イータス)の申請から取得に関するサービスを、お客様に代わり遂行いたします。オーストラリア政府移民局への申請料20オーストラリアドルに加え、代行サービス料を頂戴いたします。オーストラリア政府移民局のシステム使用料：20オーストラリアドル (AUS$) ＋ 申請代行サービス料＝7,920円(税込) 。ETAS(イータス)申請費用は、クレジットカード (VISA、Master Card、JCB、Diners、AMERICAN EXPRESS)またはPaypalアカウントからのお支払いとなります。申請料の領収書が必要な方は、問い合わせフォームより「領収書希望」と記載の上、送信してください。またキャンセル・返金は、ETAS(イータス)認証システムの仕様上お受けできませんので、予めご了承ください。 ETAS(イータス)の申請料金ついて詳しくは「<a href="http://xs640823.xsrv.jp/etas/fee/index.html">オーストラリア電子渡航認証 ETAS(イータス)の申請料金</a>」をご確認ください。</p>
+<h2 className="wp-block-heading" id="service6">ETAS(イータス)の取得資格と取得条件</h2>
+<p>オーストラリアに入国、再入国、乗り継ぎをする方は、オーストラリアの電子渡航認証システム「ETAS(イータス)」を取得しなければなりません。ETAS(イータス)を申請するには、以下4つの条件を満たしている必要があります。 </p>
+<h3 className="wp-block-heading">1. ETAS(イータス)対象国籍のパスポート所持者であること</h3>
+<p>対象国籍は日本、韓国、香港、アメリカ、カナダ、シンガポール、マレーシア、ブルネイ、アンドラ、オーストリア、ベルギー、デンマーク、フィンランド、フランス、ドイツ、ギリシャ、アイスランド、アイルランド、イタリア、リヒテンシュタイン、ルクセンブルク、マルタ、モナコ、ノルウェー、ポルトガル、サンマリノ共和国、スペイン、スウェーデン、スイス、台湾、オランダ、イギリス、バチカン市国となります。<br />ただし、ETAS(イータス)のオンライン申請が可能な国は日本、韓国、アメリカ合衆国、カナダ、シンガポール、香港、マレーシア、ブルネイの8か国のみとなります。 </p>
+<h3 className="wp-block-heading">2. 渡航目的が「観光」「親族訪問」「ビジネスミーティング」「会議、展示会又は高度な技能を必要とする短期間のプロジェクト、又はイベント従事者 」のいずれかに該当しなければならない</h3>
+<p>ETAS(イータス)の「Subclass 601」を取得することで可能な渡航目的の範囲は、観光、短期間のビジネス、ビジネスの打ち合わせやイベント参加、親族や友人への訪問などに限定されます。 </p>
+<h3 className="wp-block-heading">3. オーストラリアへの滞在期間が3か月以内であること</h3>
+<p>ETAS(イータス)でオーストラリアへ滞在できる期間は1回の渡航につき3か月以内となります。それ以上の滞在を希望される場合は、渡航目的に合ったビザの申請をご検討ください。</p>
+<h3 className="wp-block-heading">4. 健康であり犯罪歴がないこと</h3>
+<p>オーストラリア政府移民局によるETAS(イータス)申請条件の条文に「健康で犯罪歴がないこと」という一節があります。重篤な持病や伝染病にかかっていないこと、係争中や執行猶予中でないことなどが申請条件となります。<br />上記の他に申請の前提条件として「現在オーストラリア国外にいること」「現在所持しているパスポートの有効満了日が３か月以上あること」「現在オーストラリアへの渡航ビザを所持していないこと」という点が挙げられます。以上の条件を満たしている方のみ、ETAS(イータス)の申請が可能となります。<br />上記の条件に該当されない方はETAS(イータス)を利用しての渡航ではなく、渡航目的に合ったビザの取得をご検討ください。 万が一、渡航目的や犯罪歴の有無を偽りオーストラリアへ渡航し、入国審査時に虚偽の申請が発覚した場合は入国が認められません。一時的な拘留や強制送還、送還費用の負担を促される場合もございます。それだけではなく、数年間にわたりオーストラリアへの入国を拒否されることになりますので、くれぐれもETAS(イータス)の申請では虚偽の内容で登録を行わないようにお願いします。 </p>
+<h2 className="wp-block-heading" id="service7">ETAS(イータス)の申請方法と手順</h2>
+<p> 一般的な渡航ビザは渡航先の国の大使館や領事館にて申請を受け付けておりますが、ETAS(イータス)はオンライン上で申請を行う電子渡航認証システムのため、窓口での申請や必要資料の郵送などは不要です。ETAS(イータス)の申請はインターネットのみでの受け付けとなっております。そのため、オーストラリア大使館・領事館の窓口に行っても申請することができませんので予めご了承ください。<br />※ETAS(イータス)はオーストラリア政府移民局の管轄のため大使館・領事館では対応しておりません。 </p>
+<h3 className="wp-block-heading" id="service8">当サイトのETAS(イータス)申請は4ステップで完了します。</h3>
+<figure className="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td> 1.申請情報を入力 </td>
+<td> 申請ページの案内に従って、ETAS(イータス)の申請に必要な情報をご入力ください。必須項目以外の項目は空欄であっても構いません。当サイトではすべて日本語でご案内しております。<br />※申請ページ内の「ETAS(イータス)お申込みに関する同意事項」を必ずお読みいただき、同意の上、ETAS(イータス)申請を進めてください。 </td>
+</tr>
+<tr>
+<td> 2.申請情報確認 </td>
+<td> 申請情報の入力が完了しましたら、入力漏れや内容に間違いがないか、必ずご確認をお願いします。<br />問題がなければ申請フォームを送信してください。 </td>
+</tr>
+<tr>
+<td> 3.申請料お支払い </td>
+<td>お支払いページへ移動しますので、ご希望のクレジットカード会社またはPaypalアカウントでのお支払い方法を選択し申請料金をお支払いください。<br />※オーストラリア政府移民局のETAS(イータス)システム利用料20オーストラリアドルと申請代行手数料として合計7,920円(税込)を頂戴します。<br />※20オーストラリアドルは為替レートによって変動いたしますが、弊社にて頂戴いたします申請料金については一律料金となります。</td>
+</tr>
+<tr>
+<td> 4.ETAS申請完了 </td>
+<td> ご登録いただいたメールアドレス宛てにETAS(イータス)申請の結果をお届けします。<br />「渡航認証許可」がおりたら、ETAS(イータス)でのオーストラリア入国が可能となります。<br />領収書が必要な場合も対応しております。ご不明な点は「<a href="http://xs640823.xsrv.jp/etas/form/contact">お問い合わせフォーム</a>」よりお名前や質問事項を記載の上、ご連絡をお願いいたします。 </td>
+</tr>
+</tbody>
+</table>
+</figure>
+<h2 className="wp-block-heading" id="service9">ETAS(イータス)の申請における注意点</h2>
+<p> ETAS(イータス)はパソコンやスマートフォンなどオンラインにて申請することが可能ですが、稀に申請完了までには時間を要するケースも報告されております。オーストラリア政府移民局は不定期でシステムメンテナンスを行っておりますが、その期間は数日にわたる場合がございます。システムメンテナンス中は全てのETAS(イータス)の申請手続きがストップいたしますので、メンテナンスの完了を待たなければなりません。また、申請を済ませた後、入力ミスが原因で申請が却下されることがあります。その際は、改めて正しい情報でETAS(イータス)の申請を行うことが必要となります。オーストラリアへ出発する日が決まっていなくてもETAS(イータス)の申請は可能ですので、オーストラリア渡航が決まった段階で早めにETAS(イータス)の申請を行うことをお勧めいたします。目安ではありますが、オーストラリアへ出発する3日前には必ずETAS(イータス)の申請を済ませておくことを推奨しております。ETAS(イータス)は年齢を問わず乳幼児であっても申請が必要となりますので、ご家族やグループでオーストラリアへ渡航される予定のある方は、同行される全員分のETAS(イータス)申請を忘れずにお願いします。 </p>
+<div className="Class_AB">
+<a className="aioseop-link" href="http://xs640823.xsrv.jp/etas/timing/index.html">ETAS(イータス)申請のタイミングについて詳しく見る</a></div>
+<h2 className="wp-block-heading" id="service10">ETAS(イータス)の申請が却下された場合の対応</h2>
+<p> ETAS(イータス)を申請した結果、何らかの理由により「渡航認証拒否」と通知される場合がございます。<br />渡航認証拒否になる理由は公表されませんが、多くの場合は入力ミスによるものです。個人情報やパスポート情報を入力する際は慎重に正確に行うことを心がけてください。また、入力中にエラーが発生した場合は先に進む前に全ての修正を完了させてから先に進みましょう。<br />なお、結核などの持病がある人、伝染病に罹患している人、犯罪歴があり刑期12ヶ月を越える有罪判決を受けたことがある人は、ETAS(イータス)の申請条件を満たしておりません。申請を行っても渡航認証拒否となることが予想されるため、ETAS(イータス)ではなく、ビザの申請をご検討ください。 </p>
+<div className="Class_AB">
+<a className="aioseop-link" href="http://xs640823.xsrv.jp/etas/refusal/index.html">ETAS(イータス)申請が認証拒否された場合について詳しく見る</a></div>
+<h3 className="wp-block-heading" id="service11">ETAS(イータス)の申請が却下された場合の対応方法について</h3>
+<div className="Class_J">
+<h4>1. ETAS(イータス)の再申請を行う</h4>
+<p>ETAS(イータス)の渡航認証が拒否される理由の多くは、申請フォームの入力間違いや入力漏れなどのケアレスミスによるものです。まずは入力をひとつひとつ丁寧に確認しながら行ってください。決済前であれば入力情報の修正は可能ですが、決済後はETAS(イータス)の詳細を変更することができません。後で間違えたことが判明した場合は改めて再申請を行い、再度申請料をお支払いいただく必要があります。万が一、パスポート番号とETAS(イータス)の登録情報とが一致しない方は、航空機への搭乗を拒否されるケースや、オーストラリアでの入国審査の際に入国を拒否されるケースもございます。申請フォームへのパスポート番号登録は、正しく慎重に入力を行いましょう。</p>
+</div>
+<div className="Class_J">
+<h4>2. 異議申し立てによるアピールを行う</h4>
+<p>ETAS(イータス)が却下された理由について納得がいかない場合は、オーストラリア政府移民局の判断に対し、納得がいかない旨を異議申し立てすることも可能です。アピールする場合は、丁寧な対応を心がけ、その内容が正当であることを移民局及び裁判所側に正確に伝える必要があります。ただし、理論的に解決する場合は、専門的な知識や準備が必要になることが多く、自分で解決することは難しいケースもございますので、弁護士などによる専門家の協力を仰ぐことをおすすめします。</p>
+</div>
+<div className="Class_J">
+<h4>3. ETAS(イータス)ではなくビザによる渡航を検討しましょう</h4>
+<p>何らかの事情がありETAS(イータス)の申請結果が「渡航認証拒否」となった場合は、訪問ビザ (サブクラス600)の申請をご検討下さい。ビザの申請はオーストラリア政府による専用サイトからオンライン申請が可能となるため、オーストラリア大使館・総領事館ではビザの窓口申請を受け付けておりません。申し込みの際には申請内容を全て英語で入力する必要がございますので、アルファベットの入力間違い等に十分注意しましょう。</p>
+</div>
+<div className="Class_AB">
+<a href="http://xs640823.xsrv.jp/etas/diff/index.html">ETAS(イータス)とビザの違いについて詳しく見る</a></div>
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="australia-etas.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"ETASとは -オーストラリア観光ビザ(電子渡航認証システム) | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

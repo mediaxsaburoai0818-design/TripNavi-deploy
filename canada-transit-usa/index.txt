@@ -1,0 +1,163 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","canada-transit-usa",""],"q":"","i":false,"f":[[["",{"children":["canada-transit-usa",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T5373,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ アメリカを経由してカナダ渡航をする方へ</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>アメリカを経由してカナダ渡航をする方へ</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">アメリカを経由してカナダ渡航をする方へ</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#viausa1">アメリカで乗り継ぐ場合、ビザは必要？</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#viausa2">ESTA(エスタ)利用条件</a></li>
+<li><a className="ez-toc-link" href="#viausa3">ESTA(エスタ)の取得日と有効期限</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#viausa4">カナダ渡航の際はeTA(イータ)申請が絶対必要？　</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#viausa5">eTA(イータ)とは</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#viausa6">韓国を経由してカナダへ渡航する場合</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#viausa7">駐日本大韓民国大使館</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#viausa8">カナダの主要国際空港</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#viausa9">トロント・ピアソン国際空港(YYZ)</a></li>
+<li><a className="ez-toc-link" href="#viausa10">バンクーバー国際空港(YVR)</a></li>
+<li><a className="ez-toc-link" href="#viausa11">モントリオール・ピエール・エリオット・トルドー国際空港(YUL)</a></li>
+<li><a className="ez-toc-link" href="#viausa12">カルガリー国際空港(YYC)</a></li>
+<li><a className="ez-toc-link" href="#viausa13">オタワ・マクドナルド・カルティエ国際空港(YOW)</a></li>
+<li><a className="ez-toc-link" href="#viausa14">ハリファックス・ロバート・L・スタンフィールド国際空港(YHZ)</a></li>
+</ul></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="アメリカを経由してカナダ渡航をする方へ" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p10_01.webp" type="image/webp" width="640"/>
+<img alt="アメリカを経由してカナダ渡航をする方へ" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p10_01.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="viausa1">アメリカで乗り継ぐ場合、ビザは必要？</h2>
+<p>カナダへの直行便は日本から発着していますが、アメリカを経由してカナダに入国する渡航ルートも依然として多く利用されております。<br />日本国籍者がカナダに空路(飛行機)を利用して入国する場合は、6か月以内の滞在に限りビザではなく<a className="aioseop-link" href="http://xs640823.xsrv.jp/eta/">電子渡航認証システムeTA(イータ)</a>を利用することができ、陸路(車、バス、鉄道または徒歩)や海路(船)で入国する場合は eTA(イータ)申請もビザも不要となります。<br />ただし、アメリカで乗り継ぎをしてカナダへ入国する場合はカナダへの入国方法に関わらずESTA(エスタ)を取得する必要があります。<br />ESTA(エスタ)はアメリカに入国(乗り継ぎ時も含む)してから90日(3か月)以内の滞在が認められております。<br />eTA(イータ)を利用してカナダに入国した場合、6か月以内のカナダ滞在が可能ですがESTA(エスタ)を利用してアメリカで乗り継いだ場合は、<br />アメリカでの往復の乗り継ぎ期間を含めて滞在期間は90日以内と定められております。飛行機を利用して往路または復路をアメリカ経由で移動される場合はESTA(エスタ)の申請も必要となりますので、滞在期間と往復で経由する空港を確認しておきましょう。</p>
+<h4 className="wp-block-heading">アメリカ経由でカナダへ入国する場合</h4>
+<p>アメリカでの乗り継ぎ(往路) + カナダでの滞在期間 + アメリカでの乗り継ぎ(復路) = 90日以内</p>
+<h3 className="wp-block-heading" id="viausa2">ESTA(エスタ)利用条件</h3>
+<p>ESTA(エスタ)申請を取得するには以下の条件を満たしている必要があります。</p>
+<ol className="wp-block-list"><li>ビザ免除プログラム参加国の国籍者であること</li><li>有効なEパスポート(IC旅券)を所持していること</li><li>海路(船)または空路(飛行機)で入国する場合に、次の目的地または往復の乗船券または航空券を所持していること</li><li>有罪判決の有無に関わらず逮捕歴または犯罪歴がないこと</li><li>重い伝染病を患っていないこと</li><li>過去にアメリカへの入国を拒否された、強制送還されたことがないこと</li><li>過去にビザ免除プログラムで渡米しオーバーステイしたことがないこと</li><li>2011年3月1日以降にイラク、イラン、シリア、リビア、スーダン、ソマリア、イエメン、北朝鮮への渡航歴または滞在歴がないこと</li><li>ビザ免除プログラム参加国の国籍とイラン、イラク、スーダン、シリア、北朝鮮のいずれかの国籍を有している二重国籍者でないこと</li><li>過去に北朝鮮への渡航歴または滞在歴がないこと(2019年8月5日より制定)</li></ol>
+<h3 className="wp-block-heading" id="viausa3">ESTA(エスタ)の取得日と有効期限</h3>
+<h4 className="wp-block-heading">ESTA(エスタ)申請は早めに済ませましょう</h4>
+<p>米国国土安全保障省(CBP)は渡米予定日の3日前までのESTA(エスタ)申請手続きを推奨しております。<br />ESTA(エスタ)申請は通常72時間以内に認証結果が通知されますが、認証が拒否された場合や利用条件に当てはまらない方はESTA(エスタ)を利用して渡米することが認められませんのでビザの取得を検討する必要があります。<br />また、ESTA(エスタ)はアメリカへの入国を必ずしも保証する制度ではありません。<br />認証が承認された場合でも最終的な入国審査は現地空港の入国審査官に委ねられます。</p>
+<h4 className="wp-block-heading">ESTA(エスタ)の有効期限は最大で2年間です</h4>
+<p>ESTA(エスタ)は認証が承認されてから有効期限が2年間付与されます。<br />ただし、パスポートの有効期限が2年以内の場合はパスポートの有効期限と同日にESTA(エスタ)も失効されますので注意が必要です。<br />ESTA(エスタ)に更新制度はありませんので、渡米予定がありESTA(エスタ)の有効期限が切れた場合は再申請を検討しましょう。</p>
+<h2 className="wp-block-heading" id="viausa4">カナダ渡航の際はeTA(イータ)申請が絶対必要？　</h2>
+<p>eTA(イータ)申請はカナダ入国に際して取得が必須なわけではありません。入国する際の交通手段により異なります。</p>
+<h4 className="wp-block-heading">空路でカナダへ入国する場合</h4>
+<p>カナダへ飛行機などの空路で入国する場合はeTA(イータ)または渡航目的に合ったビザを取得する必要があります。</p>
+<h4 className="wp-block-heading">陸路または海路でカナダへ入国する場合</h4>
+<p>アメリカを経由してカナダへ入国される際に、<br />車、バス、鉄道、徒歩などの陸路や船、クルーザーなどの海路を交通手段とされる場合はeTA(イータ)申請は不要です。</p>
+<h3 className="wp-block-heading" id="viausa5">eTA(イータ)とは</h3>
+<p>eTA(イータ)は電子渡航認証システム“Electronic Travel Authorization”の略称で2016年3月15日からカナダ市民権・移民局(CIC)によって他国籍者がカナダにビザなしで入国する際に義務化された制度です。短期の商用や観光目的としてカナダへビザなしで入国する際には渡航前にeTA(イータ)を申請し取得しておく必要があります。eTA(イータ)は認証の承認を受けてから5年間の有効期限が付与されます。<br />有効期限内であればパスポートの更新などがない限り、カナダへ1度の渡航で6か月以内の滞在であれば何度でも利用することができます。<br />ただしパスポートの有効期限が5年以内の場合はパスポートの有効期限と同日にeTA(イータ)も失効されますのでご注意ください。</p>
+<h4 className="wp-block-heading">カナダビザ免除対象国</h4>
+<p className="Class_J">オーストリア／日本／アイルランド／アイスランド／アンドラ／ドイツ／イタリア／エストニア／オランダ／キプロス／ギリシャ／スロバキア／クロアチア／サンマリノ／ジブラルタル／スイス／スウェーデン／スペイン／バハマ／スロベニア／チェコ共和国／デンマーク／ノルウェー／ハンガリー／チリ／フィンランド／フランス／バミューダ／ブルガリア／イギリスの海外領土市民／イギリス国民／バチカン市国／ベルギー／ポーランド／ポルトガル／マルタ／モナコ／ラトビア／リトアニア／リヒテンシュタイン／ルーマニア／バルバドス／メキシコ／オーストラリア／ルクセンブルク／サモア／ソロモン諸島／シンガポール／ニュージーランド／ブルネイ／韓国／パプアニューギニア／台湾／香港特別行政区／イスラエル　など</p>
+<p>乳幼児を含む未就学児、未成年者であっても旅行などでカナダへ渡航する際はeTA(イータ)申請が必要です。<br />年齢を問わずeTA(イータ)申請が必要となりますので、ご家族やグループでカナダへ渡航する際は全員分のeTA(イータ)申請をお願いします。</p>
+<h2 className="wp-block-heading" id="viausa6">韓国を経由してカナダへ渡航する場合</h2>
+<p>カナダへ渡航する際の経由地としてアメリカの他に韓国を利用する方法もあります。アメリカを経由する場合はESTA(エスタ)申請の取得が必要になりますが、韓国へ入国する日本国籍者は乗り継ぎを含む観光や短期商用、会議参加、親族訪問を目的とした90日以内の渡航に限りビザなしで入国することが許可されています。ビザなしで韓国に入国する場合は飛行機内で渡される入国カードを記入する必要があります。<br />カナダへ渡航する際に乗り継ぎ時に利用できる韓国の空港として仁川(インチョン)国際空港が挙げられます。<br />韓国の首都ソウルにある仁川(インチョン)国際空港は日本の各空港からのアクセスも良く、世界の空港ランキングでも上位にランクインするアジア最大級のハブ空港となっております。アメリカより韓国を経由する場合、渡航時間は長くなりますが航空券のコストを抑えられる場合が多くなっておりますので渡航者の渡航プランにより選択することが可能です。</p>
+<div className="Class_J">
+<h4>仁川(インチョン)国際空港</h4>
+<p><a href="https://www.airport.kr/ap/ja/index.do" target="_blank">https://www.airport.kr/ap/ja/index.do</a></p>
+</div>
+<h3 className="wp-block-heading" id="viausa7">駐日本大韓民国大使館</h3>
+<figure className="wp-block-table"><table><tbody><tr><td> 住所 </td><td> 〒106-0047　東京都港区南麻布1-2-5 </td></tr><tr><td> 電話番号 </td><td> (81-3)3452-7611 / 9 </td></tr><tr><td> 営業時間 </td><td> 月～金　9:00～18:00(領事部9:00～16:00) </td></tr><tr><td> 公式サイト </td><td> <a href="http://overseas.mofa.go.kr/jp-ko/index.do" rel="noreferrer noopener" target="_blank">http://overseas.</a><a aria-label="mofa (新しいタブで開く)" href="http://overseas.mofa.go.kr/jp-ko/index.do" rel="noreferrer noopener" target="_blank">mofa</a><a href="http://overseas.mofa.go.kr/jp-ko/index.do" rel="noreferrer noopener" target="_blank">.go.kr/jp-ko/index.do</a> </td></tr></tbody></table></figure>
+<p></p>
+
+<h2 className="wp-block-heading" id="viausa8">カナダの主要国際空港</h2>
+<h3 className="wp-block-heading" id="viausa9">トロント・ピアソン国際空港(YYZ)</h3>
+<p>1939年より「マルトン空港」として開港後、1960年には運営がカナダ交通省に変わり「トロント国際空港」に改名、1984年にオンタリオ州出身の第14代カナダ首相レスター・B・ピアソンにちなみ現在の名前になりました。<br />世界でもトップクラスの設備に加え年間45万を超える発着数を誇り、利用旅客数が約4400万人にも及ぶカナダ国内最大の空港です。</p>
+<figure className="wp-block-table"><table><tbody><tr><td> 所在地 </td><td> カナダ中東部のオンタリオ州トロントとミシサガの間に位置する </td></tr><tr><td> 日本からの直行便 </td><td> 約12時間 </td></tr><tr><td> 市内までの所要時間 </td><td> トロント市内まで約30～40分 </td></tr><tr><td> 周辺の主な観光地 </td><td> CNタワー(Canadian National Tower)、ロジャースセンター、ホッケーの殿堂 </td></tr><tr><td> 公式サイト </td><td> <a href="https://www.torontopearson.com/en" rel="noreferrer noopener" target="_blank">https://www.torontopearson.com/en</a> </td></tr></tbody></table></figure>
+<p></p>
+
+<h3 className="wp-block-heading" id="viausa10">バンクーバー国際空港(YVR)</h3>
+<p>カナダ国内ではトロント・ピアソン国際空港に次ぐ発着数や旅客数を誇る空港。<br />バンクーバー水族館による管理のもと空港内に設置されている巨大な２つの水槽が有名。</p>
+<figure className="wp-block-table"><table><tbody><tr><td> 所在地 </td><td> カナダ西海岸のブリティッシュコロンビア州リッチモンドに位置する </td></tr><tr><td> 日本からの直行便 </td><td> 約9時間 </td></tr><tr><td> 市内までの所要時間 </td><td> バンクーバー市内またはリッチモンド市内まで約30分 </td></tr><tr><td> 周辺の主な観光地 </td><td> ギャスタウン、イェールタウン、キツラノ、スタンレーパーク </td></tr><tr><td> 公式サイト </td><td> <a aria-label=" (新しいタブで開く)" href="http://www.yvr.ca/en/passengers" rel="noreferrer noopener" target="_blank">https://www.yvr.ca/en/passengers</a> </td></tr></tbody></table></figure>
+<p></p>
+
+<h3 className="wp-block-heading" id="viausa11">モントリオール・ピエール・エリオット・トルドー国際空港(YUL)</h3>
+<p>1941年に「モントリオール・ドルバル国際空港」として開港後、2004年にカナダ元首相ピエール・エリオット・トルドーにちなみ現在の名称に改名されました。カナダの航空会社「エア・カナダ」の本拠地としても知られている。</p>
+<figure className="wp-block-table"><table><tbody><tr><td> 所在地 </td><td> カナダ東部のケベック州モントリオールに位置する </td></tr><tr><td> 日本からの直行便 </td><td> 約13時間 </td></tr><tr><td> 市内までの所要時間 </td><td> モントリオール市内まで約20分 </td></tr><tr><td> 周辺の主な観光地 </td><td> ノートルダム大聖堂、モン・ロワイヤル公園、ジャン・タロン・マーケット </td></tr><tr><td> 公式サイト </td><td> <a href="https://www.admtl.com/" rel="noreferrer noopener" target="_blank">https://www.admtl.com/</a> </td></tr></tbody></table></figure>
+<p></p>
+
+<h3 className="wp-block-heading" id="viausa12">カルガリー国際空港(YYC)</h3>
+<p>バンクーバー国際空港と並んで西部カナダの重要な拠点空港であり、カナダ国内で3番目に利用者の多い空港。<br />国際線ターミナルと国内線ターミナルが連絡通路で結ばれており、それぞれ1つのターミナルで乗り換えが済むので利便性が高い。</p>
+<figure className="wp-block-table"><table><tbody><tr><td> 所在地 </td><td> カナダ西部のアルバータ州カルガリーに位置する </td></tr><tr><td> 日本からの直行便 </td><td> 約10時間 </td></tr><tr><td> 市内までの所要時間 </td><td> カルガリー市内まで約30分 </td></tr><tr><td> 周辺の主な観光地 </td><td> バンフ国立公園、ヘリテージパーク、カルガリー動物園 </td></tr><tr><td> 公式サイト </td><td> <a href="https://www.yyc.com/" rel="noreferrer noopener" target="_blank">https://www.yyc.com/</a> </td></tr></tbody></table></figure>
+<p></p>
+
+<h3 className="wp-block-heading" id="viausa13">オタワ・マクドナルド・カルティエ国際空港(YOW)</h3>
+<p>カナダ初代首相のジョン・A・マクドナルドと、連邦の父と呼ばれた政治家ジョルジュ・エティエンヌ・カルティエにちなんで名付けられた空港。3本の滑走路と1棟の乗客ターミナルを保有。</p>
+<figure className="wp-block-table"><table><tbody><tr><td> 所在地 </td><td> カナダの首都オタワに位置する </td></tr><tr><td> 日本からの直行便 </td><td> バンクーバー国際空港を経由して約15時間 </td></tr><tr><td> 市内までの所要時間 </td><td> オタワ市内まで約20～30分 </td></tr><tr><td> 周辺の主な観光地 </td><td> カナダ国会議事堂、世界遺産のリドー運河、バイワード・マーケット </td></tr><tr><td> 公式サイト </td><td> <a href="http://www.ottawa-airport.ca/" rel="noreferrer noopener" target="_blank">http://www.ottawa-airport.ca/</a> </td></tr></tbody></table></figure>
+<p></p>
+
+<h3 className="wp-block-heading" id="viausa14">ハリファックス・ロバート・L・スタンフィールド国際空港(YHZ)</h3>
+<p>ノバスコシア州の第17代首相ロバートLスタンフィールドにちなんで名づけられた空港。<br />プリンスエドワードアイランド州とニューブランズウィック州へのアクセスも良く、またヨーロッパへのハブ空港としても人気。</p>
+<figure className="wp-block-table"><table><tbody><tr><td> 所在地 </td><td> カナダ東部のノバスコシア州ハリファックス近郊に位置する </td></tr><tr><td> 日本からの直行便 </td><td> トロント・ピアソン国際空港やバンクーバー国際空港などを経由して約17時間 </td></tr><tr><td> 市内までの所要時間 </td><td> ハリファックス市内まで約30～40分 </td></tr><tr><td> 周辺の主な観光地 </td><td> ウォーターフロント、シタデル国定史跡、フィッシャーマンズ・コーヴ </td></tr><tr><td> 公式サイト </td><td> <a href="https://halifaxstanfield.ca/" rel="noreferrer noopener" target="_blank">https://halifaxstanfield.ca/</a> </td></tr></tbody></table></figure>
+<p></p>
+
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"アメリカを経由してカナダ渡航をする方へ | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

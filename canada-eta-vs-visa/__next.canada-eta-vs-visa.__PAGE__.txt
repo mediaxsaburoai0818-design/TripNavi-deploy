@@ -1,0 +1,171 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T599e,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダのeTA(イータ)とビザの違いとは</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダのeTA(イータ)とビザの違いとは</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading"> カナダのeTA(イータ)とビザの違いとは </h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#lengthofstay1">ビザとは</a></li>
+<li><a className="ez-toc-link" href="#lengthofstay2">電子渡航認証システムとは</a></li>
+<li><a className="ez-toc-link" href="#lengthofstay3">カナダ渡航の際に必要なビザとeTA(イータ)申請について</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#lengthofstay4">6カ月以内の渡航はeTA(イータ)申請を</a></li>
+<li><a className="ez-toc-link" href="#lengthofstay5">カナダのビザ免除国</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#lengthofstay6">カナダのビザについて</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#lengthofstay7">学生ビザ</a></li>
+<li><a className="ez-toc-link" href="#lengthofstay8">就労ビザ</a></li>
+<li><a className="ez-toc-link" href="#lengthofstay9">スーパービザ</a></li>
+<li><a className="ez-toc-link" href="#lengthofstay10">訪問者ビザ</a></li>
+<li><a className="ez-toc-link" href="#lengthofstay11">トランジットビザ</a></li>
+<li><a className="ez-toc-link" href="#lengthofstay12">ワーキングホリデー</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#lengthofstay13">ワーキングホリデー制度とは</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#lengthofstay14">日本とワーキングホリデー協定を結んでいる国</a></li>
+<li><a className="ez-toc-link" href="#lengthofstay15">カナダのワーキングホリデーについて</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#lengthofstay16">滞在期間を延長するには</a></li>
+<li><a className="ez-toc-link" href="#lengthofstay17">渡航目的に合わせて申請しましょう</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#lengthofstay18">eTA(イータ)申請が必要となるケース</a></li>
+<li><a className="ez-toc-link" href="#lengthofstay19">カナダビザ申請センター</a></li>
+</ul></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="パスポートとビザスタンプ" className="img_big m20-t m20-b" height="445" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p01_01.webp" type="image/webp" width="640"/>
+<img alt="パスポートとビザスタンプ" className="img_big m20-t m20-b" decoding="async" height="445" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p01_01.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="lengthofstay1">ビザとは</h2>
+<p>海外へ渡航する際に必要となるビザとパスポートですが、どのような違いと特長があるのでしょうか。 パスポートが国外へ入国・滞在する際の身分証明書になるのに対し、ビザは入国しても差し支えないことを渡航先の国の政府が証明するものです。<br />ビザは事前に書類や面接などで審査が行われ、入国しても問題無いと判断された場合のみ発行されます。<br />ただしビザは必ずしも入国を保証するものではなく、最終的な判断は入国審査官に委ねられますのでご了承ください。海外渡航の際、目的が観光や短期の商用であればパスポートのみで入国・滞在できる国もありますが、パスポートだけでなく観光ビザが必要となる国もあります。<br />また、留学や就労のために長期滞在する場合には学生ビザや就労ビザ等を渡航目的に合わせて取得しなければなりません。</p>
+<h2 className="wp-block-heading" id="lengthofstay2">電子渡航認証システムとは</h2>
+<p>電子渡航認証とはビザの取得が免除される代わりに申請が必要となるもので、いわば短期滞在用の簡易的なビザと捉えてもよいでしょう。<br />電子渡航認証は申請者が希望する外国へ入国する適格性があるかを事前に審査するシステムで、オンラインでパスポート情報や個人情報等を入力し取得します。ビザは申請から取得するまで数週間かかるのに対し、電子渡航認証は基本的に短時間で承認されます。<br />なお、電子渡航認証もビザと同様に入国を保証するものではなく、最終的な判断は入国審査官に委ねられます。多発するテロ等による情勢の変化から、電子渡航認証の取得を必要とする国が近年増えています。電子渡航認証システムは<a href="http://xs640823.xsrv.jp/eta/">カナダのeTA(イータ)</a>、アメリカのESTA(エスタ)、オーストラリアのETAS(イータス)、スリランカのETA(イーティーエー)が現在運営されており、ヨーロッパでは2022年よりETIAS(エティアス)という電子渡航認証システムが導入される予定となっています。電子渡航認証は国により滞在可能日数や有効期限が異なります。<br />観光などで渡航の際は早めに電子渡航認証を申請するようにしましょう。</p>
+<picture>
+<source alt="カナダ渡航の際に必要なビザとeTA(イータ)申請について" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p01_02.webp" type="image/webp" width="640"/>
+<img alt="カナダ渡航の際に必要なビザとeTA(イータ)申請について" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p01_02.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="lengthofstay3">カナダ渡航の際に必要なビザとeTA(イータ)申請について</h2>
+<h3 className="wp-block-heading" id="lengthofstay4">6カ月以内の渡航はeTA(イータ)申請を</h3>
+<p>eTA(イータ)はカナダの電子渡航認証システムで、カナダ入国に不適格な人物の入国を未然に防ぐ施策として2016年3月より導入されました。<br />カナダへの渡航前にオンライン上で審査を済ませるため、入国審査場の混雑緩和の役目も担っています。eTA(イータ)が導入される前、日本国籍の方はパスポートのみでカナダへの入国・短期滞在が可能でしたが、現在はeTA(イータ)申請が必須となっています。eTA(イータ)申請は空路でカナダへ入国・乗り継ぎをする場合に必要で、陸路と海路を利用して入国する際は申請する必要はありません。有効期限は申請日より5年間またはパスポートの有効期限までとなります。eTA(イータ)の有効期間中であれば一度の渡航で最長6カ月の滞在が何度でも認められます。ただし、eTA(イータ)を利用してカナダへ渡航した場合、アルバイトを含む就労は一切認められませんのでご注意ください。<br />滞在期間が6カ月以内の観光、親戚や友人宅への訪問、出張、留学などを目的としてカナダへ渡航する際はeTA(イータ)申請が必須となります。申請手続きからeTA(イータ)が承認されるまで数日かかってしまうケースもありますので、早めのeTA(イータ)申請をお願いします。 </p>
+<h3 className="wp-block-heading" id="lengthofstay5">カナダのビザ免除国</h3>
+<p className="Class_J">アンドラ／オーストラリア／オーストリア／バハマ／バルバドス／ベルギー／イギリス国民*イギリスの海外領土市民／ブルネイ・ダルサラーム国／ブルガリア／チリ／クロアチア／キプロス／チェコ共和国／デンマーク／エストニア／フィンランド／フランス／ドイツ／ギリシャ／香港(香港特別行政区発行のパスポートが必要)／ハンガリー／アイスランド／アイルランド／イスラエル／イタリア／日本／大韓民国／ラトビア／リヒテンシュタイン／リトアニア／ルクセンブルク／マルタ／メキシコ／モナコ／オランダ／ニュージーランド／ノルウェー／パプアニューギニア／ポーランド／ポルトガル／ルーマニア(電子パスポート所持者のみ)／サモア／サンマリノ／シンガポール／スロバキア／スロベニア／ソロモン諸島／スペイン／スウェーデン／スイス／台湾(台湾の外務省により発行された個人識別番号が記載されたパスポートが必要)／アラブ首長国連邦／アメリカ合衆国の合法的永住者／バチカン市国(バチカン発行のパスポートまたは旅行書類の所持が必要)<br /><br />*イギリスの海外領土 アンギラ／バミューダ／イギリス領ヴァージン諸島／ケイマン諸島／フォークランド諸島(マルビナス)／ジブラルタル／モントセラト／ピトケアン島／セントヘレナ／タークス諸島およびカイコス諸島で出生、帰化などにより市民権を持つもの</p>
+<picture>
+<source alt="カナダのオーロラ" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p01_03.webp" type="image/webp" width="640"/>
+<img alt="カナダのオーロラ" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p01_03.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="lengthofstay6">カナダのビザについて</h2>
+<h3 className="wp-block-heading" id="lengthofstay7">学生ビザ</h3>
+<p>カナダの学生ビザは就学許可証(Study Permit)と呼ばれ、6カ月以上の留学をする場合に必要となります。カナダでは政府が指定している学習機関へ海外からの留学生を受け入れており、留学が終了する期日に加え90日間滞在することが認められています。<br />※6カ月以内の交換プログラム等の短期留学の場合、学生ビザではなくeTA(イータ)での渡航・滞在も可能です。</p>
+<h3 className="wp-block-heading" id="lengthofstay8">就労ビザ</h3>
+<p>カナダの就労ビザは就労許可証(Work Permit)と呼ばれます。カナダの大学に8か月以上通学し卒業した方が申請できるポストグラデュエート就労ビザ、実習生用の就労ビザ、配偶者向けの就労ビザ、家族移民者用就労ビザなど様々な種類の就労ビザがあります。</p>
+<h3 className="wp-block-heading" id="lengthofstay9">スーパービザ</h3>
+<p>カナダ国民または永住者の親または祖父母に発給されるビザで、一度の渡航で最大2年間の滞在が可能となっています。<br />有効期間は10年間となっており、有効期間内であれば複数回の渡航が認められます。</p>
+<h3 className="wp-block-heading" id="lengthofstay10">訪問者ビザ</h3>
+<p>訪問者ビザ(Visitor Visa)は一時滞在ビザ(Temporary Visa)とも呼ばれます。<br />ビザが免除されていない国籍の方がカナダへ入国する際に必要となるビザで、6カ月以内の滞在が許可されます。</p>
+<h3 className="wp-block-heading" id="lengthofstay11">トランジットビザ</h3>
+<p>トランジットビザ(Transit Visa)はビザが免除されていない国籍の方がカナダでトランジット(飛行機の乗り換え)をする際に必要となるビザです。カナダに到着してから48時間以内に出国することが条件となります。</p>
+<h3 className="wp-block-heading" id="lengthofstay12">ワーキングホリデー</h3>
+<p>日本はカナダと<a href="http://xs640823.xsrv.jp/eta/working-holiday/index.html">ワーキングホリデー</a>協定を締結しているため、18～30歳の方であればワーキングホリデーを申請することで1年間カナダに滞在することが可能です。ワーキングホリデーを利用することで観光や就学(6か月以内)、ホームステイ、アルバイトなど自由に過ごすことが認められています。</p>
+<p>以上のようにカナダでは渡航目的により様々なビザが用意されています。すべてオンラインにて申請が可能ですが、eTA(イータ)申請とは異なり多くの書類が必要となります。<br />また、カナダのビザ申請にはバイオメトリクス(個人識別情報)の登録がほとんどのケースで必須となっています。日本ではカナダビザ申請センター(東京都港区に1か所のみ)にて顔写真撮影と指紋採取が行われ、カナダ政府へ個人識別情報として提供されます。</p>
+<h2 className="wp-block-heading" id="lengthofstay13">ワーキングホリデー制度とは</h2>
+<p>日本とワーキングホリデー協定を結んでいる国・地域では、青年が相手国・地域で一定期間を過ごすことが可能となっています。<br />広い国際的視野をもった青年を育成し、両国・地域間の相互理解、友好関係を促進することが目的とされた制度です。<br />滞在中には旅行することに加えて短期の就学や滞在費を賄う為のアルバイトをすることが許可されています。<br />入国から3～4か月まで語学学校に通い、その後アルバイトや旅行、ボランティアなどをして過ごすことが一般的となっています。<br />なお、ワーキングホリデービザはあくまでも観光を目的としたビザなので、留学や就労を第一の目的とした渡航では利用できません。</p>
+<p>参考ページ：<a href="http://xs640823.xsrv.jp/eta/working-holiday/index.html">カナダのワーキングホリデー</a></p>
+<h3 className="wp-block-heading" id="lengthofstay14">日本とワーキングホリデー協定を結んでいる国</h3>
+<div className="Class_J country-list"><ul><li>カナダ</li><li>オーストラリア</li><li>ニュージーランド</li><li>韓国</li><li>フランス</li><li>ドイツ</li><li>イギリス</li><li>アイルランド</li><li>デンマーク</li><li>台湾</li><li>香港</li><li>ノルウェー</li><li>ポーランド</li><li>ポルトガル</li><li>スロバキア</li><li>オーストリア</li><li>ハンガリー</li><li>スペイン</li><li>アルゼンチン</li><li>チェコ</li><li>チリ</li><li>アイスランド</li><li>リトアニア</li>
+<li>スウェーデン</li>
+<li>エストニア</li>
+<li>オランダ </li>
+</ul></div>
+<h3 className="wp-block-heading" id="lengthofstay15">カナダのワーキングホリデーについて</h3>
+<p>カナダでは18～30歳の方がワーキングホリデービザを申請可能で1年間の滞在が許可されます。<br />ワーキングホリデーでカナダを訪れる際のメリットとしては英語の訛りが少ない点です。<br />英語を学ぶ環境としては最適で、多くの日本人がワーキングホリデービザを取得し滞在中に語学学校で英語を学んでいます。<br />また、ケベック州のようにフランス語が公用語となっている地域もありますので英語圏とは異なる文化に触れることもでき、<br />カナダは移民が多い国でもあるので様々な文化に触れるチャンスが多くあります。ただしカナダの気候には注意が必要です。<br />カナダは寒さが厳しいという印象があるかと思いますが、地域によって気候が異なり冬の寒さにも差があります。1年間滞在する上で寒さに対応できるか等をよく検討し滞在場所を選択しましょう。カナダのワーキングホリデービザは毎年秋ごろから次年度の募集が開始されます。<br />申請は全てオンラインで可能となっていますので、まずは申請書類を揃えましょう。<br />なお、ワーキングホリデービザを申請するには以下の条件を満たさなければなりません。</p>
+<div className="Class_D">
+<h5>日本国籍を保有していること</h5>
+</div>
+<div className="Class_D">
+<h5>申請時点の年齢が18～30歳であること</h5>
+</div>
+<div className="Class_D">
+<h5>プログラム参加費の支払いが可能であること</h5>
+</div>
+<div className="Class_D">
+<h5>滞在期間中、期限が有効な日本国籍のパスポートを所持していること</h5>
+</div>
+<div className="Class_D">
+<h5>最低でも2,500カナダドルの所持が証明できること</h5>
+</div>
+<div className="Class_D">
+<h5>滞在する期間内をカバーする医療保険に加入すること</h5>
+</div>
+<div className="Class_D">
+<h5>滞在終了時に航空券を購入するための資金があること、または帰国のための航空券を所持していること</h5>
+</div>
+<div className="Class_D">
+<h5>就労許可証の申請時に日本の本籍地をカナダ政府へ提供すること</h5>
+</div>
+<div className="Class_D">
+<h5>扶養家族の同行がないこと</h5>
+</div>
+<div className="Class_D">
+<h5>カナダに入国する資格があること</h5>
+</div>
+<div className="Class_AB">
+  《引用》<a aria-label=" (新しいタブで開く)" href="http://www.cic.gc.ca/english/work/iec/eligibility.asp?country=jp&amp;cat=wh" rel="noreferrer noopener" target="_blank">カナダ政府ウェブサイト</a>より</div>
+<h2 id="lengthofstay16">滞在期間を延長するには</h2>
+<p>eTA(イータ)では最大6カ月の滞在が認められており、その他のビザでは目的に合わせて滞在期間が決定されますが、滞在期間の延長をオンラインで申請することも可能です。滞在期間を延長するには滞在期限が切れる30日前までに申請する必要がありますので、延長を申請する前に必ず滞在期限をご確認ください。延長するための申請が承認されると「訪問者レコード」が送付されます。<br />訪問者レコードとはカナダに滞在できる期間が記載された文書ですので大切に管理しましょう。</p>
+<h2 className="wp-block-heading" id="lengthofstay17">渡航目的に合わせて申請しましょう</h2>
+<p>上述のようにカナダへ渡航される際には目的に合わせてビザやeTA(イータ)を取得しなければなりません。<br />渡航する目的を確認し、ビザやeTA(イータ)申請手続きを行いましょう。</p>
+<h3 className="wp-block-heading" id="lengthofstay18">eTA(イータ)申請が必要となるケース</h3>
+<ol className="wp-block-list"><li><strong>ビザ免除国のパスポートを所持していること</strong></li><li><strong>6カ月以内の滞在で渡航目的が観光、親戚や友人宅への訪問、出張、短期留学などであること</strong></li><li><strong>カナダ国内の空港を乗り継ぎで利用して他国へ向かう場合</strong></li></ol>
+<p>上記に当てはまらないカナダへの渡航はビザが必要となります。ビザの申請はオンラインで可能となっています。現在は日本のカナダ大使館の査証(ビザ)部が廃止されたため、ビザに関する業務は民間会社が運営しているカナダビザ申請センターに委託されています。<br />ビザ申請の際に必要となるバイオメトリクスの登録はビザ申請センターでのみ行うことが可能です。</p>
+<h3 className="wp-block-heading" id="lengthofstay19">カナダビザ申請センター</h3>
+<figure className="wp-block-table"><table><tbody><tr><td>所在地 </td><td>〒105-0014　東京都港区芝1-4-3 SANKI芝金杉橋ビル4階 </td></tr><tr><td>バイオメトリクス登録受付時間 </td><td>10 : 00～17 : 00</td></tr><tr><td>営業日 </td><td>月曜日～金曜日(祝祭日のぞく) </td></tr><tr><td>お知らせ</td><td>カナダビザ申請センターは新型コロナウイルスの感染対策として窓口を閉鎖していましたが、2020年6月8日より東京・大阪ともに業務を再開しました。<br />同センターは、当面のあいだバイオメトリクスの登録やパスポート返却等のみの対応となります。<br />詳細はカナダビザ申請センターの「<a href="https://visa.vfsglobal.com/jpn/ja/can/" rel="noreferrer noopener" target="_blank">新型コロナウイルスによる営業時間など変更のお知らせ</a>」をご確認ください。</td></tr></tbody></table></figure>
+<p></p>
+
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

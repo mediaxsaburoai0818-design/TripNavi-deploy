@@ -1,0 +1,119 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","canada-cannabis",""],"q":"","i":false,"f":[[["",{"children":["canada-cannabis",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T4808,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダの大麻(マリファナ)合法化に関する実情と注意点</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダの大麻(マリファナ)合法化に関する実情と注意点</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">カナダの大麻(マリファナ)合法化に関する実情と注意点</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1">
+<li><a className="ez-toc-link" href="#marijuana1">2018年よりカナダでは大麻が合法に</a></li>
+<li><a className="ez-toc-link" href="#marijuana2">カナダで大麻が合法化された理由</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#marijuana2-1">闇市場での密売やマフィアへの資金流入を防ぐため</a></li>
+<li><a className="ez-toc-link" href="#marijuana2-2">未成年者の大麻使用を防ぐため</a></li>
+<li><a className="ez-toc-link" href="#marijuana2-3">大麻の生産・販売・所持を政府主導で管理するため</a></li>
+<li><a className="ez-toc-link" href="#marijuana2-4">税収により財源を強化するため</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#marijuana3">大麻の危険性と身体への影響</a></li>
+<li><a className="ez-toc-link" href="#marijuana4">日本国籍者が大麻の使用で処罰されるケースとは？</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#marijuana4-1">各州における法定年齢と大麻に関する制限</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#marijuana5">短期のカナダ入国・渡航にはeTA(イータ)の申請が必要です</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="カナダでの大麻合法化" className="img_big m20-t m20-b lazyloaded" height="425" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/a281180162f798cd31d6f073a04f7a8f.webp" type="image/webp" width="640"/><img alt="カナダでの大麻合法化" className="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/a281180162f798cd31d6f073a04f7a8f.jpg" width="640"/>
+</picture>
+<p>カナダでは政府による厳しい管理のもと、大麻(マリファナ)の生産や使用を認めています。かつてより医療分野での使用が認められていたカナダでは、医師による処方せんを取得することで大麻の購入が可能でした。他国よりも入手が容易で使用に対し寛容な習慣があることから、2割以上の市民が大麻を使用しています。<br />このページではカナダの大麻合法化に至った経緯や、市民や渡航者に与える影響などについて解説します。</p>
+<h2 className="wp-block-heading" id="marijuana1">2018年よりカナダでは大麻が合法に</h2>
+<p>カナダが大麻合法化に至ったきっかけは、2015年における総選挙に端を発します。大麻の合法化を公約に掲げたトルドー氏が大領領に就任し、関連する法案が2018年6月に可決。成人用の嗜好品として大麻の使用が法的に認められ、2018年10月17日に合法化となりました。</p>
+<div className="Class_AB">
+  大麻合法化に伴い、カナダ政府は以下の3原則を制定しています。<br /><ul><li>未成年者を大麻から守ること</li><li>犯罪組織への資金を断つこと</li><li>違法な大麻の生産・流通・消費を防ぎ、一連を国の管理下に置くこと</li></ul></div>
+<p>大麻の合法化はウルグアイに次ぎ世界で2か国目となります。<br />カナダでは全土で大麻を合法として認めていますが、生産や販売に関する条例は<a href="https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/laws-regulations/provinces-territories.html" rel="noreferrer noopener" target="_blank">州や地域</a>により異なります。また、使用可能な場所や年齢についても州によりルールが異なるため、政府は利用者に注意と配慮を求めています。</p>
+<h2 className="wp-block-heading" id="marijuana2">カナダで大麻が合法化された理由</h2>
+<h3 className="wp-block-heading" id="marijuana2-1">闇市場での密売やマフィアへの資金流入を防ぐため</h3>
+<p>カナダでは大麻が合法化されるまで、売上の大半がマフィアなどの犯罪組織へ流れていたと推測されています。金額は年間70億カナダドルに上るとみられ、大麻は犯罪組織の大きな資金源となっていました。さらに、マフィアが闇市場で密売する大麻は不純物などが多く含まれ、健康に関する被害も増加。政府は悪質な大麻の取り締まりを強化し、犯罪組織への資金流入と健康被害の撲滅を目的として合法化に至りました。大麻の生産・流通・消費を国が一元管理し、商品の安全性と価格の透明性が向上したことから、合法化のモデルケースとして各国から評価されています。かつて違法な取引を行っていた犯罪組織は摘発され、カナダにおける大麻の販売は政府承認による店舗またはオンラインストアのみとなりました。</p>
+<h3 className="wp-block-heading" id="marijuana2-2">未成年者の大麻使用を防ぐため</h3>
+<p>これまで大麻は違法な取引が主流で、カナダでは代金を支払うことで未成年者も購入が可能でした。特にバンクーバーやトロントなどの都市部では未成年者による大麻の使用が社会問題に発展。合法化した2018年以降は年齢確認を必須とし、<a href="https://www.justice.gc.ca/eng/cj-jp/cannabis/" rel="noreferrer noopener" target="_blank">大麻法</a>の施行により未成年者への販売および提供が禁止となりました。未成年者に大麻を提供した店舗や施設は刑事犯罪として告訴され、最大14年の懲役が科されます。<br />なお、日本からの渡航者は日本の大麻取締法が適用されるため、国外へ渡航した際も日本の法律遵守が求められます。留学や観光などでカナダへ渡航する方は、大麻を使用しないようご注意ください。</p>
+<p className="class_indent">※カナダでは大半の州で19歳以上の市民に大麻の使用を認めています。ただし、日本国籍の方は「<a href="https://www.mhlw.go.jp/web/t_doc?dataId=81108000&amp;dataType=0&amp;pageNo=1" rel="noopener" target="_blank">大麻取締法 第二十四条の二</a>」が適用されるため、大麻を使用した際は国外犯処罰の対象となります。</p>
+<h3 className="wp-block-heading" id="marijuana2-3">大麻の生産・販売・所持を政府主導で管理するため</h3>
+<p>かつて闇市場で犯罪組織が販売していた大麻は不純物が多く含まれ、身体への悪影響が問題視されていました。悪質な大麻による健康被害を防ぐことも合法化に至った大きな要因として挙げられます。現在、カナダ国内で流通している大麻は全て政府による管理下に置かれているため、以前と比べ安全性が飛躍的に向上しました。</p>
+<h3 className="wp-block-heading" id="marijuana2-4">税収により財源を強化するため</h3>
+<p>2018年10月からの合法化により、カナダ国内で販売される大麻には連邦税が課されました。政府は大麻の合法化を表明する際、販売によって得た税金を国家の資金に充てる方針を表明。年間約4億カナダドルの税収が連邦政府の国家資金として賄われ、財源の強化に繋がっています。大麻の使用は各国で賛否があるなか、カナダ政府は合法化により徹底した一元管理を実現。大麻合法化の成功事例として世界から注目されています。</p>
+<h2 className="wp-block-heading" id="marijuana3">大麻の危険性と身体への影響</h2>
+<p>大麻は麻の一種を使用して製造されます。大麻には身体に影響を及ぼすTHC(テトラヒドロカンナビノール)が含まれ、煙を吸うことで<a href="https://www.canada.ca/en/services/health/campaigns/cannabis/health-effects.html" rel="noreferrer noopener" target="_blank">様々な症状</a>が起こります。THCは脳の中枢神経に作用し、過度の吸引により幻覚などの症状が起こることから使用には十分な注意が必要です。多量の大麻が身体に与える影響として、幻聴・幻覚・多幸感・多動性・口内の渇き・食欲や睡眠の異常・心拍数の増加などの症状があり、意識障害に至るケースもあります。<br />また、大麻の成分には発がん性物質も含まれ、呼吸器官にも影響を及ぼすと医療専門家は指摘。長年の使用は気管支炎や咽頭炎の原因となり、肺がんの発症リスクも増加することが研究機関により報告されています。慢性的な使用により中毒症状も引き起こすため、政府と医療関係者らのあいだで大麻をめぐり今後も議論が続く見込みです。</p>
+<h2 className="wp-block-heading" id="marijuana4">日本国籍者が大麻の使用で処罰されるケースとは？</h2>
+<p>日本国籍の方が海外へ渡航した場合、原則として国外でも日本の法律が適用されます。日本の大麻取締法により、国外においても大麻の使用は処罰の対象となりますのでご注意ください。カナダでは州により法定年齢が異なりますが、全土において未成年者の大麻使用は禁止されています。日本からの渡航者は大麻取締法の適用により、年齢を問わず使用はできません。<br />また、カナダでは大麻の成分を含有したキャンディーやチョコレートなどの菓子類が販売されていますが、お土産として日本へ持ち込むことは禁止されています。当該の菓子類も大麻所持に抵触するため、帰国時の入国審査により没収となることが予想されます。カナダでの留学や観光を計画中の方は、大麻に関する正しい知識を持って渡航するようお願いします。<br />日本国外における違法薬物の使用や所持に関する注意点は、<a href="https://www.anzen.mofa.go.jp/c_info/oshirase_yakubutsuchuui.html" rel="noreferrer noopener" target="_blank">外務省のホームページ</a>をご確認ください。</p>
+<h3 className="wp-block-heading" id="marijuana4-1">各州における法定年齢と大麻に関する制限</h3>
+<div className="scroll-table"><table><tbody><tr><td style="background:#f7f7f7;" width="230">州</td><td style="background:#f7f7f7;" width="100">法定年齢</td><td style="background:#f7f7f7;">購入場所</td><td style="background:#f7f7f7;" width="250">公的所有制限</td></tr><tr><td style="background:#fff;"><a href="https://www.alberta.ca/cannabis-legalization.aspx" rel="noopener" target="_blank">アルバータ州</a></td><td>18歳</td><td>政府が運営するオンラインストア、個人ライセンス取得による対面販売</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www2.gov.bc.ca/gov/content/safety/public-safety/cannabis" rel="noopener" target="_blank">ブリティッシュコロンビア州</a></td><td>19歳</td><td>政府が運営する直営店およびオンラインストア、政府承認による民間の小売店</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www.gov.mb.ca/cannabis/index.html" rel="noopener" target="_blank">マニトバ州</a></td><td>19歳</td><td>政府が運営するオンラインストア、政府承認による民間の小売店</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www2.gnb.ca/content/gnb/en/corporate/promo/cannabis.html" rel="noopener" target="_blank">ニューブランズウィック州</a></td><td>19歳</td><td>政府が運営する直営店およびオンラインストア</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www.gov.nl.ca/cannabis/" rel="noopener" target="_blank">ニューファンドランド・ラブラドール州</a></td><td>19歳</td><td>政府が運営するオンラインストア、政府承認による民間の小売店</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://novascotia.ca/cannabis/" rel="noopener" target="_blank">ノバスコシア州</a></td><td>19歳</td><td>政府が運営する直営店およびオンラインストア</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www.ontario.ca/page/cannabis" rel="noopener" target="_blank">オンタリオ州</a></td><td>19歳</td><td>政府が運営するオンラインストア、政府承認による小売店</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www.saskatchewan.ca/government/cannabis-in-saskatchewan" rel="noopener" target="_blank">サスカチュワン州</a></td><td>19歳</td><td>政府が運営するオンラインストア、個人ライセンス取得による対面販売</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www.princeedwardisland.ca/en/information/cannabis-policy-legislation-and-regulation" rel="noopener" target="_blank">プリンスエドワードアイランド州</a></td><td>19歳</td><td>政府が運営する直営店およびオンラインストア</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://encadrementcannabis.gouv.qc.ca/en/" rel="noopener" target="_blank">ケベック州</a></td><td>21歳</td><td>政府が運営する直営店およびオンラインストア</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://yukon.ca/cannabis#cannabis-legalization" rel="noopener" target="_blank">ユーコン準州</a></td><td>19歳</td><td>政府が運営するオンラインストア、政府承認による民間の小売店</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www.gov.nu.ca/finance/information/cannabis" rel="noopener" target="_blank">ヌナブト準州</a></td><td>19歳</td><td>政府が運営するオンラインストア、政府承認による小売店、個人ライセンス取得による対面販売</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www.eia.gov.nt.ca/en/cannabis" rel="noopener" target="_blank">ノースウェスト準州</a></td><td>19歳</td><td>政府が運営する直営店およびオンラインストア</td><td>乾燥大麻または同等の大麻30グラム</td></tr></tbody></table></div>
+<h2 className="wp-block-heading" id="marijuana5">短期のカナダ入国・渡航にはeTA(イータ)の申請が必要です</h2>
+<p>短期のビジネスや観光旅行を目的としてカナダへ渡航する際は、eTA(イータ)の事前申請が必要です。eTA(イータ)はカナダ連邦政府およびIRCC(カナダ移民・難民・市民権省)が定める電子渡航認証制度で、オンラインでの申請が必須となります。eTA(イータ)を利用してカナダへ渡航する際は、最長6か月間の滞在が可能です。6か月以内の滞在でも留学や就労を目的として渡航する際はビザの取得が求められますが、一般的な観光旅行等でカナダへ訪れる方はeTA(イータ)の申請を推奨します。<br />eTA(イータ)は申請日から5年間またはパスポートの期日まで有効となり、有効期限内であれば複数回のカナダ渡航が認められます。eTA(イータ)の申請方法は「<a href="http://xs640823.xsrv.jp/eta/flow/index.html">カナダ電子渡航認証eTA(イータ)申請方法の手順と記入例</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"カナダの大麻(マリファナ)合法化に関する実情と注意点 | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

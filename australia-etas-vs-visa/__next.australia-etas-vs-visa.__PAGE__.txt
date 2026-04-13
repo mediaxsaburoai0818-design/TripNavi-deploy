@@ -1,0 +1,110 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3aa6,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ ETAS(イータス)とビザの違い</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>ETAS(イータス)とビザの違い</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">ETAS(イータス)とビザの違い</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#diff1">ビザと電子渡航認証の違いとは</a></li>
+<li><a className="ez-toc-link" href="#diff2">オーストラリアの電子渡航認証ETAS(イータス)について</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#diff3">ETAS(イータス)で滞在する場合にできること</a></li>
+<li><a className="ez-toc-link" href="#diff4">ETAS(イータス)申請条件について</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#country">ETAS(イータス)対象国について</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#diff6">ヨーロッパ国籍者向けのeVisitor(subclass651)</a></li>
+<li><a className="ez-toc-link" href="#diff7">eVisitor対象国</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#diff8">オーストラリアの観光ビザについて</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#diff9">観光ビザ</a></li>
+<li><a className="ez-toc-link" href="#diff10">ワーキングホリデービザ</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#diff11">渡航目的・滞在予定期間に合わせた申請を</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="ETAS(イータス)とビザの違い" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p1_01.webp" type="image/webp" width="640"/>
+<img alt="ETAS(イータス)とビザの違い" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p1_01.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="diff1">ビザと電子渡航認証の違いとは</h2>
+<p> ビザとは渡航者が希望する外国への入国と滞在を認可した、いわば証明書の役割を担います。<br />ビザは渡航前にオンライン等で書類を提出して審査が行われ、渡航を希望する国の在日大使館・領事館で面接が必要となるケースもあります。<br />日本国籍者は多くの国とビザ免除の協定を結んでいることもあり、観光などの短期滞在であればパスポートのみでの渡航が認められ、ビザ取得が免除される国が多数あります。ビザを取得せずに入国や滞在可能な期間は国により様々ですが、日本国籍者においては近年ビザ取得を免除する動きが各国で活発化しております。ブラジルは2019年6月17日より、90日以内の観光などを目的とした渡航者に限りビザ取得を免除すると発表しました。また、ミャンマーも2018年10月1日より30日以内の観光目的の渡航に限り、日本国籍者のビザ取得免除を発表しました。観光などで短期滞在をする際にビザ取得が免除となる国が多くある中で、ビザの代わりとしての役目を担う電子渡航認証を導入する国が増えています。電子渡航認証はビザよりも申請書類が少なく審査が簡易的ですが、ビザと同様に海外から訪れる全ての渡航者に対し、入国に際して問題無いかを審査することが目的となっています。<br />電子渡航認証の手続きはオンラインで完結し、申請料はビザよりも安価となっています。現在、日本国籍のパスポートにて渡航を行う際、オーストラリア、アメリカ、カナダ、スリランカなど事前に電子渡航認証が必要な国が複数存在します。渡航前に申請を済ませていない場合は飛行機への搭乗が拒否されることが予想されますので、これらの国へ渡航する際には忘れずに電子渡航認証の申請を行いましょう。 </p>
+<h2 className="wp-block-heading" id="diff2">オーストラリアの電子渡航認証ETAS(イータス)について</h2>
+<p> オーストラリアの電子渡航認証は正式には”Electric Travel Authority System”と表記し、日本では頭文字を取って<a className="aioseop-link link-no-color" href="http://xs640823.xsrv.jp/etas/">ETAS(イータス)</a>と呼ばれています。オーストラリアは1996年に世界初の電子渡航認証制度のETAS(イータス)をいち早く導入したことで注目を集め、現在ではビザを取得せずにオンラインにてETAS(イータス)申請を行うことが可能となっております。<br />ETAS(イータス)の有効期限は1年間となっており、有効期限内であれば一度に3か月間以内の滞在が何度でも可能となります。<br />ETAS(イータス)を利用して渡航する場合は観光、出張、親族や友人への訪問等の目的に限られ、オーストラリア国内での就労は認められておりません。ETAS(イータス)は空路、海路のいずれで入国する場合も申請が必要となります。なお、飛行機の乗り継ぎでオーストラリアの空港を利用する場合、トランジットエリアから出ることなく8時間以内に出発する方に限り、ETAS(イータス)申請は不要です。 </p>
+<h3 className="wp-block-heading" id="diff3">ETAS(イータス)で滞在する場合にできること</h3>
+<ul className="wp-block-list"><li><strong>観光</strong></li><li><strong>家族や友人の訪問</strong></li><li><strong>出張</strong></li></ul>
+<p>出張とは一般的なビジネスや雇用に関する商談、業務契約の調査、交渉、報酬を伴わないセミナーや会議への参加、政府の公式訪問としての活動などが含まれます。オーストラリアに拠点を置く企業に勤務することや商品やサービスを直接販売することはできません。オーストラリアで就労する場合には就労ビザを取得する必要があります。 </p>
+<h3 className="wp-block-heading" id="diff4">ETAS(イータス)申請条件について</h3>
+<ul className="wp-block-list"><li><strong>ETAS(イータス)対象国の有効なパスポートを所持していること</strong></li><li><strong>健康であること</strong></li><li><strong>犯罪歴がないこと</strong></li><li><strong>他のオーストラリアの有効なビザを保持していないこと</strong></li></ul>
+<p>以上の条件を満たす方はETAS(イータス)申請を行うことが可能です。ただし、申請の際にオーストラリア国外にいることが絶対の条件となります。なお、パスポートの残存期間は出国予定日まで有効であれば入国および滞在が許可されます。</p>
+<h2 className="wp-block-heading" id="country">ETAS(イータス)対象国について </h2>
+<div className="Class_J">
+<h4>オンラインにて申請手続きが可能な国</h4>
+<p>日本／韓国／香港／アメリカ／カナダ／シンガポール／マレーシア／ブルネイ</p>
+</div>
+<div className="Class_J">
+<h4>代理店経由で申請手続きが可能な国</h4>
+<p>アンドラ／オーストリア／ベルギー／ブルネイ／カナダ／デンマーク／フィンランド／フランス／ドイツ／ギリシャ／香港／アイスランド／アイルランド／イタリア／日本／リヒテンシュタイン／ルクセンブルク／マレーシア／マルタ／モナコ／ノルウェー／ポルトガル／サンマリノ共和国／シンガポール／韓国／スペイン／スウェーデン／スイス／台湾／オランダ／イギリス／アメリカ合衆国／バチカン市国</p>
+</div>
+<h3 className="wp-block-heading" id="diff6">ヨーロッパ国籍者向けのeVisitor(subclass651)</h3>
+<p>主にヨーロッパ国籍者に向けた電子渡航認証システムがeVisitor(subclass651)です。<br />ETAS(イータス)と同様、有効期限は1年間で有効期限内であれば3か月以内の滞在が認められています。<br />eVisitor(subclass651)は下記の国が対象となります。</p>
+<h3 className="wp-block-heading" id="diff7">eVisitor対象国</h3>
+<div className="Class_J country-list"><ul><li>オーストリア</li><li>ベルギー</li><li>ブルガリア</li><li>クロアチア</li><li>キプロス</li><li>チェコ共和国</li><li>デンマーク</li><li>エストニア</li><li>フィンランド</li><li>フランス</li><li>ドイツ</li><li>ギリシャ</li><li>ハンガリー</li><li>アイスランド</li><li>アイルランド</li><li>イタリア</li><li>ラトビア</li><li>リヒテンシュタイン</li><li>マルタ</li><li>モナコ</li><li>オランダ</li><li>ノルウェー</li><li>ポーランド</li><li>ポルトガル</li><li>ルーマニア</li><li>サンマリノ共和国</li><li>スロバキア共和国</li><li>スロベニア</li><li>スペイン</li><li>スウェーデン</li><li>スイス</li><li>イギリス</li><li>バチカン市国</li><li>リトアニア</li><li>ルクセンブルク</li></ul></div>
+<picture>
+<source alt="オーストラリアの観光ビザについて" className="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p1_02.webp" type="image/webp" width="640"/>
+<img alt="オーストラリアの観光ビザについて" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p1_02.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="diff8">オーストラリアの観光ビザについて</h2>
+<h3 className="wp-block-heading" id="diff9">観光ビザ</h3>
+<p>オーストラリアの観光ビザは観光、家族や友人を訪問する際に申請が可能です。<br />正式には“Visitor visa(subclass600) Tourist stream”と表記します。<br />ETAS(イータス)は一度の渡航につき3か月の滞在が認められるのに対し、観光ビザは最大12か月の滞在申請が可能となります。<br />3か月以上の滞在を予定されている方は観光ビザを取得する必要がありますが、滞在が可能な期間は領事官により個別に審査され決定されます。<br />観光ビザはオンラインでの申請が可能で、結果通知まで1か月ほど要します。<br />なお、訪問・滞在先はオーストラリアのみであること、滞在費用を賄う費用が十分にあること、オーストラリアでは就労しないことの3つが条件となり、それらを証明する書類等の提出が必要となります。</p>
+<h3 className="wp-block-heading" id="diff10">ワーキングホリデービザ</h3>
+<p>オーストラリアは日本とワーキングホリデー協定を結んでおります。<br />対象年齢は18～30歳に限定されており、1年間の滞在が認められます。ワーキングホリデービザでは観光、ホームステイ、就学など自由に過ごすことができ、滞在費用を賄う為の就労も許可されます。オーストラリアでは滞在中に最大4か月の就学、最大6か月の就労(同じ雇用主の下)が認められています。<br />また、他の国のワーキングホリデービザは通常1度しか利用できませんが、オーストラリアは3回までこの制度を利用できることが特長です。2回目のワーキングホリデービザを申請するには1回目の滞在中に同じ雇用主の下で作業(労働)に3か月間、3回目の申請をするには2回目の滞在中に6か月間従事しなければいけません。2、3回目のワーキングホリデーを申請するための作業として認められるのは動植物栽培、漁業、林業、建設、鉱業のほか、森林火災地の復旧作業など被災地の復興に関連する産業での労働に限られています。</p>
+<h2 className="wp-block-heading" id="diff11">渡航目的・滞在予定期間に合わせた申請を</h2>
+<p> オーストラリアに滞在する際には電子渡航認証やビザの取得が必要となります。<br />上記のビザの他にも留学、就労などの目的に応じて様々なビザが用意されています。ご自身の渡航目的、滞在予定期間に合わせて忘れずに手続きを行いましょう。なお、<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-finder" rel="noreferrer noopener" target="_blank">オーストラリア政府移民局のウェブサイト</a>では渡航目的、滞在期間、国籍などの質問に回答することで必要なビザを診断できるページがありますので渡航前にご確認をお願いします。 </p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="australia-etas.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

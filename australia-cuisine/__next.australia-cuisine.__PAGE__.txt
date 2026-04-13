@@ -1,0 +1,147 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T682e,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オーストラリアの代表的な料理16選 本場の味を紹介</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>オーストラリアの代表的な料理16選 本場の味を紹介</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">オーストラリアの代表的な料理16選 本場の味を紹介</h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1">
+<li><a className="ez-toc-link" href="#food1">オーストラリアの食文化</a></li>
+<li><a className="ez-toc-link" href="#food2">代表的なオーストラリア料理 16選</a></li>
+<li className="list-style-none">
+<ul>
+<li><a className="ez-toc-link" href="#food2-1">カンガルーミート / Kangaroo Meats</a></li>
+<li><a className="ez-toc-link" href="#food2-2">ラムチョップ / Lamb Chops</a></li>
+<li><a className="ez-toc-link" href="#food2-3">オーストラリアン・ミートパイ / Australian Meat Pie</a></li>
+<li><a className="ez-toc-link" href="#food2-4">フィッシュアンドチップス / Fish and Chips</a></li>
+<li><a className="ez-toc-link" href="#food2-5">オージービーフ / Aussie Beef</a></li>
+<li><a className="ez-toc-link" href="#food2-6">シーフード / Seafood</a></li>
+<li><a className="ez-toc-link" href="#food2-7">ラップ / Wrap</a></li>
+<li><a className="ez-toc-link" href="#food2-8">パブロバ / Pavlova</a></li>
+<li><a className="ez-toc-link" href="#food2-9">ラミントン / Lamington</a></li>
+<li><a className="ez-toc-link" href="#food2-10">バラマンディ / Barramundi</a></li>
+<li><a className="ez-toc-link" href="#food2-11">ソーセージロール / Sausage Rolls</a></li>
+<li><a className="ez-toc-link" href="#food2-12">チキンパルミジャーナ / Chicken parmigiana</a></li>
+<li><a className="ez-toc-link" href="#food2-13">ロブスターカクテル / Lobster Cocktail</a></li>
+<li><a className="ez-toc-link" href="#food2-14">バニラスライス / Vanilla Slice</a></li>
+<li><a className="ez-toc-link" href="#food2-15">オーシャントラウト / Ocean Trout</a></li>
+<li><a className="ez-toc-link" href="#food2-16">ベジマイト / Vegemite</a></li>
+</ul>
+</li>
+<li><a className="ez-toc-link" href="#food3">オーストラリアへの入国・渡航にはETAS(イータス)の事前申請が必要です</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="オーストラリアの旗とハンバーガー" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/cc850003222ecff10a0ebe8af0138083.webp" type="image/webp" width="640"/><img alt="オーストラリアの旗とハンバーガー" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/cc850003222ecff10a0ebe8af0138083.jpg" width="640"/>
+</picture>
+<p>オーストラリアは国民の約3割を移民が占めることから「移民の国」と呼ばれています。食文化にも世界各国の影響が強く見られ、国内では様々な国の料理が日常的に食べられています。料理の中にはカンガルー肉などオーストラリア特有の食材を使用するものもあり、新鮮な地場食材を使った珍しい料理を目当てに訪れる観光客も少なくありません。こちらのページではオーストラリアで食べられる代表的な料理をご紹介します。</p>
+<h2 className="wp-block-heading" id="food1">オーストラリアの食文化</h2>
+<p>オーストラリアの街中には様々な国の料理店があります。移民により数多くの食文化が持ち込まれた歴史から、現地の方も世界各国の料理に慣れ親しんでいます。シドニーの<a href="https://chinatownmarkets.com.au/" rel="noreferrer noopener" target="_blank">チャイナタウン</a>には、中華料理や飲茶を楽しめる店からマレーシア、タイ、ベトナムなどのアジア料理店まで、豊富な種類の飲食店がしのぎを削っています。また、イタリア系移民が多く暮らす<a href="https://www.sydney.com/destinations/sydney/inner-sydney/leichhardt" rel="noreferrer noopener" target="_blank">ライカート</a>にはピザやパスタなど本格的なイタリア料理を味わえる店が立ち並び、ギリシャやドイツ料理を提供する店も点在します。これら各国の料理にはカンガルー肉をはじめオージービーフやバラマンディなどオーストラリア特有の食材も多く使われ、独自の食文化を形成しています。シンプルで素朴な料理が多い分、こだわりが詰まった料理が多く見受けられます。</p>
+<h2 className="wp-block-heading" id="food2">代表的なオーストラリア料理 16選</h2>
+<h3 className="wp-block-heading" id="food2-1">カンガルーミート / Kangaroo Meats</h3>
+<p>カンガルーはオーストラリアの代表的な動物ですが、古くからアボリジニと呼ばれる先住民族の食料「ブッシュ・タッカー(野生の食材)」として利用されてきました。現在は連邦政府と州政府により手厚く保護される一方、増加傾向にある一部の大型種に限り厳しい規則のもと狩猟が認められています。カンガルーミートはステーキのほかソーセージなど様々な食材に加工され、日本へも輸出されています。柔らかい赤身肉で脂肪分が少なく高たんぱく、低コレステロールなのが特徴です。共役リノール酸(CLA)が豊富に含まれ、健康効果が高い食品として知られています。</p>
+<picture>
+<source alt="カンガルーミート" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/a971de5839cb793b690693a7b1838fdd.webp" type="image/webp" width="640"/><img alt="カンガルーミート" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/a971de5839cb793b690693a7b1838fdd.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="food2-2">ラムチョップ / Lamb Chops</h3>
+<p>オーストラリア産のラム肉はオージーラムと呼ばれ、放牧が盛んなオーストラリアでは牛肉に並びよく食べられています。スーパーにも種類豊富に取り揃えられ、バーベキューの定番食材です。ラム肉とは1歳未満の羊の肉を指しますが、<a href="http://aussielamb.jp/" rel="noreferrer noopener" target="_blank">オージーラム</a>は他の国と比べ肥育期間が長いため、オーストラリアのラムチョップは骨付きステーキのように大きく迫力があります。赤身肉には吸収されやすいヘム鉄や必須ミネラルである亜鉛が豊富です。脂肪に多く含まれる不飽和脂肪酸は動脈硬化や血栓の予防、悪玉コレステロールの減少、血圧を下げる効果があると言われています。</p>
+<h3 className="wp-block-heading" id="food2-3">オーストラリアン・ミートパイ / Australian Meat Pie</h3>
+<p>オーストラリアン・ミートパイは角切りやミンチにした肉をたっぷりのグレービーソースとともにパイ生地で包み焼き上げた、オーストラリアのソウルフードです。イギリス人の入植によりオーストラリアに広まったミートパイは、現在フットボールなどスポーツ観戦には欠かせない軽食として知られます。ベーカリーをはじめスーパー、ミートパイ専門店など国内では種類豊富に販売されています。伝統的なミートパイは牛肉やラム、チキンが使われますが、ホタテを包んだものや野菜のパイ、カレー味のパイなど現代風にアレンジされた様々なパイ料理も生まれています。</p>
+<picture>
+<source alt="オーストラリアン・ミートパイ" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/d1429b85824f953c997a768a10e06f9d.webp" type="image/webp" width="640"/><img alt="オーストラリアン・ミートパイ" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/d1429b85824f953c997a768a10e06f9d.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="food2-4">フィッシュアンドチップス / Fish and Chips</h3>
+<p>衣を絡ませ油で揚げた白身魚とフライドポテトを盛りつけた定番料理“フィッシュアンドチップス”は、イギリス発祥の料理ですがオーストラリアでも人気があります。白身魚は衣にビールを加えることでほのかな苦みのある明るい橙褐色に揚げ上がります。ポテトにはチキンソルトと呼ばれるチキンエキスを加えたシーズニングソルトを振りかけ提供され、トマトソースやタルタルソースをつけてよく食べられます。使用する白身魚はタラのほか、オーストラリア北部地域の名産である高級魚<a className="ez-toc-link" href="#food2-10">バラマンディ</a>が使われることがあります。新鮮なシーフードを使ったフィッシュアンドチップスを味わいたい方は、西オーストラリア州の港町フリーマントルにある<a href="https://www.experienceperth.com/business/food-drink/fremantle-fishing-boat-harbour" rel="noreferrer noopener" target="_blank">フリーマントル・フィッシング・ボート・ハーバー</a>への訪問をお勧めします。</p>
+<h3 className="wp-block-heading" id="food2-5">オージービーフ / Aussie Beef</h3>
+<p>世界有数の牛肉輸出量を誇るオーストラリア産の牛肉は“<a href="https://www.aussiebeef.jp/" rel="noreferrer noopener" target="_blank">オージービーフ</a>”と呼ばれます。オーストラリア固有の生態系を保護するために電子タグによる管理と厳格な検疫体制のもと飼育され、安全性が高い牛肉として知られています。日本の輸入牛の大部分を占めるオージービーフは、放牧後に穀物を与えられ日本人の口に合うよう調整されます。遺伝子組み換えを含む穀物を使用するアメリカ産牛に対し、オージービーフは遺伝子組み換えを行っていない大麦や小麦が中心に与えられます。ミンチにしてハンバーグに加工されるほか、良質な赤身肉を使用したステーキやローストビーフも人気です。現地でステーキを食べる際は、ヘルシーな赤身のうまみを味わうためにもミディアムレアの焼き加減がお勧めです。</p>
+<picture>
+<source alt="オージービーフ" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/e121e2a7726acac250bcc507174fb7d8.webp" type="image/webp" width="640"/><img alt="オージービーフ" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/e121e2a7726acac250bcc507174fb7d8.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="food2-6">シーフード / Seafood</h3>
+<p>海に囲まれているオーストラリアは水産業が盛んです。シドニーにある<a href="https://www.sydneyfishmarket.com.au/" rel="noreferrer noopener" target="_blank">フィッシュマーケット</a>は東京の築地市場に次ぐ世界第3位の品揃え数を誇り、多くの市民や観光客で賑わいます。フィッシュマーケットで特に人気が高い牡蠣は「パシフィックオイスター」と「シドニーロックオイスター」の2種類があります。「パシフィックオイスター」は色が白くクリーミーな味わいが特徴で、「シドニーロックオイスター」は小ぶりで黄色みがかっており、苦みのある濃厚な風味はワインによく合います。味付けはレモンと塩のみで提供されることが一般的ですが、刻んだベーコンとウスターソースでグリルしたオイスターキルパトリック(Oysters Kilpatrick)も人気メニューです。また、オーストラリアでは年末年始に冷やした牡蠣や海老をオーロラソースで食べる習慣があります。水揚げ後、すぐに海水でボイルされるキングプローン海老(King Prawn)は甘さが凝縮されとても味わい深くなります。フィッシュマーケットではサーモンやマグロなど刺身の柵も取り扱われ、醤油やワサビとともに切り分けて提供してくれます。ゆっくり食事を楽しみたい方は混雑する休日やランチタイムを避けて訪れることをお勧めします。</p>
+<picture>
+<source alt="シーフード" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/c62f8d8662ef9d5cf169b68443924888.webp" type="image/webp" width="640"/><img alt="シーフード" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/11ef3a67a197f4457f7f02e68e38a7d9.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="food2-7">ラップ / Wrap</h3>
+<p>ラップとはフラット・ブレッドと呼ばれる薄く柔らかいパンでレタス、ニンジン、トマトなどの野菜とハムや玉子を包んだ軽食です。シーザードレッシングなどをつけて食べます。手軽に野菜を摂ることができるため、オーストラリアでは定番のランチメニューとして親しまれています。中に包む具材はチキンやシーフード、チーズなど様々なアレンジがあり、ランチに好みの具材を包み持参するオーストラリア人も多くいます。</p>
+<h3 className="wp-block-heading" id="food2-8">パブロバ / Pavlova</h3>
+<p>パブロバはメレンゲを丸状に焼き、生クリームやベリー類を飾り付けたスイーツです。1926年にオーストラリアを訪れたロシアのバレリーナ”アンナ・パブロワ”をモチーフとして考案され、外側はサクサクと軽い口当たりで内側はふんわりとした食感が特徴です。焼いたメレンゲの土台はホールケーキのスポンジと同じようにスーパーでも入手可能で、各家庭でも手軽に作られます。夏には季節のフルーツを盛った華やかなパブロバが食卓に並びクリスマスを盛り上げます。</p>
+<picture>
+<source alt="パブロバ" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/6c6c61c2f9b7b1cc171e3e70a0e98c8d.webp" type="image/webp" width="640"/><img alt="パブロバ" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/6c6c61c2f9b7b1cc171e3e70a0e98c8d.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="food2-9">ラミントン / Lamington</h3>
+<p>ラミントンはキューブ状のスポンジケーキをチョコレートでコーティングし、ココナッツをまぶしたオーストラリアの国民的スイーツです。スポンジケーキの間にクリームやジャムをサンドする食べ方もあり、バリエーションが豊富です。ケーキ店やカフェ、ベーカリーのほかスーパーで手軽に購入することができます。学校や慈善団体による募金活動で配られることもあり、オーストラリア人にとって馴染み深いお菓子といえます。</p>
+<picture>
+<source alt="ラミントン" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/eacf49b0da2038a6359aef339b65b828.webp" type="image/webp" width="640"/><img alt="ラミントン" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/eacf49b0da2038a6359aef339b65b828.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="food2-10">バラマンディ / Barramundi</h3>
+<p>バラマンディはオーストラリア北部に多く生息する川魚です。大きな個体は体長2mを超えることもあり、釣り上げる際に強い泳力と驚異的なジャンプ力を体感できる<a href="https://northernterritory.com/jp/ja/darwin-and-surrounds/see-and-do/outdoor-activities/fishing" rel="noreferrer noopener" target="_blank">バラマンディ釣り</a>はアクティビティとしても人気があります。スズキに似た白身のあっさりとした味が特徴で、グリルやソテーのほかフィッシュアンドチップスにもよく使用されます。</p>
+<h3 className="wp-block-heading" id="food2-11">ソーセージロール / Sausage Rolls</h3>
+<p>ソーセージロールはオーストラリアやヨーロッパで定番の軽食で、Pigs in a blanket(毛布を着た豚)とも呼ばれます。日本でも人気の総菜パンですが、オーストラリアのソーセージロールは野菜やハーブのみじん切りを混ぜた豚や牛のミンチ肉を直接パイ生地で包んでいるのが特徴です。食べやすいよう小さめにカットし焼き上げられ、ディップソースとしてケチャップをつけて食べられます。</p>
+<picture>
+<source alt="ソーセージロール" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/3bf79a12d806bf4869bb9aa585d651e3.webp" type="image/webp" width="640"/><img alt="ソーセージロール" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/3bf79a12d806bf4869bb9aa585d651e3.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="food2-12">チキンパルミジャーナ / Chicken parmigiana</h3>
+<p>薄く叩きのばした鶏むね肉に衣を絡ませて揚げ、トマトソース、モッツァレラチーズ、パルメザンチーズを乗せてオーブンで焼き上げた料理です。チキンパルマまたはチキンパルミとも呼ばれ、パブの定番メニューとして親しまれています。サックリ揚がったチキンはお皿からはみ出すほど巨大ですが、鶏むね肉が使用されているので見た目よりさっぱりとした食感で、女性やお年寄りにもお勧めの料理です。特にビクトリア州の州都<a href="https://www.australia.com/ja-jp/places/melbourne-and-surrounds/guide-to-melbourne.html" rel="noreferrer noopener" target="_blank">メルボルン</a>では多くの飲食店がチキンバルマの看板を出し、名物となっています。チップス(フライドポテト)やグリーンサラダとともに提供されるのが一般的ですが、店舗により溶けたチーズの下にベーコンやオリーブがトッピングされていることもあります。</p>
+<h3 className="wp-block-heading" id="food2-13">ロブスターカクテル / Lobster Cocktail</h3>
+<p>シーフードレストランでの定番といえばシュリンプカクテルですが、ロブスターの世界的産地であるオーストラリアでは小ぶりな海老の代わりにロブスターが使われることがあります。一般的なロブスターは大きなハサミを持つザリガニの仲間ですが、オーストラリアで水揚げされるロックロブスターは伊勢海老の仲間になります。伊勢海老と比べてやや小ぶりで、日本でもおせち料理などによく使用されています。サワークリームベースのソースと共にカクテルグラスに盛り付けられたロブスターは身が詰まっており、食べ応えのある一品です。</p>
+<h3 className="wp-block-heading" id="food2-14">バニラスライス / Vanilla Slice</h3>
+<p>バニラスライスはパイ生地でカスタードクリームをサンドした四角いシンプルなケーキです。フランスの伝統菓子ミルフィーユと似ていますが、オーストラリアのバニラスライスは上下2枚のパイ生地でたっぷりのクリームを挟んでいるのが特徴です。毎年バニラスライスコンテスト“<a href="https://www.thegreataustralianvanillaslicetriumphmerbein.com/" rel="noreferrer noopener" target="_blank">The Great Australian Vanilla Slice Triumph</a>”が開催され、優勝歴があるメルボルンのベーカリーでは午前中に売り切れるほど人気があります。カフェやベーカリーのほか、スーパーのパンコーナーでも手軽に買うことができます。</p>
+<h3 className="wp-block-heading" id="food2-15">オーシャントラウト / Ocean Trout</h3>
+<p>トラウト(マス)は淡水で生活するサケ科の魚のことを指しますが、オーシャントラウトはその中でも海へ移動する珍しい種類の魚です。トラウトならではの濃厚な旨味に加えサーモンのように刺身としても食べることができ、両者の良い点を併せ持っています。オーストラリア南部の水温が低い地域で養殖されており、豊富に含まれているオメガ3脂肪酸は生活習慣病の予防に効果があると言われています。脂が乗りしっとりとした食感が特徴で、オーストラリアでは生のままサラダやサンドイッチに使われるほか、グリルやソテーなど幅広い料理に使われています。</p>
+<picture>
+<source alt="オーシャントラウト" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/de867f6270d343cec544b5b46deedaf6.webp" type="image/webp" width="640"/><img alt="オーシャントラウト" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/de867f6270d343cec544b5b46deedaf6.jpg" width="640"/>
+</picture>
+<h3 className="wp-block-heading" id="food2-16">ベジマイト / Vegemite</h3>
+<p>酵母を主原料として塩や野菜の抽出物を混ぜて作られた発酵食品で、独特の香りと強めの塩味が特徴です。健康食品としても知られ、オーストラリアの多くの家庭で常備されています。80年代に世界的にヒットしたオーストラリアのロックバンド Men at Work の「Down Under」という曲に”ベジマイト サンドイッチ”というフレーズが登場したことがきっかけで、オーストラリアを象徴する食べ物として広く認知されました。トーストなどに薄く塗って食べるのが一般的で、マーマイトやオージーマイト、プロマイトなど国や地域により多くの商品があります。</p>
+<picture>
+<source alt="ベジマイト" className="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/6b7c4f114b82a582c8c1a6b8a8d02e13.webp" type="image/webp" width="640"/><img alt="ベジマイト" className="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/6b7c4f114b82a582c8c1a6b8a8d02e13.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="food3">オーストラリアへの入国・渡航にはETAS(イータス)の事前申請が必要です</h2>
+<p>旅の楽しみのひとつとして、その土地ならではの料理が挙げられます。オーストラリアの料理は外国にルーツを持つものが多く、長い年月をかけ風土に合った料理へと変化してきました。同国の食材を最も美味しく味わう方法は、現地の人との交流も含めその場の空気とともに頬張ることではないでしょうか。オーストラリアへ渡航する際はビザが必須となりますが、日本国籍の方はビザを取得せずにオーストラリアで最長90日間の滞在が可能です。その際は<a href="http://xs640823.xsrv.jp/etas/service/index.html">電子渡航認証システムETAS(イータス)</a>の申請が必要となるため、忘れずにETAS(イータス)申請を行いましょう。</p>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="australia-etas.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

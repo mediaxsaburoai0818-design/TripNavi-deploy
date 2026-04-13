@@ -1,0 +1,123 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0c7f0nk_fejgn.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","canada-eta-validity",""],"q":"","i":false,"f":[[["",{"children":["canada-eta-validity",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0t0~vf8vpn6e-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"noto_sans_jp_fce2d2d7-module__ZM_GOa__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":[["$","span",null,{"className":"logo-icon","children":"🌍"}],["$","span",null,{"className":"logo-text","children":"TripNavi"}]]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"🇨🇦 カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"🇦🇺 オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"🇺🇸 アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"🇬🇧 イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":"TripNavi"}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BUw1Fe83VmYHU62kZXI8s"}
+e:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T54b8,<div className="page-layout">
+ <main className="page-main">
+ <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について</div>
+
+ <article className="article-detail">
+ <span className="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について</h1>
+ <div className="article-meta">
+ <span className="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div className="content">
+
+<h2 className="wp-block-heading">カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について </h2>
+<div className="counter-flat lazyloaded" id="ez-toc-container">
+<div className="ez-toc-title-container lazyloaded">
+<p className="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul className="ez-toc-list ez-toc-list-level-1"><li><a className="ez-toc-link" href="#reapplication1">eTA(イータ)の有効期限は5年間となります</a></li>
+<li><a className="ez-toc-link" href="#reapplication2">最大180日の滞在が可能となるカナダビザeTA(イータ)の特長とは？</a></li>
+<li><a className="ez-toc-link" href="#attention">期限が切れたら再申請が必要？新たにeTA(イータ)を申請する際の注意点</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#reapplication4">カナダ滞在中にeTA(イータ)が切れた場合の対処方法</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#reapplication5">お子様であってもカナダ渡航の際にはeTA(イータ)の申請が必要となります</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#reapplication6">eTA(イータ)　-3つの特長-</a></li>
+</ul></li>
+<li><a className="ez-toc-link" href="#reapplication7">日本国籍者はパスポートのみで多くの国への渡航が可能です</a></li>
+<li className="list-style-none"><ul>
+<li><a className="ez-toc-link" href="#reapplication8">ビザ取得不要で入国可能な主な国(2022年現在)</a></li>
+</ul></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について" className="img_big m20-t m20-b" height="448" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/MwuNKV8unDYn9Qn1587451444.webp" type="image/webp" width="640"/>
+<img alt="カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について" className="img_big m20-t m20-b" decoding="async" height="448" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/MwuNKV8unDYn9Qn1587451444.jpg" width="640"/>
+</picture>
+<h2 className="wp-block-heading" id="reapplication1">eTA(イータ)の有効期限は5年間となります</h2>
+<p><a className="aioseop-link" href="http://xs640823.xsrv.jp/eta/">eTA(イータ)</a>の有効期限は渡航認証許可が下りた日から5年間と定められております。延長という制度はございませんので、今後もカナダへ渡航する予定がある方はeTA(イータ)の有効期限が切れるタイミングに合わせ、改めて申請を行ってください。改めて申請を行うと、この先5年間有効な新しいeTA(イータ)番号が付与され、それまでのeTA(イータ)番号は使用できなくなりますので予めご了承ください。また、パスポートの有効期限が5年未満の場合は、パスポートの有効期限日と同日にeTA(イータ)も失効となりますのでご注意ください。カナダへの渡航が決まりましたらご本人様と同行者様のパスポートの有効期限をご確認いただき、有効期限に余裕のない場合はパスポートの更新をご検討ください。パスポートの有効期限が半年未満の場合は必ずパスポートを更新いただき、その後eTA(イータ)を申請されることをお勧めいたします。</p>
+<h2 className="wp-block-heading" id="reapplication2">最大180日の滞在が可能となるカナダビザeTA(イータ)の特長とは？</h2>
+<p>2016年3月15日より、カナダでは外国籍渡航者を対象にした事前渡航認証システムeTA(イータ)が導入されました。eTA(イータ)は日本をはじめ、カナダが定めるビザ免除制度の国籍者が利用できる入国審査システムで、いわば簡易的なビザと言った方が分かりやすいかもしれません。空路を利用してカナダへ入国する外国籍の渡航者はeTA(イータ)による渡航認証許可か、ビザによる入国許可を事前に申請する必要があります。eTA(イータ)はビザよりも申請が簡易であり安価で済むため、一般的なカナダ渡航であればeTA(イータ)を利用しての渡航を推奨いたします。eTA(イータ)は米国のESTA(エスタ)やオーストラリアのETAS(イータス)など、他の渡航認証制度と大きく異なる点があります。それは、1回の渡航で可能な滞在期間が最大で6か月(180日以内)も認められているという点です。米国の場合は最大で3か月(90日以内)、オーストラリアの場合も最大で3か月(90日以内)の滞在期間となっておりますので、実に2倍もの滞在期間が認められております。もう1つの特長は有効期限が長いという点です。米国入国で必要なESTA(エスタ)の有効期限は2年間、オーストラリア入国で必要なETAS(イータス)の有効期限は1年間に対し、eTA(イータ)の有効期限は5年間となっております。eTA(イータ)は渡航認証制度の中で最も長い有効期限が設定されており、頻繁にカナダへ渡航される方々にはその利便性が高く評価されております。なお、eTA(イータ)は空路でカナダへ入国する場合のみ必要となる認証なので、客船などを利用して海路でカナダへ入国する場合についてはeTA(イータ)を申請する必要はありません。ただし、カナダ国内の空港で乗り継ぎをして第三国へ向かう場合や、数時間でもカナダ国内の空港に滞在する際はeTA(イータ)の申請が必要となりますのでご注意ください。</p>
+<h2 className="wp-block-heading" id="attention">期限が切れたら再申請が必要？新たにeTA(イータ)を申請する際の注意点</h2>
+<p>eTA(イータ)は「渡航認証」という性質のため、免許証やパスポートなどの身分証などとは異なります。免許証やパスポートは有効期限が切れるタイミングに合わせて更新制度がございますが、eTA(イータ)の場合は更新制度がございません。今後もカナダへの渡航を予定される方については有効期限が切れるタイミングに合わせて、eTA(イータ)の再申請をお勧めいたします。eTA(イータ)の有効期限は5年間で、先述の通りパスポートの残存期間が5年未満の場合はパスポートの有効期限日を以てeTA(イータ)も失効となります。例えば、パスポートの有効期限が残り2年の時点でeTA(イータ)を申請すると、eTA(イータ)の有効期限は5年間ではなく2年となります。カナダへ渡航する機会が1度きりであればeTA(イータ)の有効期限が短くても問題ありませんが、今後もカナダへ渡航される予定がある場合は、パスポートの更新と併せてeTA(イータ)の再申請をご検討ください。なお、結婚などの理由で姓が変更となった場合や、国際結婚などの理由で国籍が変更となった場合は、パスポートの変更が必要となります。eTA(イータ)はパスポートとリンクして識別しているため、パスポートを変更した際はこれまでのeTA(イータ)番号は使用できなくなりますのでご注意ください。これは米国の渡航認証制度であるESTA(エスタ)の場合も同様です。パスポートを変更した際は、今後渡航予定のある国で必要となる渡航認証許可やビザの再申請も併せてご検討ください。</p>
+<h3 className="wp-block-heading" id="reapplication4">カナダ滞在中にeTA(イータ)が切れた場合の対処方法</h3>
+<p>カナダでの滞在時にeTA(イータ)の有効期限が切れてしまった場合、カナダで新たにeTA(イータ)を申請しなければならないのでしょうか？そうした場合の対処方法について解説します。まず、カナダへの入国時もしくは乗り継ぎなどによる通過をした時点でeTA(イータ)の期限が有効であれば、eTA(イータ)を再度申請する必要はありません。仮にカナダを出国する日にeTA(イータ)の有効期限が切れても再申請をすることなく、帰国の便に搭乗することが出来ますのでご安心ください。ただし、カナダ渡航に際しパスポートについては条件があります。それはパスポートの残存期間がカナダ出国日＋1日でなければならないということです。万が一、カナダ滞在時にパスポートの有効期限が切れてしまった場合はカナダ国内でパスポートの更新手続きを行わなくてはなりませんので、くれぐれもパスポートの期限に余裕をもった渡航計画を立てるようにしましょう。また、ビザが切れてしまった場合はカナダ国内の大使館・領事館に出向きビザの延長手続きが必要となります。ただし、ビザが延長できるかの可否についてはカナダ政府移民局の担当官の判断に委ねられますので、正当な理由が認められなければ延長できないことも予想されます。eTA(イータ)もビザもカナダでの滞在後は帰国の意思があり、定められた期間を超えて滞在をしないという前提に基づいている入国制度です。ビザが切れた場合、申請をしても確実に滞在の延長が認められる訳ではございませんので、ビザやパスポートの有効期限は常に把握しておきましょう。</p>
+<h2 className="wp-block-heading" id="reapplication5">お子様であってもカナダ渡航の際にはeTA(イータ)の申請が必要となります</h2>
+<p>ビザを取得せずにカナダへ渡航されるにあたり、事前にeTA(イータ)を申請して渡航認証許可を得ていない方についてはカナダへの渡航は認められておりません。eTA(イータ)を申請していなければカナダへ入国できないだけでなく、カナダ行きの飛行機にも搭乗することは出来ません。eTA(イータ)は年齢による控除はございません。幼児および未就学児のお子様についてもカナダへ渡航される際はeTA(イータ)が必要となりますので、お子様がカナダへ同行される際は保護者様が代理でeTA(イータ)の申請をお願いします。また、仮にカナダでの滞在が1日だけであってもeTA(イータ)は必須となります。eTA(イータ)を申請して無事に渡航認証許可を得ることにより、最大で180日(6か月)ものカナダ滞在が認められます。観光旅行や短期の商用を目的としてカナダへ渡航される場合は、ビザよりも申請が簡易で迅速なeTA(イータ)の申請を推奨しております。(理由を問わず180日以上のカナダ滞在を希望される方はカナダ大使館・領事館にてビザの申請をご検討ください)</p>
+<h3 className="wp-block-heading" id="reapplication6">eTA(イータ)　-3つの特長-</h3>
+<ol className="wp-block-list"><li><strong>5年間有効で期限内であれば何度でもカナダへの渡航が可能（渡航認証制度の中で最も有効期限が長いのがeTAです）</strong></li><li><strong>1回のカナダ渡航で最大180日（6か月）の滞在が可能（eTAは観光旅行・短期商用に適した渡航認証です）</strong></li><li><strong>陸路・海路を利用してカナダへ入国する場合は申請不要（eTAは飛行機で入国する場合のみ必要となります）</strong></li></ol>
+<h2 className="wp-block-heading" id="reapplication7">日本国籍者はパスポートのみで多くの国への渡航が可能です</h2>
+<p>日本はこれまでに非常に多くの国と友好な貿易や外交を行ってきた経緯があるため、国間で定められた期間内であれば、ビザを取得しなくても日本国のパスポートのみで渡航可能な国が数多くございます。ビザを取得せずに日本国のパスポートのみで渡航可能な国の数は190国以上にもおよび、日本は世界で最も渡航に関して便利で優遇されている国と言っても過言ではないでしょう。日本国籍者がビザを取得しなくても入国が可能な主な国を紹介致します。入国には渡航目的が限定されていることや、パスポートの残存期間などの規約を設けている国もあります。諸条件については渡航前に必ず確認を行いましょう。</p>
+<h3 className="wp-block-heading" id="reapplication8">ビザ取得不要で入国可能な主な国(2022年現在)</h3>
+<p>※(　)内は滞在可能な最大日数を記載しています。</p>
+<h4 className="wp-block-heading">アジア</h4>
+<ul className="contents-block__ul coulm-2-list sp-coulm-1-list wp-block-list"><li>中国（15日以内）</li><li>香港（3か月以内）</li><li>マカオ（90日以内）</li><li>モンゴル（30日以内）</li><li>韓国（90日以内）</li><li>台湾（90日以内）</li><li>モルディブ（30日以内）</li><li>スリランカ （30日以内、電子渡航認証ETAの取得必須）</li><li>ブルネイ（14日以内）</li><li>インドネシア（30日以内）</li><li>ラオス（15日以内）</li><li>マレーシア（3か月以内）</li><li>ミャンマー（30日以内）</li><li>フィリピン（30日以内）</li><li>シンガポール（3か月以内）</li><li>タイ（30日以内）</li><li>ベトナム（15日以内）</li></ul>
+<h4 className="wp-block-heading">欧州</h4>
+<ul className="contents-block__ul coulm-2-list sp-coulm-1-list wp-block-list"><li>ベラルーシ（30日以内、ミンスク国際空港から入出国する場合のみ）</li><li>モルドバ（90日以内）</li><li>ウクライナ（90日以内）</li><li>アルメニア（180日以内）</li><li>ジョージア（1年以内）</li><li>アルバニア（90日以内）</li><li>オーストリア（6か月以内）</li><li>ボスニア・ヘルツェゴビナ（90日以内）</li><li>ブルガリア（90日以内）</li><li>クロアチア（3か月以内）</li><li>キプロス（3か月以内）</li><li>チェコ（3か月以内）</li><li>デンマーク（3か月以内）</li><li>エストニア（90日以内）</li><li>フィンランド（3か月以内）</li><li>ドイツ（90日以内）</li><li>ギリシャ（3か月以内）</li><li>ハンガリー（90日以内）</li><li>コソボ（90日以内）</li><li>ラトビア（90日以内）</li><li>リヒテンシュタイン（90日以内）</li><li>リトアニア（3か月以内）</li><li>モンテネグロ（90日以内）</li><li>北マケドニア（3か月以内）</li><li>ノルウェー（90日以内）</li><li>ポーランド（90日以内）</li><li>ルーマニア（90日以内）</li><li>セルビア（90日以内）</li><li>スロバキア（90日以内）</li><li>スロベニア（3か月以内）</li><li>スウェーデン（90日以内）</li><li>スイス（90日以内）</li><li>アンドラ（90日以内）</li><li>ベルギー（3か月以内）</li><li>フランス（90日以内）</li><li>ジブラルタル（6か月以内）</li><li>アイスランド（3か月以内）</li><li>アイルランド（90日以内）</li><li>イタリア（3か月以内）</li><li>ルクセンブルク（3か月以内）</li><li>マルタ（3か月以内）</li><li>モナコ（90日以内）</li><li>オランダ（90日以内）</li><li>ポルトガル（3か月以内）</li><li>サンマリノ（3か月以内）</li><li>スペイン（90日以内）</li><li>イギリス（6か月以内）</li><li>バチカン（査証制度なし）</li><li>カザフスタン（30日以内）</li><li>キルギス（60日以内）</li><li>ウズベキスタン（30日以内）</li></ul>
+<h4 className="wp-block-heading">中東</h4>
+<ul className="contents-block__ul coulm-2-list sp-coulm-1-list wp-block-list"><li>イスラエル（3か月以内）</li><li>カタール（30日以内）</li><li>トルコ（90日以内）</li><li>アラブ首長国連邦（30日以内）</li></ul>
+<h4 className="wp-block-heading">アフリカ</h4>
+<ul className="contents-block__ul coulm-2-list sp-coulm-1-list wp-block-list"><li>ボツワナ（90日以内）</li><li>エスワティニ王国（30日以内）</li><li>レソト（3か月以内）</li><li>モーリシャス（90日以内）</li><li>ナミビア（3か月以内）</li><li>サントメプリンシペ（15日以内）</li><li>セネガル（3か月以内）</li><li>南アフリカ（90日以内）</li><li>チュニジア（3か月以内）</li><li>モロッコ（90日以内）</li></ul>
+<h4 className="wp-block-heading">オセアニア</h4>
+<ul className="contents-block__ul coulm-2-list sp-coulm-1-list wp-block-list"><li>オーストラリア（3か月以内、電子渡航認証ETASの取得必須）</li><li>クック諸島（31日以内）</li><li>フィジー（4か月以内）</li><li>キリバス（30日以内）</li><li>ミクロネシア（30日以内）</li><li>ニューカレドニア（90日以内）</li><li>ニュージーランド（90日以内、電子渡航認証NZeTAの取得必須）</li><li>ニウエ（30日以内）</li><li>バヌアツ（1か月以内）</li></ul>
+<h4 className="wp-block-heading">北米</h4>
+<ul className="contents-block__ul coulm-2-list sp-coulm-1-list wp-block-list"><li>カナダ（6か月以内、電子渡航認証eTAの取得必須）</li><li>アメリカ合衆国 ※ハワイを含む（90日以内、電子渡航認証ESTAの取得必須）</li><li>北マリアナ諸島（90日以内、電子渡航認証ESTAの取得必須）</li><li>グアム（90日以内）</li></ul>
+<h4 className="wp-block-heading">中米</h4>
+<ul className="contents-block__ul coulm-2-list sp-coulm-1-list wp-block-list"><li>アンティグアバーブーダ（6か月）</li><li>バハマ（3か月以内）</li><li>バルバドス（90日以内）</li><li>ドミニカ（3～6か月以内）</li><li>ドミニカ共和国（90日以内）</li><li>グレナダ（3か月以内）</li><li>ハイチ（90日以内）</li><li>ジャマイカ（30日以内）</li><li>セントクリストファーネイビス（3～6か月以内）</li><li>セントルシア（3～6か月以内）</li><li>セントビンセント（3～6か月以内）</li><li>トリニダード・トバゴ（90日以内）</li><li>ベリーズ（90日以内）</li><li>コスタリカ（90日以内）</li><li>エルサルバドル（3か月以内）</li><li>アテマラ（90日以内）</li><li>ホンジュラス（90日以内）</li><li>メキシコ（180日以内）</li><li>ニカラグア（90日以内）</li><li>パナマ（180日以内）</li></ul>
+<h4 className="wp-block-heading">南米</h4>
+<ul className="contents-block__ul coulm-2-list sp-coulm-1-list wp-block-list"><li>アルゼンチン（90日以内）</li><li>ボリビア（30日以内）</li><li>ブラジル（90日以内）</li><li>チリ（90日以内）</li><li>コロンビア（90日以内）</li><li>エクアドル（6か月以内）</li><li>ガイアナ（3か月以内）</li><li>パラグアイ（3か月以内）</li><li>ペルー（183日以内）</li><li>スリナム（3か月以内）</li><li>ウルグアイ（90日以内）</li><li>ベネズエラ（90日以内）</li></ul>
+
+ </div>
+ </article>
+
+ <section className="related-articles">
+ <h2 className="related-title">関連記事</h2>
+ <div className="related-grid">
+ <a href="canada-eta.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" className="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c7f0nk_fejgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null
