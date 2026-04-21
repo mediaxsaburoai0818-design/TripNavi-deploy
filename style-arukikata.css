@@ -113,9 +113,86 @@ img { max-width: 100%; height: auto; display: block; }
   background: #FFF5EE;
   color: #D4885A;
 }
+/* Hamburger menu button */
 .menu-toggle {
-  display: none; background: none; border: none;
-  font-size: 24px; cursor: pointer; color: #8B7E6F;
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  flex-direction: column;
+  gap: 5px;
+  z-index: 110;
+}
+.menu-toggle-bar {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background: #6B6058;
+  border-radius: 2px;
+  transition: all 0.3s;
+}
+.menu-toggle.active .menu-toggle-bar:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+.menu-toggle.active .menu-toggle-bar:nth-child(2) {
+  opacity: 0;
+}
+.menu-toggle.active .menu-toggle-bar:nth-child(3) {
+  transform: rotate(-45deg) translate(5px, -5px);
+}
+
+/* Mobile navigation panel */
+.mobile-nav {
+  display: none;
+  position: absolute;
+  top: 60px;
+  left: 0;
+  right: 0;
+  background: rgba(255,250,245,0.98);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid #E8DFD4;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+  padding: 16px 20px 24px;
+  max-height: calc(100vh - 60px);
+  overflow-y: auto;
+  z-index: 100;
+}
+.mobile-nav.open {
+  display: block;
+}
+.mobile-nav-section {
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #E8DFD4;
+}
+.mobile-nav-section:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+.mobile-nav-heading {
+  font-size: 11px;
+  font-weight: 700;
+  color: #D4885A;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+  padding-left: 4px;
+}
+.mobile-nav-link {
+  display: block;
+  padding: 8px 12px;
+  font-size: 14px;
+  color: #4A4340;
+  border-radius: 6px;
+  transition: all 0.15s;
+}
+.mobile-nav-link:hover,
+.mobile-nav-link:active {
+  background: #FFF5EE;
+  color: #D4885A;
 }
 
 /* === Hero Carousel === */
@@ -944,20 +1021,8 @@ section.content {
 }
 
 @media (max-width: 768px) {
-  .menu-toggle { display: block; }
-  .nav {
-    display: none;
-    position: absolute;
-    top: 60px;
-    left: 0;
-    right: 0;
-    background: rgba(255,250,245,.98);
-    flex-direction: column;
-    padding: 16px;
-    border-bottom: 1px solid #E8DFD4;
-    box-shadow: var(--shadow-lg);
-  }
-  .nav.open { display: flex; }
+  .menu-toggle { display: flex; }
+  .nav { display: none !important; }
 
   .hero-carousel { height: 320px; }
   .hero { height: 360px; }
