@@ -1,0 +1,146 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T4bc0,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ eTA(イータ)申請後に「認証保留」になった場合の対処方法</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/canada-hero.jpg" alt="カナダ" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>eTA(イータ)申請後に「認証保留」になった場合の対処方法</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading"> eTA(イータ)申請後に「認証保留」になった場合の対処方法 </h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1"><li><a class="ez-toc-link" href="#pending1">eTA(イータ)申請完了後に届く通知メールを確認しましょう</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#pending2">申請状況確認方法について</a></li>
+</ul></li>
+<li><a class="ez-toc-link" href="#pending3">eTA(イータ)申請の認証結果は大きく分けて4パターン</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#pending4">1.渡航認証承認</a></li>
+<li><a class="ez-toc-link" href="#pending5">2.追加提出の書類請求</a></li>
+<li><a class="ez-toc-link" href="#pending6">3.渡航認証保留</a></li>
+<li><a class="ez-toc-link" href="#pending7">4.渡航認証拒否</a></li>
+</ul></li>
+<li><a class="ez-toc-link" href="#pending8">渡航認証を拒否される1番多い理由は入力ミス？</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#pending9">バックグラウンドについての質問事項</a></li>
+</ul></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="eTA(イータ)申請後に「認証保留」になった場合の対処方法" class="img_big m20-t m20-b" height="411" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p08_01.webp" type="image/webp" width="640"/>
+<img alt="eTA(イータ)申請後に「認証保留」になった場合の対処方法" class="img_big m20-t m20-b" decoding="async" height="411" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p08_01.jpg" width="640"/>
+</picture>
+<h2 class="wp-block-heading" id="pending1">eTA(イータ)申請完了後に届く通知メールを確認しましょう</h2>
+<p>日本国籍者が飛行機を利用してカナダへ渡航する際、６か月以内の観光を目的とした滞在であればビザを取得せずに<a class="link-no-color" href="http://xs640823.xsrv.jp/eta/">eTA(イータ)申請</a>のみでカナダ渡航が可能となります。eTA(イータ)申請の手続きが完了すると、登録したメールアドレス宛に審査結果が届きます。<br /> ”通知メールが来ない”などのお問い合わせが多く発生しておりますので、eTA(イータ)申請書に登録するメールアドレスは正しく入力し、スムーズな送受信が可能であることをご確認ください。<br />迷惑メールフィルタなどの受信制限を設定していると通知メールを正常に受信できない場合がありますので事前に確認しましょう。<br />また、eTA(イータ)申請の認証結果は通常72時間以内に通知されますが、追加書類の提出などを求められた場合は審査期間が延びる可能性があります。カナダ渡航が決まった際は早めにeTA(イータ)の申請手続きを進めましょう。</p>
+<h3 class="wp-block-heading" id="pending2">申請状況確認方法について</h3>
+<p> eTA(イータ)申請状況はIRCC(カナダ移民・難民・市民権省)のウェブフォームにて確認が可能です。 氏名、パスポート番号、パスポート発行日および有効期限などのパスポート情報とメールにて通知されているeTA(イータ)番号または申請番号をご入力いただくとステータスが表示されます。</p>
+<div class="Class_AB">
+<a aria-label=" (opens in a new tab)" class="aioseop-link" href="https://onlineservices-servicesenligne.cic.gc.ca/eta/applicationQuery?lang=en" rel="noreferrer noopener" target="_blank">IRCC eTA(イータ)申請状況確認ページ</a></div>
+<p>なお、当サイトにて申請された方は<a href="http://xs640823.xsrv.jp/eta/form/status">こちら</a>のページより申請状況をご確認いただくことが可能です。当サイトより発行された33桁の申請IDをご入力ください。 </p>
+<h2 class="wp-block-heading" id="pending3">eTA(イータ)申請の認証結果は大きく分けて4パターン</h2>
+<p>eTA(イータ)申請の手続きが完了し、問題なく速やかに処理が行われた場合は「渡航認証承認」となりカナダへの渡航が認可されます。<br />しかし、書類の追加提出が必要となった場合は「渡航認証保留」や「追加提出の書類請求」のステータスになることがあります。<br />追加書類の提出を求められた場合、提出期限を守らなければeTA(イータ)を取得することはできませんので通知メールは必ずご確認ください。<br />また、何らかの理由により入国が認められない場合は「渡航認証拒否」となるケースもあります。<br />渡航認証拒否となった方はeTA(イータ)を利用してのカナダ渡航は認められませんので、一時居住許可の申請をご検討ください。 </p>
+<div class="Class_J"><ol><li>渡航認証承認： eTA(イータ)を利用してカナダへ入国することが認められました。</li><li>追加提出の書類請求：メールに記載された内容に従い資料を提出してください。</li><li>渡航認証保留： 現在審査中です。審査結果が通知されるまでお待ちください。</li><li>渡航認証拒否：eTA(イータ)を利用してカナダへ入国することが拒否されました。</li></ol></div>
+<h3 class="wp-block-heading" id="pending4">1.渡航認証承認</h3>
+<p>渡航を承認された方は「 J 」から始まるeTA(イータ)申請番号と有効期限が付与されます。<br />通知を受け取った際、まず正しいパスポート情報で申請されているか確認しましょう。eTA(イータ)申請は間違ったパスポート情報で登録した場合にも認証が承認されることがありますので、渡航前に認証情報を確認することをお勧め致します。<br />eTA(イータ)申請番号を付与されたことによりeTA(イータ)を利用してカナダへ入国することが許可されましたが、eTA(イータ)は必ずしもカナダへの入国を保証するものではございません。最終的な入国判断については現地の入国審査官に委ねられますのでご注意下さい。<br />また、eTA(イータ)申請の認証情報はパスポート情報に紐づきオンライン上で管理されます。入国審査の際にeTA(イータ)の認証情報などを提示する必要はありませんが、eTA(イータ)申請番号はメモなどに書き留めて所持しておくことをお勧めします。</p>
+<h3 class="wp-block-heading" id="pending5">2.追加提出の書類請求</h3>
+<p>eTA(イータ)申請内容についてカナダ移民・難民・市民権省(IRCC)が追加書類の提出が必要と判断した場合に通知されます。<br />書類を提出しなければeTA(イータ)の認証審査は進みませんので、メールに記載されている手順に従い速やかに手続きを進めましょう。<br />書類を提出する際はカナダ移民局(Citizenship and Immigrant Canada,CIC)が運営しているサイト内のアカウントサービス「MyCIC」を作成する必要があります。「MyCIC」を作成するためにはSign-in Partner またはGCKey を新規取得してサインインする必要があります。</p>
+<div class="Class_J">
+<h4>Sign-in Partnerとは</h4>
+<p>Sign-in Partnerとはオンラインで取引などを行う際、複数のサインインをすることなく一元的に管理できるシステムを指します。 オンラインにてIDサービスを提供している「SecureKey Technologies」と提携している以下の銀行や信用組合のオンラインアカウントを既に所持している方は、そのアカウント情報にてMyCICにサインインすることが可能です。</p>
+</div>
+<div class="Class_J">
+<h4>提携オンラインバンキング一覧</h4>
+<p><ul><li>Affinity Credit Union</li><li>ATB Financial</li><li>BMO Financial Group</li><li>CIBC Canadian Imperial Bank of Commerce</li><li>Conexus Credit Union</li><li>Desjardins Group</li><li>National Bank of Canada</li><li>RBC Royal Bank</li><li>Scotiabank</li><li>Servus Credit Union</li><li>Tangerine</li><li>TD Bank Group</li><li>Vancity</li></ul></p>
+</div>
+<div class="Class_J">
+<h4>GCKeyとは</h4>
+<p>GCKeyとはカナダ政府によって提供されるオンライン認証サービスのひとつです。 認証プロセスを通して安全にカナダ政府へのアクセスを許可する仕組みです。Sign-in Partnerを利用しない方はGCKeyによる認証を行い、ユーザー名とパスワード、いくつかの秘密の質問を設定してアカウントを新規作成する必要があります。</p>
+</div>
+<p>以上の作業を進めて「MyCIC」にサインインすると、審査中のeTA(イータ)申請情報をアカウントにリンクさせることができます。<br />追加提出書類の内容や提出期限を確認し、期限内に書類をアップロードしましょう。<br />期限内に書類を提出しなければeTA(イータ)申請はキャンセルまたは認証拒否と判断される場合がありますのでご注意ください。</p>
+<div class="Class_AB">
+<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html" target="_blank">Sign-in Partner またはGCKeyのアカウント作成</a></div>
+<div class="Class_AB">
+<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/submit-documents.htm" target="_blank">アカウント作成方法を動画で解説</a></div>
+<h3 class="wp-block-heading" id="pending6">3.渡航認証保留</h3>
+<p>渡航認証保留の方は認証状況を確認することができる「 V 」から始まるアプリケーション番号が通知されます。<br />eTA(イータ)はカナダ国内のカナダ移民・難民・市民権省(IRCC)にて審査が行われますが、「渡航認証保留」と表示された場合は申請いただいた内容についてIRCCが審査中であることを意味します。審査結果は概ね72時間以内に通知されますので、「渡航認証保留」のステータスとなっている場合は今しばらくお待ちくださいますようお願いいたします。問題なくeTA(イータ)申請が承認されると「渡航認証承認」が通知されますが、72時間以上経過しても通知がない場合はウェブサイトにて認証状況の確認を行いましょう。<br />ウェブ上にてステータスが「渡航認証承認」に変わっていればeTA(イータ)申請を利用したカナダ渡航が許可されたことを意味します。<br />eTA(イータ)を利用してカナダへ渡航するには「 J 」から始まるeTA(イータ)申請番号が必要となりますので、ステータスが「渡航認証保留」のままではeTA(イータ)申請を保持しているとは認められません。<br />渡航予定日が迫っているなどお急ぎの場合は下記より認証状況についてお問合せください。</p>
+<div class="Class_AB">
+<a href="http://www.cic.gc.ca/english/contacts/web-form.asp" target="_blank">http://www.cic.gc.ca/english/contacts/web-form.asp</a></div>
+<p>なお、「渡航認証保留」の通知はeTA(イータ)申請が即時承認された申請者に対しては送信されません。<br />eTA(イータ)申請後に通知されるメールの内容を必ずご確認ください。</p>
+<h3 class="wp-block-heading" id="pending7">4.渡航認証拒否</h3>
+<p>申請書の内容やこれまでの出入国履歴、健康面や犯罪歴についての質問への回答や、過去にビザの申請を拒否されたことがあるにもかかわらず虚偽の申告をした場合に渡航認証を拒否される恐れがあります。質問の回答を間違えて入力してしまい、「渡航認証拒否」になってしまった場合は異議を申し立てることが可能です。再度eTA(イータ)申請を行った上で「アプリケーションに関連する追加の詳細」の欄に、現在自身が付与されているeTA(イータ)申請の登録内容の間違いについて説明することができます。その際は英文または仏文にて説明する必要があります。<br />審査結果の通知が「渡航認証拒否」となった方はeTA(イータ)によるカナダ渡航が認められないケースが予想されるため、ビザ申請についてカナダ移民・難民・市民権省(IRCC)にお問合せください。ビザ申請について、<a class="aioseop-link" href="http://xs640823.xsrv.jp/eta/embassy/index.html">こちら</a>のページをご参照ください。 </p>
+<div class="Class_AB">
+<a href="http://www.cic.gc.ca/english/contacts/web-form.asp" target="_blank">http://www.cic.gc.ca/english/contacts/web-form.asp</a></div>
+<h2 class="wp-block-heading" id="pending8">渡航認証を拒否される1番多い理由は入力ミス？</h2>
+<p>渡航認証拒否になるケースで1番多い原因は入力ミスですが、特に注意すべきなのが申請者のバックグラウンドについての質問への回答です。<br />この質問では犯罪歴や健康状態、過去の渡航歴について回答する必要がありますが「Yes」の回答をすると認証が拒否される可能性が高くなります。eTA(イータ)申請のバックグラウンドについての質問項目では、「Yes」で回答すると更に詳しい質問項目が表示されます。<br />追加の質問事項は回答が必須ですので未入力で申請手続きを進めることはできません。その為「No」と答えるべき申請者が入力を誤る事態は避けることができますが、入力ミスには十分に注意しましょう。 </p>
+<h3 class="wp-block-heading" id="pending9">バックグラウンドについての質問事項</h3>
+<h4 class="wp-block-heading">Have you ever been refused a visa or permit, denied entry to, or ordered to leave Canada or any other country/territory?</h4>
+<p>ビザまたは認証を拒否されたこと、カナダや他の国/地域への入国を拒否された事または退去を命じられたことはありますか</p>
+<div class="Class_J">
+<h4>→Yesを選択した場合の追加質問</h4>
+<p>For each refusal, please indicate the country that refused you a visa or permit, or denied you entry, as well as the reasons provided to you by the country.  <br />ビザまたは認証や入国を拒否された国と、その国から提供された理由を示してください。</p>
+</div>
+<h4 class="wp-block-heading">Have you ever committed, been arrested for, been charged with or convicted of any criminal offence in any country/territory?</h4>
+<p>今までに罪を犯し逮捕された、起訴された、または有罪判決を受けたことがありますか</p>
+<div class="Class_J">
+<h4>→Yesを選択した場合の追加質問</h4>
+<p>For each arrest, charge, or conviction, please indicate where (city, country), when (month/year), the nature of the offence, and the sentence.  <br />逮捕、告発、または有罪判決ごとに、どこ(市/国)、いつ(月/年)、犯罪の性質、および文を示してください。</p>
+</div>
+<h4 class="wp-block-heading">In the past two years, were you diagnosed with tuberculosis or have you been in close contact with a person with tuberculosis?</h4>
+<p>過去2年間で結核と診断された事または結核の人と密接に接触したことはありますか</p>
+<div class="Class_J">
+<h4>→Yesを選択した場合の追加質問</h4>
+<p>1. Is your contact with tuberculosis the result of being a health care worker?  <br />結核との接触は、医療従事者の結果ですか？ <br /> 2. Have you ever been diagnosed with tuberculosis? <br /> 結核と診断されたことはありますか？</p>
+</div>
+<h4 class="wp-block-heading">Do you have one of these conditions?　</h4>
+<p>以下の症状に該当するものはありますか</p>
+<ul class="wp-block-list"><li><strong>Untreated syphilis</strong>　未治療の梅毒</li><li><strong>Untreated drug or alcohol addiction</strong>　未治療の薬物またはアルコール中毒</li><li><strong>Untreated mental health condition with psychosis</strong>　精神病をともなう未治療の精神的健康状態</li></ul>
+<p>上記の質問に対して“Yes”を選択するとさらに質問が表示されます。現在の状況や事実に基づき、正しい情報を入力してください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/canada-mid.jpg" alt="カナダの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="canada-eta.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yj8XuwwIE7A4aXWfhXMsr"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

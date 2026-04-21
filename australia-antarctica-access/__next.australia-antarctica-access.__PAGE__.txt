@@ -1,0 +1,106 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3a96,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 南極にアクセスできる国とは？南極への行き方や必需品</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/australia-hero.jpg" alt="オーストラリア" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>南極にアクセスできる国とは？南極への行き方や必需品</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">南極にアクセスできる国とは？南極への行き方や必需品</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#antarctic1">南極への行き方</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#antarctic1-1">大陸の南端から飛行機または船で行く方法</a></li>
+<li><a class="ez-toc-link" href="#antarctic1-2">オーストラリアから行く方法</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#antarctic2">南極のベストシーズンは11月から3月</a></li>
+<li><a class="ez-toc-link" href="#antarctic3">南極旅行に必要なもの</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#antarctic3-1">防寒性の高いウェア</a></li>
+<li><a class="ez-toc-link" href="#antarctic3-2">環境省への届け出</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#antarctic4">短期のオーストラリア入国・渡航にはETAS(イータス)の事前申請が必要です</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="南極" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/430a5251cd675f478055a29485ae0770.webp" type="image/webp" width="640"/><img alt="南極" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/430a5251cd675f478055a29485ae0770.jpg" width="640"/>
+</picture>
+<p>南極大陸は地球の最南端にある5番目に大きな大陸です。陸地の98％が氷に覆われ、地球上で最も気温が低い場所として知られます。極寒の環境下では様々な種類のペンギンやアザラシ、クジラなどが生息し、近年では研究者だけでなく多くの観光客が手つかずの自然や動物たちを見に訪れます。南極は南極条約により公式政府が存在しないため、渡航する際は生態系保護などの観点から定められた手続きが必要となります。このページでは地球で最後のフロンティアと呼ばれる南極への行き方について解説します。</p>
+<h2 class="wp-block-heading" id="antarctic1">南極への行き方</h2>
+<h3 class="wp-block-heading" id="antarctic1-1">大陸の南端から飛行機または船で行く方法</h3>
+<p>南極大陸は日本から約14,000kmの距離にあり、直行便は就航していません。南極へのツアーは南アフリカ・オーストラリア・ニュージーランド・チリ・アルゼンチンから催行されます。<a href="https://www.ushuaia.gob.ar/home" rel="noreferrer noopener" target="_blank">アルゼンチンのウシュアイア</a>は南極に最も近い街として知られていますが、それでも南極からは1,000kmほど離れています。ウシュアイアから約48時間の船旅となる南極観光クルーズは毎年多くの観光客が利用します。また、チリ南部の<a href="https://www.puntaarenas.cl/" rel="noreferrer noopener" target="_blank">港湾都市プンタアレナス</a>から航空機でキングジョージ島を経由し、クルーズ船で海から野生動物たちを眺めるツアーも人気です。キングジョージ島はサウス・シェトランド諸島のひとつで、南極大陸から南米方面へ延びる南極半島の北に位置します。<br />オーストラリアの<a href="https://www.discovertasmania.com.au/about/regions-of-tasmania/hobart-and-south/hobart" rel="noreferrer noopener" target="_blank">ホバート</a>やニュージーランドの<a href="https://www.newzealand.com/jp/invercargill/" rel="noreferrer noopener" target="_blank">インバーカーギル</a>からはクルーズ船ツアーが催行しています。<a href="https://www.australia.com/ja-jp/places/hobart-and-surrounds/island-hopping-around-tasmania.html" rel="noreferrer noopener" target="_blank">マッコーリー島</a>や<a href="https://www.newzealand.com/jp/subantarctic-islands/" rel="noreferrer noopener" target="_blank">オークランド諸島</a>などいくつかの無人島を通過し、1週間かけてゆっくり南極半島へ向かいます。マッコーリー島はタスマニア州に属し、ペンギンの大繁殖地としてユネスコ世界遺産へ登録されています。繁殖シーズンには海岸を埋め尽くすほどの巨大なペンギンのコロニーを見ることができます。<br />南極大陸へのツアーは複数の国から催行されますが不定期での開催となることが多いため、参加する際は主催する企業のホームページより最新情報をご確認ください。</p>
+<h3 class="wp-block-heading" id="antarctic1-2">オーストラリアから行く方法</h3>
+<p>オーストラリアから南極大陸へはオーストラリア大陸の南に位置する<a href="https://www.australia.com/ja-jp/places/tasmania.html" rel="noreferrer noopener" target="_blank">タスマニア島</a>の<a href="https://www.discovertasmania.com.au/about/regions-of-tasmania/hobart-and-south/hobart" rel="noreferrer noopener" target="_blank">港湾都市ホバート</a>からクルーズ船で向かうことができます。1週間の船旅となり、アルゼンチンやチリを経由する南米ルートに比べ日本からの飛行時間が短く時差がほとんどない点がメリットとして挙げられます。危険な海峡として知られるドレーク海峡を進む南米ルートに比べ、オーストラリアから南極へ向かうルートは穏やかな海域となります。途中通過する無人島に生息する様々な野生動物を眺めながらゆったりと船旅を楽しむことができます。乗船する際は双眼鏡やカメラを忘れずに用意しましょう。<br /><a href="https://hobartairport.com.au/" rel="noreferrer noopener" target="_blank">ホバート空港</a>へのアクセスはメルボルン、シドニー、ブリスベンから運航される直行便が便利です。手軽に南極への旅を楽しみたい方は、シーズンとなる夏期に催行される日帰りフライトツアーがお勧めです。<a href="https://www.melbourneairport.com.au/" rel="noreferrer noopener" target="_blank">メルボルン空港</a>から出発し、約12～13時間かけて南極との往復を行います。このツアーでは南極大陸へ上陸することはできませんが、上空から氷に覆われた広大な景色を楽しむことができます。</p>
+<h2 class="wp-block-heading" id="antarctic2">南極のベストシーズンは11月から3月</h2>
+<p>南極観光のベストシーズンは日照時間が長くなる春～夏(11月上旬～3月上旬)です。<br />冬から春へ移り変わる11～1月は冬期に氷結した南極海の氷が溶けることで海水域が広がり、流氷の白とアクアブルーが交わる美しい景観を楽しむことができます。氷が融解することで景色は刻々と変化し、運が良ければ巨大な氷山が崩落する様子が見られるかもしれません。陸上ではペンギンが巣作りを始め、親鳥が交代で卵を温める様子が見られます。1月中旬には孵化したヒナが歩き出し、餌をねだる姿を観察することができます。<br />夏期となる2～3月には海面を覆う氷の融解が進み、南極半島周辺の南側エリアの観察が可能となります。2月中旬にはペンギンのヒナが換羽期に入り泳ぐ練習を始めます。日照時間は徐々に短くなり、天気の良い日は美しい夕日を見ることができます。ホエールウォッチングを希望する方は3月上旬がお勧めです。この時期は南極に生息するクジラが最も活動的になる季節で、研究者も多く訪れます。</p>
+<h2 class="wp-block-heading" id="antarctic3">南極旅行に必要なもの</h2>
+<h3 class="wp-block-heading" id="antarctic3-1">防寒性の高いウェア</h3>
+<p>南極大陸の総面積は約1,300万平方kmあり、「海洋性気候」と「大陸性気候」のエリアに分かれています。各国の南極観測基地が集まる南極半島は「海洋性気候」に属し、降水量が多く気温差が小さいことが特徴です。南極半島を除く大半のエリアは「大陸性気候」に属し、昼夜の気温差が大きく日が暮れると激しく冷え込みます。年間の平均気温は-20度以下となり、降水量が少なく乾燥するため注意が必要です。南極特有の猛烈な風が吹くことがあり、体感温度は-40度を下回ることもあります。南極へ訪れる際は防寒性に優れたウェアをご用意ください。アウターの下には吸汗速乾性と発熱性に優れたインナーとニットまたはフリースを着用しましょう。冷えやすい手足や頭部を保護するグローブやニットキャップを忘れず用意し、万全の防寒対策をお願いします。また、スマートフォンやカメラなどの電子機器は厳寒下ではバッテリーの消費が早くなります。使い捨てカイロを貼るなど電子機器への対策も忘れず行いましょう。</p>
+<h3 class="wp-block-heading" id="antarctic3-2">環境省への届け出</h3>
+<p>南極は南極条約によりどの国にも属していないため、訪れる際にビザや渡航認証は不要となります。ただし、生態系や環境保護を目的として、南極地域活動計画の確認申請または<a href="https://www.env.go.jp/nature/nankyoku/kankyohogo/kankyou_hogo/tetsuzuki/kinyuu.html" rel="noreferrer noopener" target="_blank">南極地域活動の届出書</a>の提出が必須となります。</p>
+<p><strong>対象者：</strong>南極地域での活動計画(観光・研究・探検旅行など)を立てている日本人および日本在住の外国籍の方</p>
+<div class="Class_J">
+<h4>南極地域活動計画の確認申請とは</h4>
+<p>南極大陸への上陸の有無を問わず、南極地域へ赴く際は<a href="https://www.env.go.jp/nature/nankyoku/kankyohogo/kankyou_hogo/tetsuzuki/tetsuzuki.html" rel="noreferrer noopener" target="_blank">環境省</a>へ南極で行う活動を申請し許可を得る必要があります。当申請により認められた活動以外は禁止となるためご注意ください。</p>
+</div>
+<div class="Class_J">
+<h4>南極地域活動の届出書とは</h4>
+<p>参加する南極観光ツアーの手続きに日本以外の<a href="https://www.env.go.jp/nature/nankyoku/kankyohogo/kankyou_hogo/torikumi/kokusai_teiyaku.html" rel="noreferrer noopener" target="_blank">南極条約締約国</a>での確認申請手続きが含まれている場合は、個人での確認申請は不要となります。その場合は確認申請に代わり、環境省へ南極地域活動の届出書の提出が必要となります。ツアーに申し込む際は主催会社へ確認申請の有無をご確認ください。<p><strong>問い合わせ先</strong><br />環境省 自然環境局 自然環境計画課<br />電話：03-5521-8274<br />e-mail : <a href="mailto:antarctic@env.go.jp" rel="noreferrer noopener" target="_blank">antarctic@env.go.jp</a></p></p>
+</div>
+<h2 class="wp-block-heading" id="antarctic4">短期のオーストラリア入国・渡航にはETAS(イータス)の事前申請が必要です</h2>
+<p>オーストラリアを経由して南極へ旅行する際は、環境省への届け出とオーストラリア入国に関する手続きが必要です。日本国籍の方が90日以内の観光旅行を目的としてオーストラリアへ渡航する際は、ビザではなく<a href="http://xs640823.xsrv.jp/etas/service/index.html">電子渡航認証ETAS(イータス)</a>の申請が必須です。ETAS(イータス)はオーストラリア政府移民局が管轄する制度で、少なくとも出発3日前までに申請を行うことを推奨しています。ETAS(イータス)を取得していない方は旅客機への搭乗が拒否されるため、オーストラリアへ渡航する際は忘れずに申請しましょう。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/australia-mid.jpg" alt="オーストラリアの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="australia-etas.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yj8XuwwIE7A4aXWfhXMsr"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

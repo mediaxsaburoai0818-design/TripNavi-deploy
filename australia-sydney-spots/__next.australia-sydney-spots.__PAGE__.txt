@@ -1,0 +1,112 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T45ae,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ シドニーの観光スポット10選 定番からおすすめまでを紹介</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/australia-hero.jpg" alt="オーストラリア" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>シドニーの観光スポット10選 定番からおすすめまでを紹介</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">シドニーの観光スポット10選　定番からおすすめまでを紹介</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1"><li><a class="ez-toc-link" href="#sidney1">オーストラリア・シドニーのおすすめ＆定番観光スポット</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#sec_beach">1. ボンダイ・ビーチ</a></li>
+<li><a class="ez-toc-link" href="#sec_mountain">2. ブルー・マウンテンズ(世界遺産)</a></li>
+<li><a class="ez-toc-link" href="#sec_garden">3. ロイヤル・ボタニック・ガーデン</a></li>
+<li><a class="ez-toc-link" href="#sec_zoo">4. タロンガ動物公園</a></li>
+<li><a class="ez-toc-link" href="#sec_tower">5. シドニー・タワー・アイのスカイウォーク</a></li>
+<li><a class="ez-toc-link" href="#sec_rock">6. ザ・ロックス</a></li>
+<li><a class="ez-toc-link" href="#sec_church">7. セントメアリー大聖堂</a></li>
+<li><a class="ez-toc-link" href="#sec_opera">8. オペラハウス</a></li>
+<li><a class="ez-toc-link" href="#sec_museum">9. シドニー現代美術館</a></li>
+<li><a class="ez-toc-link" href="#sec_bridge">10. ハーバーブリッジ</a></li>
+</ul></li>
+<li><a class="ez-toc-link" href="#sidney2">オーストラリア渡航にはETAS(イータス)の申請が必要</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="シドニーの観光スポット10選" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/5d33762f1189dd68a147bcb1e69dcc6f.webp" type="image/webp" width="640"/><img alt="シドニーの観光スポット10選" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/5d33762f1189dd68a147bcb1e69dcc6f.jpg" width="640"/>
+</picture>
+<p>オペラハウスやハーバーブリッジで有名なシドニーはオーストラリア国内で最も人気のある観光地です。歴史を感じる街並みや近代的な建造物が並ぶ地域など様々な表情を見せるシドニーには多くの観光スポットがあります。このページではシドニー旅行の際に訪れたい定番の観光地や人気のスポットを厳選して紹介します。</p>
+<h2 class="wp-block-heading" id="sidney1">オーストラリア・シドニーのおすすめ＆定番観光スポット</h2>
+<p>ニュー・サウス・ウェールズ州の州都であるシドニーはオーストラリアの東南部に位置する都市です。オセアニア最大の都市であり人口は約530万人。街の中心部近くには美しい砂浜のボンダイ・ビーチがあり、都会にいながらリゾート気分が満喫できます。また、都市部には世界的な知名度を誇る建造物が集中し、特にオペラハウス、ハーバーブリッジ、シドニー・タワーは連日多くの観光客で賑わいをみせています。大都市でありながら近隣には雄大な自然が広がり、世界遺産や国立公園など多数の観光地を擁するシドニーはオーストラリアで最も人気がある都市と言えるでしょう。<br />なお、シドニーを含むオーストラリアは日本との季節が正反対となります。12月～2月は夏、6月～8月は冬に該当するため持参する服装にご注意ください。シドニーは1年を通して晴天の日が多く過ごしやすい天候に恵まれますが、季節を問わず朝晩は気温が下がります。オーストラリアの四季や気候に関する詳しい情報は「<a href="http://xs640823.xsrv.jp/etas/temperature/index.html">オーストラリアの気候と季節ごとの服装</a>」をご確認ください。</p>
+<h3 class="wp-block-heading" id="sec_beach">1. ボンダイ・ビーチ</h3>
+<p>シドニー中心部から東へ10kmほどにあるボンダイ・ビーチはオーストラリアを代表する人気のビーチです。白い砂浜が象徴的で、1kmにもおよぶ浜辺は地元の市民や多くの観光客で連日賑わいを見せています。ビーチの両側には砂岩でできた岬があり、広大な敷地の中でゴルフやウォーキング、ホエールウォッチングなどのアクティビティが楽しめます。プールやリゾートホテルなどの施設も充実しており、美しい景色を眺めながらゆったりとした時間を過ごすことができます。<br />ボンダイ・ビーチへのアクセスはシドニー中心部から車で約25分、またはタウンホール駅から電車かバスで移動することが可能です。</p>
+<h3 class="wp-block-heading" id="sec_mountain">2. ブルー・マウンテンズ(世界遺産)</h3>
+<p>「オーストラリアのグランドキャニオン」と呼ばれているブルー・マウンテンズ国立公園は、世界遺産に登録されていることでも知られる観光スポットです。一帯に広がるユーカリ林によって醸し出される青い靄(もや)がブルー・マウンテンズの由来となっています。ユーカリの木々から放たれる油滴が水蒸気や日光と混ざり合い、独特な青い色を観察することができます。崖の上の展望台からは雄大な自然を眺めることができ、観光で訪れた多くの方が記念撮影を行っています。<br />ブルー・マウンテンズへのアクセスはシドニーの中心部から車で約2時間。日帰りによるバスツアーも多く開催されています。</p>
+<h3 class="wp-block-heading" id="sec_garden">3. ロイヤル・ボタニック・ガーデン</h3>
+<p>ロイヤル・ボタニック・ガーデンは200年以上の歴史を誇る王立の植物園です。園内には17,000種以上の植物が植栽され、絶滅危惧種やジュラ紀の植物も観察することができます。また、鳥類や爬虫類、様々な昆虫や動物も飼育されています。ロイヤル・ボタニック・ガーデンは1816年に設立され、都市部にありながら広大な緑地を保有している世界的にも希少な施設としてその名が知られています。オペラハウスとハーバーブリッジを一望できる立地にあり、シドニー観光の途中に立ち寄ることができます。<br />ロイヤル・ボタニック・ガーデンはシドニーの中心部から徒歩圏内にあり入場は無料です。</p>
+<h3 class="wp-block-heading" id="sec_zoo">4. タロンガ動物公園</h3>
+<p>タロンガ動物公園はシドニーで最も大きな動物園として市民や観光客に親しまれています。1916年に設立し、広大な敷地の中で約400種類の動物たちが飼育されています。コアラとの記念撮影が可能で、多くの観光客で賑わいをみせています。また、放し飼いの鳥と親しむことができるなど、家族で楽しめるアクティビティが充実しています。<br />タロンガ動物公園へのアクセスは、サーキュラー・キー・フェリーターミナルからフェリーで12分。フェリーからは広大な動物園の景色を眺めることができます。入場料は大人46ドル、子ども26ドル、4才未満は無料となっています。なお、オーストラリアでコアラとの記念撮影が可能な動物園は「<a href="http://xs640823.xsrv.jp/etas/koalazoo.html">オーストラリアでコアラと出会える動物園</a>」をご確認ください。</p>
+<picture>
+<source alt="タロンガ動物公園" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/MlJqspTmiMZiLWb1614662366.webp" type="image/webp" width="640"/>
+<img alt="タロンガ動物公園" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/MlJqspTmiMZiLWb1614662366.jpg" width="640"/>
+</picture>
+<h3 class="wp-block-heading" id="sec_tower">5. シドニー・タワー・アイのスカイウォーク</h3>
+<p>高さ305mのシドニー・タワーはシドニーで最も高い建造物です。地上250mには展望台のシドニー・タワー・アイがあり、晴天の日はシドニーハーバーの海岸線やブルー・マウンテンズまで見渡すことができます。展望台にはスカイウォークと呼ばれる歩道があり、建物の外側に造られた歩道を歩くアトラクションが人気を博しています。歩道の一部は特殊なガラスが敷かれ、足元からは透明なガラス越しにシドニー市街を眺めることできます。スカイウォークへの参加は満10歳以上となり、17歳未満の方は18歳以上の保護者の同伴が必要となります。また、参加の際はパスポートなど写真付きの身分証明書の提示が求められます。</p>
+<h3 class="wp-block-heading" id="sec_rock">6. ザ・ロックス</h3>
+<p>シドニー湾の玄関口サーキュラー・キーから徒歩5分の場所にあるザ・ロックスは開拓時代の古い街並みが残るエリアです。石畳が続く路地裏には開拓時代を物語る芸術作品が並び、歴史に思いを馳せながら散策が楽しめます。土曜日と日曜日はエリアの中心であるジョージ・ストリートで“ロックス・マーケット”と呼ばれる市が開催され、多くの露店や屋台が並びます。ザ・ロックスは市内の中心部近くにあるため、観光客だけでなく多くの市民が買い物に訪れる人気のスポットです。カフェやレストラン、土産物などのショップも充実しており、平日でも買い物を楽しむことができます。</p>
+<h3 class="wp-block-heading" id="sec_church">7. セントメアリー大聖堂</h3>
+<p>セントメアリー大聖堂はシドニーのランドマークであり、オーストラリアで最初に建立したカトリック教会です。今から200年以上前に建てられ、シドニーの発展に深く関わってきた建築家ウィリアム・ウォーデルによるゴシック建築の傑作としてその名が知られています。教会内には美しいステンドグラスの窓や優美な石膏像があり、荘厳なパイプオルガンの音色に情緒と歴史を感じることでしょう。1865年には大きな火災が起こり一時焼失しましたが、60年以上の歳月をかけて復旧。現在も街のシンボルとして市民から親しまれています。<br />セントメアリー大聖堂はシドニー中心部にあるハイドパークに隣接し、セントジェームズ駅から徒歩2分の場所にあります。</p>
+<picture>
+<source alt="オペラハウス" class="img_big m20-t m20-b" height="428" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/ioo7pOiPPD7s5R71614662679.webp" type="image/webp" width="640"/>
+<img alt="オペラハウス" class="img_big m20-t m20-b" decoding="async" height="428" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/ioo7pOiPPD7s5R71614662679.jpg" width="640"/>
+</picture>
+<h3 class="wp-block-heading" id="sec_opera">8. オペラハウス</h3>
+<p>オペラハウスは1973年に建てられた歌劇場で、世界遺産にも登録されたオーストラリアを代表する建造物です。独特な形状の屋根は帆船の帆をイメージしており、人類史上最も優れた建造物として評価されています。館内にはオペラシアターやコンサートホール、ドラマシアターなど5つの劇場があり、年回の公演回数は世界トップクラスを誇ります。ガイドによる館内見学ツアーも行われ、年間で1,090万人もの観光客が訪れるオペラハウスは世界有数の観光スポットとして連日賑わいを見せています。<br />オペラハウスはサーキュラー・キー駅すぐ近くにあり、見学ツアーは午前9時から午後5時まで。入場料は大人25ドル、子ども18ドルとなっています。</p>
+<h3 class="wp-block-heading" id="sec_museum">9. シドニー現代美術館</h3>
+<p>シドニー湾を臨むサーキュラー・キーに建つシドニー現代美術館は、現代アートの専門美術館として世界的に知られています。敷地には旧館と新館があり、元来海軍の施設として建てられた旧館は1991年に美術館として開園。2012年には新館が増築され多くの作品が展示されています。同美術館は公営のため常設展は無料で見学することができます。また、館内ではフラッシュ無しに限り写真撮影も可能です。<br />オペラハウス、ハーバーブリッジ、ザ・ロックス等の観光スポットにも近く、気軽に立ち寄れる美術館として市民や観光客から親しまれています。</p>
+<h3 class="wp-block-heading" id="sec_bridge">10. ハーバーブリッジ</h3>
+<p>シドニー湾を挟んで市の中心部と北部を結ぶハーバーブリッジは、オペラハウスと並ぶシドニーの代表的なランドマークです。高さ49ｍ、全長は1,149ｍにもおよび、橋上では青い空と海を堪能することができる定番の観光スポットです。晴天の日はバンジージャンプやブリッジ・クライムと呼ばれるアトラクションが行われ、橋にのぼりアーチを歩くこともできます。1932年に建設され当初は4車線でしたが交通量の増加により現在は8車線となっています。歩行者専用通路は無料で入場することができ、橋の南側にある展望台からは美しいシドニーの街並みを一望することができます。<br />ハーバーブリッジはミルソンズ・ポイント駅のすぐ近く。夜は橋全体がライトアップされ、シドニーの街に美しい灯りをともします。</p>
+<h2 class="wp-block-heading" id="sidney2">オーストラリア渡航にはETAS(イータス)の申請が必要</h2>
+<p>日本国籍の方が90日以内の観光旅行を目的としてオーストラリアへ渡航する際は、ETAS(イータス)の申請が必要となります。ETAS(イータス)はオーストラリア政府移民局が管轄する電子渡航認証制度で、少なくとも出発3日前までにオンラインにて申請を行うことを推奨しています。ETAS(イータス)の申請は全てオンラインで完結し、申請が承認された方は「渡航認証許可」の通知が届きます。事前にETAS(イータス)による渡航認証許可を取得していない場合は旅客機への搭乗拒否が予想されますので、渡航前に必ず申請をお願いします。<br />ETAS(イータス)に関する詳細は「<a href="http://xs640823.xsrv.jp/etas/service/index.html">オーストラリア観光ビザのETAS(イータス)とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/australia-mid.jpg" alt="オーストラリアの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="australia-etas.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yj8XuwwIE7A4aXWfhXMsr"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

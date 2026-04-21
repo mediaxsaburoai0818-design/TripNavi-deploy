@@ -1,0 +1,164 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T6483,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダの学生ビザ(就学許可証)について</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/canada-hero.jpg" alt="カナダ" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダの学生ビザ(就学許可証)について</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">カナダの学生ビザ(就学許可証)について</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#study1">カナダ学生ビザ申請の流れ</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#study1-1">1. GCKeyを作成</a></li>
+<li><a class="ez-toc-link" href="#study1-2">2. 学生ビザを申請する</a></li>
+<li><a class="ez-toc-link" href="#study1-3">3. 申請書類の提出と申請費用の支払い</a></li>
+<li><a class="ez-toc-link" href="#study1-4">4. 個人識別情報(バイオメトリクス)の予約・登録</a></li>
+<li><a class="ez-toc-link" href="#study1-5">5. 学生ビザの確認・発給</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#study2">カナダ学生ビザ申請に必要な書類</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#study2-1">申請に必要な書類について</a></li>
+<li><a class="ez-toc-link" href="#study2-2">証明写真とクレジットカード</a></li>
+<li><a class="ez-toc-link" href="#study2-3">必要に応じて求められる書類</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#study3">個人識別情報(バイオメトリクス)への登録</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#study3-1">個人識別情報(バイオメトリクス)とは</a></li>
+<li><a class="ez-toc-link" href="#study3-2">個人識別情報(バイオメトリクス)登録の流れ</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#study4">学生ビザでの就労について</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#study4-1">オフキャンパスとは(Off-Campus Work Permit)</a></li>
+<li><a class="ez-toc-link" href="#study4-2">コーププログラムとは(Co-op)</a></li>
+<li><a class="ez-toc-link" href="#study4-3">ポスグラビザとは(PGWP：Post-Graduation Work Permit)</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#study5">カナダへの渡航・入国にはeTA(イータ)の事前申請が必要です</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="studying-abroad" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/11/bff87c7e255ef056efb4d54469efd8f0.webp" type="image/webp" width="640"/><img alt="studying-abroad" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/11/bff87c7e255ef056efb4d54469efd8f0.jpg" width="640"/>
+</picture>
+<p>カナダへ6か月以上の留学を計画している方は、就学許可証(Study Permit)の取得が必須となります。留学期間が6か月以内の場合は原則として不要ですが、履修後もカナダで滞在する可能性がある方は予め取得することをお勧めします。就学許可証はIRCC(カナダ移民・難民・市民権省)のウェブサイトにてオンライン申請が可能です。このページでは<a href="http://xs640823.xsrv.jp/eta/study_abroad/index.html">カナダ留学</a>に必要な書類や申請手順などについて解説します。</p>
+<h2 class="wp-block-heading" id="study1">カナダ学生ビザ申請の流れ</h2>
+<p>カナダ留学に必須となる就学許可証は<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html" rel="noreferrer noopener" target="_blank">IRCC(カナダ移民・難民・市民権省)のウェブサイト</a>にてオンライン申請が可能です。<br />すべて英語で行う必要がありますので、入力間違いにご注意ください。</p>
+<h3 class="wp-block-heading" id="study1-1">1. GCKeyを作成</h3>
+<p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html" rel="noreferrer noopener" target="_blank">IRCC(カナダ移民・難民・市民権省)のウェブサイト</a>にてGCKeyのアカウントを作成します。<br />アカウントを作成済みの方はログイン後、次の画面に進んでください。</p>
+<h3 class="wp-block-heading" id="study1-2">2. 学生ビザを申請する</h3>
+<p>作成したアカウントにログインし、ページ内のApply to come to Canada(カナダへの渡航申請)を選択します。<br />次の画面で“Visitor visa, study and/or work permit”が表示されますので、study permit(学生ビザ)を選択し申請手続きを行ってください。<br />申請画面では以下の内容が表示されますので、適切な回答をお願いします。</p>
+<div class="Class_AB">
+<ol><li>カナダ渡航の目的は？</li><li>カナダでの滞在期間は？</li><li>パスポートの発給コードを選択してください。(日本国籍の方はJPNを選択)</li><li>現在、居住している国は？(日本居住の方はJapanを選択)</li><li>家族に18歳以上のカナダ市民またはカナダ永住者はいますか？</li><li>ビザ申請者の生年月日を入力してください。</li><li>アメリカでの永住権を保有していますか？</li><li>カナダ国内の学校に入学を認められていますか？</li><li>現在の婚姻状況は？(未婚・既婚を選択)</li><li>カナダ国内で滞在する地域を選択してください。(13州の中から選択)</li></ol></div>
+<p>回答した後、申請基準を満たしているかについての結果が表示されます。<br />基準を満たしていると判断された場合は、Students(Study permit outside of Canada)の画面に遷移します。<br />当該の画面に以下の質問が表示されますので、適切な回答をお願いします。</p>
+<div class="Class_AB">
+<ol><li>交換留学生ですか？</li><li>就労は学生ビザプログラムの一環ですか？(コーププログラムに該当する方のみYesを選択してください)</li><li>配偶者は就労ビザまたは学生ビザを保有していますか？</li><li>政府や教育機関による奨学金の対象者ですか？</li><li>留学の際に同伴する家族はいますか？</li><li>過去1年間に特定の国で6か月以上滞在していましたか？</li><li>家族のビザ申請も行いますか？</li><li>過去10年間にカナダ政府へバイオメトリクス認証を提供しましたか？</li><li>家族や第三者に申請を依頼していますか？(自身で申請する方はNoを選択)</li><li>申請費用の支払いに同意しますか？(支払いを免除されている方のみNoを選択)</li><li>学生ビザ申請書類のデジタルコピーは可能ですか？</li><li>オンラインによる申請費用の決済は可能ですか？</li></ol></div>
+<p>すべての質問に回答した後、確認画面に遷移します。<br />申請書類のアップロード方法を確認し、“Continue”をクリックしてください。</p>
+<h3 class="wp-block-heading" id="study1-3">3. 申請書類の提出と申請費用の支払い</h3>
+<p>下記の「<a href="#study2">学生ビザ申請に必要な書類</a>」を参考のうえ書類の用意をお願いします。<br />必要書類を提出した後、クレジットカードにてビザ申請費用(150カナダドル)とバイオメトリクス登録費用(85カナダドル)の支払いが必要となります。</p>
+<h3 class="wp-block-heading" id="study1-4">4. 個人識別情報(バイオメトリクス)の予約・登録</h3>
+<p>学生ビザの申請後、オンラインにて“Biometrics Instruction Letter”の通知が届きます。通知から30日以内に個人識別情報(バイオメトリクス)の登録を行ってください。<br />個人識別情報(バイオメトリクス)の登録は<a href="https://visa.vfsglobal.com/jpn/ja/can/book-an-appointment" rel="noreferrer noopener" target="_blank">カナダビザ申請センター(VFS)</a>にて行います。登録の際はカナダビザ申請センターへ訪問する日時を予約し、申請者本人が赴き個人識別情報(バイオメトリクス)の登録を行う必要があります。</p>
+<h3 class="wp-block-heading" id="study1-5">5. 学生ビザの確認・発給</h3>
+<p>GCKeyにて就学許可証の通知が届きます。ダウンロードをして内容をご確認ください。<br />就学許可証はカナダ入国時に必須となります。入国審査の際に当該の就学許可証を提示することで学生ビザが発給されますので、必ず携行をお願いします。</p>
+<h2 class="wp-block-heading" id="study2">カナダ学生ビザ申請に必要な書類</h2>
+<h3 class="wp-block-heading" id="study2-1">申請に必要な書類について</h3>
+<p>カナダ学生ビザはオンラインでの申請が可能です。申請の際は以下の書類をご用意ください。</p>
+<ul class="wp-block-list"><li><a href="https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/kits/forms/imm1294e.pdf" rel="noreferrer noopener" target="_blank">学生ビザ申請証明書(IMM1294)</a></li><li>カナダ国内の学校が発行した入学許可書</li><li>期限が有効なパスポート</li><li>金融機関が発行した残高証明書(英文)</li></ul>
+<p>※学生ビザ申請証明書(IMM1294)はリンク先のページよりダウンロードしてください。<br />パスポートは顔写真のページと、入国スタンプが捺印されている全てのページをスキャンして提出してください。当該のページはスマートフォン等で撮影した画像も認められます。<br />残高証明書は通貨の記載を必須とし、ビザ申請日から1か月以内に発行された書類のみ有効となります。残高は留学先が指定する学費のほか、1か月あたり1,000カナダドル(約92,000円)以上の滞在費が必要です。6か月間の留学を予定している方は、学費と滞在費の目安として10,000カナダドル以上の残高が求められます。なお、学費を支払った後に残高証明を提出する場合は、入学先が発行した領収証の提出も必要です。当該の方は滞在費のみの残高証明で申請が可能です。残高証明書は家族の口座名義でも申請が認められます。</p>
+<h3 class="wp-block-heading" id="study2-2">証明写真とクレジットカード</h3>
+<div class="Class_J">
+<h4>証明写真</h4>
+<p>証明写真は以下の条件を満たす必要があります。 <ul><li>パスポート証明写真と同サイズの画像データ(スマートフォンで撮影した写真でも可)</li><li>ファイルサイズは4M以下</li><li>正面を向いた自然な表情であること</li><li>背景が白または薄い色の無地であること(背景が映ったスナップ写真は認められません)</li></ul>眼鏡の着用は認められますが、照明の反射にご注意ください。<br />証明写真に関する詳細は<a href="https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/photospecs-e.pdf" rel="noreferrer noopener" target="_blank">カナダ移民・難民・市民権省(IRCC)のウェブサイト</a>をご確認ください。</p>
+</div>
+<div class="Class_J">
+<h4>クレジットカード</h4>
+<p>申請費用はクレジットカードでの決済が求められます。 <ul><li>ビザ申請料金(150カナダドル)</li><li>バイオメトリクス登録費用(85カナダドル)</li></ul> クレジットカードは申請者ご本人の名義でなくても構いません。保護者やご家族のクレジッカードを使用する場合は、所有者の了承を得たうえで決済をお願いします。</p>
+</div>
+<h3 class="wp-block-heading" id="study2-3">必要に応じて求められる書類</h3>
+<p>入学する学校の規則により健康診断書の提出が必要となる場合がありますので、事前の確認をお勧めします。ケベック州で6か月以上の留学を予定している方は、就学許可証を申請する前にCAQ(ケベック州就学許可証)を取得する必要があります。同州にてインターンシップなどで就労を行う方は、滞在期間を問わずCAQの取得が必須となります。また、日本国外にて半年以上の滞在歴がある方は、無犯罪証明書(警察証明書)の提出も求められます。</p>
+<div class="Class_J">
+<h4>必要に応じて求められる書類の例</h4>
+<p><ul><li>健康診断書</li><li>無犯罪証明書(警察証明書)</li><li>CAQ(ケベック州就学許可証)</li></ul></p>
+</div>
+<h2 class="wp-block-heading" id="study3">個人識別情報(バイオメトリクス)への登録</h2>
+<h3 class="wp-block-heading" id="study3-1">個人識別情報(バイオメトリクス)とは</h3>
+<p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/biometrics.html" rel="noreferrer noopener" target="_blank">バイオメトリクス</a>とは日本語で「個人識別情報」を意味します。指紋など身体的な特徴を採取および管理することで、個人を識別する認証システムです。<br />カナダでは2018年より以下の方を除き、渡航前にバイオメトリクスの登録が義務付けられています。</p>
+<ul class="wp-block-list"><li>eTA(イータ)または観光ビザで入国する方</li><li>14歳以下の児童</li><li>80歳以上の高齢者</li></ul>
+<p>学生ビザや<a href="http://xs640823.xsrv.jp/eta/working-holiday/index.html">ワーキングホリデービザ</a>を利用してカナダへ渡航する方は、バイオメトリクスの事前登録が必須です。<br />1回登録したバイオメトリクスは10年間有効となり、入国審査の際に登録済みの情報と一致しているか確認が行われます。</p>
+<h3 class="wp-block-heading" id="study3-2">個人識別情報(バイオメトリクス)登録の流れ</h3>
+<p>バイトメトリクス登録の主な流れは以下の通りです。</p>
+<ol class="wp-block-list"><li>学生ビザを申請</li><li>ビザとバイオメトリクスの申請料金をクレジットカードにて支払い</li><li>カナダ移民局よりEメールでバイオメトリクス登録に関する案内書が届く</li><li>バイオメトリクス登録のためのビザ申請センター訪問日を予約(通知から30日以内の登録が必要)</li><li>指定日にビザ申請センターへ赴きバイオメトリクスの登録を行う</li></ol>
+<p>バイオメトリクスの登録は予約制です。Eメール、電話、ウェブチャットまたはビザ申請センター(VFS)にて予約をお願いします。学生ビザ申請後にカナダ移民局よりバイオメトリクス登録に関する案内書がEメールで届きますので、通知から30日以内に登録を行ってください。登録は東京・大阪いずれかのビザ申請センター(VFS)に申請者本人が赴き、所定の手続きを行う必要があります。所在地や営業時間などの詳細は「<a href="http://xs640823.xsrv.jp/eta/embassy/index.html">カナダビザ申請センター・カナダ大使館について</a>」をご確認ください。</p>
+<div class="Class_AB">
+<p><strong>カナダビザ申請センター(合同会社VFSサービシズ・ジャパン東京)</strong><br /> 〒105-0014<br /> 東京都港区芝1-4-3　SANKI 芝金杉橋ビル4F<br /> 月曜日～金曜日 9:00～17:00<br /></p> <p><strong>カナダビザ申請センター(合同会社VFSサービシズ・ジャパン大阪)</strong><br /> 〒542-0081<br /> 大阪府大阪市中央区南船場1-3-5　リプロ南船場ビル10F<br /> 月曜日～金曜日 9:00～17:00<br /></p> <p>ビザ申請センターにてバイオメトリクスの登録を行う際は、以下を必ず持参してください。<br /> <ul><li>パスポート</li><li>カナダ移民局より届いたバイオメトリクス登録に関する案内書</li><li>バイオメトリクス登録日時の予約確認書</li><li>ビザ申請センターが発行した予約同意書</li></ul> バイオメトリクス登録の予約に関する詳細は<a href="https://visa.vfsglobal.com/jpn/ja/can/book-an-appointment" rel="noreferrer noopener" target="_blank">ビザ申請センター(VFS)のウェブサイト</a>をご確認ください。</p></div>
+<picture>
+<source alt="canada-student" class="img_big m20-t m20-b lazyloaded" height="360" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/11/6bb4da439a1805d7bfc0b747125910e1.webp" type="image/webp" width="640"/><img alt="canada-student" class="img_big m20-t m20-b" decoding="async" height="360" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/11/6bb4da439a1805d7bfc0b747125910e1.jpg" width="640"/>
+</picture>
+<h2 class="wp-block-heading" id="study4">学生ビザでの就労について</h2>
+<p>カナダの学生ビザを取得した方は、一定の条件を満たすことによりアルバイトなどの就労が認められます。<br />就労可能な学生ビザの種類として、オフキャンパスビザ(Off-Campus Work Permit)、コーププログラム(Co-op)、ポスグラビザ(PGWP : Post-Graduation Work Permit)などがあります。規定により労働条件が異なるため、留学期間や自身の目的に合ったビザを選択してください。<br />なお、6か月以内の短期留学はeTA(イータ)を取得することでカナダでの滞在が可能ですが、就労は認められません。<br />カナダ留学と就労に関する注意点は「<a href="http://xs640823.xsrv.jp/eta/study_abroad/index.html">カナダ留学の特徴・メリットデメリットを徹底解説</a>」をご確認ください。</p>
+<h3 class="wp-block-heading" id="study4-1">オフキャンパスとは(Off-Campus Work Permit)</h3>
+<p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html" rel="noreferrer noopener" target="_blank">オフキャンパスビザ(Off-Campus)</a>は就労可能な学生ビザとして最も一般的です。<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html" rel="noreferrer noopener" target="_blank">カナダ政府認定の教育機関(DLI)</a>に在学し、Certificate(特定学科修了)、Diploma (複数学科修了)、Bachelor’s Degree (4年制大学卒業)を目的として滞在中の留学生が主な対象となります。同ビザは<a href="https://www.canada.ca/en/employment-social-development/programs/sin/temporary.html" rel="noreferrer noopener" target="_blank">社会保険番号(SIN)</a>の取得が必須となり、在学証明書や6か月以上のカリキュラム受講を証明する書類の提示が求められます。なお、DLIに該当する機関でも、語学学校の短期カリキュラムを専攻している方は対象外となるためご注意ください。<br />同ビザを取得した方は週に最大20時間の勤務が可能で、休講となる夏季や冬季に限り最大40時間の就労が認められます。</p>
+<h3 class="wp-block-heading" id="study4-2">コーププログラムとは(Co-op)</h3>
+<p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/intern.html" rel="noreferrer noopener" target="_blank">コーププログラム(Co-op)</a>は就業体験(インターンシップ)が含まれるビザで、特定の職業において経験を積むことができる制度です。<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html" rel="noreferrer noopener" target="_blank">カナダ政府認定の教育機関(DLI)</a>に在学し、将来的にカナダでの就職を希望する学生が対象となります。ワーキングホリデービザと大きく異なる点は年齢制限がないことや、就労よりも就学を重視していることが挙げられます。コーププログラムの希望者は学生ビザの取得も求められ、6か月以内の留学でもビザ取得が必須となります。同ビザで就労可能な日数は就学期間の50％以内と定められ、特別な事情を除き超過は許可されないため勤務日数の自己管理が必要です。コーププログラムを利用しての就労はDLIによる承認が必要となり、面接などの機会では教育機関が発行した証明書の提示が求められます。</p>
+<h3 class="wp-block-heading" id="study4-3">ポスグラビザとは(PGWP：Post-Graduation Work Permit)</h3>
+<p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html" rel="noreferrer noopener" target="_blank">ポスグラビザ(Post-Graduation Work Permit)</a>とは、<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html" rel="noreferrer noopener" target="_blank">カナダ政府認定の教育機関(DLI)</a>を卒業した後に国内での就労が認められる制度です。取得した方は就学した年数と同じ期間有効となる就労ビザが発行されます。対象となる教育機関はカナダ国内の公立大学または公立大学院で、指定のカリキュラムを8～24か月にわたり履修した方に限られます。24か月以上のカリキュラムを履修した方は最長3年間の就労ビザが発行され、カナダ国内で正社員としての就職が認められます。また、同ビザは雇用主や雇用形態が限定されないため、勤務先を自由に選択することもできます。ポスグラビザに年齢制限はありませんが、申請は1度のみと定められています。</p>
+<h2 class="wp-block-heading" id="study5">カナダへの渡航・入国にはeTA(イータ)の事前申請が必要です</h2>
+<p>カナダでの長期滞在を希望する方はビザの取得が必要となりますが、短期留学や観光旅行でカナダへ訪れる場合はeTA(イータ)申請のみで渡航が可能です。eTA(イータ)はカナダ連邦政府およびIRCC(カナダ移民・難民・市民権省)が定める入国制度で、180日以内の滞在を希望する方は事前申請が必須となります。ただし、180日以内の滞在でもカナダ国内で就労を予定している方はeTA(イータ)の対象外となり、ビザの取得が必要となりますのでご注意ください。<br />eTA(イータ)は日本を含むビザ免除対象国の市民に限り申請が可能で、渡航前にオンラインにて取得する必要があります。<br />eTA(イータ)とビザの違いや、カナダビザ申請に関する詳細は「<a href="http://xs640823.xsrv.jp/eta/lengthofstay/index.html">カナダのeTA(イータ)とビザの違いとは</a>」をご確認ください。</p>
+<p></p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/canada-mid.jpg" alt="カナダの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="canada-eta.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yj8XuwwIE7A4aXWfhXMsr"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

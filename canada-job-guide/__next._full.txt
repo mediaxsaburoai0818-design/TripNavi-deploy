@@ -1,0 +1,429 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0ti-qap5jrw~~.css","style"]
+:HL["/_next/static/media/002ad56b38a46c9f-s.p.0f59t7u8y6li6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/015286201268d2a6-s.p.0l4wo6bqs1t08.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/016d87c0cc8b8e03-s.p.0frjw6rbwpb9q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/019e33408574e34b-s.p.15c9-flx7omvj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/02e550b4c497ffd7-s.p.0_0t1613pgxdo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/0384cfd38b99ce4f-s.p.11c-kdd-h5mww.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/03c0db9b5a4c2c94-s.p.0zgs71~~du8hq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/03d0e36c7236607b-s.p.0y95oh9lipnmo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/059824b686cd8047-s.p.0s2ldow7b7h7s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/0c70f68f8f8a0de0-s.p.16jhs1jc24tr1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/114efd192faddb25-s.p.0w9ayaf69b0px.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1615dd90058dd472-s.p.0ea7t3jcdhrxv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/172c6d7f19452c54-s.p.0swyj9sqf7rvm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/17641f5d78f6e900-s.p.13-kge8vfriao.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/186b494074a89ca8-s.p.0~j1_3a3olz91.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/18abe14d1590d8ea-s.p.15jy1f6j2cwxb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1903d20155caee42-s.p.078hb-~~~e4u..woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1943fced1587c24b-s.p.170n8mp7t~vga.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1b48ef96a6c7a65c-s.p.0ktphb4l_lcfj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1b8def2d4a8da93e-s.p.0v_0_hk7e7~yp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1ccd044fc4a54a49-s.p.17-tgeuymqxh5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1db2ddb569d52191-s.p.03tbozdp~tgys.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1e9d7fbc9ac005c3-s.p.0_dmq5q2vhnid.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1f9dadf367424346-s.p.048mod9pcqvnw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2119272d4c96c9c9-s.p.0.lx5qgaer0ct.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/218f525e9b20ae3e-s.p.014ixqos2.ryc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/22d2d81e68feff15-s.p.13j4rasgmsp6e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/23c71eb8a6f6169d-s.p.0s.jkum2lcyjv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2571f6eeabbf3907-s.p.0psua3g_q0tf..woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2742bd55ed4b42b4-s.p.0j3-p-c4z58wc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2815314c7967c94e-s.p.00~guypj.h52f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/290a98c49fc544b8-s.p.0szxdfj~32mno.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/29863229b98b5b0e-s.p.0d8pweo_c5uza.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/29ae915e262396fb-s.p.0dfw7s_2.owjv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2c053f3774869505-s.p.0-k1_d63lro6r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2e7ac61358eea525-s.p.00s5cagt6wc4q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/30101e235752ba5c-s.p.0getib0pu_436.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3042c2e1bf6e0b3a-s.p.06eu29w_zl6l..woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/308b966a1f39dbd4-s.p.16cf3gg_auvqp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/30b879d734f9dd8e-s.p.0-70ydyhqilor.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/30bfaf64d8064a6e-s.p.07~mune9gxpey.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/31bf168104181c41-s.p.08xoca~ukip3-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/32bf47ff417e40e6-s.p.07zsh62m0mjal.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/32d3e9e57264ec6b-s.p.08ocvddxa0k3i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/34eb8c341b30770d-s.p.0141frvn8id8e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/38324df556f1cbfc-s.p.0xca240w8705d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/38d3d755b469d320-s.p.0dk81a7t2l186.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/38f7094e78698b72-s.p.0m-s2861w5uc-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/39b81b413540af58-s.p.0lekvco3k8ve0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/39ea45b643d11126-s.p.0~r7ivmm2mcvg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3b002f1e24fde4fe-s.p.0znmwvtv.66iu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3b07cee987576037-s.p.0040bsbx8kml6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3b232dea2eef096a-s.p.13kc8y-cgzok5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3c1539a1e6471691-s.p.0tjgtdnznbyq9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3c796dc6494646dd-s.p.151y816.hctxg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3dc9d37f1e023b5c-s.p.107-ezm2kofo7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/41f33cb677fa4a62-s.p.0~87j81d4ys0p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4206bf5f02e55e3e-s.p.02zyt0sou8-iy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4279f63cfb2374d8-s.p.0n4ljy-vbxs-e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/43850f28247faf1b-s.p.0.dq458kqa84g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/43ad679dc4361f92-s.p.00w2nfn2~ia6~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/43d5378de42f63cc-s.p.0ycp3fi3jq_mm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/43f91e7f4777335f-s.p.07g1tgvmg9ine.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4493b6c988dcc597-s.p.0c~1~gyur2yps.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/44e19c97da992608-s.p.08o5va35zzzx9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/454338c3bf4dc1e7-s.p.15viufso940v~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/45f9fd801a720905-s.p.125sq2q5i56h8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4645ea835cc3f7b8-s.p.0dj1my6ttu8ty.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/47ca01105d385403-s.p.0km24i32.m7pj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4c0a3785cb91fe1f-s.p.0_q~3l0e8crkw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4cb1a9cead03db1c-s.p.0x353o575c_g7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4d8ac7b813979ef2-s.p.0kbhptd9vy1vd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4e82145fb9ff7a17-s.p.117v.dfrhv3ja.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4e912a91d27e9498-s.p.0ls885o9_eck6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4eae29a803afd31c-s.p.02gd0ifb6qu1w.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5053fba55258321d-s.p.10w.ec_utoj...woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/519e956447734572-s.p.0kk_zpcilsxyr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/53f4e35201f5bdba-s.p.0o1qmyj6lhw3s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5429c782079d5828-s.p.10.2gwamig1em.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/554d7ece9eb1d626-s.p.00ejiy3h0vnz5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/55cbd646e20d5a4a-s.p.15hfhpk_yvi1x.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/56551c7972e3e6a7-s.p.0zokh0ffjfu2f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/56977a4d4a99d277-s.p.0b.5jf1w2i6u8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/56a6a3a116f6044c-s.p.0b~jmhrk-t0dt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/56d1203728e99c8c-s.p.03a5wbj4l-22~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/573d0623a59073f8-s.p.0sm~vsuif1.ws.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/584427a24da92ff9-s.p.03eiudkl6d4sf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5895cc5c1f4e395e-s.p.07tgn0eirg0af.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/594db5398266c67b-s.p.0qllyycmz3o74.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/595cb9f999fd773e-s.p.17j6a5pcm30ju.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5b1c5a78a9c69923-s.p.15vj~o235.y3w.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5bb627cdef88be70-s.p.15ky-5d4rx_85.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5bc7a4f67b3b2417-s.p.08gyw9lf3jv.m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c758e5c750963c1-s.p.13pulpd9wfii8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c871332aed31bd4-s.p.0p2pjvz522bdc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5e4a79e78aa24b35-s.p.00lgwjqpsw5qx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5f2b8d2cb6088495-s.p.0.zddlow_b4mp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/60fe495e93dd70e7-s.p.0b~8x75cm5mi~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6137b8a2a496944a-s.p.13ihouf9v..im.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/61739b1ce8f94749-s.p.105i-jz_sd0mu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/619a2aaac2940701-s.p.0u_141k9520vr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/62ff0afd35a51bd1-s.p.171jypacl9_2z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/67b0565306d038f3-s.p.0ueiet29ajv6-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/682cecb713d2fe79-s.p.0g5kq4_xlqyok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6b3aea2fa3398619-s.p.0c9nvt9pw6tt4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6ca79aeb6fa5fa85-s.p.09z507-q77.s0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6ccf63dfa134ca34-s.p.0v44440.p30jb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6d834a25593dfa0d-s.p.17shrdmo9rw42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6ee9f0874781a17d-s.p.0fv0_aq1el2ca.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7444726f3b492558-s.p.15n2emcfmw3rn.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/747f555f231561f1-s.p.0sa0zhj6ohpfm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7548fa1ad5faf4f7-s.p.0_.qk4ucm0ow2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/762207642c1d657a-s.p.0y01noaew7tbm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7693c8cb3d733a96-s.p.13~1_21-x6uyg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7aedd79ca8c378f4-s.p.07yp.kyz719u0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7b323863dddd6dc5-s.p.0zmyw7ljxp4.u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7c390261414bb517-s.p.17wykb8p3fifa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7c8d94052edc7e71-s.p.0-2-ft_iqd0.0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7cf39da9896e5c8d-s.p.0fsp~440s8ncr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7ed47ed649891e2e-s.p.0mvo83r2xralf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/805d6fde63be0378-s.p.0ghlq-xfo_zip.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/807f09ca03095886-s.p.0s9wbztz6le.n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/81a4da8324502a54-s.p.0ut9jyf52w02r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/82375b7342c373c4-s.p.0nc5x~sv0iiu1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/82b8313c478753e1-s.p.0~x7aduboe87z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/842d8ef63e76c168-s.p.0xyj--jksc19h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/857ba7bde8bb813f-s.p.0hyjfc2~j3b_i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8631d000b434d536-s.p.0g4x6naic.t3x.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/870c91f2f7376843-s.p.0zswqusyc6vmq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8732c4c7086bd053-s.p.0jui29e2uqukt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/874e051354b1278f-s.p.11b4qsta1mttj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/87587daa7ddd0937-s.p.0peymdldxj2w6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/89bcdbd88deb22d8-s.p.0g1s6hi2poy-g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8a93e5ea57c0b850-s.p.0gbtc2fzfbvh5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8add48c9e26b96e0-s.p.0aeb6fau06trx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8b896a3b1d451881-s.p.12bog3sx.r6gz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8d85211ead46f024-s.p.0q4u8osz3sx63.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e3ffa9f57182f51-s.p.0qdmne3sg1d0w.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/90d33ae700474423-s.p.13ya6goi-a2ah.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/92582803f0a88444-s.p.15-fchnicn4xz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/92b80bd9a9d53a69-s.p.16500~_rqnaut.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9356059034c240cf-s.p.0.-t~ko24zgh3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9426f7288a7de5a1-s.p.12v81o_1pqu-4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9476014bfb55e021-s.p.04bgm3p-ryneg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/94e088df2ff61238-s.p.0rdu4umunrsy_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/96034c0eaf2cddc2-s.p.0wm7u274t9u_p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/96ea6250e38975ad-s.p.14k_aipd85-ca.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/97d0d01438052dfd-s.p.0mh9c6~x-alo2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/980bafb7a1f18579-s.p.0fwfq.j12atfh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/99d29ce3d1628b3b-s.p.12pyb.cw.6gcl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9a3da6489e9fb4a5-s.p.0z4jb0ujxvgof.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9a8e98b8a06c04db-s.p.0xmatv2-8~-bm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9a9481c74b617d1a-s.p.0m.m~3_4.s.xx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9b61d96fc8cc3543-s.p.13nb3l48r0h~w.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9b677464a43784ab-s.p.09-f3m9t63i~0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9dc1a6fb114b646f-s.p.10m58vnrxp2-n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9e07fbd78ed3ac3e-s.p.04enyzxxxzpll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9e25fab3109d806c-s.p.0531.6iewscjm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9f6564d31fd899d6-s.p.0.hel~ziuzx12.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9f80653362e1954a-s.p.053hcdlv~kwvf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9f9a2a49e67cf601-s.p.0lj9zh2v3r_hw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9fd4fe7f39e5f82b-s.p.08ie~rse4mmu1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a0f3e42ac853898b-s.p.0tl7xknmpf9ry.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a268090be4c1804e-s.p.06syatoguk5z2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a4f2052e26435510-s.p.0pwkn2iszyoet.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a89a8a8acb5e6fba-s.p.0jqtds0oq_8zl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a92268b131973493-s.p.16ktv60edhl-g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a9e3a065b12e9a30-s.p.188_18mg.li0c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b0f04e3ed950ac75-s.p.0tjfraz1v20wv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b2441d1931349016-s.p.0fxwyk-yap9pe.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b25b69e3dc6245b5-s.p.0fkz2qlx2c83f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b50dab58f89f21aa-s.p.01fc5l.v0a82l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b7e8caa97b5856b9-s.p.0zsrpjl.g0n._.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b9adc121e4baf24e-s.p.0al5c_mc~j4ij.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b9bcbcd825e4cb19-s.p.14ikd-012a.x-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bafc09d09cfddb82-s.p.06qn47kda68do.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bcbc49057ef6d476-s.p.0m0..98sefbb~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bd277df6cb2c4dca-s.p.147s3xh4e017y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bdf423eef2385c65-s.p.0byd7qbtbrb-m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bf26bb7c57ffc77e-s.p.10jbyc-s~zui3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c03084cb544ba674-s.p.0q1ti2~gkvi6x.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c079a35c77cb53f3-s.p.0ule0mvdx0_0f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c1ec24fe94df81b3-s.p.0tfo00hejcqfw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c303aa715ec40fd9-s.p.04ohx5tlpid6b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c37cd8b6b6fbeadc-s.p.0w9_hq4wcx6v5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c5ff3f8ea5a1f0cb-s.p.03773gm8xymp_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c70801b8d8b95519-s.p.08mc~67zal_-7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c7a823edda640ea9-s.p.08ge.2gm_9.ai.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c7d48713e88c1ead-s.p.04yek7s_9e.73.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cb26989b5e17a4f3-s.p.0~8jb6w3~7om1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cd1a7c545d1cee62-s.p.151tjpr7m6b2m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ce4ab1dbf40a1cb7-s.p.154mdpoqs8c8l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ce9dd0cbe2c054fc-s.p.0pki6fq82sa57.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d0029609c371c61b-s.p.0zs02_brw1qt0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d054ca779017fe68-s.p.0h_nsvriro9re.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d075207d1583de4f-s.p.15pz_4uf5yyqe.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d07afc21ce36afe2-s.p.0qvvrw8qrem~e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d12a7f22dbffd084-s.p.0p58ebg_ic8c3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d2e1f04e17ad2e56-s.p.0y1r__enx86jz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d7d5a215473de3c0-s.p.0.9-t3nbz~spm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d7eac4366807be0e-s.p.094u66l5n0j3s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dac86c95ff4aead2-s.p.0465c7pyy7.vg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dc4bd4eacb24aa2d-s.p.0q4~wsryvh7a..woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dd21867e41ab4f1f-s.p.0t.c1-4-ttnog.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dda055bf91d2b565-s.p.0u0jyhajnjmva.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dde7fdb4226bd5dd-s.p.0us4467052uqb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ddf08f3eeca797cf-s.p.0kmk3i.h3goug.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dea0d7ae0ae1f578-s.p.0_ry4f75s6e.6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dfbc3a2b1516b7fd-s.p.0jj-w8_ara-_d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e06f53ba4281f774-s.p.0sgfnmz-9~~aw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e321acce0cab0cbc-s.p.0.ad-orbgn48f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e3aed36624c02265-s.p.09qj3fuplqi2x.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e5284a72a5981f09-s.p.0tp8jq14mvijy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e5de6cb0c65cc15d-s.p.073eb57uo_821.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e64b1d261998b4cc-s.p.0juctd38vyk69.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e685c32c8148a491-s.p.0__rtisxb59~~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e82ac1d5f09997f9-s.p.0pe2n-~7tp_dl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e86fe9b2637405b9-s.p.176e~holqi.94.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e8f95da2fa2d9dd1-s.p.0~v2cd4pznie4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ec58d653480dc208-s.p.0ytulpwtort5s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/eca16ad2fce9f93d-s.p.0mjoo56y-_3-h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/eee6eef1155e635b-s.p.0-pt3ybw9dh8o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ef40981ccf68eb44-s.p.0q5zpmovloh.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ef5f53497b689223-s.p.0rv7qmeoc~btu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ef68e223cd43c0f4-s.p.09w5dq8j0z-4t.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ef7a6029f9548b9c-s.p.0y6j9g-w9m0lb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f0a2b94c7d42818b-s.p.0__o2ee2.orqg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f30c9196712102cc-s.p.0j2ztzdl83ald.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f36a9c7f42fa9d0d-s.p.011~t8h6ilewy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f5fcd0b48edce128-s.p.106j00-foc-8u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f67e7276c713a8e0-s.p.0qxrv0cp7ril-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f6c0a9a9096c63e1-s.p.0q9q7j8r1ztm7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f7966e4287f8974e-s.p.0kdu7s6afhes1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f8f25daefdd6d19c-s.p.0gxkacjo.ve9n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f973c59a19b76618-s.p.0t33dk-yewpef.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fc3cd590f283e435-s.p.0-wuujs2sy5e0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ff242c040326fbc1-s.p.0vahgc_-2xsv7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ff2552049477c49c-s.p.09dtoo1awnf1_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ffb6d03f9c0a2d7d-s.p.0.52jibsvs0ta.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","canada-job-guide",""],"q":"","i":false,"f":[[["",{"children":["canada-job-guide",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ti-qap5jrw~~.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0w9ua.z15s_99.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"zen_kaku_gothic_new_2913a297-module__WDDfwq__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":["$","span",null,{"className":"logo-text","children":[["$","span",null,{"style":{"color":"#D4885A"},"children":"Trip"}],"Navi"]}]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":[["$","span",null,{"style":{"color":"#D4885A"},"children":"Trip"}],"Navi"]}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"yj8XuwwIE7A4aXWfhXMsr"}
+e:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T7c92,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダでの仕事・就職事情～日本人が就職するためのポイント</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/canada-hero.jpg" alt="カナダ" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダでの仕事・就職事情～日本人が就職するためのポイント</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">カナダでの仕事・就職事情～日本人が就職するためのポイント</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#employment1">カナダでの就職に求められる条件とは</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#employment1-1">即戦力となる経験やスキル</a></li>
+<li><a class="ez-toc-link" href="#employment1-2">最終学歴について</a></li>
+<li><a class="ez-toc-link" href="#employment1-3">ビザ取得や年齢に関する条件</a></li>
+<li><a class="ez-toc-link" href="#employment1-4">求められる語学レベル</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#employment2">日本とカナダにおける就職事情の違い</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#employment2-1">主な最終学歴の種類</a></li>
+<li><a class="ez-toc-link" href="#employment2-2">レジュメとカバーレターの違い</a></li>
+<li><a class="ez-toc-link" href="#employment2-3">平均賃金や給与について</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#employment3">カナダでの求人例や仕事内容</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#employment3-1">日本からの移住者が活躍する職種</a></li>
+<li><a class="ez-toc-link" href="#employment3-2">NOC(National Occupational Classfication)スキルレベルで適した職業を確認</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#employment4">カナダで働くメリットとデメリット</a></li>
+<li><a class="ez-toc-link" href="#employment5">カナダで仕事を探す方法</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#employment5-1">求人サイトに登録する</a></li>
+<li><a class="ez-toc-link" href="#employment5-2">クラシファイド(classified)を利用する</a></li>
+<li><a class="ez-toc-link" href="#employment5-3">知人の紹介やインターン制度を利用する</a></li>
+<li><a class="ez-toc-link" href="#employment5-4">ポスグラビザ(PGWPP)を利用しての就職</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#employment6">カナダでの仕事探しでよくある失敗とは</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#employment6-1">経験や語学力の不足</a></li>
+<li><a class="ez-toc-link" href="#employment6-2">自己アピールの不足</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#employment7">カナダでの就職にお勧めの地域と特長</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#employment7-1">トロント / Toronto (オンタリオ州) での就職</a></li>
+<li><a class="ez-toc-link" href="#employment7-2">バンクーバー / Vancouver (ブリティッシュコロンビア州) での就職</a></li>
+<li><a class="ez-toc-link" href="#employment7-3">ビクトリア / Victoria (ブリティッシュコロンビア州) での就職</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#employment8">短期滞在でカナダの就職事情を知る</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="カナダの国旗とビジネスマン" class="img_big m20-t m20-b lazyloaded" height="335" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/08/7953b088b0aaaf0a9f45e3bf33750604.webp" type="image/webp" width="640"/><img alt="カナダの国旗とビジネスマン" class="img_big m20-t m20-b" decoding="async" height="335" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/08/7953b088b0aaaf0a9f45e3bf33750604.jpg" width="640"/>
+</picture>
+<p>毎年20万人以上の移民を受け入れているカナダは世界有数の多民族国家として知られています。英語とフランス語が公用語となり、国内のビジネスシーンにおいても両国の言語が主流となります。カナダには語学を活かした仕事への就職やスキルアップを目指して移住する方も多く、特に優れた技術と語学力を持つ外国籍の方が様々な職種で活躍しています。<br />このページでは日本国籍の方がカナダで仕事をする際に求められるスキルや条件、就職するためのポイントについて詳しく解説します。</p>
+<h2 class="wp-block-heading" id="employment1">カナダでの就職に求められる条件とは</h2>
+<h3 class="wp-block-heading" id="employment1-1">即戦力となる経験やスキル</h3>
+<p>カナダを含む欧米の企業は、全般的に経験値を重視する傾向があります。学生は在学中にインターンとして企業に勤務し、能力や適性を判断され採用となるケースが通例です。そのため、日本企業で多くみられるポテンシャルを重視した新卒採用は少なく、アルバイトの就労に関しても経験が主な査定基準となります。<br />カナダで募集の多いIT業界では様々な国籍の方が働いていますが、プログラミングやデザイン関連の経験者が大半を占めます。プログラミングの場合はHTMLやCSSに精通し、デザイン関係の場合はPhotoshopやillustrator等の熟練者が優遇される傾向にあります。国際基準ソフトの操作に長けている方や資格を持つ方は、面接の際にアピールすることが重要なポイントです。また、カナダの企業はリーダーシップも重視します。マネージャーや責任者の経験がある方は、経験値の判断材料として具体的な事例が求められます。</p>
+<h3 class="wp-block-heading" id="employment1-2">最終学歴について</h3>
+<p>カナダにおける多くの企業は採用の際に経験値を最も重視しますが、学歴も重要な査定基準となります。各企業は求人募集の応募要件に従業員に求める最終学歴を記載しています。応募要件の学歴を満たしていない方は書類審査の段階で不採用となるケースが多いため、企業が求める最終学歴を必ず確認しましょう。応募要件の最終学歴は、高校卒・2年制大学卒・学士号取得(4年制大学卒業相当)などが一般的です。役職により修士号や博士号を応募要件として定める企業もあり、専門的な資格を持つ方が優遇される傾向にあります。</p>
+<h3 class="wp-block-heading" id="employment1-3">ビザ取得や年齢に関する条件</h3>
+<p>若い世代の方がカナダで短期間の就労を希望する場合は、ワーキングホリデービザの取得を推奨します。申請時の年齢が18～30歳未満であることや、最低2,500カナダドル(約22万円)の生活資金を所持していること等が条件となります。ワーキングホリデービザを取得した方は1年間のカナダ滞在が認められ、国内で6か月以内の就労と就学が許可されます。カナダのワーキングホリデーに関する詳細や申請方法は「<a href="http://xs640823.xsrv.jp/eta/working-holiday/index.html">カナダのワーキングホリデー</a>」をご確認ください。<br />また、カナダ国内で長期的な就職を希望する方は、就労ビザの取得が必要となります。カナダの就労ビザは就労許可証(Work Permit)と呼ばれ、目的や条件に応じて様々な種類があります。カナダの大学に8か月以上通学し卒業した方が申請できる「ポスグラビザ」や実習生用の「就労ビザ」のほか、帯同する家族向けのビザ制度も充実しています。<br />日本国内でカナダビザを申請する方は「<a href="http://xs640823.xsrv.jp/eta/embassy/index.html">カナダビザ申請センター・カナダ大使館について</a>」をご確認ください。</p>
+<h3 class="wp-block-heading" id="employment1-4">求められる語学レベル</h3>
+<p>カナダで就職する際は英語またはフランス語でのコミュニケーションが必須となります。求める語学レベルを具体的に明示している企業は多くありませんが、英語力が初級の方はカナダでの就職が困難です。企業や職種により異なりますが、最低でもIELTS(英語熟練度を測る英語検定)で6点以上、TOEFL(非英語圏の市民のみを対象とした英語能力測定試験)で60～70点程度の英語力が求められます。語学レベルが初級の方も経験値や技術面のスキルが評価され採用となるケースもありますが、職場での意思疎通を図るうえで一定の英語力を身に付けることをお勧めします。</p>
+<h2 class="wp-block-heading" id="employment2">日本とカナダにおける就職事情の違い</h2>
+<h3 class="wp-block-heading" id="employment2-1">主な最終学歴の種類</h3>
+<p>カナダでは同じ企業でも役職ごとに求められる最終学歴が異なります。主な最終学歴および修了証は以下の通りです。</p>
+<div class="Class_J"><ul><li>Certificate (サーティフィケート) : 特定学科の修了証を指します。Certificateは一般的に過程が短く、入学から1年での卒業が可能です。</li><li>Diploma (ディプロマ) : 複数学科の修了証を指します。Diplomaは最短1年で卒業が可能ですが、一般的にCertificateよりも履修過程は長期となります。</li><li>Bachelor’s Degree (学士号) : 4年制大学を卒業した際に与えられる学位を指します。</li><li>Master’s Degree (修士号) : 主に大学院の前期課程を修了した際に得られる学位を指します。修了までの過程は約2年となります。</li><li>Doctor of Philosophy (博士号) : 主に大学院の後期課程を修了した際に得られる学位を指します。修了までの過程は3～5年となります。</li></ul></div>
+<p>多くのカナダ企業は最終学歴により就職の応募要件を明確に定めています。応募資格欄に「Diploma以上」と記載してある場合、Certificateの方は対象外となるため書類選考の段階で不採用となります。また、応募資格が「Diplomaのみ」と記載されている場合は、最終学歴の限定を意味します。最終学歴がBachelor’s Degree(学士号)、Master’s Degree(修士号)、Doctor of Philosophy(博士号)の方も対象外となるため不採用となるケースが多いようです。応募資格欄を必ず確認し、面接の際は最終学歴を証明する書類を用意することをお勧めします。</p>
+<h3 class="wp-block-heading" id="employment2-2">レジュメとカバーレターの違い</h3>
+<p>日本では面接の際に履歴書の提出が一般的ですが、カナダでは「レジュメ」と「カバーレター」と呼ばれる2種類の書類提出が求められます。レジュメとは「要約・概要」を意味し、主に学歴や職歴、保有している資格などを記載します。一方のカバーレターは「送付状・添え状」を指します。志望動機を記載し、自身の学歴や職歴が企業にとって有益であることをアピールしましょう。なお、カバーレターには面接の依頼に加え、人事担当者へのお礼を一言添えることが通例となっています。</p>
+<h3 class="wp-block-heading" id="employment2-3">平均賃金や給与について</h3>
+<p>仕事と生活の調和を基本理念に掲げるカナダは、残業が少なく国民の平均年収が高い国です。カナダの平均世帯年収はおよそ78,000ドル(約690万円)で、日本の560万円と比べ約20%高い傾向にあります。カナダでは州により最低賃金が異なりますが、1時間あたり約12ドル(約960円)が平均的な相場です。大半の仕事は最低賃金を上回り、チップの報酬も含めた時給は日本よりも高額となります。カナダ政府の調査によると、国内の平均的な時給は約20ドル(約1,750円)、企業で働く社員の平均時給は約28ドル(約2,450円)となっています。<br />カナダでは定時に仕事を終えた後はすぐに帰宅し、自宅で家族と夕食をとることが一般的なライフスタイルです。仕事とプライベートを明確に区別するため、残業や休日出勤はほとんどありません。残業を行う場合は必ず相当の賃金が支払われ、代休や有給休暇が認められるなど諸外国と比べて仕事に関する条件が整備されています。</p>
+<h2 class="wp-block-heading" id="employment3">カナダでの求人例や仕事内容</h2>
+<h3 class="wp-block-heading" id="employment3-1">日本からの移住者が活躍する職種</h3>
+<p>カナダ政府は2021年から3年間にわたり、およそ120万人の移民を受け入れる方針を打ち出しました。<br />大規模な移民受け入れ政策は1913年以来となり、カナダへの移住と就職を希望する方が増加しています。カナダでの就職を希望する外国籍の方は英語力だけでなく、特定分野における経験値やスキルが求められます。また、移住を希望して就職する際はカナダ企業が発行した「就労許可証」が必須となり、事前に雇用主を探し契約を結ぶことが重要なポイントです。カナダでは主に以下の職種における経験者を積極的に採用し、日本で技術を培った多くの方が活躍しています。</p>
+<div class="Class_J"><ul><li>システムエンジニア、ソフトウェアエンジニア</li><li>情報システムアナリストおよびコンサルタント</li><li>コンピュータープログラマー、インタラクティブメディア開発者</li><li>データベースアナリスト、データ管理者</li><li>広告マーケティングおよび広報マネージャー</li><li>国際的企業の営業マネージャー</li><li>金融および投資アナリスト</li><li>会計監査人および会計士</li><li>経営コンサルティング</li><li>飲食店マネージャーおよびスーパーバイザー</li><li>調理師</li><li>翻訳および通訳</li><li>大学教授および講師</li><li>専門的分野の技術者</li></ul></div>
+<p>近年では多くの企業がIT分野における技術開発に力を注ぎ、カナダでも当該の職種や情報テクノロジーに関する人材募集が増えています。IT分野は募集件数が多い一方、就職の競争率が高い傾向にあります。技術面のほか中級以上の英語力も求められるため、将来的にカナダでの就職を希望する方はIELTSやTOEFLのレベルアップをお勧めします。<br />また、カナダには日本食を提供するレストランが豊富にあり、日本から移住した調理師や飲食関係者も多く活躍しています。繊細な感性を持つ日本人が創作する料理は高く評価され、カナダ都市部を中心に日本食などの飲食業に関する求人が多い傾向にあります。</p>
+<h3 class="wp-block-heading" id="employment3-2">NOC(National Occupational Classfication)スキルレベルで適した職業を確認</h3>
+<p>カナダでは国内で就労する移民を対象に、<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html" rel="noreferrer noopener" target="_blank">NOC(National Occupational Classfication)</a>と呼ばれるスキルレベルを策定しています。NOCは移民がカナダで働く際に相応しい職業を選択する指針となります。就職を希望する方は面接を申し込む前に自身のスキルレベルを把握し、応募要件を確認したうえでレジュメとカバーレターを用意しましょう。</p>
+<p>NOCによるスキルレベルの定義と該当する役職、相応しい職業の一例は以下の通りです。</p>
+<div class="scroll-table"><table><tbody><tr><td style="background:#f7f7f7;">レベルの定義</td><td style="background:#f7f7f7;">該当する役職</td><td style="background:#f7f7f7;">相応しい職業の一例</td></tr><tr><td style="background:#fff;">スキルレベル0 (ゼロ)</td><td>管理職、運営責任者</td><td>飲食店主任、現場監督、漁船船長</td></tr><tr><td style="background:#fff;">スキルレベルA</td><td>大学の学位を要する専門職</td><td>医師、歯科医、建築家</td></tr><tr><td style="background:#fff;">スキルレベルB</td><td>実務経験および実習を要する技術職(短大卒以上)</td><td>調理師、電気技師、配管工</td></tr><tr><td style="background:#fff;">スキルレベルC</td><td>中級程度の実習と経験を要する一般職(高校卒以上)</td><td>トラック運転手、精肉工場、飲食店</td></tr><tr><td style="background:#fff;">スキルレベルD</td><td>研修を要する労働職</td><td>清掃スタッフ、農業、油田での作業</td></tr></tbody></table></div>
+<p>職業経験や英語力など一定の条件を必要とする「技能職移民」は、スキルタイプ0(ゼロ)、A、Bに該当する方が対象となります。</p>
+<h2 class="wp-block-heading" id="employment4">カナダで働くメリットとデメリット</h2>
+<p>カナダでは仕事とプライベートを明確に区別するため、繁忙期を除き残業はほとんどありません。休日出勤も少なく、休暇や賃金に関する条件が他国と比べて充実している点がメリットとして挙げられます。残業や休日出勤をした場合は相当の賃金が保証され、家族のために有給休暇を奨励する企業も多いことが特長です。<br />一方、仕事上では結果やリーダーシップが重視されるため、厳しいノルマが課される職種もあります。実力主義の傾向が強く、過程や協調性も考慮する日本企業とは異なる価値観をデメリットとして挙げる方もいます。さらにコミュニケーション能力も重要な査定基準となり、就職後も自己アピールが必要となります。淡々と仕事をこなす特性の方は、欧米企業の風潮に馴染むまで時間がかかる場合もあるようです。<br />なお、カナダは英語のほかフランス語が公用語となります。移民国家のカナダでは多くの言語に精通している方が就職に有利となるため、語学力が大きな査定ポイントとなります。</p>
+<picture>
+<source alt="カナダの国旗とPC" class="img_big m20-t m20-b lazyloaded" height="420" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/08/a78de465e1e2de4a03216e80e349e15d.webp" type="image/webp" width="640"/><img alt="カナダの国旗とPC" class="img_big m20-t m20-b" decoding="async" height="420" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/08/a78de465e1e2de4a03216e80e349e15d.jpg" width="640"/>
+</picture>
+<h2 class="wp-block-heading" id="employment5">カナダで仕事を探す方法</h2>
+<h3 class="wp-block-heading" id="employment5-1">求人サイトに登録する</h3>
+<p>カナダ国内で仕事を探す際に最も一般的な手段は求人サイトへの登録です。日本に居住しながら求人情報が閲覧でき、リアルタイムで情報を収集することが可能です。カナダの求人は正社員・アルバイト・ワーキングホリデー向けなどに区分され、求めるスキルや英語力などが明確に提示されています。正社員の場合は世界的に利用されている<a href="https://www.linkedin.com/" rel="noreferrer noopener" target="_blank">LinkedIn</a>に多くの人材募集があり、無料で求人情報を閲覧できるほか自身のプロフィール作成を行うことが可能です。<br />そのほか、カナダ政府が運営する<a href="https://www.jobbank.gc.ca/findajob" rel="noreferrer noopener" target="_blank">Job Bank</a>では職種や地域などの条件を指定することで最新の求人情報を確認することができます。</p>
+<h3 class="wp-block-heading" id="employment5-2">クラシファイド(classified)を利用する</h3>
+<p>クラシファイド(classified)とは求人情報のほか、住宅情報や個人間での売買など様々なサービスが利用できる情報掲示板サイトを指します。求人情報は各サイトページのCareerやJob等のカテゴリーで検索でき、仕事の概要や問い合わせ先の電話番号などが記載されています。多くの方が閲覧するため、都市圏で人気の高い飲食業やIT分野の求人はすぐに終了となる場合もあります。自身のスキルや英語力が応募要件に相応しいことを確認し、早めの面接予約をお勧めします。<br />カナダで最も多くの方が利用する<a href="https://geo.craigslist.org/iso/ca" rel="noreferrer noopener" target="_blank">Craigslist</a>のほか、<a href="https://nowtoronto.com/" rel="noreferrer noopener" target="_blank">NOW magazine</a>や<a href="https://www.straight.com/" rel="noreferrer noopener" target="_blank">Georgia Straight</a>など地域別のサイトもあります。</p>
+<h3 class="wp-block-heading" id="employment5-3">知人の紹介やインターン制度を利用する</h3>
+<p>カナダで就職する際は、国内に居住する知人や関係者からの紹介があることで採用に至る確率が格段に上がります。紹介や推薦があることで信用を補填できるだけでなく、自身のスキルに相応しい仕事に出会う確率も高くなります。また、カナダにはインターン制度があり、同制度を利用して国内の企業に就職することも可能です。利用する際は就業先が発行した労働許可証が必須となり、3か月～1年程度の勤務が一般的となります。同制度は大手企業などで導入されていますが、調理師や美容師など国家試験を要する技術職の分野でも若い世代を中心に利用者が増えています。</p>
+<h3 class="wp-block-heading" id="employment5-4">ポスグラビザ(PGWPP)を利用しての就職</h3>
+<p>ポスグラビザとは、カナダの教育機関を卒業した後に国内での就労が認められるビザ制度です。取得した方はカナダ国内の教育機関に通学した年数と同じ期間有効となる就労ビザが発行されます。対象となる教育機関はカナダ国内の公立大学または公立大学院で、指定のプログラムを8～24か月にわたり修了した方に限られます。24か月以上にわたるプログラムを修了した方は最長3年間の就労ビザが与えられ、カナダで正社員としての就職が可能となります。また、同ビザは雇用主や雇用形態が限定されないため、自由に勤務先を選択することもできます。ポスグラビザに年齢制限はありませんが、申請は生涯で1度のみと定められています。</p>
+<h2 class="wp-block-heading" id="employment6">カナダでの仕事探しでよくある失敗とは</h2>
+<h3 class="wp-block-heading" id="employment6-1">経験や語学力の不足</h3>
+<p>多くのカナダ企業は最も重要な採用条件として、即戦力となるスキルの保有を挙げています。求められるスキルには特定分野における経験値のほか、中級以上の英語力が含まれています。職種により査定基準は異なりますが、コミュニケーションが必須となる接客業や営業職では高い英語力が必要です。そのため、応募要件の最終学歴を満たしていても英語力の不足により不採用となるケースも少なくありません。<br />また、ネイティブによる会話の内容を素早く正確に理解することも重要な査定基準となります。英文の読解力だけでなく、日常的にリスニングのスキルを高める学習を意識しましょう。</p>
+<h3 class="wp-block-heading" id="employment6-2">自己アピールの不足</h3>
+<p>カナダの企業は人材採用の際に個人のリーダーシップを重視します。多くのビジネスがチームとして働くため、プロジェクトを遂行し成功に導く力を持った人材を求めています。技術面において専門的な知識や経験値を持つ方も、リーダーシップ不足と見なされた場合は不採用となることもあります。<br />欧米企業の面接では、これまで培ってきた経験値や成功事例のアピールが重要です。しかし、個人による成果のみを強調することなく、社内における貢献度や今後の具体的なプランを提案することで有意義な面接となるでしょう。<br />また、専門的な資格や経験値が少ない方は、顧客視点での提案や他分野での優位性をアピールすることも重要です。正社員として働く前にインターンとして経験を積むなど、スキル不足を補う計画的な就職活動をお勧めします。</p>
+<h2 class="wp-block-heading" id="employment7">カナダでの就職にお勧めの地域と特長</h2>
+<h3 class="wp-block-heading" id="employment7-1">トロント / Toronto (オンタリオ州) での就職</h3>
+<p>カナダ国内で最大の都市であるトロントは、アメリカとの国境近くに位置するオンタリオ州の州都です。人口・経済ともに北米を代表する都市であり、カナダ企業の本社や欧米企業の支社など多くのオフィスが集中しています。多数の移民が居住することから“モザイクシティ”と呼ばれ、市内には各国のコミュニティが存在します。チャイナタウンやリトルイタリーと呼ばれる地域では飲食関係の求人が多く、近年ではIT関連の人材募集も目立つようになりました。また、季節ごとに多種多様なイベントが開催されるため、会場設営などのアルバイト募集も多い特長があります。</p>
+<h3 class="wp-block-heading" id="employment7-2">バンクーバー / Vancouver (ブリティッシュコロンビア州) での就職</h3>
+<p>自然と都会が融合するバンクーバーはカナダの西海岸に位置し、約63万人の市民が居住しています。ヨーロッパからの移民によって築かれた美しい街並みが特長で、「世界の住みたい都市ランキング」で毎年上位に選ばれる人気の都市です。多くの観光客が訪れることから宿泊施設や飲食関係の求人が多く、接客業を中心とした業種への就職率が高い傾向にあります。映画の撮影地としても知られるバンクーバーは観光ガイド等の求人もあり、職種が充実していることが特長です。また、カナダ国内で最もアジア系の移民が多い都市で、日本企業による現地採用も行っています。</p>
+<h3 class="wp-block-heading" id="employment7-3">ビクトリア / Victoria (ブリティッシュコロンビア州) での就職</h3>
+<p>バンクーバー島の南端部にあるビクトリアは、ブリティッシュコロンビア州の州都です。緑豊かな公園が多いビクトリアは“花の都”と呼ばれ、約9万人の市民が居住しています。トロントやバンクーバーと比べると人口が少ないため求人数は多くありませんが、観光に関連した職種が充実しています。日本から移住した方も多く、和食を提供するレストランでは積極的に日本人を採用しています。そのため、英語力が初級レベルの方も働きやすい環境であると言えるでしょう。夏の観光シーズンはホテルや観光施設の求人が増え、ワーキングホリデーを利用して訪れる方を対象とした清掃スタッフやベッドメーキングの募集も豊富にあります。</p>
+<h2 class="wp-block-heading" id="employment8">短期滞在でカナダの就職事情を知る</h2>
+<p>将来的にカナダでの就職を希望する方は現地の特長や事情を詳しく知るため、候補地にて短期間の滞在をお勧めします。長期間のカナダ滞在はビザの取得が必要となりますが、ビジネス・観光・現地調査などを目的とする短期滞在はeTA(イータ)を申請することで渡航が可能です。eTA(イータ)はカナダ政府およびIRCC(カナダ移民・難民・市民権省)が定める入国制度で、事前にオンラインでの申請が必須となります。eTA(イータ)に関する詳細と申請方法は「<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/canada-mid.jpg" alt="カナダの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="canada-eta.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ti-qap5jrw~~.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"カナダでの仕事・就職事情～日本人が就職するためのポイント | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

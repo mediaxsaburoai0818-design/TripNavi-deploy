@@ -1,0 +1,279 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T34e6,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞ 
+        <a href="#usa">アメリカ</a> ＞ 
+        <a href="#visa-info">渡航ノウハウ</a> ＞ 
+        ESTA（エスタ）の更新
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/usa-hero.jpg" alt="アメリカ" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>ESTA（エスタ）に更新は必要？入力ミスをした際の対応についても解説</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年03月31日</span>
+        </div>
+
+        <div class="content">
+          
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">ESTAは更新が必要？</a>
+                  <ul>
+                    <li><a href="#section1-1">再申請が必要な場合</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section2">ESTA申請でミスをした場合、修正はできる？</a>
+                  <ul>
+                    <li><a href="#section2-1">修正可能な項目</a></li>
+                    <li><a href="#section2-2">修正できない項目</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section3">よくある質問</a></li>
+                <li><a href="#section4">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          
+          <p>ESTA（エスタ）を取得済みの方の中には、「更新が必要なのか」「入力ミスを修正できるのか」と疑問に思う方も多いでしょう。この記事では、ESTAの更新（再申請）が必要なケースと、入力ミスをした際の対応方法を詳しく解説します。</p>
+
+          
+          <h2 id="section1">ESTAは更新が必要？</h2>
+          <p>結論から言うと、<strong>ESTAには有効期限の延長や更新機能はありません</strong>。ESTAは取得日から原則<strong>2年間有効</strong>ですが、パスポートの有効期限が2年未満の場合は、パスポート失効日と同日にESTA失効します。</p>
+
+          <div class="info-box">
+            <h4>📌 ESTAの有効期限</h4>
+            <ul>
+              <li><strong>原則:</strong> 取得日から2年間有効</li>
+              <li><strong>例外:</strong> パスポート有効期限が2年未満の場合、パスポート失効日までが有効期限</li>
+              <li><strong>再取得:</strong> 有効期限が切れた場合は再申請が必要</li>
+            </ul>
+          </div>
+
+          <p>新しいパスポートを取得した場合、<strong>ESTAは自動的に無効</strong>となるため、再申請が必要です。</p>
+
+          <h3 id="section1-1">再申請が必要な場合</h3>
+          <p>以下の3つのケースでは、ESTAの再申請が必要になります：</p>
+
+          <div class="info-box">
+            <h4>🔄 再申請が必要な3つのケース</h4>
+            <ol>
+              <li><strong>有効期限が切れた場合</strong>
+                <p>取得日から2年経過（またはパスポート失効日に達した）場合は、新たに申請が必要です。</p>
+              </li>
+              <li><strong>パスポートの記載情報を変更した場合</strong>
+                <ul>
+                  <li>氏名変更（結婚や改名など）</li>
+                  <li>性別変更</li>
+                  <li>国籍変更</li>
+                  <li>パスポートの再発行</li>
+                </ul>
+                <p>上記のいずれかに該当する場合、ESTAは自動的に無効となります。</p>
+              </li>
+              <li><strong>「適格性の質問」を誤って回答した場合</strong>
+                <p>健康状態や犯罪歴に関する9つの質問に誤った回答をした場合、回答変更は不可能なため、再申請が必要です。</p>
+              </li>
+            </ol>
+          </div>
+
+          <div class="warn-box">
+            <h4>⚠️ 注意</h4>
+            <p>再申請には別途<strong>40.27米ドル</strong>の手数料がかかります。出発日の<strong>3日前まで</strong>に再申請を完了することを推奨します。</p>
+          </div>
+
+          
+          <h2 id="section2">ESTA申請でミスをした場合、修正はできる？</h2>
+          <p>ESTA申請中に入力ミスに気づいた場合、<strong>決済前であれば訂正可能</strong>です。決済後は一部の項目のみ修正できます。</p>
+
+          <h3 id="section2-1">修正可能な項目</h3>
+          <p>決済後でも、以下の項目は修正可能です：</p>
+
+          <div class="info-box">
+            <h4>✅ 修正可能な項目</h4>
+            <ul>
+              <li>居住地（住所）</li>
+              <li>勤務先の名称、住所</li>
+              <li>電話番号</li>
+              <li>メールアドレス</li>
+              <li>渡航日</li>
+              <li>アメリカでの滞在先の住所</li>
+            </ul>
+          </div>
+
+          <p><strong>修正方法:</strong></p>
+          <ol>
+            <li>DHS公式サイトにアクセス</li>
+            <li>「ESTAのステータス確認」を選択</li>
+            <li>「個人による申請のステータス確認」をクリック</li>
+            <li>パスポート番号、申請番号、生年月日を入力</li>
+            <li>該当箇所を訂正</li>
+          </ol>
+
+          <h3 id="section2-2">修正できない項目</h3>
+          <p>以下の項目は決済後の修正ができません。誤入力に気づいた場合は、<strong>再申請が必要</strong>です：</p>
+
+          <div class="warn-box">
+            <h4>❌ 修正できない項目（再申請必要）</h4>
+            <ul>
+              <li>氏名（名前、苗字）</li>
+              <li>性別</li>
+              <li>生年月日</li>
+              <li>国籍</li>
+              <li>出生地</li>
+              <li>パスポート情報（パスポート番号、発行日、有効期限）</li>
+              <li>適格性の質問（健康状態、犯罪歴など9つの質問）</li>
+            </ul>
+          </div>
+
+          <p><strong>再申請手順:</strong></p>
+          <ol>
+            <li>米国CBP公式サイトへアクセス</li>
+            <li>「質問する」をクリック</li>
+            <li>トピック: <strong>"ESTA"</strong>、該当する問題: <strong>"訂正が必要な場合"</strong> を選択</li>
+            <li>メールアドレスを入力</li>
+            <li>説明欄に以下を記載：
+              <ul>
+                <li>氏名</li>
+                <li>生年月日</li>
+                <li>パスポート番号</li>
+                <li>キャンセル希望の旨</li>
+              </ul>
+            </li>
+            <li>「次へ」をクリックして問い合わせ</li>
+            <li><strong>3-5営業日以内</strong>にCBPから返信が届く</li>
+          </ol>
+
+          <div class="info-box">
+            <h4>💡 ヒント</h4>
+            <p>再申請の際は、以前の申請をキャンセルしてから新規申請を行うとスムーズです。ただし、キャンセルしても手数料の返金はありません。</p>
+          </div>
+
+          
+          <h2 id="section3">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: ESTAの有効期限が切れる前に更新することはできますか？</h3>
+            <p><strong>A:</strong> はい、有効期限内でも再申請は可能です。ただし、別途手数料40.27米ドルが必要です。新たにESTAを取得すると、以前の認証は自動的に無効となります。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: ESTAの更新時期はいつですか？</h3>
+            <p><strong>A:</strong> 以下のタイミングでESTAの再申請（更新）が必要です：</p>
+            <ul>
+              <li>有効期限が切れた時</li>
+              <li>パスポートを再取得した時</li>
+              <li>氏名や性別が変更になった時</li>
+            </ul>
+            <p>遅くとも<strong>出発日の3日前まで</strong>に再申請を完了することを推奨します。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: ESTAは何年更新ですか？</h3>
+            <p><strong>A:</strong> ESTAは取得日から原則<strong>2年間有効</strong>です。ただし、パスポートの有効期限が2年未満の場合は、パスポート失効日までが有効期限となります。パスポートの有効期限を事前に確認し、2年未満であれば、パスポート更新後にESTA申請を行うことを推奨します。</p>
+          </div>
+
+          
+          <h2 id="section4">まとめ</h2>
+          <p>ESTAには更新制度がなく、有効期限が切れた場合やパスポートを再取得した場合、記載情報を変更した場合には再申請が必要です（別途手数料がかかります）。有効期限内でも再申請は可能ですが、出発日の3日前までに完了することを推奨します。</p>
+
+          <p>また、決済後は氏名・生年月日・性別・パスポート情報などの修正ができません。申請内容を十分に確認してから決済を行いましょう。</p>
+
+          <div class="info-box">
+            <h4>✅ ESTA更新のポイント</h4>
+            <ul>
+              <li>ESTAに更新機能はなし（再申請が必要）</li>
+              <li>有効期限: 原則2年間（パスポート有効期限に依存）</li>
+              <li>再申請料金: 40.27米ドル</li>
+              <li>再申請時期: 出発3日前まで推奨</li>
+              <li>修正不可の項目: 氏名、性別、生年月日、パスポート情報、適格性の質問</li>
+              <li>修正可能な項目: 住所、電話番号、メールアドレス、滞在先</li>
+            </ul>
+          </div>
+        </div>
+
+        
+        <div <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+      <section class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="usa-esta-application.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
+              </div>
+            </a>
+            
+            <a href="usa-esta-group.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAのグループ申請方法を解説！</h3>
+              </div>
+            </a>
+            
+            <a href="usa-esta-smartphone.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAアプリでの申請方法を解説！</h3>
+              </div>
+            </a>
+            
+            <a href="usa-hawaii-esta.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ハワイ渡航時にESTAは必要？</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="canada-eta-about.html">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">カナダeTA</span>
+                <div class="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="australia-etas-about.html">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">オーストラリア</span>
+                <div class="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="usa-esta-application.html">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yj8XuwwIE7A4aXWfhXMsr"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

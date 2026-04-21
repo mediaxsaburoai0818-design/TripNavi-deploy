@@ -1,0 +1,270 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3110,<div class="hero">
+  <img src="/tripnavi-hero-a.jpg" alt="美しいビーチとサンセット">
+  <div class="overlay"><div class="content">
+    <div class="tag">TRAVEL GUIDE 2026</div>
+    <h1>世界への扉を、もっとスムーズに。</h1>
+    <p>ESTA・eTA・ETA…各国の渡航認証を分かりやすく解説。安心の旅をサポートします。</p>
+    <a href="/usa-esta-application/" class="cta">渡航認証ガイドを見る</a>
+  </div></div>
+</div>
+
+<div class="stats">
+  <div class="stat"><div class="num">98</div><div class="label">記事数</div></div>
+  <div class="stat"><div class="num">5カ国</div><div class="label">対応国</div></div>
+  <div class="stat"><div class="num">24時間</div><div class="label">最新情報更新</div></div>
+  <div class="stat"><div class="num">無料</div><div class="label">すべての情報</div></div>
+</div>
+
+<section class="content">
+  <div class="sec-header"><h2>国別渡航ガイド</h2><span class="en">Country Guides</span></div>
+  <div class="country-grid">
+    <div class="country-card">
+      <div class="img-placeholder"><img src="/country-usa.jpg" alt="アメリカ - 自由の女神"></div>
+      <div class="body"><h3>アメリカ（ESTA）</h3><p>電子渡航認証システムESTAの申請方法、料金、有効期限など完全ガイド。ハワイ・グアム渡航にも必要です。</p><a href="/usa-esta-application/">ガイドを見る →</a></div>
+    </div>
+    <div class="country-card">
+      <div class="img-placeholder"><img src="/country-canada.jpg" alt="カナダ - ナイアガラの滝"></div>
+      <div class="body"><h3>カナダ（eTA）</h3><p>カナダ電子渡航認証eTAの申請手順、必要書類、トランジット時の対応まで詳しく解説。</p><a href="/canada-eta-application/">ガイドを見る →</a></div>
+    </div>
+    <div class="country-card">
+      <div class="img-placeholder"><img src="/country-uk.jpg" alt="イギリス - ビッグベン"></div>
+      <div class="body"><h3>イギリス（UK-ETA）</h3><p>2025年から導入されたUK-ETAの最新情報。申請方法や料金をわかりやすく解説。</p><a href="/uk-eta-application/">ガイドを見る →</a></div>
+    </div>
+    <div class="country-card">
+      <div class="img-placeholder"><img src="/country-australia.jpg" alt="オーストラリア - シドニーオペラハウス"></div>
+      <div class="body"><h3>オーストラリア（ETAS）</h3><p>オーストラリア渡航に必要なETASの申請ガイド。観光ビザとの違いも解説。</p><a href="/australia-etas-about/">ガイドを見る →</a></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-subtitle">POPULAR ARTICLES</p>
+      <h2 class="section-title">人気記事</h2>
+    </div>
+
+    <div class="card-grid">
+      <a href="/canada-eta-about/" class="card">
+        <div class="card-image" style="background-image: url('/usa-hero.jpg');"></div>
+        <div class="card-body">
+          <span class="card-tag">カナダeTA</span>
+          <h3>カナダの電子渡航認証eTA（イータ）とは</h3>
+          <p class="card-desc">カナダ入国に必須の電子渡航認証システムの概要と申請方法を解説します。</p>
+        </div>
+      </a>
+
+      <a href="/australia-etas-about/" class="card">
+        <div class="card-image" style="background-image: url('/australia-hero.jpg');"></div>
+        <div class="card-body">
+          <span class="card-tag orange">オーストラリア</span>
+          <h3>ETAS（イータス）とは - オーストラリア観光ビザ</h3>
+          <p class="card-desc">オーストラリア渡航に必要な電子渡航認証システムを詳しく解説。</p>
+        </div>
+      </a>
+
+      <a href="/canada-vancouver-spots/" class="card">
+        <div class="card-image" style="background-image: url('/canada-hero.jpg');"></div>
+        <div class="card-body">
+          <span class="card-tag pink">カナダ観光</span>
+          <h3>バンクーバーの観光スポット13選</h3>
+          <p class="card-desc">自然と都市が調和するバンクーバーの必見スポットをご紹介します。</p>
+        </div>
+      </a>
+
+      <a href="/australia-sydney-spots/" class="card">
+        <div class="card-image" style="background-image: url('/uk-hero.jpg');"></div>
+        <div class="card-body">
+          <span class="card-tag green">オーストラリア観光</span>
+          <h3>シドニーの観光スポット10選</h3>
+          <p class="card-desc">オペラハウス、ハーバーブリッジなど、シドニーの定番スポット。</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-subtitle">DESTINATIONS</p>
+      <h2 class="section-title">人気の渡航先</h2>
+    </div>
+
+    <div class="feature-grid">
+      <a href="/country-canada/" class="feature-card">
+        <div class="feature-image" style="background-image: url('/canada-hero.jpg');"></div>
+        <div class="feature-body">
+          <span class="feature-tag">カナダ</span>
+          <h3>カナダ渡航ガイド - eTA申請と観光情報</h3>
+          <p>壮大な自然、洗練された都市、フレンドリーな人々。カナダ旅行に必要な情報をすべて網羅しています。</p>
+        </div>
+      </a>
+
+      <a href="/country-australia/" class="feature-card">
+        <div class="feature-image" style="background-image: url('/australia-hero.jpg');"></div>
+        <div class="feature-body">
+          <span class="feature-tag">オーストラリア</span>
+          <h3>オーストラリア渡航ガイド - ETAS申請と観光</h3>
+          <p>世界最大のサンゴ礁、ユニークな野生動物、美しいビーチ...オーストラリアの魅力を完全ガイド。</p>
+        </div>
+      </a>
+
+      <a href="/usa-esta-application/" class="feature-card">
+        <div class="feature-image" style="background-image: url('/tripnavi-hero-b.jpg');"></div>
+        <div class="feature-body">
+          <span class="feature-tag">アメリカ</span>
+          <h3>アメリカ渡航ガイド - ESTA申請完全版</h3>
+          <p>自由の女神、グランドキャニオン、ディズニーランド...アメリカ旅行の準備から申請まで。</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<section class="section" id="visa-info">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-subtitle">TRAVEL AUTHORIZATION</p>
+      <h2 class="section-title">渡航認証申請ガイド</h2>
+    </div>
+
+    <div class="scroll-container">
+      <a href="/canada-eta-about/" class="scroll-card">
+        <div class="scroll-card-image" style="background-image: url('/usa-hero.jpg');"></div>
+        <div class="scroll-card-body">
+          <span class="card-tag">カナダeTA</span>
+          <h3>カナダeTA申請完全ガイド</h3>
+          <p>カナダ入国に必須のeTA申請方法をステップごとに詳しく解説。</p>
+        </div>
+      </a>
+
+      <a href="/australia-etas-about/" class="scroll-card">
+        <div class="scroll-card-image" style="background-image: url('/australia-hero.jpg');"></div>
+        <div class="scroll-card-body">
+          <span class="card-tag orange">オーストラリア</span>
+          <h3>オーストラリアETAS申請ガイド</h3>
+          <p>オーストラリア渡航前に必要な電子ビザの申請方法。</p>
+        </div>
+      </a>
+
+      <a href="/canada-eta-application/" class="scroll-card">
+        <div class="scroll-card-image" style="background-image: url('/canada-mid.jpg');"></div>
+        <div class="scroll-card-body">
+          <span class="card-tag pink">カナダeTA</span>
+          <h3>eTA申請の婚姻状況と職業入力</h3>
+          <p>eTA申請フォームの正しい入力方法を項目ごとに解説。</p>
+        </div>
+      </a>
+
+      <a href="/canada-eta-smartphone/" class="scroll-card">
+        <div class="scroll-card-image" style="background-image: url('/usa-mid.jpg');"></div>
+        <div class="scroll-card-body">
+          <span class="card-tag green">カナダeTA</span>
+          <h3>スマホでのeTA申請方法</h3>
+          <p>スマートフォンから簡単にeTA申請を完了する手順。</p>
+        </div>
+      </a>
+
+      <a href="/australia-etas-smartphone/" class="scroll-card">
+        <div class="scroll-card-image" style="background-image: url('/australia-mid.jpg');"></div>
+        <div class="scroll-card-body">
+          <span class="card-tag purple">オーストラリア</span>
+          <h3>スマホでのETAS申請方法</h3>
+          <p>スマートフォンからオーストラリアETASを申請する方法。</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<section class="section" id="tourism">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-subtitle">TOURISM & GOURMET</p>
+      <h2 class="section-title">観光・グルメ情報</h2>
+    </div>
+
+    <div class="card-grid">
+      <a href="/canada-vancouver-spots/" class="card">
+        <div class="card-image" style="background-image: url('/canada-hero.jpg');"></div>
+        <div class="card-body">
+          <span class="card-tag">カナダ</span>
+          <h3>バンクーバー観光スポット13選</h3>
+          <p class="card-desc">見どころやおすすめ料理を紹介します。</p>
+        </div>
+      </a>
+
+      <a href="/canada-toronto-spots/" class="card">
+        <div class="card-image" style="background-image: url('/uk-mid.jpg');"></div>
+        <div class="card-body">
+          <span class="card-tag">カナダ</span>
+          <h3>トロントのおすすめ観光スポット10選</h3>
+          <p class="card-desc">初めてのトロントで押さえたい定番スポット。</p>
+        </div>
+      </a>
+
+      <a href="/australia-sydney-spots/" class="card">
+        <div class="card-image" style="background-image: url('/uk-hero.jpg');"></div>
+        <div class="card-body">
+          <span class="card-tag orange">オーストラリア</span>
+          <h3>シドニーの観光スポット10選</h3>
+          <p class="card-desc">定番からおすすめまでを紹介します。</p>
+        </div>
+      </a>
+
+      <a href="/australia-cairns-spots/" class="card">
+        <div class="card-image" style="background-image: url('/australia-hero.jpg');"></div>
+        <div class="card-body">
+          <span class="card-tag orange">オーストラリア</span>
+          <h3>ケアンズの観光地10選</h3>
+          <p class="card-desc">定番スポットから必見の大自然まで。</p>
+        </div>
+      </a>
+
+      <a href="/canada-vancouver-souvenirs/" class="card">
+        <div class="card-image" style="background-image: url('/usa-hero.jpg');"></div>
+        <div class="card-body">
+          <span class="card-tag pink">カナダ</span>
+          <h3>バンクーバーおすすめのお土産20選</h3>
+          <p class="card-desc">定番から人気の雑貨までご紹介。</p>
+        </div>
+      </a>
+
+      <a href="/australia-souvenirs/" class="card">
+        <div class="card-image" style="background-image: url('/canada-hero.jpg');"></div>
+        <div class="card-body">
+          <span class="card-tag pink">オーストラリア</span>
+          <h3>オーストラリアお土産13選</h3>
+          <p class="card-desc">人気定番からおすすめまでご紹介。</p>
+        </div>
+      </a>
+
+      <a href="/australia-cuisine/" class="card">
+        <div class="card-image" style="background-image: url('/uk-hero.jpg');"></div>
+        <div class="card-body">
+          <span class="card-tag green">オーストラリア</span>
+          <h3>オーストラリアの代表的な料理16選</h3>
+          <p class="card-desc">本場の味を紹介します。</p>
+        </div>
+      </a>
+
+      <a href="/canada-maple-syrup/" class="card">
+        <div class="card-image" style="background-image: url('/tripnavi-hero-a.jpg');"></div>
+        <div class="card-body">
+          <span class="card-tag green">カナダ</span>
+          <h3>カナダの名産品メープルシロップ</h3>
+          <p class="card-desc">種類や選び方を紹介します。</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yj8XuwwIE7A4aXWfhXMsr"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

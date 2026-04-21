@@ -1,0 +1,107 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T4b2e,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オーストラリアの先住民、アボリジニの文化と歴史について</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/australia-hero.jpg" alt="オーストラリア" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>オーストラリアの先住民、アボリジニの文化と歴史について</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">オーストラリアの先住民、アボリジニの文化と歴史について</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#indigenouspeople1">オーストラリアの先住民、アボリジニとは</a></li>
+<li><a class="ez-toc-link" href="#indigenouspeople2">アボリジニの世界観</a></li>
+<li><a class="ez-toc-link" href="#indigenouspeople3">アボリジニの歴史・土地をめぐる衝突</a></li>
+<li><a class="ez-toc-link" href="#indigenouspeople4">アボリジニの言葉や習慣について</a></li>
+<li><a class="ez-toc-link" href="#indigenouspeople5">アボリジニの食文化</a></li>
+<li><a class="ez-toc-link" href="#indigenouspeople6">アボリジニの文化が体験できる場所</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#indigenouspeople6-1">クイーンズランド州(ケアンズ)</a></li>
+<li><a class="ez-toc-link" href="#indigenouspeople6-2">西オーストラリア州(パース)</a></li>
+<li><a class="ez-toc-link" href="#indigenouspeople6-3">ニューサウスウェールズ州(シドニー)</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#indigenouspeople7">オーストラリア入国・渡航にはETAS(イータス)の事前申請が必要です</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="オーストラリアの先住民アボリジニの文化と歴史について" class="img_big m20-t m20-b lazyloaded" height="428" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/07/cbc7b5b0bb740b663f9fe54b3d1a20ae.webp" type="image/webp" width="640"/><img alt="オーストラリアの先住民アボリジニの文化と歴史について" class="img_big m20-t m20-b" decoding="async" height="428" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/07/cbc7b5b0bb740b663f9fe54b3d1a20ae.jpg" width="640"/>
+</picture>
+<p>広大な敷地を誇るオーストラリアには、「アボリジニ」と呼ばれる独自の文化を形成してきた先住民族がいます。アボリジニは数万年前からオーストラリアに定住している民族で、自然との調和を重んじる文化や芸術は講話や壁画により現代に受け継がれています。このページではオーストラリアの先住民族、アボリジニが歩んできた歴史や文化について解説します。</p>
+<h2 class="wp-block-heading" id="indigenouspeople1">オーストラリアの先住民、アボリジニとは</h2>
+<p>アボリジニとは古代からオーストラリアに定住している先住民族です。そのルーツは約5万年前までさかのぼり、第4氷河期中頃にアジア方面から移動してきた民族が起源とされています。“アボリジニ”の語源はラテン語の“ab origine”で、「始めから」という意味を表します。アボリジニは主にオーストラリアの先住民を指しますが、地域や部族により言語や生活習慣が異なります。オーストラリアに居住するアボリジニは国内本土やタスマニア州の民族とクイーンズランド州<a href="https://www.queensland.com/jp/ja/places-to-see/destinations/cairns-and-great-barrier-reef/torres-strait.html" rel="noreferrer noopener" target="_blank">トレス海峡諸島</a>の先住民に分かれます。トレス海峡諸島の先住民はクイーンズランド州のケープ・ヨークからパプアニューギニアにわたり居住し、オセアニア地域の民族と多くの類似性がみられます。<br />アボリジニとトレス海峡諸島の先住民にはそれぞれオーストラリア政府から認められた民族旗があり、法的かつ政治的な面で特別な地位を築いてきました。<br />現在、アボリジニとトレス海峡諸島に居住する先住民は、オーストラリア全土における人口の約4％を占めています。</p>
+<h2 class="wp-block-heading" id="indigenouspeople2">アボリジニの世界観</h2>
+<p>アボリジニの文化は家族や土地との強い結びつきを特長とし、世界観の中心に土着信仰や自然神を敬う姿勢が強くあります。乾燥地域に住む人々はデザート・ピープル(砂漠の人)、海岸地域の人々はソルトウォーター・ピープル(海の人)、河川流域の人々はフレッシュウォーター・ピープル(淡水の人)と呼ばれ、独自の文化を築いてきました。<br />アボリジニの人々は信仰心が強く、「祖先の魂は大地と空から誕生し、祖先は偉大なる創造主である。祖先の旅を通して、すべての生命が創造された」との教えを根底に持ちます。このことから、祖先・土地・人類の間には強い結びつきがあり、各々の存在を共同体の一部として認めあう考えを重視しています。アボリジニには<a href="https://www.australia.com/ja-jp/things-to-do/aboriginal-australia/art-and-storytelling.html" rel="noreferrer noopener" target="_blank">ドリームタイム(Dream time)</a>と呼ばれる独自の継承文化があり、天地創造の神話を長年にわたり語り継いできました。 ドリームタイムには大きく分けて三つの時代があり、天地や生物が存在しない「始まりの時代」、神や精霊が活躍する「創造の時代」、歴史や生活の知恵を伝える「伝承の時代」に分類されます。<br />ドリームタイムのドリーム(Dream)は「夢」を指しているのではなく、「生活を送る・旅をして回る」という意味を表しています。アボリジニの宗教文化には「輪廻転生」の思想が強くあり、旅をすることで地面に足跡が残るのと同様に、肉体が滅びても人々のエネルギーやスピリットがその土地に宿るとされています。</p>
+<h2 class="wp-block-heading" id="indigenouspeople3">アボリジニの歴史・土地をめぐる衝突</h2>
+<p>今から5万年以上前、オーストラリア本島・タスマニア島・ニューギニア島が同一大陸だった頃、アボリジ二の祖先はカヌーで海を渡りアジア方面から移住してきたと考えられています。主に動物の狩猟や果物を採取しながら大陸を移動する生活を送っていました。それぞれの民族で言語・信仰・生活習慣は異なりますが、自然との調和を重視した思想が基盤となっています。</p>
+<p>1788年、ヨーロッパからの入植により、アボリジニの生活は大きく変化しました。入植者から持ち込まれた伝染病(天然痘・梅毒・インフルエンザ・麻疹など)が抗体を持たないアボリジニの間で急速に拡大します。先住民の人口は大幅に減少し、入植者との土地をめぐる争いにも敗れたことで次第に社会の隅へ追いやられてしまいました。その後も土地の権利をめぐる争いは繰り返され、今日に至るまで正式な合意に至っていません。<br />アボリジニの人々は1962年まで連邦政府の選挙権が与えられず、オーストラリア国民としての市民権も1967年の国民投票による承認まで認められませんでした。1972年、連邦政府はアボリジニ側の土地の所有権を承認。ヨーロッパの入植から200年以上も経過し、古くから居住していた土地の権利が認められました。1990年、オーストラリア政府はATSIC(アボリジニ・トレス海峡島嶼民委員会)と呼ばれる政治組織を特別に承認。19人の組織委員は全員アボリジニをルーツに持ち、独自の社会政策を行っていました。年間約9億ドルの予算を元に様々な計画を実行していましたが、汚職の申し立てと訴訟の結果により2004年に解体。多くの課題を残したままアボリジニ独自の政治組織は終焉を迎えました。</p>
+<p>現在、オーストラリアでは国全体でアボリジニの社会的権利を認め、社会的かつ経済的な支援を行っています。一方、アボリジニのなかには政府や社会の構造を批判し、自分たちの土地が侵略され続けているとの主張もあります。入植から220年以上経った現在も、土地の所有権をめぐる争いは水面下で続いています。</p>
+<h2 class="wp-block-heading" id="indigenouspeople4">アボリジニの言葉や習慣について</h2>
+<p>植民地化が始まった1788年頃、アボリジニの人々は約700種類の言語と方言を用いていたとされていますが、現在では約250種類まで減少しています。アボリジニは文字文化を持たず、民族の歴史は長きにわたり独自の講話により伝承されてきました。部族ごとに言語やニュアンスは異なりますが、大陸の大半を占める「パマ・ニュンガン語群」と、北部アーネムランドとキンバリー地域の「非パマ・ニュンガン語群」の二つに分類されます。元来、家屋を持たないアボリジニの人々は狩猟や採取をしながら住処を転々とし、洞穴や岩陰などに居住地を構えていました。洞窟には出産のための部屋や男性のみ立ち入りが許可される場所等があり、<a href="https://northernterritory.com/kakadu-and-surrounds" rel="noreferrer noopener" target="_blank">カカドゥ(Kakadu)</a>や<a href="https://northernterritory.com/arnhem-land" rel="noreferrer noopener" target="_blank">アーネム・ランド(Arnhem Land)</a>に代表される多くの壁画によって現代に伝えられています。<br />アボリジニは朝と夜に大地と植物の神に対し祈りを捧げます。綺麗な水を求めて毎日遠方の川へ赴き、一日の大半をかけて食材を探す原始的な生活を送っていたとされています。現在、多くのアボリジニは一般的な家屋に住居を構えていますが、家電製品など現代の利器を使用せずに暮らしている人々も見受けられます。</p>
+<h2 class="wp-block-heading" id="indigenouspeople5">アボリジニの食文化</h2>
+<p>アボリジニは古くから昆虫食を含む伝統的な狩猟や採取による独自の食文化を持ちます。オーストラリアは広大な自然に囲まれた土地ですが、厳しい環境の山奥や砂漠地域で暮らす先住民はタンパク源となる動物や魚の捕獲が困難となっていました。そうした地域では貴重な栄養源として昆虫を食し、<a href="https://www.australia.com/ja-jp/things-to-do/food-and-drinks/native-australian-ingredients.html" rel="noreferrer noopener" target="_blank">ブッシュフード(Bush Food)</a>と呼ばれ現代に継承されています。<br />食用とする昆虫は地域や種族により異なりますが、主に蜂蜜アリ・幼虫・蜂・ヤガなどがタンパク源として食されてきました。なかでも「ハニーアント」と呼ばれるアリは体内に花の蜜を蓄える特性を持ち、古くからアボリジニ独自の食文化を支えています。また、槍やブーメランを使用した狩猟を得意とし、カンガルーやエミュー、クロコダイルや亀を捕獲しタンパク源として食してきました。捕獲した動物は熱した石の上で焼き、ユーカリの葉で包み蒸し焼きにするなど素材の味を活かす調理法を現代に伝えています。<br />近年ではアボリジニが製造した木の実を煮詰めたジャムや、天然のハーブを使用した香味オイルが地元市民を中心に親しまれています。</p>
+<picture>
+<source alt="オーストラリアの先住民アボリジニの文化と歴史について" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/07/0f172792d4154d78e055f6e13cfc96e9.webp" type="image/webp" width="640"/><img alt="オーストラリアの先住民アボリジニの文化と歴史について" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/07/0f172792d4154d78e055f6e13cfc96e9.jpg" width="640"/>
+</picture>
+<h2 class="wp-block-heading" id="indigenouspeople6">アボリジニの文化が体験できる場所</h2>
+<p>オーストラリアの歴史を語る上で先住民であるアボリジニの存在は欠かせません。アボリジニの伝統的な食体験や儀式、薬を作るために使用する植物の採取方法など様々な体験ツアーが各地で開催されています。アボリジニの歴史や文化を知ることで、オーストラリア旅行がより充実したものとなるでしょう。<br />なお、新型コロナウイルスの影響により、ツアー規模の縮小やプログラムの一部を変更している場合があります。訪れる際は開催日等を事前にご確認ください。</p>
+<h3 class="wp-block-heading" id="indigenouspeople6-1">クイーンズランド州(ケアンズ)</h3>
+<p>ケアンズの「<a href="https://www.rainforest.com.au/" rel="noreferrer noopener" target="_blank">レインフォレステーション自然公園</a>」では、オーストラリアの先住民パマギリ族によるダンスショーや“ディジェリドゥ”と呼ばれる楽器の演奏を楽しむことができます。ディジュリドゥは世界最古の管楽器とされ、1,000年以上前から儀式で使用されてきました。地の底に響くような音色には心身を癒す効果があり、儀式のほか病気の治療にも用いられたと伝承されています。</p>
+<h3 class="wp-block-heading" id="indigenouspeople6-2">西オーストラリア州(パース)</h3>
+<p>パース郊外にある<a href="https://mandoonestate.com.au/" rel="noreferrer noopener" target="_blank">3つの会場</a>ではアボリジニ独自の食文化であるブッシュフードが体験できます。「アボリジナル・アートとドリームタイム・ストーリー」ではアボリジニの歴史と芸術を学ぶことができ、参加者は自身で制作した作品を持ち帰ることが可能です。</p>
+<h3 class="wp-block-heading" id="indigenouspeople6-3">ニューサウスウェールズ州(シドニー)</h3>
+<p><a href="https://www.rbgsyd.nsw.gov.au/" rel="noreferrer noopener" target="_blank">シドニー王立植物園</a>ではアボリジニのガイドによるツアーが開催されています。広大な庭園の遺跡を探索し、歴史あるアボリジニの文化を体感することができます。</p>
+<p>上記以外の地域でもアボリジニの体験ツアーを開催しています。詳しくは<a href="https://www.australia.com/ja-jp/things-to-do/aboriginal-australia/discover-aboriginal-experiences.html" rel="noreferrer noopener" target="_blank">オーストラリア政府観光局サイト</a>をご確認ください。</p>
+<h2 class="wp-block-heading" id="indigenouspeople7">オーストラリア入国・渡航にはETAS(イータス)の事前申請が必要です</h2>
+<p>観光や短期のビジネスを目的としてオーストラリアへ渡航する方は、電子渡航認証システムETAS(イータス)の事前申請が必須となります。ETAS(イータス)はDIBP(オーストラリア移民局)による入国制度で、日本・韓国・香港・アメリカ・カナダ・シンガポール・ブルネイ・マレーシアいずれかの国籍を持つ市民がオーストラリアへ渡航する際に必要となります。<br />ETAS(イータス)を利用してオーストラリアに滞在できる期間は、一度の渡航につき最長3か月間と定められています。3か月以上の滞在を予定している方はETAS(イータス)申請の対象外となり、ビザの取得が必要となります。また、留学や現地での就労を目的として渡航する方もETAS(イータス)申請の対象外となりますので、目的にあわせたビザの取得をご検討ください。<br />ETAS(イータス)に関する詳細は「<a href="http://xs640823.xsrv.jp/etas/service/index.html">オーストラリア観光ビザのETAS(イータス)とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/australia-mid.jpg" alt="オーストラリアの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="australia-etas.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yj8XuwwIE7A4aXWfhXMsr"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

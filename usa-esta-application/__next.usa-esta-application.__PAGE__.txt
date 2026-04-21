@@ -1,0 +1,282 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3ec7,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞ 
+        <a href="#usa">アメリカ</a> ＞ 
+        <a href="#visa-info">渡航ノウハウ</a> ＞ 
+        ESTA（エスタ）の申請方法
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/usa-hero.jpg" alt="アメリカ" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>ESTA（エスタ）の申請方法を記入例付きで解説！料金や有効期限も紹介！</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年03月31日</span>
+        </div>
+
+        <div class="content">
+          
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">ESTA(エスタ)とは</a>
+                  <ul>
+                    <li><a href="#section1-1">ESTA申請対象者</a></li>
+                    <li><a href="#section1-2">ESTAの申請時期</a></li>
+                    <li><a href="#section1-3">ESTA申請から取得にかかる期間</a></li>
+                    <li><a href="#section1-4">ESTAの申請料金</a></li>
+                    <li><a href="#section1-5">ESTAの有効期限</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section2">ESTAの申請方法</a>
+                  <ul>
+                    <li><a href="#section2-1">ESTA申請に必要な書類・情報</a></li>
+                    <li><a href="#section2-2">1. ESTA公式サイトにアクセス</a></li>
+                    <li><a href="#section2-3">2. 免責事項の確認</a></li>
+                    <li><a href="#section2-4">3. パスポートの顔写真ページアップロード</a></li>
+                    <li><a href="#section2-5">4. 顔写真をアップロード</a></li>
+                    <li><a href="#section2-6">5. メールアドレスを認証</a></li>
+                    <li><a href="#section2-7">6. 個人情報の登録</a></li>
+                    <li><a href="#section2-8">7. 渡航先情報の登録</a></li>
+                    <li><a href="#section2-9">8. 健康状態や犯罪歴に関する質問</a></li>
+                    <li><a href="#section2-10">9. 申請手数料の支払い</a></li>
+                    <li><a href="#section2-11">10. 申請手続きの完了</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section3">アプリ「ESTA Mobile」でも申請可能</a></li>
+                <li><a href="#section4">Global Entry(グローバル・エントリー)について</a></li>
+                <li><a href="#section5">よくある質問</a></li>
+                <li><a href="#section6">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          
+          <p>アメリカへの短期滞在（90日以内）を予定している方は、<strong>ESTA（エスタ）</strong>の申請が必須です。この記事では、ESTA申請方法を記入例付きで詳しく解説し、料金や有効期限などの重要情報もご紹介します。</p>
+
+          
+          <h2 id="section1">ESTA(エスタ)とは</h2>
+          <p>ESTA（Electronic System for Travel Authorization / エスタ）は、アメリカへの短期滞在に必要な電子渡航認証システムです。ビザ免除プログラム（VWP）対象国の国民が、観光・商用・トランジット目的で90日以内アメリカに滞在する場合に取得が必要となります。</p>
+
+          <h3 id="section1-1">ESTA申請対象者</h3>
+          <div class="info-box">
+            <h4>✅ ESTA申請が必要な方</h4>
+            <ul>
+              <li><strong>VWP対象国の国民</strong>（日本を含む）</li>
+              <li><strong>滞在期間が90日以内</strong>の観光・商用目的</li>
+              <li><strong>空路または海路</strong>でアメリカに入国する方</li>
+              <li><strong>年齢不問</strong>（乳児・未成年者も申請必要）</li>
+            </ul>
+          </div>
+
+          <div class="warn-box">
+            <h4>⚠️ ESTA対象外（ビザが必要）</h4>
+            <ul>
+              <li>留学目的（90日を超える場合）</li>
+              <li>就労目的</li>
+              <li>移住目的</li>
+              <li>過去にビザ申請が却下された方</li>
+            </ul>
+          </div>
+
+          <h3 id="section1-2">ESTAの申請時期</h3>
+          <p>ESTA申請は、<strong>出発の3日前（72時間前）までに完了</strong>することを強く推奨します。審査には最大72時間かかる場合があるため、余裕を持った申請が重要です。</p>
+
+          <h3 id="section1-3">ESTA申請から取得にかかる期間</h3>
+          <p>通常、ESTA申請後すぐに結果が通知されますが、場合によっては<strong>最大3日（72時間）</strong>かかることがあります。早めの申請を心がけましょう。</p>
+
+          <h3 id="section1-4">ESTAの申請料金</h3>
+          <p>ESTA申請料金は<strong>40.27米ドル</strong>です。クレジットカード（Visa、Mastercard、American Express、Discover）またはPayPalでの支払いが可能です。</p>
+
+          <h3 id="section1-5">ESTAの有効期限</h3>
+          <p>ESTAの有効期限は<strong>承認から2年間</strong>です。ただし、パスポートの有効期限が2年未満の場合、パスポート有効期限日までとなります。有効期限内であれば、何度でもアメリカへの渡航が可能です（1回の滞在は最大90日）。</p>
+
+          
+          <h2 id="section2">ESTAの申請方法</h2>
+          <p>ESTA申請は、アメリカ国土安全保障省（DHS）の公式サイトから行います。以下、10ステップの詳細な手順を解説します。</p>
+
+          <h3 id="section2-1">ESTA申請に必要な書類・情報</h3>
+          <div class="info-box">
+            <h4>📋 事前準備</h4>
+            <ul>
+              <li><strong>パスポート</strong>（有効期限が渡航終了日から6ヶ月以上あること）</li>
+              <li><strong>メールアドレス</strong>（認証コード受信用）</li>
+              <li><strong>クレジットカード</strong>またはPayPal（支払い用）</li>
+              <li><strong>個人情報</strong>（居住地、電話番号、勤務先など）</li>
+              <li><strong>渡航先情報</strong>（宿泊先住所など）</li>
+            </ul>
+          </div>
+
+          <h3 id="section2-2">1. ESTA公式サイトにアクセス</h3>
+          <p>アメリカ国土安全保障省（DHS）の公式ESTA申請サイト（<strong>https://esta.cbp.dhs.gov/</strong>）にアクセスします。</p>
+          <div class="warn-box">
+            <h4>⚠️ 注意</h4>
+            <p>ESTA申請を代行する民間サイトも存在しますが、公式サイトでは申請料金は40.27米ドルのみです。高額な手数料を請求するサイトには注意してください。</p>
+          </div>
+
+          <h3 id="section2-3">2. 免責事項の確認</h3>
+          <p>申請を開始する前に、免責事項とプライバシーポリシーを確認し、同意します。</p>
+
+          <h3 id="section2-4">3. パスポートの顔写真ページアップロード</h3>
+          <p>パスポートの顔写真ページをスキャンまたは写真撮影し、アップロードします。<strong>MRZ（機械読み取り可能領域）</strong>がはっきり読み取れることを確認してください。</p>
+
+          <h3 id="section2-5">4. 顔写真をアップロード</h3>
+          <p>パスポート写真とは別に、申請者の顔写真をアップロードします。背景が白または明るい色で、正面を向いた写真を用意してください。</p>
+
+          <h3 id="section2-6">5. メールアドレスを認証</h3>
+          <p>登録したメールアドレスに認証コードが送信されます。受信した認証コードを入力して、メールアドレスを認証します。</p>
+
+          <h3 id="section2-7">6. 個人情報の登録</h3>
+          <p>以下の個人情報を入力します：</p>
+          <ul>
+            <li>居住地住所</li>
+            <li>電話番号</li>
+            <li>両親の氏名</li>
+            <li>勤務先情報（職業、会社名、住所など）</li>
+          </ul>
+
+          <h3 id="section2-8">7. 渡航先情報の登録</h3>
+          <p>アメリカでの滞在先住所（ホテル名、住所）や、乗り継ぎ便の情報を入力します。</p>
+
+          <h3 id="section2-9">8. 健康状態や犯罪歴に関する質問</h3>
+          <p>健康状態、犯罪歴、過去のビザ申請状況に関する9項目の質問に回答します。通常、すべて「いいえ」と回答することが推奨されますが、正直に回答してください。</p>
+
+          <h3 id="section2-10">9. 申請手数料の支払い</h3>
+          <p>申請内容を最終確認後、クレジットカードまたはPayPalで<strong>40.27米ドル</strong>を支払います。</p>
+
+          <h3 id="section2-11">10. 申請手続きの完了</h3>
+          <p>支払いが完了すると、申請が受理されます。審査結果は通常すぐに通知されますが、最大72時間かかる場合があります。承認されると、登録したメールアドレスに通知が届きます。</p>
+
+          
+          <h2 id="section3">アプリ「ESTA Mobile」でも申請可能</h2>
+          <p>アメリカ国土安全保障省は、公式アプリ<strong>「ESTA Mobile」</strong>（iOS・Android対応）も提供しています。アプリではOCR機能によりパスポート情報を自動読み取りできるため、入力の手間が省けます。</p>
+
+          
+          <h2 id="section4">Global Entry(グローバル・エントリー)について</h2>
+          <p><strong>Global Entry（グローバル・エントリー）</strong>は、アメリカ入国時の審査を迅速化するプログラムです。2024年から日本人も申請可能となりました。有効期限は5年間で、ESTAよりも長期間有効です。頻繁にアメリカを訪れる方におすすめです。</p>
+
+          
+          <h2 id="section5">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: ESTA申請はどうやってしますか？</h3>
+            <p><strong>A:</strong> アメリカ国土安全保障省（DHS）の公式サイト（<a href="https://esta.cbp.dhs.gov/" target="_blank">https://esta.cbp.dhs.gov/</a>）から申請できます。公式アプリ「ESTA Mobile」でも申請可能です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: ESTAは何日までに申請すればいいですか？</h3>
+            <p><strong>A:</strong> 出発の72時間前（3日前）までに申請を完了することを推奨します。審査に最大72時間かかる場合があるためです。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: ESTAの費用は一人いくらですか？</h3>
+            <p><strong>A:</strong> ESTA申請料金は一人あたり40.27米ドルです。乳児や未成年者も同額です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: ESTA申請は当日でも間に合いますか？</h3>
+            <p><strong>A:</strong> 当日申請は非推奨です。審査に最大72時間かかる場合があるため、余裕を持って3日前までに申請してください。</p>
+          </div>
+
+          
+          <h2 id="section6">まとめ</h2>
+          <p>アメリカへの90日以内の短期滞在には、ESTA申請が必須です。DHS公式サイトまたは「ESTA Mobile」アプリから簡単に申請できます。申請料金は40.27米ドル、有効期限は2年間です。出発の3日前までに申請を完了し、安心してアメリカ旅行をお楽しみください。</p>
+
+          <div class="info-box">
+            <h4>✅ ESTA申請のポイント</h4>
+            <ul>
+              <li>出発3日前までに申請完了</li>
+              <li>公式サイトから申請（40.27米ドル）</li>
+              <li>有効期限は2年間</li>
+              <li>パスポート更新時は再申請が必要</li>
+              <li>留学・就労目的は対象外（ビザ取得が必要）</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="usa-esta-renewal.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA(エスタ)に更新は必要？入力ミスをした際の対応についても解説</h3>
+              </div>
+            </a>
+            
+            <a href="usa-esta-smartphone.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAアプリでの申請方法を解説！スマホ申請のポイントを紹介</h3>
+              </div>
+            </a>
+            
+            <a href="usa-hawaii-esta.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ハワイ渡航時にESTAは必要？申請時の注意点も解説</h3>
+              </div>
+            </a>
+            
+            <a href="usa-esta-group.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAのグループ申請方法を解説！家族で申請する際の注意点も紹介</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="canada-eta-about.html">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">カナダeTA</span>
+                <div class="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="australia-etas-about.html">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">オーストラリア</span>
+                <div class="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="usa-esta-application.html">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yj8XuwwIE7A4aXWfhXMsr"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

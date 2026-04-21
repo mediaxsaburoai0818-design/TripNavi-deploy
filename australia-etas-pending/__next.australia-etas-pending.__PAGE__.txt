@@ -1,0 +1,119 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T37e0,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 認証審査が保留された場合の対処法</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/australia-hero.jpg" alt="オーストラリア" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>認証審査が保留された場合の対処法</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading"> 認証審査が保留された場合の対処法 </h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1"><li><a class="ez-toc-link" href="#pending1">ETAS(イータス)申請後に届く認証結果メールを確認しましょう</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#pending2">主な認証結果の例</a></li>
+<li><a class="ez-toc-link" href="#pending3">認証審査が保留となる主なケース</a></li>
+</ul></li>
+<li><a class="ez-toc-link" href="#pending4">認証保留時に発生する主な追加手続きの種類</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#pending5">Refer applicant to Australian Embassy / オーストラリア大使館に申請者を照合してください</a></li>
+<li><a class="ez-toc-link" href="#pending6">Refer to the website of the nearest Australian mission / 最寄りのオーストラリアの代表機関にお問い合わせ下さい</a></li>
+<li><a class="ez-toc-link" href="#pending7">Currently in Australia / 現在(申請者は)オーストラリアにいます</a></li>
+<li><a class="ez-toc-link" href="#pending8">「刑事上の有罪判決を受けたことがありますか」に「はい」と回答して渡航認証が拒否された方</a></li>
+<li><a class="ez-toc-link" href="#pending9">フォーム1494(ETAS追加情報)</a></li>
+<li><a class="ez-toc-link" href="#pending10">犯罪経歴証明書の取得方法</a></li>
+</ul></li>
+<li><a class="ez-toc-link" href="#pending11">ETAS(イータス)申請の承認確認ができてからオーストラリアへ渡航しましょう</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="認証審査が保留された場合の対処法" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p05_01.webp" type="image/webp" width="640"/>
+<img alt="認証審査が保留された場合の対処法" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p05_01.jpg" width="640"/>
+</picture>
+<h2 class="wp-block-heading" id="pending1">ETAS(イータス)申請後に届く認証結果メールを確認しましょう</h2>
+<p>日本国籍者がオーストラリアで3か月以内の観光などを目的として渡航する場合、ETAS(イータス)申請を取得することでビザを取得せずにオーストラリアへの入国が許可されます。<br />ETAS(イータス)はウェブサイトで申請することができ、取得手続きを完了すると認証結果が記載された通知メールが届きます。<br />認証結果の通知メールは申請の際に登録したメールアドレスに送られますので、正しい情報で入力する必要があります。<br />申請者のメール受信設定により迷惑メールの対象となってしまい、受信できないなどのトラブルが多く発生しております。<br />ETAS(イータス)申請を行う際は一時的に迷惑メール防止フィルターを解除するなどの対応をお願いします。</p>
+<h3 class="wp-block-heading" id="pending2">主な認証結果の例</h3>
+<figure class="wp-block-table"><table><tbody><tr><td>渡航認証承認</td><td>ETAS(イータス)の取得が完了しました。</td></tr><tr><td>渡航認証保留</td><td>12時間後に認証情報の再確認が必要です。</td></tr><tr><td>渡航認証拒否</td><td>ビザ取得を検討するか最寄りのオーストラリア大使館に問い合わせましょう。</td></tr></tbody></table></figure>
+<p>申請手続き完了後に「Inquire in 12 hours / 12時間後に確認してください」とメッセージが表示された場合は認証審査が何らかの理由により保留中となっていることを意味します。メッセージが表示されてから12時間後に再度サイトへアクセスし認証情報を確認してください。</p>
+<h3 class="wp-block-heading" id="pending3">認証審査が保留となる主なケース</h3>
+<ul class="wp-block-list"><li><strong>過去に重大な犯罪歴がある方</strong></li><li><strong>過去のオーストラリア滞在時に意図的なオーバーステイなどで強制送還されたことがある方</strong></li><li><strong>ETAS(イータス)申請のブラックリストに同姓同名の方がいる場合</strong></li><li><strong>オーストラリア政府管轄公式サイトがシステムメンテナンス中である場合</strong></li></ul>
+<p>申請後、内容に問題がない場合はスムーズに認証が承認され、個別のETAS(イータス)番号が付与されます。<br />ただし、申請した内容により追加手続きや書類提出が必要となる場合もありますので、余裕をもってETAS(イータス)申請を行いましょう。追加手続きや書類提出を促された場合は速やかに手配し、審査が完了するまでお待ちください。追加の手続きが発生した場合、認証の回答を得るまでに数日を要する場合がありますので、早めのETAS(イータス)申請をお願いします。</p>
+<picture>
+<source alt="認証保留時に発生する主な追加手続きの種類" class="img_big m20-t m20-b" height="425" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p05_02.webp" type="image/webp" width="640"/>
+<img alt="認証保留時に発生する主な追加手続きの種類" class="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p05_02.jpg" width="640"/>
+</picture>
+<h2 class="wp-block-heading" id="pending4">認証保留時に発生する主な追加手続きの種類</h2>
+<p>追加書類の提出はオーストラリア政府内務省が設けるメールフォームから送信します。ETAS（イータス）申請後に認証保留状態となった場合は、以下のサイトから書類提出の手続きを行いましょう。</p>
+<div class="Class_AB">
+<a aria-label=" (opens in a new tab)" class="aioseop-link" href="https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/australian-immigration-enquiry-form" rel="noreferrer noopener" target="_blank">オーストラリア政府内務省 メールフォーム</a></div>
+<p>在日オーストラリア大使館ではETAS（イータス）やビザに関する申請窓口を設けていないため、メール内容は業務を請け負うオーストラリア大使館ソウル事務局へと送信されます。そのため、専用フォームでの入力項目は全て英語で記入する必要があります。日本語には対応しておりませんので入力ミスが無いよう十分にお気を付けください。 </p>
+<h3 class="wp-block-heading" id="pending5">Refer applicant to Australian Embassy / オーストラリア大使館に申請者を照合してください</h3>
+<h3 class="wp-block-heading" id="pending6">Refer to the website of the nearest Australian mission / 最寄りのオーストラリアの代表機関にお問い合わせ下さい</h3>
+<p>以下の書類を添付しメールを送信しましょう。</p>
+<ul class="wp-block-list"><li><strong>パスポートのバイオデータページ(顔写真が貼付されているページ)のコピー</strong></li><li><strong>フォーム1494(ETAS追加情報)</strong></li></ul>
+<h3 class="wp-block-heading" id="pending7">Currently in Australia / 現在(申請者は)オーストラリアにいます</h3>
+<p>ETAS(イータス)申請をする際はオーストラリア国外にいなければいけません。<br />申請者がオーストラリア国外にいるにもかかわらず申請時に「Currently in Australia / 現在(申請者は)オーストラリアにいます」というメッセージが表示された場合は以下の書類を添付しメールを送信しましょう。</p>
+<ul class="wp-block-list"><li><strong>パスポートのバイオデータページ(顔写真が貼付されているページ)のコピー</strong></li><li><strong>フォーム1494(ETAS追加情報)</strong></li><li><strong>オーストラリアを最後に出国した日時</strong></li><li><strong>オーストラリアを最後に出国した都市と空港</strong></li><li><strong>オーストラリアを最後に出国したフライト番号(航空券などによる証明も必要)</strong></li><li><strong>オーストラリアを最後に出国したときに使用したパスポートのコピー(現在のパスポートと異なる場合)</strong></li><li><strong>オーストラリアを最後に出国した後、次の目的地に到着したことを示すパスポートのページ</strong></li><li><strong>今回のオーストラリアへの渡航予定日</strong></li></ul>
+<h3 class="wp-block-heading" id="pending8">「刑事上の有罪判決を受けたことがありますか」に「はい」と回答して渡航認証が拒否された方</h3>
+<p>以下の書類を添付しメールを送信しましょう。</p>
+<ul class="wp-block-list"><li><strong>居住国の犯罪歴を示す犯罪経歴証明書</strong></li><li><strong>パスポートのバイオデータページ(顔写真が貼付されているページ)のコピー</strong></li></ul>
+<h3 class="wp-block-heading" id="pending9">フォーム1494(ETAS追加情報)</h3>
+<p>フォーム1494(ETAS追加情報)はプリントアウトした上で全て英文にて記入した後、電子書類に変換してメールに添付してください。</p>
+<div class="Class_AB">
+<a aria-label=" (新しいタブで開く)" href="https://japan.embassy.gov.au/files/seol/ETA%20additional%20info%20form%201494.pdf" rel="noreferrer noopener" target="_blank">追加情報申請書類「フォーム1494」(PDFデータ)</a></div>
+<h3 class="wp-block-heading" id="pending10">犯罪経歴証明書の取得方法</h3>
+<p>住民登録をしている都道府県の警察ホームページより取得方法を確認してください。<br /> (例)東京都に住民登録をしている方　「警視庁」の公式サイトより確認 </p>
+<div class="Class_AB">
+<a aria-label=" (新しいタブで開く)" href="https://www.keishicho.metro.tokyo.jp/tetsuzuki/toko/toko.html" rel="noreferrer noopener" target="_blank">警視庁公式サイト「渡航証明(犯罪経歴証明書)の申請について」</a></div>
+<h2 class="wp-block-heading" id="pending11">ETAS(イータス)申請の承認確認ができてからオーストラリアへ渡航しましょう</h2>
+<p>認証審査が保留中の場合はETAS(イータス)申請を所持しているとは認められませんので、オーストラリアへ入国または飛行機に搭乗することはできません。渡航予定日までに余裕をもって申請手続きを進め、ETAS(イータス)申請の認証が承認されたことを確認してから渡航するようにしましょう。申請手続きが完了してから数日経過しても認証情報が確認できない場合や認証が保留のままの場合などは最寄りのオーストラリア大使館に問い合わせることをお勧め致します。<br /><br /> 在日オーストラリア大使館について詳しくは<a class="aioseop-link" href="http://xs640823.xsrv.jp/etas/embassy/index.html">こちら</a>のページをご参照ください。 </p>
+<div class="Class_AB">
+<a href="https://immi.homeaffairs.gov.au/help-support/contact-us/offices-and-locations" target="_blank">各国のオーストラリア大使館 一覧（オーストラリア内務省ウェブサイト）</a></div>
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/australia-mid.jpg" alt="オーストラリアの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="australia-etas.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yj8XuwwIE7A4aXWfhXMsr"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

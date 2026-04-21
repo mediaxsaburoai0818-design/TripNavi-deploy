@@ -1,0 +1,213 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T325a,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ ETAS(イータス)更新方法について</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/australia-hero.jpg" alt="オーストラリア" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>ETAS(イータス)更新方法について</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">  ETAS(イータス)更新方法について  </h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1"><li><a class="ez-toc-link" href="#update1">ETAS(イータス)の有効期限を延長するには</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#update2">ETAS(イータス)の有効期限について</a></li>
+</ul></li>
+<li><a class="ez-toc-link" href="#update3">新しいパスポートを取得したときには</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#update4">パスポートの更新について</a></li>
+<li><a class="ez-toc-link" href="#update5">パスポートの残存期間について</a></li>
+</ul></li>
+<li><a class="ez-toc-link" href="#update6">国ごとによるパスポート残存期間の規定</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#update7">オセアニア</a></li>
+<li><a class="ez-toc-link" href="#update8">アジア諸国</a></li>
+<li><a class="ez-toc-link" href="#update9">その他の観光主要国</a></li>
+</ul></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="ETAS(イータス)更新方法について" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p11_01.webp" type="image/webp" width="640"/>
+<img alt="ETAS(イータス)更新方法について" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p11_01.jpg" width="640"/>
+</picture>
+<h2 class="wp-block-heading" id="update1">ETAS(イータス)の有効期限を延長するには</h2>
+<p><a class="link-no-color aioseop-link" href="http://xs640823.xsrv.jp/etas/">ETAS(イータス)</a>には期限を更新(延長)する制度はございません。<br />過去に取得したETAS(イータス)の有効期限が間近に迫っている、あるいは既に期限が切れてしまった等の理由で期限の延長をご希望の場合には、改めてETAS(イータス)申請が必要となります。<br />なお、ETAS(イータス)は入国時に有効であれば問題ありませんので、滞在中に期限が切れてしまう場合においては再申請の必要はございません。</p>
+<h3 class="wp-block-heading" id="update2">ETAS(イータス)の有効期限について</h3>
+<p>付与日から12ケ月間またはパスポートの有効期限まで(1年未満の場合)有効となります。<br />有効期間中は観光・商用であれば何度でも3ケ月以内の滞在が可能となっています。</p>
+<p><a href="https://www.eta.homeaffairs.gov.au/ETAS3/etasp" rel="noreferrer noopener" target="_blank">オーストラリア政府移民局ETA確認ページ</a>の「Check an ETA」にて、 国籍、パスポート番号、生年月日、参照番号(Reference Number)を入力後、「次へ」をクリックすると照会が可能です。参照番号(Reference Number)は申請時に送付されるメールに記載がありますのでご確認ください。過去にオーストラリア政府移民局の申請サイトにて申請されたETAS(イータス)の有効期限等の情報も同ウェブページより確認が可能です。</p>
+<p>また、オーストラリア政府移民局の申請サイトではなく代理店等を経由して申請された方は<a href="https://immi.homeaffairs.gov.au/visas/already-have-a-visa/check-visa-details-and-conditions/overview" rel="noreferrer noopener" target="_blank">VEVO(Visa Entitlement Verification Online)システム</a>より確認が可能となっています。<br />ETAS(イータス)申請の認証確認方法について詳しくは「<a class="aioseop-link" href="http://xs640823.xsrv.jp/etas/operationerror/index.html">ETAS(イータス)申請の認証情報が確認できない場合</a>」にてご確認ください。 </p>
+<picture>
+<source alt="新しいパスポートを取得したときには" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p11_02.webp" type="image/webp" width="640"/>
+<img alt="新しいパスポートを取得したときには" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p11_02.jpg" width="640"/>
+</picture>
+<h2 class="wp-block-heading" id="update3">新しいパスポートを取得したときには</h2>
+<p>新しいパスポートを取得した場合には、ETAS(イータス)についても新たに申請手続きが必要となります。<br />ETAS(イータス)はパスポート番号に紐づいた認証であるため、 ETAS(イータス) 申請の有効期限が十分に残っていたとしても新しいパスポート番号では利用することができなくなります。パスポート更新後にオーストラリアへの渡航の予定がある方は改めてETAS(イータス)申請手続きを行ってください。</p>
+<h3 class="wp-block-heading" id="update4">パスポートの更新について</h3>
+<p>現在お持ちのパスポートの有効期限が1年を切ると「切り替え申請」という手続きが可能となります。<br />手続きの方法は新規の申請と同様です。また、氏名、本籍地の都道府県、性別、生年月日が変更となった際には、パスポートの変更をしなければなりません。有効期限はそのままにパスポートの記載内容を変更する「記載事項変更」という手続きが可能となっています。<br />切り替え申請、記載事項変更申請はどちらも新しいパスポート番号が発行されます。<br />変更前のパスポート番号で取得したETAS(イータス)は利用できなくなりますので注意しましょう。<br />例えば、結婚前に旧姓のパスポート情報でETAS(イータス)を取得されており、渡航時には新姓が記載されている新しいパスポートを利用するといった場合は、旧姓で取得したETAS(イータス)認証を利用することはできません。ETAS(イータス)はパスポート番号に紐づいて管理されているため、申請時のパスポート番号と渡航時に利用するパスポート番号が異なる場合は認証が無効となります。オーストラリア渡航前に新たなパスポートを手にした場合はETAS(イータス)の再申請を必ず行いましょう。 </p>
+<h3 class="wp-block-heading" id="update5">パスポートの残存期間について</h3>
+<p>入国時の条件としてパスポートの残存期間に規定がある国・地域が多くあります。<br />パスポートの有効期限が規定の残存期限に満たない場合には、飛行機に搭乗することができません。<br />なお、オーストラリアへETAS(イータス)を利用して入国する場合には、滞在予定期間をカバーしているパスポートであれば良いとされています。<br />しかし、アジア諸国を経由してオーストラリアへ渡航される方、オーストラリアを経由してニュージーランド等へ渡航される方は経由地や目的地のパスポート残存期間の規定に十分に注意しましょう。</p>
+<h2 class="wp-block-heading" id="update6">国ごとによるパスポート残存期間の規定</h2>
+<h3 class="wp-block-heading" id="update7">オセアニア</h3>
+<figure class="wp-block-table">
+<table style="max-width:750px;">
+<tbody>
+<tr>
+<td> オーストラリア </td>
+<td> 帰国時まで有効なパスポート </td>
+</tr>
+<tr>
+<td> ニュージーランド </td>
+<td> 入国時3ケ月＋滞在日数 </td>
+</tr>
+<tr>
+<td> タヒチ </td>
+<td> 出国時3ケ月以上 </td>
+</tr>
+<tr>
+<td> ニューカレドニア </td>
+<td> 出国時3ケ月以上 </td>
+</tr>
+<tr>
+<td> バヌアツ共和国 </td>
+<td> 入国時6ケ月以上 </td>
+</tr>
+<tr>
+<td> パプアニューギニア独立国 </td>
+<td> 入国時6ケ月以上 </td>
+</tr>
+<tr>
+<td> フィジー共和国 </td>
+<td> 入国時6ケ月＋滞在日数 </td>
+</tr>
+</tbody>
+</table>
+</figure>
+<h3 class="wp-block-heading" id="update8">アジア諸国</h3>
+<figure class="wp-block-table">
+<table style="max-width:750px;">
+<tbody>
+<tr>
+<td> シンガポール共和国 </td>
+<td> 入国時6ケ月以上 </td>
+</tr>
+<tr>
+<td> インドネシア共和国 </td>
+<td> 入国時6ケ月以上 </td>
+</tr>
+<tr>
+<td> マレーシア </td>
+<td> 入国時6ケ月以上 </td>
+</tr>
+<tr>
+<td> フィリピン共和国 </td>
+<td>入国時6ケ月＋滞在日数</td>
+</tr>
+<tr>
+<td> 中華人民共和国 </td>
+<td> 入国時6ケ月以上が望ましい </td>
+</tr>
+<tr>
+<td> 台湾 </td>
+<td> 帰国時まで有効なパスポート </td>
+</tr>
+<tr>
+<td> 韓国 </td>
+<td> 入国時3ケ月以上 </td>
+</tr>
+<tr>
+<td> タイ </td>
+<td> 入国時6ケ月以上 </td>
+</tr>
+<tr>
+<td> ベトナム社会主義共和国 </td>
+<td> 出国時6ケ月以上 </td>
+</tr>
+<tr>
+<td> 香港 </td>
+<td> 入国時1ケ月以上＋滞在日数以上(1ケ月以内の滞在)<br />入国時3ケ月以上(1ケ月以上の滞在) </td>
+</tr>
+</tbody>
+</table>
+</figure>
+<h3 class="wp-block-heading" id="update9">その他の観光主要国</h3>
+<figure class="wp-block-table">
+<table style="max-width:750px;">
+<tbody>
+<tr>
+<td>シェンゲン協定加盟国<br />(フランス、スペイン、イタリア、ドイツ等)</td>
+<td>出国時90日以上</td>
+</tr>
+<tr>
+<td>イギリス</td>
+<td>帰国時まで有効なパスポート</td>
+</tr>
+<tr>
+<td>アメリカ合衆国</td>
+<td>入国時90日以上が望ましい</td>
+</tr>
+<tr>
+<td>カナダ</td>
+<td>帰国予定日＋1日</td>
+</tr>
+<tr>
+<td>メキシコ</td>
+<td>帰国時まで有効なパスポート</td>
+</tr>
+<tr>
+<td>ブラジル</td>
+<td>帰国時まで有効なパスポート</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p></p>
+<p>以上のように入国時にパスポートの残存期間が3ケ月または6ケ月以上必要な国が多くあります。<br />渡航予定日に対して有効期限に余裕がない場合にはパスポート更新の手続きを行いましょう。 <br />更新にあたり既存のETAS(イータス)は失効となりますので再申請が必要となります。 </p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/australia-mid.jpg" alt="オーストラリアの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="australia-etas.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yj8XuwwIE7A4aXWfhXMsr"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

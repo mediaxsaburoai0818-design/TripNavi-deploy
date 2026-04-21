@@ -1,0 +1,117 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3d40,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダで乗り継ぐ時にeTA(イータ)申請は必要？</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/canada-hero.jpg" alt="カナダ" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダで乗り継ぐ時にeTA(イータ)申請は必要？</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading"> カナダで乗り継ぐ時にeTA(イータ)申請は必要？ </h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1"><li><a class="ez-toc-link" href="#transit1">カナダで短時間乗り継ぐ場合でもeTA(イータ)申請は必要です</a></li>
+<li><a class="ez-toc-link" href="#transit2">カナダ入国時に利用する交通手段でeTA(イータ)申請の必要性が変わります</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#transit3">空路でのカナダ入国</a></li>
+<li><a class="ez-toc-link" href="#transit4">陸路または海路でのカナダ入国</a></li>
+</ul></li>
+<li><a class="ez-toc-link" href="#transit5">eTA(イータ)申請取得時の注意点</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#transit6">eTA(イータ)申請は年齢に関係なく渡航者全員が必要</a></li>
+</ul></li>
+<li><a class="ez-toc-link" href="#transit7">アメリカで乗り継ぐ場合はESTA(エスタ)申請も必要</a></li>
+<li><a class="ez-toc-link" href="#transit8">カナダ入国時の手続き</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#transit9">自動入国審査端末の使用方法</a></li>
+<li><a class="ez-toc-link" href="#transit10">カナダ政府より公開されているキオスク設置空港</a></li>
+<li><a class="ez-toc-link" href="#transit11">自動入国審査モバイルアプリ「CanBorder-eDeclaration」</a></li>
+<li><a class="ez-toc-link" href="#transit12">出入国カードにて申告する場合</a></li>
+</ul></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="カナダで乗り継ぐ時にeTA(イータ)申請は必要？" class="img_big m20-t m20-b" height="411" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p11_1.webp" type="image/webp" width="640"/>
+<img alt="カナダで乗り継ぐ時にeTA(イータ)申請は必要？" class="img_big m20-t m20-b" decoding="async" height="411" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p11_1.jpg" width="640"/>
+</picture>
+<h2 class="wp-block-heading" id="transit1">カナダで短時間乗り継ぐ場合でもeTA(イータ)申請は必要です</h2>
+<p>日本からの渡航者がカナダで乗り継いでアメリカや南米、カリブ海などへ向かう渡航ルートは多く利用されておりますが、乗り継ぎの目的でカナダに入国した場合でも<a class="link-no-color aioseop-link" href="http://xs640823.xsrv.jp/eta/">eTA(イータ)申請</a>を取得する必要があります。トランジットと呼ばれる乗り継ぎや便の乗り換え(トランスファー)などの為にカナダの空港へ降りた場合もカナダに入国したとみなされますのでeTA(イータ)申請を取得していなければなりません。<br />eTA(イータ)申請はカナダ政府によって2016年3月より導入された入国管理システムで、カナダに入国する渡航者は事前にインターネットで取得し認証承認を受けている必要があります。</p>
+<h2 class="wp-block-heading" id="transit2">カナダ入国時に利用する交通手段でeTA(イータ)申請の必要性が変わります</h2>
+<h3 class="wp-block-heading" id="transit3">空路でのカナダ入国</h3>
+<p>飛行機を利用してカナダ国内の空港で乗り継ぎをして他国へ向かう方はeTA(イータ)を申請する必要があります。<br />空港での入国審査の際eTA(イータ)申請を取得していない場合は、飛行機への搭乗や入国を拒否されることが予想されます。<br />eTA(イータ)申請は手続きが完了してから認証結果を受け取るまでに最大72時間を要しますので、渡航予定日から余裕をもって申請手続きを行うことをお勧めします。eTA(イータ)申請の内容により追加の書類提出や健康診断の受診などが必要になるケースもあります。<br />そのような場合はさらに審査期間を要しますので早めの申請をお願いします。</p>
+<h3 class="wp-block-heading" id="transit4">陸路または海路でのカナダ入国</h3>
+<p>徒歩や車、鉄道、バスなどの陸路またはクルージングや旅客船などの海路を利用して他国へ行くためにカナダで乗り継ぐ方は、eTA(イータ)を申請する必要はありません。</p>
+<h2 class="wp-block-heading" id="transit5">eTA(イータ)申請取得時の注意点</h2>
+<p>eTA(イータ)は申請手続きが完了してから審査に最大72時間かかる場合があり、申請書に加えて追加の書類提出などを求められる場合もございます。そうした場合は審査が長期間にわたることが予想されますので、カナダへの渡航や乗り継ぎを予定される方は早めに申請することをお勧めします。eTA(イータ)申請の際は以下の３点をご用意ください。</p>
+<ul class="wp-block-list"><li><strong>ICチップ搭載の有効期限があるパスポート</strong></li><li><strong>受信可能なEメール</strong></li><li><strong>クレジットカード (申請者名義でなくても可)</strong></li></ul>
+<p>eTA(イータ)の認証結果は申請時に登録いただいたメールアドレスに通知されます。<br />eTA(イータ)申請はオンライン上でパスポート番号に紐づけて管理されます。認証が承認された場合、eTA(イータ)申請番号や認証情報を書面で持参したり入国審査の際に証明書などを提示する必要はありませんが、通知されたメールに記載されているアプリケーション番号やeTA(イータ)申請番号などを控えておくことをお勧めします。また、eTA(イータ)申請番号は認証情報をウェブ上で確認するために必要となりますので、確実に受信可能なメールアドレスの登録をお願いします。</p>
+<h3 class="wp-block-heading" id="transit6">eTA(イータ)申請は年齢に関係なく渡航者全員が必要</h3>
+<p>eTA(イータ)申請はカナダに入国または乗り継ぐ渡航者に対して、年齢に関係なく取得する事が義務付けられております。<br />eTA(イータ)申請手続きを行えない状況にある方や未成年の方、高齢の方は代理人による申請も可能です。<br />現地での入国審査の際にeTA(イータ)申請を済ませていない場合は飛行機の搭乗を拒否されてしまうことがあります。<br />ご家族などグループでカナダへ渡航される方は同行者全員分のeTA(イータ)申請をお願いします。<br />eTA(イータ)申請は1名ずつ申請手続きを行う必要がありますが、申請結果を受け取るメールアドレスを代表者のアドレスにまとめることでグループ全員のeTA(イータ)申請状況を管理することができます。<br />未成年者の海外渡航について詳しくは<a class="aioseop-link" href="http://xs640823.xsrv.jp/eta/minority/index.html">こちら</a>をご確認ください。 </p>
+<h2 class="wp-block-heading" id="transit7">アメリカで乗り継ぐ場合はESTA(エスタ)申請も必要</h2>
+<p>カナダで乗り継いで他国へ向かう場合、交通手段によりeTA(イータ)の必要性の有無が生じます。<br />カナダへ渡航する際、アメリカ国内を経由する場合は交通手段に関わらずESTA(エスタ)の申請も必要となります。<br />ESTA(エスタ)とはeTA(イータ)と同様のビザ免除プログラムのひとつであり、ESTA(エスタ)を取得するとビザを取得せずにアメリカへの入国が認められる制度です。ESTA(エスタ)申請が可能なのはビザ免除プログラム(VWP)対象国の国籍者のみとなっており、短期商用または観光を目的として90日以内のアメリカ滞在を希望する渡航者に限定されます。<br />短期間であってもアメリカ国内での就労を目的とした方や90日以上のアメリカ滞在を希望される場合はESTA(エスタ)ではなくビザの取得が必要となりますので、最寄りの在日米国大使館・領事館へお問い合わせください。</p>
+<h2 class="wp-block-heading" id="transit8">カナダ入国時の手続き</h2>
+<p>他国籍者が入国または出国する際に出入国カード(税関申告書)の提出を義務付けている国があり、カナダもその国のひとつです。従来、出入国カードは用紙に記入し提出する方法が一般的でしたが、各国の主要空港では専用端末機「キオスク」による自動入国審査(Automated Border Clearance SelfServe)が続々と導入されており、端末上で提出が可能となっています。</p>
+<h3 class="wp-block-heading" id="transit9">自動入国審査端末の使用方法</h3>
+<p>カナダの主要な空港では自動入国審査端末「キオスク」が設置されており、端末の画面上で本人確認や税関申告などを行うことが可能です。到着ロビーと入国審査ゲートの間に専用端末機「キオスク」が設置されています。<br /><br />以下の順番に従い操作を進めてください。</p>
+<ul class="wp-block-list"><li>操作言語で「日本語」を選択</li><li>個人情報保護についての説明を確認</li><li>同居住地の申告人数(申請者を含め最大5名)を選択</li><li>現居住国の入力</li><li>どの国から来たか(アメリカを経由したかの確認)を選択</li><li>パスポートの顔写真が記載されているページをスキャン</li><li>顔写真を撮影</li><li>渡航目的を選択</li><li> 滞在期間を入力</li><li>免疫範囲の確認</li><li>税関申告書についての項目を入力</li></ul>
+<h3 class="wp-block-heading" id="transit10">カナダ政府より公開されているキオスク設置空港</h3>
+<ul class="wp-block-list"><li>トロントピアソン国際空港(YYZ)のターミナル3</li><li> バンクーバー国際空港(YVR)</li><li> カルガリー国際空港(YYC)</li><li> オタワ国際空港(YOW)</li><li> エドモントン国際空港(YEG)</li><li> ハリファックススタンフィールド国際空港(YHZ)</li><li> ビリービショップトロントシティ空港(YTZ)</li><li> モントリオール・トルドー国際空港(YUL)</li><li> ケベックシティジャンルサージュ国際空港(YQB)</li><li> ウィニペグリチャードソン国際空港(YWG)</li></ul>
+<div aria-hidden="true" class="wp-block-spacer" style="height:21px"></div>
+<div class="Class_AB">
+<a aria-label=" (新しいタブで開く)" href="https://www.cbsa-asfc.gc.ca/travel-voyage/pik-bip-eng.html#where" rel="noreferrer noopener" target="_blank">https://www.cbsa-asfc.gc.ca/travel-voyage/pik-bip-eng.html#where</a></div>
+<h3 class="wp-block-heading" id="transit11">自動入国審査モバイルアプリ「CanBorder-eDeclaration」</h3>
+<p>カナダ国境局より提供されている自動入国審査「キオスク」での入力作業を短縮できるモバイルアプリです。<br />このアプリでは事前に入国審査についての情報を登録することができます。入力手続きを完了すると発行されるQRコードをキオスクにかざすと出入国カードがプリントアウトされますので、パスポートと共に入国審査官へ提示しましょう。ただし、同伴者のいない未成年者(18歳未満)は自動入国審査システムを利用できませんのでCanBorder-eDeclarationアプリの使用も許可されておりません。</p>
+<div class="Class_AB">
+<a aria-label=" (新しいタブで開く)" href="https://www.cbsa-asfc.gc.ca/travel-voyage/edeclaration-eng.html" rel="noreferrer noopener" target="_blank">https://www.cbsa-asfc.gc.ca/travel-voyage/edeclaration-eng.html</a></div>
+<h3 class="wp-block-heading" id="transit12">出入国カードにて申告する場合</h3>
+<p>キオスク端末が設置されていない空港の場合には、出入国カードがカナダへ向かう飛行機内で配布されます。飛行機を降りてから記入することもできますが、スムーズに入国審査へ進めるよう記入は機内で済ませておくことをお勧め致します。<br /><br />以下の項目を英語で記入しましょう。※出入国カードの項目は予告なく変更になる場合があります。</p>
+<ul class="wp-block-list"><li>姓名</li><li>生年月日</li><li>国籍</li><li>同行者の姓名、生年月日、国籍(申請者を含め最大4名)</li><li>現住所(丁番地、区市町村、都道府県、国名、郵便番号)</li><li>渡航手段(飛行機はAirを選択)</li><li>航空券番号</li><li>渡航目的</li><li>入国の経路</li><li>入国の際に持ち込む荷物について等の質問</li><li>滞在日数</li><li>署名</li></ul>
+<p>全ての項目を記入しパスポートと共に入国審査官へ提示しましょう。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/canada-mid.jpg" alt="カナダの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="canada-eta.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yj8XuwwIE7A4aXWfhXMsr"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

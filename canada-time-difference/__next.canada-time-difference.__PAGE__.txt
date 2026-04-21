@@ -1,0 +1,129 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T44b0,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダ主要都市と日本の時差・サマータイムについて</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/canada-hero.jpg" alt="カナダ" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダ主要都市と日本の時差・サマータイムについて</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">カナダ主要都市と日本の時差・サマータイムについて</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1"><li><a class="ez-toc-link" href="#time1">カナダと日本の時差は12時間30分～17時間</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#time2">カナダのサマータイム</a></li>
+</ul></li>
+<li><a class="ez-toc-link" href="#time3">カナダのタイムゾーンと日本との時差一覧表</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#time4">セント・ジョンズ(ニューファンドランド時間) の時差</a></li>
+<li><a class="ez-toc-link" href="#time5">ハリファックス(大西洋時間)の時差</a></li>
+<li><a class="ez-toc-link" href="#time6">トロント(東部時間)の時差</a></li>
+<li><a class="ez-toc-link" href="#time7">ウィニペグ(中部時間)の時差</a></li>
+<li><a class="ez-toc-link" href="#time8">レジャイナ(中部時間)の時差</a></li>
+<li><a class="ez-toc-link" href="#time9">エドモントン(山岳部時間)の時差</a></li>
+<li><a class="ez-toc-link" href="#time10">バンクーバー(太平洋時間)の時差</a></li>
+</ul></li>
+<li><a class="ez-toc-link" href="#time11">日本からカナダ主要都市への飛行時間</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#time12">バンクーバー</a></li>
+<li><a class="ez-toc-link" href="#time13">トロント</a></li>
+<li><a class="ez-toc-link" href="#time14">モントリオール</a></li>
+<li><a class="ez-toc-link" href="#time15">ビクトリア</a></li>
+</ul></li>
+<li><a class="ez-toc-link" href="#time16">アメリカ経由の渡航にはeTA(イータ)とESTA(エスタ)が必要</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="カナダ主要都市と日本の時差・サマータイムについて" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/5bed225556501e2720ec0178da12dc4f.webp" type="image/webp" width="640"/><img alt="カナダ主要都市と日本の時差・サマータイムについて" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/5bed225556501e2720ec0178da12dc4f.jpg" width="640"/>
+</picture>
+<p>カナダはロシアに次ぎ世界で2番目に面積を有する広大な国です。そのため、タイムゾーンについてもUTC-8～UTC-3:30の6つに分類され、国内だけでも5時間半もの時差があります。当ページではカナダのタイムゾーンと日本との時差について解説します。</p>
+<h2 class="wp-block-heading" id="time1">カナダと日本の時差は12時間30分～17時間</h2>
+<p>カナダ南西部の太平洋側に位置する主要都市バンクーバーと日本との時差は17時間で、日本が早く時刻が進んでいます。例えば、日本が昼12時ではバンクーバーは前日の夜7時となります。カナダでは日照時間を有効活用することを目的として、例年3月から11月まで「サマータイム」という制度を施行しています。サマータイムを導入している地域ではタイムゾーンが1時間改訂され、期間中における日本との時差は16時間となります。バンクーバーのほか、セント・ジョンズ、トロント、ウィニペグ、レイジャナ、エドモントンなどの主要都市におけるタイムゾーンと日本との時差は下記の一覧表をご確認ください。</p>
+<h3 class="wp-block-heading" id="time2">カナダのサマータイム</h3>
+<p>サマータイムとは日の出時刻が早まる3月～11月にかけて導入される時刻を調整する制度です。<br />2020年度は3月8日から11月1日がサマータイム期間となり、導入している地域では開始日に時計の針を1時間進めます。1時間進めることで日照時間帯を有効活用できるため、サマータイムはカナダ・アメリカのほか欧米を中心に導入されています。日本では サマータイムと呼んでいますが、カナダではデイライト・セービング(Daylight Saving Time＝DST)と呼ばれます。例年カナダのサマータイムは3月の第2日曜日午前2時から始まり、11月の第1日曜日午前2時に終了します。2022年度のサマータイムは3月13日から11月6日までとなります。</p>
+<h2 class="wp-block-heading" id="time3">カナダのタイムゾーンと日本との時差一覧表</h2>
+<div class="scroll-table"><table><tbody><tr><td style="background:#f7f7f7;">タイムゾーン</td><td style="background:#f7f7f7;">日本との時差</td><td style="background:#f7f7f7;">サマータイムの導入</td><td style="background:#f7f7f7;">主要都市</td></tr><tr><td style="background:#fff;">ニューファンドランド時間</td><td>12時間半</td><td>あり</td><td>セント・ジョンズ</td></tr><tr><td style="background:#fff;">大西洋時間</td><td>13時間</td><td>あり</td><td>ハリファックス</td></tr><tr><td style="background:#fff;">東部時間</td><td>14時間</td><td>あり</td><td>トロント</td></tr><tr><td style="background:#fff;">中部時間（CDT）</td><td>15時間</td><td>あり</td><td>ウィニペグ</td></tr><tr><td style="background:#fff;">中部時間（CST）</td><td>15時間</td><td>なし</td><td>レジャイナ</td></tr><tr><td style="background:#fff;">山岳部時間</td><td>16時間</td><td>あり</td><td>エドモントン</td></tr><tr><td style="background:#fff;">太平洋時間</td><td>17時間</td><td>あり</td><td>バンクーバー</td></tr></tbody></table></div>
+<h3 class="wp-block-heading" id="time4">セント・ジョンズ(ニューファンドランド時間) の時差</h3>
+<p>セント・ジョンズが所在するニューファンドランド島はニューファンドランド時間となり、日本との時差は12時間半で日本時刻が早く進んでいます。3月から11月までのサマータイム期間における時差は11時間半となり、訪れる時期に応じて1時間の時刻調整が必要です。<br />セント・ジョンズと混同されがちな「セント・ジョン」はニューブランズウィック州にあり大西洋時間に該当するため、日本との時差は13時間となります。夏季でも最高気温は20度を下回る日が多く、冬季の最低気温はマイナス9度程度です。</p>
+<h3 class="wp-block-heading" id="time5">ハリファックス(大西洋時間)の時差</h3>
+<p>ノバスコシア州に所在するハリファックス、グレースベイのほか、以下の地域が大西洋時間に該当します。</p>
+<ul class="wp-block-list"><li>ニューファンドランド・ラブラドール州(大半の地域およびハッピーバレー・グースベイ)</li><li>ニューブランズウィック州(モンクトン)</li><li>プリンスエドワードアイランド州全域</li><li>ノバスコシア州全域</li></ul>
+<p>以上の地域と日本との時差は13時間となり、日本時刻が早く進んでいます。ハリファックスにおける夏季の最高気温は約25度、冬季の最低気温はマイナス10度で寒暖差が激しい地域となります。</p>
+<h3 class="wp-block-heading" id="time6">トロント(東部時間)の時差</h3>
+<p>トロントと日本との時差は14時間となり、日本時刻が早く進んでいます。<br />トロント、オタワ、サンダー・ベイを含むオンタリオ州の大半の地域のほか、下記の地域が東部時間に該当します。</p>
+<ul class="wp-block-list"><li>ケベック州の大半の地域およびモントリオール</li><li>ヌナブト準州のイカルイト、パングナータングなど西経85°以東の地域</li></ul>
+<p>なお、ケベック州のブラン・サブロンなどの一部地域は大西洋時間に該当します。ブラン・サブロンではサマータイムを適用していないため日本との時差は年間を通じて13時間となります。<br />トロントにおける夏季の最高気温は26度、冬季の最低気温はマイナス6度で年間を通じて比較的過ごしやすい地域です。</p>
+<h3 class="wp-block-heading" id="time7">ウィニペグ(中部時間)の時差</h3>
+<p>マニトバ州に所在するウィニペグのほか、以下の地域が中部時間に該当します。</p>
+<ul class="wp-block-list"><li>ヌナブト準州のランキンインレット、レゾリュート西経85°～102°の地域</li><li>オンタリオ州北西部レイニーリバー地域</li></ul>
+<p>ウィニペグと日本との時差は15時間で、日本時刻が早く進んでいます。<br />ウィニペグにおける夏季の最高気温は26度、冬季の最低気温はマイナス20度を下回る日が多く、非常に寒暖差が激しい地域です。</p>
+<h3 class="wp-block-heading" id="time8">レジャイナ(中部時間)の時差</h3>
+<p>サスカチュワン州のレジャイナなど同州における大半の地域が中部時間に該当しますが、サマータイムを適用していません。よって、年間を通じて日本との時差は15時間となります。<br />レジャイナにおける夏季の最高気温は26度、冬季の最低気温はマイナス22度となり、非常に寒暖差が激しい地域となります。</p>
+<h3 class="wp-block-heading" id="time9">エドモントン(山岳部時間)の時差</h3>
+<p>アルバータ州のエドモントン、カルガリーのほか以下の地域が山岳部時間に該当します。</p>
+<ul class="wp-block-list"><li>ブリティッシュコロンビア州の南東部</li><li>キティクメォト地方イエローナイフ、イヌヴィックなどヌナブト準州の西経102°より西部地域</li><li>ロイドミンスターを含むサスカチュワン州</li></ul>
+<p>山岳部時間と日本との時差は16時間となります。<br />エドモントンにおける夏季の最高気温は20度、冬季の最低気温はマイナス20度となり、5月から9月にかけて降雨量が増加する地域です。</p>
+<h3 class="wp-block-heading" id="time10">バンクーバー(太平洋時間)の時差</h3>
+<p>バンクーバーを含むブリティッシュコロンビア州の大半の地域と以下の地域が太平洋時間に該当します。</p>
+<ul class="wp-block-list"><li>ノースウェスト準州全域</li><li>ホワイトホース、ドーソン・シティを含むユーコン準州</li></ul>
+<p>太平洋時間の地域と日本との時差は17時間となります。<br />バンクーバーにおける夏季の最高気温は22度、冬季の最低気温は1度とカナダの中では最も温暖な気候の地域です。春から夏にかけてのバンクーバーは日中の陽が長く、21時を過ぎても明るいため終日観光を楽しめます。夏は特に日差しが強いため、日焼け止めやサングラスをご用意ください。</p>
+<h2 class="wp-block-heading" id="time11">日本からカナダ主要都市への飛行時間</h2>
+<h3 class="wp-block-heading" id="time12">バンクーバー</h3>
+<p>カナダ西海岸最大の都市であり観光地としても有名なバンクーバーは、毎年多くの観光客が訪れる人気のスポットです。成田－バンクーバー間の直行便は往路で約8時間半、復路は約10時間のフライトとなります。アメリカのシアトル経由では、トランジットを含めて移動時間は14時間ほどかかります。</p>
+<h3 class="wp-block-heading" id="time13">トロント</h3>
+<p>CNタワーなどの高層ビルが立ち並び、五大湖やナイアガラの滝まで2時間ほどで行けるトロントは多くの渡航者が訪れる観光都市です。成田－トロント間の直行便によるフライト時間は往路で約12時間、復路は13時間半程度となります。アメリカのミネアポリスやカナダのバンクーバーを経由する場合の移動時間は、トランジットを含めて15～16時間ほどかかります。</p>
+<h3 class="wp-block-heading" id="time14">モントリオール</h3>
+<p>フランス語が公用語で別名「北米のパリ」とも呼ばれるモントリオールは、ヨーロッパ調の街並みが佇む人気の観光都市です。成田－モントリオール間の直行便は往路で約12時間、復路は約13時間のフライトとなります。モントリオールへの直行便は冬期に減便を行うため、渡航の際は事前に搭乗可能な便をご確認ください。アメリカのデトロイトを経由した場合、移動時間はトランジットを含め往路は約18時間、復路は約20時間となります。</p>
+<h3 class="wp-block-heading" id="time15">ビクトリア</h3>
+<p>年間を通して温暖な気候が続き、美しい庭園や公園で有名な花の街ビクトリア。成田－ビクトリア間の直行便は就航していないため乗り継ぎが必要です。バンクーバーを経由しトランジットを含めると、往路は約11時間、復路は約12時間のフライトとなります。アメリカのシアトル経由を利用した際の往路は約14時間、復路は17時間ほどかかります。</p>
+<h2 class="wp-block-heading" id="time16">アメリカ経由の渡航にはeTA(イータ)とESTA(エスタ)が必要</h2>
+<p>カナダへ渡航する際はオンラインによる<a href="http://xs640823.xsrv.jp/eta/service/index.html">電子渡航認証eTA(イータ)</a>の取得が必須となります。eTA(イータ)は年齢を問わずカナダ渡航の際に全ての方が必要となり、出発する3日前には申請を済ませておくことを推奨しています。なお、<a href="http://xs640823.xsrv.jp/eta/viausa/index.html">アメリカを経由してカナダへ渡航する場合</a>や、<a href="http://xs640823.xsrv.jp/eta/transit/index.html">カナダからアメリカへ渡航する場合</a>はeTA(イータ)のほかにアメリカの電子渡航認証であるESTA(エスタ)の申請も必要となります。ESTA(エスタ)はアメリカへ空路で入国する場合に限り事前申請が必須となる制度で、陸路または海路を利用する場合はESTA(エスタ)を申請することなくアメリカへの入国が認められます。<br />カナダとアメリカの陸路・海路国境は閉鎖が続いていましたが、2021年11月より新型コロナウイルスワクチン接種完了を条件に自由な往来が可能となりました。入国の際に必要となる書類や手続きは、カナダおよびアメリカ両政府が定めるルールにより異なります。渡航を計画の際は施行中の措置を必ずご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/canada-mid.jpg" alt="カナダの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="canada-eta.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yj8XuwwIE7A4aXWfhXMsr"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

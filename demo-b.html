@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>案B：地中海エレガンス × 清涼感</title>
+<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Zen Kaku Gothic New',sans-serif;background:#F5F9FC;color:#1B3A5C}
+
+header{background:#1B3A5C;padding:14px 20px;position:sticky;top:0;z-index:50}
+header .inner{max-width:1000px;margin:0 auto;display:flex;align-items:center;justify-content:space-between}
+header .logo{font-size:20px;font-weight:700;color:#fff;letter-spacing:1px}
+header .logo span{color:#5BB8D4}
+header nav a{font-size:12px;color:rgba(255,255,255,.7);text-decoration:none;margin-left:20px;letter-spacing:1px;transition:color .3s}
+header nav a:hover{color:#5BB8D4}
+
+.hero{position:relative;height:500px;overflow:hidden}
+.hero img{width:100%;height:100%;object-fit:cover}
+.hero .overlay{position:absolute;inset:0;background:linear-gradient(135deg,rgba(27,58,92,.7) 0%,rgba(27,58,92,.3) 100%);display:flex;align-items:center;justify-content:center;text-align:center;padding:40px}
+.hero .overlay .content{max-width:700px;color:#fff}
+.hero .overlay .sub{font-size:12px;letter-spacing:4px;text-transform:uppercase;color:#5BB8D4;margin-bottom:16px}
+.hero .overlay h1{font-size:40px;line-height:1.35;margin-bottom:16px;font-weight:700}
+.hero .overlay p{font-size:15px;opacity:.85;margin-bottom:28px;line-height:1.8}
+.hero .overlay .cta-row{display:flex;gap:16px;justify-content:center}
+.hero .overlay .cta-primary{background:#5BB8D4;color:#fff;padding:14px 36px;font-weight:700;text-decoration:none;font-size:14px;border-radius:4px;transition:all .3s}
+.hero .overlay .cta-primary:hover{background:#4AA0BC;box-shadow:0 4px 20px rgba(91,184,212,.4)}
+.hero .overlay .cta-secondary{border:2px solid rgba(255,255,255,.5);color:#fff;padding:14px 36px;font-weight:700;text-decoration:none;font-size:14px;border-radius:4px;transition:all .3s}
+.hero .overlay .cta-secondary:hover{border-color:#5BB8D4;color:#5BB8D4}
+
+.features{max-width:1000px;margin:-48px auto 0;padding:0 20px;position:relative;z-index:2;display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.feature{background:#fff;border-radius:12px;padding:28px 20px;text-align:center;box-shadow:0 4px 24px rgba(27,58,92,.08);border-top:3px solid #5BB8D4}
+.feature .icon{font-size:28px;margin-bottom:12px;color:#1B3A5C}
+.feature h3{font-size:14px;font-weight:700;margin-bottom:6px}
+.feature p{font-size:11px;color:#6B8CA8;line-height:1.6}
+
+section.content{max-width:1000px;margin:0 auto;padding:48px 20px}
+.sec-header{display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #1B3A5C;padding-bottom:10px;margin-bottom:32px}
+.sec-header h2{font-size:22px;font-weight:700}
+.sec-header .en{font-size:11px;color:#5BB8D4;letter-spacing:2px;text-transform:uppercase}
+
+.country-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+.country-card{background:#fff;border-radius:8px;padding:24px;border:1px solid #D4E4EF;display:flex;gap:20px;transition:all .3s}
+.country-card:hover{border-color:#5BB8D4;box-shadow:0 4px 20px rgba(27,58,92,.06)}
+.country-card .flag{width:56px;height:56px;border-radius:8px;flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:700;color:#fff}
+.country-card .body h3{font-size:16px;margin-bottom:4px}
+.country-card .body .auth{font-size:12px;color:#5BB8D4;font-weight:700;margin-bottom:8px}
+.country-card .body p{font-size:12px;color:#6B8CA8;line-height:1.6;margin-bottom:8px}
+.country-card .body a{color:#1B3A5C;font-size:12px;font-weight:700;text-decoration:none;border-bottom:1px solid #5BB8D4}
+
+footer{background:#1B3A5C;color:rgba(255,255,255,.5);padding:48px 20px;margin-top:48px;text-align:center}
+footer .logo{color:#fff;font-size:20px;font-weight:700;margin-bottom:8px}
+footer .logo span{color:#5BB8D4}
+footer p{font-size:11px}
+
+@media(max-width:768px){
+  .hero{height:400px}
+  .hero .overlay h1{font-size:26px}
+  .features{grid-template-columns:repeat(2,1fr);margin-top:-32px}
+  .country-grid{grid-template-columns:1fr}
+  .hero .overlay .cta-row{flex-direction:column;align-items:center}
+}
+</style>
+</head>
+<body>
+<header><div class="inner">
+  <div class="logo"><span>Trip</span>Navi</div>
+  <nav><a href="#">ESTA</a><a href="#">eTA</a><a href="#">UK-ETA</a><a href="#">ETAS</a><a href="#">Guide</a></nav>
+</div></header>
+
+<div class="hero">
+  <img src="tripnavi-hero-b.jpg" alt="地中海の美しい海岸線">
+  <div class="overlay"><div class="content">
+    <div class="sub">Your Travel Authorization Guide</div>
+    <h1>安心して旅立てる、<br>渡航準備をここから。</h1>
+    <p>ESTA・eTA・UK-ETA・ETAS──各国の電子渡航認証を<br>分かりやすく、正確に、最新情報でお届けします。</p>
+    <div class="cta-row">
+      <a href="#" class="cta-primary">渡航認証を調べる</a>
+      <a href="#" class="cta-secondary">国別ガイド</a>
+    </div>
+  </div></div>
+</div>
+
+<div class="features">
+  <div class="feature"><div class="icon">✈</div><h3>5カ国対応</h3><p>米・加・英・豪・韓国の渡航認証を網羅</p></div>
+  <div class="feature"><div class="icon">📋</div><h3>98ページ</h3><p>申請方法から観光情報まで充実</p></div>
+  <div class="feature"><div class="icon">🔄</div><h3>最新情報</h3><p>制度変更をいち早くキャッチアップ</p></div>
+  <div class="feature"><div class="icon">💰</div><h3>完全無料</h3><p>すべての情報を無料で提供</p></div>
+</div>
+
+<section class="content">
+  <div class="sec-header"><h2>国別渡航認証ガイド</h2><span class="en">Authorization Guides</span></div>
+  <div class="country-grid">
+    <div class="country-card">
+      <div class="flag" style="background:linear-gradient(135deg,#002868,#BF0A30)">US</div>
+      <div class="body"><h3>アメリカ合衆国</h3><div class="auth">ESTA（電子渡航認証）</div><p>ビザ免除プログラム対象国の旅行者に必要な電子渡航認証。申請方法・料金・有効期限を完全ガイド。</p><a href="#">詳細ガイドへ</a></div>
+    </div>
+    <div class="country-card">
+      <div class="flag" style="background:linear-gradient(135deg,#FF0000,#fff);color:#C41E3A">CA</div>
+      <div class="body"><h3>カナダ</h3><div class="auth">eTA（電子渡航認証）</div><p>カナダ入国に必要なeTA。申請手順、トランジット時の対応、よくある質問まで詳しく解説。</p><a href="#">詳細ガイドへ</a></div>
+    </div>
+    <div class="country-card">
+      <div class="flag" style="background:linear-gradient(135deg,#00247D,#CF142B)">UK</div>
+      <div class="body"><h3>イギリス</h3><div class="auth">UK-ETA（電子渡航認証）</div><p>2025年導入のUK-ETA。最新の申請方法・料金・対象者を分かりやすく解説。</p><a href="#">詳細ガイドへ</a></div>
+    </div>
+    <div class="country-card">
+      <div class="flag" style="background:linear-gradient(135deg,#002B7F,#CE1126)">AU</div>
+      <div class="body"><h3>オーストラリア</h3><div class="auth">ETAS（電子渡航認証）</div><p>オーストラリア入国に必要なETAS。観光ビザとの違い、申請の流れを完全ガイド。</p><a href="#">詳細ガイドへ</a></div>
+    </div>
+  </div>
+</section>
+
+<footer><div class="inner">
+  <div class="logo"><span>Trip</span>Navi</div>
+  <p>案B：地中海エレガンス × 清涼感（ネイビー×スカイブルー）</p>
+  <p style="margin-top:8px">© 2026 TripNavi Demo</p>
+</div></footer>
+</body>
+</html>

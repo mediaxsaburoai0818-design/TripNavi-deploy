@@ -1,0 +1,143 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T5671,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダとアメリカの国境線は世界最長の絶景</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/canada-hero.jpg" alt="カナダ" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダとアメリカの国境線は世界最長の絶景</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">カナダとアメリカの国境線は世界最長の絶景</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#border1">カナダとアメリカの国境に跨るナイアガラの滝</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#border1-1">アメリカとの国境に連なる5つの淡水湖・五大湖</a></li>
+<li><a class="ez-toc-link" href="#border1-2">ナイアガラの滝は世界三大瀑布のひとつ</a></li>
+<li><a class="ez-toc-link" href="#border1-3">カナダ滝(ホースシュー滝)</a></li>
+<li><a class="ez-toc-link" href="#border1-4">アメリカ滝(アメリカ滝・ブライダルベール滝)</a></li>
+<li><a class="ez-toc-link" href="#border1-5">国境の橋(レインボーブリッジ)</a></li>
+<li><a class="ez-toc-link" href="#border1-6">ナイアガラの滝(成り立ちと現在)</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#border2">ナイアガラの滝へのアクセス</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#border2-1">トロント・ピアソン国際空港からの行き方</a></li>
+<li><a class="ez-toc-link" href="#border2-2">トロント市内からの行き方</a></li>
+<li><a class="ez-toc-link" href="#border2-3">アメリカ(ニューヨーク)からの行き方</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#border3">新型コロナウイルスによる国境閉鎖状況</a></li>
+<li><a class="ez-toc-link" href="#border4">短期のカナダ入国・渡航にはeTA(イータ)の事前申請が必要です</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="アメリカカナダ国境" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/a8de41083f804e8af52b86f6987e9dce.webp" type="image/webp" width="640"/><img alt="アメリカカナダ国境" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/a8de41083f804e8af52b86f6987e9dce.jpg" width="640"/>
+</picture>
+<p>アメリカと接するカナダのオンタリオ州には国境を兼ねる”ナイアガラの滝”があります。両国を代表する景勝地として知られ、世界中から年間1,200万人を超える観光客が訪れます。このページではカナダとアメリカの国境に跨る”ナイアガラの滝”と、新型コロナウイルスの感染拡大に伴う国境封鎖について解説します。</p>
+<h2 class="wp-block-heading" id="border1">カナダとアメリカの国境に跨るナイアガラの滝</h2>
+<h3 class="wp-block-heading" id="border1-1">アメリカとの国境に連なる5つの淡水湖・五大湖</h3>
+<p>五大湖とはカナダとアメリカとの国境付近に連なる5つの淡水湖で、ミシガン湖を除く4つの湖(スペリオル湖・ヒューロン湖・エリー湖・オンタリオ湖)は両国の国境を跨いでいます。5つの湖はつながっており、<a href="http://xs640823.xsrv.jp/eta/news/detail/990100/quebec.html">モントリオールとケベックシティ</a>を通り最終的に北東のセントローレンス湾へ注がれます。最も上流にあるスペリオル湖は世界最大の淡水湖で、面積は琵琶湖の約120倍となります。五大湖周辺は北アメリカ有数の工業地帯として栄え、多くの港湾都市や観光都市が築かれました。カナダの人口の半分以上はエリー湖からセントローレンス湾へつながる一帯に集中しており、カナダで最も人口が多い<a href="http://xs640823.xsrv.jp/eta/news/detail/990100/ontario.html">トロント</a>も五大湖沿岸にあります。アメリカ側では工業都市として知られる<a href="https://www.gousa.jp/destination/detroit" rel="noreferrer noopener" target="_blank">デトロイト</a>や<a href="https://www.enjoyillinois.com/travel-illinois/category/chicago" rel="noreferrer noopener" target="_blank">シカゴ</a>が五大湖の周辺に位置します。両国の都市は湖を挟んで互いに活性化することで産業と人口を拡大し、”五大湖メガロポリス”と呼ばれます。</p>
+<h3 class="wp-block-heading" id="border1-2">ナイアガラの滝は世界三大瀑布のひとつ</h3>
+<p>五大湖のエリー湖とオンタリオ湖のあいだを流れるナイアガラ川には<a href="https://www.niagaraparks.com/" rel="noreferrer noopener" target="_blank">ナイアガラの滝</a>があります。ナイアガラの滝は南米のアルゼンチンとブラジルに跨る<a href="https://en.iguassu.com.br/" rel="noreferrer noopener" target="_blank">イグアスの滝</a>、アフリカのジンバブエとザンビアに跨る<a href="https://www.zimbabwetourism.net/listing/victoria-falls/" rel="noreferrer noopener" target="_blank">ヴィクトリアの滝</a>とともに世界三大瀑布のひとつに数えられます。世界三大瀑布の中で唯一世界遺産への登録がされていませんが、3つの滝の中では最も日本から近く冬期を除き気候が温暖なため日本人観光客も多く訪れます。空港からのアクセスも良く、カナダ側とアメリカ側で異なる景色を楽しむことができます。ナイアガラの滝は馬蹄のように大きく湾曲していることで有名なホースシュー滝(カナダ滝)と、幅が異なる2つの滝が並ぶアメリカ滝で構成されます。滝つぼ付近の霧の中を進むクルーズツアーや滝の傍まで歩いて近付くツアーがあり、ナイアガラの滝を間近で見ることができます。夜には<a href="https://www.niagarafallstourism.com/fireworks/" rel="noreferrer noopener" target="_blank">花火</a>が打ち上げられ、カラフルに<a href="https://www.niagarafallstourism.com/illumination/" rel="noreferrer noopener" target="_blank">ライトアップ</a>された滝は幻想的な雰囲気となります。</p>
+<div class="Class_J">
+<h4>クルーズ船ツアー</h4>
+<p><strong>カナダ側発着：</strong><a href="https://www.cityexperiences.com/niagara/city-cruises/niagara/voyage-to-the-falls-boat-tour/" rel="noreferrer noopener" target="_blank">ナイアガラシティクルーズ (旧ホーンブロワー・ナイアガラクルーズ)</a><br /><strong>アメリカ側発着：</strong><a href="https://www.maidofthemist.com/" rel="noreferrer noopener" target="_blank">霧の乙女号 (Maid of Mist)</a></p>
+</div>
+<h3 class="wp-block-heading" id="border1-3">カナダ滝(ホースシュー滝)</h3>
+<p>ホースシュー滝はナイアガラの滝を構成する3つの滝の中で唯一カナダ側にあります。流れ落ちる水量は3つの滝の中で最も多く、約675mにわたる湾曲した滝からナイアガラ川の約90％の水が流れ落ちます。ホースシュー滝の東端はニューヨーク州のゴート島につながり、ナイアガラの滝の観測施設”Terrapin Point”があります。西端では滝の裏側からホースシュー滝を眺めるツアー”<a href="https://www.niagaraparks.com/visit/attractions/journey-behind-the-falls/" rel="noreferrer noopener" target="_blank">Journey Behind the Falls</a>”が催行され、クルーズ船ツアーと並ぶ人気のアクティビティとなります。ホースシュー滝を上から眺めたい方は高さ160mの展望塔”<a href="https://www.skylon.com/" rel="noreferrer noopener" target="_blank">スカイロン・タワー</a>”がお勧めです。屋内外の展望デッキからはホースシュー滝とアメリカ滝を一望でき、夜にはライトアップされた滝と街の夜景を楽しむことができます。</p>
+<h3 class="wp-block-heading" id="border1-4">アメリカ滝(アメリカ滝・ブライダルベール滝)</h3>
+<p>カナダ側にあるホースシュー滝をカナダ滝と呼ぶように、アメリカ側にある滝はアメリカ滝と呼ばれます。アメリカ滝はホースシュー滝(カナダ滝)の下流に合流する2つの滝で構成されます。滝幅260mの広い滝はアメリカ滝と呼ばれ、上流から流れ落ちた岩石が滝つぼに堆積し奥行きのある流れを生み出しています。アメリカ滝の隣には幅15mほどのブライダルベール滝が流れています。2つの滝を含む一帯は<a href="https://www.niagarafallsstatepark.com/" rel="noreferrer noopener" target="_blank">ナイアガラフォールズ州立公園</a>に指定され、アメリカを代表する観光名所となります。アメリカ側の滝を身近で体験したい方は”<a href="https://www.niagarafallsstatepark.com/attractions-and-tours/cave-of-the-winds" rel="noreferrer noopener" target="_blank">風の洞窟(Cave of the Winds)</a>”ツアーがお勧めです。ホースシュー滝(カナダ滝)とアメリカ滝に挟まれたゴート島からエレベーターで地下53mまで下り、ブライダルベール滝のすぐ傍まで歩いて近づくことができます。</p>
+<h3 class="wp-block-heading" id="border1-5">国境の橋(レインボーブリッジ)</h3>
+<p>アメリカ滝の下流に架かるデッキアーチ構造の橋が<a href="https://www.niagarafallsbridges.com/" rel="noreferrer noopener" target="_blank">ナイアガラフォールズ国際レインボーブリッジ</a>です。通称”レインボーブリッジ”と呼ばれ、カナダの<a href="https://niagarafalls.ca/" rel="noreferrer noopener" target="_blank">オンタリオ州ナイアガラフォールズ市</a>とアメリカの<a href="https://niagarafallsusa.org/" rel="noreferrer noopener" target="_blank">ニューヨーク州ナイアガラフォールズ市</a>を結びます。かつては”ハネムーン・ブリッジ”の愛称で親しまれたフォールズビューブリッジが架かっていましたが、1938年に流れてきた氷塊によって崩壊。1941年に高さ15mの橋台を備えたナイアガラフォールズ国際レインボーブリッジが完成しました。全長約290m、高さは約62mあり、バスや車のほか自転車や徒歩でも渡ることができます。5～9月の週末は花火が打ち上げられ、アメリカ滝・カナダ滝と花火を一望できる人気の景観スポットとなります。日本国籍を有する方など、ビザを取得せずカナダへの入国が認められる方は、パスポートと入国税、通行料のみで橋を渡ることができます。</p>
+<h3 class="wp-block-heading" id="border1-6">ナイアガラの滝(成り立ちと現在)</h3>
+<p>ナイアガラの滝は氷河期の終わりとなる約13,000年前に形成されました。ナイアガラの名はネイティブ・アメリカンの言葉で”雷轟く水”を意味する”ニアガル”に由来します。流れ落ちる水量は毎秒3,000トンで、世界最大量となります。かつては現在の位置より下流にありましたが、膨大な水の流れにより断崖が徐々に浸食され今の姿となりました。現在は浸食を防ぐ対策が講じられていますが、25,000年後にはエリー湖まで浸食が到達し滝がなくなってしまうと言われています。また、流れ落ちる水の一部は水力発電に利用され、カナダとアメリカへ多くの電力を供給し両国の生活を支えています。</p>
+<picture>
+<source alt="ナイアガラの滝" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/6e8792e94788d24eac813b7930a32fef.webp" type="image/webp" width="640"/><img alt="ナイアガラの滝" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/6e8792e94788d24eac813b7930a32fef.jpg" width="640"/>
+</picture>
+<h2 class="wp-block-heading" id="border2">ナイアガラの滝へのアクセス</h2>
+<p>ナイアガラの滝の最寄り空港であるトロント・ピアソン国際空港、トロント市内、アメリカ(ニューヨーク)を出発点とした3つのルートを紹介します。なお、日本からトロント・ピアソン国際空港へは<a href="https://www.aircanada.com/jp/ja/aco/home.html#/" rel="noreferrer noopener" target="_blank">AIR CANADA</a>と<a href="https://www.ana.co.jp/ja/jp/international/" rel="noreferrer noopener" target="_blank">全日空(ANA)</a>が直行便(約12時間)を運航しています。</p>
+<h3 class="wp-block-heading" id="border2-1">トロント・ピアソン国際空港からの行き方</h3>
+<p><a href="https://www.torontopearson.com/en/community" rel="noreferrer noopener" target="_blank">トロント・ピアソン国際空港</a>へ到着後、ナイアガラの滝までの約125kmはシャトルバスまたはタクシーで移動します。所要時間は約90分ですが、トロントでは朝・夕に交通渋滞が起こることがあるため早めの準備をお勧めします。</p>
+<div class="Class_AB">
+<strong>シャトルバス</strong><br /><a href="https://www.niagaraairbus.com/" rel="noreferrer noopener" target="_blank">Niagara Air Bus</a><br /><a href="https://www.ridebooker.com/" rel="noreferrer noopener" target="_blank">Ride Bookre</a><br /><strong>タクシー</strong><br /><a href="http://www.niagarafallstaxi.com/" rel="noreferrer noopener" target="_blank">NIAGARA FALLS TAXI</a></div>
+<h3 class="wp-block-heading" id="border2-2">トロント市内からの行き方</h3>
+<p>トロント市内からは電車とバスで向かう方法が一般的です。夏期の観光シーズン中は週末のみ直行電車が運行されますが、平日およびオフシーズンはバーリントン駅でバスへの乗り換えが必要となります。直通電車の運行がない平日などはトロントのバス発着場からナイアガラ方面行きのバスを利用するのが便利です。</p>
+<div class="Class_J">
+<h4>直行電車(シーズン中の週末のみ運行)</h4>
+<p>トロントのユニオン駅からNiagara Falls行きに乗車し、ナイアガラ駅で下車。所要時間は約2時間です。</p>
+</div>
+<div class="Class_J">
+<h4>電車＋バス</h4>
+<p>トロントのユニオン駅からLakeshore West行きに乗車し、バーリントン駅で下車。バーリントン駅からNiagara Falls行きのバスに乗車します。所要時間は約2時間50分です。<br /><strong>公式サイト：</strong><a href="https://www.gotransit.com/en/" rel="noreferrer noopener" target="_blank">GO Transit</a></p>
+</div>
+<div class="Class_J">
+<h4>バス</h4>
+<p>トロントのベイストリート(Bay St)とレイクショアブルバード(Lakeshore Blvd)の角にあるユニオンステーションバスターミナルからNiagara Falls行きのバスに乗車します。所要時間は約2時間です。<br /><strong>公式サイト：</strong><a href="https://ca.megabus.com/" rel="noreferrer noopener" target="_blank">megabus</a></p>
+</div>
+<h3 class="wp-block-heading" id="border2-3">アメリカ(ニューヨーク)からの行き方</h3>
+<p>ニューヨークからナイアガラの滝へは飛行機とバスを乗り継ぐ方法と、長距離列車を利用する方法があります。</p>
+<div class="Class_J">
+<h4>飛行機＋バス</h4>
+<p>ニューヨークの<a href="https://www.jfkairport.com/" rel="noreferrer noopener" target="_blank">ジョン・F・ケネディ国際空港</a>からナイアガラの滝の最寄り空港である<a href="https://www.buffaloairport.com/" rel="noreferrer noopener" target="_blank">バッファローナイアガラ国際空港</a>へ向かいます。バッファローナイアガラ国際空港へ到着後、ナイアガラの滝までの約41kmはシャトルバスまたはタクシーで移動します。バッファローナイアガラ国際空港からの所要時間は約50分です。<ul><li><a href="https://www.niagaraairbus.com/Buffalo-Airport/" rel="noreferrer noopener" target="_blank">Niagara Air Bus</a></li><li><a href="https://www.buffaloairporttaxi.com/" rel="noreferrer noopener" target="_blank">BUFFALO AIRPORT TAXI SERVICE</a></li><li><a href="https://buffaloairportshuttle.com/" rel="noreferrer noopener" target="_blank">Buffalo Airport Shuttle</a></li><li><a href="https://www.aalimoniagara.com/" rel="noreferrer noopener" target="_blank">AA Limo Niagara Airport Limousine Services</a></li></ul></p>
+</div>
+<div class="Class_J">
+<h4>長距離列車</h4>
+<p>ニューヨーク州ペンシルベニア駅から、<a href="https://www.amtrak.com/home.html" rel="noreferrer noopener" target="_blank">アムトラック(全米鉄道旅客公社 / National Railroad Passenger Corporation)</a>が運行している長距離列車に乗車しナイアガラフォールズ駅で下車します。所要時間は約9～10時間です。</p>
+</div>
+<p>運賃や運行スケジュールは各交通機関へご確認ください。</p>
+<h2 class="wp-block-heading" id="border3">新型コロナウイルスによる国境閉鎖状況</h2>
+<p>カナダとアメリカの国境には五大湖の沿岸都市をはじめ、自動車や鉄鋼など両国で産業が一体化している地域が多くあります。また、ナイアガラの滝では観光資源を共有していることもあり、国境の往来は柔軟に行われてきました。しかし、2019年に発生した新型コロナウイルスの世界的な感染拡大により、両国政府は国境の一時封鎖に同意。カナダ連邦政府は2020年3月よりカナダ国籍者または永住者以外の入国を原則として禁止しました。その後、入国制限を緩和し留学生やカナダ国籍者または永住者の家族の入国を認める一方、引き続き観光客の入国を禁止。経済的に深刻な影響を受ける国境地域からは早期の封鎖解除を求める声が上がりましたが、両政府は繰り返し期限を延長しました。2021年6月、DHS(米国土安全保障省)はカナダとの入国制限緩和に向け前向きな協議を進めていることを示唆。翌7月にカナダのトルドー首相はアメリカとの国境封鎖を8月9日に解除する意向を表明しました。現在は条件付きでカナダへの入国を認めています。入国に関する要件は当該国における感染状況により変更となる場合があるため、カナダへの渡航を検討中の方は<a href="http://xs640823.xsrv.jp/eta/news/detail/990100.html">カナダの渡航関連最新ニュース</a>にて最新情報をご確認ください。</p>
+<h2 class="wp-block-heading" id="border4">短期のカナダ入国・渡航にはeTA(イータ)の事前申請が必要です</h2>
+<p>日本国籍の方が空路でカナダへ渡航する際は、年齢を問わず電子渡航認証eTA(イータ)の申請手続きが必須となります。一般的な観光旅行を目的としてカナダへ渡航する場合は、ビザではなくeTA(イータ)を申請することで滞在が認められます。eTA(イータ)を管轄するIRCC(カナダ移民・難民・市民権省)では、少なくとも出発3日前までにオンラインにて申請を行うことを推奨しています。eTA(イータ)に関する詳細は「<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/canada-mid.jpg" alt="カナダの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="canada-eta.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yj8XuwwIE7A4aXWfhXMsr"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

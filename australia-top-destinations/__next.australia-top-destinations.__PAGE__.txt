@@ -1,0 +1,177 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T8cac,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オーストラリアのエリア別観光スポット・見どころ15選</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/australia-hero.jpg" alt="オーストラリア" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>オーストラリアのエリア別観光スポット・見どころ15選</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">オーストラリアのエリア別観光スポット・見どころ15選</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1"><li><a class="ez-toc-link" href="#tourism1">都市エリアとリゾートエリアに分かれるオーストラリア</a></li>
+<li><a class="ez-toc-link" href="#tourism2">オーストラリア旅行の計画</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#tourism3">移動距離に注意しましょう</a></li>
+<li><a class="ez-toc-link" href="#tourism4">ETAS(イータス)を申請しましょう</a></li>
+</ul></li>
+<li><a class="ez-toc-link" href="#tourism5">エリア別おすすめ観光スポット</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#tourism6">パース(西オーストラリア州) / パース国際空港(PER)</a></li>
+<li><a class="ez-toc-link" href="#tourism7">シドニー(ニューサウスウェールズ州) / シドニー国際空港(SYD)</a></li>
+<li><a class="ez-toc-link" href="#tourism8">メルボルン(ビクトリア州) / メルボルン国際空港(MEL)</a></li>
+<li><a class="ez-toc-link" href="#tourism9">ケアンズ(クイーンズランド州) / ケアンズ国際空港(CNS)</a></li>
+</ul></li>
+<li><a class="ez-toc-link" href="#tourism10">オーストラリア旅行のベストシーズン</a></li>
+<li><a class="ez-toc-link" href="#tourism11">オーストラリアへの旅行計画</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="シドニーの街" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/8bbe03321ba57b947585382e0f2ddb1c.webp" type="image/webp" width="640"/>
+<img alt="シドニーの街" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/8bbe03321ba57b947585382e0f2ddb1c.jpg" width="640"/>
+</picture>
+<h2 class="wp-block-heading" id="tourism1">都市エリアとリゾートエリアに分かれるオーストラリア</h2>
+<p>日本とは赤道を挟み南半球に位置するオーストラリア。<br />面積は日本の約20倍もの約769万2,024キロ平方メートルとなり、ロシア、カナダ、アメリカ、中国、ブラジルに次ぎ世界で6番目に広い面積となります。総人口の約2,499万人のほとんどがシドニーやメルボルンなど海岸部の主要都市に集中し、内陸部の人口密度は低く手付かずの大自然が広がります。人口が集中する大都市エリアと、自然環境が豊富なリゾートエリアが点在するオーストラリアのおすすめエリアや旅行計画で注意するべきことをご紹介します。</p>
+<h2 class="wp-block-heading" id="tourism2">オーストラリア旅行の計画</h2>
+<p>オーストラリアは面積が広いため、目的地を1カ所決めその周辺を移動するプランや飛行機を利用し国内を効率よく周遊するプランがおすすめです。</p>
+<h3 class="wp-block-heading" id="tourism3">移動距離に注意しましょう</h3>
+<p>オーストラリアの旅行先ランキング1、2を争うシドニーとメルボルン間は、車で約9時間かかります。一方で、飛行機を利用するとシドニー国際空港からメルボルン国際空港へは約1時間半となり大幅に時間が短縮されます。オーストラリアは主要都市や観光地付近に空港がある場所が多いため、飛行機で移動することをおすすめします。</p>
+<h3 class="wp-block-heading" id="tourism4">ETAS(イータス)を申請しましょう</h3>
+<p>オーストラリアに90日以内の観光を目的として訪れる方は、ビザではなく電子渡航認証システム“ETAS(イータス)”を申請しましょう。ETAS(イータス)申請にはパスポート、Eメールアドレス、クレジットカードが必要です。ETAS(イータス)は申請から通常12時間以内に結果が通知され、スピーディーに取得できます。ETAS(イータス)申請について詳しくは<a href="http://xs640823.xsrv.jp/etas/service/index.html">こちら</a>をご確認ください。</p>
+<h2 class="wp-block-heading" id="tourism5">エリア別おすすめ観光スポット</h2>
+<p>主要な空港があるエリア別におすすめの観光スポットを紹介します。<br />オーストラリアには下記で紹介する空港以外に、ゴールドコースト空港、エアーズロック空港、アデレード空港、ブリスベン空港などがあり、その周辺にも様々な街や観光地があります。気になる方はぜひそちらも合わせて調べてください。</p>
+<h3 class="wp-block-heading" id="tourism6">パース(西オーストラリア州) / パース国際空港(PER)</h3>
+<p>パースは<a href="http://xs640823.xsrv.jp/etas/news/detail/perth.html">西オーストラリア州</a>の州都であり、”世界で一番美しい街”と称されます。以前は日本からの直行便はなくシドニー国際空港などでの乗り継ぎが必要でしたが、2019年9月に成田国際空港から直行便が就航されアクセスが良くなりました。</p>
+<picture>
+<source alt="キングスパーク＆植物園 / Kings Park and Botanic Garden" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/f2d7f1320d180998a089499159d7cb1a.webp" type="image/webp" width="640"/><img alt="キングスパーク＆植物園 / Kings Park and Botanic Garden" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/f2d7f1320d180998a089499159d7cb1a.jpg" width="640"/>
+</picture>
+<h4 class="wp-block-heading">キングスパーク＆植物園 / Kings Park and Botanic Garden</h4>
+<p>パースの市街地から無料バスが運行している<a href="https://www.westernaustralia.com/jp/Destination/%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF_(Kings_Park)/56b267a42880253d74c4fca7" rel="noreferrer noopener" target="_blank">キングスパーク</a>。小高い丘の上にあるので雄大に流れるスワンリバーとパースの街が一望できる絶景スポットです。400ヘクタールにおよぶ敷地内には約80種類の鳥やオーストラリアの固有種を含む319種類の植物が咲き、観光客の目を癒してくれます。毎年9月に<a href="http://xs640823.xsrv.jp/etas/news/detail/perth.html">西オーストラリア州</a>に自生する花々が咲く「キングスパークフェスティバル」、12月から3月に大きな芝生エリアでの野外映画上映会「ムーンライト・シネマ」など毎年様々なイベントが開催されます。</p>
+<picture>
+<source alt="ロットネスト島 / Rottnest Island" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/0e700c652fb4f03bc6ad6a3fc5a99e67.webp" type="image/webp" width="640"/><img alt="ロットネスト島 / Rottnest Island" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/0e700c652fb4f03bc6ad6a3fc5a99e67.jpg" width="640"/>
+</picture>
+<h4 class="wp-block-heading">ロットネスト島 / Rottnest Island</h4>
+<p>パース南部の海岸地区フリーマントルからフェリーで約30分の場所にある<a href="https://www.australia.com/ja-jp/places/perth-and-surrounds/guide-to-rottnest-island.html" rel="noreferrer noopener" target="_blank">ロットネスト島</a>。島全体がA級(最高クラス)自然保護区の国立公園に指定され、徹底した保護政策のもと手付かずの自然が数多く残されています。島内に生息する有袋類クアッカワラビーこと通称クォッカ(Quokka)は”世界一幸せな動物”と称され、特に観光客に近寄る人懐っこさと愛嬌のある表情で人気があります。島内にはレンタサイクルや乗り降り自由のバスが周回しているので、“インド洋の宝石”と呼ばれるエメラルドグリーンの海が望める丘やビーチを周遊するのもおすすめです。</p>
+<picture>
+<source alt="スワン・バレー / Swan Valley" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/a83584d9f966f8d1c7d5cea6ac67260a.webp" type="image/webp" width="640"/><img alt="スワン・バレー / Swan Valley" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/a83584d9f966f8d1c7d5cea6ac67260a.jpg" width="640"/>
+</picture>
+<h4 class="wp-block-heading">スワン・バレー / Swan Valley</h4>
+<p>西オーストラリア州で最も古いワインの産地として知られる<a href="https://www.swanvalley.com.au/" rel="noreferrer noopener" target="_blank">スワン・バレー</a>はスワン川沿いに位置し、パースから車で約30分の場所にあります。街道には150軒以上のワイナリーやビール醸造所、レストラン、スイーツや雑貨を扱うマーケットなどが並び、ワインや地場産品を求め多くの観光客が訪れます。ワイナリー巡りに迷う方はビジターセンターが提案する<a href="https://www.swanvalley.com.au/See-and-Do/The-Swan-Valley-Trails" rel="noreferrer noopener" target="_blank">8つのモデルコース</a>を参考にしましょう。約190年の歴史を持つ代表的なワイナリー”<a href="https://www.olivefarmwines.com.au/" rel="noreferrer noopener" target="_blank">オリーブ・ファーム・ワインズ</a>”では40種類以上あるワインの試飲や農園内を散策する<a href="https://www.swanvalley.com.au/See-and-Do/Masterclasses-Events/Masterclasses/Tour-and-taste-at-Olive-Farm?BestBetMatch=olive%20farm%7C6b0b39c0-24e3-4047-8177-407760270add%7C136c1576-9e4a-46f4-ac6f-9141611ab86d%7Cen-AU" rel="noreferrer noopener" target="_blank">ガイド付きツアー</a>が催行されています。また、パースからスワン川を遡る<a href="https://www.captaincookcruises.com.au/cruises/wine-cruises" rel="noreferrer noopener" target="_blank">クルーズツアー</a>ではスワン・バレーの景色を楽しみながらワイナリーを巡ることができます。</p>
+<picture>
+<source alt="コテスロー・ビーチ / Cottesloe Beach" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/0d2debfe639cd96a59a4b33d28f449d4.webp" type="image/webp" width="640"/><img alt="コテスロー・ビーチ / Cottesloe Beach" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/0d2debfe639cd96a59a4b33d28f449d4.jpg" width="640"/>
+</picture>
+<h4 class="wp-block-heading">コテスロー・ビーチ / Cottesloe Beach</h4>
+<p><a href="https://beachsafe.org.au/beach/wa/cottesloe/cottesloe/cottesloe-beach" rel="noreferrer noopener" target="_blank">コテスロー・ビーチ</a>はパースと<a href="http://xs640823.xsrv.jp/etas/fremantle/index.html">フリーマントル</a>の中間にあり、1kmにわたる白い砂浜で知られる人気のビーチです。「コテスロー」「ノース・コテスロー」「サウス・コテスロー」の3つのエリアに分れ、エリアごとに散策やシュノーケリング、サーフィンなどが楽しめます。パースから車で約30分、最寄り駅のコテスロー駅からは徒歩20分とアクセスが良く、ビーチ沿いのレストランではインド洋に沈む夕日を眺めながら食事をすることができます。毎年3月には野外彫刻展”<a href="https://sculpturebythesea.com/cottesloe/" rel="noreferrer noopener" target="_blank">スカルプチャー・バイ・ザ・シー</a>”が開催され、野外ギャラリーに変わったビーチに様々なアート作品が展示されます。</p>
+<h3 class="wp-block-heading" id="tourism7">シドニー(ニューサウスウェールズ州) / シドニー国際空港(SYD)</h3>
+<p><a href="http://xs640823.xsrv.jp/etas/news/detail/sydney.html">ニューサウスウェールズ州</a>の州都シドニーは、国内総人口の5分の1に及ぶ約450万人が居住するオーストラリア最大の都市です。2000年に開催された夏季オリンピック「シドニーオリンピック」の開催地としても有名です。シドニー国際空港は日本の成田国際空港、羽田空港、関西国際空港、新千歳空港から直行便が発着し、国際線46路線、国内線44路線の航空会社が就航しているオーストラリア最大のハブ空港です。2020年3月に全日空(ANA)がシドニー便を増便するなど、更なる旅行者数の増加が見込まれています。</p>
+<picture>
+<source alt="シドニー・オペラハウス / Sydney Opera House" class="img_big m20-t m20-b lazyloaded" height="428" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/fce401bc9302e5910493540079c6a0fa.webp" type="image/webp" width="640"/><img alt="シドニー・オペラハウス / Sydney Opera House" class="img_big m20-t m20-b" decoding="async" height="428" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/fce401bc9302e5910493540079c6a0fa.jpg" width="640"/>
+</picture>
+<h4 class="wp-block-heading">シドニー・オペラハウス / Sydney Opera House</h4>
+<p>ヨットの白い帆や貝殻などに例えられる屋根が特徴的でシドニーのシンボルとして有名な<a href="https://www.sydneyoperahouse.com/" rel="noreferrer noopener" target="_blank">オペラハウス</a>は、1959年に着工されてから14年の歳月をかけて建設されました。2007年には世界遺産に登録され、20世紀を象徴する建造物のひとつとして親しまれています。館内ではコンサートやオペラ、演劇、バレエなど毎年約1600の公演が開催されています。</p>
+<picture>
+<source alt="シドニー湾＆ハーバーブリッジ / Sydney Harbour＆Sydney Harbour Bridge" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/1a170e677dc76082a95fde3ae29c6246.webp" type="image/webp" width="640"/><img alt="シドニー湾＆ハーバーブリッジ / Sydney Harbour＆Sydney Harbour Bridge" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/1a170e677dc76082a95fde3ae29c6246.jpg" width="640"/>
+</picture>
+<h4 class="wp-block-heading">シドニー湾＆ハーバーブリッジ / Sydney Harbour＆Sydney Harbour Bridge</h4>
+<p>シドニーは港湾都市としても知られ、シドニー・ハーバーとボタニー湾を総称した“シドニー湾”は世界三大美港に数えられます。シドニー湾にかかるハーバーブリッジはオペラハウスに次ぐシドニーのシンボル的存在で、シングルアーチの形状から「オールドコートハンガー/Old Coat Hanger(古い洋服掛け)」という愛称で親しまれます。毎年5月から6月に開催される “<a href="https://www.vividsydney.com/" rel="noreferrer noopener" target="_blank">ヴィヴィッドシドニー/Vivid Sydney</a>”では町全体が色鮮やかにライトアップされ、昼間とは表情の違うハーバーブリッジやシドニーの街並みを楽しむことができます。また、ハーバーブリッジのアーチを登れる“<a href="https://www.bridgeclimb.com/" rel="noreferrer noopener" target="_blank">ブリッジ・クライム/Bridge Climb</a>”は観光客に人気のアトラクションです。観光客向けのツアーが多数開催されているので初心者でも安心して登ることができ、夜明けや日中、夕暮れ時と参加時間が選べます。</p>
+<picture>
+<source alt="ハンター・バレー / Hunter Valley" class="img_big m20-t m20-b lazyloaded" height="425" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/1368735e02a06349f2d6e781133e10c0.webp" type="image/webp" width="640"/><img alt="ハンター・バレー / Hunter Valley" class="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/1368735e02a06349f2d6e781133e10c0.jpg" width="640"/>
+</picture>
+<h4 class="wp-block-heading">ハンター・バレー / Hunter Valley</h4>
+<p>オーストラリア最古のワイン生産地“<a href="https://www.australia.com/ja-jp/places/sydney-and-surrounds/guide-to-the-hunter-valley.html" rel="noreferrer noopener" target="_blank">ハンター・バレー</a>”には、数えきれないほどのワイナリーがあります。専門家からレクチャーを受けながらワイナリーを巡るオプショナルツアーに参加するとワインを試飲することができるので、自分に合ったワインが見つけられるかもしれません。シドニー市内発のツアーもあるので、電車で向かうのが不安な方やグループ旅行の方も安心して訪れることができます。</p>
+<picture>
+<source alt="ボンダイ・ビーチ / Bondi Beach" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/a4491cee79b3f18cd7517c977e67d664.webp" type="image/webp" width="640"/><img alt="ボンダイ・ビーチ / Bondi Beach" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/a4491cee79b3f18cd7517c977e67d664.jpg" width="640"/>
+</picture>
+<h4 class="wp-block-heading">ボンダイ・ビーチ / Bondi Beach</h4>
+<p>シドニー周辺には大小100以上のビーチが点在します。<a href="https://jp.sydney.com/things-to-do/beach-lifestyle/bondi-beach" rel="noreferrer noopener" target="_blank">ボンダイ・ビーチ</a>は「ボンダイ・バブル」の愛称で親しまれ、シドニー中心街から電車または直行バスで約30分という好立地から多くの家族連れや海水浴客で賑わいます。一年を通してサーフィンができる名所として知られ、ビーチの監視を行う”<a href="https://sls.com.au/" rel="noreferrer noopener" target="_blank">サーフライフセービングクラブ</a>”発祥の地でもあります。ビーチの西端には海と一体となった海水プール”<a href="https://icebergs.com.au/" rel="noreferrer noopener" target="_blank">ボンダイ・アイスバーグ</a>”があり、ビーチ沿いのキャンベル・パレード通りでは毎週末に”<a href="https://bondimarkets.com.au/" rel="noreferrer noopener" target="_blank">ボンダイ・マーケット</a>”が開催されます。</p>
+<h3 class="wp-block-heading" id="tourism8">メルボルン(ビクトリア州) / メルボルン国際空港(MEL)</h3>
+<p>イギリス・エコノミスト誌が発表している“世界で最も住みやすい都市”で7年連続1位に選ばれたオーストラリア第2の都市<a href="http://xs640823.xsrv.jp/etas/news/detail/melbourne.html">メルボルン</a>。ヨーロッパ調の歴史的建造物を今に残しながら、郊外には大自然が広がっている見どころ満載な都市です。メルボルン国際空港は<a href="http://xs640823.xsrv.jp/etas/news/detail/melbourne.html">ビクトリア州</a>タラマリン地区に位置し、別名タラマリン空港と呼ばれています。国内線の就航数の多さが国内随一で、シドニー国際空港に次ぐ主要ハブ空港となります。オーストラリアは都市ごとが離れているのでメルボルン国際空港を拠点に国内線を利用した観光プランもおすすめです。</p>
+<picture>
+<source alt="デグレイブス・ストリート / Degraves Street" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/6423a85dfa45e78ff27b968eb70b2f8b-1.webp" type="image/webp" width="640"/><img alt="デグレイブス・ストリート / Degraves Street" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/6423a85dfa45e78ff27b968eb70b2f8b-1.jpg" width="640"/>
+</picture>
+<h4 class="wp-block-heading">デグレイブス・ストリート / Degraves Street</h4>
+<p>オーストラリアのカフェ文化を牽引したといわれるメルボルンの街には、カフェが多数点在しています。その中でも”<a href="https://www.visitmelbourne.com/regions/Melbourne/Destinations/Streets/VV-Degraves-Street" rel="noreferrer noopener" target="_blank">デグレイブス・ストリート / Degraves St</a>“は細道にカフェやギャラリーなどが軒を連ね、辺りからはコーヒーの香りが漂っていたりと通りを見て回るだけでも雰囲気を味わうことができます。</p>
+<picture><source alt="フリンダース・ストリート駅 / Flinders Street station" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/c95dfab0f6a9015acbdc5c74d779e878-1.webp" type="image/webp" width="640"/><img alt="フリンダース・ストリート駅 / Flinders Street station" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/c95dfab0f6a9015acbdc5c74d779e878-1.jpg" width="640"/>
+</picture>
+<h4 class="wp-block-heading">フリンダース・ストリート駅 / Flinders Street station</h4>
+<p>1854年に建設されたオーストラリア初の駅、<a href="https://jp.visitmelbourne.com/regions/melbourne/things-to-do/history-and-heritage/heritage-buildings/vv-flinders-street-station" rel="noreferrer noopener" target="_blank">フリンダース・ストリート</a>。エドワード王朝を彷彿とさせる駅舎はメルボルンのシンボルとして知られます。また、夜には駅舎がライトアップされ昼とは全く違う幻想的な雰囲気を醸し出します。フリンダース・ストリート駅には多数の路線が乗り入れているため郊外へのアクセスが良く、駅前には日本の路面電車のようなトラム(TRAM)のターミナルがあり毎日大勢の人が行き交います。</p>
+<picture>
+<source alt="グレート・オーシャン・ロード / Great Ocean Road" class="img_big m20-t m20-b lazyloaded" height="425" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/b7f9f47e5cd1c46e3644414b3a4b4715-1.webp" type="image/webp" width="640"/><img alt="グレート・オーシャン・ロード / Great Ocean Road" class="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/cee4660fbe190a20b6de0458d284740f.jpg" width="640"/>
+</picture>
+<h4 class="wp-block-heading">グレート・オーシャン・ロード / Great Ocean Road</h4>
+<p><a href="http://xs640823.xsrv.jp/etas/news/detail/melbourne.html">ビクトリア州</a>南西部のトーキー(Torquay)から西部のアランズフォード(Allansford)までの海岸沿いを約240キロに及び結んでいる“グレート・オーシャン・ロード”。一番の見どころとして知られているのは、十二使徒(Twelve Apostles)と呼ばれる奇岩群です。陸続きだった石灰岩層(Limestone)が長年波や風により浸食され、海の中に取り残されたように見える奇岩群をキリストと十二人の弟子になぞらえて名付けられました。現在も浸食は続き奇岩は十二も残っていませんが、岩肌に乗り上げる波や刻一刻と変わりゆく岩壁の形状を眺めてみてはいかがでしょうか。</p>
+<picture>
+<source alt="クイーン・ビクトリア・マーケット / Queen Victoria Market" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/d2157e5541041f9c247fa69e5fddcc30.webp" type="image/webp" width="640"/><img alt="クイーン・ビクトリア・マーケット / Queen Victoria Market" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/d2157e5541041f9c247fa69e5fddcc30.jpg" width="640"/>
+</picture>
+<h4 class="wp-block-heading">クイーン・ビクトリア・マーケット / Queen Victoria Market</h4>
+<p>1878年にオープンした<a href="https://qvm.com.au/" rel="noreferrer noopener" target="_blank">クイーン・ビクトリア・マーケット</a>は南半球最大の屋外市場です。19世紀の大都市マーケットの特徴を色濃く残していることから2018年に<a href="https://www.melbourne.vic.gov.au/building-and-development/urban-planning/local-area-planning/queen-victoria-market-precinct-renewal-plan/history-heritage/Pages/national-heritage-listing.aspx" rel="noreferrer noopener" target="_blank">国家遺産</a>に登録されました。7ヘクタールの敷地には700以上の店舗が集まり食料品や雑貨、工芸品などあらゆる品物が揃うため、土産物を選ぶ際におすすめです。初めて訪れる方は国家遺産に登録されたフードホールを巡る<a href="https://qvm.com.au/tours/" rel="noreferrer noopener" target="_blank">試食付きツアー</a>に参加してみてはいかがでしょうか。ツアーガイドが解説するマーケットの歴史を聞きながら試食や試飲を楽しむことができます。夏期と冬期には毎週水曜日にナイト・マーケットが開催され、世界各国の料理を提供する屋台が並びます。</p>
+<h3 class="wp-block-heading" id="tourism9">ケアンズ(クイーンズランド州) / ケアンズ国際空港(CNS)</h3>
+<p>グレートバリアリーフやキュランダなど様々な観光地の玄関口である<a href="http://xs640823.xsrv.jp/etas/news/detail/goldcoast.html">ケアンズ</a>。市内には”<a href="https://www.cairns.qld.gov.au/esplanade/facilities/lagoon" rel="noreferrer noopener" target="_blank">エスプラネードラグーン / Esplanade Lagoon</a>“という市民の憩いの場の巨大プールがあります。敷地内は人工の砂浜や芝生などまるで本物のビーチサイドのようです。入場料は無料となり観光の合間にふらっと立ち寄ることもできます。ケアンズ国際空港はケアンズ市内からタクシーやシャトルバスで15分の場所に位置しています。成田国際空港、羽田空港、関西国際空港から直行便が発着し、オーストリアでは最も日本に近くフライト時間は約7時間半と最短です。</p>
+<picture>
+<source alt="グレートバリアリーフ / Great Barrier Reef" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/ec5c9882c5c89a74811c1d38ede8a936-1.webp" type="image/webp" width="640"/><img alt="グレートバリアリーフ / Great Barrier Reef" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/ec5c9882c5c89a74811c1d38ede8a936-1.jpg" width="640"/>
+</picture>
+<h4 class="wp-block-heading">グレートバリアリーフ / Great Barrier Reef</h4>
+<p>約900の島で構成された世界最大級の珊瑚礁地帯“グレートバリアリーフ”は1981年に世界遺産に登録されました。サンゴ礁地帯の総面積は日本列島とほぼ同じとなる壮大な面積を誇ります。中でもグリーン島は「ケアンズの宝石」や「緑の宝石」と呼ばれ、エメラルドグリーンの海でのアクティビティやサンセットを眺めに観光客が後を絶ちません。また、海鳥の自然生息地のため特別保護地区に指定された幻の島“ミコマスケイ / Michaelmas Cay”も人気スポットのひとつです。大きさは全長約360mで幅50mほどの小さな島ですが、“白砂の島”と称されるサンゴ礁のかけらでできた真っ白な砂浜が目を引きます。人工物が一つもない手付かずの自然が残り「最後の楽園」と呼ばれるほど美しい島です。</p>
+<picture>
+<source alt="キュランダ熱帯雨林 / Kuranda" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/194974cdd076f2f4509ea9050015bd14-1.webp" type="image/webp" width="640"/><img alt="キュランダ熱帯雨林 / Kuranda" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/6933a8e22e06ccb2ee59f64de21d79e2.jpg" width="640"/>
+</picture>
+<h4 class="wp-block-heading">キュランダ熱帯雨林 / Kuranda</h4>
+<p>1988年に世界遺産に登録された世界最古といわれる熱帯雨林“キュランダ”へは、ケアンズから高原列車かスカイレールを利用して訪れることができます。特にケアンズ郊外にあるスミスフィールドターミナル(カラヴォニカ駅)からキュランダを結ぶロープウェイ“スカイレール”は、全長約7.5km、乗車時間は片道約1時間半を要し上空から熱帯雨林を存分に楽しむことができます。バロン川沿いの雨林やカラフルなオウムが生息する巨大なイチジクの木、<a href="http://xs640823.xsrv.jp/etas/indigenouspeople/index.html">先住民のアボリジニ</a>によるアートギャラリー、水陸両用車での熱帯雨林ガイドツアーなど見どころが満載です。</p>
+<picture>
+<source alt="パロネラパーク / Paronella Park" class="img_big m20-t m20-b lazyloaded" height="424" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/739e7d6746565ff71c7e72e3c6a7c286.webp" type="image/webp" width="640"/><img alt="パロネラパーク / Paronella Park" class="img_big m20-t m20-b" decoding="async" height="424" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/739e7d6746565ff71c7e72e3c6a7c286.jpg" width="640"/>
+</picture>
+<h4 class="wp-block-heading">パロネラパーク / Paronella Park</h4>
+<p><a href="https://www.paronellapark.com.au/" rel="noreferrer noopener" target="_blank">パロネラパーク</a>は約100年前にスペイン人のホゼ・パロネラが建設した古城風のテーマパークです。長年にわたる自然災害により荒廃しましたが、1993年にパークを購入した新しいオーナー夫妻は歳月を重ねた雰囲気をそのままに神秘的なロケーションを活かしたテーマパークとしてリニューアルしました。園内には5ヘクタールのトロピカルガーデンや滝があり、ガイドによる昼のツアーでは建設にまつわるストーリーなどを聞きながら園内を散策することができます。夜には古城や滝がライトアップされ幻想的な雰囲気に包まれます。2004年にはクイーンズランド州観光局から優秀観光アトラクション賞、クイーンズランド州からビジネス奨励賞を受賞しました。ケアンズ市街から車で約90分の場所にあります。</p>
+<h2 class="wp-block-heading" id="tourism10">オーストラリア旅行のベストシーズン</h2>
+<p>北半球にある日本と南半球にあるオーストラリアは季節が真逆の時期に訪れます。3月～5月は日本では春ですがオーストラリアでは秋、6月～8月は冬、9月～11月は春、12月～2月は夏となります。<br />エリアによって気候も異なり、東海岸の南部にあるシドニー、メルボルン、西海岸のパース、タスマニア島などははっきりとした四季がある温帯性気候、東海岸のブリスベン、ゴールドコーストなどは1年中温暖な亜熱帯気候、北部のケアンズ、ダーウィンは赤道に近く、1年中温暖で雨季と乾季がある熱帯性気候となります。<br />シドニーやメルボルンを訪れるには9～11月の春がベストシーズンです。気温は26度ほどしか上がらず過ごしやすいでしょう。12月～2月の夏に訪れると最高気温が31度前後まで上がり、砂漠性気候のウルル/エアーズロック付近は日中40度になることもあります。訪れるエリアにベストなシーズンを検討しましょう。</p>
+<h2 class="wp-block-heading" id="tourism11">オーストラリアへの旅行計画</h2>
+<p>シドニーやメルボルンなどの大都市から、様々な動植物や大自然を堪能できるロットネスト島やグレートバリアリーフまで多彩な観光地があるオーストラリア。国内線を活用し空港を拠点にする観光プランや、都市や郊外に宿泊先を決めてから周辺を観光するプランなど様々な旅行計画をバリエーション豊かに検討してみてください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/australia-mid.jpg" alt="オーストラリアの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="australia-etas.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yj8XuwwIE7A4aXWfhXMsr"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

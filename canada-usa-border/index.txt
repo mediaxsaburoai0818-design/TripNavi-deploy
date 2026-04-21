@@ -1,0 +1,399 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[79520,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[68027,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0ti-qap5jrw~~.css","style"]
+:HL["/_next/static/media/002ad56b38a46c9f-s.p.0f59t7u8y6li6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/015286201268d2a6-s.p.0l4wo6bqs1t08.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/016d87c0cc8b8e03-s.p.0frjw6rbwpb9q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/019e33408574e34b-s.p.15c9-flx7omvj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/02e550b4c497ffd7-s.p.0_0t1613pgxdo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/0384cfd38b99ce4f-s.p.11c-kdd-h5mww.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/03c0db9b5a4c2c94-s.p.0zgs71~~du8hq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/03d0e36c7236607b-s.p.0y95oh9lipnmo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/059824b686cd8047-s.p.0s2ldow7b7h7s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/0c70f68f8f8a0de0-s.p.16jhs1jc24tr1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/114efd192faddb25-s.p.0w9ayaf69b0px.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1615dd90058dd472-s.p.0ea7t3jcdhrxv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/172c6d7f19452c54-s.p.0swyj9sqf7rvm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/17641f5d78f6e900-s.p.13-kge8vfriao.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/186b494074a89ca8-s.p.0~j1_3a3olz91.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/18abe14d1590d8ea-s.p.15jy1f6j2cwxb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1903d20155caee42-s.p.078hb-~~~e4u..woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1943fced1587c24b-s.p.170n8mp7t~vga.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1b48ef96a6c7a65c-s.p.0ktphb4l_lcfj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1b8def2d4a8da93e-s.p.0v_0_hk7e7~yp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1ccd044fc4a54a49-s.p.17-tgeuymqxh5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1db2ddb569d52191-s.p.03tbozdp~tgys.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1e9d7fbc9ac005c3-s.p.0_dmq5q2vhnid.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1f9dadf367424346-s.p.048mod9pcqvnw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2119272d4c96c9c9-s.p.0.lx5qgaer0ct.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/218f525e9b20ae3e-s.p.014ixqos2.ryc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/22d2d81e68feff15-s.p.13j4rasgmsp6e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/23c71eb8a6f6169d-s.p.0s.jkum2lcyjv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2571f6eeabbf3907-s.p.0psua3g_q0tf..woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2742bd55ed4b42b4-s.p.0j3-p-c4z58wc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2815314c7967c94e-s.p.00~guypj.h52f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/290a98c49fc544b8-s.p.0szxdfj~32mno.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/29863229b98b5b0e-s.p.0d8pweo_c5uza.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/29ae915e262396fb-s.p.0dfw7s_2.owjv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2c053f3774869505-s.p.0-k1_d63lro6r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2e7ac61358eea525-s.p.00s5cagt6wc4q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/30101e235752ba5c-s.p.0getib0pu_436.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3042c2e1bf6e0b3a-s.p.06eu29w_zl6l..woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/308b966a1f39dbd4-s.p.16cf3gg_auvqp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/30b879d734f9dd8e-s.p.0-70ydyhqilor.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/30bfaf64d8064a6e-s.p.07~mune9gxpey.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/31bf168104181c41-s.p.08xoca~ukip3-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/32bf47ff417e40e6-s.p.07zsh62m0mjal.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/32d3e9e57264ec6b-s.p.08ocvddxa0k3i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/34eb8c341b30770d-s.p.0141frvn8id8e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/38324df556f1cbfc-s.p.0xca240w8705d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/38d3d755b469d320-s.p.0dk81a7t2l186.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/38f7094e78698b72-s.p.0m-s2861w5uc-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/39b81b413540af58-s.p.0lekvco3k8ve0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/39ea45b643d11126-s.p.0~r7ivmm2mcvg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3b002f1e24fde4fe-s.p.0znmwvtv.66iu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3b07cee987576037-s.p.0040bsbx8kml6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3b232dea2eef096a-s.p.13kc8y-cgzok5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3c1539a1e6471691-s.p.0tjgtdnznbyq9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3c796dc6494646dd-s.p.151y816.hctxg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3dc9d37f1e023b5c-s.p.107-ezm2kofo7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/41f33cb677fa4a62-s.p.0~87j81d4ys0p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4206bf5f02e55e3e-s.p.02zyt0sou8-iy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4279f63cfb2374d8-s.p.0n4ljy-vbxs-e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/43850f28247faf1b-s.p.0.dq458kqa84g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/43ad679dc4361f92-s.p.00w2nfn2~ia6~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/43d5378de42f63cc-s.p.0ycp3fi3jq_mm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/43f91e7f4777335f-s.p.07g1tgvmg9ine.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4493b6c988dcc597-s.p.0c~1~gyur2yps.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/44e19c97da992608-s.p.08o5va35zzzx9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/454338c3bf4dc1e7-s.p.15viufso940v~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/45f9fd801a720905-s.p.125sq2q5i56h8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4645ea835cc3f7b8-s.p.0dj1my6ttu8ty.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/47ca01105d385403-s.p.0km24i32.m7pj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4c0a3785cb91fe1f-s.p.0_q~3l0e8crkw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4cb1a9cead03db1c-s.p.0x353o575c_g7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4d8ac7b813979ef2-s.p.0kbhptd9vy1vd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4e82145fb9ff7a17-s.p.117v.dfrhv3ja.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4e912a91d27e9498-s.p.0ls885o9_eck6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4eae29a803afd31c-s.p.02gd0ifb6qu1w.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5053fba55258321d-s.p.10w.ec_utoj...woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/519e956447734572-s.p.0kk_zpcilsxyr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/53f4e35201f5bdba-s.p.0o1qmyj6lhw3s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5429c782079d5828-s.p.10.2gwamig1em.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/554d7ece9eb1d626-s.p.00ejiy3h0vnz5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/55cbd646e20d5a4a-s.p.15hfhpk_yvi1x.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/56551c7972e3e6a7-s.p.0zokh0ffjfu2f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/56977a4d4a99d277-s.p.0b.5jf1w2i6u8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/56a6a3a116f6044c-s.p.0b~jmhrk-t0dt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/56d1203728e99c8c-s.p.03a5wbj4l-22~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/573d0623a59073f8-s.p.0sm~vsuif1.ws.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/584427a24da92ff9-s.p.03eiudkl6d4sf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5895cc5c1f4e395e-s.p.07tgn0eirg0af.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/594db5398266c67b-s.p.0qllyycmz3o74.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/595cb9f999fd773e-s.p.17j6a5pcm30ju.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5b1c5a78a9c69923-s.p.15vj~o235.y3w.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5bb627cdef88be70-s.p.15ky-5d4rx_85.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5bc7a4f67b3b2417-s.p.08gyw9lf3jv.m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c758e5c750963c1-s.p.13pulpd9wfii8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c871332aed31bd4-s.p.0p2pjvz522bdc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5e4a79e78aa24b35-s.p.00lgwjqpsw5qx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5f2b8d2cb6088495-s.p.0.zddlow_b4mp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/60fe495e93dd70e7-s.p.0b~8x75cm5mi~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6137b8a2a496944a-s.p.13ihouf9v..im.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/61739b1ce8f94749-s.p.105i-jz_sd0mu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/619a2aaac2940701-s.p.0u_141k9520vr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/62ff0afd35a51bd1-s.p.171jypacl9_2z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/67b0565306d038f3-s.p.0ueiet29ajv6-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/682cecb713d2fe79-s.p.0g5kq4_xlqyok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6b3aea2fa3398619-s.p.0c9nvt9pw6tt4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6ca79aeb6fa5fa85-s.p.09z507-q77.s0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6ccf63dfa134ca34-s.p.0v44440.p30jb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6d834a25593dfa0d-s.p.17shrdmo9rw42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6ee9f0874781a17d-s.p.0fv0_aq1el2ca.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7444726f3b492558-s.p.15n2emcfmw3rn.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/747f555f231561f1-s.p.0sa0zhj6ohpfm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7548fa1ad5faf4f7-s.p.0_.qk4ucm0ow2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/762207642c1d657a-s.p.0y01noaew7tbm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7693c8cb3d733a96-s.p.13~1_21-x6uyg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7aedd79ca8c378f4-s.p.07yp.kyz719u0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7b323863dddd6dc5-s.p.0zmyw7ljxp4.u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7c390261414bb517-s.p.17wykb8p3fifa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7c8d94052edc7e71-s.p.0-2-ft_iqd0.0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7cf39da9896e5c8d-s.p.0fsp~440s8ncr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7ed47ed649891e2e-s.p.0mvo83r2xralf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/805d6fde63be0378-s.p.0ghlq-xfo_zip.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/807f09ca03095886-s.p.0s9wbztz6le.n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/81a4da8324502a54-s.p.0ut9jyf52w02r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/82375b7342c373c4-s.p.0nc5x~sv0iiu1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/82b8313c478753e1-s.p.0~x7aduboe87z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/842d8ef63e76c168-s.p.0xyj--jksc19h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/857ba7bde8bb813f-s.p.0hyjfc2~j3b_i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8631d000b434d536-s.p.0g4x6naic.t3x.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/870c91f2f7376843-s.p.0zswqusyc6vmq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8732c4c7086bd053-s.p.0jui29e2uqukt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/874e051354b1278f-s.p.11b4qsta1mttj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/87587daa7ddd0937-s.p.0peymdldxj2w6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/89bcdbd88deb22d8-s.p.0g1s6hi2poy-g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8a93e5ea57c0b850-s.p.0gbtc2fzfbvh5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8add48c9e26b96e0-s.p.0aeb6fau06trx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8b896a3b1d451881-s.p.12bog3sx.r6gz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8d85211ead46f024-s.p.0q4u8osz3sx63.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e3ffa9f57182f51-s.p.0qdmne3sg1d0w.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/90d33ae700474423-s.p.13ya6goi-a2ah.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/92582803f0a88444-s.p.15-fchnicn4xz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/92b80bd9a9d53a69-s.p.16500~_rqnaut.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9356059034c240cf-s.p.0.-t~ko24zgh3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9426f7288a7de5a1-s.p.12v81o_1pqu-4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9476014bfb55e021-s.p.04bgm3p-ryneg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/94e088df2ff61238-s.p.0rdu4umunrsy_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/96034c0eaf2cddc2-s.p.0wm7u274t9u_p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/96ea6250e38975ad-s.p.14k_aipd85-ca.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/97d0d01438052dfd-s.p.0mh9c6~x-alo2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/980bafb7a1f18579-s.p.0fwfq.j12atfh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/99d29ce3d1628b3b-s.p.12pyb.cw.6gcl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9a3da6489e9fb4a5-s.p.0z4jb0ujxvgof.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9a8e98b8a06c04db-s.p.0xmatv2-8~-bm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9a9481c74b617d1a-s.p.0m.m~3_4.s.xx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9b61d96fc8cc3543-s.p.13nb3l48r0h~w.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9b677464a43784ab-s.p.09-f3m9t63i~0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9dc1a6fb114b646f-s.p.10m58vnrxp2-n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9e07fbd78ed3ac3e-s.p.04enyzxxxzpll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9e25fab3109d806c-s.p.0531.6iewscjm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9f6564d31fd899d6-s.p.0.hel~ziuzx12.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9f80653362e1954a-s.p.053hcdlv~kwvf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9f9a2a49e67cf601-s.p.0lj9zh2v3r_hw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9fd4fe7f39e5f82b-s.p.08ie~rse4mmu1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a0f3e42ac853898b-s.p.0tl7xknmpf9ry.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a268090be4c1804e-s.p.06syatoguk5z2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a4f2052e26435510-s.p.0pwkn2iszyoet.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a89a8a8acb5e6fba-s.p.0jqtds0oq_8zl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a92268b131973493-s.p.16ktv60edhl-g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a9e3a065b12e9a30-s.p.188_18mg.li0c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b0f04e3ed950ac75-s.p.0tjfraz1v20wv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b2441d1931349016-s.p.0fxwyk-yap9pe.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b25b69e3dc6245b5-s.p.0fkz2qlx2c83f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b50dab58f89f21aa-s.p.01fc5l.v0a82l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b7e8caa97b5856b9-s.p.0zsrpjl.g0n._.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b9adc121e4baf24e-s.p.0al5c_mc~j4ij.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b9bcbcd825e4cb19-s.p.14ikd-012a.x-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bafc09d09cfddb82-s.p.06qn47kda68do.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bcbc49057ef6d476-s.p.0m0..98sefbb~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bd277df6cb2c4dca-s.p.147s3xh4e017y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bdf423eef2385c65-s.p.0byd7qbtbrb-m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bf26bb7c57ffc77e-s.p.10jbyc-s~zui3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c03084cb544ba674-s.p.0q1ti2~gkvi6x.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c079a35c77cb53f3-s.p.0ule0mvdx0_0f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c1ec24fe94df81b3-s.p.0tfo00hejcqfw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c303aa715ec40fd9-s.p.04ohx5tlpid6b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c37cd8b6b6fbeadc-s.p.0w9_hq4wcx6v5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c5ff3f8ea5a1f0cb-s.p.03773gm8xymp_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c70801b8d8b95519-s.p.08mc~67zal_-7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c7a823edda640ea9-s.p.08ge.2gm_9.ai.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c7d48713e88c1ead-s.p.04yek7s_9e.73.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cb26989b5e17a4f3-s.p.0~8jb6w3~7om1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cd1a7c545d1cee62-s.p.151tjpr7m6b2m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ce4ab1dbf40a1cb7-s.p.154mdpoqs8c8l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ce9dd0cbe2c054fc-s.p.0pki6fq82sa57.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d0029609c371c61b-s.p.0zs02_brw1qt0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d054ca779017fe68-s.p.0h_nsvriro9re.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d075207d1583de4f-s.p.15pz_4uf5yyqe.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d07afc21ce36afe2-s.p.0qvvrw8qrem~e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d12a7f22dbffd084-s.p.0p58ebg_ic8c3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d2e1f04e17ad2e56-s.p.0y1r__enx86jz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d7d5a215473de3c0-s.p.0.9-t3nbz~spm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d7eac4366807be0e-s.p.094u66l5n0j3s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dac86c95ff4aead2-s.p.0465c7pyy7.vg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dc4bd4eacb24aa2d-s.p.0q4~wsryvh7a..woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dd21867e41ab4f1f-s.p.0t.c1-4-ttnog.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dda055bf91d2b565-s.p.0u0jyhajnjmva.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dde7fdb4226bd5dd-s.p.0us4467052uqb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ddf08f3eeca797cf-s.p.0kmk3i.h3goug.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dea0d7ae0ae1f578-s.p.0_ry4f75s6e.6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dfbc3a2b1516b7fd-s.p.0jj-w8_ara-_d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e06f53ba4281f774-s.p.0sgfnmz-9~~aw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e321acce0cab0cbc-s.p.0.ad-orbgn48f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e3aed36624c02265-s.p.09qj3fuplqi2x.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e5284a72a5981f09-s.p.0tp8jq14mvijy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e5de6cb0c65cc15d-s.p.073eb57uo_821.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e64b1d261998b4cc-s.p.0juctd38vyk69.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e685c32c8148a491-s.p.0__rtisxb59~~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e82ac1d5f09997f9-s.p.0pe2n-~7tp_dl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e86fe9b2637405b9-s.p.176e~holqi.94.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e8f95da2fa2d9dd1-s.p.0~v2cd4pznie4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ec58d653480dc208-s.p.0ytulpwtort5s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/eca16ad2fce9f93d-s.p.0mjoo56y-_3-h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/eee6eef1155e635b-s.p.0-pt3ybw9dh8o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ef40981ccf68eb44-s.p.0q5zpmovloh.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ef5f53497b689223-s.p.0rv7qmeoc~btu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ef68e223cd43c0f4-s.p.09w5dq8j0z-4t.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ef7a6029f9548b9c-s.p.0y6j9g-w9m0lb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f0a2b94c7d42818b-s.p.0__o2ee2.orqg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f30c9196712102cc-s.p.0j2ztzdl83ald.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f36a9c7f42fa9d0d-s.p.011~t8h6ilewy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f5fcd0b48edce128-s.p.106j00-foc-8u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f67e7276c713a8e0-s.p.0qxrv0cp7ril-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f6c0a9a9096c63e1-s.p.0q9q7j8r1ztm7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f7966e4287f8974e-s.p.0kdu7s6afhes1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f8f25daefdd6d19c-s.p.0gxkacjo.ve9n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f973c59a19b76618-s.p.0t33dk-yewpef.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fc3cd590f283e435-s.p.0-wuujs2sy5e0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ff242c040326fbc1-s.p.0vahgc_-2xsv7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ff2552049477c49c-s.p.09dtoo1awnf1_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ffb6d03f9c0a2d7d-s.p.0.52jibsvs0ta.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/style-arukikata.css","style"]
+0:{"P":null,"c":["","canada-usa-border",""],"q":"","i":false,"f":[[["",{"children":["canada-usa-border",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ti-qap5jrw~~.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0w9ua.z15s_99.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","className":"zen_kaku_gothic_new_2913a297-module__WDDfwq__className","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"stylesheet","href":"/style-arukikata.css"}]]}],["$","body",null,{"children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"header-inner","children":[["$","$L2",null,{"href":"/","className":"logo","children":["$","span",null,{"className":"logo-text","children":[["$","span",null,{"style":{"color":"#D4885A"},"children":"Trip"}],"Navi"]}]}],["$","nav",null,{"className":"nav","children":[["$","div",null,{"className":"nav-dropdown","children":[["$","span",null,{"className":"nav-link","children":"エリアから探す"}],["$","div",null,{"className":"dropdown-menu","children":[["$","$L2",null,{"href":"/country-canada","children":"カナダ"}],["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}],["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ"}],["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス"}]]}]]}],["$","$L2",null,{"href":"/usa-esta-application","className":"nav-link","children":"ESTA申請"}],["$","$L2",null,{"href":"/canada-eta-application","className":"nav-link","children":"カナダeTA"}],["$","$L2",null,{"href":"/australia-etas-about","className":"nav-link","children":"豪ETAS"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","h3",null,{"children":[["$","span",null,{"style":{"color":"#D4885A"},"children":"Trip"}],"Navi"]}],["$","p",null,{"children":"海外渡航認証・旅行情報の総合ガイド"}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"渡航認証"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/usa-esta-application","children":"アメリカ ESTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/canada-eta-application","children":"カナダ eTA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/australia-etas-about","children":"オーストラリア ETAS"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/uk-eta-application","children":"イギリス UK-ETA"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/korea-keta-application","children":"韓国 K-ETA"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"children":"エリアガイド"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/country-canada","children":"カナダ"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/country-australia","children":"オーストラリア"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":["$","p",null,{"children":"© 2026 TripNavi. All rights reserved."}]}]]}]}],["$","$L5",null,{"src":"/shared-arukikata.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"yj8XuwwIE7A4aXWfhXMsr"}
+e:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:"$Sreact.suspense"
+b:T5671,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダとアメリカの国境線は世界最長の絶景</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/canada-hero.jpg" alt="カナダ" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>カナダとアメリカの国境線は世界最長の絶景</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">カナダとアメリカの国境線は世界最長の絶景</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#border1">カナダとアメリカの国境に跨るナイアガラの滝</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#border1-1">アメリカとの国境に連なる5つの淡水湖・五大湖</a></li>
+<li><a class="ez-toc-link" href="#border1-2">ナイアガラの滝は世界三大瀑布のひとつ</a></li>
+<li><a class="ez-toc-link" href="#border1-3">カナダ滝(ホースシュー滝)</a></li>
+<li><a class="ez-toc-link" href="#border1-4">アメリカ滝(アメリカ滝・ブライダルベール滝)</a></li>
+<li><a class="ez-toc-link" href="#border1-5">国境の橋(レインボーブリッジ)</a></li>
+<li><a class="ez-toc-link" href="#border1-6">ナイアガラの滝(成り立ちと現在)</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#border2">ナイアガラの滝へのアクセス</a></li>
+<li class="list-style-none">
+<ul>
+<li><a class="ez-toc-link" href="#border2-1">トロント・ピアソン国際空港からの行き方</a></li>
+<li><a class="ez-toc-link" href="#border2-2">トロント市内からの行き方</a></li>
+<li><a class="ez-toc-link" href="#border2-3">アメリカ(ニューヨーク)からの行き方</a></li>
+</ul>
+</li>
+<li><a class="ez-toc-link" href="#border3">新型コロナウイルスによる国境閉鎖状況</a></li>
+<li><a class="ez-toc-link" href="#border4">短期のカナダ入国・渡航にはeTA(イータ)の事前申請が必要です</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="アメリカカナダ国境" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/a8de41083f804e8af52b86f6987e9dce.webp" type="image/webp" width="640"/><img alt="アメリカカナダ国境" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/a8de41083f804e8af52b86f6987e9dce.jpg" width="640"/>
+</picture>
+<p>アメリカと接するカナダのオンタリオ州には国境を兼ねる”ナイアガラの滝”があります。両国を代表する景勝地として知られ、世界中から年間1,200万人を超える観光客が訪れます。このページではカナダとアメリカの国境に跨る”ナイアガラの滝”と、新型コロナウイルスの感染拡大に伴う国境封鎖について解説します。</p>
+<h2 class="wp-block-heading" id="border1">カナダとアメリカの国境に跨るナイアガラの滝</h2>
+<h3 class="wp-block-heading" id="border1-1">アメリカとの国境に連なる5つの淡水湖・五大湖</h3>
+<p>五大湖とはカナダとアメリカとの国境付近に連なる5つの淡水湖で、ミシガン湖を除く4つの湖(スペリオル湖・ヒューロン湖・エリー湖・オンタリオ湖)は両国の国境を跨いでいます。5つの湖はつながっており、<a href="http://xs640823.xsrv.jp/eta/news/detail/990100/quebec.html">モントリオールとケベックシティ</a>を通り最終的に北東のセントローレンス湾へ注がれます。最も上流にあるスペリオル湖は世界最大の淡水湖で、面積は琵琶湖の約120倍となります。五大湖周辺は北アメリカ有数の工業地帯として栄え、多くの港湾都市や観光都市が築かれました。カナダの人口の半分以上はエリー湖からセントローレンス湾へつながる一帯に集中しており、カナダで最も人口が多い<a href="http://xs640823.xsrv.jp/eta/news/detail/990100/ontario.html">トロント</a>も五大湖沿岸にあります。アメリカ側では工業都市として知られる<a href="https://www.gousa.jp/destination/detroit" rel="noreferrer noopener" target="_blank">デトロイト</a>や<a href="https://www.enjoyillinois.com/travel-illinois/category/chicago" rel="noreferrer noopener" target="_blank">シカゴ</a>が五大湖の周辺に位置します。両国の都市は湖を挟んで互いに活性化することで産業と人口を拡大し、”五大湖メガロポリス”と呼ばれます。</p>
+<h3 class="wp-block-heading" id="border1-2">ナイアガラの滝は世界三大瀑布のひとつ</h3>
+<p>五大湖のエリー湖とオンタリオ湖のあいだを流れるナイアガラ川には<a href="https://www.niagaraparks.com/" rel="noreferrer noopener" target="_blank">ナイアガラの滝</a>があります。ナイアガラの滝は南米のアルゼンチンとブラジルに跨る<a href="https://en.iguassu.com.br/" rel="noreferrer noopener" target="_blank">イグアスの滝</a>、アフリカのジンバブエとザンビアに跨る<a href="https://www.zimbabwetourism.net/listing/victoria-falls/" rel="noreferrer noopener" target="_blank">ヴィクトリアの滝</a>とともに世界三大瀑布のひとつに数えられます。世界三大瀑布の中で唯一世界遺産への登録がされていませんが、3つの滝の中では最も日本から近く冬期を除き気候が温暖なため日本人観光客も多く訪れます。空港からのアクセスも良く、カナダ側とアメリカ側で異なる景色を楽しむことができます。ナイアガラの滝は馬蹄のように大きく湾曲していることで有名なホースシュー滝(カナダ滝)と、幅が異なる2つの滝が並ぶアメリカ滝で構成されます。滝つぼ付近の霧の中を進むクルーズツアーや滝の傍まで歩いて近付くツアーがあり、ナイアガラの滝を間近で見ることができます。夜には<a href="https://www.niagarafallstourism.com/fireworks/" rel="noreferrer noopener" target="_blank">花火</a>が打ち上げられ、カラフルに<a href="https://www.niagarafallstourism.com/illumination/" rel="noreferrer noopener" target="_blank">ライトアップ</a>された滝は幻想的な雰囲気となります。</p>
+<div class="Class_J">
+<h4>クルーズ船ツアー</h4>
+<p><strong>カナダ側発着：</strong><a href="https://www.cityexperiences.com/niagara/city-cruises/niagara/voyage-to-the-falls-boat-tour/" rel="noreferrer noopener" target="_blank">ナイアガラシティクルーズ (旧ホーンブロワー・ナイアガラクルーズ)</a><br /><strong>アメリカ側発着：</strong><a href="https://www.maidofthemist.com/" rel="noreferrer noopener" target="_blank">霧の乙女号 (Maid of Mist)</a></p>
+</div>
+<h3 class="wp-block-heading" id="border1-3">カナダ滝(ホースシュー滝)</h3>
+<p>ホースシュー滝はナイアガラの滝を構成する3つの滝の中で唯一カナダ側にあります。流れ落ちる水量は3つの滝の中で最も多く、約675mにわたる湾曲した滝からナイアガラ川の約90％の水が流れ落ちます。ホースシュー滝の東端はニューヨーク州のゴート島につながり、ナイアガラの滝の観測施設”Terrapin Point”があります。西端では滝の裏側からホースシュー滝を眺めるツアー”<a href="https://www.niagaraparks.com/visit/attractions/journey-behind-the-falls/" rel="noreferrer noopener" target="_blank">Journey Behind the Falls</a>”が催行され、クルーズ船ツアーと並ぶ人気のアクティビティとなります。ホースシュー滝を上から眺めたい方は高さ160mの展望塔”<a href="https://www.skylon.com/" rel="noreferrer noopener" target="_blank">スカイロン・タワー</a>”がお勧めです。屋内外の展望デッキからはホースシュー滝とアメリカ滝を一望でき、夜にはライトアップされた滝と街の夜景を楽しむことができます。</p>
+<h3 class="wp-block-heading" id="border1-4">アメリカ滝(アメリカ滝・ブライダルベール滝)</h3>
+<p>カナダ側にあるホースシュー滝をカナダ滝と呼ぶように、アメリカ側にある滝はアメリカ滝と呼ばれます。アメリカ滝はホースシュー滝(カナダ滝)の下流に合流する2つの滝で構成されます。滝幅260mの広い滝はアメリカ滝と呼ばれ、上流から流れ落ちた岩石が滝つぼに堆積し奥行きのある流れを生み出しています。アメリカ滝の隣には幅15mほどのブライダルベール滝が流れています。2つの滝を含む一帯は<a href="https://www.niagarafallsstatepark.com/" rel="noreferrer noopener" target="_blank">ナイアガラフォールズ州立公園</a>に指定され、アメリカを代表する観光名所となります。アメリカ側の滝を身近で体験したい方は”<a href="https://www.niagarafallsstatepark.com/attractions-and-tours/cave-of-the-winds" rel="noreferrer noopener" target="_blank">風の洞窟(Cave of the Winds)</a>”ツアーがお勧めです。ホースシュー滝(カナダ滝)とアメリカ滝に挟まれたゴート島からエレベーターで地下53mまで下り、ブライダルベール滝のすぐ傍まで歩いて近づくことができます。</p>
+<h3 class="wp-block-heading" id="border1-5">国境の橋(レインボーブリッジ)</h3>
+<p>アメリカ滝の下流に架かるデッキアーチ構造の橋が<a href="https://www.niagarafallsbridges.com/" rel="noreferrer noopener" target="_blank">ナイアガラフォールズ国際レインボーブリッジ</a>です。通称”レインボーブリッジ”と呼ばれ、カナダの<a href="https://niagarafalls.ca/" rel="noreferrer noopener" target="_blank">オンタリオ州ナイアガラフォールズ市</a>とアメリカの<a href="https://niagarafallsusa.org/" rel="noreferrer noopener" target="_blank">ニューヨーク州ナイアガラフォールズ市</a>を結びます。かつては”ハネムーン・ブリッジ”の愛称で親しまれたフォールズビューブリッジが架かっていましたが、1938年に流れてきた氷塊によって崩壊。1941年に高さ15mの橋台を備えたナイアガラフォールズ国際レインボーブリッジが完成しました。全長約290m、高さは約62mあり、バスや車のほか自転車や徒歩でも渡ることができます。5～9月の週末は花火が打ち上げられ、アメリカ滝・カナダ滝と花火を一望できる人気の景観スポットとなります。日本国籍を有する方など、ビザを取得せずカナダへの入国が認められる方は、パスポートと入国税、通行料のみで橋を渡ることができます。</p>
+<h3 class="wp-block-heading" id="border1-6">ナイアガラの滝(成り立ちと現在)</h3>
+<p>ナイアガラの滝は氷河期の終わりとなる約13,000年前に形成されました。ナイアガラの名はネイティブ・アメリカンの言葉で”雷轟く水”を意味する”ニアガル”に由来します。流れ落ちる水量は毎秒3,000トンで、世界最大量となります。かつては現在の位置より下流にありましたが、膨大な水の流れにより断崖が徐々に浸食され今の姿となりました。現在は浸食を防ぐ対策が講じられていますが、25,000年後にはエリー湖まで浸食が到達し滝がなくなってしまうと言われています。また、流れ落ちる水の一部は水力発電に利用され、カナダとアメリカへ多くの電力を供給し両国の生活を支えています。</p>
+<picture>
+<source alt="ナイアガラの滝" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/6e8792e94788d24eac813b7930a32fef.webp" type="image/webp" width="640"/><img alt="ナイアガラの滝" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/6e8792e94788d24eac813b7930a32fef.jpg" width="640"/>
+</picture>
+<h2 class="wp-block-heading" id="border2">ナイアガラの滝へのアクセス</h2>
+<p>ナイアガラの滝の最寄り空港であるトロント・ピアソン国際空港、トロント市内、アメリカ(ニューヨーク)を出発点とした3つのルートを紹介します。なお、日本からトロント・ピアソン国際空港へは<a href="https://www.aircanada.com/jp/ja/aco/home.html#/" rel="noreferrer noopener" target="_blank">AIR CANADA</a>と<a href="https://www.ana.co.jp/ja/jp/international/" rel="noreferrer noopener" target="_blank">全日空(ANA)</a>が直行便(約12時間)を運航しています。</p>
+<h3 class="wp-block-heading" id="border2-1">トロント・ピアソン国際空港からの行き方</h3>
+<p><a href="https://www.torontopearson.com/en/community" rel="noreferrer noopener" target="_blank">トロント・ピアソン国際空港</a>へ到着後、ナイアガラの滝までの約125kmはシャトルバスまたはタクシーで移動します。所要時間は約90分ですが、トロントでは朝・夕に交通渋滞が起こることがあるため早めの準備をお勧めします。</p>
+<div class="Class_AB">
+<strong>シャトルバス</strong><br /><a href="https://www.niagaraairbus.com/" rel="noreferrer noopener" target="_blank">Niagara Air Bus</a><br /><a href="https://www.ridebooker.com/" rel="noreferrer noopener" target="_blank">Ride Bookre</a><br /><strong>タクシー</strong><br /><a href="http://www.niagarafallstaxi.com/" rel="noreferrer noopener" target="_blank">NIAGARA FALLS TAXI</a></div>
+<h3 class="wp-block-heading" id="border2-2">トロント市内からの行き方</h3>
+<p>トロント市内からは電車とバスで向かう方法が一般的です。夏期の観光シーズン中は週末のみ直行電車が運行されますが、平日およびオフシーズンはバーリントン駅でバスへの乗り換えが必要となります。直通電車の運行がない平日などはトロントのバス発着場からナイアガラ方面行きのバスを利用するのが便利です。</p>
+<div class="Class_J">
+<h4>直行電車(シーズン中の週末のみ運行)</h4>
+<p>トロントのユニオン駅からNiagara Falls行きに乗車し、ナイアガラ駅で下車。所要時間は約2時間です。</p>
+</div>
+<div class="Class_J">
+<h4>電車＋バス</h4>
+<p>トロントのユニオン駅からLakeshore West行きに乗車し、バーリントン駅で下車。バーリントン駅からNiagara Falls行きのバスに乗車します。所要時間は約2時間50分です。<br /><strong>公式サイト：</strong><a href="https://www.gotransit.com/en/" rel="noreferrer noopener" target="_blank">GO Transit</a></p>
+</div>
+<div class="Class_J">
+<h4>バス</h4>
+<p>トロントのベイストリート(Bay St)とレイクショアブルバード(Lakeshore Blvd)の角にあるユニオンステーションバスターミナルからNiagara Falls行きのバスに乗車します。所要時間は約2時間です。<br /><strong>公式サイト：</strong><a href="https://ca.megabus.com/" rel="noreferrer noopener" target="_blank">megabus</a></p>
+</div>
+<h3 class="wp-block-heading" id="border2-3">アメリカ(ニューヨーク)からの行き方</h3>
+<p>ニューヨークからナイアガラの滝へは飛行機とバスを乗り継ぐ方法と、長距離列車を利用する方法があります。</p>
+<div class="Class_J">
+<h4>飛行機＋バス</h4>
+<p>ニューヨークの<a href="https://www.jfkairport.com/" rel="noreferrer noopener" target="_blank">ジョン・F・ケネディ国際空港</a>からナイアガラの滝の最寄り空港である<a href="https://www.buffaloairport.com/" rel="noreferrer noopener" target="_blank">バッファローナイアガラ国際空港</a>へ向かいます。バッファローナイアガラ国際空港へ到着後、ナイアガラの滝までの約41kmはシャトルバスまたはタクシーで移動します。バッファローナイアガラ国際空港からの所要時間は約50分です。<ul><li><a href="https://www.niagaraairbus.com/Buffalo-Airport/" rel="noreferrer noopener" target="_blank">Niagara Air Bus</a></li><li><a href="https://www.buffaloairporttaxi.com/" rel="noreferrer noopener" target="_blank">BUFFALO AIRPORT TAXI SERVICE</a></li><li><a href="https://buffaloairportshuttle.com/" rel="noreferrer noopener" target="_blank">Buffalo Airport Shuttle</a></li><li><a href="https://www.aalimoniagara.com/" rel="noreferrer noopener" target="_blank">AA Limo Niagara Airport Limousine Services</a></li></ul></p>
+</div>
+<div class="Class_J">
+<h4>長距離列車</h4>
+<p>ニューヨーク州ペンシルベニア駅から、<a href="https://www.amtrak.com/home.html" rel="noreferrer noopener" target="_blank">アムトラック(全米鉄道旅客公社 / National Railroad Passenger Corporation)</a>が運行している長距離列車に乗車しナイアガラフォールズ駅で下車します。所要時間は約9～10時間です。</p>
+</div>
+<p>運賃や運行スケジュールは各交通機関へご確認ください。</p>
+<h2 class="wp-block-heading" id="border3">新型コロナウイルスによる国境閉鎖状況</h2>
+<p>カナダとアメリカの国境には五大湖の沿岸都市をはじめ、自動車や鉄鋼など両国で産業が一体化している地域が多くあります。また、ナイアガラの滝では観光資源を共有していることもあり、国境の往来は柔軟に行われてきました。しかし、2019年に発生した新型コロナウイルスの世界的な感染拡大により、両国政府は国境の一時封鎖に同意。カナダ連邦政府は2020年3月よりカナダ国籍者または永住者以外の入国を原則として禁止しました。その後、入国制限を緩和し留学生やカナダ国籍者または永住者の家族の入国を認める一方、引き続き観光客の入国を禁止。経済的に深刻な影響を受ける国境地域からは早期の封鎖解除を求める声が上がりましたが、両政府は繰り返し期限を延長しました。2021年6月、DHS(米国土安全保障省)はカナダとの入国制限緩和に向け前向きな協議を進めていることを示唆。翌7月にカナダのトルドー首相はアメリカとの国境封鎖を8月9日に解除する意向を表明しました。現在は条件付きでカナダへの入国を認めています。入国に関する要件は当該国における感染状況により変更となる場合があるため、カナダへの渡航を検討中の方は<a href="http://xs640823.xsrv.jp/eta/news/detail/990100.html">カナダの渡航関連最新ニュース</a>にて最新情報をご確認ください。</p>
+<h2 class="wp-block-heading" id="border4">短期のカナダ入国・渡航にはeTA(イータ)の事前申請が必要です</h2>
+<p>日本国籍の方が空路でカナダへ渡航する際は、年齢を問わず電子渡航認証eTA(イータ)の申請手続きが必須となります。一般的な観光旅行を目的としてカナダへ渡航する場合は、ビザではなくeTA(イータ)を申請することで滞在が認められます。eTA(イータ)を管轄するIRCC(カナダ移民・難民・市民権省)では、少なくとも出発3日前までにオンラインにて申請を行うことを推奨しています。eTA(イータ)に関する詳細は「<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/canada-mid.jpg" alt="カナダの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="canada-eta.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
+ <p>カナダの電子渡航認証eTA(イータ)とは</p>
+ </a>
+ <a href="canada-vancouver.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
+ <p>カナダ・バンクーバーの観光スポット13選</p>
+ </a>
+ <a href="canada-toronto.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
+ <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
+ </a>
+ <a href="canada-aurora.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
+ <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>6:["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}],null,"$Lc"]}]
+d:[]
+7:"$Wd"
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ti-qap5jrw~~.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:["$","$L13",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:[["$","title","0",{"children":"カナダとアメリカの国境線は世界最長の絶景 | TripNavi"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","2",{}]]
+14:null

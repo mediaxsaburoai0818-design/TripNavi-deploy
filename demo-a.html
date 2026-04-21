@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>案A：サンセットリゾート × 温かみ</title>
+<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Zen Kaku Gothic New',sans-serif;background:#FFFAF5;color:#2C2A26}
+
+header{background:rgba(255,250,245,.92);backdrop-filter:blur(16px);border-bottom:1px solid #E8DFD4;position:sticky;top:0;z-index:50;padding:14px 20px}
+header .inner{max-width:1000px;margin:0 auto;display:flex;align-items:center;justify-content:space-between}
+header .logo{font-size:22px;font-weight:700;letter-spacing:1px}
+header .logo span{color:#D4885A}
+header nav a{font-size:13px;color:#8B7E6F;text-decoration:none;margin-left:24px;transition:color .3s}
+header nav a:hover{color:#D4885A}
+
+.hero{position:relative;height:480px;overflow:hidden}
+.hero img{width:100%;height:100%;object-fit:cover}
+.hero .overlay{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.1) 0%,rgba(0,0,0,.5) 100%);display:flex;align-items:flex-end;padding:60px 40px}
+.hero .overlay .content{max-width:1000px;margin:0 auto;width:100%;color:#fff}
+.hero .overlay .tag{display:inline-block;background:rgba(212,136,90,.9);padding:5px 14px;border-radius:4px;font-size:11px;font-weight:700;letter-spacing:2px;margin-bottom:16px}
+.hero .overlay h1{font-size:36px;line-height:1.4;margin-bottom:12px;text-shadow:0 2px 8px rgba(0,0,0,.3)}
+.hero .overlay p{font-size:15px;opacity:.9;margin-bottom:24px}
+.hero .overlay .cta{display:inline-block;background:#D4885A;color:#fff;padding:14px 36px;border-radius:6px;font-weight:700;text-decoration:none;font-size:14px;transition:all .3s}
+.hero .overlay .cta:hover{background:#C07848;box-shadow:0 4px 16px rgba(212,136,90,.4)}
+
+.stats{max-width:1000px;margin:-40px auto 0;padding:0 20px;position:relative;z-index:2;display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.stat{background:#fff;border-radius:12px;padding:24px;text-align:center;box-shadow:0 4px 20px rgba(0,0,0,.06)}
+.stat .num{font-size:28px;font-weight:700;color:#D4885A}
+.stat .label{font-size:11px;color:#8B7E6F;margin-top:4px}
+
+section.content{max-width:1000px;margin:0 auto;padding:48px 20px}
+.sec-header{display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #2C2A26;padding-bottom:10px;margin-bottom:32px}
+.sec-header h2{font-size:22px;font-weight:700}
+.sec-header .en{font-size:11px;color:#D4885A;letter-spacing:2px;text-transform:uppercase}
+
+.country-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:20px}
+.country-card{background:#fff;border-radius:12px;overflow:hidden;border:1px solid #E8DFD4;transition:all .3s}
+.country-card:hover{border-color:#D4885A;box-shadow:0 8px 24px rgba(0,0,0,.06);transform:translateY(-3px)}
+.country-card .img-placeholder{height:160px;overflow:hidden}
+.country-card .img-placeholder img{width:100%;height:100%;object-fit:cover;transition:transform .3s}
+.country-card:hover .img-placeholder img{transform:scale(1.05)}
+.country-card .body{padding:20px}
+.country-card .body h3{font-size:16px;margin-bottom:6px}
+.country-card .body p{font-size:12px;color:#8B7E6F;line-height:1.7;margin-bottom:12px}
+.country-card .body a{color:#D4885A;font-size:12px;font-weight:700;text-decoration:none}
+
+footer{background:#2C2A26;color:#8B7E6F;padding:48px 20px;margin-top:48px}
+footer .inner{max-width:1000px;margin:0 auto;text-align:center}
+footer .logo{color:#fff;font-size:20px;font-weight:700;margin-bottom:8px}
+footer .logo span{color:#D4885A}
+footer p{font-size:11px}
+
+@media(max-width:768px){
+  .hero{height:360px}
+  .hero .overlay h1{font-size:24px}
+  .stats{grid-template-columns:repeat(2,1fr);margin-top:-24px}
+}
+</style>
+</head>
+<body>
+<header><div class="inner">
+  <div class="logo"><span>Trip</span>Navi</div>
+  <nav><a href="#">渡航認証</a><a href="#">国別ガイド</a><a href="#">観光情報</a><a href="#">FAQ</a></nav>
+</div></header>
+
+<div class="hero">
+  <img src="tripnavi-hero-a.jpg" alt="美しいビーチとサンセット">
+  <div class="overlay"><div class="content">
+    <div class="tag">TRAVEL GUIDE 2026</div>
+    <h1>世界への扉を、もっとスムーズに。</h1>
+    <p>ESTA・eTA・ETA…各国の渡航認証を分かりやすく解説。安心の旅をサポートします。</p>
+    <a href="/usa-esta-application/" class="cta">渡航認証ガイドを見る</a>
+  </div></div>
+</div>
+
+<div class="stats">
+  <div class="stat"><div class="num">98</div><div class="label">記事数</div></div>
+  <div class="stat"><div class="num">5カ国</div><div class="label">対応国</div></div>
+  <div class="stat"><div class="num">24時間</div><div class="label">最新情報更新</div></div>
+  <div class="stat"><div class="num">無料</div><div class="label">すべての情報</div></div>
+</div>
+
+<section class="content">
+  <div class="sec-header"><h2>国別渡航ガイド</h2><span class="en">Country Guides</span></div>
+  <div class="country-grid">
+    <div class="country-card">
+      <div class="img-placeholder"><img src="country-usa.jpg" alt="アメリカ - 自由の女神"></div>
+      <div class="body"><h3>アメリカ（ESTA）</h3><p>電子渡航認証システムESTAの申請方法、料金、有効期限など完全ガイド。ハワイ・グアム渡航にも必要です。</p><a href="/usa-esta-application/">ガイドを見る →</a></div>
+    </div>
+    <div class="country-card">
+      <div class="img-placeholder"><img src="country-canada.jpg" alt="カナダ - ナイアガラの滝"></div>
+      <div class="body"><h3>カナダ（eTA）</h3><p>カナダ電子渡航認証eTAの申請手順、必要書類、トランジット時の対応まで詳しく解説。</p><a href="/canada-eta-application/">ガイドを見る →</a></div>
+    </div>
+    <div class="country-card">
+      <div class="img-placeholder"><img src="country-uk.jpg" alt="イギリス - ビッグベン"></div>
+      <div class="body"><h3>イギリス（UK-ETA）</h3><p>2025年から導入されたUK-ETAの最新情報。申請方法や料金をわかりやすく解説。</p><a href="/uk-eta-application/">ガイドを見る →</a></div>
+    </div>
+    <div class="country-card">
+      <div class="img-placeholder"><img src="country-australia.jpg" alt="オーストラリア - シドニーオペラハウス"></div>
+      <div class="body"><h3>オーストラリア（ETAS）</h3><p>オーストラリア渡航に必要なETASの申請ガイド。観光ビザとの違いも解説。</p><a href="/australia-etas-about/">ガイドを見る →</a></div>
+    </div>
+  </div>
+</section>
+
+<footer><div class="inner">
+  <div class="logo"><span>Trip</span>Navi</div>
+  <p>案A：サンセットリゾート × 温かみ（コーラル×ベージュ）</p>
+  <p style="margin-top:8px">© 2026 TripNavi Demo</p>
+</div></footer>
+</body>
+</html>

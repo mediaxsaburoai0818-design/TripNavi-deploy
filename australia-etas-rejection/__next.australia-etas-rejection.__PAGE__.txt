@@ -1,0 +1,118 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3d31,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ ETAS(イータス)申請が認証拒否された場合</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/australia-hero.jpg" alt="オーストラリア" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="orange">観光・グルメ</span>
+ <h1>ETAS(イータス)申請が認証拒否された場合</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年03月23日</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">ETAS(イータス)申請が認証拒否された場合</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1"><li><a class="ez-toc-link" href="#refusal1">ETAS(イータス)認証拒否の理由とは</a></li>
+<li><a class="ez-toc-link" href="#refusal2">申請状況の確認</a></li>
+<li><a class="ez-toc-link" href="#refusal3">認証拒否となった場合の対処方法</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#refusal4">間違えて質問事項に「はい」と入力した場合</a></li>
+<li><a class="ez-toc-link" href="#refusal5">全ての質問事項が「いいえ」で、入力間違いがなかった場合</a></li>
+</ul></li>
+<li><a class="ez-toc-link" href="#refusal6">ビザ申請について</a></li>
+<li><a class="ez-toc-link" href="#refusal7">訪問者ビザの申請を行う際の手順</a></li>
+<li class="list-style-none"><ul>
+<li><a class="ez-toc-link" href="#refusal8">1. オーストラリア政府によるオンライン申請システム「ImmAccount」のアカウントを作成</a></li>
+<li><a class="ez-toc-link" href="#refusal9">2. 必要書類の準備</a></li>
+<li><a class="ez-toc-link" href="#refusal10">3. 申請情報を入力、書類のアップロード、申請費用の支払い</a></li>
+<li><a class="ez-toc-link" href="#refusal11">4. 健康診断の有無を確認</a></li>
+<li><a class="ez-toc-link" href="#refusal12">5. ビザ承認結果を確認</a></li>
+</ul></li>
+<li><a class="ez-toc-link" href="#refusal13">安心してオーストラリアへ渡航するために</a></li>
+</ul>
+</nav>
+</div>
+<picture>
+<source alt="ETAS(イータス)申請が認証拒否された場合" class="img_big m20-t m20-b" height="426" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p13_01.webp" type="image/webp" width="640"/>
+<img alt="ETAS(イータス)申請が認証拒否された場合" class="img_big m20-t m20-b" decoding="async" height="426" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p13_01.jpg" width="640"/>
+</picture>
+<h2 class="wp-block-heading" id="refusal1">ETAS(イータス)認証拒否の理由とは</h2>
+<p>オーストラリア渡航の際必要となる<a class="link-no-color" href="http://xs640823.xsrv.jp/etas/">ETAS(イータス)</a>は、申請から12時間程で認証結果を確認することが可能です。<br />しかし、何らかの理由により申請後に「認証拒否」と判断されてしまうこともございます。その理由として多いものが犯罪歴を問う項目において、間違えて「はい」を選択してしまうケースです。ETAS(イータス)は“過去に刑期12ヵ月を超える有罪判決を受けたことがある方“は認証を拒否される可能性が高くなっております。該当する方はETAS(イータス)ではなくビザの申請を検討することをお勧めします。実際に犯罪歴がなくても誤って「はい」と回答してしまうと“認証拒否”となってしまいます。申請を完了する前に、全ての質問事項欄が「いいえ」であるか必ず確認しましょう。<br />また、パスポートや氏名などの重要項目に入力ミスがある状態でETAS(イータス)申請を行った場合も、認証拒否となる場合があります。ETAS(イータス)を申請する際は全ての項目において間違いがないか、入力後に必ず確認するようにしましょう。特にパスポート番号、氏名、生年月日については正確な入力をお願いします。</p>
+<h2 class="wp-block-heading" id="refusal2">申請状況の確認</h2>
+<p>ETAS(イータス)申請後、入力した情報が正しいものであるか確認してみましょう。<br />当サイトにて申請いただいた方は、トップページの「申請情報確認」にアクセスいただき申請IDをご入力ください。<br />入力した全ての項目が確認できますので、氏名・パスポート番号等の個人情報や質問事項に誤りがないかご確認をお願いします。<br />なお、オーストラリア政府管轄のETAS(イータス)公式サイトにて申請を行った方は、住所等の詳細項目について追って確認することができません。申請後、全ての項目について確認が出来るのは当サイトにて申請を行った方に限られますのでご了承ください。</p>
+<h2 class="wp-block-heading" id="refusal3">認証拒否となった場合の対処方法</h2>
+<h3 class="wp-block-heading" id="refusal4">間違えて質問事項に「はい」と入力した場合</h3>
+<p>ETAS(イータス)申請は一度申請を行うと情報修正や申請取り消しを行うことができません。<br />正しい情報で再度ETAS(イータス)を申請する場合は、前回の申請から12時間以上時間を空けてから行うようにしましょう。あらためてETAS(イータス)を申請する際は再度申請費用がかかります。再申請を行った結果、再び“認証拒否”の通知が届いた場合は、オーストラリア大使館のビザ査証課へ認証拒否となった経緯を報告のうえご相談ください。状況により、再度ETAS(イータス)申請が認められる場合がございます。<br />なお、オーストラリア大使館へお問い合わせの際、メールの対応言語は英語のみとなっております。日本語での対応はしておりませんので、質問事項を英訳してからお問い合わせをお願いします。</p>
+<div class="Class_AB">
+<a href="mailto:immigration.tokyo@dfat.gov.au" target="_blank">在日オーストラリア大使館ビザ査証課　問合せメールアドレス(英語のみ)</a></div>
+<h3 class="wp-block-heading" id="refusal5">全ての質問事項が「いいえ」で、入力間違いがなかった場合</h3>
+<p>全て正しい内容で申請を行ったにも関わらず、ETAS(イータス)申請が“認証拒否”と判断される場合がございます。<br />ETAS(イータス)の審査はオーストラリア国内のオーストラリア移民国境警備省(Department of Immigration and Border Protection：通称DIBP)にて行っておりますが、認証拒否となった理由について個別の開示や公開をしておりません。質問項目が全て「いいえ」であり入力間違いがない状況で“認証拒否”となった場合は、オーストラリア政府が定める何らかの要因が考えられます。</p>
+<ul class="wp-block-list"><li><strong>海外への渡航ブラックリストに同姓同名の方がいる</strong></li><li><strong>過去に意図的なオーバーステイをした同姓同名の方がいる</strong></li><li><strong>重大な犯歴があるにも関わらず回答を偽っていると判断された場合</strong></li><li><strong>オーストラリアのビザ免除国に該当しない国籍者であると判断された場合</strong></li></ul>
+<p>事実と異なるにも関わらず、これらの理由により認証拒否となった方は正当な事実を証明する必要があり、オーストラリア移民国境警備省(DIBP)に不服申し立てをすることでETAS(イータス)申請が認められる場合がございます。<br />“認証拒否”となった方は基本的にすぐにETAS(イータス)申請を行うことは出来ません。入力した内容を見直し、再申請かビザの取得をご検討ください。</p>
+<h2 class="wp-block-heading" id="refusal6">ビザ申請について</h2>
+<p>ETAS(イータス)申請が“認証拒否”となった方でオーストラリアへの入国を希望する場合は、ビザの取得が必要となります。<br />渡航目的が観光・短期商用であれば「訪問者ビザ」の申請をご検討ください。オーストラリアにて乗り継ぎをして他国へ向かうことを希望する方は「トランジットビザ」など、渡航目的に適したビザの申請が必要です。各種ビザはオーストラリア政府内務省のウェブサイトで申請手続きが可能です。 </p>
+<h2 class="wp-block-heading" id="refusal7">訪問者ビザの申請を行う際の手順</h2>
+<h3 class="wp-block-heading" id="refusal8">1. オーストラリア政府によるオンライン申請システム「ImmAccount」のアカウントを作成</h3>
+<div class="Class_AB">
+<a href="https://online.immi.gov.au/lusc/login" target="_blank">ImmAccount</a></div>
+<h3 class="wp-block-heading" id="refusal9">2. 必要書類の準備</h3>
+<p>訪問者ビザの取得には主に以下の書類が必要となります。<br />提出書類は専門の翻訳家による英訳が必要となります。英訳された書類には翻訳家の氏名・連絡先・認証印が必要です。専門の翻訳家が行っていない英訳の書類は受け付けていないのでご注意ください。</p>
+<ul class="wp-block-list"><li><strong>有効であるパスポート</strong></li><li><strong>身分証明書(戸籍謄本の写し)</strong></li><li><strong>預金残高証明書</strong></li><li><strong>オーストラリア滞在中の予定表</strong></li></ul>
+<p>尚、12か月以上の長期滞在を希望される場合や、申請するビザの種類により必要となる書類が異なります。<br />犯歴がある方や18歳未満の未成年者がビザ申請を行う場合はさらに追加書類が必要となりますので、申請の際には事前に<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing" rel="noreferrer noopener" target="_blank">オーストラリア内務省の公式サイト</a>をご確認ください。</p>
+<h3 class="wp-block-heading" id="refusal10">3. 申請情報を入力、書類のアップロード、申請費用の支払い</h3>
+<p>システムに従い申請情報を慎重に入力してください。入力ミスのないよう、十分に注意して申請を進めましょう。<br />決済完了後はビザ申請を取り消したとしても申請料金の払い戻しはありませんのでご注意ください。</p>
+<h3 class="wp-block-heading" id="refusal11">4. 健康診断の有無を確認</h3>
+<p>申請後、「ImmAccount」内にてビザ取得のために健康診断が必要であるか否かを確認することができます。<br />申請手続き完了後にステータスを確認しましょう。</p>
+<h3 class="wp-block-heading" id="refusal12">5. ビザ承認結果を確認</h3>
+<p>申し込み内容に問題がなければ申請から3週間前後でビザ発給のメールが届きます。<br />通知内容を確認し、メールに記載された情報を出力して大切に保管することをお勧めします。</p>
+<picture>
+<source alt="安心してオーストラリアへ渡航するために" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p13_02.webp" type="image/webp" width="640"/>
+<img alt="安心してオーストラリアへ渡航するために" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p13_02.jpg" width="640"/>
+</picture>
+<h2 class="wp-block-heading" id="refusal13">安心してオーストラリアへ渡航するために</h2>
+<p>オーストラリアは移民の割合が多い国です。そのため、他国から訪れる不法滞在者や違法な就労を行う人物を排除することを目的として、入国の際は厳しい審査が行われます。ETAS(イータス)やビザは渡航者がオーストラリアへ危害を加えることのない人物ではないことを証明する重要な渡航認証となり、渡航の際はどちらかの申請が必須となります。<br />ETAS(イータス)の申請に関しまして「何日前に申請を行うべきか？」との質問が寄せられますが、可能であればオーストラリア渡航が確定した時点でETAS(イータス)の申請を行うよう推奨しています。ETAS(イータス)はほとんどの場合12時間以内に結果が通達されますが、システムメンテナンスの影響や認証保留による追加の書類提出などの理由から審査が遅れるケースがあります。渡航日に取得が間に合わない可能性もありますのでETAS(イータス)の申請は遅くともオーストラリア渡航の3日前までに行いましょう。なお、ビザが必要となる場合は多くの提出物や申請情報の入力が必要となり、書類の手配を含めてETAS(イータス)申請よりも大変時間を要します。申請時に入力ミスや回答ミスが生じた場合はETAS(イータス)やビザの取得に大きな影響を与えますので、スケジュールに余裕を持った状態で慎重に申請を行ってください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/australia-mid.jpg" alt="オーストラリアの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="australia-etas.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
+ <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
+ </a>
+ <a href="australia-sydney.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
+ <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
+ </a>
+ <a href="australia-cairns.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
+ <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
+ </a>
+ <a href="australia-goldcoast.html" class="related-card">
+ <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
+ <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yj8XuwwIE7A4aXWfhXMsr"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

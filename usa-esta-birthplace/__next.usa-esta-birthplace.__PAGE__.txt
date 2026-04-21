@@ -1,0 +1,254 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/0w9ua.z15s_99.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T2fd1,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞ 
+        <a href="#usa">アメリカ</a> ＞ 
+        <a href="#visa-info">渡航ノウハウ</a> ＞ 
+        ESTA申請時の出生した市区町村名
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/usa-hero.jpg" alt="アメリカ" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>ESTA申請時の出生した市区町村名の記載方法を解説</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年03月31日</span>
+        </div>
+
+        <div class="content">
+          
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">ESTA申請で出生した市区町村名について</a>
+                  <ul>
+                    <li><a href="#section1-1">出生地を記入する際の注意点</a></li>
+                    <li><a href="#section1-2">出生地の確認方法</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section2">実際の記入例</a></li>
+                <li><a href="#section3">よくある質問</a></li>
+                <li><a href="#section4">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          
+          <p>ESTA申請時に「出生した市区町村名（City of Birth）」の入力が必要ですが、<strong>出生地と本籍地の違い</strong>を正しく理解している方は意外と少ないのではないでしょうか。この記事では、正しい出生地の記載方法と注意点を詳しく解説します。</p>
+
+          
+          <h2 id="section1">ESTA申請で出生した市区町村名について</h2>
+          <p>ESTA申請では、「<strong>出生地（City of Birth）</strong>」の入力が必須です。出生地とは、<strong>実際に生まれた場所</strong>（病院・助産院・自宅の所在地）を指します。</p>
+
+          <div class="warn-box">
+            <h4>⚠️ 重要</h4>
+            <p><strong>出生地 ≠ 本籍地</strong></p>
+            <p>出生地と本籍地を混同しないようご注意ください。本籍地は変更可能ですが、<strong>出生地は生涯変わりません</strong>。</p>
+          </div>
+
+          <p><strong>出生地と本籍地が異なる主なケース：</strong></p>
+          <ul>
+            <li>出生時の病院所在地と自宅所在地が異なる</li>
+            <li>両親の転勤や海外赴任中に出生した</li>
+            <li>実家を離れた後も本籍地を変更していない</li>
+            <li>結婚や転居で本籍地を変更した</li>
+          </ul>
+
+          <h3 id="section1-1">出生地を記入する際の注意点</h3>
+          
+          <div class="info-box">
+            <h4>✅ 出生地記入の3つの注意点</h4>
+            
+            <p><strong>1. ローマ字で正確に入力</strong></p>
+            <ul>
+              <li>東京都新宿区 → <strong>「TOKYO」</strong>または<strong>「SHINJUKU-KU」</strong></li>
+              <li>神奈川県横浜市 → <strong>「KANAGAWA」</strong>または<strong>「YOKOHAMA-SHI」</strong></li>
+              <li>大阪市中央区 → <strong>「OSAKA」</strong>または<strong>「OSAKA-CITY」</strong></li>
+            </ul>
+
+            <p><strong>2. 記憶が曖昧な状態での入力は避ける</strong></p>
+            <ul>
+              <li>戸籍謄本で確認することを推奨</li>
+              <li>不明な場合は<strong>「UNKNOWN」</strong>と入力可能</li>
+            </ul>
+
+            <p><strong>3. 旧市町村名に注意</strong></p>
+            <ul>
+              <li>市町村合併で名称変更がある場合あり</li>
+              <li>戸籍謄本に記載の名称を使用</li>
+            </ul>
+          </div>
+
+          <h3 id="section1-2">出生地の確認方法</h3>
+          <p>出生地が不明な場合、以下の方法で確認できます：</p>
+
+          <ol>
+            <li><strong>戸籍謄本を取得</strong>（最も確実、即日交付可能）</li>
+            <li><strong>出生届出記載事項証明書を取得</strong></li>
+            <li><strong>母子手帳で確認</strong></li>
+            <li><strong>家族（両親）に確認</strong></li>
+          </ol>
+
+          
+          <h2 id="section2">実際の記入例</h2>
+          <p>以下、具体的な記入例をご紹介します。</p>
+
+          <div class="info-box">
+            <h4>📝 記入例</h4>
+
+            <p><strong>例1: 東京都新宿区西新宿2丁目8-1で出生</strong></p>
+            <p>出生地: <strong>「SHINJUKU-KU」</strong>または<strong>「SHINJUKU」</strong>、<strong>「TOKYO」</strong></p>
+
+            <p><strong>例2: 神奈川県横浜市港北区日吉本町1丁目1-1で出生</strong></p>
+            <p>出生地: <strong>「YOKOHAMA-SHI」</strong>または<strong>「YOKOHAMA」</strong>、<strong>「KANAGAWA」</strong></p>
+
+            <p><strong>例3: 大阪府大阪市中央区大手町2丁目1-22で出生</strong></p>
+            <p>出生地: <strong>「OSAKA-SHI」</strong>または<strong>「OSAKA」</strong></p>
+
+            <p><strong>例4: 東京都田無市南町5丁目で出生（現在は西東京市）</strong></p>
+            <p>出生地: <strong>「TANASHI-SHI」</strong>または<strong>「TANASHI」</strong></p>
+            <div class="warn-box">
+              <h4>⚠️ 注意</h4>
+              <p>現在の住所が「西東京市」でも、出生当時が「田無市」であれば、<strong>「TANASHI-SHI」</strong>と記入してください。</p>
+            </div>
+          </div>
+
+          
+          <h2 id="section3">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: ESTAの出生した市区町村の書き方は？</h3>
+            <p><strong>A:</strong> ローマ字（英語）表記で市区町村名を入力します。</p>
+            <ul>
+              <li><strong>「SHINJUKU-KU」「YOKOHAMA-SHI」</strong>など行政区分も含める</li>
+              <li>戸籍謄本などの公的書類に基づき正確に入力</li>
+              <li>迷う場合は<strong>「SHINJUKU」「YOKOHAMA」</strong>のみでも可</li>
+              <li>記憶が曖昧な場合は<strong>「UNKNOWN」</strong>と入力可能</li>
+            </ul>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: 出生した市区町村名はどうやって調べますか？</h3>
+            <p><strong>A:</strong> 以下の方法で確認できます：</p>
+            <ol>
+              <li><strong>戸籍謄本を取得</strong>（最も確実、即日交付可能）</li>
+              <li><strong>家族（両親）に確認</strong></li>
+              <li><strong>母子手帳で確認</strong></li>
+              <li><strong>市区町村役場へ出生届の記録について問い合わせ</strong></li>
+            </ol>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: ESTAの住所の書き方は？</h3>
+            <p><strong>A:</strong> 現住所もローマ字（英語）表記で入力します。</p>
+            <ul>
+              <li><strong>小さい単位から大きい単位へ入力</strong>（日本語と逆順）</li>
+              <li>都道府県、市区町村、町名・番地、建物名・部屋番号まで入力</li>
+              <li>スペルミスに注意、パスポートや公的書類で確認</li>
+            </ul>
+            <p><strong>例:</strong> 東京都新宿区西新宿2-8-1 新宿ビル10階</p>
+            <p>→ <strong>10F Shinjuku Building, 2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo</strong></p>
+          </div>
+
+          
+          <h2 id="section4">まとめ</h2>
+          <p>ESTA申請時の「出生地」は、実際に生まれた市区町村をローマ字で入力します。<strong>出生地≠本籍地</strong>であることに注意してください。不明な場合は戸籍謄本で確認し、出生当時の名称を正確に入力しましょう。</p>
+
+          <p>誤入力は審査遅延や再申請の原因となるため、十分に確認してから申請を進めてください。</p>
+
+          <div class="info-box">
+            <h4>✅ 出生地記入のポイント</h4>
+            <ul>
+              <li>出生地は実際に生まれた市区町村（病院・自宅の所在地）</li>
+              <li>出生地≠本籍地（混同に注意）</li>
+              <li>ローマ字で正確に入力</li>
+              <li>旧市町村名に注意（市町村合併がある場合）</li>
+              <li>不明な場合は戸籍謄本で確認</li>
+              <li>記憶が曖昧な場合は「UNKNOWN」と入力可能</li>
+            </ul>
+          </div>
+        </div>
+
+        
+        <div <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+      <section class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="usa-esta-application.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
+              </div>
+            </a>
+            
+            <a href="usa-esta-group.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAのグループ申請方法を解説！</h3>
+              </div>
+            </a>
+            
+            <a href="usa-esta-renewal.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA(エスタ)に更新は必要？</h3>
+              </div>
+            </a>
+            
+            <a href="usa-esta-smartphone.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAアプリでの申請方法を解説！</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="canada-eta-about.html">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">カナダeTA</span>
+                <div class="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="australia-etas-about.html">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">オーストラリア</span>
+                <div class="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="usa-esta-application.html">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yj8XuwwIE7A4aXWfhXMsr"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null
