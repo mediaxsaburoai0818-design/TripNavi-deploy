@@ -1,1 +1,7 @@
-<!-- push test 2026年 4月13日 月曜日 21時27分40秒 JST -->
+User-agent: *
+Allow: /
+
+Disallow: /_next/
+Disallow: /404
+
+Sitemap: https://trips-now.com/sitemap.xml
