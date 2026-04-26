@@ -1,0 +1,223 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T2c71,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#asia">アジア</a> ＞
+        <a href="#korea">韓国</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        K-ETAの更新・再申請
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/korea-hero.jpg" alt="韓国" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>韓国K-ETAの更新・再申請方法【期限切れ対応】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">K-ETAに「更新」制度はない</a></li>
+                <li><a href="#section2">K-ETAの再申請が必要なケース</a></li>
+                <li><a href="#section3">K-ETA再申請の手順</a></li>
+                <li><a href="#section4">パスポート更新時のK-ETA対応</a></li>
+                <li><a href="#section5">再申請時の注意点</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>K-ETAの有効期限が切れた、パスポートを更新した――そんな時はどうすればいいのでしょうか？この記事では、K-ETAの更新・再申請方法を詳しく解説します。</p>
+
+          <h2 id="section1">K-ETAに「更新」制度はない</h2>
+          <p>K-ETAには、有効期限を延長する「更新」制度はありません。有効期限が切れた場合は、<strong>新規申請と同じ手続き</strong>で再度K-ETAを取得する必要があります。</p>
+          <p>再申請の場合も、申請料金（10,000ウォン）が必要です。</p>
+
+          <div class="info-box">
+            <h4>📌 K-ETA再申請のポイント</h4>
+            <ul>
+              <li><strong>更新制度:</strong> なし（新規申請が必要）</li>
+              <li><strong>再申請料金:</strong> 10,000ウォン</li>
+              <li><strong>審査期間:</strong> 通常24〜72時間</li>
+              <li><strong>有効期限:</strong> 新たに承認日から3年間</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">K-ETAの再申請が必要なケース</h2>
+          <p>以下のケースではK-ETAの再申請が必要です。</p>
+
+          <h3>1. 有効期限が切れた場合</h3>
+          <p>K-ETAの有効期限（3年間）が経過した場合、自動的に失効します。韓国に渡航する際は再申請が必要です。</p>
+
+          <h3>2. パスポートを更新した場合</h3>
+          <p>パスポートを更新（新しいパスポート番号を取得）した場合、古いパスポートに紐づいたK-ETAは無効になります。</p>
+
+          <h3>3. 氏名が変更になった場合</h3>
+          <p>結婚や改姓により氏名が変わった場合も、再申請が必要です。</p>
+
+          <h3>4. K-ETAが却下された後の再申請</h3>
+          <p>K-ETAが却下（Not OK）された場合、内容を修正して再申請することができます。</p>
+
+          <h2 id="section3">K-ETA再申請の手順</h2>
+          <p>再申請の手順は初回申請と同じです。</p>
+
+          <ol>
+            <li><strong>公式サイトにアクセス:</strong> K-ETA公式サイト（https://www.k-eta.go.kr/）を開く</li>
+            <li><strong>「K-ETAを申請する」をクリック:</strong> 新規申請と同じボタンから開始</li>
+            <li><strong>利用規約に同意・メール認証:</strong> メールアドレスを入力し、認証番号を確認</li>
+            <li><strong>パスポート情報を入力:</strong> 新しいパスポート情報を正確に入力</li>
+            <li><strong>個人情報・渡航情報を入力:</strong> 連絡先、滞在先、職業等を入力</li>
+            <li><strong>顔写真をアップロード:</strong> 最新の顔写真を使用</li>
+            <li><strong>申請料金を決済:</strong> 10,000ウォンを支払い</li>
+            <li><strong>申請完了・結果を待つ:</strong> 通常24〜72時間で結果が通知</li>
+          </ol>
+
+          <h2 id="section4">パスポート更新時のK-ETA対応</h2>
+          <p>パスポートを更新する際のK-ETA関連の手続きをまとめます。</p>
+
+          <div class="info-box">
+            <h4>📋 パスポート更新時のチェックリスト</h4>
+            <ul>
+              <li><strong>古いK-ETA:</strong> 自動的に無効（手続き不要）</li>
+              <li><strong>新しいK-ETA:</strong> 新パスポートで再申請が必要</li>
+              <li><strong>申請タイミング:</strong> 新パスポート受領後すぐに申請可能</li>
+              <li><strong>旧K-ETAの残存期間:</strong> 引き継ぎ不可</li>
+            </ul>
+          </div>
+
+          <div class="warn-box">
+            <h4>⚠️ 注意</h4>
+            <p>渡航直前にパスポートを更新する場合は、K-ETA再申請の審査期間（24〜72時間）を考慮して余裕を持ったスケジュールで手続きしてください。</p>
+          </div>
+
+          <h2 id="section5">再申請時の注意点</h2>
+          <ul>
+            <li><strong>情報の正確性:</strong> パスポート番号、氏名のスペルなどを正確に入力してください</li>
+            <li><strong>写真の更新:</strong> 6か月以内に撮影した新しい写真を使用することを推奨</li>
+            <li><strong>前回の却下理由:</strong> 却下された場合は、原因を確認してから再申請しましょう</li>
+            <li><strong>免除措置の確認:</strong> 2026年12月31日までは日本人は免除措置対象のため、急いで再申請する必要はありません</li>
+          </ul>
+
+          <h2 id="section6">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: K-ETAの期限が切れる前に再申請できますか？</h3>
+            <p><strong>A:</strong> はい、有効期限内でも新規申請は可能です。新しいK-ETAが承認されると、古いK-ETAは自動的に無効になります。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: 再申請時に前回の情報は引き継がれますか？</h3>
+            <p><strong>A:</strong> いいえ、すべての情報を再入力する必要があります。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: パスポート更新後、古いK-ETAで入国できますか？</h3>
+            <p><strong>A:</strong> いいえ、できません。K-ETAはパスポート番号に紐づいているため、新しいパスポートで再申請が必要です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: 再申請は何回でもできますか？</h3>
+            <p><strong>A:</strong> はい、回数制限はありません。ただし、毎回申請料金（10,000ウォン）がかかります。</p>
+          </div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>K-ETAには更新（延長）制度がないため、有効期限切れやパスポート更新時には<strong>新規申請</strong>が必要です。手順は初回申請と同じで、料金は10,000ウォン、審査期間は24〜72時間です。</p>
+          <p>2026年4月現在、日本人は免除措置対象のため急ぐ必要はありませんが、免除措置終了後に備えて再申請の手順を理解しておきましょう。</p>
+
+          <div class="info-box">
+            <h4>✅ 再申請のポイント</h4>
+            <ul>
+              <li>K-ETAに更新制度はなし、新規申請が必要</li>
+              <li>パスポート更新時は再申請必須</li>
+              <li>再申請料金: 10,000ウォン</li>
+              <li>審査期間: 24〜72時間</li>
+              <li>前回の情報は引き継がれない</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/korea-mid.jpg" alt="韓国の風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-application" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-validity" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの有効期限と確認方法</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-rejection" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAが却下された場合の対処法</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-about" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAとは？基本情報</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/korea-keta-application">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAの申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-about">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAとは？基本情報</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-validity">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAの有効期限と確認方法</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XWDhRG5919a9VyTjFvLp0"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

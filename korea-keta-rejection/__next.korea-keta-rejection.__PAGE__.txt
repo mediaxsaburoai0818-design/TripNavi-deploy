@@ -1,0 +1,232 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T2cf1,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#asia">アジア</a> ＞
+        <a href="#korea">韓国</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        K-ETAが却下された場合
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/korea-hero.jpg" alt="韓国" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>韓国K-ETAが却下された場合の対処法【再申請ガイド】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">K-ETAの審査結果の種類</a></li>
+                <li><a href="#section2">K-ETAが却下される主な理由</a></li>
+                <li><a href="#section3">却下された場合の対処法</a></li>
+                <li><a href="#section4">再申請の手順と注意点</a></li>
+                <li><a href="#section5">ビザ申請への切り替え</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>K-ETAを申請したのに却下されてしまった――そんな時でも慌てる必要はありません。この記事では、K-ETAが却下された場合の理由と対処法を詳しく解説します。</p>
+
+          <h2 id="section1">K-ETAの審査結果の種類</h2>
+          <p>K-ETAの審査結果は以下の3種類です。</p>
+
+          <div class="info-box">
+            <h4>📌 審査結果のステータス</h4>
+            <ul>
+              <li><strong>Approved（承認）:</strong> K-ETAが承認され、韓国に渡航可能</li>
+              <li><strong>Selectee（追加審査）:</strong> 追加の審査が必要。審査期間が延長される</li>
+              <li><strong>Not OK（不承認・却下）:</strong> K-ETAが却下され、このままでは渡航不可</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">K-ETAが却下される主な理由</h2>
+          <p>K-ETAが却下される主な理由は以下の通りです。</p>
+
+          <h3>1. パスポート情報の入力ミス</h3>
+          <p>パスポート番号、氏名のスペル、生年月日などの入力ミスは却下の最も多い原因です。特に氏名のローマ字表記がパスポートと一致しない場合に却下されやすくなります。</p>
+
+          <h3>2. 顔写真の不備</h3>
+          <p>写真の品質が基準を満たしていない場合（背景が白でない、サイズ不適切、顔が不鮮明など）に却下されることがあります。</p>
+
+          <h3>3. 犯罪歴の申告</h3>
+          <p>犯罪歴がある場合、追加審査や却下の対象となることがあります。虚偽申告は絶対に避けてください。</p>
+
+          <h3>4. 過去の入国拒否歴</h3>
+          <p>韓国や他国で入国拒否された経験がある場合、却下リスクが高まります。</p>
+
+          <h3>5. オーバーステイ歴</h3>
+          <p>過去に韓国で滞在期限を超過した履歴がある場合、却下される可能性があります。</p>
+
+          <h2 id="section3">却下された場合の対処法</h2>
+
+          <h3>ステップ1: 却下理由を確認する</h3>
+          <p>K-ETA公式サイトの「申請結果照会」で、却下の詳細理由を確認します。入力ミスなのか、セキュリティ上の理由なのかを把握しましょう。</p>
+
+          <h3>ステップ2: 修正して再申請する</h3>
+          <p>入力ミスや写真の不備が原因の場合は、正しい情報で再申請します。再申請に回数制限はありませんが、毎回申請料金（10,000ウォン）がかかります。</p>
+
+          <h3>ステップ3: ビザ申請を検討する</h3>
+          <p>再申請しても却下される場合は、韓国大使館・領事館でビザを申請する方法があります。</p>
+
+          <div class="warn-box">
+            <h4>⚠️ 重要</h4>
+            <p>K-ETAが却下された理由が不明な場合は、韓国法務部の問い合わせ窓口やK-ETAヘルプデスクに連絡してください。</p>
+          </div>
+
+          <h2 id="section4">再申請の手順と注意点</h2>
+          <ol>
+            <li>却下理由を確認し、該当箇所を修正</li>
+            <li>K-ETA公式サイトで新規申請として再申請</li>
+            <li>パスポート情報を慎重に入力（コピー＆ペーストは避ける）</li>
+            <li>規定に合った顔写真を準備</li>
+            <li>申請料金10,000ウォンを決済</li>
+            <li>審査結果を待つ（24〜72時間）</li>
+          </ol>
+
+          <div class="info-box">
+            <h4>📋 再申請時のチェックポイント</h4>
+            <ul>
+              <li>パスポート番号は一文字ずつ確認</li>
+              <li>氏名はパスポート記載のローマ字と完全一致させる</li>
+              <li>写真は白背景、正面、6か月以内撮影</li>
+              <li>犯罪歴や入国拒否歴は正直に申告</li>
+            </ul>
+          </div>
+
+          <h2 id="section5">ビザ申請への切り替え</h2>
+          <p>K-ETAが繰り返し却下される場合は、韓国ビザの申請を検討しましょう。</p>
+
+          <h3>韓国ビザの申請方法</h3>
+          <ul>
+            <li><strong>申請先:</strong> 駐日韓国大使館または最寄りの韓国領事館</li>
+            <li><strong>必要書類:</strong> パスポート、証明写真、申請書、往復航空券、宿泊予約証明など</li>
+            <li><strong>審査期間:</strong> 通常1〜2週間</li>
+            <li><strong>手数料:</strong> ビザの種類により異なる</li>
+          </ul>
+
+          <p>ビザは大使館の審査官が個別に判断するため、K-ETAが却下されてもビザが発給される場合があります。</p>
+
+          <h2 id="section6">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: K-ETAが却下されても再申請できますか？</h3>
+            <p><strong>A:</strong> はい、再申請に回数制限はありません。ただし、毎回申請料金がかかります。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: 却下された理由は教えてもらえますか？</h3>
+            <p><strong>A:</strong> 公式サイトで一般的な理由は確認できますが、詳細な理由は開示されない場合があります。K-ETAヘルプデスクに問い合わせてみてください。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: 免除措置中に却下されたらどうなりますか？</h3>
+            <p><strong>A:</strong> 2026年12月31日までは免除措置対象国の国民はK-ETA不要です。免除措置中であればK-ETAなしで入国できます。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: K-ETAが却下された場合、入国禁止になりますか？</h3>
+            <p><strong>A:</strong> K-ETAの却下は入国禁止を意味しません。ビザを取得すれば韓国に渡航できる場合があります。</p>
+          </div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>K-ETAが却下される主な原因は、入力ミスや写真の不備です。まずは却下理由を確認し、修正のうえ再申請しましょう。再申請でも却下される場合は、韓国大使館・領事館でのビザ申請を検討してください。</p>
+
+          <div class="info-box">
+            <h4>✅ K-ETA却下時のポイント</h4>
+            <ul>
+              <li>まず却下理由を確認する</li>
+              <li>入力ミス・写真不備なら修正して再申請</li>
+              <li>再申請に回数制限なし（毎回10,000ウォン）</li>
+              <li>繰り返し却下されたらビザ申請を検討</li>
+              <li>免除措置中はK-ETA不要で入国可能</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/korea-mid.jpg" alt="韓国の風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-application" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-renewal" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの更新・再申請方法</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-criminal-record" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>犯罪歴がある場合のK-ETA申請</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-check" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの申請状況確認方法</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/korea-keta-application">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAの申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-about">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAとは？基本情報</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-renewal">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAの更新・再申請方法</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XWDhRG5919a9VyTjFvLp0"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

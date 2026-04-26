@@ -1,0 +1,259 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3417,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#asia">アジア</a> ＞
+        <a href="#korea">韓国</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        K-ETAとは？
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/korea-hero.jpg" alt="韓国" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>韓国K-ETAとは？電子渡航認証の基本情報【2026年最新】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">K-ETA（電子渡航認証）とは？</a></li>
+                <li><a href="#section2">K-ETAの導入経緯</a></li>
+                <li><a href="#section3">K-ETAの対象者</a></li>
+                <li><a href="#section4">K-ETAの基本情報まとめ</a></li>
+                <li><a href="#section5">K-ETAと他国の電子渡航認証の比較</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>韓国旅行を計画している方なら「K-ETAって何？」と疑問に思うことがあるでしょう。この記事では、<strong>K-ETA（Korea Electronic Travel Authorization＝電子渡航認証）</strong>の基本情報を徹底解説します。</p>
+
+          <h2 id="section1">K-ETA（電子渡航認証）とは？</h2>
+          <p><strong>K-ETA</strong>とは、ビザ免除国の国民が韓国に90日以内の短期滞在（観光・商用）で入国する際に、事前取得が必要な電子渡航認証制度です。アメリカのESTA（エスタ）やカナダのeTA（イータ）と同様の仕組みで、渡航前にオンラインで申請・取得します。</p>
+          <p>K-ETAは韓国法務部（出入国管理局）が運営しており、公式ウェブサイトまたはスマートフォンアプリから申請できます。</p>
+
+          <div class="info-box">
+            <h4>📌 K-ETAの概要</h4>
+            <ul>
+              <li><strong>正式名称:</strong> Korea Electronic Travel Authorization（電子渡航認証）</li>
+              <li><strong>導入日:</strong> 2021年9月1日</li>
+              <li><strong>申請料金:</strong> 10,000ウォン（約1,100円）</li>
+              <li><strong>有効期限:</strong> 承認日から3年間</li>
+              <li><strong>滞在可能期間:</strong> 1回の渡航で最大90日</li>
+              <li><strong>申請方法:</strong> 公式ウェブサイトまたはスマホアプリ「K-ETA」</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">K-ETAの導入経緯</h2>
+          <p>K-ETAは、韓国の入国管理を強化し、安全な国境管理を実現するために導入されました。以下がその経緯です。</p>
+
+          <h3>導入から現在までの流れ</h3>
+          <ul>
+            <li><strong>2021年9月:</strong> K-ETA制度開始。ビザ免除国の国民を対象に運用を開始</li>
+            <li><strong>2023年7月:</strong> 有効期限が2年から3年に延長</li>
+            <li><strong>2023年11月〜:</strong> 一時免除措置を開始。日本を含む対象国はK-ETA不要に</li>
+            <li><strong>2024年12月:</strong> 免除措置期限（当初の予定）</li>
+            <li><strong>2025年〜:</strong> 免除措置を延長。2026年12月31日まで延長が決定</li>
+          </ul>
+
+          <div class="info-box">
+            <h4>✨ 重要：一時免除措置（2026年12月31日まで）</h4>
+            <p>現在、日本を含む22の国・地域が対象となる一時免除措置が実施されています。免除期間中は、K-ETAを取得しなくても韓国に入国できます。</p>
+            <ul>
+              <li><strong>免除期間:</strong> 2026年12月31日まで</li>
+              <li><strong>対象:</strong> 日本を含む22か国・地域</li>
+              <li><strong>条件:</strong> 90日以内の観光・商用・親族訪問</li>
+            </ul>
+          </div>
+
+          <h3>導入の主な目的</h3>
+          <ul>
+            <li><strong>国境セキュリティの強化:</strong> 渡航者の事前スクリーニング</li>
+            <li><strong>入国管理の効率化:</strong> デジタル化による審査の迅速化</li>
+            <li><strong>不法滞在の防止:</strong> 渡航者情報の事前把握</li>
+            <li><strong>テロ対策:</strong> 入国前の安全確認の徹底</li>
+          </ul>
+
+          <h2 id="section3">K-ETAの対象者</h2>
+
+          <h3>K-ETA申請が必要な方</h3>
+          <ul>
+            <li>ビザ免除国の国民で90日以内の短期滞在（観光・商用）をする方</li>
+            <li>韓国でトランジット時に空港外へ出る方</li>
+          </ul>
+
+          <div class="warn-box">
+            <h4>⚠️ 重要</h4>
+            <p>現在は一時免除措置中（2026年12月31日まで）のため、日本人はK-ETAなしで入国可能です。ただし、免除措置終了後はK-ETA申請が必要になります。</p>
+          </div>
+
+          <h3>K-ETA申請が免除される方</h3>
+          <ul>
+            <li>韓国ビザを取得済みの方</li>
+            <li>一時免除措置対象国の国民（免除期間中）</li>
+            <li>外交・公用パスポート保持者</li>
+            <li>ABTC（APECビジネストラベルカード）保持者</li>
+          </ul>
+
+          <h2 id="section4">K-ETAの基本情報まとめ</h2>
+
+          <div class="info-box">
+            <h4>📋 K-ETA基本情報</h4>
+            <ul>
+              <li><strong>申請料金:</strong> 10,000ウォン（決済手数料別途約300ウォン）</li>
+              <li><strong>有効期限:</strong> 承認日から3年間（パスポート有効期限が短い場合はそちらに準ずる）</li>
+              <li><strong>審査期間:</strong> 通常24〜72時間</li>
+              <li><strong>申請推奨時期:</strong> 出発の1週間前まで</li>
+              <li><strong>渡航回数:</strong> 有効期限内であれば複数回の渡航が可能</li>
+              <li><strong>パスポート要件:</strong> ICチップ付きの有効なパスポート（残存3か月以上）</li>
+            </ul>
+          </div>
+
+          <h3>申請に必要なもの</h3>
+          <ul>
+            <li>ICチップ付きパスポート（有効期限内、残存3か月以上）</li>
+            <li>顔写真データ（JPEG形式、6か月以内撮影、白背景）</li>
+            <li>クレジットカード/デビットカード</li>
+            <li>メールアドレス</li>
+            <li>韓国での滞在先情報</li>
+          </ul>
+
+          <h2 id="section5">K-ETAと他国の電子渡航認証の比較</h2>
+
+          <div class="info-box">
+            <h4>📊 各国の電子渡航認証比較</h4>
+            <ul>
+              <li><strong>韓国K-ETA:</strong> 料金10,000ウォン、有効期限3年、滞在最大90日</li>
+              <li><strong>アメリカESTA:</strong> 料金21ドル、有効期限2年、滞在最大90日</li>
+              <li><strong>カナダeTA:</strong> 料金7カナダドル、有効期限5年、滞在最大180日</li>
+              <li><strong>イギリスETA:</strong> 料金16ポンド、有効期限2年、滞在最大6か月</li>
+              <li><strong>オーストラリアETAS:</strong> 料金20豪ドル、有効期限1年、滞在最大90日</li>
+            </ul>
+          </div>
+
+          <p>K-ETAは有効期限が3年間と最も長く、料金も比較的安価な点が特徴です。</p>
+
+          <h2 id="section6">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: 2026年現在、日本人はK-ETAが必要ですか？</h3>
+            <p><strong>A:</strong> 2026年12月31日までは一時免除措置によりK-ETA不要です。ただし、免除措置終了後は必要になります。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: K-ETAの料金はいくらですか？</h3>
+            <p><strong>A:</strong> 申請料金は<strong>10,000ウォン</strong>（約1,100円）です。別途決済手数料がかかります。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: K-ETAはどこで申請できますか？</h3>
+            <p><strong>A:</strong> K-ETA公式サイト（https://www.k-eta.go.kr/）またはスマートフォンアプリ「K-ETA」から申請できます。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: K-ETAとビザの違いは何ですか？</h3>
+            <p><strong>A:</strong> K-ETAは90日以内の短期滞在向けの電子渡航認証です。長期滞在や就労・留学にはビザが必要です。</p>
+          </div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>K-ETA（韓国電子渡航認証）は、2021年9月に導入された電子渡航認証制度です。ビザ免除国の国民が90日以内の短期滞在で韓国に入国する際に必要となります。</p>
+          <p>2026年4月現在、日本を含む22か国・地域は一時免除措置の対象となっており、2026年12月31日まではK-ETA不要で韓国に入国できます。免除措置終了後に備えて、K-ETAの基本情報を押さえておきましょう。</p>
+
+          <div class="info-box">
+            <h4>✅ K-ETAのポイント</h4>
+            <ul>
+              <li>2021年導入の韓国電子渡航認証制度</li>
+              <li>申請料金: 10,000ウォン（約1,100円）</li>
+              <li>有効期限: 3年間（複数回渡航可能）</li>
+              <li>2026年12月31日まで日本人は免除措置で不要</li>
+              <li>公式サイトまたはアプリから申請可能</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/korea-mid.jpg" alt="韓国の風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-application" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-validity" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの有効期限と確認方法</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-exemption" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETA免除措置【2026年最新】</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-vs-visa" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAとビザの違い</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/korea-keta-application">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAの申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-validity">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAの有効期限と確認方法</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-exemption">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETA免除措置【2026年最新】</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XWDhRG5919a9VyTjFvLp0"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

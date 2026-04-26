@@ -1,0 +1,271 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T337a,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#asia">アジア</a> ＞
+        <a href="#korea">韓国</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        K-ETAスマホ申請
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/korea-hero.jpg" alt="韓国" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>韓国K-ETAのスマホ申請方法【アプリの使い方】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">K-ETAアプリとは</a></li>
+                <li><a href="#section2">アプリのダウンロード方法</a></li>
+                <li><a href="#section3">スマホでのK-ETA申請手順</a></li>
+                <li><a href="#section4">写真撮影のコツ</a></li>
+                <li><a href="#section5">スマホ申請の記入例</a></li>
+                <li><a href="#section6">ウェブサイトとアプリの違い</a></li>
+                <li><a href="#section7">よくある質問</a></li>
+                <li><a href="#section8">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>K-ETAはスマートフォンアプリからも申請できます。この記事では、K-ETAアプリのダウンロードから申請完了までの手順を詳しく解説します。</p>
+
+          <h2 id="section1">K-ETAアプリとは</h2>
+          <p><strong>K-ETAアプリ</strong>は、韓国法務部が提供する公式アプリです。スマートフォンから簡単にK-ETAの申請・確認ができます。</p>
+
+          <div class="info-box">
+            <h4>📌 K-ETAアプリの特徴</h4>
+            <ul>
+              <li><strong>アプリ名:</strong> K-ETA</li>
+              <li><strong>提供元:</strong> 韓国法務部（Ministry of Justice）</li>
+              <li><strong>対応OS:</strong> iOS / Android</li>
+              <li><strong>料金:</strong> アプリ無料（申請料金10,000ウォンは別途）</li>
+              <li><strong>言語:</strong> 日本語対応</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">アプリのダウンロード方法</h2>
+
+          <h3>iPhoneの場合</h3>
+          <ol>
+            <li>App Storeを開く</li>
+            <li>「K-ETA」で検索</li>
+            <li>韓国法務部（Ministry of Justice）提供のアプリをダウンロード</li>
+          </ol>
+
+          <h3>Androidの場合</h3>
+          <ol>
+            <li>Google Play Storeを開く</li>
+            <li>「K-ETA」で検索</li>
+            <li>韓国法務部提供のアプリをダウンロード</li>
+          </ol>
+
+          <div class="warn-box">
+            <h4>⚠️ 注意</h4>
+            <p>類似のアプリが存在する場合があります。必ず<strong>韓国法務部（Ministry of Justice）</strong>が提供する公式アプリをダウンロードしてください。非公式アプリは高額な手数料を請求する場合があります。</p>
+          </div>
+
+          <h2 id="section3">スマホでのK-ETA申請手順</h2>
+
+          <h3>ステップ1: アプリを起動し言語を選択</h3>
+          <p>アプリを起動し、言語設定で「日本語」を選択します。</p>
+
+          <h3>ステップ2: 「K-ETAを申請する」をタップ</h3>
+          <p>トップ画面の「K-ETAを申請する」ボタンをタップします。</p>
+
+          <h3>ステップ3: 利用規約に同意・メール認証</h3>
+          <p>利用規約を確認し同意。メールアドレスを入力して認証番号を受け取り、入力します。</p>
+
+          <h3>ステップ4: パスポート情報の入力</h3>
+          <p>スマホのカメラでパスポートのICチップを読み取るか、手動で情報を入力します。アプリならカメラでパスポートを撮影して自動読み取りが可能です。</p>
+
+          <h3>ステップ5: 個人情報・渡航情報の入力</h3>
+          <p>連絡先、韓国での滞在先住所、職業、入国目的などを入力します。</p>
+
+          <h3>ステップ6: 顔写真の撮影・アップロード</h3>
+          <p>アプリ内のカメラ機能で顔写真を撮影するか、ギャラリーから写真をアップロードします。</p>
+
+          <h3>ステップ7: 健康・セキュリティに関する質問に回答</h3>
+          <p>感染症の有無、犯罪歴などの質問に回答します。</p>
+
+          <h3>ステップ8: 入力内容の確認</h3>
+          <p>すべての入力内容を確認し、間違いがないかチェックします。</p>
+
+          <h3>ステップ9: 申請料金の決済</h3>
+          <p>10,000ウォン（約1,100円）をクレジットカード/デビットカードで決済します。</p>
+
+          <h3>ステップ10: 申請完了</h3>
+          <p>申請完了画面が表示されます。申請番号を控えておきましょう。審査結果は通常24〜72時間で通知されます。</p>
+
+          <h2 id="section4">写真撮影のコツ</h2>
+          <p>K-ETA申請で最も失敗しやすいのが顔写真です。以下のポイントを押さえましょう。</p>
+
+          <div class="info-box">
+            <h4>📷 写真の規格</h4>
+            <ul>
+              <li><strong>形式:</strong> JPEG</li>
+              <li><strong>サイズ:</strong> 100KB以下</li>
+              <li><strong>解像度:</strong> 700×700ピクセル以下</li>
+              <li><strong>背景:</strong> 白色（無地）</li>
+              <li><strong>撮影時期:</strong> 6か月以内</li>
+            </ul>
+          </div>
+
+          <h3>撮影のポイント</h3>
+          <ul>
+            <li>正面を向き、表情は自然に</li>
+            <li>メガネは外す（反射防止のため）</li>
+            <li>帽子やヘッドバンドは外す（宗教上の理由を除く）</li>
+            <li>顔全体が明るく写るようにする</li>
+            <li>白い壁を背景にする</li>
+            <li>影が入らないようにする</li>
+          </ul>
+
+          <h2 id="section5">スマホ申請の記入例</h2>
+
+          <div class="info-box">
+            <h4>📝 主な入力項目と記入例</h4>
+            <ul>
+              <li><strong>Family Name:</strong> YAMADA（パスポート記載通り）</li>
+              <li><strong>Given Name:</strong> TARO（パスポート記載通り）</li>
+              <li><strong>Passport Number:</strong> TK1234567</li>
+              <li><strong>Date of Birth:</strong> 1990/01/15</li>
+              <li><strong>Nationality:</strong> Japan</li>
+              <li><strong>Phone:</strong> +81-90-1234-5678</li>
+              <li><strong>Address in Korea:</strong> ホテル名・住所を英語で入力</li>
+              <li><strong>Purpose of Visit:</strong> Tourism</li>
+            </ul>
+          </div>
+
+          <h2 id="section6">ウェブサイトとアプリの違い</h2>
+          <p>K-ETAはウェブサイトでもアプリでも申請できますが、以下の違いがあります。</p>
+          <ul>
+            <li><strong>パスポート読み取り:</strong> アプリはカメラで自動読み取り可能。ウェブは手入力</li>
+            <li><strong>顔写真:</strong> アプリはその場で撮影可能。ウェブは事前に準備した写真をアップロード</li>
+            <li><strong>申請結果の確認:</strong> アプリはプッシュ通知で結果を受け取れる</li>
+            <li><strong>申請料金:</strong> どちらも同額（10,000ウォン）</li>
+          </ul>
+
+          <h2 id="section7">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: K-ETAアプリは無料ですか？</h3>
+            <p><strong>A:</strong> アプリのダウンロードは無料です。K-ETA申請料金（10,000ウォン）は別途かかります。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: アプリとウェブサイト、どちらがおすすめですか？</h3>
+            <p><strong>A:</strong> パスポートのカメラ読み取り機能があるアプリがおすすめです。入力ミスを減らせます。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: 家族分もアプリから申請できますか？</h3>
+            <p><strong>A:</strong> はい、1つのアプリから複数人分の申請が可能です。「グループ申請」機能を利用してください。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: アプリで申請結果を確認できますか？</h3>
+            <p><strong>A:</strong> はい、アプリ内の「申請結果照会」から確認できます。プッシュ通知でも結果が届きます。</p>
+          </div>
+
+          <h2 id="section8">まとめ</h2>
+          <p>K-ETAアプリを使えば、スマートフォンから簡単にK-ETAを申請できます。パスポートのカメラ読み取りや顔写真のその場撮影など、アプリならではの便利な機能があります。</p>
+          <p>2026年4月現在、日本人は免除措置対象のためK-ETA申請は不要ですが、免除措置終了後に備えてアプリをダウンロードしておくと安心です。</p>
+
+          <div class="info-box">
+            <h4>✅ スマホ申請のポイント</h4>
+            <ul>
+              <li>公式アプリ「K-ETA」をダウンロード</li>
+              <li>パスポートはカメラで自動読み取り可能</li>
+              <li>顔写真はアプリ内で撮影できる</li>
+              <li>申請料金: 10,000ウォン</li>
+              <li>審査結果はプッシュ通知で受け取れる</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/korea-mid.jpg" alt="韓国の風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-application" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-about" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAとは？基本情報</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-check" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの申請状況確認方法</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-validity" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの有効期限と確認方法</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/korea-keta-application">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAの申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-about">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAとは？基本情報</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-validity">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAの有効期限と確認方法</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XWDhRG5919a9VyTjFvLp0"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

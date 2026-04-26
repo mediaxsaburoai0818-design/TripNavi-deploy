@@ -1,0 +1,241 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T2e9b,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#asia">アジア</a> ＞
+        <a href="#korea">韓国</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        K-ETA免除措置
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/korea-hero.jpg" alt="韓国" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>韓国K-ETA免除措置【2026年最新】対象者と期間</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">K-ETA免除措置とは</a></li>
+                <li><a href="#section2">免除措置の経緯</a></li>
+                <li><a href="#section3">現在の免除措置の概要</a></li>
+                <li><a href="#section4">免除対象国・地域一覧</a></li>
+                <li><a href="#section5">免除措置中の入国に必要なもの</a></li>
+                <li><a href="#section6">免除措置終了後の対応</a></li>
+                <li><a href="#section7">よくある質問</a></li>
+                <li><a href="#section8">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>韓国K-ETAは現在、一時免除措置が実施されています。この記事では、免除措置の経緯、対象者、免除期間の最新情報を詳しく解説します。</p>
+
+          <h2 id="section1">K-ETA免除措置とは</h2>
+          <p><strong>K-ETA免除措置</strong>とは、韓国政府が特定の国・地域の国民に対して、K-ETAの取得を一時的に免除する措置です。免除措置中は、対象国の国民はK-ETAなしで韓国に入国できます。</p>
+
+          <div class="info-box">
+            <h4>✨ 現在の免除措置</h4>
+            <ul>
+              <li><strong>免除期間:</strong> 2026年12月31日まで</li>
+              <li><strong>対象:</strong> 日本を含む22か国・地域</li>
+              <li><strong>条件:</strong> 90日以内の観光・商用・親族訪問</li>
+              <li><strong>K-ETA:</strong> 申請不要</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">免除措置の経緯</h2>
+          <p>K-ETA免除措置は、韓国の観光振興策の一環として段階的に導入・延長されてきました。</p>
+
+          <h3>免除措置のタイムライン</h3>
+          <ul>
+            <li><strong>2021年9月:</strong> K-ETA制度開始。すべてのビザ免除国の国民にK-ETA取得を義務化</li>
+            <li><strong>2023年4月:</strong> 一部の国を対象にK-ETA一時免除措置を開始。コロナ後の観光回復を促進</li>
+            <li><strong>2023年11月:</strong> 日本を含む22か国・地域に免除対象を拡大</li>
+            <li><strong>2024年12月:</strong> 当初の免除期限（延長が決定）</li>
+            <li><strong>2025年:</strong> 免除措置を延長</li>
+            <li><strong>2026年:</strong> 2026年12月31日まで再延長が決定</li>
+          </ul>
+
+          <h3>免除措置の目的</h3>
+          <ul>
+            <li>韓国観光の活性化</li>
+            <li>入国手続きの簡素化</li>
+            <li>訪韓外国人旅行者の増加促進</li>
+            <li>コロナ後のインバウンド回復支援</li>
+          </ul>
+
+          <h2 id="section3">現在の免除措置の概要</h2>
+
+          <div class="info-box">
+            <h4>📋 2026年4月現在の免除措置</h4>
+            <ul>
+              <li><strong>免除期間:</strong> 2026年12月31日まで</li>
+              <li><strong>対象者:</strong> 22か国・地域のパスポート保持者</li>
+              <li><strong>滞在目的:</strong> 観光、商用、親族訪問（90日以内）</li>
+              <li><strong>免除内容:</strong> K-ETAの申請・取得が不要</li>
+              <li><strong>注意:</strong> e-Arrival Card（電子入国申告書）の提出は必要</li>
+            </ul>
+          </div>
+
+          <div class="warn-box">
+            <h4>⚠️ 注意</h4>
+            <p>K-ETAが免除されても、<strong>e-Arrival Card（電子入国申告書）</strong>の提出は必要です。韓国到着の3日前から提出可能です。</p>
+          </div>
+
+          <h2 id="section4">免除対象国・地域一覧</h2>
+          <p>以下の22か国・地域がK-ETA免除措置の対象です。</p>
+
+          <div class="info-box">
+            <h4>🌏 免除対象国・地域（22か国・地域）</h4>
+            <ul>
+              <li><strong>アジア・オセアニア:</strong> 日本、台湾、マカオ、香港、シンガポール、オーストラリア、ニュージーランド</li>
+              <li><strong>北米:</strong> アメリカ、カナダ</li>
+              <li><strong>ヨーロッパ:</strong> イギリス、ドイツ、フランス、イタリア、スペイン、オランダ、ベルギー、オーストリア、スウェーデン、ノルウェー、デンマーク、フィンランド、ポーランド</li>
+            </ul>
+          </div>
+
+          <h2 id="section5">免除措置中の入国に必要なもの</h2>
+          <p>K-ETA免除措置中でも、韓国入国には以下のものが必要です。</p>
+          <ul>
+            <li><strong>有効なパスポート:</strong> 残存期間3か月以上を推奨</li>
+            <li><strong>e-Arrival Card:</strong> 電子入国申告書（渡航3日前から提出可能）</li>
+            <li><strong>帰国便の航空券:</strong> 帰国の意思を証明するもの</li>
+            <li><strong>滞在先情報:</strong> ホテル名・住所</li>
+          </ul>
+
+          <h2 id="section6">免除措置終了後の対応</h2>
+          <p>免除措置が終了した場合、対象国の国民は再びK-ETAの取得が必要になります。</p>
+
+          <h3>事前に準備しておくこと</h3>
+          <ul>
+            <li>K-ETA公式サイトのアカウント作成</li>
+            <li>K-ETAアプリのダウンロード</li>
+            <li>パスポートの有効期限確認</li>
+            <li>規格に合った顔写真の準備</li>
+          </ul>
+
+          <p>免除措置は今後も延長される可能性がありますが、突然終了する可能性もあります。渡航前に必ず最新情報を確認してください。</p>
+
+          <h2 id="section7">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: K-ETA免除措置はいつまで続きますか？</h3>
+            <p><strong>A:</strong> 2026年4月現在、<strong>2026年12月31日まで</strong>延長されています。今後さらに延長される可能性もあります。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: 免除措置中でもK-ETAを申請できますか？</h3>
+            <p><strong>A:</strong> はい、免除措置中でもK-ETAの申請は可能です。免除措置終了後に備えて事前取得することもできます。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: 免除措置の対象外の国の人はどうすればいいですか？</h3>
+            <p><strong>A:</strong> 免除措置対象外のビザ免除国の国民は、通常通りK-ETAの申請が必要です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: 免除措置中のe-Arrival Cardとは何ですか？</h3>
+            <p><strong>A:</strong> 電子入国申告書で、韓国入国時に必要な情報（渡航目的、滞在先など）を事前にオンラインで提出するものです。無料で、韓国到着の3日前から提出できます。</p>
+          </div>
+
+          <h2 id="section8">まとめ</h2>
+          <p>K-ETA免除措置は2026年12月31日まで延長されており、日本を含む22か国・地域の国民はK-ETA不要で韓国に入国できます。ただし、e-Arrival Cardの提出は必要です。</p>
+          <p>免除措置は今後も延長される可能性がありますが、終了する可能性もあるため、渡航前に必ず最新情報を確認しましょう。</p>
+
+          <div class="info-box">
+            <h4>✅ 免除措置のポイント</h4>
+            <ul>
+              <li>2026年12月31日までK-ETA不要</li>
+              <li>日本を含む22か国・地域が対象</li>
+              <li>90日以内の観光・商用・親族訪問が対象</li>
+              <li>e-Arrival Cardの提出は必要</li>
+              <li>免除措置中でもK-ETA申請は可能</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/korea-mid.jpg" alt="韓国の風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-application" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-about" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAとは？基本情報</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-vs-visa" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAとビザの違い</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-transit" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>トランジット時のK-ETA要否</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/korea-keta-application">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAの申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-about">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAとは？基本情報</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-vs-visa">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAとビザの違い</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XWDhRG5919a9VyTjFvLp0"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

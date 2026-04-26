@@ -1,0 +1,243 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T2d52,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#asia">アジア</a> ＞
+        <a href="#korea">韓国</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        K-ETA申請状況確認
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/korea-hero.jpg" alt="韓国" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>韓国K-ETAの申請状況確認方法【ステータス照会】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">K-ETAの審査期間</a></li>
+                <li><a href="#section2">申請状況の確認方法</a></li>
+                <li><a href="#section3">審査結果のステータスの見方</a></li>
+                <li><a href="#section4">審査が遅れている場合の対応</a></li>
+                <li><a href="#section5">K-ETAの問い合わせ方法</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>K-ETAを申請したけど結果がまだ来ない、ステータスの確認方法がわからない――この記事では、K-ETAの申請状況確認方法を詳しく解説します。</p>
+
+          <h2 id="section1">K-ETAの審査期間</h2>
+          <p>K-ETAの審査は通常<strong>24〜72時間</strong>で完了します。ただし、追加審査が必要な場合はそれ以上かかることがあります。</p>
+
+          <div class="info-box">
+            <h4>📌 審査期間の目安</h4>
+            <ul>
+              <li><strong>通常:</strong> 24〜72時間</li>
+              <li><strong>早い場合:</strong> 数時間〜半日</li>
+              <li><strong>追加審査:</strong> 3日〜1週間以上</li>
+              <li><strong>繁忙期:</strong> 通常より長くなる場合あり</li>
+            </ul>
+          </div>
+
+          <p>出発日の<strong>最低1週間前まで</strong>に申請することをおすすめします。</p>
+
+          <h2 id="section2">申請状況の確認方法</h2>
+          <p>K-ETAの申請状況は、以下の3つの方法で確認できます。</p>
+
+          <h3>方法1: K-ETA公式ウェブサイトで確認</h3>
+          <ol>
+            <li>K-ETA公式サイト（<strong>https://www.k-eta.go.kr/</strong>）にアクセス</li>
+            <li>トップページの「<strong>申請結果照会</strong>」をクリック</li>
+            <li>以下の情報を入力:
+              <ul>
+                <li>パスポート番号</li>
+                <li>生年月日</li>
+                <li>申請番号（受付完了メールに記載）</li>
+              </ul>
+            </li>
+            <li>「照会」ボタンをクリック</li>
+            <li>審査ステータスと結果が表示される</li>
+          </ol>
+
+          <h3>方法2: K-ETAアプリで確認</h3>
+          <ol>
+            <li>K-ETAアプリを起動</li>
+            <li>「申請結果照会」をタップ</li>
+            <li>パスポート番号と生年月日を入力</li>
+            <li>審査ステータスが表示される</li>
+          </ol>
+          <p>アプリはプッシュ通知にも対応しているため、審査完了時に自動で通知を受け取れます。</p>
+
+          <h3>方法3: メールで確認</h3>
+          <p>審査完了後、申請時に登録したメールアドレスに結果通知メールが届きます。メールが届かない場合は、迷惑メールフォルダもチェックしてください。</p>
+
+          <h2 id="section3">審査結果のステータスの見方</h2>
+
+          <div class="info-box">
+            <h4>📋 ステータス一覧</h4>
+            <ul>
+              <li><strong>Application Received（申請受付済み）:</strong> 申請が受理され、審査待ちの状態</li>
+              <li><strong>Under Review（審査中）:</strong> 審査が進行中</li>
+              <li><strong>Approved（承認）:</strong> K-ETAが承認されました。韓国に渡航可能です</li>
+              <li><strong>Selectee（追加審査）:</strong> 追加の審査が必要な状態。結果が出るまで待ちましょう</li>
+              <li><strong>Not OK（不承認）:</strong> K-ETAが却下されました。再申請またはビザ申請を検討してください</li>
+            </ul>
+          </div>
+
+          <h2 id="section4">審査が遅れている場合の対応</h2>
+          <p>申請から72時間以上経っても結果が出ない場合は、以下を試してください。</p>
+
+          <h3>1. 公式サイトで再確認</h3>
+          <p>メールが届いていなくても、公式サイトでは結果が表示されている場合があります。</p>
+
+          <h3>2. メールの迷惑メールフォルダを確認</h3>
+          <p>K-ETAからのメールが迷惑メールに分類されている可能性があります。</p>
+
+          <h3>3. K-ETAヘルプデスクに問い合わせ</h3>
+          <p>72時間以上経過しても結果が出ない場合は、ヘルプデスクに連絡してください。</p>
+
+          <h2 id="section5">K-ETAの問い合わせ方法</h2>
+
+          <div class="info-box">
+            <h4>📞 問い合わせ先</h4>
+            <ul>
+              <li><strong>K-ETAヘルプデスク:</strong> K-ETA公式サイトのお問い合わせページから連絡</li>
+              <li><strong>韓国観光公社:</strong> 日本語対応の観光案内電話 +82-2-1330</li>
+              <li><strong>駐日韓国大使館:</strong> 査証関連の問い合わせ</li>
+            </ul>
+          </div>
+
+          <h3>問い合わせ時に必要な情報</h3>
+          <ul>
+            <li>申請番号</li>
+            <li>パスポート番号</li>
+            <li>申請日</li>
+            <li>登録メールアドレス</li>
+            <li>渡航予定日</li>
+          </ul>
+
+          <h2 id="section6">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: K-ETAの審査結果はどのくらいで届きますか？</h3>
+            <p><strong>A:</strong> 通常<strong>24〜72時間</strong>です。早い場合は数時間で結果が出ます。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: 審査結果のメールが届きません。</h3>
+            <p><strong>A:</strong> 迷惑メールフォルダを確認してください。それでも届かない場合は、公式サイトの「申請結果照会」から直接確認できます。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: 「Selectee」と表示された場合はどうすればいいですか？</h3>
+            <p><strong>A:</strong> 追加審査中のため、結果が出るまでお待ちください。通常より時間がかかる場合がありますが、追加で手続きは不要です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: 出発まで時間がないのに審査結果が出ません。</h3>
+            <p><strong>A:</strong> K-ETAヘルプデスクに緊急の旨を伝えて問い合わせてください。ただし、審査の迅速化が保証されるわけではありません。出発の1週間前までに申請することを推奨します。</p>
+          </div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>K-ETAの審査は通常24〜72時間で完了します。申請状況は公式サイト、アプリ、メールの3つの方法で確認できます。72時間以上経過しても結果が出ない場合は、K-ETAヘルプデスクに問い合わせましょう。</p>
+
+          <div class="info-box">
+            <h4>✅ 申請状況確認のポイント</h4>
+            <ul>
+              <li>審査期間: 通常24〜72時間</li>
+              <li>確認方法: 公式サイト・アプリ・メール</li>
+              <li>確認に必要: パスポート番号・生年月日・申請番号</li>
+              <li>遅延時はヘルプデスクに問い合わせ</li>
+              <li>出発1週間前までの申請を推奨</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/korea-mid.jpg" alt="韓国の風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-application" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-rejection" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAが却下された場合の対処法</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-smartphone" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAのスマホ申請方法</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-validity" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの有効期限と確認方法</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/korea-keta-application">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAの申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-about">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAとは？基本情報</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-smartphone">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAのスマホ申請方法</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XWDhRG5919a9VyTjFvLp0"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

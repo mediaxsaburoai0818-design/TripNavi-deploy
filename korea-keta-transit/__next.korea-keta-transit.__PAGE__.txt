@@ -1,0 +1,224 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T2c3c,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#asia">アジア</a> ＞
+        <a href="#korea">韓国</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        トランジット時のK-ETA
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/korea-hero.jpg" alt="韓国" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>韓国トランジット時のK-ETA要否【仁川空港乗り継ぎ】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">トランジット時のK-ETA要否の基本ルール</a></li>
+                <li><a href="#section2">空港外に出ない場合（乗り継ぎのみ）</a></li>
+                <li><a href="#section3">空港外に出る場合</a></li>
+                <li><a href="#section4">TWOV（Transit Without Visa）制度</a></li>
+                <li><a href="#section5">仁川空港でのトランジットガイド</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>韓国の仁川空港で乗り継ぎをする予定の方にとって、「K-ETAは必要なの？」は重要な疑問です。この記事では、トランジット時のK-ETA要否を詳しく解説します。</p>
+
+          <h2 id="section1">トランジット時のK-ETA要否の基本ルール</h2>
+          <p>韓国でのトランジット時にK-ETAが必要かどうかは、<strong>空港外に出るかどうか</strong>で決まります。</p>
+
+          <div class="info-box">
+            <h4>📌 基本ルール</h4>
+            <ul>
+              <li><strong>空港外に出ない（制限エリア内で乗り継ぎ）:</strong> K-ETA不要</li>
+              <li><strong>空港外に出る（入国審査を通過）:</strong> K-ETAが必要（免除措置対象者を除く）</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">空港外に出ない場合（乗り継ぎのみ）</h2>
+          <p>仁川空港のトランジットエリア（制限区域内）で乗り継ぐ場合、K-ETAは<strong>不要</strong>です。</p>
+          <p>ただし、以下の条件を満たす必要があります。</p>
+          <ul>
+            <li>同日中の乗り継ぎ便があること</li>
+            <li>乗り継ぎ便の搭乗券（または予約確認書）を持っていること</li>
+            <li>入国審査を通過しないこと</li>
+          </ul>
+
+          <h2 id="section3">空港外に出る場合</h2>
+          <p>乗り継ぎの待ち時間にソウル観光をしたい場合など、空港外に出る場合は<strong>韓国に入国する</strong>ことになるため、通常はK-ETAが必要です。</p>
+
+          <div class="warn-box">
+            <h4>⚠️ 現在の免除措置</h4>
+            <p>2026年12月31日までは、日本人は一時免除措置によりK-ETA不要で入国可能です。トランジット時に空港外に出る場合も免除措置の対象です。</p>
+          </div>
+
+          <h2 id="section4">TWOV（Transit Without Visa）制度</h2>
+          <p>韓国には<strong>TWOV（Transit Without Visa）</strong>制度があり、一定の条件を満たせばビザやK-ETAなしでトランジット入国が可能です。</p>
+
+          <h3>TWOV制度の条件</h3>
+          <ul>
+            <li><strong>対象空港:</strong> 仁川国際空港</li>
+            <li><strong>滞在時間:</strong> 原則24時間以内（条件により最大72時間まで）</li>
+            <li><strong>対象者:</strong> ビザ免除国の国民で、第三国への乗り継ぎ便を持つ方</li>
+            <li><strong>必要書類:</strong> 有効なパスポート、第三国への航空券</li>
+          </ul>
+
+          <div class="info-box">
+            <h4>📋 TWOV利用時の注意点</h4>
+            <ul>
+              <li>TWOV制度は変更される場合があります。渡航前に最新情報を確認してください</li>
+              <li>入国審査官の裁量で入国が拒否される場合があります</li>
+              <li>TWOV中のソウル市内観光は制限される場合があります</li>
+              <li>荷物の受け取り・再チェックインが必要な場合は入国が必要です</li>
+            </ul>
+          </div>
+
+          <h2 id="section5">仁川空港でのトランジットガイド</h2>
+
+          <h3>制限エリア内の施設</h3>
+          <p>仁川空港のトランジットエリアには以下の施設があります。入国せずに利用できます。</p>
+          <ul>
+            <li>無料シャワー室</li>
+            <li>トランジットホテル（有料）</li>
+            <li>レストラン・カフェ</li>
+            <li>免税店</li>
+            <li>韓国文化体験ゾーン</li>
+            <li>無料Wi-Fi</li>
+          </ul>
+
+          <h3>長時間乗り継ぎの場合</h3>
+          <p>乗り継ぎ時間が長い場合は、以下の選択肢があります。</p>
+          <ul>
+            <li><strong>制限エリア内で過ごす:</strong> K-ETA不要。トランジットホテルやラウンジを利用</li>
+            <li><strong>トランジットツアーに参加:</strong> 仁川空港公式のトランジットツアー（無料・有料あり）を利用</li>
+            <li><strong>入国してソウル観光:</strong> K-ETAが必要（免除措置中は不要）</li>
+          </ul>
+
+          <h2 id="section6">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: 仁川空港で乗り継ぎだけの場合、K-ETAは必要ですか？</h3>
+            <p><strong>A:</strong> 空港の制限エリア内で乗り継ぐ場合は不要です。空港外に出る場合は通常必要ですが、免除措置中は不要です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: トランジットで空港外に出て観光できますか？</h3>
+            <p><strong>A:</strong> はい、K-ETA（または免除措置中）と十分な乗り継ぎ時間があれば可能です。ただし、再度のセキュリティチェックに時間がかかることを考慮してください。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: TWOV制度は日本人も利用できますか？</h3>
+            <p><strong>A:</strong> はい、日本人はビザ免除国の国民のため、条件を満たせばTWOV制度を利用できます。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: 荷物が最終目的地まで通しで送られない場合はどうなりますか？</h3>
+            <p><strong>A:</strong> 荷物を受け取るためには入国審査を通過する必要があり、K-ETA（または免除措置中）が必要です。</p>
+          </div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>仁川空港でのトランジット時、空港の制限エリア内で乗り継ぐ場合はK-ETA不要です。空港外に出る場合は通常K-ETAが必要ですが、2026年12月31日までは免除措置により日本人は不要です。</p>
+          <p>TWOV制度を利用すれば、一定条件下でK-ETAなしでの短時間入国も可能です。乗り継ぎの状況に応じて適切な準備をしましょう。</p>
+
+          <div class="info-box">
+            <h4>✅ トランジット時のポイント</h4>
+            <ul>
+              <li>制限エリア内の乗り継ぎ: K-ETA不要</li>
+              <li>空港外に出る場合: 通常K-ETA必要（免除措置中は不要）</li>
+              <li>TWOV制度で短時間入国が可能な場合あり</li>
+              <li>仁川空港の制限エリアは充実した施設あり</li>
+              <li>2026年12月31日まで日本人は免除措置対象</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/korea-mid.jpg" alt="韓国の風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-application" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-about" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAとは？基本情報</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-vs-visa" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAとビザの違い</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-exemption" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETA免除措置【2026年最新】</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/korea-keta-application">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAの申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-about">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAとは？基本情報</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-exemption">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETA免除措置【2026年最新】</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XWDhRG5919a9VyTjFvLp0"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

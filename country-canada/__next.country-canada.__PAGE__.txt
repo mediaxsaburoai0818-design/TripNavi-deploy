@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
 2:T4301,<div class="area-hero" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1400&h=400&fit=crop')">
  <div class="area-hero-overlay"></div>
@@ -330,6 +330,6 @@
  </div>
  </section>
  </div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"x6Xzz3hN1MM2NxNMoo8HE"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XWDhRG5919a9VyTjFvLp0"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

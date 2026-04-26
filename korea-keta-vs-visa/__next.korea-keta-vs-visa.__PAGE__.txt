@@ -1,0 +1,269 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T37cb,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#asia">アジア</a> ＞
+        <a href="#korea">韓国</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        K-ETAとビザの違い
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/korea-hero.jpg" alt="韓国" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>韓国K-ETAとビザの違い【どっちが必要？】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">K-ETAとビザの基本的な違い</a></li>
+                <li><a href="#section2">K-ETAとビザの比較表</a></li>
+                <li><a href="#section3">目的別：K-ETAとビザどっちが必要？</a></li>
+                <li><a href="#section4">韓国ビザの種類</a></li>
+                <li><a href="#section5">K-ETAからビザへの切り替え</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>韓国渡航の際、「K-ETAとビザ、どちらが必要？」と迷う方は多いでしょう。この記事では、K-ETAとビザの違いを比較表付きでわかりやすく解説します。</p>
+
+          <h2 id="section1">K-ETAとビザの基本的な違い</h2>
+          <p><strong>K-ETA</strong>は90日以内の短期滞在（観光・商用）向けの電子渡航認証であり、<strong>ビザ</strong>は長期滞在や就労・留学など特定の目的で韓国に滞在するための査証です。</p>
+
+          <div class="info-box">
+            <h4>📌 ひと言で言うと</h4>
+            <ul>
+              <li><strong>K-ETA:</strong> 短期の観光・商用向け。オンラインで簡単に取得</li>
+              <li><strong>ビザ:</strong> 長期滞在・就労・留学向け。大使館/領事館で申請</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">K-ETAとビザの比較表</h2>
+
+          <div style="overflow-x: auto; margin: 20px 0;">
+            <table style="width: 100%; border-collapse: collapse; background: #fff;">
+              <thead>
+                <tr style="background: var(--primary-light);">
+                  <th style="padding: 12px; border: 1px solid var(--gray-200); text-align: left;">項目</th>
+                  <th style="padding: 12px; border: 1px solid var(--gray-200); text-align: left;">K-ETA</th>
+                  <th style="padding: 12px; border: 1px solid var(--gray-200); text-align: left;">ビザ（査証）</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>目的</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">観光・商用（90日以内）</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">就労・留学・長期滞在など</td>
+                </tr>
+                <tr style="background: var(--gray-50);">
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>滞在期間</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">最長90日</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">ビザの種類により異なる（最長2年以上も）</td>
+                </tr>
+                <tr>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>有効期限</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">3年間（複数回入国可能）</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">ビザの種類により異なる</td>
+                </tr>
+                <tr style="background: var(--gray-50);">
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>申請方法</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">オンライン（公式サイト・アプリ）</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">韓国大使館・領事館に書類提出</td>
+                </tr>
+                <tr>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>申請料金</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">10,000ウォン（約1,100円）</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">種類により異なる（無料〜数万円）</td>
+                </tr>
+                <tr style="background: var(--gray-50);">
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>審査期間</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">24〜72時間</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">1〜4週間</td>
+                </tr>
+                <tr>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>必要書類</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">パスポート、顔写真、カード</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">パスポート、写真、申請書、招聘状、在職証明書など多数</td>
+                </tr>
+                <tr style="background: var(--gray-50);">
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>就労</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">不可</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">就労ビザで可能</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <h2 id="section3">目的別：K-ETAとビザどっちが必要？</h2>
+
+          <h3>観光（90日以内）</h3>
+          <p><strong>→ K-ETA</strong>（免除措置中は不要）</p>
+          <p>一般的な韓国旅行であればK-ETAで十分です。</p>
+
+          <h3>短期商用（90日以内）</h3>
+          <p><strong>→ K-ETA</strong>（免除措置中は不要）</p>
+          <p>会議参加、商談、展示会参加など、報酬を受けない短期商用であればK-ETAで対応可能です。</p>
+
+          <h3>留学（91日以上）</h3>
+          <p><strong>→ ビザ（D-2/D-4）</strong></p>
+          <p>語学留学はD-4ビザ、大学・大学院留学はD-2ビザが必要です。</p>
+
+          <h3>就労</h3>
+          <p><strong>→ ビザ（E系列）</strong></p>
+          <p>韓国で働く場合は就労ビザ（E-1〜E-7など）が必要です。K-ETAでの就労は違法です。</p>
+
+          <h3>ワーキングホリデー</h3>
+          <p><strong>→ ビザ（H-1）</strong></p>
+          <p>18〜30歳の方はワーキングホリデービザ（H-1）を申請できます。</p>
+
+          <h3>長期滞在（91日以上）</h3>
+          <p><strong>→ ビザ</strong></p>
+          <p>90日を超える滞在には、目的に応じたビザが必要です。</p>
+
+          <div class="warn-box">
+            <h4>⚠️ 注意</h4>
+            <p>K-ETAで入国して90日を超えて滞在すると<strong>オーバーステイ（不法滞在）</strong>になります。罰金や今後の入国制限の対象となるため、絶対に避けてください。</p>
+          </div>
+
+          <h2 id="section4">韓国ビザの種類</h2>
+          <p>韓国のビザは目的に応じて多くの種類があります。主なものを紹介します。</p>
+
+          <div class="info-box">
+            <h4>📋 主な韓国ビザの種類</h4>
+            <ul>
+              <li><strong>C-3（短期訪問）:</strong> 90日以内の訪問で、ビザ免除国以外の国民が必要</li>
+              <li><strong>D-2（留学）:</strong> 大学・大学院への留学</li>
+              <li><strong>D-4（語学研修）:</strong> 語学学校への留学</li>
+              <li><strong>E-7（特定活動）:</strong> 専門的な就労活動</li>
+              <li><strong>F-2（居住）:</strong> 長期居住</li>
+              <li><strong>H-1（ワーキングホリデー）:</strong> 就労と観光の両立</li>
+            </ul>
+          </div>
+
+          <h2 id="section5">K-ETAからビザへの切り替え</h2>
+          <p>K-ETAで韓国に入国した後、滞在目的が変わり長期滞在が必要になった場合は、<strong>韓国国内ではビザへの切り替えはできません</strong>。一度日本に帰国し、韓国大使館・領事館でビザを申請する必要があります。</p>
+
+          <h2 id="section6">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: K-ETAとビザの両方を持つことはできますか？</h3>
+            <p><strong>A:</strong> 有効なビザを持っている場合、K-ETAは不要です。ビザで入国してください。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: 観光目的で90日以上滞在したい場合はどうすればいいですか？</h3>
+            <p><strong>A:</strong> 90日以上の滞在にはビザが必要です。韓国大使館・領事館で適切なビザを申請してください。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: K-ETAで韓国に入国して、現地でビザに切り替えられますか？</h3>
+            <p><strong>A:</strong> 原則としてできません。一度帰国してビザを申請する必要があります。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: ビザ免除国ではない国の人はどうすればいいですか？</h3>
+            <p><strong>A:</strong> ビザ免除国以外の国民は、滞在期間に関わらず韓国ビザが必要です。K-ETAは申請できません。</p>
+          </div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>K-ETAは90日以内の短期滞在（観光・商用）向け、ビザは長期滞在や就労・留学向けです。目的と滞在期間に応じて、適切な渡航認証を取得しましょう。</p>
+
+          <div class="info-box">
+            <h4>✅ K-ETAとビザの選び方</h4>
+            <ul>
+              <li>観光・短期商用（90日以内）→ K-ETA（免除措置中は不要）</li>
+              <li>留学（91日以上）→ D-2/D-4ビザ</li>
+              <li>就労 → E系列ビザ</li>
+              <li>ワーキングホリデー → H-1ビザ</li>
+              <li>K-ETAでの就労は違法</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/korea-mid.jpg" alt="韓国の風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-application" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-about" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAとは？基本情報</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-transit" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>トランジット時のK-ETA要否</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-exemption" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETA免除措置【2026年最新】</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/korea-keta-application">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAの申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-about">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAとは？基本情報</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-exemption">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETA免除措置【2026年最新】</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XWDhRG5919a9VyTjFvLp0"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

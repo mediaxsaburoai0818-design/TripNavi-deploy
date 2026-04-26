@@ -1,0 +1,223 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T2b68,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#asia">アジア</a> ＞
+        <a href="#korea">韓国</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        K-ETAの有効期限
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/korea-hero.jpg" alt="韓国" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>韓国K-ETAの有効期限と確認方法【2026年最新】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">K-ETAの有効期限は3年間</a></li>
+                <li><a href="#section2">パスポート有効期限との関係</a></li>
+                <li><a href="#section3">K-ETAの有効期限を確認する方法</a></li>
+                <li><a href="#section4">有効期限が切れた場合の対応</a></li>
+                <li><a href="#section5">有効期限に関する注意点</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>韓国K-ETAを取得したら、有効期限の管理が重要です。この記事では、K-ETAの有効期限、パスポートとの関係、有効期限の確認方法を詳しく解説します。</p>
+
+          <h2 id="section1">K-ETAの有効期限は3年間</h2>
+          <p><strong>K-ETAの有効期限は承認日から3年間</strong>です。2023年7月2日以前に取得した場合は2年間でしたが、制度改正により3年間に延長されました。</p>
+          <p>有効期限内であれば、何度でも韓国に入国できます（マルチエントリー）。ただし、1回の滞在は最長90日です。</p>
+
+          <div class="info-box">
+            <h4>📌 K-ETA有効期限のポイント</h4>
+            <ul>
+              <li><strong>有効期限:</strong> 承認日から3年間</li>
+              <li><strong>渡航回数:</strong> 有効期限内は何度でも入国可能</li>
+              <li><strong>1回の滞在:</strong> 最長90日</li>
+              <li><strong>旧制度:</strong> 2023年7月2日以前は2年間</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">パスポート有効期限との関係</h2>
+          <p>K-ETAの有効期限は、パスポートの有効期限と密接に関連しています。</p>
+
+          <h3>パスポート有効期限が3年未満の場合</h3>
+          <p>パスポートの有効期限が3年未満の場合、K-ETAの有効期限は<strong>パスポート有効期限日まで</strong>に短縮されます。例えば、パスポートの残存が1年6か月の場合、K-ETAも1年6か月で失効します。</p>
+
+          <h3>パスポートを更新した場合</h3>
+          <p>パスポートを更新（新しいパスポートを取得）した場合、既存のK-ETAは<strong>無効</strong>になります。新しいパスポート番号でK-ETAの再申請が必要です。</p>
+
+          <div class="warn-box">
+            <h4>⚠️ 注意</h4>
+            <p>パスポート更新後は、古いK-ETAは使用できません。必ず新しいパスポートでK-ETAを再申請してください。</p>
+          </div>
+
+          <h2 id="section3">K-ETAの有効期限を確認する方法</h2>
+          <p>K-ETAの有効期限は、以下の方法で確認できます。</p>
+
+          <h3>方法1: K-ETA公式サイトで確認</h3>
+          <ol>
+            <li>K-ETA公式サイト（https://www.k-eta.go.kr/）にアクセス</li>
+            <li>「申請結果照会」をクリック</li>
+            <li>パスポート番号・生年月日・申請番号を入力</li>
+            <li>K-ETAのステータスと有効期限が表示される</li>
+          </ol>
+
+          <h3>方法2: K-ETAアプリで確認</h3>
+          <ol>
+            <li>K-ETAアプリを起動</li>
+            <li>ログイン後、「マイページ」へ</li>
+            <li>承認済みK-ETAの有効期限を確認</li>
+          </ol>
+
+          <h3>方法3: 承認メールで確認</h3>
+          <p>K-ETA承認時に届くメールにも有効期限が記載されています。メールを保存しておくと便利です。</p>
+
+          <h2 id="section4">有効期限が切れた場合の対応</h2>
+          <p>K-ETAの有効期限が切れた場合は、<strong>再度新規申請</strong>が必要です。更新（延長）という制度はなく、改めて申請手続きを行います。</p>
+          <ul>
+            <li>申請料金: 10,000ウォン（再度支払い）</li>
+            <li>必要書類: 初回申請と同じ</li>
+            <li>審査期間: 通常24〜72時間</li>
+          </ul>
+
+          <h2 id="section5">有効期限に関する注意点</h2>
+
+          <div class="info-box">
+            <h4>📋 注意すべきポイント</h4>
+            <ul>
+              <li><strong>出国日まで有効であること:</strong> 入国時だけでなく、滞在中もK-ETAが有効である必要があります</li>
+              <li><strong>パスポート残存期間:</strong> 韓国入国には通常、パスポート残存3か月以上が推奨されます</li>
+              <li><strong>免除措置期間中の取得:</strong> 免除措置中でもK-ETAは申請可能です。免除措置終了後に備えて事前取得もできます</li>
+              <li><strong>氏名変更:</strong> 結婚などで氏名が変わった場合は再申請が必要です</li>
+            </ul>
+          </div>
+
+          <h2 id="section6">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: K-ETAの有効期限は延長できますか？</h3>
+            <p><strong>A:</strong> 延長はできません。有効期限が切れた場合は、新規申請が必要です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: K-ETAの有効期限内にパスポートを更新したらどうなりますか？</h3>
+            <p><strong>A:</strong> 既存のK-ETAは無効になります。新しいパスポートで再申請してください。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: K-ETAの有効期限が旅行中に切れる場合はどうすればいいですか？</h3>
+            <p><strong>A:</strong> 渡航前に新規申請してください。滞在中にK-ETAが有効である必要があります。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: 2023年7月以前に取得したK-ETAはまだ有効ですか？</h3>
+            <p><strong>A:</strong> 旧制度（有効期限2年間）で取得した場合、承認日から2年が経過していれば失効しています。新規申請が必要です。</p>
+          </div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>K-ETAの有効期限は承認日から<strong>3年間</strong>です。パスポートの有効期限が3年未満の場合はパスポート有効期限に準じます。有効期限の確認は公式サイト・アプリ・承認メールで可能です。</p>
+          <p>期限切れの場合は延長ではなく新規申請が必要となります。パスポート更新時も再申請をお忘れなく。</p>
+
+          <div class="info-box">
+            <h4>✅ K-ETA有効期限のポイント</h4>
+            <ul>
+              <li>有効期限: 承認日から3年間</li>
+              <li>パスポート更新時は再申請が必要</li>
+              <li>有効期限の延長制度はなし</li>
+              <li>公式サイト・アプリ・メールで確認可能</li>
+              <li>滞在中も有効である必要あり</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/korea-mid.jpg" alt="韓国の風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-application" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-renewal" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの更新・再申請方法</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-about" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAとは？基本情報</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-check" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの申請状況確認方法</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/korea-keta-application">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAの申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-about">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAとは？基本情報</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-exemption">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETA免除措置【2026年最新】</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XWDhRG5919a9VyTjFvLp0"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

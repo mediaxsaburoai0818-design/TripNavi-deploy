@@ -1,0 +1,237 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3079,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#asia">アジア</a> ＞
+        <a href="#korea">韓国</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        犯罪歴がある場合のK-ETA
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/korea-hero.jpg" alt="韓国" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>犯罪歴がある場合の韓国K-ETA申請【注意点】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">K-ETA申請と犯罪歴の関係</a></li>
+                <li><a href="#section2">犯罪歴の申告方法</a></li>
+                <li><a href="#section3">犯罪歴が審査に与える影響</a></li>
+                <li><a href="#section4">虚偽申告のリスク</a></li>
+                <li><a href="#section5">ビザ申請の検討</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>犯罪歴がある場合、K-ETAの申請に不安を感じる方もいるでしょう。この記事では、犯罪歴がある場合のK-ETA申請の注意点と対応方法を詳しく解説します。</p>
+
+          <h2 id="section1">K-ETA申請と犯罪歴の関係</h2>
+          <p>K-ETAの申請フォームには、<strong>犯罪歴に関する質問</strong>が含まれています。これは韓国の入国審査における安全確認の一環です。</p>
+
+          <div class="info-box">
+            <h4>📌 K-ETA申請時の犯罪歴に関する質問</h4>
+            <p>K-ETAの申請フォームでは、以下のような質問に回答する必要があります。</p>
+            <ul>
+              <li>過去に犯罪で有罪判決を受けたことがあるか</li>
+              <li>薬物関連の犯罪歴があるか</li>
+              <li>韓国または他国で入国拒否・強制退去された経験があるか</li>
+              <li>テロ関連組織との関係があるか</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">犯罪歴の申告方法</h2>
+          <p>K-ETA申請時に犯罪歴がある場合は、<strong>正直に「Yes」と回答</strong>してください。</p>
+
+          <h3>申告の手順</h3>
+          <ol>
+            <li>K-ETA申請フォームの犯罪歴に関する質問で「Yes」を選択</li>
+            <li>犯罪の種類、時期、場所などの詳細を求められる場合は正確に入力</li>
+            <li>その他の申請情報を通常通り入力</li>
+            <li>申請を提出</li>
+          </ol>
+
+          <div class="warn-box">
+            <h4>⚠️ 最も重要なこと</h4>
+            <p>犯罪歴は<strong>必ず正直に申告</strong>してください。虚偽申告は、K-ETA却下だけでなく、入国禁止や刑事罰の対象となる可能性があります。</p>
+          </div>
+
+          <h2 id="section3">犯罪歴が審査に与える影響</h2>
+          <p>犯罪歴があるからといって、必ずしもK-ETAが却下されるわけではありません。審査では、犯罪の種類、重大性、経過年数などが総合的に判断されます。</p>
+
+          <h3>却下リスクが高いケース</h3>
+          <ul>
+            <li><strong>薬物犯罪:</strong> 韓国は薬物犯罪に特に厳しく、却下リスクが高い</li>
+            <li><strong>重大犯罪:</strong> 暴力犯罪、性犯罪などの重大犯罪歴がある場合</li>
+            <li><strong>入国法違反:</strong> 過去に韓国や他国で不法滞在・強制退去の経験がある場合</li>
+            <li><strong>複数の犯罪歴:</strong> 複数回の有罪判決がある場合</li>
+          </ul>
+
+          <h3>承認される可能性があるケース</h3>
+          <ul>
+            <li><strong>軽微な犯罪:</strong> 交通違反など軽微な犯罪で、十分な時間が経過している場合</li>
+            <li><strong>古い犯罪歴:</strong> 犯罪から長期間（10年以上）経過している場合</li>
+            <li><strong>刑の終了:</strong> 刑期を完了し、社会復帰している場合</li>
+          </ul>
+
+          <h2 id="section4">虚偽申告のリスク</h2>
+          <p>犯罪歴を隠して「No」と回答した場合、以下のリスクがあります。</p>
+
+          <div class="info-box">
+            <h4>📋 虚偽申告のリスク</h4>
+            <ul>
+              <li><strong>K-ETAの取り消し:</strong> 後日発覚した場合、承認済みK-ETAが取り消される</li>
+              <li><strong>入国拒否:</strong> 韓国到着時に入国を拒否される可能性</li>
+              <li><strong>今後の入国禁止:</strong> 韓国への今後の入国が制限される可能性</li>
+              <li><strong>刑事罰:</strong> 虚偽申告として処罰される可能性</li>
+            </ul>
+          </div>
+
+          <p>韓国の入国管理当局は、各国の犯罪記録データベースにアクセスできる場合があります。虚偽申告は発覚するリスクが高いため、絶対に避けてください。</p>
+
+          <h2 id="section5">ビザ申請の検討</h2>
+          <p>犯罪歴によりK-ETAが却下された場合、または却下リスクが高いと判断される場合は、<strong>韓国ビザの申請</strong>を検討してください。</p>
+
+          <h3>ビザ申請のメリット</h3>
+          <ul>
+            <li><strong>個別審査:</strong> 大使館の審査官が個別に事情を考慮してくれる</li>
+            <li><strong>追加書類の提出:</strong> 反省文、更生証明書、在職証明書などの追加書類を提出できる</li>
+            <li><strong>面接の機会:</strong> 直接事情を説明する機会がある場合もある</li>
+          </ul>
+
+          <h3>ビザ申請時に準備すると良い書類</h3>
+          <ul>
+            <li>パスポート</li>
+            <li>ビザ申請書</li>
+            <li>証明写真</li>
+            <li>渡航目的を証明する書類（航空券、ホテル予約など）</li>
+            <li>犯罪歴に関する公的書類（判決書、刑の終了証明書など）</li>
+            <li>更生を証明する書類（在職証明書、推薦状など）</li>
+          </ul>
+
+          <h2 id="section6">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: 犯罪歴があるとK-ETAは必ず却下されますか？</h3>
+            <p><strong>A:</strong> 必ずしもそうではありません。犯罪の種類、重大性、経過年数などが総合的に判断されます。軽微な犯罪で十分な時間が経過していれば承認される可能性があります。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: 犯罪歴を申告しなかったらどうなりますか？</h3>
+            <p><strong>A:</strong> 虚偽申告は、K-ETA取り消し、入国拒否、今後の入国禁止、刑事罰のリスクがあります。必ず正直に申告してください。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: 交通違反も犯罪歴として申告する必要がありますか？</h3>
+            <p><strong>A:</strong> 一般的な交通違反（スピード違反、駐車違反など）は通常、犯罪歴には含まれません。ただし、飲酒運転や人身事故など、刑事罰の対象となった場合は申告が必要です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: 免除措置中は犯罪歴があっても入国できますか？</h3>
+            <p><strong>A:</strong> K-ETA免除措置は申請手続きの免除であり、入国審査は別です。犯罪歴がある場合、入国審査時に質問を受けたり、入国を拒否される可能性はあります。</p>
+          </div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>犯罪歴がある場合のK-ETA申請は、<strong>正直な申告</strong>が最も重要です。虚偽申告は深刻な結果を招くリスクがあります。犯罪の種類や経過年数によってはK-ETAが承認される場合もあります。</p>
+          <p>K-ETAが却下された場合は、韓国大使館・領事館でのビザ申請を検討してください。個別の事情を考慮してもらえる可能性があります。</p>
+
+          <div class="info-box">
+            <h4>✅ 犯罪歴がある場合のポイント</h4>
+            <ul>
+              <li>犯罪歴は必ず正直に申告する</li>
+              <li>虚偽申告は入国禁止・刑事罰のリスクあり</li>
+              <li>犯罪歴があっても承認される場合がある</li>
+              <li>K-ETA却下時はビザ申請を検討</li>
+              <li>ビザ申請では追加書類で事情を説明可能</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/korea-mid.jpg" alt="韓国の風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-application" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAの申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-rejection" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAが却下された場合の対処法</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-about" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAとは？基本情報</h3>
+              </div>
+            </a>
+            <a href="/korea-keta-vs-visa" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
+                <h3>K-ETAとビザの違い</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/korea-keta-application">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAの申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-about">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAとは？基本情報</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/korea-keta-rejection">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">韓国K-ETA</span>
+                <div class="rank-title">K-ETAが却下された場合の対処法</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XWDhRG5919a9VyTjFvLp0"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null
