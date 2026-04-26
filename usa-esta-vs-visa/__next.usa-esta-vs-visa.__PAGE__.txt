@@ -1,0 +1,263 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3566,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#north-america">北アメリカ</a> ＞
+        <a href="#usa">アメリカ</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        ESTAとビザの違い
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/usa-hero.jpg" alt="アメリカ" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>ESTAとビザの違い【どっちが必要？比較ガイド】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">ESTAとビザの基本的な違い</a></li>
+                <li><a href="#section2">比較表で見るESTAとビザ</a></li>
+                <li><a href="#section3">ESTAが必要なケース</a></li>
+                <li><a href="#section4">ビザが必要なケース</a></li>
+                <li><a href="#section5">B1/B2ビザとは</a></li>
+                <li><a href="#section6">就労・留学の場合</a></li>
+                <li><a href="#section7">よくある質問</a></li>
+                <li><a href="#section8">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>アメリカへ渡航する際、<strong>ESTA（エスタ）</strong>と<strong>ビザ（査証）</strong>のどちらが必要かを判断するのは重要です。この記事では、両者の違いを比較表を交えてわかりやすく解説します。</p>
+
+          <h2 id="section1">ESTAとビザの基本的な違い</h2>
+          <p><strong>ESTA</strong>は、ビザ免除プログラム（VWP）対象国の国民が、90日以内の短期滞在のために取得する電子渡航認証です。一方、<strong>ビザ</strong>は、ESTA対象外の方や長期滞在者が米国大使館・領事館で取得する入国許可証です。</p>
+
+          <h2 id="section2">比較表で見るESTAとビザ</h2>
+          <div class="info-box">
+            <h4>📊 ESTAとビザの比較</h4>
+            <table style="width: 100%; border-collapse: collapse; margin: 16px 0;">
+              <tr style="background: #f0f4f8;">
+                <th style="padding: 12px; border: 1px solid #ddd; text-align: left;">項目</th>
+                <th style="padding: 12px; border: 1px solid #ddd; text-align: left;">ESTA</th>
+                <th style="padding: 12px; border: 1px solid #ddd; text-align: left;">ビザ（B1/B2）</th>
+              </tr>
+              <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;"><strong>滞在期間</strong></td>
+                <td style="padding: 12px; border: 1px solid #ddd;">最大90日</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">最大180日（延長可）</td>
+              </tr>
+              <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;"><strong>有効期限</strong></td>
+                <td style="padding: 12px; border: 1px solid #ddd;">2年間</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">最大10年間</td>
+              </tr>
+              <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;"><strong>申請料金</strong></td>
+                <td style="padding: 12px; border: 1px solid #ddd;">$21</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">$185</td>
+              </tr>
+              <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;"><strong>申請方法</strong></td>
+                <td style="padding: 12px; border: 1px solid #ddd;">オンライン</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">大使館・領事館で面接</td>
+              </tr>
+              <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;"><strong>審査期間</strong></td>
+                <td style="padding: 12px; border: 1px solid #ddd;">即時〜72時間</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">数日〜数週間</td>
+              </tr>
+              <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;"><strong>対象者</strong></td>
+                <td style="padding: 12px; border: 1px solid #ddd;">VWP対象国の国民</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">すべての国籍</td>
+              </tr>
+              <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;"><strong>目的</strong></td>
+                <td style="padding: 12px; border: 1px solid #ddd;">観光・商用・トランジット</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">観光・商用・その他</td>
+              </tr>
+              <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;"><strong>就労</strong></td>
+                <td style="padding: 12px; border: 1px solid #ddd;">不可</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">B1/B2は不可（別途就労ビザが必要）</td>
+              </tr>
+            </table>
+          </div>
+
+          <h2 id="section3">ESTAが必要なケース</h2>
+          <div class="info-box">
+            <h4>✅ ESTAで渡航できるケース</h4>
+            <ul>
+              <li><strong>観光旅行</strong>：90日以内のアメリカ旅行</li>
+              <li><strong>短期商用</strong>：会議出席、商談、契約締結など</li>
+              <li><strong>トランジット</strong>：アメリカ経由で他国へ向かう場合</li>
+              <li><strong>短期研修</strong>：報酬を伴わない90日以内の研修</li>
+              <li><strong>友人・親族訪問</strong>：90日以内の訪問</li>
+            </ul>
+          </div>
+
+          <h2 id="section4">ビザが必要なケース</h2>
+          <div class="warn-box">
+            <h4>⚠️ ビザが必要なケース</h4>
+            <ul>
+              <li><strong>90日を超える滞在</strong>：長期の観光・商用</li>
+              <li><strong>就労</strong>：H-1B、L-1などの就労ビザが必要</li>
+              <li><strong>留学</strong>：F-1（学生ビザ）やM-1（職業訓練ビザ）が必要</li>
+              <li><strong>ESTAが却下された方</strong>：B1/B2ビザの申請が必要</li>
+              <li><strong>VWP対象外の国籍の方</strong></li>
+              <li><strong>報道・取材活動</strong>：I（報道）ビザが必要</li>
+            </ul>
+          </div>
+
+          <h2 id="section5">B1/B2ビザとは</h2>
+          <p><strong>B1ビザ</strong>は短期商用、<strong>B2ビザ</strong>は観光・治療目的のための非移民ビザです。通常は<strong>B1/B2</strong>として一体で発給されます。</p>
+          <h3>B1ビザで許可される活動</h3>
+          <ul>
+            <li>商談・会議への出席</li>
+            <li>契約交渉</li>
+            <li>学会・セミナーへの参加</li>
+            <li>独立した研究活動</li>
+          </ul>
+          <h3>B2ビザで許可される活動</h3>
+          <ul>
+            <li>観光旅行</li>
+            <li>友人・親族の訪問</li>
+            <li>医療目的の渡航</li>
+            <li>アマチュアの音楽・スポーツイベントへの参加</li>
+          </ul>
+
+          <h2 id="section6">就労・留学の場合</h2>
+          <p>就労や留学でアメリカに渡航する場合は、ESTAもB1/B2ビザも使用できません。目的に応じた専用のビザが必要です。</p>
+          <div class="info-box">
+            <h4>📋 目的別ビザの種類</h4>
+            <ul>
+              <li><strong>就労</strong>：H-1B（専門職）、L-1（企業内転勤）、E-2（投資家）など</li>
+              <li><strong>留学</strong>：F-1（学術留学）、M-1（職業訓練）</li>
+              <li><strong>交流訪問</strong>：J-1（交流訪問者）</li>
+              <li><strong>婚約者</strong>：K-1（婚約者ビザ）</li>
+            </ul>
+          </div>
+
+          <h2 id="section7">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: ESTAとビザの両方を持つことはできますか？</h3>
+            <p><strong>A:</strong> はい、両方を所持することは可能です。ただし、有効なビザがある場合はビザでの入国となり、ESTAは使用されません。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: ビザがあればESTAは不要ですか？</h3>
+            <p><strong>A:</strong> はい、有効なアメリカビザを所持している場合、ESTAは不要です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: ESTAで入国して90日以上滞在できますか？</h3>
+            <p><strong>A:</strong> いいえ、ESTAでの滞在は最大90日です。滞在延長はできません。90日を超える場合はビザの取得が必要です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: 短期留学（90日以内）はESTAで可能ですか？</h3>
+            <p><strong>A:</strong> 週18時間未満の授業であれば、ESTAで90日以内の短期留学が可能です。週18時間以上の場合はF-1ビザが必要です。</p>
+          </div>
+
+          <h2 id="section8">まとめ</h2>
+          <p>ESTAは90日以内の短期滞在（観光・商用・トランジット）向けの電子渡航認証、ビザは長期滞在や特定目的の渡航に必要な入国許可証です。自分の渡航目的と滞在期間に合わせて、適切な方を選びましょう。</p>
+
+          <div class="info-box">
+            <h4>✅ 判断のポイント</h4>
+            <ul>
+              <li>90日以内の観光・商用 → <strong>ESTA</strong></li>
+              <li>90日を超える滞在 → <strong>ビザ</strong></li>
+              <li>就労・留学 → <strong>専用ビザ</strong></li>
+              <li>ESTAが却下された → <strong>B1/B2ビザ</strong></li>
+              <li>VWP対象外の国籍 → <strong>ビザ</strong></li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="usa-esta-about.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）とは？基本情報を解説</h3>
+              </div>
+            </a>
+            <a href="usa-esta-application.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+            <a href="usa-esta-rejection.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）が却下された場合の対処法</h3>
+              </div>
+            </a>
+            <a href="usa-vwp.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ビザ免除プログラム（VWP）について</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="canada-eta-about.html">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">カナダeTA</span>
+                <div class="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="australia-etas-about.html">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">オーストラリア</span>
+                <div class="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="usa-esta-application.html">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wPHwh81eh2Mpg-YzCKlo_"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

@@ -1,0 +1,226 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T2e9f,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#north-america">北アメリカ</a> ＞
+        <a href="#usa">アメリカ</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        ESTAの有効期限と確認方法
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/usa-hero.jpg" alt="アメリカ" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>ESTA（エスタ）の有効期限と確認方法【2026年最新】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">ESTAの有効期限は2年間</a></li>
+                <li><a href="#section2">90日間の滞在制限について</a></li>
+                <li><a href="#section3">ESTAの有効期限を確認する方法</a></li>
+                <li><a href="#section4">ESTAが無効になるケース</a></li>
+                <li><a href="#section5">有効期限が切れた場合の対応</a></li>
+                <li><a href="#section6">有効期限に関する注意点</a></li>
+                <li><a href="#section7">よくある質問</a></li>
+                <li><a href="#section8">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>ESTA（エスタ）の有効期限や確認方法について詳しく解説します。有効期限切れに気づかず渡航できなかったというトラブルを防ぐため、事前にしっかり確認しておきましょう。</p>
+
+          <h2 id="section1">ESTAの有効期限は2年間</h2>
+          <p>ESTAの有効期限は、<strong>認証が承認された日から2年間</strong>です。この2年間の有効期限内であれば、何度でもアメリカへの渡航が可能です。</p>
+          <div class="info-box">
+            <h4>📋 有効期限のポイント</h4>
+            <ul>
+              <li>承認日から<strong>2年間</strong>有効</li>
+              <li>有効期限内は<strong>何度でも渡航可能</strong></li>
+              <li>パスポートの有効期限がESTAより先に切れる場合は、<strong>パスポート失効日が有効期限</strong>となる</li>
+              <li>1回の滞在は<strong>最大90日間</strong></li>
+            </ul>
+          </div>
+
+          <h2 id="section2">90日間の滞在制限について</h2>
+          <p>ESTAの有効期限が2年間であっても、1回のアメリカ滞在は<strong>最大90日間</strong>に制限されています。この90日間には以下の注意点があります。</p>
+          <ul>
+            <li>90日間は<strong>入国日から起算</strong>される</li>
+            <li>カナダやメキシコへの短期旅行は90日間に<strong>含まれる</strong>場合がある</li>
+            <li>90日を超えて滞在すると<strong>不法滞在</strong>となり、将来の入国に深刻な影響がある</li>
+            <li>90日以上の滞在が必要な場合は、<strong>ビザの取得</strong>が必要</li>
+          </ul>
+          <div class="warn-box">
+            <h4>⚠️ 90日ルールに注意</h4>
+            <p>アメリカ出国後すぐに再入国する「ビザラン」は入国審査官に疑われる可能性があります。短期間に繰り返し渡航する場合は、適切なビザの取得を検討してください。</p>
+          </div>
+
+          <h2 id="section3">ESTAの有効期限を確認する方法</h2>
+          <p>ESTAの有効期限は、以下の方法で確認できます。</p>
+
+          <h3>方法1：ESTA公式サイトで確認</h3>
+          <ol>
+            <li><strong>ESTA公式サイト</strong>（https://esta.cbp.dhs.gov/）にアクセス</li>
+            <li>「既存の申請を確認」をクリック</li>
+            <li>申請番号、パスポート番号、生年月日を入力</li>
+            <li>認証ステータスと有効期限が表示される</li>
+          </ol>
+
+          <h3>方法2：申請時のメールを確認</h3>
+          <p>ESTA承認時に届いたメールに、有効期限の情報が記載されています。メールを保存しておくと便利です。</p>
+
+          <h3>方法3：ESTA Mobileアプリで確認</h3>
+          <p>公式アプリ「ESTA Mobile」でも申請状況と有効期限を確認できます。</p>
+
+          <h2 id="section4">ESTAが無効になるケース</h2>
+          <p>有効期限内であっても、以下の場合にESTAは無効になります。</p>
+          <div class="warn-box">
+            <h4>⚠️ ESTAが無効になるケース</h4>
+            <ul>
+              <li><strong>パスポートを更新・再発行</strong>した場合</li>
+              <li><strong>氏名が変更</strong>された場合（結婚等）</li>
+              <li><strong>国籍が変更</strong>された場合</li>
+              <li><strong>性別が変更</strong>された場合</li>
+              <li>ESTA申請時の回答内容に<strong>変更が生じた</strong>場合</li>
+            </ul>
+          </div>
+          <p>これらに該当する場合は、新しいパスポート情報で<strong>ESTAを再申請</strong>する必要があります。</p>
+
+          <h2 id="section5">有効期限が切れた場合の対応</h2>
+          <p>ESTAの有効期限が切れた場合は、<strong>新規で再申請</strong>する必要があります。更新手続きという概念はなく、最初の申請と同じ手順で新たに申請します。</p>
+          <div class="info-box">
+            <h4>✅ 期限切れ時の対応手順</h4>
+            <ol>
+              <li>ESTA公式サイトにアクセス</li>
+              <li>「新規申請」を選択</li>
+              <li>パスポート情報や個人情報を入力</li>
+              <li>申請料金$21を支払い</li>
+              <li>審査結果を待つ（通常即時〜最大72時間）</li>
+            </ol>
+          </div>
+          <p>詳しい手順は<a href="usa-esta-renewal.html">ESTA更新・再申請ガイド</a>をご覧ください。</p>
+
+          <h2 id="section6">有効期限に関する注意点</h2>
+          <ul>
+            <li><strong>渡航前に必ず有効期限を確認</strong>：出発日にESTAが有効であれば、滞在中に期限が切れても問題ありません</li>
+            <li><strong>パスポートの有効期限も確認</strong>：パスポートの残存期間が6ヶ月以上あることが推奨されます</li>
+            <li><strong>余裕を持った再申請</strong>：有効期限が近い場合は、渡航の72時間前までに再申請を完了しましょう</li>
+          </ul>
+
+          <h2 id="section7">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: 渡航中にESTAの有効期限が切れたらどうなりますか？</h3>
+            <p><strong>A:</strong> アメリカ入国時にESTAが有効であれば、滞在中に有効期限が切れても問題ありません。90日以内に出国すれば大丈夫です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: ESTAの有効期限が残っていても再申請できますか？</h3>
+            <p><strong>A:</strong> はい、有効期限内でも再申請は可能です。新しいESTAが承認されると、古いESTAは自動的に無効になります。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: ESTAの有効期限を延長できますか？</h3>
+            <p><strong>A:</strong> いいえ、ESTAの有効期限を延長する制度はありません。期限が切れた場合は新規申請が必要です。</p>
+          </div>
+
+          <h2 id="section8">まとめ</h2>
+          <p>ESTAの有効期限は承認日から2年間で、1回の滞在は最大90日間です。渡航前には必ずESTAの有効期限を確認し、期限切れの場合は余裕を持って再申請しましょう。</p>
+
+          <div class="info-box">
+            <h4>✅ 有効期限のポイントまとめ</h4>
+            <ul>
+              <li>有効期限：承認日から2年間</li>
+              <li>1回の滞在：最大90日間</li>
+              <li>パスポート更新時は再申請が必要</li>
+              <li>公式サイトで有効期限を確認可能</li>
+              <li>期限切れは新規申請で対応</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="usa-esta-about.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）とは？基本情報を解説</h3>
+              </div>
+            </a>
+            <a href="usa-esta-check.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAの申請状況確認方法【ステータス照会】</h3>
+              </div>
+            </a>
+            <a href="usa-esta-renewal.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA更新・再申請ガイド</h3>
+              </div>
+            </a>
+            <a href="usa-esta-application.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="canada-eta-about.html">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">カナダeTA</span>
+                <div class="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="australia-etas-about.html">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">オーストラリア</span>
+                <div class="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="usa-esta-application.html">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wPHwh81eh2Mpg-YzCKlo_"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

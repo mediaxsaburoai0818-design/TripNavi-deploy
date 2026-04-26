@@ -1,0 +1,243 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T35ce,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#north-america">北アメリカ</a> ＞
+        <a href="#usa">アメリカ</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        ESTAの審査が保留中の場合
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/usa-hero.jpg" alt="アメリカ" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>ESTAの審査が保留中の場合【待ち時間と対処法】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">ESTA保留（Authorization Pending）とは</a></li>
+                <li><a href="#section2">保留になる主な理由</a></li>
+                <li><a href="#section3">72時間の審査期間</a></li>
+                <li><a href="#section4">保留中にすべきこと</a></li>
+                <li><a href="#section5">渡航日が迫っている場合の対処法</a></li>
+                <li><a href="#section6">72時間経過後も保留の場合</a></li>
+                <li><a href="#section7">よくある質問</a></li>
+                <li><a href="#section8">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>ESTA（エスタ）の申請後、ステータスが<strong>「Authorization Pending（認証保留）」</strong>と表示されると不安になるかもしれません。この記事では、保留の理由や待ち時間、適切な対処法について解説します。</p>
+
+          <h2 id="section1">ESTA保留（Authorization Pending）とは</h2>
+          <p><strong>「Authorization Pending（認証保留）」</strong>は、ESTAの審査がまだ完了していない状態を示すステータスです。多くのESTA申請は即時に承認されますが、一部の申請は追加の審査が必要となり、保留状態になります。</p>
+          <div class="info-box">
+            <h4>📋 保留ステータスのポイント</h4>
+            <ul>
+              <li>保留は<strong>「却下」ではない</strong>：審査中という意味</li>
+              <li>最大<strong>72時間（3日間）</strong>以内に結果が出る</li>
+              <li>保留中は<strong>渡航できない</strong></li>
+              <li>保留後に<strong>承認される場合も却下される場合</strong>もある</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">保留になる主な理由</h2>
+          <p>ESTAが保留になる理由はいくつかあります。具体的な理由は開示されませんが、一般的に以下のようなケースが考えられます。</p>
+          <div class="info-box">
+            <h4>📋 保留になりやすいケース</h4>
+            <ul>
+              <li><strong>名前が要注意人物リストと類似</strong>：同姓同名や類似した名前がセキュリティリストに存在する場合</li>
+              <li><strong>過去の渡航歴</strong>：特定の国への渡航歴がある場合</li>
+              <li><strong>申請情報の不整合</strong>：入力した情報に確認が必要な点がある場合</li>
+              <li><strong>システムの混雑</strong>：申請が集中する時期（年末年始、大型連休前など）</li>
+              <li><strong>初めてのESTA申請</strong>：過去にESTAの申請歴がない場合</li>
+              <li><strong>二重国籍</strong>：複数の国籍を持つ場合</li>
+            </ul>
+          </div>
+          <div class="warn-box">
+            <h4>⚠️ 注意</h4>
+            <p>保留になったからといって、必ずしも問題があるわけではありません。追加の確認作業が行われているだけの場合も多いです。</p>
+          </div>
+
+          <h2 id="section3">72時間の審査期間</h2>
+          <p>ESTAの審査は、保留になった場合でも<strong>最大72時間（3日間）</strong>以内に完了します。多くの場合、72時間を待たずに結果が出ます。</p>
+          <div class="info-box">
+            <h4>⏱ 審査期間の目安</h4>
+            <ul>
+              <li><strong>数時間以内</strong>：多くの保留ケースはこの範囲で結果が出る</li>
+              <li><strong>24時間以内</strong>：名前の照合確認などの場合</li>
+              <li><strong>48〜72時間</strong>：より詳細な審査が必要な場合</li>
+            </ul>
+          </div>
+
+          <h2 id="section4">保留中にすべきこと</h2>
+          <p>ESTAが保留になった場合は、以下の対応を行いましょう。</p>
+          <div class="info-box">
+            <h4>✅ 保留中の対応</h4>
+            <ol>
+              <li><strong>慌てない</strong>：保留は一般的な状態であり、多くの場合は承認される</li>
+              <li><strong>定期的にステータスを確認</strong>：ESTA公式サイトで数時間ごとに確認</li>
+              <li><strong>再申請しない</strong>：保留中に新たな申請を行うと、審査が混乱する可能性がある</li>
+              <li><strong>申請番号を控えておく</strong>：ステータス確認に必要</li>
+              <li><strong>渡航準備は並行して進める</strong>：承認されることを想定しつつ準備</li>
+            </ol>
+          </div>
+          <div class="warn-box">
+            <h4>⚠️ やってはいけないこと</h4>
+            <ul>
+              <li><strong>保留中に再申請しない</strong>：審査プロセスに悪影響を及ぼす可能性</li>
+              <li><strong>保留のまま渡航しない</strong>：承認前の渡航は搭乗拒否される</li>
+              <li><strong>CBPに電話で催促しない</strong>：審査を早めることはできない</li>
+            </ul>
+          </div>
+
+          <h2 id="section5">渡航日が迫っている場合の対処法</h2>
+          <p>ESTAが保留中で、渡航日が迫っている場合は以下の対応を検討してください。</p>
+          <div class="warn-box">
+            <h4>⚠️ 緊急時の対応</h4>
+            <ul>
+              <li><strong>渡航まで72時間以上ある場合</strong>：審査結果を待つ。多くの場合は72時間以内に結果が出る</li>
+              <li><strong>渡航まで72時間未満の場合</strong>：
+                <ul>
+                  <li>航空会社に事情を説明し、搭乗可否を確認</li>
+                  <li>フライトの変更・延期を検討</li>
+                  <li>CBPのヘルプデスク（+1-202-325-8000）に問い合わせ</li>
+                </ul>
+              </li>
+              <li><strong>渡航当日まで保留の場合</strong>：ESTAが承認されていない状態では搭乗できないため、フライト変更が必要</li>
+            </ul>
+          </div>
+          <p>このようなトラブルを避けるため、<strong>渡航の2週間〜1ヶ月前</strong>にはESTAを申請しておくことを強く推奨します。</p>
+
+          <h2 id="section6">72時間経過後も保留の場合</h2>
+          <p>72時間以上経過してもステータスが保留のままの場合は、以下の対応を取ってください。</p>
+          <ol>
+            <li><strong>ESTA公式サイトで再度確認</strong>：システムの反映遅延の可能性がある</li>
+            <li><strong>CBPヘルプデスクに問い合わせ</strong>：電話（+1-202-325-8000）またはメールで問い合わせ</li>
+            <li><strong>新規申請を検討</strong>：72時間以上保留の場合、新規に申請し直すことも選択肢</li>
+            <li><strong>ビザ申請を検討</strong>：ESTA取得が困難な場合は、B1/B2ビザの申請を検討</li>
+          </ol>
+
+          <h2 id="section7">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: 保留になった場合、審査を早めてもらうことはできますか？</h3>
+            <p><strong>A:</strong> いいえ、ESTAの審査を早めてもらうことはできません。審査は自動的に進行し、最大72時間以内に結果が出ます。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: 保留中に渡航日を変更したら影響がありますか？</h3>
+            <p><strong>A:</strong> ESTA申請と航空券は直接連動していないため、渡航日の変更はESTAの審査に影響しません。ただし、ESTA承認前の渡航はできません。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: 保留から却下になる確率はどのくらいですか？</h3>
+            <p><strong>A:</strong> 正確な統計は公開されていませんが、保留後に承認されるケースが大多数です。問題がなければ追加審査完了後に承認されます。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: 家族の中で自分だけ保留になりました。なぜですか？</h3>
+            <p><strong>A:</strong> ESTAの審査は個人ごとに行われます。名前の類似性やシステムの確認など、個別の要因で保留になることがあります。</p>
+          </div>
+
+          <h2 id="section8">まとめ</h2>
+          <p>ESTAの審査が保留になっても、多くの場合は72時間以内に承認されます。慌てず、定期的にステータスを確認しましょう。渡航日が迫っている場合は早めに航空会社やCBPに連絡してください。トラブルを防ぐため、渡航の2週間前までにESTA申請を完了しておくことが大切です。</p>
+
+          <div class="info-box">
+            <h4>✅ 保留時のポイントまとめ</h4>
+            <ul>
+              <li>保留は却下ではない - 審査中の状態</li>
+              <li>最大72時間以内に結果が出る</li>
+              <li>保留中の再申請は避ける</li>
+              <li>渡航の2週間前までに申請しておく</li>
+              <li>72時間超の保留はCBPに問い合わせ</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="usa-esta-check.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAの申請状況確認方法【ステータス照会】</h3>
+              </div>
+            </a>
+            <a href="usa-esta-rejection.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）が却下された場合の対処法</h3>
+              </div>
+            </a>
+            <a href="usa-esta-application.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+            <a href="usa-esta-about.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）とは？基本情報を解説</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="canada-eta-about.html">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">カナダeTA</span>
+                <div class="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="australia-etas-about.html">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">オーストラリア</span>
+                <div class="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="usa-esta-application.html">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wPHwh81eh2Mpg-YzCKlo_"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

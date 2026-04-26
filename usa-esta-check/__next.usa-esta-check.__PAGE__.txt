@@ -1,0 +1,233 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T30b1,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#north-america">北アメリカ</a> ＞
+        <a href="#usa">アメリカ</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        ESTAの申請状況確認方法
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/usa-hero.jpg" alt="アメリカ" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>ESTAの申請状況確認方法【ステータス照会】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">ESTAの申請状況を確認する方法</a></li>
+                <li><a href="#section2">公式サイトでの確認手順</a></li>
+                <li><a href="#section3">ESTA Mobileアプリでの確認</a></li>
+                <li><a href="#section4">ステータスの種類と意味</a></li>
+                <li><a href="#section5">審査期間について</a></li>
+                <li><a href="#section6">確認時の注意点</a></li>
+                <li><a href="#section7">よくある質問</a></li>
+                <li><a href="#section8">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>ESTA（エスタ）を申請した後、審査状況が気になる方も多いでしょう。この記事では、ESTAの申請状況をオンラインで確認する方法と、各ステータスの意味について解説します。</p>
+
+          <h2 id="section1">ESTAの申請状況を確認する方法</h2>
+          <p>ESTAの申請状況は、以下の2つの方法で確認できます。</p>
+          <div class="info-box">
+            <h4>📋 確認方法</h4>
+            <ul>
+              <li><strong>ESTA公式サイト</strong>（https://esta.cbp.dhs.gov/）で確認</li>
+              <li><strong>ESTA Mobileアプリ</strong>（iOS/Android）で確認</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">公式サイトでの確認手順</h2>
+          <p>ESTA公式サイトでの確認手順は以下のとおりです。</p>
+          <div class="info-box">
+            <h4>✅ 確認手順（ステップバイステップ）</h4>
+            <ol>
+              <li><strong>ESTA公式サイト</strong>にアクセス（https://esta.cbp.dhs.gov/）</li>
+              <li>言語を<strong>「日本語」</strong>に切り替え</li>
+              <li><strong>「既存の申請を確認」</strong>をクリック</li>
+              <li>セキュリティに関する免責事項に<strong>同意</strong></li>
+              <li>以下の情報を入力：
+                <ul>
+                  <li><strong>パスポート番号</strong></li>
+                  <li><strong>生年月日</strong></li>
+                  <li><strong>申請番号</strong>（わかる場合）または<strong>国籍</strong></li>
+                </ul>
+              </li>
+              <li><strong>「申請の検索」</strong>をクリック</li>
+              <li>申請状況（ステータス）と有効期限が表示される</li>
+            </ol>
+          </div>
+          <div class="warn-box">
+            <h4>⚠️ 申請番号を忘れた場合</h4>
+            <p>申請番号がわからなくても、パスポート番号、生年月日、国籍の3点で検索が可能です。ただし、申請番号があるとより正確に照会できるため、申請完了時のメールは大切に保管しておきましょう。</p>
+          </div>
+
+          <h2 id="section3">ESTA Mobileアプリでの確認</h2>
+          <p>公式アプリ<strong>「ESTA Mobile」</strong>でも申請状況を確認できます。</p>
+          <ol>
+            <li>App StoreまたはGoogle Playから「ESTA Mobile」をダウンロード</li>
+            <li>アプリを開き、「既存の申請を確認」を選択</li>
+            <li>パスポート番号と生年月日を入力</li>
+            <li>申請状況が表示される</li>
+          </ol>
+
+          <h2 id="section4">ステータスの種類と意味</h2>
+          <p>ESTAの申請ステータスには、以下の3種類があります。</p>
+
+          <h3>1. Authorization Approved（認証承認）</h3>
+          <div class="info-box">
+            <h4>✅ 認証承認</h4>
+            <p>ESTAが<strong>承認</strong>されたことを示します。有効期限内であれば、アメリカへの渡航が可能です。ステータス画面に有効期限も表示されます。</p>
+          </div>
+
+          <h3>2. Authorization Pending（認証保留）</h3>
+          <div class="warn-box">
+            <h4>⏳ 認証保留</h4>
+            <p>審査が<strong>保留中</strong>であることを示します。最大<strong>72時間</strong>以内に結果が出ます。渡航前に再度確認してください。保留中の場合の詳細は<a href="usa-esta-pending.html">ESTAの審査が保留中の場合</a>をご覧ください。</p>
+          </div>
+
+          <h3>3. Travel Not Authorized（渡航認証拒否）</h3>
+          <div class="warn-box">
+            <h4>❌ 渡航認証拒否</h4>
+            <p>ESTAが<strong>却下</strong>されたことを示します。ビザ免除プログラムでの渡航はできません。米国大使館・領事館でのビザ申請が必要です。詳細は<a href="usa-esta-rejection.html">ESTA却下時の対処法</a>をご覧ください。</p>
+          </div>
+
+          <h2 id="section5">審査期間について</h2>
+          <p>ESTAの審査は通常、申請後<strong>すぐに結果が通知</strong>されます。ただし、追加審査が必要な場合は<strong>最大72時間（3日間）</strong>かかることがあります。</p>
+          <div class="info-box">
+            <h4>📋 審査期間の目安</h4>
+            <ul>
+              <li><strong>即時〜数秒</strong>：多くの場合、申請直後に結果が表示される</li>
+              <li><strong>数時間〜24時間</strong>：追加確認が必要な場合</li>
+              <li><strong>24時間〜72時間</strong>：詳細な審査が行われる場合</li>
+            </ul>
+          </div>
+
+          <h2 id="section6">確認時の注意点</h2>
+          <ul>
+            <li><strong>パスポート番号を正確に入力</strong>：数字の「0」とアルファベットの「O」を間違えないよう注意</li>
+            <li><strong>生年月日の形式</strong>：月/日/年（MM/DD/YYYY）の形式で入力</li>
+            <li><strong>申請直後は反映に時間がかかる場合がある</strong>：少し時間を置いてから確認</li>
+            <li><strong>印刷は必須ではない</strong>：ESTAは電子的にパスポートに紐づいているため、印刷は不要だが、念のため控えを保存しておくと安心</li>
+          </ul>
+
+          <h2 id="section7">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: ESTAの申請番号を忘れてしまいました。確認できますか？</h3>
+            <p><strong>A:</strong> はい、パスポート番号、生年月日、国籍の3点で検索できます。申請時に届いたメールにも申請番号が記載されています。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: ステータスが「保留」のまま72時間以上経過しました。</h3>
+            <p><strong>A:</strong> 72時間以上経過しても保留のままの場合は、CBP（米国税関・国境警備局）のヘルプデスクに問い合わせることをおすすめします。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: ESTAの承認を印刷して持参する必要がありますか？</h3>
+            <p><strong>A:</strong> 印刷は必須ではありません。ESTAは電子的にパスポートに紐づいているため、パスポートを提示すれば入国審査官が確認できます。ただし、控えとして保存しておくことをおすすめします。</p>
+          </div>
+
+          <h2 id="section8">まとめ</h2>
+          <p>ESTAの申請状況は、公式サイトまたはESTA Mobileアプリで簡単に確認できます。ステータスは「承認」「保留」「却下」の3種類です。渡航前に必ず確認し、保留や却下の場合は適切な対応を取りましょう。</p>
+
+          <div class="info-box">
+            <h4>✅ 申請状況確認のポイント</h4>
+            <ul>
+              <li>公式サイトでパスポート番号・生年月日で検索可能</li>
+              <li>ステータスは承認・保留・却下の3種類</li>
+              <li>審査は通常即時、最大72時間</li>
+              <li>申請番号は控えを保存しておく</li>
+              <li>ESTAの印刷は必須ではないが保存推奨</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="usa-esta-pending.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAの審査が保留中の場合【待ち時間と対処法】</h3>
+              </div>
+            </a>
+            <a href="usa-esta-rejection.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）が却下された場合の対処法</h3>
+              </div>
+            </a>
+            <a href="usa-esta-application.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+            <a href="usa-esta-validity.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の有効期限と確認方法</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="canada-eta-about.html">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">カナダeTA</span>
+                <div class="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="australia-etas-about.html">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">オーストラリア</span>
+                <div class="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="usa-esta-application.html">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wPHwh81eh2Mpg-YzCKlo_"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

@@ -1,0 +1,219 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3176,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#north-america">北アメリカ</a> ＞
+        <a href="#usa">アメリカ</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        犯罪歴がある場合のESTA申請
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/usa-hero.jpg" alt="アメリカ" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>犯罪歴がある場合のESTA申請【注意点と対策】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">犯罪歴とESTA申請の関係</a></li>
+                <li><a href="#section2">ESTA申請時の犯罪歴に関する質問</a></li>
+                <li><a href="#section3">犯罪歴の申告義務</a></li>
+                <li><a href="#section4">犯罪歴がある場合の却下リスク</a></li>
+                <li><a href="#section5">虚偽申告のリスク</a></li>
+                <li><a href="#section6">ビザ申請への切り替え</a></li>
+                <li><a href="#section7">よくある質問</a></li>
+                <li><a href="#section8">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>犯罪歴がある場合、ESTA申請において特別な注意が必要です。この記事では、犯罪歴がある方のESTA申請について、申告義務や対処法を詳しく解説します。</p>
+
+          <h2 id="section1">犯罪歴とESTA申請の関係</h2>
+          <p>ESTA申請では、<strong>犯罪歴に関する質問</strong>が含まれています。犯罪歴がある場合、ESTAが却下される可能性が高く、アメリカ入国が制限される場合があります。</p>
+          <div class="warn-box">
+            <h4>⚠️ 重要な注意点</h4>
+            <p>犯罪歴がある場合でも、必ずしもアメリカに入国できないわけではありません。ただし、ESTAではなく<strong>ビザの取得</strong>が必要になるケースがほとんどです。正確な情報を把握したうえで、適切な手続きを行いましょう。</p>
+          </div>
+
+          <h2 id="section2">ESTA申請時の犯罪歴に関する質問</h2>
+          <p>ESTA申請フォームには、適格性に関する9つの質問が含まれています。犯罪歴に関連する主な質問は以下のとおりです。</p>
+          <div class="info-box">
+            <h4>📋 犯罪歴に関する主な質問項目</h4>
+            <ul>
+              <li>身体的危害、物理的損害、他人への危害に関する法律違反で<strong>逮捕または有罪判決</strong>を受けたことがあるか</li>
+              <li>規制薬物に関する法律に<strong>違反したことがある</strong>か</li>
+              <li><strong>テロリスト活動</strong>に参加したことがあるか</li>
+              <li>道徳的な退廃に関わる犯罪（<strong>moral turpitude</strong>）に関与したことがあるか</li>
+            </ul>
+          </div>
+
+          <h2 id="section3">犯罪歴の申告義務</h2>
+          <p>ESTA申請時には、<strong>すべての犯罪歴を正直に申告する義務</strong>があります。以下の点を理解しておきましょう。</p>
+          <ul>
+            <li><strong>逮捕歴</strong>：有罪判決の有無にかかわらず、逮捕されたこと自体を申告する必要がある</li>
+            <li><strong>執行猶予・罰金刑</strong>：実刑でなくても申告が必要</li>
+            <li><strong>少年犯罪</strong>：未成年時の犯罪も原則として申告対象</li>
+            <li><strong>海外での犯罪</strong>：日本以外の国での犯罪歴も申告が必要</li>
+            <li><strong>交通違反</strong>：軽微な交通違反（駐車違反等）は通常申告不要だが、飲酒運転（DUI）は申告が必要</li>
+          </ul>
+
+          <h2 id="section4">犯罪歴がある場合の却下リスク</h2>
+          <p>犯罪歴に関する質問に「はい」と回答した場合、<strong>ESTAは自動的に却下される可能性が非常に高い</strong>です。特に以下のような犯罪歴は却下に直結します。</p>
+          <div class="warn-box">
+            <h4>⚠️ 却下リスクが高い犯罪歴</h4>
+            <ul>
+              <li><strong>薬物関連犯罪</strong>：所持・使用・売買など</li>
+              <li><strong>暴力犯罪</strong>：傷害、暴行、殺人未遂など</li>
+              <li><strong>窃盗・詐欺</strong>：万引き、横領、詐欺など</li>
+              <li><strong>飲酒運転（DUI/DWI）</strong>：複数回の場合は特にリスクが高い</li>
+              <li><strong>性犯罪</strong></li>
+              <li><strong>テロ関連活動</strong></li>
+            </ul>
+          </div>
+
+          <h2 id="section5">虚偽申告のリスク</h2>
+          <p>犯罪歴を隠してESTAを申請することは、<strong>絶対に避けてください</strong>。虚偽申告には以下のリスクがあります。</p>
+          <div class="warn-box">
+            <h4>⚠️ 虚偽申告の重大なリスク</h4>
+            <ul>
+              <li><strong>入国拒否</strong>：アメリカ到着時に入国審査で拒否される</li>
+              <li><strong>永久入国禁止</strong>：虚偽申告が発覚すると、将来にわたりアメリカへの入国が禁止される可能性</li>
+              <li><strong>刑事罰</strong>：アメリカの法律に基づく刑事罰の対象になりうる</li>
+              <li><strong>ビザ申請への悪影響</strong>：将来のビザ申請時に不利に働く</li>
+            </ul>
+          </div>
+          <p>アメリカの入国管理当局は、各国の犯罪データベースにアクセスできるため、犯罪歴を隠すことは非常に困難です。<strong>必ず正直に申告</strong>してください。</p>
+
+          <h2 id="section6">ビザ申請への切り替え</h2>
+          <p>犯罪歴がある場合は、ESTAではなく<strong>B1/B2ビザの申請</strong>を検討してください。ビザ申請では面接があるため、犯罪の経緯や更生の状況を直接説明する機会があります。</p>
+          <div class="info-box">
+            <h4>✅ ビザ申請時に準備すべき書類</h4>
+            <ul>
+              <li><strong>犯罪証明書</strong>（警察証明書）：犯罪歴の詳細を証明</li>
+              <li><strong>裁判記録</strong>：判決内容や刑期の詳細</li>
+              <li><strong>更生を示す書類</strong>：社会復帰の証明、雇用証明など</li>
+              <li><strong>推薦状</strong>：雇用主や地域の指導者からの推薦</li>
+              <li><strong>渡航目的を示す書類</strong>：ホテル予約、帰国便の予約など</li>
+            </ul>
+          </div>
+          <p>犯罪歴がある場合のビザ申請は複雑なため、<strong>移民弁護士への相談</strong>を強くおすすめします。</p>
+
+          <h2 id="section7">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: 軽微な犯罪歴でもESTAは却下されますか？</h3>
+            <p><strong>A:</strong> 犯罪の種類や重大性によります。軽微な交通違反（駐車違反等）は問題になりませんが、万引きや飲酒運転などは却下の原因となる可能性があります。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: 犯罪歴が古い場合でも申告は必要ですか？</h3>
+            <p><strong>A:</strong> はい、犯罪歴の時効に関係なく、すべての犯罪歴を申告する必要があります。古い犯罪歴でも正直に申告してください。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: 犯罪歴があるとアメリカに一生入国できないのですか？</h3>
+            <p><strong>A:</strong> いいえ、必ずしもそうではありません。ビザ申請を通じて入国が許可される場合があります。犯罪の種類や更生の状況によって判断されます。</p>
+          </div>
+
+          <h2 id="section8">まとめ</h2>
+          <p>犯罪歴がある場合、ESTA申請では正直な申告が義務です。虚偽申告は永久入国禁止などの重大なリスクがあります。犯罪歴がある方は、ESTAではなくビザ申請を検討し、必要に応じて移民弁護士に相談することをおすすめします。</p>
+
+          <div class="info-box">
+            <h4>✅ 犯罪歴がある場合のポイント</h4>
+            <ul>
+              <li>犯罪歴は必ず正直に申告する</li>
+              <li>虚偽申告は永久入国禁止のリスク</li>
+              <li>ESTAは却下される可能性が高い</li>
+              <li>B1/B2ビザの申請を検討する</li>
+              <li>移民弁護士への相談を推奨</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="usa-esta-rejection.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）が却下された場合の対処法</h3>
+              </div>
+            </a>
+            <a href="usa-esta-vs-visa.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAとビザの違い【どっちが必要？】</h3>
+              </div>
+            </a>
+            <a href="usa-esta-application.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+            <a href="usa-esta-about.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）とは？基本情報を解説</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="canada-eta-about.html">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">カナダeTA</span>
+                <div class="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="australia-etas-about.html">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">オーストラリア</span>
+                <div class="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="usa-esta-application.html">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wPHwh81eh2Mpg-YzCKlo_"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

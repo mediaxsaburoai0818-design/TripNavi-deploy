@@ -1,0 +1,219 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T2f8c,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#north-america">北アメリカ</a> ＞
+        <a href="#usa">アメリカ</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        ESTA（エスタ）とは
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/usa-hero.jpg" alt="アメリカ" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>ESTA（エスタ）とは？アメリカ電子渡航認証の基本情報【2026年最新】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">ESTAとは何か</a></li>
+                <li><a href="#section2">ESTAが導入された背景</a></li>
+                <li><a href="#section3">ESTAの対象者</a></li>
+                <li><a href="#section4">ESTAの申請料金</a></li>
+                <li><a href="#section5">ESTAの有効期限</a></li>
+                <li><a href="#section6">ESTAとビザの違い</a></li>
+                <li><a href="#section7">よくある質問</a></li>
+                <li><a href="#section8">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>アメリカへ渡航する際に必要な<strong>ESTA（エスタ）</strong>について、制度の基本情報を詳しく解説します。ESTAの定義から対象者、料金、有効期限まで、2026年最新の情報をお届けします。</p>
+
+          <h2 id="section1">ESTAとは何か</h2>
+          <p><strong>ESTA（Electronic System for Travel Authorization）</strong>は、アメリカ合衆国が導入した電子渡航認証システムです。日本語では「エスタ」と呼ばれ、ビザ免除プログラム（VWP：Visa Waiver Program）対象国の国民がアメリカへ渡航する際に、事前にオンラインで渡航認証を取得する制度です。</p>
+          <p>ESTAは2009年1月12日から義務化されており、観光・商用・トランジット目的で<strong>90日以内</strong>の短期滞在をする場合に必要となります。空路・海路でアメリカに入国するすべてのVWP対象国民が取得しなければなりません。</p>
+
+          <h2 id="section2">ESTAが導入された背景</h2>
+          <p>ESTAは、2001年9月11日の同時多発テロ事件を受けて、アメリカの安全保障強化の一環として導入されました。具体的には、<strong>2007年のビザ免除プログラム改正法（9/11 Act）</strong>に基づき、渡航者の事前スクリーニングを電子的に行う仕組みとして開発されました。</p>
+          <div class="info-box">
+            <h4>📋 ESTAの沿革</h4>
+            <ul>
+              <li><strong>2008年8月</strong>：ESTAシステム運用開始（任意）</li>
+              <li><strong>2009年1月</strong>：ESTA取得が義務化</li>
+              <li><strong>2010年9月</strong>：申請料金（$14）の徴収開始</li>
+              <li><strong>2024年</strong>：申請料金が$21に改定</li>
+            </ul>
+          </div>
+
+          <h2 id="section3">ESTAの対象者</h2>
+          <p>ESTAの申請が必要なのは、以下の条件をすべて満たす方です。</p>
+          <div class="info-box">
+            <h4>✅ ESTA申請が必要な方</h4>
+            <ul>
+              <li><strong>VWP対象国の国籍を持つ方</strong>（日本を含む41カ国）</li>
+              <li><strong>90日以内の短期滞在</strong>（観光・商用・トランジット）</li>
+              <li><strong>空路または海路</strong>でアメリカに入国する方</li>
+              <li><strong>ICチップ搭載のパスポート</strong>（eパスポート）を所持している方</li>
+              <li><strong>年齢不問</strong>（乳児や未成年者も申請が必要）</li>
+            </ul>
+          </div>
+          <div class="warn-box">
+            <h4>⚠️ ESTA申請ができない方</h4>
+            <ul>
+              <li>90日を超える滞在を予定している方</li>
+              <li>就労・留学・移住目的の方</li>
+              <li>過去にアメリカのビザ申請が却下された方</li>
+              <li>イラン・イラク・北朝鮮・スーダン・シリア・リビア・ソマリア・イエメンへの渡航歴がある方</li>
+            </ul>
+          </div>
+
+          <h2 id="section4">ESTAの申請料金</h2>
+          <p>2026年4月現在、ESTAの申請料金は<strong>21米ドル</strong>です。この料金は以下の2つの費用で構成されています。</p>
+          <div class="info-box">
+            <h4>💰 料金の内訳</h4>
+            <ul>
+              <li><strong>処理手数料：$4</strong>（申請処理のための費用・全員に課金）</li>
+              <li><strong>認証手数料：$17</strong>（認証が承認された場合のみ課金）</li>
+              <li><strong>合計：$21</strong>（承認時）</li>
+            </ul>
+          </div>
+          <p>支払いはクレジットカード（Visa、Mastercard、American Express、Discover）またはPayPalで行えます。申請が却下された場合は処理手数料の$4のみが請求されます。</p>
+
+          <h2 id="section5">ESTAの有効期限</h2>
+          <p>ESTAの有効期限は、<strong>承認日から2年間</strong>です。ただし、以下の場合はESTAが無効になります。</p>
+          <ul>
+            <li>パスポートの有効期限がESTAの有効期限より先に切れる場合（パスポート失効日が有効期限となる）</li>
+            <li>パスポートを新しく取得・更新した場合</li>
+            <li>氏名や国籍など登録情報に変更があった場合</li>
+          </ul>
+          <p>有効期限内であれば、何度でもアメリカへ渡航可能です。ただし、1回の滞在は<strong>最大90日間</strong>に制限されています。</p>
+
+          <h2 id="section6">ESTAとビザの違い</h2>
+          <p>ESTAはビザ（査証）とは異なる制度です。主な違いは以下のとおりです。</p>
+          <div class="info-box">
+            <h4>📊 ESTAとビザの比較</h4>
+            <ul>
+              <li><strong>ESTA</strong>：90日以内の短期滞在向け / オンライン申請 / $21 / 有効期限2年</li>
+              <li><strong>ビザ（B1/B2）</strong>：長期滞在向け / 大使館・領事館で面接 / $185 / 有効期限最大10年</li>
+            </ul>
+          </div>
+          <p>詳しい比較については、<a href="usa-esta-vs-visa.html">ESTAとビザの違い</a>のページをご覧ください。</p>
+
+          <h2 id="section7">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: ESTAは全員必要ですか？</h3>
+            <p><strong>A:</strong> VWP対象国の国籍を持ち、空路または海路で90日以内の短期滞在をする方は全員必要です。乳児や未成年者も例外なく申請が必要です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: ESTAがあればアメリカに必ず入国できますか？</h3>
+            <p><strong>A:</strong> いいえ。ESTAは渡航認証であり、入国を保証するものではありません。最終的な入国許可は、到着時の入国審査官が判断します。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: 陸路でアメリカに入国する場合もESTAは必要ですか？</h3>
+            <p><strong>A:</strong> 陸路（カナダやメキシコからの国境越え）の場合、ESTAは不要です。ただし、別途I-94Wフォームの記入が必要になります。</p>
+          </div>
+
+          <h2 id="section8">まとめ</h2>
+          <p>ESTAは、アメリカへの短期渡航に欠かせない電子渡航認証システムです。申請料金は$21、有効期限は2年間で、オンラインから簡単に申請できます。渡航前に余裕を持って取得しておきましょう。</p>
+
+          <div class="info-box">
+            <h4>✅ ESTAの基本情報まとめ</h4>
+            <ul>
+              <li>アメリカへの90日以内の短期滞在に必須の電子渡航認証</li>
+              <li>申請料金：$21（2026年4月現在）</li>
+              <li>有効期限：承認日から2年間</li>
+              <li>VWP対象国（日本含む41カ国）の国民が対象</li>
+              <li>オンラインまたはアプリで申請可能</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="usa-esta-application.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+            <a href="usa-esta-validity.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の有効期限と確認方法</h3>
+              </div>
+            </a>
+            <a href="usa-esta-vs-visa.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAとビザの違い【どっちが必要？比較ガイド】</h3>
+              </div>
+            </a>
+            <a href="usa-esta-rejection.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）が却下された場合の対処法</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="canada-eta-about.html">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">カナダeTA</span>
+                <div class="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="australia-etas-about.html">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">オーストラリア</span>
+                <div class="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="usa-esta-application.html">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wPHwh81eh2Mpg-YzCKlo_"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

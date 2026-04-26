@@ -1,0 +1,215 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T2f7f,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#north-america">北アメリカ</a> ＞
+        <a href="#usa">アメリカ</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        ESTAが却下された場合の対処法
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/usa-hero.jpg" alt="アメリカ" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>ESTA（エスタ）が却下された場合の対処法【再申請ガイド】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年4月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">ESTA却下とは</a></li>
+                <li><a href="#section2">ESTA却下の主な理由</a></li>
+                <li><a href="#section3">入力ミスによる却下の場合</a></li>
+                <li><a href="#section4">犯罪歴・渡航歴による却下の場合</a></li>
+                <li><a href="#section5">ビザ申請への切り替え</a></li>
+                <li><a href="#section6">再申請の手順と注意点</a></li>
+                <li><a href="#section7">よくある質問</a></li>
+                <li><a href="#section8">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>ESTA（エスタ）の申請が却下されると、アメリカへビザなしで渡航することができません。この記事では、ESTAが却下される主な理由と、却下後の対処法について詳しく解説します。</p>
+
+          <h2 id="section1">ESTA却下とは</h2>
+          <p>ESTA申請の審査結果は、<strong>「認証承認（Authorization Approved）」「渡航認証保留（Authorization Pending）」「渡航認証拒否（Travel Not Authorized）」</strong>の3種類です。「渡航認証拒否」と表示された場合、ESTAが却下されたことを意味します。</p>
+          <div class="warn-box">
+            <h4>⚠️ 却下された場合</h4>
+            <p>ESTAが却下されると、ビザ免除プログラム（VWP）を利用したアメリカ渡航ができなくなります。アメリカに渡航するには、米国大使館・領事館でビザを申請する必要があります。</p>
+          </div>
+
+          <h2 id="section2">ESTA却下の主な理由</h2>
+          <p>ESTAが却下される主な理由は以下のとおりです。</p>
+          <div class="info-box">
+            <h4>📋 却下の主な理由</h4>
+            <ul>
+              <li><strong>犯罪歴がある</strong>：逮捕歴・有罪判決歴がある場合</li>
+              <li><strong>特定国への渡航歴</strong>：イラン・イラク・北朝鮮・スーダン・シリア・リビア・ソマリア・イエメンへの渡航歴</li>
+              <li><strong>過去にビザが却下された</strong>：アメリカのビザ申請で不許可になった経歴</li>
+              <li><strong>過去にオーバーステイした</strong>：アメリカでの不法滞在歴</li>
+              <li><strong>入力ミス</strong>：パスポート番号や個人情報の誤入力</li>
+              <li><strong>適格性に関する質問への回答</strong>：健康状態や犯罪歴に関する質問で「はい」と回答</li>
+              <li><strong>二重国籍で対象外国籍を持つ</strong>：VWP対象外の国籍を併せ持つ場合</li>
+            </ul>
+          </div>
+
+          <h2 id="section3">入力ミスによる却下の場合</h2>
+          <p>パスポート番号や氏名のスペルなど、<strong>単純な入力ミス</strong>が原因でESTAが却下されるケースは少なくありません。</p>
+          <div class="info-box">
+            <h4>✅ 入力ミスの場合の対処法</h4>
+            <ol>
+              <li>入力内容を慎重に確認する</li>
+              <li>正しい情報で<strong>新規にESTAを再申請</strong>する</li>
+              <li>再申請料金$21が別途必要</li>
+              <li>再申請で承認されれば渡航可能</li>
+            </ol>
+          </div>
+          <div class="warn-box">
+            <h4>⚠️ 注意</h4>
+            <p>入力ミスによる却下でも、再申請時に必ず承認されるとは限りません。入力ミスと判断できない場合は、ビザ申請が求められることがあります。</p>
+          </div>
+
+          <h2 id="section4">犯罪歴・渡航歴による却下の場合</h2>
+          <p>犯罪歴や特定国への渡航歴が理由でESTAが却下された場合、<strong>再申請しても同じ結果になる可能性が高い</strong>です。この場合は、ビザ申請への切り替えを検討してください。</p>
+          <p>犯罪歴がある場合の詳細については、<a href="usa-esta-criminal-record.html">犯罪歴がある場合のESTA申請</a>のページをご覧ください。</p>
+
+          <h2 id="section5">ビザ申請への切り替え</h2>
+          <p>ESTAが却下された場合、アメリカに渡航するには<strong>非移民ビザ（B1/B2ビザなど）</strong>を申請する必要があります。</p>
+          <div class="info-box">
+            <h4>📋 ビザ申請の手順</h4>
+            <ol>
+              <li><strong>DS-160</strong>（非移民ビザ申請書）をオンラインで作成</li>
+              <li>ビザ申請料金<strong>$185</strong>を支払い</li>
+              <li>米国大使館・領事館で<strong>面接予約</strong></li>
+              <li>必要書類を持参して<strong>面接</strong>を受ける</li>
+              <li>審査後、ビザが発給される（通常1〜2週間）</li>
+            </ol>
+          </div>
+          <p>ビザとESTAの違いについては、<a href="usa-esta-vs-visa.html">ESTAとビザの違い</a>のページで詳しく解説しています。</p>
+
+          <h2 id="section6">再申請の手順と注意点</h2>
+          <p>ESTAの再申請は、最初の申請と同じ手順で行います。ただし、以下の点に注意してください。</p>
+          <ul>
+            <li><strong>却下理由が入力ミスの場合のみ</strong>再申請が有効</li>
+            <li>犯罪歴や適格性の問題による却下の場合、再申請しても結果は変わらない</li>
+            <li>再申請にも<strong>$21の申請料金</strong>が必要</li>
+            <li>何度も却下されると、将来の入国に悪影響を及ぼす可能性がある</li>
+            <li>不安な場合は、<strong>移民弁護士に相談</strong>することを推奨</li>
+          </ul>
+
+          <h2 id="section7">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: ESTAが却下された理由は教えてもらえますか？</h3>
+            <p><strong>A:</strong> いいえ、ESTA却下の具体的な理由は開示されません。米国税関・国境警備局（CBP）は却下理由の詳細を通知しない方針です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: ESTA却下後、すぐに再申請できますか？</h3>
+            <p><strong>A:</strong> はい、再申請は可能です。ただし、入力ミス以外の理由で却下された場合は、再申請しても同じ結果になる可能性が高いため、ビザ申請を検討してください。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: ESTA却下はパスポートに記録されますか？</h3>
+            <p><strong>A:</strong> ESTAの却下はパスポートには記録されませんが、米国政府のシステムには記録が残ります。ビザ申請時にESTA却下歴について質問される場合があります。</p>
+          </div>
+
+          <h2 id="section8">まとめ</h2>
+          <p>ESTAが却下された場合、入力ミスが原因なら正しい情報で再申請を試みましょう。犯罪歴や渡航歴が原因の場合は、米国大使館・領事館でのビザ申請に切り替える必要があります。不安な場合は移民弁護士への相談をおすすめします。</p>
+
+          <div class="info-box">
+            <h4>✅ ESTA却下時の対応まとめ</h4>
+            <ul>
+              <li>入力ミスの場合：正しい情報で再申請</li>
+              <li>犯罪歴・渡航歴の場合：ビザ申請へ切り替え</li>
+              <li>却下理由は開示されない</li>
+              <li>ビザ申請料金は$185</li>
+              <li>不安な場合は移民弁護士に相談</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="usa-esta-criminal-record.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>犯罪歴がある場合のESTA申請【注意点と対策】</h3>
+              </div>
+            </a>
+            <a href="usa-esta-vs-visa.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAとビザの違い【どっちが必要？】</h3>
+              </div>
+            </a>
+            <a href="usa-esta-application.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説</h3>
+              </div>
+            </a>
+            <a href="usa-esta-pending.html" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAの審査が保留中の場合【待ち時間と対処法】</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="canada-eta-about.html">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">カナダeTA</span>
+                <div class="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="australia-etas-about.html">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">オーストラリア</span>
+                <div class="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="usa-esta-application.html">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wPHwh81eh2Mpg-YzCKlo_"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null
