@@ -1,0 +1,231 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T2e05,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#uk">イギリス</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        イギリスETAの更新・再申請
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/uk-hero.jpg" alt="イギリス" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">イギリス渡航ノウハウ</span>
+        <h1>イギリスETAの更新・再申請方法【期限切れ前に確認】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年04月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">イギリスETAに「更新」制度はない</a></li>
+                <li><a href="#section2">再申請が必要なケース</a></li>
+                <li><a href="#section3">再申請の手順</a></li>
+                <li><a href="#section4">再申請に必要な書類・情報</a></li>
+                <li><a href="#section5">再申請のベストタイミング</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>イギリスETAの有効期限が近づいている方、パスポートを更新した方に向けて、再申請の方法とタイミングを解説します。</p>
+
+          <h2 id="section1">イギリスETAに「更新」制度はない</h2>
+          <p>イギリスETAには、免許証やパスポートのような<strong>「更新」制度がありません</strong>。有効期限が切れた場合や、パスポートを変更した場合は、新規申請と同じ手順で<strong>再申請</strong>する必要があります。</p>
+          <p>再申請の場合も、申請料金（16ポンド）が改めて必要となり、新しいETA番号が付与されます。以前のETA番号は使用できなくなります。</p>
+
+          <div class="info-box">
+            <h4>📌 更新と再申請の違い</h4>
+            <ul>
+              <li><strong>更新:</strong> 既存のETAを延長する制度 → <strong>存在しない</strong></li>
+              <li><strong>再申請:</strong> 新たにETAを申請する手続き → <strong>これが必要</strong></li>
+              <li>再申請は新規申請と同じ手順・料金です</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">再申請が必要なケース</h2>
+          <p>以下のいずれかに該当する場合、ETAの再申請が必要です。</p>
+
+          <h3>1. ETAの有効期限が切れた場合</h3>
+          <p>ETAの有効期限（承認日から2年間）が切れた場合は、新たに申請する必要があります。</p>
+
+          <h3>2. パスポートを更新した場合</h3>
+          <p>ETAはパスポート番号に紐づいているため、パスポートを更新すると既存のETAは無効になります。新しいパスポートでの再申請が必要です。</p>
+
+          <h3>3. パスポートを紛失・盗難した場合</h3>
+          <p>パスポートを紛失・盗難で再発行した場合も、パスポート番号が変わるためETAの再申請が必要です。</p>
+
+          <h3>4. 氏名や国籍が変更になった場合</h3>
+          <p>結婚による姓の変更や国籍変更でパスポートを変更した場合も、ETAの再申請が必要です。</p>
+
+          <div class="warn-box">
+            <h4>⚠️ 重要</h4>
+            <p>パスポート情報が変わった場合は、渡航前に必ずETAを再申請してください。旧パスポートに紐づいたETAでは搭乗できません。</p>
+          </div>
+
+          <h2 id="section3">再申請の手順</h2>
+          <p>ETAの再申請は、初回申請と同じ手順で行います。</p>
+
+          <h3>ステップ1: 必要書類を準備する</h3>
+          <p>有効なパスポート、顔写真、クレジットカード、メールアドレスを用意します。</p>
+
+          <h3>ステップ2: 公式サイトまたはアプリにアクセス</h3>
+          <p><a href="https://www.gov.uk/eta/apply" target="_blank">gov.uk/eta/apply</a>またはUK ETAアプリから申請画面に進みます。</p>
+
+          <h3>ステップ3: パスポート情報を入力</h3>
+          <p>新しいパスポートの情報を正確に入力します。アプリの場合はカメラでスキャンできます。</p>
+
+          <h3>ステップ4: 個人情報・質問に回答</h3>
+          <p>住所、職業、犯罪歴などの質問に回答します。</p>
+
+          <h3>ステップ5: 料金を支払う</h3>
+          <p>申請料金<strong>16ポンド</strong>をクレジットカード、Apple Pay、Google Payで支払います。</p>
+
+          <h3>ステップ6: 審査結果を待つ</h3>
+          <p>通常<strong>72時間以内</strong>に審査結果がメールで届きます。</p>
+
+          <h2 id="section4">再申請に必要な書類・情報</h2>
+          <div class="info-box">
+            <h4>📋 必要書類チェックリスト</h4>
+            <ul>
+              <li>ICチップ付きパスポート（有効期限内）</li>
+              <li>顔写真データ（3か月以内撮影、9歳以下は不要）</li>
+              <li>クレジットカード/デビットカード</li>
+              <li>メールアドレス</li>
+              <li>住所・電話番号・職業情報</li>
+              <li>犯罪歴の有無に関する申告</li>
+            </ul>
+          </div>
+
+          <h2 id="section5">再申請のベストタイミング</h2>
+          <p>再申請のタイミングは以下を参考にしてください。</p>
+
+          <h3>有効期限切れの場合</h3>
+          <p>次のイギリス渡航が決まったタイミングで再申請します。出発の<strong>1〜2週間前</strong>までに申請を完了させましょう。</p>
+
+          <h3>パスポート更新の場合</h3>
+          <p>新しいパスポートを受け取ったら、<strong>速やかにETAを再申請</strong>することをお勧めします。特にイギリス渡航が近い場合は、パスポート更新後すぐに申請してください。</p>
+
+          <h3>有効期限が近い場合</h3>
+          <p>ETAの有効期限が近づいていて、今後もイギリスに渡航予定がある場合は、<strong>期限切れ前でも再申請可能</strong>です。新しいETAが承認されると、以前のETAは無効になります。</p>
+
+          <h2 id="section6">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: ETAの更新はできますか？</h3>
+            <p><strong>A:</strong> ETAに更新制度はありません。期限切れ後は新規申請と同じ手順で再申請してください。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: 再申請にかかる費用は？</h3>
+            <p><strong>A:</strong> 初回申請と同じ<strong>16ポンド</strong>です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: 有効期限切れ前に再申請できますか？</h3>
+            <p><strong>A:</strong> はい、可能です。新しいETAが承認されると、以前のETAは無効になります。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: 再申請で却下されることはありますか？</h3>
+            <p><strong>A:</strong> 再申請でも通常の審査が行われます。以前承認されていても、状況の変化により却下される可能性はあります。</p>
+          </div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>イギリスETAには更新制度がなく、期限切れやパスポート変更の際は再申請が必要です。手順は初回申請と同じで、料金は16ポンドです。渡航前に余裕を持って再申請を完了させましょう。</p>
+
+          <div class="info-box">
+            <h4>✅ 再申請のポイント</h4>
+            <ul>
+              <li>ETAに更新制度はなく、再申請が必要</li>
+              <li>パスポート更新時は必ずETAも再申請</li>
+              <li>手順・料金は初回申請と同じ（16ポンド）</li>
+              <li>出発の1〜2週間前までに申請を完了</li>
+              <li>期限切れ前でも再申請可能</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/uk-mid.jpg" alt="イギリスの田園風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/uk-eta-validity" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAの有効期限と更新方法</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-application" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAの申請方法を解説</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-rejection" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAが却下された場合の対処法</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-check" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAの申請状況確認方法</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/uk-eta-application">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAの申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/uk-eta-validity">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAの有効期限と更新方法</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/uk-eta-about">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAとは？基本情報</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"x6Xzz3hN1MM2NxNMoo8HE"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

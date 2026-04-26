@@ -1,0 +1,251 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T302d,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#uk">イギリス</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        イギリスETAが却下された場合
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/uk-hero.jpg" alt="イギリス" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">イギリス渡航ノウハウ</span>
+        <h1>イギリスETAが却下された場合の対処法【再申請ガイド】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年04月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">イギリスETAが却下される主な理由</a></li>
+                <li><a href="#section2">却下通知の確認方法</a></li>
+                <li><a href="#section3">却下後の再申請方法</a></li>
+                <li><a href="#section4">ビザ申請への切り替え</a></li>
+                <li><a href="#section5">却下を防ぐためのポイント</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>イギリスETAの申請が却下された場合でも、適切に対処すれば再申請やビザ取得で渡航できる可能性があります。この記事では、却下理由と対処法を詳しく解説します。</p>
+
+          <h2 id="section1">イギリスETAが却下される主な理由</h2>
+          <p>ETAの申請が却下（refused）される理由は様々ですが、主に以下のケースが考えられます。</p>
+
+          <h3>1. 入力情報の誤り</h3>
+          <ul>
+            <li>パスポート番号のスペルミスや数字の誤り</li>
+            <li>氏名のローマ字表記の間違い</li>
+            <li>生年月日の入力ミス</li>
+            <li>パスポート情報と申請情報の不一致</li>
+          </ul>
+
+          <h3>2. セキュリティ上の理由</h3>
+          <ul>
+            <li>犯罪歴がある場合</li>
+            <li>過去にイギリスの入国管理法に違反した経歴</li>
+            <li>テロ関連のリストに該当する場合</li>
+            <li>過去にビザの不正使用や不法滞在の記録がある場合</li>
+          </ul>
+
+          <h3>3. パスポートの問題</h3>
+          <ul>
+            <li>パスポートの有効期限が不足している</li>
+            <li>ICチップが読み取れない（破損している）</li>
+            <li>パスポートが対象国のものでない</li>
+          </ul>
+
+          <h3>4. 顔写真の問題</h3>
+          <ul>
+            <li>写真が不鮮明または条件を満たしていない</li>
+            <li>顔認証が正しく行われなかった</li>
+          </ul>
+
+          <div class="warn-box">
+            <h4>⚠️ 重要</h4>
+            <p>却下された場合でも<strong>申請料金の返金はありません</strong>。正確な情報で申請することが重要です。</p>
+          </div>
+
+          <h2 id="section2">却下通知の確認方法</h2>
+          <p>ETAが却下された場合、登録したメールアドレスに通知が届きます。</p>
+          <ul>
+            <li>メールの件名に「ETA application refused」と表示されます</li>
+            <li>却下理由の概要が記載されている場合があります</li>
+            <li>UK ETAアプリでもステータスを確認できます</li>
+          </ul>
+
+          <h2 id="section3">却下後の再申請方法</h2>
+          <p>入力ミスが原因で却下された場合は、情報を修正して再申請することで承認される可能性があります。</p>
+
+          <h3>再申請の手順</h3>
+          <ol>
+            <li><strong>却下理由を確認する:</strong> メール通知で却下理由を把握します</li>
+            <li><strong>原因を特定する:</strong> 入力ミス、写真の不備など原因を特定します</li>
+            <li><strong>問題を修正する:</strong> パスポート情報や写真を再確認・再撮影します</li>
+            <li><strong>再度申請する:</strong> 公式サイトまたはアプリから新たに申請します</li>
+            <li><strong>料金を支払う:</strong> 再申請でも16ポンドの料金が必要です</li>
+          </ol>
+
+          <div class="info-box">
+            <h4>📌 再申請のポイント</h4>
+            <ul>
+              <li>再申請に回数制限はありません</li>
+              <li>毎回16ポンドの料金がかかります</li>
+              <li>入力情報を慎重に確認してから申請しましょう</li>
+              <li>パスポート情報は手入力よりスキャン機能の利用を推奨</li>
+            </ul>
+          </div>
+
+          <h2 id="section4">ビザ申請への切り替え</h2>
+          <p>セキュリティ上の理由や犯罪歴などでETAが繰り返し却下される場合は、<strong>イギリスビザの申請</strong>を検討する必要があります。</p>
+
+          <h3>ビザ申請が必要なケース</h3>
+          <ul>
+            <li>ETAが複数回却下されている場合</li>
+            <li>犯罪歴がありETAの取得が困難な場合</li>
+            <li>過去にイギリスで入国管理上の問題があった場合</li>
+            <li>6か月を超える長期滞在を予定している場合</li>
+          </ul>
+
+          <h3>ビザの申請方法</h3>
+          <p>イギリスビザは、<a href="https://www.gov.uk/apply-uk-visa" target="_blank">gov.ukの公式サイト</a>から申請します。ビザの種類により必要書類や手続きが異なります。</p>
+          <ul>
+            <li><strong>Standard Visitor Visa:</strong> 6か月以内の観光・商用向け</li>
+            <li><strong>Long-term Visit Visa:</strong> 2年、5年、10年の長期ビザ</li>
+          </ul>
+          <p>ビザ申請にはETAより多くの書類と時間が必要です。VFS Globalのビザ申請センターでの生体認証（指紋採取・顔写真撮影）も求められます。</p>
+
+          <h2 id="section5">却下を防ぐためのポイント</h2>
+          <div class="info-box">
+            <h4>✅ 申請時のチェックリスト</h4>
+            <ul>
+              <li>パスポート番号・氏名・生年月日を二重確認する</li>
+              <li>アプリのスキャン機能でパスポートを読み取る</li>
+              <li>顔写真は白い背景で帽子・眼鏡を外して撮影</li>
+              <li>犯罪歴や渡航歴の質問に正直に回答する</li>
+              <li>パスポートの有効期限に十分な余裕があることを確認</li>
+              <li>安定したインターネット環境で申請する</li>
+            </ul>
+          </div>
+
+          <h2 id="section6">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: ETAが却下されたら返金されますか？</h3>
+            <p><strong>A:</strong> いいえ。却下された場合でも<strong>申請料金は返金されません</strong>。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: 何回まで再申請できますか？</h3>
+            <p><strong>A:</strong> 再申請に回数制限はありません。ただし、毎回16ポンドの料金がかかります。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: 却下理由は教えてもらえますか？</h3>
+            <p><strong>A:</strong> 却下通知メールに概要が記載される場合があります。詳細な理由については、イギリス政府に問い合わせることも可能です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: ETAが却下されてもビザは取得できますか？</h3>
+            <p><strong>A:</strong> ETA却下とビザ審査は別のプロセスです。ビザ申請ではより詳細な書類を提出するため、ETAが却下されてもビザが承認される可能性はあります。</p>
+          </div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>イギリスETAが却下された場合は、まず却下理由を確認し、入力ミスなら修正して再申請しましょう。セキュリティ上の理由で繰り返し却下される場合は、ビザ申請への切り替えを検討してください。</p>
+
+          <div class="info-box">
+            <h4>✅ 却下時の対処まとめ</h4>
+            <ul>
+              <li>却下通知メールで理由を確認</li>
+              <li>入力ミスが原因なら修正して再申請</li>
+              <li>再申請でも料金16ポンドが必要</li>
+              <li>繰り返し却下される場合はビザ申請を検討</li>
+              <li>正確な情報入力で却下を防ぐ</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/uk-mid.jpg" alt="イギリスの田園風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/uk-eta-application" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAの申請方法を解説</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-criminal-record" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>犯罪歴がある場合のイギリスETA申請</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-pending" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAの審査が保留中の場合</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-check" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAの申請状況確認方法</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/uk-eta-application">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAの申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/uk-eta-about">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAとは？基本情報</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/uk-eta-renewal">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAの更新・再申請方法</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"x6Xzz3hN1MM2NxNMoo8HE"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

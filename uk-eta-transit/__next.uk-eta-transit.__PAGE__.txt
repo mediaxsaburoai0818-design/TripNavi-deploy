@@ -1,0 +1,235 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T2d2b,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#uk">イギリス</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        イギリストランジット時のETA
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/uk-hero.jpg" alt="イギリス" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">イギリス渡航ノウハウ</span>
+        <h1>イギリストランジット時のETA要否【乗り継ぎガイド】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年04月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">イギリス乗り継ぎにETAは必要？</a></li>
+                <li><a href="#section2">Airside（制限区域内）トランジット</a></li>
+                <li><a href="#section3">Landside（入国審査通過）トランジット</a></li>
+                <li><a href="#section4">主要空港別の乗り継ぎ情報</a></li>
+                <li><a href="#section5">トランジット時のETA申請方法</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>イギリスの空港で乗り継ぎ（トランジット）をする場合、ETAが必要かどうかは状況により異なります。この記事では、乗り継ぎの種類別にETA要否を解説します。</p>
+
+          <h2 id="section1">イギリス乗り継ぎにETAは必要？</h2>
+          <p>結論から言うと、<strong>日本国籍者はイギリスでの乗り継ぎ時にもETAが必要</strong>です。入国審査を通過するかどうか（Landside/Airside）に関わらず、2025年1月8日以降はETAの取得が求められます。</p>
+
+          <div class="warn-box">
+            <h4>⚠️ 重要な変更点</h4>
+            <p>以前は制限区域内（Airside）での乗り継ぎにはビザやETAが不要でしたが、<strong>ETA制度の導入により、すべてのトランジットでETAが必要</strong>となりました。</p>
+          </div>
+
+          <h2 id="section2">Airside（制限区域内）トランジット</h2>
+          <p>Airsideトランジットとは、入国審査を通過せずに空港の制限区域内で乗り継ぐことです。</p>
+
+          <h3>Airsideトランジットの特徴</h3>
+          <ul>
+            <li>入国審査を通過しない</li>
+            <li>空港の制限区域（国際線エリア）内で次の便を待つ</li>
+            <li>荷物は最終目的地まで自動的にスルーチェックインされる場合が多い</li>
+            <li>空港の外には出られない</li>
+          </ul>
+
+          <div class="info-box">
+            <h4>📌 日本国籍者の場合</h4>
+            <p>日本国籍者はAirsideトランジットの場合でも<strong>ETAが必要</strong>です。ETA未取得の場合、乗り継ぎ便への搭乗が拒否される可能性があります。</p>
+          </div>
+
+          <h2 id="section3">Landside（入国審査通過）トランジット</h2>
+          <p>Landsideトランジットとは、入国審査を通過してイギリスに一時的に入国し、その後出国して次の便に搭乗することです。</p>
+
+          <h3>Landsideトランジットが必要なケース</h3>
+          <ul>
+            <li>異なるターミナル間での乗り継ぎ（一部空港）</li>
+            <li>荷物の受け取りと再チェックインが必要な場合</li>
+            <li>異なる航空会社間での乗り継ぎ</li>
+            <li>空港外での観光や宿泊を希望する場合</li>
+            <li>乗り継ぎ時間が長い場合</li>
+          </ul>
+
+          <p>Landsideトランジットの場合は、当然ながら<strong>ETAが必須</strong>です。入国審査を通過するため、通常のイギリス入国と同じ扱いとなります。</p>
+
+          <h2 id="section4">主要空港別の乗り継ぎ情報</h2>
+
+          <h3>ロンドン・ヒースロー空港（LHR）</h3>
+          <p>イギリス最大の国際空港で、5つのターミナルがあります。</p>
+          <ul>
+            <li><strong>同一ターミナル内の乗り継ぎ:</strong> Airsideで可能な場合あり</li>
+            <li><strong>ターミナル間の乗り継ぎ:</strong> 一部はAirsideで移動可能（T2-T5間）、T1-T4間は入国審査が必要な場合あり</li>
+            <li><strong>乗り継ぎ最低時間:</strong> 同一ターミナル約60分、ターミナル間約90分〜</li>
+          </ul>
+
+          <h3>ロンドン・ガトウィック空港（LGW）</h3>
+          <ul>
+            <li>ノースターミナルとサウスターミナルの2つ</li>
+            <li>ターミナル間の移動にはシャトルを利用</li>
+            <li>乗り継ぎ最低時間: 約90分〜</li>
+          </ul>
+
+          <h3>マンチェスター空港（MAN）</h3>
+          <ul>
+            <li>3つのターミナルで構成</li>
+            <li>国際線の乗り継ぎ対応あり</li>
+            <li>乗り継ぎ最低時間: 約60分〜</li>
+          </ul>
+
+          <h3>エディンバラ空港（EDI）</h3>
+          <ul>
+            <li>単一ターミナル</li>
+            <li>乗り継ぎは比較的スムーズ</li>
+            <li>乗り継ぎ最低時間: 約45分〜</li>
+          </ul>
+
+          <h2 id="section5">トランジット時のETA申請方法</h2>
+          <p>乗り継ぎ目的のETA申請方法は、通常の申請と同じです。</p>
+
+          <div class="info-box">
+            <h4>📋 トランジット時のETA申請チェックリスト</h4>
+            <ul>
+              <li>出発の1〜2週間前までにETAを申請</li>
+              <li>渡航目的で「Transit（乗り継ぎ）」を選択</li>
+              <li>最終目的地の情報も準備しておく</li>
+              <li>乗り継ぎ便の予約確認書を持参（任意だが推奨）</li>
+              <li>申請料金は通常と同じ16ポンド</li>
+            </ul>
+          </div>
+
+          <h2 id="section6">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: 空港から出ない乗り継ぎでもETAは必要ですか？</h3>
+            <p><strong>A:</strong> はい。日本国籍者は<strong>Airside（制限区域内）トランジットでもETAが必要</strong>です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: 乗り継ぎ時間が数時間でもETAが必要ですか？</h3>
+            <p><strong>A:</strong> はい。滞在時間に関わらず、イギリスの空港を経由する場合はETAが必要です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: 乗り継ぎ用のETAの有効期限は？</h3>
+            <p><strong>A:</strong> 通常のETAと同じく<strong>2年間</strong>有効です。乗り継ぎ専用のETAという区分はなく、同じETAで観光や乗り継ぎに利用できます。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: 乗り継ぎ中に空港の外に出ることはできますか？</h3>
+            <p><strong>A:</strong> ETAを取得していれば、入国審査を通過して空港外に出ることが可能です。ただし、次の便に間に合うよう時間に余裕を持ってください。</p>
+          </div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>イギリスでの乗り継ぎ（トランジット）時には、Airside・Landsideに関わらずETAが必要です。乗り継ぎ予定がある場合は、出発前にETAを忘れずに取得しましょう。</p>
+
+          <div class="info-box">
+            <h4>✅ トランジット時のポイント</h4>
+            <ul>
+              <li>日本国籍者は乗り継ぎでもETAが必須</li>
+              <li>Airside（制限区域内）でもETAが必要</li>
+              <li>申請方法・料金は通常のETAと同じ</li>
+              <li>乗り継ぎ時間に余裕を持つ（最低60〜90分）</li>
+              <li>出発の1〜2週間前までに申請を完了</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/uk-mid.jpg" alt="イギリスの田園風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/uk-eta-application" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAの申請方法を解説</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-about" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAとは？基本情報</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-vs-visa" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAとビザの違い</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-check" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAの申請状況確認方法</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/uk-eta-application">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAの申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/uk-eta-about">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAとは？基本情報</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/uk-eta-validity">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAの有効期限と更新方法</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"x6Xzz3hN1MM2NxNMoo8HE"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

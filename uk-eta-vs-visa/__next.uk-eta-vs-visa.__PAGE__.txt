@@ -1,0 +1,234 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T2fbe,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#uk">イギリス</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        イギリスETAとビザの違い
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/uk-hero.jpg" alt="イギリス" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">イギリス渡航ノウハウ</span>
+        <h1>イギリスETAとビザの違い【どっちが必要？】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年04月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">ETAとビザの基本的な違い</a></li>
+                <li><a href="#section2">ETAとビザの比較表</a></li>
+                <li><a href="#section3">どちらが必要？判定フローチャート</a></li>
+                <li><a href="#section4">ETAが適しているケース</a></li>
+                <li><a href="#section5">ビザが必要なケース</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>イギリスに渡航する際、ETAとビザのどちらが必要なのか迷う方は多いでしょう。この記事では、両者の違いを比較表とフローチャートで明確に解説します。</p>
+
+          <h2 id="section1">ETAとビザの基本的な違い</h2>
+          <p><strong>ETA（電子渡航認証）</strong>は、ビザ免除国の国民が短期渡航する際に必要な事前認証です。一方、<strong>ビザ（査証）</strong>は、長期滞在や就労・留学など特定の目的で渡航する際に必要な許可証です。</p>
+
+          <div class="info-box">
+            <h4>📌 簡単な違い</h4>
+            <ul>
+              <li><strong>ETA:</strong> オンラインで簡単に申請。短期渡航（6か月以内）向け。安価。</li>
+              <li><strong>ビザ:</strong> 書類提出・生体認証が必要。長期滞在・就労・留学向け。高額。</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">ETAとビザの比較表</h2>
+
+          <div class="info-box">
+            <h4>📊 ETA vs ビザ 比較表</h4>
+            <ul>
+              <li><strong>【申請方法】</strong> ETA: オンライン/アプリ ｜ ビザ: オンライン＋ビザ申請センター訪問</li>
+              <li><strong>【申請料金】</strong> ETA: 16ポンド（約3,000円） ｜ ビザ: 115ポンド〜（種類により異なる）</li>
+              <li><strong>【審査期間】</strong> ETA: 通常72時間以内 ｜ ビザ: 3週間〜8週間</li>
+              <li><strong>【有効期限】</strong> ETA: 2年間 ｜ ビザ: 6か月〜10年（種類による）</li>
+              <li><strong>【滞在可能期間】</strong> ETA: 最大6か月/回 ｜ ビザ: 種類により異なる</li>
+              <li><strong>【就労】</strong> ETA: 不可 ｜ ビザ: 就労ビザで可能</li>
+              <li><strong>【留学】</strong> ETA: 6か月以内の短期のみ ｜ ビザ: 長期留学可能</li>
+              <li><strong>【必要書類】</strong> ETA: パスポート・写真のみ ｜ ビザ: 財務証明・招待状等多数</li>
+              <li><strong>【生体認証】</strong> ETA: 不要（顔認証のみ） ｜ ビザ: 指紋採取・顔写真が必要</li>
+              <li><strong>【面接】</strong> ETA: なし ｜ ビザ: 必要な場合あり</li>
+            </ul>
+          </div>
+
+          <h2 id="section3">どちらが必要？判定フローチャート</h2>
+          <p>以下のフローで、ETAとビザのどちらが必要か判定できます。</p>
+
+          <div class="info-box">
+            <h4>🔍 ETA/ビザ判定フロー</h4>
+            <p><strong>Q1: イギリスでの滞在期間は6か月以内ですか？</strong></p>
+            <p>→ はい → Q2へ</p>
+            <p>→ いいえ → <strong>ビザが必要</strong></p>
+
+            <p><strong>Q2: 渡航目的は観光・商用・親族訪問・短期留学・乗り継ぎですか？</strong></p>
+            <p>→ はい → Q3へ</p>
+            <p>→ いいえ（就労・長期留学など） → <strong>ビザが必要</strong></p>
+
+            <p><strong>Q3: あなたはビザ免除国（日本を含む）の国籍ですか？</strong></p>
+            <p>→ はい → <strong>ETAで渡航可能</strong></p>
+            <p>→ いいえ → <strong>ビザが必要</strong></p>
+          </div>
+
+          <h2 id="section4">ETAが適しているケース</h2>
+          <p>以下の場合はETAで渡航できます。</p>
+          <ul>
+            <li><strong>観光旅行:</strong> 6か月以内のイギリス観光</li>
+            <li><strong>短期出張:</strong> 会議、商談、展示会参加など</li>
+            <li><strong>親族訪問:</strong> イギリス在住の家族・友人を訪問</li>
+            <li><strong>短期留学:</strong> 6か月以内の語学研修や短期コース</li>
+            <li><strong>乗り継ぎ:</strong> イギリスの空港を経由する場合</li>
+            <li><strong>Creative worker concession:</strong> 招待された芸術家・演奏家</li>
+          </ul>
+
+          <h2 id="section5">ビザが必要なケース</h2>
+          <p>以下の場合はビザの取得が必要です。</p>
+
+          <h3>Standard Visitor Visa</h3>
+          <p>ETAが取得できない国籍の方が、6か月以内の観光・商用で渡航する場合に必要です。料金は115ポンド。</p>
+
+          <h3>Student Visa（学生ビザ）</h3>
+          <p>6か月を超える留学の場合に必要です。認定教育機関からのCAS（入学許可証）が必要です。</p>
+
+          <h3>Skilled Worker Visa（就労ビザ）</h3>
+          <p>イギリスで就労する場合に必要です。雇用主からのスポンサーシップが求められます。</p>
+
+          <h3>その他のビザ</h3>
+          <ul>
+            <li><strong>Family Visa:</strong> イギリス国民の配偶者・パートナーとの同居</li>
+            <li><strong>Youth Mobility Scheme:</strong> ワーキングホリデー（18〜30歳対象）</li>
+            <li><strong>Long-term Visit Visa:</strong> 2年、5年、10年の長期観光ビザ</li>
+          </ul>
+
+          <div class="warn-box">
+            <h4>⚠️ 注意</h4>
+            <p>ETAでイギリスに入国し、就労や6か月を超える滞在を行うことは<strong>違法</strong>です。目的に合った適切なビザを取得してください。</p>
+          </div>
+
+          <h2 id="section6">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: ETAとビザの両方を持つことはできますか？</h3>
+            <p><strong>A:</strong> 有効なビザを持っている場合、ETAは不要です。ビザ保有者はETA免除対象です。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: ETAで入国して、現地でビザに切り替えられますか？</h3>
+            <p><strong>A:</strong> 原則として、ETAでの入国後にイギリス国内でビザへ切り替えることは<strong>できません</strong>。ビザが必要な場合は、日本で事前に申請してください。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: ワーキングホリデーにはETAとビザのどちらが必要ですか？</h3>
+            <p><strong>A:</strong> ワーキングホリデー（Youth Mobility Scheme）には<strong>ビザが必要</strong>です。ETAでは就労できません。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: ETAが却下された場合、ビザを申請できますか？</h3>
+            <p><strong>A:</strong> はい。ETAとビザは別の審査プロセスです。ETAが却下されてもビザ申請は可能です。</p>
+          </div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>イギリスETAは短期渡航（6か月以内の観光・商用・乗り継ぎ）向けの電子渡航認証で、ビザは長期滞在や就労・留学向けの許可証です。日本国籍者で短期渡航の場合はETAで十分ですが、就労や長期留学を予定している場合はビザを申請してください。</p>
+
+          <div class="info-box">
+            <h4>✅ ETA vs ビザのポイント</h4>
+            <ul>
+              <li>短期観光・商用（6か月以内） → ETA</li>
+              <li>長期滞在・就労・留学 → ビザ</li>
+              <li>ETAは16ポンド、ビザは115ポンド〜</li>
+              <li>ETAは72時間以内、ビザは3〜8週間で審査</li>
+              <li>ビザ保有者はETA不要</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/uk-mid.jpg" alt="イギリスの田園風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/uk-eta-about" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAとは？基本情報</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-application" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAの申請方法を解説</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-transit" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリストランジット時のETA要否</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-rejection" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAが却下された場合の対処法</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/uk-eta-application">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAの申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/uk-eta-about">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAとは？基本情報</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/uk-eta-validity">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAの有効期限と更新方法</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"x6Xzz3hN1MM2NxNMoo8HE"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

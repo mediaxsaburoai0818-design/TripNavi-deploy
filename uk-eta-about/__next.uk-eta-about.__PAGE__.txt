@@ -1,0 +1,255 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T361e,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#uk">イギリス</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        イギリスETAとは？
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/uk-hero.jpg" alt="イギリス" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">イギリス渡航ノウハウ</span>
+        <h1>イギリスETAとは？電子渡航認証の基本情報【2026年最新】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年04月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">イギリスETA（電子渡航認証）とは？</a></li>
+                <li><a href="#section2">イギリスETAの導入背景と目的</a></li>
+                <li><a href="#section3">イギリスETAの対象者</a></li>
+                <li><a href="#section4">イギリスETAの基本情報まとめ</a></li>
+                <li><a href="#section5">イギリスETAと他国の電子渡航認証の比較</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p><strong>2025年1月8日</strong>より、日本人がイギリスに渡航する際には<strong>ETA（Electronic Travel Authorisation＝電子渡航認証）</strong>の取得が必須となりました。この記事では、イギリスETAの基本情報を徹底解説します。</p>
+
+          <h2 id="section1">イギリスETA（電子渡航認証）とは？</h2>
+          <p><strong>イギリスETA（UK-ETA）</strong>とは、ビザ免除国の国民がイギリスに入国する際に事前取得が必要な電子渡航認証制度です。正式名称は<strong>Electronic Travel Authorisation</strong>で、アメリカのESTA（エスタ）やカナダのeTA（イータ）と同様の制度です。</p>
+          <p>ETAはビザとは異なり、オンラインで簡単に申請でき、短期間の観光や商用目的の渡航者を対象としています。取得することで、最大6か月間のイギリス滞在が認められます。</p>
+
+          <div class="info-box">
+            <h4>📌 イギリスETAの概要</h4>
+            <ul>
+              <li><strong>正式名称:</strong> Electronic Travel Authorisation（電子渡航認証）</li>
+              <li><strong>導入日:</strong> 2025年1月8日（日本人対象）</li>
+              <li><strong>申請料金:</strong> 16ポンド（約3,000円）</li>
+              <li><strong>有効期限:</strong> 承認日から2年間</li>
+              <li><strong>滞在可能期間:</strong> 1回の渡航で最大6か月</li>
+              <li><strong>申請方法:</strong> 公式ウェブサイトまたはスマホアプリ「UK ETA」</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">イギリスETAの導入背景と目的</h2>
+          <p>イギリス政府は、国境管理の強化とセキュリティ向上を目的として、ETA制度を導入しました。従来、ビザ免除国の国民は事前審査なしでイギリスに入国できましたが、ETA導入により渡航前にセキュリティチェックが行われるようになりました。</p>
+
+          <h3>導入の主な目的</h3>
+          <ul>
+            <li><strong>国境セキュリティの強化:</strong> 渡航者の事前スクリーニングによりリスクの高い渡航者を特定</li>
+            <li><strong>入国管理の効率化:</strong> デジタル化による入国審査の迅速化</li>
+            <li><strong>不法滞在の防止:</strong> 渡航者情報の事前把握による管理強化</li>
+            <li><strong>テロ対策:</strong> 入国前の安全確認を徹底</li>
+          </ul>
+
+          <h3>導入スケジュール</h3>
+          <p>イギリスETAは段階的に導入されました。</p>
+          <ul>
+            <li><strong>2023年11月:</strong> 湾岸諸国（カタール、バーレーン、クウェートなど）の国民を対象に先行導入</li>
+            <li><strong>2025年1月8日:</strong> 日本を含むビザ免除国の国民に対象拡大</li>
+            <li><strong>2025年4月2日:</strong> EU/EEA諸国の国民にも適用開始</li>
+          </ul>
+
+          <h2 id="section3">イギリスETAの対象者</h2>
+          <p>イギリスETAが必要な方と、免除される方について解説します。</p>
+
+          <h3>ETA申請が必要な方</h3>
+          <p>以下の目的でイギリスに渡航する<strong>ビザ免除国の国民</strong>は、ETA申請が必要です。</p>
+          <ul>
+            <li>観光（6か月以内）</li>
+            <li>ビジネス・商用（6か月以内）</li>
+            <li>親族・知人訪問</li>
+            <li>短期留学（6か月以内）</li>
+            <li>乗り継ぎ（トランジット）</li>
+            <li>Creative worker visa concession</li>
+            <li>Permitted paid engagement</li>
+          </ul>
+
+          <div class="warn-box">
+            <h4>⚠️ 重要</h4>
+            <p>年齢に関わらず、<strong>子供・乳幼児も一人ずつETA申請が必要</strong>です。保護者が代理で申請してください。</p>
+          </div>
+
+          <h3>ETA申請が免除される方</h3>
+          <ul>
+            <li>イギリス国籍者</li>
+            <li>アイルランド国籍者</li>
+            <li>有効なイギリスビザ保有者（就労ビザ、学生ビザなど）</li>
+            <li>イギリス永住権（ILR）保持者</li>
+            <li>イギリス海外領土の市民</li>
+          </ul>
+
+          <h2 id="section4">イギリスETAの基本情報まとめ</h2>
+
+          <div class="info-box">
+            <h4>📋 イギリスETA基本情報</h4>
+            <ul>
+              <li><strong>申請料金:</strong> 16ポンド（将来20ポンドへ引き上げ予定）</li>
+              <li><strong>有効期限:</strong> 承認日から2年間（パスポート有効期限が短い場合はそちらに準ずる）</li>
+              <li><strong>審査期間:</strong> 通常72時間以内（追加審査の場合は3日以上）</li>
+              <li><strong>申請推奨時期:</strong> 出発の1〜2週間前</li>
+              <li><strong>渡航回数:</strong> 有効期限内であれば複数回の渡航が可能</li>
+              <li><strong>パスポート要件:</strong> ICチップ付きの有効なパスポート</li>
+            </ul>
+          </div>
+
+          <h3>申請に必要なもの</h3>
+          <ul>
+            <li>ICチップ付きパスポート（有効期限内）</li>
+            <li>顔写真データ（3か月以内撮影、9歳以下は不要）</li>
+            <li>クレジットカード/デビットカード（Visa、Master、JCB、AMEX、Diners）</li>
+            <li>メールアドレス</li>
+            <li>スマートフォン（アプリ申請の場合）</li>
+          </ul>
+
+          <h2 id="section5">イギリスETAと他国の電子渡航認証の比較</h2>
+          <p>イギリスETAと他国の電子渡航認証制度を比較してみましょう。</p>
+
+          <div class="info-box">
+            <h4>📊 各国の電子渡航認証比較</h4>
+            <ul>
+              <li><strong>イギリスETA:</strong> 料金16ポンド、有効期限2年、滞在最大6か月</li>
+              <li><strong>アメリカESTA:</strong> 料金21ドル、有効期限2年、滞在最大90日</li>
+              <li><strong>カナダeTA:</strong> 料金7カナダドル、有効期限5年、滞在最大180日</li>
+              <li><strong>オーストラリアETAS:</strong> 料金20オーストラリアドル、有効期限1年、滞在最大90日</li>
+            </ul>
+          </div>
+
+          <p>イギリスETAは、アメリカのESTAと同じ2年間の有効期限を持ちますが、1回の滞在可能期間が最大6か月と長い点が特徴です。</p>
+
+          <h2 id="section6">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: イギリスETAとビザは何が違いますか？</h3>
+            <p><strong>A:</strong> ETAは短期渡航者向けの電子渡航認証で、オンラインで簡単に申請できます。一方、ビザは長期滞在や就労・留学目的の場合に必要で、書類提出や面接が求められます。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: ETAを持っていれば必ず入国できますか？</h3>
+            <p><strong>A:</strong> いいえ。ETAは渡航認証であり、入国を保証するものではありません。最終的な入国許可は、イギリスの入国審査官が判断します。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: ETAなしでイギリスに渡航できますか？</h3>
+            <p><strong>A:</strong> 2025年1月8日以降、ETA未取得の場合は<strong>搭乗拒否</strong>される可能性があります。必ず事前に取得してください。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: イギリスETAはいつから必要になりましたか？</h3>
+            <p><strong>A:</strong> 日本国籍者は<strong>2025年1月8日</strong>からETAの取得が必須となりました。</p>
+          </div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>イギリスETA（UK-ETA）は、2025年1月8日から日本人に必須となった電子渡航認証制度です。観光、商用、乗り継ぎなど6か月以内の短期渡航に必要で、申請料金は16ポンド、有効期限は2年間です。</p>
+          <p>オンラインまたはスマホアプリで手軽に申請でき、通常72時間以内に審査結果が出ます。イギリス渡航を計画している方は、出発の1〜2週間前までに忘れずに取得しましょう。</p>
+
+          <div class="info-box">
+            <h4>✅ イギリスETAのポイント</h4>
+            <ul>
+              <li>ビザ免除国の国民がイギリスに入国するための電子渡航認証</li>
+              <li>2025年1月8日より日本人に必須</li>
+              <li>申請料金: 16ポンド、有効期限: 2年間</li>
+              <li>子供・乳幼児も申請が必要</li>
+              <li>ETA未取得の場合、搭乗拒否の可能性あり</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/uk-mid.jpg" alt="イギリスの田園風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/uk-eta-application" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAの申請方法を解説</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-validity" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAの有効期限と更新方法</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-vs-visa" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAとビザの違い</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-smartphone" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAのスマホ申請方法</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/uk-eta-application">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAの申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/uk-eta-validity">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAの有効期限と更新方法</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/uk-eta-vs-visa">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAとビザの違い</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"x6Xzz3hN1MM2NxNMoo8HE"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

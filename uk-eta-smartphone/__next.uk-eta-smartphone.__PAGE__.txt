@@ -1,0 +1,265 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T359a,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="index.html">ホーム</a> ＞
+        <a href="#uk">イギリス</a> ＞
+        <a href="#visa-info">渡航ノウハウ</a> ＞
+        イギリスETAのスマホ申請方法
+      </div>
+
+      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+        <img src="/uk-hero.jpg" alt="イギリス" style="width: 100%; height: 280px; object-fit: cover;">
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">イギリス渡航ノウハウ</span>
+        <h1>イギリスETAのスマホ申請方法【アプリの使い方】</h1>
+        <div class="article-meta">
+          <span class="meta-date">更新日：2026年04月21日</span>
+        </div>
+
+        <div class="content">
+
+          <div class="article-toc">
+            <h4 class="toc-title">📋 目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">UK ETAアプリとは</a></li>
+                <li><a href="#section2">アプリのダウンロード方法</a></li>
+                <li><a href="#section3">スマホでの申請手順</a></li>
+                <li><a href="#section4">写真撮影のコツ</a></li>
+                <li><a href="#section5">パスポートNFC読み取りのコツ</a></li>
+                <li><a href="#section6">アプリ申請時のトラブル対処法</a></li>
+                <li><a href="#section7">よくある質問</a></li>
+                <li><a href="#section8">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>イギリスETAはスマートフォンの公式アプリ「UK ETA」から簡単に申請できます。この記事では、アプリのダウンロードから申請完了までの手順を詳しく解説します。</p>
+
+          <h2 id="section1">UK ETAアプリとは</h2>
+          <p><strong>UK ETA</strong>は、イギリス内務省（Home Office）が提供する公式アプリです。パスポートのスキャン、NFC読み取り、顔認証、申請手続きまでをスマートフォン1台で完結できます。</p>
+
+          <div class="info-box">
+            <h4>📌 アプリの特徴</h4>
+            <ul>
+              <li><strong>対応OS:</strong> iOS（iPhone 7以降）、Android</li>
+              <li><strong>料金:</strong> アプリのダウンロードは無料（申請料金16ポンドは別途）</li>
+              <li><strong>言語:</strong> 英語（日本語非対応）</li>
+              <li><strong>機能:</strong> パスポートスキャン、NFC読み取り、顔認証、申請・支払い</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">アプリのダウンロード方法</h2>
+
+          <h3>iPhoneの場合</h3>
+          <ol>
+            <li>App Storeを開く</li>
+            <li>「UK ETA」で検索</li>
+            <li>「UK Home Office」が開発元であることを確認</li>
+            <li>「入手」をタップしてダウンロード</li>
+          </ol>
+
+          <h3>Androidの場合</h3>
+          <ol>
+            <li>Google Playストアを開く</li>
+            <li>「UK ETA」で検索</li>
+            <li>「UK Home Office」が開発元であることを確認</li>
+            <li>「インストール」をタップしてダウンロード</li>
+          </ol>
+
+          <div class="warn-box">
+            <h4>⚠️ 注意</h4>
+            <p>類似名称の非公式アプリが存在します。必ず開発元が<strong>「UK Home Office」</strong>であることを確認してください。非公式アプリでは正規の申請ができません。</p>
+          </div>
+
+          <h2 id="section3">スマホでの申請手順</h2>
+
+          <h3>ステップ1: アプリを起動しメールアドレスを登録</h3>
+          <p>アプリを起動し、メールアドレスを入力します。ワンタイム認証コードがメールで届くので、アプリに入力して認証を完了します。</p>
+
+          <h3>ステップ2: パスポートのカメラスキャン</h3>
+          <p>パスポートの顔写真ページをカメラで読み取ります。自動的にパスポート情報（番号、氏名、国籍、生年月日など）が認識されます。</p>
+
+          <h3>ステップ3: パスポートのNFC（ICチップ）読み取り</h3>
+          <p>スマートフォンの背面にパスポートを密着させ、ICチップのデータを読み取ります。読み取りには数秒かかります。</p>
+
+          <h3>ステップ4: 顔認証（Scan Face）</h3>
+          <p>画面の指示に従い、頭から胸までが映るようにカメラに向かいます。顔認証によりパスポート写真との照合が行われます。</p>
+
+          <h3>ステップ5: 顔写真の撮影</h3>
+          <p>白い壁を背景に、帽子や眼鏡を外して顔写真を撮影します。頭から肩まで映るようにしてください。</p>
+
+          <h3>ステップ6: 個人情報の入力</h3>
+          <p>住所（ローマ字）、電話番号、職業などの個人情報を入力します。</p>
+
+          <h3>ステップ7: 経歴に関する質問に回答</h3>
+          <p>犯罪歴の有無などの質問に「YES/NO」で回答します。虚偽の回答は却下の原因となります。</p>
+
+          <h3>ステップ8: 入力内容の最終確認</h3>
+          <p>すべての入力情報を確認します。氏名、パスポート番号、生年月日などに誤りがないか慎重にチェックしてください。</p>
+
+          <h3>ステップ9: 料金の支払い</h3>
+          <p><strong>16ポンド</strong>をクレジットカード、Apple Pay、Google Payで支払います。</p>
+
+          <h3>ステップ10: 申請完了・審査結果を待つ</h3>
+          <p>申請完了後、通常<strong>72時間以内</strong>にメールで審査結果が届きます。「ETA application approved」と表示されれば承認完了です。</p>
+
+          <h2 id="section4">写真撮影のコツ</h2>
+          <div class="info-box">
+            <h4>📷 写真撮影の5つのポイント</h4>
+            <ul>
+              <li><strong>背景:</strong> 白い壁や無地の明るい壁を背景にする</li>
+              <li><strong>照明:</strong> 顔に均一に光が当たるようにする（逆光を避ける）</li>
+              <li><strong>表情:</strong> 自然な表情で口を閉じる</li>
+              <li><strong>アクセサリー:</strong> 帽子、サングラス、眼鏡（伊達眼鏡含む）を外す</li>
+              <li><strong>フレーミング:</strong> 頭頂部から肩までが収まるようにする</li>
+            </ul>
+          </div>
+
+          <h2 id="section5">パスポートNFC読み取りのコツ</h2>
+          <p>NFC（ICチップ）の読み取りがうまくいかない場合は、以下を試してください。</p>
+          <ul>
+            <li><strong>スマホケースを外す:</strong> 厚いケースはNFC信号を妨げる場合があります</li>
+            <li><strong>パスポートを開いた状態で密着:</strong> 顔写真ページを開き、スマホの背面中央に密着させます</li>
+            <li><strong>位置を微調整:</strong> ICチップの位置はパスポートにより異なるため、ゆっくり位置を変えて試してください</li>
+            <li><strong>動かさない:</strong> 読み取り中はスマホとパスポートを動かさないでください</li>
+            <li><strong>iPhoneの場合:</strong> 背面上部（カメラ付近）がNFCアンテナの位置です</li>
+          </ul>
+
+          <h2 id="section6">アプリ申請時のトラブル対処法</h2>
+
+          <h3>アプリが起動しない・クラッシュする</h3>
+          <ul>
+            <li>OSを最新バージョンにアップデートする</li>
+            <li>アプリを再インストールする</li>
+            <li>スマホのストレージ容量を確保する</li>
+          </ul>
+
+          <h3>NFC読み取りができない</h3>
+          <ul>
+            <li>スマホのNFC機能がオンになっているか確認（Android）</li>
+            <li>古いスマホの場合、NFC非対応の可能性あり → Webサイトから申請</li>
+          </ul>
+
+          <h3>顔認証が通らない</h3>
+          <ul>
+            <li>明るい場所で撮影する</li>
+            <li>眼鏡やマスクを外す</li>
+            <li>カメラレンズを清潔にする</li>
+          </ul>
+
+          <h2 id="section7">よくある質問</h2>
+
+          <div class="faq-item">
+            <h3>Q1: アプリを使わずに申請できますか？</h3>
+            <p><strong>A:</strong> はい。<a href="https://www.gov.uk/eta/apply" target="_blank">gov.ukの公式サイト</a>からWebブラウザでも申請できます。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q2: アプリは日本語に対応していますか？</h3>
+            <p><strong>A:</strong> 現時点では<strong>英語のみ</strong>の対応です。日本語版は提供されていません。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q3: 家族全員分を1台のスマホで申請できますか？</h3>
+            <p><strong>A:</strong> はい。1台のスマホで複数人分の申請が可能です。ただし、1人ずつ個別に申請する必要があります。</p>
+          </div>
+
+          <div class="faq-item">
+            <h3>Q4: アプリ申請とWeb申請で違いはありますか？</h3>
+            <p><strong>A:</strong> 基本的に同じですが、アプリではパスポートのNFC読み取りや顔認証がスムーズに行えます。アプリでの申請を推奨します。</p>
+          </div>
+
+          <h2 id="section8">まとめ</h2>
+          <p>イギリスETAのスマホアプリ「UK ETA」を使えば、パスポートスキャンからNFC読み取り、顔認証、支払いまでをスマホ1台で完結できます。申請時間は約15〜20分です。</p>
+
+          <div class="info-box">
+            <h4>✅ スマホ申請のポイント</h4>
+            <ul>
+              <li>公式アプリ「UK ETA」をApp Store/Google Playからダウンロード</li>
+              <li>開発元「UK Home Office」を確認して偽アプリに注意</li>
+              <li>パスポートNFC読み取りはスマホケースを外して実施</li>
+              <li>写真は白い背景で帽子・眼鏡を外して撮影</li>
+              <li>申請料金16ポンド、審査は通常72時間以内</li>
+            </ul>
+          </div>
+        </div>
+
+        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+          <img src="/uk-mid.jpg" alt="イギリスの田園風景" style="width: 100%; height: 240px; object-fit: cover;">
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/uk-eta-application" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAの申請方法を解説</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-about" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAとは？基本情報</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-check" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>イギリスETAの申請状況確認方法</h3>
+              </div>
+            </a>
+            <a href="/uk-eta-criminal-record" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリスETA</span>
+                <h3>犯罪歴がある場合のイギリスETA申請</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/uk-eta-application">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAの申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/uk-eta-about">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAとは？基本情報</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/uk-eta-vs-visa">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">イギリスETA</span>
+                <div class="rank-title">イギリスETAとビザの違い</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"x6Xzz3hN1MM2NxNMoo8HE"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null
