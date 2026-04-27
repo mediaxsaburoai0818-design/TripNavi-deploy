@@ -1,0 +1,157 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T2ee4,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-europe">ヨーロッパ</a> ＞ <a href="/country-uk">イギリス</a> ＞ <a href="/travel-info">旅行情報</a> ＞ イギリスと日本の時差【サマータイム解説】</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/uk-hero.jpg" alt="イギリス時差" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="green">旅行情報</span>
+ <h1>イギリスと日本の時差【サマータイム解説】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年4月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">イギリスと日本の時差</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#time-basic">イギリスと日本の基本的な時差</a></li>
+<li><a class="ez-toc-link" href="#summer-time">サマータイム（BST）の仕組み</a></li>
+<li><a class="ez-toc-link" href="#time-table">時差早見表</a></li>
+<li><a class="ez-toc-link" href="#jetlag">時差ボケの対策</a></li>
+<li><a class="ez-toc-link" href="#time-tips">時差を活かした旅行のコツ</a></li>
+<li><a class="ez-toc-link" href="#time-eta">イギリス渡航に必要な手続き</a></li>
+</ul>
+</nav>
+</div>
+
+<h2 class="wp-block-heading" id="time-basic">イギリスと日本の基本的な時差</h2>
+<p>イギリスと日本の時差は通常マイナス9時間です。日本が午前9時のとき、イギリスは同日の午前0時（深夜）となります。イギリスの標準時はGMT（グリニッジ標準時 / Greenwich Mean Time）で、世界の時刻の基準となっています。経度0度のグリニッジ子午線が通るロンドン郊外のグリニッジ天文台が、この世界標準時の起点です。日本の標準時はJST（日本標準時 / Japan Standard Time）で、GMTより9時間進んでいます。</p>
+<p>イギリス国内はすべて同じタイムゾーンに属しており、ロンドン、エジンバラ、マンチェスター、バーミンガム、カーディフ、ベルファストなど、イングランド・スコットランド・ウェールズ・北アイルランドのすべての都市で時差は同じです。ただし、フランスやドイツなどヨーロッパ大陸の国々はCET（中央ヨーロッパ時間）を採用しており、イギリスより1時間進んでいるため、ユーロスターでパリに移動すると1時間の時差が生じることに注意が必要です。</p>
+
+<h2 class="wp-block-heading" id="summer-time">サマータイム（BST）の仕組み</h2>
+<p>イギリスでは毎年3月最終日曜日から10月最終日曜日までの期間、サマータイム（英国ではBritish Summer Time＝BSTと呼ばれます）が実施されます。サマータイム期間中は時計が1時間進められるため、日本との時差はマイナス8時間に縮まります。つまり、日本が午前9時のとき、イギリスは同日の午前1時となります。</p>
+
+<div class="Class_J">
+<h4>2026年のサマータイム期間</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>開始 : 2026年3月29日（日）午前1時 → 午前2時に変更</li>
+<li>終了 : 2026年10月25日（日）午前2時 → 午前1時に変更</li>
+<li>時差 : サマータイム期間中は日本との時差が−8時間</li>
+<li>通常期間（冬時間）: 日本との時差が−9時間</li>
+</ul></p>
+</div>
+
+<p>サマータイムの開始時には、3月最終日曜日の午前1時に時計が午前2時に進められます。この日は1日が23時間しかないため、旅行中にサマータイムの切り替えに当たる場合は注意が必要です。逆にサマータイム終了時（10月最終日曜日）には午前2時が午前1時に戻されるため、1日が25時間になります。スマートフォンやパソコンは自動的に時刻が調整されますが、アナログ時計や一部のデジタル機器は手動で変更する必要があります。</p>
+
+<p>サマータイムの歴史は1916年に始まり、当時は第一次世界大戦中のエネルギー節約策として導入されました。100年以上続くこの制度ですが、EUでは2019年にサマータイム廃止の方針が決議されました。ただし、EUを離脱したイギリスはこの決議に拘束されず、2026年現在もサマータイムを継続しています。サマータイムの恩恵として、夏のロンドンでは午後9時頃まで明るく、長い夕方を楽しめるため観光にも最適です。</p>
+
+<h2 class="wp-block-heading" id="time-table">時差早見表</h2>
+<p>以下は日本時間とイギリス時間の早見表です。旅行中の連絡やフライトスケジュールの確認にご活用ください。</p>
+
+<div class="Class_J">
+<h4>通常期間（GMT / 11月〜3月）の時差早見表</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>日本 6:00 → イギリス 前日 21:00</li>
+<li>日本 9:00 → イギリス 0:00（深夜）</li>
+<li>日本 12:00 → イギリス 3:00</li>
+<li>日本 15:00 → イギリス 6:00</li>
+<li>日本 18:00 → イギリス 9:00</li>
+<li>日本 21:00 → イギリス 12:00</li>
+<li>日本 0:00 → イギリス 15:00</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>サマータイム期間（BST / 3月末〜10月末）の時差早見表</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>日本 6:00 → イギリス 前日 22:00</li>
+<li>日本 9:00 → イギリス 1:00</li>
+<li>日本 12:00 → イギリス 4:00</li>
+<li>日本 15:00 → イギリス 7:00</li>
+<li>日本 18:00 → イギリス 10:00</li>
+<li>日本 21:00 → イギリス 13:00</li>
+<li>日本 0:00 → イギリス 16:00</li>
+</ul></p>
+</div>
+
+<p>日本からイギリスに電話をかける場合、イギリスの朝9時は日本の夕方18時（冬時間）または17時（サマータイム）に該当します。仕事の連絡は日本の夕方から夜にかけてがイギリスのビジネスアワーに重なるため最適です。逆にイギリスからの日本への連絡は、イギリスの朝が日本の夕方〜夜にあたります。</p>
+
+<h2 class="wp-block-heading" id="jetlag">時差ボケの対策</h2>
+<p>日本とイギリスの時差は8〜9時間と大きいため、時差ボケ（ジェットラグ）への対策が重要です。一般的に、西方向への移動（日本→イギリス）よりも東方向への移動（イギリス→日本）の方が時差ボケの症状が重いとされています。以下に効果的な時差ボケ対策をまとめます。</p>
+
+<div class="Class_J">
+<h4>出発前の準備</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>出発の2〜3日前から就寝時間を1〜2時間ずつ遅らせる</li>
+<li>フライト前日は十分な睡眠をとる</li>
+<li>機内では到着地の時間に合わせて食事や睡眠をとる</li>
+<li>アルコールやカフェインの摂取を控える</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>到着後の対策</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>到着後はできるだけ現地時間に合わせて行動する</li>
+<li>日中は太陽の光を浴びて体内時計をリセットする</li>
+<li>到着日の昼寝は30分以内にとどめる</li>
+<li>水分をこまめに補給する</li>
+<li>到着初日は無理のないスケジュールを組む</li>
+<li>メラトニンのサプリメントを活用する（就寝30分前に摂取）</li>
+</ul></p>
+</div>
+
+<p>日本からイギリスへのフライトは約12時間30分で、多くの便が午前中に日本を出発し、同日の午後にロンドンに到着します。到着後は夕方〜夜まで起きていて現地時間の夜に就寝するのが、時差ボケを最小限に抑えるコツです。ホテルにチェックインした後、散歩や軽い観光に出かけると自然な眠気が訪れやすくなります。帰国時はイギリスを午前中に出発する便が多く、日本には翌日の早朝に到着します。帰国後の1〜2日は早朝に目が覚めることがありますが、通常3〜5日で通常の生活リズムに戻ります。</p>
+
+<h2 class="wp-block-heading" id="time-tips">時差を活かした旅行のコツ</h2>
+<p>イギリスと日本の時差を上手に活用すると、旅行がより快適になります。日本を午前中に出発する場合、フライト中にしっかり睡眠をとれば、ロンドン到着後の午後から観光を始めることができます。到着日は屋外での軽い観光（ハイド・パークの散策、テムズ川沿いのウォーキングなど）がおすすめです。</p>
+<p>また、イギリスは夏の日照時間が非常に長く、6月〜7月は午後9時半頃まで明るいため、ディナーの後もパブや夜のロンドン散策を楽しむことができます。冬は午後4時頃に暗くなりますが、クリスマスシーズンのイルミネーションやアフタヌーンティーなど、室内で楽しめるアクティビティが充実しています。</p>
+<p>仕事や家族との連絡は時差を考慮してスケジュールを組みましょう。イギリスの朝（午前8〜9時）は日本の夕方（午後5〜6時）にあたるため、日本の家族や職場との連絡は朝食時が便利です。LINEやメールは時間を気にせず送信できますが、電話やビデオ通話の場合は事前に時間を決めておくとスムーズです。</p>
+
+<h2 class="wp-block-heading" id="time-eta">イギリス渡航に必要な手続き</h2>
+<p>日本国籍の方がイギリスへ観光目的で渡航する場合、2025年4月より電子渡航認証（ETA）の申請が必須となりました。ETAはオンラインまたは専用アプリ「UK ETA」から申請可能で、申請料は£10です。有効期間は2年間で、1回の滞在は最大6か月です。</p>
+<p>ETAに関する詳細は「<a href="/uk-eta-about">イギリスETA（電子渡航認証）とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/uk-mid.jpg" alt="イギリスの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/uk-climate" class="related-card">
+ <img src="/uk-hero.jpg" alt="イギリス気候" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスの気候・服装ガイド【月別】</p>
+ </a>
+ <a href="/uk-transport" class="related-card">
+ <img src="/uk-hero.jpg" alt="イギリス交通" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスの交通ガイド【地下鉄・バス・鉄道】</p>
+ </a>
+ <a href="/uk-immigration-guide" class="related-card">
+ <img src="/uk-hero.jpg" alt="イギリス入国" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリス入国審査の流れ【質問と回答例】</p>
+ </a>
+ <a href="/uk-eta-about" class="related-card">
+ <img src="/uk-hero.jpg" alt="イギリスETA" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスETA（電子渡航認証）とは</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

@@ -1,0 +1,171 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3a33,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-europe">ヨーロッパ</a> ＞ <a href="/country-uk">イギリス</a> ＞ <a href="/travel-info">旅行情報</a> ＞ イギリスの通貨・両替・物価ガイド【2026年最新】</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/uk-hero.jpg" alt="イギリス通貨" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="green">旅行情報</span>
+ <h1>イギリスの通貨・両替・物価ガイド【2026年最新】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年4月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">イギリスの通貨と物価</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#currency-basic">イギリスの通貨の基本</a></li>
+<li><a class="ez-toc-link" href="#currency-notes">紙幣と硬貨の種類</a></li>
+<li><a class="ez-toc-link" href="#exchange">両替の方法と注意点</a></li>
+<li><a class="ez-toc-link" href="#card">クレジットカード・キャッシュレス事情</a></li>
+<li><a class="ez-toc-link" href="#prices">イギリスの物価の目安</a></li>
+<li><a class="ez-toc-link" href="#tax-free">免税手続き（タックスフリー）</a></li>
+<li><a class="ez-toc-link" href="#currency-tips">お金に関する旅行のコツ</a></li>
+<li><a class="ez-toc-link" href="#currency-eta">イギリス渡航に必要な手続き</a></li>
+</ul>
+</nav>
+</div>
+
+<h2 class="wp-block-heading" id="currency-basic">イギリスの通貨の基本</h2>
+<p>イギリスの通貨はイギリスポンド（British Pound Sterling）で、通貨記号は「£」、国際通貨コードは「GBP」です。補助通貨はペンス（pence）で、1ポンド＝100ペンスとなっています。2026年4月現在の為替レートは1ポンド＝約190〜200円前後で推移しています。ポンドは米ドル、ユーロ、日本円と並ぶ世界4大通貨の一つであり、外国為替市場での取引量は世界第4位です。</p>
+<p>イギリスはEU離脱後もユーロを採用しておらず、独自の通貨ポンドを維持しています。そのため、ヨーロッパ周遊旅行でイギリスを訪れる場合は、ユーロとは別にポンドを用意する必要があります。なお、イギリス国内の一部の観光地や大型デパートではユーロ払いを受け付ける店舗もありますが、レートが不利な場合が多いため、ポンドでの支払いをおすすめします。</p>
+
+<h2 class="wp-block-heading" id="currency-notes">紙幣と硬貨の種類</h2>
+<p>イギリスで流通している紙幣は£5、£10、£20、£50の4種類です。2016年以降、イングランド銀行発行の紙幣はすべてポリマー（プラスチック）製に切り替えられ、耐久性と偽造防止性能が向上しています。紙幣の表面にはチャールズ3世国王の肖像が描かれており、裏面にはウィンストン・チャーチル（£5）、ジェーン・オースティン（£10）、ターナー（£20）、アラン・チューリング（£50）など、イギリスを代表する偉人が描かれています。</p>
+
+<div class="Class_J">
+<h4>紙幣の種類と目安</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>£5紙幣 : 約975円（カフェでのコーヒー1杯程度）</li>
+<li>£10紙幣 : 約1,950円（パブでのランチ程度）</li>
+<li>£20紙幣 : 約3,900円（最も多く使用される紙幣）</li>
+<li>£50紙幣 : 約9,750円（受け取りを拒否する店舗もあり注意）</li>
+</ul></p>
+</div>
+
+<p>硬貨は1p、2p、5p、10p、20p、50p、£1、£2の8種類が流通しています。£1硬貨は2017年に12角形のバイメタル（二色）デザインに変更されました。£2硬貨も二色のバイメタルデザインです。小額の1pと2pの硬貨は使用頻度が減少しており、キャッシュレス化の進展に伴い、将来的に廃止される可能性も議論されています。</p>
+
+<p>スコットランドと北アイルランドでは、それぞれの地域の銀行が独自のデザインの紙幣を発行しています。スコットランドではスコットランド王立銀行、バンク・オブ・スコットランド、クライズデール銀行の3行が紙幣を発行しており、イングランドでも法的に有効ですが、一部の店舗で受け取りを渋られることがあります。その場合は銀行で交換してもらえます。</p>
+
+<h2 class="wp-block-heading" id="exchange">両替の方法と注意点</h2>
+<p>日本円からイギリスポンドへの両替方法にはいくつかの選択肢があります。以下にそれぞれの方法の特徴とメリット・デメリットをまとめます。</p>
+
+<div class="Class_J">
+<h4>日本国内での両替</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>銀行窓口 : 大手銀行で両替可能。レートは中程度だが手数料が含まれている</li>
+<li>空港の両替所 : 出発前に手軽に両替できるが、レートはやや不利</li>
+<li>外貨宅配サービス : 自宅に外貨を届けてもらえる。レートは銀行と同程度</li>
+<li>金券ショップ : 一部の大手金券ショップでは銀行より有利なレートで両替可能</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>イギリス国内での両替</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>空港の両替所 : 到着後すぐに両替できるが、レートは最も不利</li>
+<li>市内の両替所 : ロンドン中心部には多数の両替所があり、競争が激しくレートが比較的良い</li>
+<li>銀行 : 口座がなくても両替可能だが、手数料が高め</li>
+<li>ホテル : 一部の高級ホテルで両替可能だが、レートは不利</li>
+</ul></p>
+</div>
+
+<p>レートが最も有利なのは一般的にロンドン市内の両替所（Bureau de Change）です。特にオックスフォード・ストリートやリバプール・ストリート周辺の両替所は競争が激しく、比較的良いレートを提供しています。ただし、「手数料無料（No Commission）」と表示している店舗でもレートにマージンが含まれていることがあるため、表示されているレートをしっかり確認してから両替しましょう。£50紙幣は小規模な店舗やパブで受け取りを拒否されることがあるため、£20紙幣以下での両替を依頼するのがおすすめです。</p>
+
+<h2 class="wp-block-heading" id="card">クレジットカード・キャッシュレス事情</h2>
+<p>イギリスはキャッシュレス化が非常に進んでおり、ほとんどの場所でクレジットカードやデビットカードが利用できます。コンタクトレス決済（タッチ決済）は£100以下の支払いに対応しており、スーパーマーケット、カフェ、パブ、交通機関など、日常のあらゆる場面で利用されています。Apple PayやGoogle Payなどのモバイル決済も広く普及しており、現金を一切持たずに旅行することも可能です。</p>
+<p>ロンドンの地下鉄やバスでは、コンタクトレス対応のクレジットカードやデビットカードをそのまま乗車券として使用できます。オイスターカードと同様の料金体系が適用され、1日の上限運賃（デイリーキャップ）も自動的に適用されます。Visa、Mastercard、American Expressが広く受け入れられていますが、一部の小規模店舗やマーケットではVisaとMastercardのみ対応の場合があります。JCBは大型デパートや一部の観光施設で利用可能ですが、対応店舗は限られています。</p>
+<p>海外でのクレジットカード利用時には、カード会社が設定する海外事務手数料（通常1.6〜2.2%）が加算されます。店舗側で「日本円で支払いますか？」と聞かれることがありますが（DCC：動的通貨変換）、これは店舗側のレートが適用されるため不利になることが多く、「ポンドで支払います（in pounds, please）」と答えるのがお得です。</p>
+
+<h2 class="wp-block-heading" id="prices">イギリスの物価の目安</h2>
+<p>イギリス、特にロンドンの物価は世界的に見ても高水準です。以下に主な項目の物価目安をまとめます（2026年4月時点、1ポンド＝約195円で換算）。</p>
+
+<div class="Class_J">
+<h4>飲食</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>カフェのコーヒー : £3.50〜5（約680〜975円）</li>
+<li>パブのビール（1パイント） : £6〜8（約1,170〜1,560円）</li>
+<li>フィッシュ&チップス : £10〜15（約1,950〜2,925円）</li>
+<li>カジュアルレストランのランチ : £12〜20（約2,340〜3,900円）</li>
+<li>レストランのディナー（2コース） : £25〜50（約4,875〜9,750円）</li>
+<li>アフタヌーンティー : £40〜80（約7,800〜15,600円）</li>
+<li>スーパーのサンドイッチ : £3〜5（約585〜975円）</li>
+<li>ミネラルウォーター（500ml） : £1〜1.50（約195〜293円）</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>交通</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>地下鉄（ゾーン1内） : £2.80（約546円 / オイスターカード利用時）</li>
+<li>バス : £1.75（約341円 / 1時間以内乗り放題）</li>
+<li>タクシー（初乗り） : £3.80〜（約741円〜）</li>
+<li>ヒースロー・エクスプレス : £25〜（約4,875円〜）</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>宿泊</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ホステル（ドミトリー） : £20〜40/泊（約3,900〜7,800円）</li>
+<li>ビジネスホテル（3つ星） : £100〜180/泊（約19,500〜35,100円）</li>
+<li>中級ホテル（4つ星） : £180〜350/泊（約35,100〜68,250円）</li>
+<li>高級ホテル（5つ星） : £350〜/泊（約68,250円〜）</li>
+</ul></p>
+</div>
+
+<p>ロンドン以外の都市（エジンバラ、マンチェスター、バーミンガムなど）では、宿泊費や飲食費がロンドンの7〜8割程度になることが一般的です。食費を節約するには、スーパーマーケット（Tesco、Sainsbury's、M&S Food）のお惣菜やサンドイッチを活用するのが効果的です。多くのスーパーでは「ミールディール」（サンドイッチ＋ドリンク＋スナックのセット）が£3〜5程度で販売されており、旅行者にも人気があります。</p>
+
+<h2 class="wp-block-heading" id="tax-free">免税手続き（タックスフリー）</h2>
+<p>イギリスではBrexit後、2021年1月に空港での免税ショッピング（VAT Retail Export Scheme）が一度廃止されましたが、2025年秋より新たな免税制度が段階的に再導入されています。2026年4月現在、主要百貨店や一部の店舗でタックスフリーショッピングが可能です。VAT（付加価値税）は標準税率20%で、免税手続きを行うことで最大約16.7%の還付を受けることができます。免税対象となるのは、イギリス国外に持ち出す物品に限られ、ホテル代や飲食代は対象外です。免税手続きの方法は店舗によって異なりますが、購入時にパスポートの提示が必要です。</p>
+
+<h2 class="wp-block-heading" id="currency-tips">お金に関する旅行のコツ</h2>
+<p>イギリス旅行でのお金に関するコツをまとめます。まず、現金は必要最低限にとどめ、メインの支払いはクレジットカードやデビットカードを利用するのが便利で安全です。海外旅行用のプリペイドカード（Wise、Revolut など）を利用すると、為替手数料を最小限に抑えることができます。チップの習慣としては、レストランではサービス料（12.5%程度）が自動的に加算されていることが多く、その場合は追加のチップは不要です。サービス料が含まれていない場合は10〜15%程度が目安です。パブでのカウンター注文ではチップは不要、タクシーでは端数を切り上げる程度が一般的です。</p>
+
+<h2 class="wp-block-heading" id="currency-eta">イギリス渡航に必要な手続き</h2>
+<p>日本国籍の方がイギリスへ観光目的で渡航する場合、2025年4月より電子渡航認証（ETA）の申請が必須となりました。ETAはオンラインまたは専用アプリ「UK ETA」から申請可能で、申請料は£10です。有効期間は2年間で、1回の滞在は最大6か月です。</p>
+<p>ETAに関する詳細は「<a href="/uk-eta-about">イギリスETA（電子渡航認証）とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/uk-mid.jpg" alt="イギリスの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/uk-travel-budget" class="related-card">
+ <img src="/uk-hero.jpg" alt="イギリス旅行費用" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリス旅行の費用目安【予算別モデルプラン】</p>
+ </a>
+ <a href="/uk-souvenirs" class="related-card">
+ <img src="/uk-hero.jpg" alt="イギリスお土産" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスのお土産おすすめ15選</p>
+ </a>
+ <a href="/uk-london-spots" class="related-card">
+ <img src="/uk-hero.jpg" alt="ロンドン観光" style="width:300px;height:180px;object-fit:cover;" />
+ <p>ロンドン観光スポット15選【2026年最新】</p>
+ </a>
+ <a href="/uk-eta-about" class="related-card">
+ <img src="/uk-hero.jpg" alt="イギリスETA" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスETA（電子渡航認証）とは</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

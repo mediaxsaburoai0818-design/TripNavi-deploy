@@ -1,0 +1,157 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T42f0,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-europe">ヨーロッパ</a> ＞ <a href="/country-uk">イギリス</a> ＞ <a href="/shopping">ショッピング</a> ＞ イギリスのお土産おすすめ15選【定番から穴場まで】</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/uk-hero.jpg" alt="イギリスお土産" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="orange">ショッピング</span>
+ <h1>イギリスのお土産おすすめ15選【定番から穴場まで】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年4月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">イギリスで人気のお土産</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#souv-overview">イギリスのお土産選びのポイント</a></li>
+<li><a class="ez-toc-link" href="#souv-food">食べ物・飲み物のお土産</a></li>
+<li><a class="ez-toc-link" href="#souv-cosmetics">コスメ・日用品のお土産</a></li>
+<li><a class="ez-toc-link" href="#souv-goods">雑貨・ファッションのお土産</a></li>
+<li><a class="ez-toc-link" href="#souv-where">お土産の購入スポット</a></li>
+<li><a class="ez-toc-link" href="#souv-eta">イギリス渡航に必要な手続き</a></li>
+</ul>
+</nav>
+</div>
+
+<h2 class="wp-block-heading" id="souv-overview">イギリスのお土産選びのポイント</h2>
+<p>イギリスは伝統と革新が融合する国で、お土産の選択肢も非常に豊富です。紅茶やショートブレッドなどの定番から、英国発のオーガニックコスメやヴィンテージ雑貨まで、幅広いジャンルのお土産が見つかります。お土産選びのポイントとしては、まず渡す相手の好みを考慮すること、日持ちするもの（特に食品類は賞味期限に注意）を選ぶこと、そしてスーツケースに入るサイズと重さを確認することが重要です。イギリスのスーパーマーケットは質の高いプライベートブランド商品が充実しており、手頃な価格で良質なお土産が見つかる穴場です。</p>
+
+<h2 class="wp-block-heading" id="souv-food">食べ物・飲み物のお土産</h2>
+
+<h3 class="wp-block-heading">1. 紅茶（イングリッシュティー）</h3>
+<p>イギリスお土産の定番中の定番が紅茶です。Fortnum & Mason（フォートナム&メイソン）、Harrods（ハロッズ）、Whittard of Chelsea（ウィッタード・オブ・チェルシー）、Twinings（トワイニング）など、イギリスを代表する紅茶ブランドが数多くあります。フォートナム&メイソンのロイヤルブレンドは王室御用達の逸品で、美しい缶のパッケージはそのまま飾りにもなります。ハロッズのオリジナルブレンドティーも人気が高く、ロンドンのお土産として定番です。スーパーマーケットで購入できるYorkshire Tea（ヨークシャーティー）やPG Tipsは日常的に愛されている紅茶で、リーズナブルな価格でイギリスの味を楽しめます。ティーバッグタイプは軽くてかさばらないため、ばらまき用のお土産にも最適です。</p>
+
+<h3 class="wp-block-heading">2. ショートブレッド</h3>
+<p>スコットランド発祥のバタークッキー「ショートブレッド」は、バター、小麦粉、砂糖、塩のシンプルな材料で作られるサクサクとした焼き菓子です。Walker's Shortbread（ウォーカーズ）は最も有名なブランドで、赤いタータンチェック柄のパッケージが目印です。フィンガータイプ、ラウンドタイプ、ペティコートテイルなど様々な形があり、バリエーション豊富です。日持ちもよく（未開封で約6か月）、個包装タイプもあるため、職場へのばらまき土産としても最適です。フォートナム&メイソンやハロッズのオリジナルショートブレッドは上品なパッケージで、特別な方へのギフトにおすすめです。</p>
+
+<h3 class="wp-block-heading">3. ファッジ</h3>
+<p>ファッジはバター、砂糖、ミルクを煮詰めて作るイギリスの伝統的なキャンディーです。しっとりとした食感とキャラメルのような濃厚な甘さが特徴で、バニラ、チョコレート、シーソルトキャラメルなど様々なフレーバーがあります。コッツウォルズやバースなどの観光地には手作りファッジの専門店が多く、試食しながら好みの味を選ぶことができます。ロンドン市内ではMr Simms Olde Sweet Shoppeなどのキャンディー専門店やデパートの食品売り場で購入可能です。小さな箱入りのものが多く、お土産として持ち帰りやすいのも魅力です。</p>
+
+<h3 class="wp-block-heading">4. スコッチウイスキー</h3>
+<p>スコットランドが世界に誇るスコッチウイスキーは、お酒好きな方への最高のお土産です。シングルモルトではGlenfiddich（グレンフィディック）、Macallan（マッカラン）、Laphroaig（ラフロイグ）などが人気です。エジンバラのスコッチウイスキー・エクスペリエンスでは、スコッチウイスキーの製造工程を学びながら試飲ができ、ショップでは日本未輸入のレアなボトルも購入できます。ロンドン市内のWhisky Exchange（ウイスキー・エクスチェンジ）はウイスキー専門店として品揃えが豊富です。日本への持ち込みは免税範囲で760ml×3本まで非課税となります。</p>
+
+<h3 class="wp-block-heading">5. マーマイト</h3>
+<p>「好きか嫌いか」で知られるマーマイトは、ビール醸造の副産物である酵母エキスを使用した濃厚な発酵ペーストです。トーストに薄く塗って食べるのがイギリス流で、塩辛くて独特な味わいは好みが分かれますが、イギリスの食文化を代表する一品です。スーパーマーケットで£3前後と手頃な価格で購入でき、ユニークなお土産として話題性抜群です。小さな瓶入りもあるため、お試し用としても最適です。</p>
+
+<h3 class="wp-block-heading">6. 英国チョコレート</h3>
+<p>イギリスには質の高いチョコレートブランドが多数あります。Hotel Chocolat（ホテル・ショコラ）はカカオの自社農園を持つ英国発のプレミアムチョコレートブランドで、洗練されたギフトボックスが人気です。Prestat（プレスタット）は王室御用達の老舗チョコレート店で、トリュフチョコレートが看板商品です。また、Cadbury（キャドバリー）のDairy MilkやCrunchieはイギリスの国民的お菓子で、スーパーで手軽に買えるばらまき土産として最適です。</p>
+
+<h3 class="wp-block-heading">7. ビスケット・クッキー</h3>
+<p>紅茶の国イギリスでは、ティータイムに欠かせないビスケットの種類が豊富です。Fortnum & MasonやCartwright & Butler（カートライト&バトラー）のビスケット缶は、美しいデザインの缶も楽しめる人気のお土産です。McVitie's（マクビティ）のDigestive（ダイジェスティブ）やRich Tea（リッチティー）はイギリスの家庭で最も愛されているビスケットで、スーパーで£1〜2程度と非常にリーズナブルです。</p>
+
+<h3 class="wp-block-heading">8. ジン</h3>
+<p>近年、イギリスではクラフトジンのブームが到来し、各地に個性的なジン蒸留所が誕生しています。ロンドンドライジンの代名詞であるBeefeater（ビーフィーター）のほか、Sipsmith（シップスミス）、Hendrick's（ヘンドリックス）、Whitley Neill（ホイットリーニール）など、個性豊かなクラフトジンが人気です。フォートナム&メイソンやリバティなどの百貨店では、美しいボトルデザインのプレミアムジンが揃っています。</p>
+
+<h2 class="wp-block-heading" id="souv-cosmetics">コスメ・日用品のお土産</h2>
+
+<h3 class="wp-block-heading">9. LUSH（ラッシュ）のバスボム</h3>
+<p>イギリス・ドーセット州発祥のLUSHは、新鮮なフルーツや野菜、エッセンシャルオイルを使用したハンドメイドコスメブランドです。カラフルなバスボム（入浴剤）はLUSHの代名詞で、イギリス限定のデザインや香りも販売されています。日本のLUSHより価格が安いことが多く、まとめ買いするとお得です。バスボムのほか、シャワージェルやソープバーも人気で、環境に配慮したパッケージフリー商品も充実しています。</p>
+
+<h3 class="wp-block-heading">10. Jo Malone（ジョー マローン）の香水</h3>
+<p>ロンドン発のフレグランスブランドJo Maloneは、洗練された香りとシンプルなクリーム色のパッケージが特徴です。イングリッシュペアー&フリージア、ライムバジル&マンダリンなどの定番の香りのほか、イギリスでしか購入できない限定フレグランスもあります。コロンのミニサイズ（9ml）はお土産としてちょうど良いサイズで、ギフトボックスに入れてもらえるため特別感があります。日本より15〜20%ほど安く購入できるのも嬉しいポイントです。</p>
+
+<h3 class="wp-block-heading">11. Neal's Yard Remedies（ニールズヤード）</h3>
+<p>コヴェント・ガーデンのニールズ・ヤードに本店を構えるオーガニックコスメブランドです。青いボトルがトレードマークで、エッセンシャルオイル、スキンケア製品、ハーブティーなどが人気です。フランキンセンスのフェイシャルオイルやワイルドローズのビューティーバームは看板商品で、日本でも高い人気がありますがイギリスでは割安で購入できます。ニールズ・ヤードの路地にあるカラフルな建物群はフォトスポットとしても人気です。</p>
+
+<h3 class="wp-block-heading">12. Boots（ブーツ）のコスメ</h3>
+<p>イギリス最大のドラッグストアチェーンBootsには、日本未上陸のプチプラコスメやスキンケア製品が豊富に揃っています。No7（ナンバーセブン）はBootsオリジナルのスキンケアブランドで、エイジングケアのセラムやクリームが手頃な価格で人気です。Soap & Glory（ソープ&グローリー）のボディケア製品は、レトロなパッケージがかわいく、お土産にもぴったりです。旅行サイズのミニセットも充実しています。</p>
+
+<h2 class="wp-block-heading" id="souv-goods">雑貨・ファッションのお土産</h2>
+
+<h3 class="wp-block-heading">13. リバティプリントのグッズ</h3>
+<p>ロンドンの老舗百貨店Liberty（リバティ）のオリジナルプリント生地を使用したグッズは、イギリスらしい上品なお土産として人気です。小花柄や幾何学模様のリバティプリントは世界的に有名で、ポーチ、スカーフ、手帳カバー、エコバッグなど、様々なアイテムが展開されています。リバティ百貨店の建物自体もチューダー・リバイバル様式の美しい外観で、訪れるだけでも価値があります。</p>
+
+<h3 class="wp-block-heading">14. 英国王室グッズ</h3>
+<p>バッキンガム宮殿やウィンザー城のギフトショップでは、英国王室の紋章入りオリジナルグッズが購入できます。マグカップ、プレート、ティータオル、トートバッグ、チョコレートなど、バリエーション豊富な王室オフィシャルグッズは、イギリスでしか手に入らない特別なお土産です。売上の一部は王宮の維持管理費に充てられます。オンラインショップもありますが、宮殿内のショップ限定商品もあるため、訪問時にチェックすることをおすすめします。</p>
+
+<h3 class="wp-block-heading">15. ヴィンテージ・アンティーク</h3>
+<p>イギリスはアンティーク大国で、各地のマーケットやショップで一点物のヴィンテージアイテムを見つけることができます。ポートベロー・ロード・マーケット（ロンドン）、カムデン・マーケット（ロンドン）、バース・アンティーク・マーケットなどが有名です。アンティークのティーカップ、シルバーのスプーン、ヴィンテージブローチ、古い絵はがき、レトロなポスターなど、予算に応じて様々なアイテムが見つかります。世界に一つだけのお土産として、旅の特別な思い出になるでしょう。</p>
+
+<h2 class="wp-block-heading" id="souv-where">お土産の購入スポット</h2>
+<p>イギリスでお土産を購入するのにおすすめのスポットをまとめます。</p>
+
+<div class="Class_J">
+<h4>百貨店・専門店</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>Harrods（ハロッズ） : ロンドン最高級百貨店。フードホールの紅茶やチョコレートが人気</li>
+<li>Fortnum & Mason（フォートナム&メイソン） : 王室御用達の高級食料品店。紅茶やビスケットが定番</li>
+<li>Liberty（リバティ） : リバティプリントのオリジナルグッズが豊富</li>
+<li>Selfridges（セルフリッジズ） : 食品からファッションまで幅広い品揃え</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>スーパーマーケット</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>M&S（マークス&スペンサー） : 高品質のプライベートブランド食品が充実。紅茶やビスケットのギフトセットも</li>
+<li>Waitrose（ウェイトローズ） : 王室御用達の高級スーパー。オリジナルブランドの品質が高い</li>
+<li>Tesco / Sainsbury's : 日常使いのスーパーだが、イギリスらしい食品が手頃な価格で購入可能</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>空港のショップ</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ヒースロー空港 : 免税店が充実。World Duty Freeのほか、Harrods、WHSmithなども出店</li>
+<li>買い忘れがあっても空港で購入可能。ただし市内より割高な場合あり</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="souv-eta">イギリス渡航に必要な手続き</h2>
+<p>日本国籍の方がイギリスへ観光目的で渡航する場合、2025年4月より電子渡航認証（ETA）の申請が必須となりました。ETAはオンラインまたは専用アプリ「UK ETA」から申請可能で、申請料は£10です。有効期間は2年間で、1回の滞在は最大6か月です。</p>
+<p>ETAに関する詳細は「<a href="/uk-eta-about">イギリスETA（電子渡航認証）とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/uk-mid.jpg" alt="イギリスの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/uk-currency" class="related-card">
+ <img src="/uk-hero.jpg" alt="通貨" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスの通貨・両替・物価ガイド【2026年最新】</p>
+ </a>
+ <a href="/uk-food-guide" class="related-card">
+ <img src="/uk-hero.jpg" alt="グルメ" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリス料理・グルメガイド</p>
+ </a>
+ <a href="/uk-london-spots" class="related-card">
+ <img src="/uk-hero.jpg" alt="ロンドン" style="width:300px;height:180px;object-fit:cover;" />
+ <p>ロンドン観光スポット15選【2026年最新】</p>
+ </a>
+ <a href="/uk-eta-about" class="related-card">
+ <img src="/uk-hero.jpg" alt="イギリスETA" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスETA（電子渡航認証）とは</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

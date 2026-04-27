@@ -1,0 +1,147 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T4020,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-europe">ヨーロッパ</a> ＞ <a href="/country-uk">イギリス</a> ＞ <a href="/gourmet">グルメ</a> ＞ イギリス料理・グルメガイド【フィッシュ＆チップスだけじゃない】</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/uk-hero.jpg" alt="イギリス料理" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="orange">グルメ</span>
+ <h1>イギリス料理・グルメガイド【フィッシュ＆チップスだけじゃない】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年4月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">イギリスの食文化</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#food-overview">イギリスの食文化の変遷</a></li>
+<li><a class="ez-toc-link" href="#food-traditional">イギリスの伝統料理</a></li>
+<li><a class="ez-toc-link" href="#food-tea">紅茶とアフタヌーンティー</a></li>
+<li><a class="ez-toc-link" href="#food-pub">パブ文化とパブフード</a></li>
+<li><a class="ez-toc-link" href="#food-modern">モダンブリティッシュとミシュランレストラン</a></li>
+<li><a class="ez-toc-link" href="#food-street">ストリートフードとマーケット</a></li>
+<li><a class="ez-toc-link" href="#food-eta">イギリス渡航に必要な手続き</a></li>
+</ul>
+</nav>
+</div>
+
+<h2 class="wp-block-heading" id="food-overview">イギリスの食文化の変遷</h2>
+<p>「イギリスの料理はまずい」というのは、もはや過去の話です。かつては質素で味気ないと評されることが多かったイギリスの食文化ですが、1990年代以降に大きな変革が起きました。ジェイミー・オリヴァー、ゴードン・ラムゼイ、ヘストン・ブルメンタールといった世界的に著名なシェフたちが登場し、イギリスの食のレベルを飛躍的に引き上げました。2026年現在、ロンドンにはミシュランの星付きレストランが70軒以上あり、パリやニューヨークと並ぶ世界有数の美食都市として認知されています。</p>
+<p>イギリスの食文化が豊かになった背景には、多文化社会の発展があります。旧大英帝国の植民地であったインド、カリブ海諸国、香港などからの移民がもたらした食文化は、イギリスの食の多様性を大きく広げました。チキンティッカマサラは「イギリスの国民食」とさえ呼ばれるようになり、インド料理、中華料理、タイ料理、日本料理などのレストランが街の至る所にあります。スーパーマーケットの食材も多国籍で、家庭の食卓にもグローバルな料理が並ぶのが現代のイギリスです。</p>
+
+<h2 class="wp-block-heading" id="food-traditional">イギリスの伝統料理</h2>
+
+<h3 class="wp-block-heading">フィッシュ＆チップス</h3>
+<p>イギリスを代表する料理といえばフィッシュ＆チップスです。白身魚（主にタラやハドック）に衣をつけてカリッと揚げ、太めのフライドポテト（チップス）を添えた一品です。19世紀半ばにロンドンの労働者階級の間で広まり、ヴィクトリア朝時代にはイギリス全土に普及しました。伝統的にはモルトビネガーと塩をかけて食べるのが英国流で、タルタルソースやマッシーピー（マッシュしたグリーンピース）を添えることもあります。ロンドンの名店としては、Poppies Fish & Chips（スピタルフィールズ）やThe Golden Hind（マリルボーン）が有名です。テイクアウト専門店も多く、£8〜12程度で本格的なフィッシュ＆チップスが楽しめます。海沿いの町（ブライトン、ウィットビーなど）では港で揚げたての特に新鮮なフィッシュ＆チップスが味わえます。</p>
+
+<h3 class="wp-block-heading">フル・イングリッシュ・ブレックファスト</h3>
+<p>イギリス式の朝食「フル・イングリッシュ（Full English）」は、ベーコン、ソーセージ、目玉焼き、ベイクドビーンズ、トースト、マッシュルーム、グリルトマト、ブラックプディング（豚の血のソーセージ）などが一皿に盛り付けられたボリューム満点の朝食です。「フライアップ（Fry-Up）」とも呼ばれ、ホテルやB&B（ベッド&ブレックファスト）のほか、街の「カフ（Caff）」と呼ばれるカジュアルな食堂で味わうことができます。ブラックプディングは見た目にためらう方もいますが、スパイスが効いた風味豊かな味わいで、一度食べるとクセになるという人も多い逸品です。スコットランドでは「フル・スコティッシュ」と呼ばれ、ハギスやポテトスコーンが加わります。</p>
+
+<h3 class="wp-block-heading">サンデーロースト</h3>
+<p>サンデーローストは毎週日曜日に家族で囲むイギリスの伝統的な食事です。ローストビーフ、ローストチキン、ローストラムなどのメインに、ローストポテト、ヨークシャープディング（膨らんだ小麦粉の焼き菓子）、グレービーソース、温野菜を添えた豪華な一品です。ヨークシャープディングはイギリスのサンデーローストに欠かせない存在で、外はカリッと中はモチッとした食感が特徴です。ロンドンの多くのパブやレストランでは日曜日にサンデーローストメニューを提供しており、£15〜25程度で本格的なローストディナーが楽しめます。Hawksmoor（ホークスムーア）やBlacklock（ブラックロック）はサンデーローストの名店として知られています。</p>
+
+<h3 class="wp-block-heading">シェパーズパイ / コテージパイ</h3>
+<p>シェパーズパイはラム肉のミンチを使った煮込みにマッシュポテトをのせてオーブンで焼いた料理で、イギリスの家庭料理の定番です。牛肉で作る場合はコテージパイと呼ばれます。寒い冬の日に体を温めてくれるコンフォートフードで、パブメニューとしても人気があります。グレービーの旨味とクリーミーなマッシュポテトのハーモニーが絶妙で、シンプルながらも深い味わいがあります。</p>
+
+<h3 class="wp-block-heading">パイ料理</h3>
+<p>イギリスはパイ大国で、ステーキ＆エールパイ、チキン＆マッシュルームパイ、ポークパイなど、驚くほど多彩なパイ料理があります。パイ専門店のPieminster（パイミニスター）やGinger Pig（ジンジャーピッグ）では、厳選された食材を使用した本格的なパイが味わえます。コーニッシュ・パスティはコーンウォール地方発祥の半月型のパイで、牛肉、ジャガイモ、カブ、タマネギが詰められた伝統料理です。元々は鉱山労働者のお弁当として考案されたもので、コーンウォールでは「Cornish Pasty」の名称が地理的表示保護（PGI）を受けています。</p>
+
+<h3 class="wp-block-heading">スティッキー・トフィー・プディング</h3>
+<p>イギリスのデザートの王様といえばスティッキー・トフィー・プディングです。デーツ（ナツメヤシ）を使ったしっとりとしたスポンジケーキに、温かいトフィーソース（バターキャラメルソース）をたっぷりかけ、バニラアイスクリームやカスタードを添えた一品です。甘さは強めですが、デーツのフルーティーな風味とトフィーの深いコクが絶妙にマッチします。イギリスのパブやレストランのデザートメニューには必ずと言っていいほど登場する定番デザートです。</p>
+
+<h2 class="wp-block-heading" id="food-tea">紅茶とアフタヌーンティー</h2>
+<p>イギリスの食文化を語る上で欠かせないのが紅茶です。イギリス人は1日に平均3〜4杯の紅茶を飲むとされ、紅茶は国民的な飲み物です。家庭では「ビルダーズティー」と呼ばれるミルクティーが最も一般的で、マグカップにティーバッグとミルクを入れ、砂糖を加えて日常的に飲まれています。</p>
+<p>アフタヌーンティーは1840年代にベッドフォード公爵夫人アンナ・マリアが始めたとされる優雅な習慣で、現在では世界的に知られるイギリスの食文化の象徴です。3段のケーキスタンドに、下段からフィンガーサンドイッチ、中段にスコーン（クロテッドクリームとジャム添え）、上段にペストリーやケーキが並びます。紅茶とともにゆっくりと味わう優雅なひとときは、イギリス旅行のハイライトの一つです。</p>
+
+<div class="Class_J">
+<h4>ロンドンのおすすめアフタヌーンティー</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>The Ritz London : 最も格式高いアフタヌーンティー（£75〜）。要予約、ドレスコードあり</li>
+<li>Claridge's : アールデコ調の美しい空間で楽しむ正統派（£80〜）</li>
+<li>Fortnum & Mason Diamond Jubilee Tea Salon : 王室御用達の紅茶とペストリー（£65〜）</li>
+<li>Sketch : ピンク色の内装が話題のインスタ映えスポット（£60〜）</li>
+<li>The Wolseley : カジュアルで予約しやすい人気店（£40〜）</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="food-pub">パブ文化とパブフード</h2>
+<p>イギリスの社交の場であるパブ（Public House）は、単なる飲食店ではなく、地域コミュニティの中心的な存在です。イギリス全土に約4万軒のパブがあり、何百年もの歴史を持つ古いパブも珍しくありません。パブではリアルエール（手動ポンプで注ぐ伝統的なイギリスビール）、ラガー、サイダー（リンゴ酒）などが楽しめます。カウンターで注文して先払いするのがパブの基本スタイルで、テーブルサービスの場合もあります。</p>
+<p>近年のガストロパブ（美食パブ）ブームにより、パブフードの質は劇的に向上しました。フィッシュ＆チップス、サンデーロースト、ステーキ＆エールパイ、バンガーズ＆マッシュ（ソーセージとマッシュポテト）、プラウマンズ・ランチ（チーズ、ピクルス、パンの盛り合わせ）など、イギリスの伝統料理をカジュアルに楽しめるのがパブの魅力です。</p>
+
+<div class="Class_J">
+<h4>パブでの注文方法</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>カウンターに行って注文・支払いをする（テーブルで待たない）</li>
+<li>ビールは「パイント（568ml）」または「ハーフパイント（284ml）」で注文</li>
+<li>チップは不要（カウンター注文の場合）</li>
+<li>「Could I have a pint of [ビール名], please?」が基本の注文フレーズ</li>
+<li>ラストオーダーの際は「Last orders!」のベルが鳴る</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="food-modern">モダンブリティッシュとミシュランレストラン</h2>
+<p>「モダンブリティッシュ」と呼ばれる料理ジャンルは、イギリスの伝統的な食材と調理法をベースに、フランス料理やアジア料理の技法を取り入れた革新的な料理です。地元の旬の食材を重視し、洗練された盛り付けと繊細な味わいが特徴です。</p>
+<p>ロンドンのミシュラン3つ星レストランとしては、Alain Ducasse at The Dorchester、Restaurant Gordon Ramsay、Core by Clare Smythなどがあり、世界のグルメ愛好家を魅了しています。2つ星、1つ星のレストランも含めると、ロンドンだけで70軒以上のミシュラン星付きレストランがあり、フレンチ、イタリアン、日本料理、インド料理など、ジャンルも多岐にわたります。</p>
+<p>手頃な価格でモダンブリティッシュを楽しむなら、ランチのセットメニューやプレシアター・メニュー（劇場公演前の早い時間帯に提供される割引メニュー）がおすすめです。ウエストエンドの劇場街周辺のレストランでは、2コースで£25〜35程度のプレシアター・メニューを提供している店が多くあります。</p>
+
+<h2 class="wp-block-heading" id="food-street">ストリートフードとマーケット</h2>
+<p>ロンドンのストリートフードシーンは世界でもトップクラスの充実度を誇ります。Borough Market（バラ・マーケット）はロンドン最古の食品市場で、新鮮な食材やグルメ屋台が所狭しと並びます。アルチザンチーズ、オーガニック野菜、手作りパスタ、スパイシーなカレーなど、世界各国の味が一度に楽しめます。</p>
+
+<div class="Class_J">
+<h4>ロンドンの人気フードマーケット</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>Borough Market : ロンドン最古の食品市場。月〜土営業（ロンドンブリッジ駅すぐ）</li>
+<li>Camden Market : 世界各国のストリートフード。カレー、たこ焼き、エチオピア料理など</li>
+<li>Brick Lane : バングラデシュ料理の激戦区。日曜のマーケットが充実</li>
+<li>Broadway Market : 毎週土曜のファーマーズマーケット。地元民に人気</li>
+<li>Maltby Street Market : バラ・マーケットの姉妹市場。より落ち着いた雰囲気</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="food-eta">イギリス渡航に必要な手続き</h2>
+<p>日本国籍の方がイギリスへ観光目的で渡航する場合、2025年4月より電子渡航認証（ETA）の申請が必須となりました。ETAはオンラインまたは専用アプリ「UK ETA」から申請可能で、申請料は£10です。有効期間は2年間で、1回の滞在は最大6か月です。</p>
+<p>ETAに関する詳細は「<a href="/uk-eta-about">イギリスETA（電子渡航認証）とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/uk-mid.jpg" alt="イギリスの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/uk-souvenirs" class="related-card">
+ <img src="/uk-hero.jpg" alt="お土産" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスのお土産おすすめ15選</p>
+ </a>
+ <a href="/uk-london-spots" class="related-card">
+ <img src="/uk-hero.jpg" alt="ロンドン" style="width:300px;height:180px;object-fit:cover;" />
+ <p>ロンドン観光スポット15選【2026年最新】</p>
+ </a>
+ <a href="/uk-travel-budget" class="related-card">
+ <img src="/uk-hero.jpg" alt="費用" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリス旅行の費用目安【予算別モデルプラン】</p>
+ </a>
+ <a href="/uk-eta-about" class="related-card">
+ <img src="/uk-hero.jpg" alt="イギリスETA" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスETA（電子渡航認証）とは</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

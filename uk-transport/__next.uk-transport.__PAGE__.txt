@@ -1,0 +1,183 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3c57,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-europe">ヨーロッパ</a> ＞ <a href="/country-uk">イギリス</a> ＞ <a href="/travel-info">旅行情報</a> ＞ イギリスの交通ガイド【地下鉄・バス・鉄道】</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/uk-hero.jpg" alt="イギリス交通" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="green">旅行情報</span>
+ <h1>イギリスの交通ガイド【地下鉄・バス・鉄道】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年4月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">イギリスの交通機関</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#transport-overview">イギリスの交通の概要</a></li>
+<li><a class="ez-toc-link" href="#transport-tube">ロンドン地下鉄（チューブ）</a></li>
+<li><a class="ez-toc-link" href="#transport-bus">ロンドンバス</a></li>
+<li><a class="ez-toc-link" href="#transport-oyster">オイスターカードとコンタクトレス決済</a></li>
+<li><a class="ez-toc-link" href="#transport-rail">長距離鉄道</a></li>
+<li><a class="ez-toc-link" href="#transport-airport">空港アクセス</a></li>
+<li><a class="ez-toc-link" href="#transport-taxi">タクシー・配車アプリ</a></li>
+<li><a class="ez-toc-link" href="#transport-tips">交通に関する注意点</a></li>
+<li><a class="ez-toc-link" href="#transport-eta">イギリス渡航に必要な手続き</a></li>
+</ul>
+</nav>
+</div>
+
+<h2 class="wp-block-heading" id="transport-overview">イギリスの交通の概要</h2>
+<p>イギリスは公共交通機関が非常に発達しており、鉄道、地下鉄、バス、トラムなどを利用して国内の主要都市間を効率よく移動することができます。特にロンドンは世界で最も公共交通が充実した都市の一つで、地下鉄（チューブ）11路線、バス約700路線、DLR、オーバーグラウンド、エリザベスラインなどが市内を網羅しています。キャッシュレス化も進んでおり、コンタクトレス対応のクレジットカードやスマートフォンだけで、ほぼすべての交通機関を利用できます。</p>
+<p>ロンドン以外の都市でも、マンチェスター、バーミンガム、エジンバラ、グラスゴーなどの主要都市はバスやトラムが充実しています。都市間の移動には鉄道が便利で、ロンドンからエジンバラまで約4時間30分、マンチェスターまで約2時間、バースまで約1時間30分でアクセスできます。イギリスでは車は左側通行で日本と同じですが、レンタカーを利用する場合はラウンドアバウト（環状交差点）など独特の交通ルールに注意が必要です。</p>
+
+<h2 class="wp-block-heading" id="transport-tube">ロンドン地下鉄（チューブ）</h2>
+<p>ロンドン地下鉄は1863年に開業した世界最古の地下鉄で、通称「チューブ（The Tube）」の名前で親しまれています。11の路線が市内を網羅し、272の駅が設置されています。路線はそれぞれ色分けされており、路線図（Tube Map）は世界的に有名なデザインです。運行時間は通常午前5時頃から深夜0時頃まで、金曜と土曜の夜にはナイトチューブ（一部路線のみ）が終夜運行します。</p>
+<p>料金はゾーン制を採用しており、ロンドン中心部（ゾーン1）から郊外に向かってゾーン2〜9に分けられています。主要な観光スポットのほとんどはゾーン1〜2に位置しています。オイスターカードまたはコンタクトレス対応のカードを使用すると、現金よりも大幅に安い料金で乗車できます（ゾーン1内で片道£2.80、現金は£6.70）。</p>
+
+<div class="Class_J">
+<h4>ロンドン地下鉄の主要路線</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>Central Line（赤色）: ウエストエンド、シティを東西に結ぶ</li>
+<li>Piccadilly Line（紺色）: ヒースロー空港〜キングスクロス〜コックフォスター</li>
+<li>Northern Line（黒色）: 南北を結ぶ主要路線。カムデン、シティ方面</li>
+<li>District Line（緑色）: ウィンブルドン、リッチモンド方面</li>
+<li>Victoria Line（水色）: キングスクロス〜ヴィクトリア〜ブリクストン</li>
+<li>Jubilee Line（灰色）: ウェストミンスター〜カナリーワーフ〜ストラトフォード</li>
+<li>Elizabeth Line（紫色）: 2022年開業の最新路線。ヒースロー〜パディントン〜シェンフィールド</li>
+</ul></p>
+</div>
+
+<p>地下鉄の乗り方は日本と似ており、改札でオイスターカードまたはコンタクトレスカードをタッチして入場し、目的の駅で再度タッチして出場します。駅構内では「Mind the gap（隙間にご注意ください）」というアナウンスがお馴染みです。ラッシュアワー（午前7時30分〜9時30分、午後5時〜7時）は非常に混雑するため、できるだけ避けて移動すると快適です。</p>
+
+<h2 class="wp-block-heading" id="transport-bus">ロンドンバス</h2>
+<p>赤い2階建てバス（ダブルデッカー）はロンドンの象徴的な存在です。ロンドンバスは約700路線が運行しており、地下鉄ではカバーしきれないエリアへのアクセスに便利です。運賃は一律£1.75（ホッパー運賃制度により、1時間以内であれば2回目のバスは無料）で、オイスターカードまたはコンタクトレスカードでのみ乗車可能です（現金は不可）。乗車時にカードリーダーにタッチし、降車時はタッチ不要です。</p>
+<p>バスの2階席からはロンドンの街並みを楽しむことができ、観光にもおすすめです。特にルート11（ヴィクトリア駅〜セント・ポール大聖堂〜リバプール・ストリート駅）やルート15（トラファルガー広場〜タワー・ヒル）は主要観光スポットを通るため、景色を楽しみながら移動できます。ナイトバス（N番号）は深夜も運行しており、終電後の移動手段としても利用できます。</p>
+
+<h2 class="wp-block-heading" id="transport-oyster">オイスターカードとコンタクトレス決済</h2>
+<p>オイスターカードはロンドンの交通機関で利用できるICカードで、日本のSuicaに相当します。地下鉄、バス、DLR、オーバーグラウンド、エリザベスライン、トラム、テムズリバーバスなど、ロンドンのほぼすべての公共交通機関で利用可能です。カードの購入はヒースロー空港や地下鉄の各駅の券売機で可能で、デポジットは£7です。チャージ（Top Up）も券売機やコンビニで行えます。</p>
+
+<div class="Class_J">
+<h4>オイスターカードの料金（2026年4月時点）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>地下鉄ゾーン1内 : 片道 £2.80（ピーク時 £3.00）</li>
+<li>バス : 一律 £1.75</li>
+<li>デイリーキャップ（ゾーン1-2） : £8.50（1日にこれ以上課金されない）</li>
+<li>ウィークリーキャップ（ゾーン1-2） : £42.70</li>
+</ul></p>
+</div>
+
+<p>コンタクトレス対応のクレジットカード（Visa、Mastercard）やApple Pay、Google Payをお持ちの方は、オイスターカードを購入せずにそのまま交通機関を利用できます。料金はオイスターカードと同一で、デイリーキャップやウィークリーキャップも自動的に適用されます。海外発行のカードでも問題なく利用可能で、デポジットも不要なため、旅行者にとってはこちらの方が便利です。ただし、JCBやAmerican Expressのコンタクトレスカードは非対応の場合があるため注意してください。</p>
+
+<h2 class="wp-block-heading" id="transport-rail">長距離鉄道</h2>
+<p>イギリスの鉄道は複数の運行会社によって運営されており、ロンドンを起点に全国各地へ鉄道網が延びています。主要な路線と運行会社は以下の通りです。</p>
+
+<div class="Class_J">
+<h4>主要鉄道路線</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>LNER : ロンドン（キングスクロス駅）〜エジンバラ（約4時間30分）</li>
+<li>Avanti West Coast : ロンドン（ユーストン駅）〜マンチェスター（約2時間）〜グラスゴー（約4時間30分）</li>
+<li>GWR : ロンドン（パディントン駅）〜バース（約1時間30分）〜ブリストル（約1時間45分）</li>
+<li>Southeastern : ロンドン（セント・パンクラス駅）〜カンタベリー（約1時間）</li>
+<li>Eurostar : ロンドン（セント・パンクラス駅）〜パリ（約2時間15分）〜ブリュッセル（約2時間）</li>
+</ul></p>
+</div>
+
+<p>鉄道チケットは事前にオンラインで購入すると大幅に安くなります。Advance（早割）チケットは出発の12週間前から購入可能で、当日券の半額以下になることも珍しくありません。Trainline（トレインライン）やNational Rail（ナショナルレール）の公式サイト・アプリからの購入が便利です。Railcard（レイルカード）という割引カードを購入すると、1年間有効で鉄道運賃が1/3割引になります（16-25 Railcard、26-30 Railcard、Two Together Railcardなど種類あり）。</p>
+
+<h2 class="wp-block-heading" id="transport-airport">空港アクセス</h2>
+<p>ロンドンには複数の空港があり、それぞれ市内へのアクセス方法が異なります。</p>
+
+<div class="Class_J">
+<h4>ヒースロー空港（LHR）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ヒースロー・エクスプレス : パディントン駅まで約15分（£25〜）</li>
+<li>エリザベスライン : パディントン駅まで約25分、リバプールストリート駅まで約45分（£12.80）</li>
+<li>地下鉄ピカデリーライン : 中心部まで約50〜60分（£5.60）</li>
+<li>National Express : ヴィクトリア・コーチステーションまで約40〜80分（£6〜）</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>ガトウィック空港（LGW）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>Gatwick Express : ヴィクトリア駅まで約30分（£20〜）</li>
+<li>Thameslink : セント・パンクラス駅まで約45分（£12〜）</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>スタンステッド空港（STN）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>Stansted Express : リバプールストリート駅まで約45分（£20〜）</li>
+<li>National Express : ヴィクトリア・コーチステーションまで約60〜90分（£8〜）</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="transport-taxi">タクシー・配車アプリ</h2>
+<p>ロンドンのブラックキャブ（黒塗りのタクシー）は世界的に有名で、ドライバーは「ナレッジ」と呼ばれる厳しい試験（ロンドン市内の2万5千の通りと10万以上のランドマークを暗記）に合格した精鋭です。メーター制で初乗りは£3.80、その後は距離と時間に応じて加算されます。5人まで乗車可能で、車椅子にも対応しています。流しのタクシーを捕まえることも、タクシー乗り場から乗ることもできます。</p>
+<p>Uber（ウーバー）やBolt（ボルト）などの配車アプリも広く利用されており、ブラックキャブより安価なことが多いです。アプリで事前に料金が表示されるため、料金トラブルの心配がありません。深夜や郊外からの移動に特に便利です。</p>
+
+<h2 class="wp-block-heading" id="transport-tips">交通に関する注意点</h2>
+<p>イギリスの交通機関を利用する際の注意点をまとめます。</p>
+
+<div class="Class_J">
+<h4>注意すべきポイント</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>エスカレーターでは右側に立ち、左側を空ける（日本の関東と同じ）</li>
+<li>ラッシュアワーは非常に混雑するため、大きな荷物を持っての移動は避ける</li>
+<li>バスは現金不可。オイスターカードまたはコンタクトレスカード必須</li>
+<li>鉄道のストライキが不定期に発生するため、事前にNational Railのサイトで確認</li>
+<li>日曜日は地下鉄・鉄道の一部路線で保守工事による運休・迂回がある</li>
+<li>自動車は左側通行。横断歩道では右方向を先に確認</li>
+<li>「Way Out」は出口の意味（日本の「Exit」に相当）</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="transport-eta">イギリス渡航に必要な手続き</h2>
+<p>日本国籍の方がイギリスへ観光目的で渡航する場合、2025年4月より電子渡航認証（ETA）の申請が必須となりました。ETAはオンラインまたは専用アプリ「UK ETA」から申請可能で、申請料は£10です。有効期間は2年間で、1回の滞在は最大6か月です。</p>
+<p>ETAに関する詳細は「<a href="/uk-eta-about">イギリスETA（電子渡航認証）とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/uk-mid.jpg" alt="イギリスの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/uk-london-spots" class="related-card">
+ <img src="/uk-hero.jpg" alt="ロンドン" style="width:300px;height:180px;object-fit:cover;" />
+ <p>ロンドン観光スポット15選【2026年最新】</p>
+ </a>
+ <a href="/uk-currency" class="related-card">
+ <img src="/uk-hero.jpg" alt="通貨" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスの通貨・両替・物価ガイド</p>
+ </a>
+ <a href="/uk-immigration-guide" class="related-card">
+ <img src="/uk-hero.jpg" alt="入国" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリス入国審査の流れ【質問と回答例】</p>
+ </a>
+ <a href="/uk-eta-about" class="related-card">
+ <img src="/uk-hero.jpg" alt="イギリスETA" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスETA（電子渡航認証）とは</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

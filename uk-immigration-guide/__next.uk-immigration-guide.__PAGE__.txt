@@ -1,0 +1,239 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3b20,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-europe">ヨーロッパ</a> ＞ <a href="/country-uk">イギリス</a> ＞ <a href="/travel-info">旅行情報</a> ＞ イギリス入国審査の流れ【質問と回答例】</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/uk-hero.jpg" alt="イギリス入国審査" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="green">旅行情報</span>
+ <h1>イギリス入国審査の流れ【質問と回答例】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年4月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">イギリスの入国審査ガイド</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#immi-overview">入国審査の概要</a></li>
+<li><a class="ez-toc-link" href="#immi-documents">必要な書類</a></li>
+<li><a class="ez-toc-link" href="#immi-flow">入国審査の流れ</a></li>
+<li><a class="ez-toc-link" href="#immi-egate">eGate（自動改札ゲート）の利用方法</a></li>
+<li><a class="ez-toc-link" href="#immi-questions">入国審査でよく聞かれる質問と回答例</a></li>
+<li><a class="ez-toc-link" href="#immi-customs">税関申告</a></li>
+<li><a class="ez-toc-link" href="#immi-tips">入国審査をスムーズに通過するコツ</a></li>
+<li><a class="ez-toc-link" href="#immi-eta">イギリス渡航に必要なETA</a></li>
+</ul>
+</nav>
+</div>
+
+<h2 class="wp-block-heading" id="immi-overview">入国審査の概要</h2>
+<p>イギリスに到着した際、すべての渡航者は入国審査（Immigration Control / Border Control）を通過する必要があります。日本国籍の方は2025年4月以降、事前にETA（電子渡航認証）を取得していることが求められます。ETAは入国の許可を保証するものではなく、最終的な入国の可否は入国審査官の判断によります。イギリスの入国審査はヨーロッパの中でも比較的厳格とされており、入国目的や滞在先の情報を明確に答えられるよう準備しておくことが重要です。</p>
+<p>イギリスの主要な入国空港はロンドン・ヒースロー空港、ロンドン・ガトウィック空港、ロンドン・スタンステッド空港、マンチェスター空港、エジンバラ空港などです。日本からの直行便が発着するヒースロー空港は最も利用者が多く、入国審査にかかる時間は混雑状況により異なりますが、通常30分〜1時間程度、繁忙期には2時間以上かかることもあります。</p>
+
+<h2 class="wp-block-heading" id="immi-documents">必要な書類</h2>
+<p>イギリスに入国する際に必要な書類は以下の通りです。</p>
+
+<div class="Class_J">
+<h4>入国時に必要な書類</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>有効なパスポート（残存有効期間は滞在期間以上あれば可。ただし6か月以上を推奨）</li>
+<li>ETA（電子渡航認証）の承認（パスポートに電子的に紐づけ）</li>
+<li>帰りの航空券（eチケットの控え）</li>
+<li>滞在先の情報（ホテル名・住所、または友人・親族の連絡先）</li>
+<li>十分な資金の証明（クレジットカードや現金）</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>あると安心な書類</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>旅行の日程表（ホテルの予約確認書、観光プランなど）</li>
+<li>海外旅行保険の証書</li>
+<li>勤務先や学校からの在籍証明書（英文）</li>
+<li>英文の銀行残高証明書</li>
+</ul></p>
+</div>
+
+<p>入国カード（Landing Card）は2019年に廃止されており、現在は記入する必要はありません。ETAはパスポートの情報に電子的に紐づけられているため、紙の書類を印刷して持参する必要はありませんが、念のためETA承認メールのスクリーンショットを保存しておくと安心です。</p>
+
+<h2 class="wp-block-heading" id="immi-flow">入国審査の流れ</h2>
+<p>飛行機がイギリスの空港に到着してから入国審査を通過するまでの一般的な流れは以下の通りです。</p>
+
+<div class="Class_J">
+<h4>到着から入国までの手順</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>1. 飛行機を降り、「Arrivals」の案内表示に従って進む</li>
+<li>2. 「UK Border / Immigration」の表示に従い、入国審査エリアへ向かう</li>
+<li>3. 「All Other Passports」（非英国/EU国籍者）のレーンに並ぶ。ただし日本のICパスポート所持者はeGateを利用可能</li>
+<li>4. eGateまたは審査官の窓口で入国審査を受ける</li>
+<li>5. 入国審査を通過後、「Baggage Reclaim」で預け入れ荷物を受け取る</li>
+<li>6. 「Customs」（税関）を通過して到着ロビーへ</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="immi-egate">eGate（自動改札ゲート）の利用方法</h2>
+<p>日本国籍の方でICパスポート（バイオメトリクスパスポート）を所持している18歳以上の方は、eGate（電子ゲート）を利用して自動で入国審査を受けることができます。eGateは審査官との対面が不要で、パスポートのスキャンと顔認証で入国手続きが完了するため、大幅に時間を短縮できます。</p>
+
+<div class="Class_J">
+<h4>eGateの利用手順</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>1. eGateの前に立ち、パスポートの顔写真ページを開いてスキャナーにかざす</li>
+<li>2. ゲートが開いたら中に進む</li>
+<li>3. カメラに顔を向け、顔認証を行う（帽子やサングラスは外す）</li>
+<li>4. 認証が成功するとゲートが開き、入国手続き完了</li>
+</ul></p>
+</div>
+
+<p>eGateの利用条件は以下の通りです。ICパスポート（表紙にICチップのマークがあるもの）を所持していること、18歳以上であること、有効なETAが承認済みであることが必要です。12〜17歳の方は大人の同伴者がいればeGateを利用できる場合がありますが、空港の運用状況によって異なります。eGateで問題が発生した場合（顔認証がうまくいかないなど）は、係員が対面の審査窓口に案内してくれます。</p>
+
+<h2 class="wp-block-heading" id="immi-questions">入国審査でよく聞かれる質問と回答例</h2>
+<p>対面の入国審査を受ける場合に備え、よく聞かれる質問と英語での回答例をまとめます。</p>
+
+<h3 class="wp-block-heading">渡航目的</h3>
+<p><strong>質問：</strong>What is the purpose of your visit? / Why are you visiting the UK?<br />
+（渡航の目的は何ですか？）</p>
+<p><strong>回答例：</strong></p>
+<div class="Class_J">
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>「I'm here for sightseeing.」（観光です）</li>
+<li>「I'm on holiday.」（休暇です）</li>
+<li>「I'm visiting my friend.」（友人を訪問します）</li>
+<li>「I'm here for a business meeting.」（商談のためです）</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">滞在期間</h3>
+<p><strong>質問：</strong>How long are you staying? / How long will you be in the UK?<br />
+（どのくらい滞在しますか？）</p>
+<p><strong>回答例：</strong></p>
+<div class="Class_J">
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>「I'm staying for 7 days.」（7日間です）</li>
+<li>「I'll be here for two weeks.」（2週間です）</li>
+<li>「I'm leaving on April 30th.」（4月30日に出発します）</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">滞在先</h3>
+<p><strong>質問：</strong>Where are you staying?<br />
+（どこに滞在しますか？）</p>
+<p><strong>回答例：</strong></p>
+<div class="Class_J">
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>「I'm staying at the [ホテル名] in [地域名].」（[地域名]の[ホテル名]に宿泊します）</li>
+<li>「I'm staying with a friend in London.」（ロンドンの友人宅に滞在します）</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">職業</h3>
+<p><strong>質問：</strong>What do you do? / What is your occupation?<br />
+（お仕事は何ですか？）</p>
+<p><strong>回答例：</strong></p>
+<div class="Class_J">
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>「I work for [会社名]. I'm an engineer.」（[会社名]でエンジニアをしています）</li>
+<li>「I'm a university student.」（大学生です）</li>
+<li>「I'm self-employed.」（自営業です）</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">帰りの航空券</h3>
+<p><strong>質問：</strong>Do you have a return ticket?<br />
+（帰りの航空券はありますか？）</p>
+<p><strong>回答例：</strong></p>
+<div class="Class_J">
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>「Yes, I have a return flight on [日付].」（はい、[日付]の帰りの便があります）</li>
+<li>「Yes, here is my e-ticket.」（はい、こちらがeチケットです）</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">滞在資金</h3>
+<p><strong>質問：</strong>How much money do you have with you? / Do you have enough funds for your stay?<br />
+（いくら持っていますか？ / 滞在に十分な資金はありますか？）</p>
+<p><strong>回答例：</strong></p>
+<div class="Class_J">
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>「I have [金額] in cash and credit cards.」（現金[金額]とクレジットカードを持っています）</li>
+<li>「My hotel and activities are all prepaid.」（ホテルやアクティビティはすべて支払い済みです）</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="immi-customs">税関申告</h2>
+<p>入国審査を通過し荷物を受け取った後、税関検査エリアを通過します。申告するものがない場合は「Nothing to Declare」（緑のレーン）を通ります。申告が必要な物品がある場合は「Goods to Declare」（赤のレーン）に進みます。</p>
+
+<div class="Class_J">
+<h4>免税範囲（主な品目）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>たばこ : 紙巻きたばこ200本、または葉巻50本、またはたばこ250g</li>
+<li>酒類 : ワイン18リットル（非発泡性）、またはビール42リットル、またはスピリッツ4リットル</li>
+<li>その他の物品 : £390相当まで</li>
+<li>現金 : £10,000相当額以上を持ち込む場合は申告が必要</li>
+</ul></p>
+</div>
+
+<p>食品の持ち込みについては、肉類・乳製品の持ち込みには厳しい制限があります。日本からのお土産として生肉、ハム、チーズ、牛乳などの動物性食品を持ち込むことは原則禁止されています。違反した場合は没収・罰金の対象となるため注意してください。米、インスタントラーメン、お菓子、調味料などの加工食品は持ち込み可能ですが、量が多い場合は検査を受けることがあります。</p>
+
+<h2 class="wp-block-heading" id="immi-tips">入国審査をスムーズに通過するコツ</h2>
+
+<div class="Class_J">
+<h4>スムーズに通過するためのポイント</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ETAを事前に取得し、承認メールを確認しておく</li>
+<li>パスポートと帰りの航空券（eチケット）をすぐに出せるよう手荷物に入れておく</li>
+<li>ホテルの予約確認書を印刷またはスマートフォンに保存しておく</li>
+<li>質問にはシンプルかつ明確に答える。余計な情報は話さない</li>
+<li>審査官に対して礼儀正しく、自信を持って対応する</li>
+<li>英語が苦手な場合は「I don't speak English well.」と伝え、ゆっくり話してもらう</li>
+<li>ICパスポート所持者はeGateを積極的に利用する（待ち時間短縮）</li>
+<li>早朝到着便は入国審査が混雑しやすいため、余裕を持ったスケジュールを組む</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="immi-eta">イギリス渡航に必要なETA</h2>
+<p>日本国籍の方がイギリスへ観光目的で渡航する場合、2025年4月より電子渡航認証（ETA）の申請が必須となりました。ETAはイギリスへの入国を事前に許可する電子的な渡航認証で、パスポート情報に紐づけられます。申請はオンラインまたは専用アプリ「UK ETA」から行い、申請料は£10です。通常3営業日以内に審査結果が通知されますが、余裕をもって出発の1〜2週間前に申請することをお勧めします。有効期間は2年間で、1回の滞在は最大6か月です。</p>
+<p>ETAに関する詳細は「<a href="/uk-eta-about">イギリスETA（電子渡航認証）とは</a>」をご確認ください。申請方法の詳細は「<a href="/uk-eta-application">イギリスETAの申請方法</a>」でも解説しています。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/uk-mid.jpg" alt="イギリスの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/uk-transport" class="related-card">
+ <img src="/uk-hero.jpg" alt="交通" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスの交通ガイド【地下鉄・バス・鉄道】</p>
+ </a>
+ <a href="/uk-time-difference" class="related-card">
+ <img src="/uk-hero.jpg" alt="時差" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスと日本の時差【サマータイム解説】</p>
+ </a>
+ <a href="/uk-currency" class="related-card">
+ <img src="/uk-hero.jpg" alt="通貨" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスの通貨・両替・物価ガイド</p>
+ </a>
+ <a href="/uk-eta-about" class="related-card">
+ <img src="/uk-hero.jpg" alt="イギリスETA" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスETA（電子渡航認証）とは</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

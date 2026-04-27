@@ -1,0 +1,194 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3bc0,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-europe">ヨーロッパ</a> ＞ <a href="/country-uk">イギリス</a> ＞ <a href="/travel-info">旅行情報</a> ＞ イギリスの気候・服装ガイド【月別】</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/uk-hero.jpg" alt="イギリスの気候" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="green">旅行情報</span>
+ <h1>イギリスの気候・服装ガイド【月別】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年4月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">イギリスの気候と服装の基本</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#climate-overview">イギリスの気候の特徴</a></li>
+<li><a class="ez-toc-link" href="#climate-spring">春（3月〜5月）の気候と服装</a></li>
+<li><a class="ez-toc-link" href="#climate-summer">夏（6月〜8月）の気候と服装</a></li>
+<li><a class="ez-toc-link" href="#climate-autumn">秋（9月〜11月）の気候と服装</a></li>
+<li><a class="ez-toc-link" href="#climate-winter">冬（12月〜2月）の気候と服装</a></li>
+<li><a class="ez-toc-link" href="#climate-cities">主要都市別の気候比較</a></li>
+<li><a class="ez-toc-link" href="#climate-packing">持ち物チェックリスト</a></li>
+<li><a class="ez-toc-link" href="#climate-eta">イギリス渡航に必要な手続き</a></li>
+</ul>
+</nav>
+</div>
+
+<h2 class="wp-block-heading" id="climate-overview">イギリスの気候の特徴</h2>
+<p>イギリスは北海道よりも高い緯度に位置していますが、メキシコ湾流（暖流）と偏西風の影響を受ける海洋性気候のため、緯度の割には温暖です。ロンドンの緯度は北緯51度30分で、サハリン（樺太）の中部とほぼ同じですが、冬でも気温が−5℃を下回ることは稀です。一方で、「1日の中に四季がある」と言われるほど天候が変わりやすく、朝は晴れていても午後に急な雨が降ることは日常茶飯事です。</p>
+<p>イギリスの年間降水量はロンドンで約600mm前後と、実は東京（約1,500mm）の半分以下です。ただし、雨の日数が多く、しとしとと降る小雨が多いのが特徴です。イギリス人が傘を持たないことが多いのは、激しい雨が長時間続くことが少ないためです。旅行者は折りたたみ傘とレインコートの両方を用意しておくと安心です。年間を通じて湿度が比較的高く、真夏でも日本のような蒸し暑さはなく、カラッとした過ごしやすい気候です。</p>
+
+<div class="Class_J">
+<h4>ロンドンの月別平均気温と降水量</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>1月 : 最高 8℃ / 最低 2℃ / 降水量 55mm</li>
+<li>2月 : 最高 8℃ / 最低 2℃ / 降水量 44mm</li>
+<li>3月 : 最高 11℃ / 最低 4℃ / 降水量 37mm</li>
+<li>4月 : 最高 14℃ / 最低 5℃ / 降水量 37mm</li>
+<li>5月 : 最高 18℃ / 最低 8℃ / 降水量 49mm</li>
+<li>6月 : 最高 21℃ / 最低 11℃ / 降水量 45mm</li>
+<li>7月 : 最高 23℃ / 最低 13℃ / 降水量 45mm</li>
+<li>8月 : 最高 23℃ / 最低 13℃ / 降水量 50mm</li>
+<li>9月 : 最高 20℃ / 最低 10℃ / 降水量 49mm</li>
+<li>10月 : 最高 15℃ / 最低 8℃ / 降水量 69mm</li>
+<li>11月 : 最高 11℃ / 最低 5℃ / 降水量 59mm</li>
+<li>12月 : 最高 8℃ / 最低 3℃ / 降水量 55mm</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="climate-spring">春（3月〜5月）の気候と服装</h2>
+<p>イギリスの春は3月から5月で、気温は徐々に上昇しますが、朝晩はまだ冷え込みます。3月はまだ冬の寒さが残り、最高気温は10〜12℃程度。4月に入ると日差しが増え、公園の花々が咲き始めます。5月になると気温も18℃前後まで上がり、過ごしやすい日が増えてきます。ただし、「April showers（4月の雨）」という言葉があるように、春は天候が不安定な時期でもあります。</p>
+<p>春の服装は重ね着（レイヤリング）が基本です。3月は冬用のコートやダウンジャケットがまだ必要で、マフラーや手袋も持参した方が安心です。4月〜5月は薄手のジャケットやカーディガンを重ね着し、暖かい日には脱げるようにしておくのがポイントです。折りたたみ傘は必携です。イギリスの建物は暖房が効いていることが多いため、室内では薄着でも過ごせます。</p>
+<p>春はイギリスの庭園が最も美しい季節の一つです。キュー・ガーデンのブルーベルの森、ハイド・パークのチューリップ、コッツウォルズの田園風景など、花々に囲まれた風景を楽しめます。イースター（復活祭）のシーズンでもあり、各地でイースターイベントが開催されます。</p>
+
+<h2 class="wp-block-heading" id="climate-summer">夏（6月〜8月）の気候と服装</h2>
+<p>イギリスの夏は6月から8月で、1年で最も過ごしやすい季節です。最高気温は20〜25℃程度で、日本の夏と比べるとかなり涼しく感じます。ただし、近年は気候変動の影響で猛暑日が増加しており、2022年7月にはロンドンで40.3℃を記録しました。イギリスの住宅やホテルにはエアコンが設置されていないことが多いため、猛暑時は注意が必要です。</p>
+<p>夏の最大の魅力は日照時間の長さです。6月の夏至の頃はロンドンで午前5時前に日が昇り、午後9時過ぎまで明るいため、観光に使える時間が非常に長くなります。スコットランドのエジンバラではさらに日が長く、真夏は午後10時頃まで明るいこともあります。</p>
+<p>夏の服装はTシャツやブラウスなどの軽装が基本ですが、薄手の長袖やカーディガンは必須です。朝晩は15℃前後まで気温が下がることがあり、レストランやパブのテラス席で夕食をとる際には羽織るものがあると快適です。日差しが強い日はサングラスや日焼け止めも忘れずに。雨は夏でも降るため、折りたたみ傘やレインジャケットは常に携帯しましょう。</p>
+<p>夏はイギリスの観光ベストシーズンで、ウィンブルドン選手権（6月〜7月）、グラストンベリー・フェスティバル（6月）、エジンバラ・フェスティバル（8月）、BBCプロムス（7月〜9月）など、大規模なイベントが目白押しです。</p>
+
+<h2 class="wp-block-heading" id="climate-autumn">秋（9月〜11月）の気候と服装</h2>
+<p>イギリスの秋は9月から11月で、徐々に気温が下がり、日照時間も短くなっていきます。9月はまだ夏の暖かさが残り、最高気温は18〜20℃程度で観光にも適しています。10月になると紅葉が始まり、ハイド・パークやリージェンツ・パーク、コッツウォルズの村々が美しい秋色に染まります。11月は急に冬の気配が近づき、最高気温は10℃前後、午後4時頃には暗くなります。</p>
+<p>秋の服装は9月前半は夏の延長で薄手のジャケット程度で過ごせますが、10月以降は厚手のコートやセーターが必要です。11月は冬装備を整え、マフラー、手袋、暖かい帽子も用意しましょう。雨が増える季節でもあるため、防水性のあるジャケットやブーツがあると便利です。</p>
+<p>秋はロンドンのミュージアムや美術館をゆっくり巡るのに最適な季節です。11月5日のガイ・フォークス・ナイト（ボンファイアー・ナイト）では、イギリス各地で花火大会とかがり火が楽しめます。また、観光客が夏に比べて減るため、人気スポットも比較的空いており、ホテルの料金も下がる傾向があります。</p>
+
+<h2 class="wp-block-heading" id="climate-winter">冬（12月〜2月）の気候と服装</h2>
+<p>イギリスの冬は12月から2月で、最高気温は6〜8℃、最低気温は1〜3℃程度です。雪が降ることもありますが、ロンドンではそれほど多くありません。スコットランドのハイランド地方では積雪が多く、スキーリゾートもあります。日照時間は最も短く、12月の冬至の頃は午前8時頃に日が昇り、午後4時前には暗くなります。曇りの日が多く、どんよりとした灰色の空が続くこともありますが、イルミネーションやクリスマスマーケットが街を華やかに彩ります。</p>
+<p>冬の服装はダウンジャケットや厚手のウールコートなど、しっかりとした防寒着が必要です。マフラー、手袋、ニット帽は必須で、ヒートテックなどの保温インナーも活用しましょう。暖房の効いた室内との温度差が大きいため、脱ぎ着しやすい重ね着スタイルがおすすめです。足元は防水性のあるブーツが便利で、石畳の路面が濡れて滑りやすいこともあるため、滑りにくい靴底のものを選びましょう。</p>
+<p>冬のイギリスはクリスマスシーズンが最大の魅力です。11月中旬からオックスフォード・ストリートやリージェント・ストリートのイルミネーションが点灯し、ハイド・パークのウィンター・ワンダーランド、サウスバンクのクリスマスマーケット、コヴェント・ガーデンのクリスマスツリーなど、街全体がお祝いムードに包まれます。ボクシングデー（12月26日）には大規模なセールが始まり、ショッピング目的の旅行者にも人気のシーズンです。ただし、12月25日のクリスマス当日はほとんどの店舗、レストラン、公共交通機関が休業となるため注意が必要です。</p>
+
+<h2 class="wp-block-heading" id="climate-cities">主要都市別の気候比較</h2>
+<p>イギリスは南北に約1,000キロメートル広がっているため、地域によって気候に差があります。</p>
+
+<div class="Class_J">
+<h4>ロンドン（イングランド南部）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>イギリスで最も温暖なエリア</li>
+<li>夏の最高気温は23〜25℃、冬でも氷点下になることは稀</li>
+<li>年間降水量は約600mm</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>エジンバラ（スコットランド）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ロンドンより2〜3℃低い気温</li>
+<li>夏の最高気温は19〜20℃、冬は4〜6℃</li>
+<li>風が強く、体感温度はさらに低い</li>
+<li>年間降水量は約700mm</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>マンチェスター（イングランド北部）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>「レインシティ」と呼ばれるほど雨が多い</li>
+<li>年間降水量は約870mm</li>
+<li>夏の最高気温は20〜21℃</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>湖水地方（イングランド北西部）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>イギリスで最も降水量が多い地域の一つ</li>
+<li>年間降水量は2,000mmを超える場所もある</li>
+<li>防水装備は必須</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="climate-packing">持ち物チェックリスト</h2>
+<p>イギリス旅行の季節を問わず役立つ持ち物をまとめます。</p>
+
+<div class="Class_J">
+<h4>通年で必要な持ち物</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>折りたたみ傘（軽量で丈夫なもの）</li>
+<li>レインジャケット（防水・防風タイプ）</li>
+<li>重ね着用の薄手の上着</li>
+<li>歩きやすいスニーカーまたはブーツ</li>
+<li>変換プラグ（BFタイプ / 3ピン）</li>
+<li>モバイルバッテリー</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>夏季の追加持ち物</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>サングラス</li>
+<li>日焼け止め</li>
+<li>帽子</li>
+<li>薄手のカーディガン（冷房・夜間用）</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>冬季の追加持ち物</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>厚手のダウンジャケットまたはウールコート</li>
+<li>マフラー・手袋・ニット帽</li>
+<li>保温インナー（ヒートテックなど）</li>
+<li>防水ブーツ</li>
+<li>使い捨てカイロ</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="climate-eta">イギリス渡航に必要な手続き</h2>
+<p>日本国籍の方がイギリスへ観光目的で渡航する場合、2025年4月より電子渡航認証（ETA）の申請が必須となりました。ETAはオンラインまたは専用アプリ「UK ETA」から申請可能で、申請料は£10です。有効期間は2年間で、1回の滞在は最大6か月です。</p>
+<p>ETAに関する詳細は「<a href="/uk-eta-about">イギリスETA（電子渡航認証）とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/uk-mid.jpg" alt="イギリスの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/uk-time-difference" class="related-card">
+ <img src="/uk-hero.jpg" alt="時差" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスと日本の時差【サマータイム解説】</p>
+ </a>
+ <a href="/uk-london-spots" class="related-card">
+ <img src="/uk-hero.jpg" alt="ロンドン" style="width:300px;height:180px;object-fit:cover;" />
+ <p>ロンドン観光スポット15選【2026年最新】</p>
+ </a>
+ <a href="/uk-transport" class="related-card">
+ <img src="/uk-hero.jpg" alt="交通" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスの交通ガイド【地下鉄・バス・鉄道】</p>
+ </a>
+ <a href="/uk-eta-about" class="related-card">
+ <img src="/uk-hero.jpg" alt="イギリスETA" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスETA（電子渡航認証）とは</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

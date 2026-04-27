@@ -1,0 +1,263 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T41d7,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-europe">ヨーロッパ</a> ＞ <a href="/country-uk">イギリス</a> ＞ <a href="/travel-info">旅行情報</a> ＞ イギリス旅行の費用目安【予算別モデルプラン】</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/uk-hero.jpg" alt="イギリス旅行費用" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="green">旅行情報</span>
+ <h1>イギリス旅行の費用目安【予算別モデルプラン】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年4月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">イギリス旅行の費用ガイド</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#budget-overview">イギリス旅行の費用概要</a></li>
+<li><a class="ez-toc-link" href="#budget-flight">航空券の費用</a></li>
+<li><a class="ez-toc-link" href="#budget-hotel">宿泊費</a></li>
+<li><a class="ez-toc-link" href="#budget-food">食費</a></li>
+<li><a class="ez-toc-link" href="#budget-transport">交通費</a></li>
+<li><a class="ez-toc-link" href="#budget-sightseeing">観光・アクティビティ費</a></li>
+<li><a class="ez-toc-link" href="#budget-other">その他の費用</a></li>
+<li><a class="ez-toc-link" href="#budget-model">予算別モデルプラン（7日間）</a></li>
+<li><a class="ez-toc-link" href="#budget-save">節約のコツ</a></li>
+<li><a class="ez-toc-link" href="#budget-eta">イギリス渡航に必要な手続き</a></li>
+</ul>
+</nav>
+</div>
+
+<h2 class="wp-block-heading" id="budget-overview">イギリス旅行の費用概要</h2>
+<p>イギリス、特にロンドンは世界的に物価が高い都市として知られており、旅行の費用も比較的高めです。しかし、無料で入場できる博物館や美術館が多いこと、スーパーマーケットの食品が充実していること、公共交通機関の料金体系が工夫されていることなど、費用を抑えるポイントも多くあります。2026年4月現在、1ポンド＝約195円前後で推移しています。以下では、イギリス旅行の主な費用項目ごとに目安をまとめ、最後に予算別のモデルプランを提案します。</p>
+
+<h2 class="wp-block-heading" id="budget-flight">航空券の費用</h2>
+<p>日本からイギリス（ロンドン）への航空券は、時期や航空会社によって大きく異なります。</p>
+
+<div class="Class_J">
+<h4>航空券の目安（東京〜ロンドン往復 / エコノミークラス）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>閑散期（1月〜3月、11月）: 12万〜18万円</li>
+<li>通常期（4月〜5月、9月〜10月）: 15万〜25万円</li>
+<li>繁忙期（6月〜8月、年末年始）: 20万〜35万円</li>
+<li>ビジネスクラス : 40万〜80万円</li>
+</ul></p>
+</div>
+
+<p>直行便を運航しているのはJAL（日本航空）、ANA（全日空）、British Airways（ブリティッシュ・エアウェイズ）、Virgin Atlantic（ヴァージン・アトランティック）で、飛行時間は約12時間〜13時間です。乗り継ぎ便を利用すると、中東系航空会社（エミレーツ、カタール航空、エティハド航空）やヨーロッパ系航空会社（フィンエアー、KLM）で10万円台前半から見つかることもあります。航空券を安く購入するコツは、出発の2〜3か月前に購入すること、平日出発を選ぶこと、比較サイト（Skyscanner、Google Flights）で複数の航空会社を比較することです。</p>
+
+<h2 class="wp-block-heading" id="budget-hotel">宿泊費</h2>
+<p>ロンドンの宿泊費はヨーロッパの中でも特に高く、旅行費用の大きな割合を占めます。</p>
+
+<div class="Class_J">
+<h4>ロンドンの宿泊費の目安（1泊あたり）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ホステル（ドミトリー） : 3,000〜8,000円</li>
+<li>バジェットホテル（2つ星） : 10,000〜18,000円</li>
+<li>スタンダードホテル（3つ星） : 20,000〜35,000円</li>
+<li>アッパーミドルホテル（4つ星） : 35,000〜65,000円</li>
+<li>ラグジュアリーホテル（5つ星） : 70,000円〜</li>
+<li>Airbnb / アパートメント : 10,000〜30,000円（部屋タイプによる）</li>
+</ul></p>
+</div>
+
+<p>宿泊費を抑えるポイントとして、ロンドン中心部（ゾーン1）を避けてゾーン2〜3のホテルを選ぶと1〜2割程度安くなります。キングスクロス、ショーディッチ、パディントン、アールズコート周辺は比較的手頃な宿が見つかりやすいエリアです。また、Booking.comやExpediaなどの予約サイトで早期予約割引やキャンセル無料プランを活用するのも有効です。エジンバラ、マンチェスター、バーミンガムなどロンドン以外の都市では、同等のホテルがロンドンの6〜7割程度の価格で宿泊できます。</p>
+
+<h2 class="wp-block-heading" id="budget-food">食費</h2>
+<p>イギリスの食費は外食中心だと高くなりますが、工夫次第で大幅に節約できます。</p>
+
+<div class="Class_J">
+<h4>1日あたりの食費の目安</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>節約プラン : 3,000〜5,000円（スーパーのミールディール＋テイクアウト中心）</li>
+<li>スタンダードプラン : 6,000〜10,000円（カフェランチ＋パブディナー）</li>
+<li>贅沢プラン : 15,000〜30,000円（レストランランチ＋ファインダイニング）</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>主な食費の参考価格</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>スーパーのミールディール（サンドイッチ＋ドリンク＋スナック） : £3.50〜5（約680〜975円）</li>
+<li>カフェのコーヒー : £3.50〜5（約680〜975円）</li>
+<li>パブのフィッシュ＆チップス : £12〜16（約2,340〜3,120円）</li>
+<li>カジュアルレストランのランチ : £12〜20（約2,340〜3,900円）</li>
+<li>パブのビール（1パイント） : £6〜8（約1,170〜1,560円）</li>
+<li>アフタヌーンティー : £40〜80（約7,800〜15,600円）</li>
+</ul></p>
+</div>
+
+<p>食費を抑えるコツは、朝食付きのホテルを選ぶこと、ランチにスーパーのミールディールを活用すること、そしてパブでのディナーをメインにすることです。Tesco、Sainsbury's、M&Sのミールディールは£3.50〜5でサンドイッチ、ドリンク、スナックのセットが購入でき、コストパフォーマンスは非常に優秀です。</p>
+
+<h2 class="wp-block-heading" id="budget-transport">交通費</h2>
+<p>ロンドン市内の移動はオイスターカードやコンタクトレスカードのデイリーキャップ制度を活用すれば、1日あたりの交通費を抑えることができます。</p>
+
+<div class="Class_J">
+<h4>ロンドン市内の交通費の目安（1日あたり）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ゾーン1-2のデイリーキャップ : £8.50（約1,658円）</li>
+<li>バスのみ利用の場合のデイリーキャップ : £5.25（約1,024円）</li>
+<li>徒歩中心で地下鉄を数回利用 : £5〜8（約975〜1,560円）</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>ロンドン〜地方都市の交通費（片道）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ロンドン → エジンバラ（鉄道） : £30〜150（早割£30〜、当日券£150〜）</li>
+<li>ロンドン → バース（鉄道） : £20〜80</li>
+<li>ロンドン → マンチェスター（鉄道） : £25〜120</li>
+<li>ロンドン → オックスフォード（バス） : £8〜15</li>
+<li>長距離バス（National Express / Megabus） : £5〜30（鉄道より安い）</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="budget-sightseeing">観光・アクティビティ費</h2>
+<p>イギリスの大きな魅力は、多くの博物館・美術館が無料であることです。</p>
+
+<div class="Class_J">
+<h4>無料で楽しめる施設</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>大英博物館</li>
+<li>ナショナル・ギャラリー</li>
+<li>テート・モダン</li>
+<li>ヴィクトリア&アルバート博物館</li>
+<li>自然史博物館</li>
+<li>科学博物館</li>
+<li>スコットランド国立博物館</li>
+</ul></p>
+</div>
+
+<div class="Class_J">
+<h4>有料施設の入場料の目安</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ロンドン塔 : £34.80（約6,786円）</li>
+<li>ロンドン・アイ : £32〜（約6,240円〜）</li>
+<li>ウェストミンスター寺院 : £27（約5,265円）</li>
+<li>エジンバラ城 : £19.50（約3,803円）</li>
+<li>ミュージカル（ウエストエンド） : £25〜150（約4,875〜29,250円）</li>
+</ul></p>
+</div>
+
+<p>ロンドンの有料観光施設を複数訪れる予定がある場合は、London Pass（ロンドンパス）の購入を検討しましょう。1日券〜10日券があり、ロンドン塔、ウェストミンスター寺院、タワーブリッジ展示、テムズリバークルーズなど80以上の施設やツアーが含まれています。1日券は£89（約17,355円）で、有料施設を2〜3か所回れば元が取れる計算です。</p>
+
+<h2 class="wp-block-heading" id="budget-other">その他の費用</h2>
+
+<div class="Class_J">
+<h4>その他にかかる費用</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ETA（電子渡航認証） : £10（約1,950円）</li>
+<li>海外旅行保険 : 3,000〜10,000円（7日間）</li>
+<li>SIMカード / eSIM / Wi-Fiレンタル : 2,000〜5,000円（7日間）</li>
+<li>お土産 : 5,000〜30,000円（個人差大）</li>
+<li>チップ : レストランでの食事代の10〜15%程度</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="budget-model">予算別モデルプラン（7日間 / ロンドン5泊＋日帰り旅行2回）</h2>
+<p>以下に、予算別の7日間イギリス旅行モデルプランを示します（航空券代込み、1人あたり）。</p>
+
+<h3 class="wp-block-heading">節約プラン：約25〜30万円</h3>
+<div class="Class_J">
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>航空券 : 12〜16万円（乗り継ぎ便、閑散期）</li>
+<li>宿泊 : 4〜5万円（ホステルまたはバジェットホテル / 5泊で£200〜250）</li>
+<li>食費 : 2.5〜3.5万円（スーパーのミールディール中心、パブで夕食2〜3回）</li>
+<li>交通費 : 1.5〜2万円（オイスターカード＋日帰り旅行のバス代）</li>
+<li>観光 : 0.5〜1万円（無料博物館中心、有料施設1〜2か所）</li>
+<li>その他 : 1〜2万円（ETA、保険、通信、お土産）</li>
+</ul></p>
+</div>
+<p>節約プランのポイントは、乗り継ぎ便を利用すること、ホステルやバジェットホテルを活用すること、無料の博物館・美術館を中心に観光すること、食事はスーパーとテイクアウトを賢く使うことです。</p>
+
+<h3 class="wp-block-heading">スタンダードプラン：約35〜50万円</h3>
+<div class="Class_J">
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>航空券 : 15〜22万円（直行便、通常期）</li>
+<li>宿泊 : 10〜17万円（3つ星ホテル / 5泊で£500〜900）</li>
+<li>食費 : 4〜7万円（カフェランチ、パブやレストランでディナー）</li>
+<li>交通費 : 2〜3万円（オイスターカード＋日帰り旅行の鉄道チケット）</li>
+<li>観光 : 1.5〜3万円（ロンドンパス1日＋ミュージカル鑑賞）</li>
+<li>その他 : 2〜3万円（ETA、保険、通信、お土産、アフタヌーンティー）</li>
+</ul></p>
+</div>
+<p>スタンダードプランでは、観光・食事・宿泊のバランスが取れた充実した旅行が楽しめます。ウエストエンドのミュージカル鑑賞やアフタヌーンティーなど、イギリスならではの体験も含まれています。</p>
+
+<h3 class="wp-block-heading">贅沢プラン：約60〜100万円</h3>
+<div class="Class_J">
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>航空券 : 20〜45万円（直行便プレミアムエコノミーまたはビジネスクラス）</li>
+<li>宿泊 : 20〜35万円（4〜5つ星ホテル / The Savoy、Claridge's等）</li>
+<li>食費 : 10〜15万円（ミシュラン星付きレストラン、高級アフタヌーンティー）</li>
+<li>交通費 : 2〜4万円（タクシー併用、1等車の鉄道）</li>
+<li>観光 : 3〜5万円（プライベートツアー、特別展、ミュージカル前列席）</li>
+<li>その他 : 5〜10万円（高級ブランドショッピング、スパ、お土産）</li>
+</ul></p>
+</div>
+<p>贅沢プランでは、ロンドンの最高級ホテルでの滞在、ミシュラン星付きレストランでのディナー、プライベートガイド付きツアーなど、イギリス旅行を最大限に楽しむ内容です。</p>
+
+<h2 class="wp-block-heading" id="budget-save">節約のコツ</h2>
+
+<div class="Class_J">
+<h4>イギリス旅行で費用を抑えるポイント</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>航空券は2〜3か月前に購入し、比較サイトで最安値を検索</li>
+<li>閑散期（1〜3月、11月）は航空券・ホテルともに安い</li>
+<li>無料の博物館・美術館をフル活用（大英博物館、ナショナルギャラリーなど）</li>
+<li>スーパーのミールディールを活用（£3.50〜5で昼食が済む）</li>
+<li>オイスターカードのデイリーキャップを活用し、乗り放題感覚で移動</li>
+<li>長距離鉄道は早割（Advance）チケットで大幅節約</li>
+<li>ミュージカルは当日券やTKTSブース（半額チケット）を利用</li>
+<li>Free Walking Tourに参加（チップベースの無料ウォーキングツアー）</li>
+<li>レストランのランチセットやプレシアターメニューはディナーより割安</li>
+<li>海外旅行用のプリペイドカード（Wise等）で為替手数料を節約</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="budget-eta">イギリス渡航に必要な手続き</h2>
+<p>日本国籍の方がイギリスへ観光目的で渡航する場合、2025年4月より電子渡航認証（ETA）の申請が必須となりました。ETAはオンラインまたは専用アプリ「UK ETA」から申請可能で、申請料は£10です。有効期間は2年間で、1回の滞在は最大6か月です。</p>
+<p>ETAに関する詳細は「<a href="/uk-eta-about">イギリスETA（電子渡航認証）とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/uk-mid.jpg" alt="イギリスの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/uk-currency" class="related-card">
+ <img src="/uk-hero.jpg" alt="通貨" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスの通貨・両替・物価ガイド</p>
+ </a>
+ <a href="/uk-transport" class="related-card">
+ <img src="/uk-hero.jpg" alt="交通" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスの交通ガイド【地下鉄・バス・鉄道】</p>
+ </a>
+ <a href="/uk-london-spots" class="related-card">
+ <img src="/uk-hero.jpg" alt="ロンドン" style="width:300px;height:180px;object-fit:cover;" />
+ <p>ロンドン観光スポット15選【2026年最新】</p>
+ </a>
+ <a href="/uk-eta-about" class="related-card">
+ <img src="/uk-hero.jpg" alt="イギリスETA" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イギリスETA（電子渡航認証）とは</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null
