@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T76f1,<div class="page-layout">
+2:T6fd9,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 【2022年最新】 オーストラリアのワーキングホリデー</div>
 
@@ -55,12 +55,10 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="オーストラリア国旗とスーツケース" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/406f24b748e7c3951dedf2d562f7a561.webp" type="image/webp" width="640"/><img alt="オーストラリア国旗とスーツケース" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/406f24b748e7c3951dedf2d562f7a561.jpg" width="640"/>
-</picture>
+
 <p><a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462" rel="noreferrer noopener" target="_blank">ワーキングホリデー</a>とは18歳から30歳までの若者を対象とした文化交流プログラムで、語学学校への通学や付帯的な就労とともに長期滞在が認められる制度です。1980年に発足し、現在<a href="https://www.mofa.go.jp/mofaj/toko/visa/working_h.html" rel="noreferrer noopener" target="_blank">26の国と地域</a>を対象にワーキングホリデーに関する協定を締結しています。<br />このページではオーストラリアのワーキングホリデーを申請する際の条件や、滞在年度によって異なる手続き等について解説します。</p>
 <h2 class="wp-block-heading" id="working1">オーストラリア入国に関する重要事項</h2>
-<p>新型コロナウイルス感染拡大の影響により、オーストラリア政府は2020年3月より厳格な入国制限を施行しています。日本からの渡航も居住許可を有する方などを除き禁止となっていましたが、2021年12月15日より条件付きで再開が認められました。入国の際は<a href="http://xs640823.xsrv.jp/etas/service/index.html">ETAS(イータス)</a>またはビザの取得に加え、ワクチン接種証明書と陰性証明書の提示が必要となります。ETAS(イータス)は入国制限の強化に伴い新規申請を一時停止し、現在は専用アプリ「AustralianETA」にて試験的に申請を受け付けています。入国に関する要件は感染状況により変更となる場合があります。最新情報は「<a href="http://xs640823.xsrv.jp/etas/news/detail/990100.html">オーストラリアの新型コロナウイルスと入国制限 最新情報</a>」をご確認ください。</p>
+<p>新型コロナウイルス感染拡大の影響により、オーストラリア政府は2020年3月より厳格な入国制限を施行しています。日本からの渡航も居住許可を有する方などを除き禁止となっていましたが、2021年12月15日より条件付きで再開が認められました。入国の際は<a href="#">ETAS(イータス)</a>またはビザの取得に加え、ワクチン接種証明書と陰性証明書の提示が必要となります。ETAS(イータス)は入国制限の強化に伴い新規申請を一時停止し、現在は専用アプリ「AustralianETA」にて試験的に申請を受け付けています。入国に関する要件は感染状況により変更となる場合があります。最新情報は「<a href="#">オーストラリアの新型コロナウイルスと入国制限 最新情報</a>」をご確認ください。</p>
 <h2 class="wp-block-heading" id="working2">オーストラリアのワーキングホリデービザ(WHMビザ / サブクラス417)を取得する方法</h2>
 <p>多くの国がワーキングホリデービザの滞在期間を最長1年間と定める一方、オーストラリアは条件付きで最長3年間の滞在が認められます。オーストラリアのワーキングホリデービザは相手国により<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417" rel="noreferrer noopener" target="_blank">サブクラス417</a>または<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462" rel="noreferrer noopener" target="_blank">サブクラス462</a>が適用され、日本はサブクラス417の対象となります。両サブクラスは<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417/first-working-holiday-417#Eligibility" rel="noreferrer noopener" target="_blank">First Working Holiday visa(ファーストビザ)</a>・<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417/second-working-holiday-417" rel="noreferrer noopener" target="_blank">Second Working Holiday visa(セカンドビザ)</a>・<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417/third-working-holiday-417" rel="noreferrer noopener" target="_blank">Third Working Holiday visa(サードビザ)</a>で構成され、各ビザを取得することで1年ごとの滞在が認められます。2年目または3年目のワーキングホリデービザを取得する際は、就労期間など規定の条件があります。なお、オーストラリアのワーキングホリデービザはフルタイムでの就労が可能で、職種により雇用期間の延長が認められるなどの特長があります。</p>
 <h3 class="wp-block-heading" id="working2-1">ファーストワーキングホリデービザの申請条件と必要書類</h3>
@@ -83,9 +81,7 @@
 <p>詳しくはオーストラリア内務省の<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417/third-working-holiday-417" rel="noreferrer noopener" target="_blank">サードワーキングホリデービザページ</a>をご確認ください。</p>
 <h3 class="wp-block-heading" id="working2-4">ビザ取得までの流れ</h3>
 <p><strong>手順1.　ファーストビザの必要書類を用意する<br />手順2.　<a href="https://immi.homeaffairs.gov.au/help-support/applying-online-or-on-paper/online" rel="noreferrer noopener" target="_blank">Immi Account</a>にてアカウントを作成<br />手順3.　<a href="https://immi.homeaffairs.gov.au/help-support/applying-online-or-on-paper/online" rel="noreferrer noopener" target="_blank">Immi Account</a>よりファーストビザを申請：提出書類をアップロードし申請料を支払う<br />手順4.　ファーストビザの交付</strong><br />2年目の滞在を希望する方は、ファーストビザの有効期間内に<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417/specified-work" rel="noreferrer noopener" target="_blank">指定職種</a>において3か月間または88日間以上の就労が必要となります。<br /><strong>手順5.　セカンドビザの必要書類を用意する<br />手順6.　<a href="https://immi.homeaffairs.gov.au/help-support/applying-online-or-on-paper/online" rel="noreferrer noopener" target="_blank">Immi Account</a>よりセカンドビザを申請：提出書類をアップロードし申請料を支払う</strong><br />オーストラリア国内にて申請する場合は、ファーストビザの有効期間内または経過後28日以内に申請する必要があります。ファーストビザの有効期間内にセカンドビザの交付目途が立たない方は、ブリッジングビザ(ビザ申請結果が判明するまでオーストラリアに滞在するためのビザ)を申請してください。<br /><strong>手順7.　セカンドビザの交付</strong><br />3年目の滞在を希望する方は、セカンドビザの有効期間内に<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417/specified-work" rel="noreferrer noopener" target="_blank">指定職種</a>において6か月間または179日間以上の就労が必要となります。<br /><strong>手順8.　サードビザの必要書類を用意する<br />手順9.　<a href="https://immi.homeaffairs.gov.au/help-support/applying-online-or-on-paper/online" rel="noreferrer noopener" target="_blank">Immi Account</a>よりサードビザを申請：提出書類をアップロードし申請料を支払う</strong><br />オーストラリア国内から申請する場合は、セカンドビザの有効期間内または経過後28日以内に申請する必要があります。セカンドビザの有効期間内にサードビザ交付の交付目途が立たない方は、ブリッジングビザを申請してください。<br /><strong>手順10.　サードビザの交付</strong><br />書類はすべて英語表記または翻訳会社による英訳が必須となります。オーストラリア以外の国で翻訳する場合は公証人による認証は不要となりますが、翻訳者の氏名などを明記する必要があります。</p>
-<picture>
-<source alt="オーストラリアビジネス" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/6TRLsKHTKkEke1I1630379339.webp" type="image/webp" width="640"/><img alt="オーストラリアビジネス" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/6TRLsKHTKkEke1I1630379339.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="working3">ワーキングホリデーに求められる英語力と就労可能な仕事</h2>
 <p>オーストラリアで就労する際は英語が必須となります。そのため、語学の習得を目的として渡航する方や英語が初級レベルの方は、高いスキルを必要とする職種への就労が困難となります。また、多くの移民が暮らすオーストラリアでは、英語力だけでなく様々な文化を理解する柔軟性やコミュニケーション力も重要な査定基準となります。この章では英語レベルに応じたオーストラリアにおける職業の一例を紹介します。自身の適正や現在の英語力を考慮したうえで職種や就職先をご検討ください。</p>
 <h3 class="wp-block-heading" id="working3-1">初級(Elementary)レベルの方にお勧めの仕事</h3>
@@ -112,18 +108,16 @@
 <h4>仕事の一例</h4>
 <p><ul><li>営業職全般</li><li>一般企業や行政施設などの管理職</li><li>飲食店や店舗等のマネージャー</li><li>専門分野のコンサルタント業務</li><li>出版会社やIT企業での翻訳および通訳</li></ul></p>
 </div>
-<picture>
-<source alt="オーストラリアシドニータウンホール" class="img_big m20-t m20-b lazyloaded" height="428" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/3952659c1c707747e304135ea61e5fa7.webp" type="image/webp" width="640"/><img alt="オーストラリアシドニータウンホール" class="img_big m20-t m20-b" decoding="async" height="428" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/3952659c1c707747e304135ea61e5fa7.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="working4">オーストラリアのワーキングホリデーにお勧めの都市</h2>
 <h3 class="wp-block-heading" id="working4-1">シドニー / Sidney(ニューサウスウェールズ州)</h3>
-<p>オーストラリア経済の中心地である<a href="http://xs640823.xsrv.jp/etas/news/detail/sydney.html">シドニー</a>は多国籍な移民都市としても知られ、ワーキングホリデービザを利用する日本人の大半が市内や近郊に滞在しています。シドニーには数多くの語学学校があり、予算や学習レベルなど幅広い選択肢から自身の希望に沿った学校を選ぶことが可能です。日系人や日本からの移住者が多いため、日本語によるサポートが手厚い点がメリットとして挙げられます。求人数が多く、一般的な職種であればスムーズに求職活動を行うことができます。時給や給与は国内で最も高額で、家賃相場や物価も他の都市と比べて高い傾向にあります。</p>
+<p>オーストラリア経済の中心地である<a href="#">シドニー</a>は多国籍な移民都市としても知られ、ワーキングホリデービザを利用する日本人の大半が市内や近郊に滞在しています。シドニーには数多くの語学学校があり、予算や学習レベルなど幅広い選択肢から自身の希望に沿った学校を選ぶことが可能です。日系人や日本からの移住者が多いため、日本語によるサポートが手厚い点がメリットとして挙げられます。求人数が多く、一般的な職種であればスムーズに求職活動を行うことができます。時給や給与は国内で最も高額で、家賃相場や物価も他の都市と比べて高い傾向にあります。</p>
 <h3 class="wp-block-heading" id="working4-2">メルボルン / Melbourne(ビクトリア州)</h3>
-<p><a href="http://xs640823.xsrv.jp/etas/news/detail/melbourne.html">メルボルン</a>はオーストラリア大陸の南海岸に位置し、シドニーに次ぐ国内第2位の人口を誇ります。治安の良さと先進的な医療サービスが整っている点が評価され、<a href="https://www.eiu.com/n/" rel="noreferrer noopener" target="_blank">エコノミスト・インテリジェンス・ユニット(EIU)</a>による「世界一住みやすい街」にも選出されました。1,375校もの教育機関を擁する<a href="https://www.invest.vic.gov.au/jp/opportunities/archived-opportunity-pages/international-education/vocational-education-and-technical-vet" rel="noreferrer noopener" target="_blank">学園都市</a>であり、<a href="https://jp.visitmelbourne.com/regions/melbourne/food-and-wine/cafes" rel="noreferrer noopener" target="_blank">オーストラリアカフェ文化の発祥の地</a>という背景からバリスタを志す多くの方が修業に訪れます。家賃相場はやや高めですが、求人数が多く<a href="https://www.australia.com/ja-jp/places/melbourne-and-surrounds/best-shopping-precincts.html" rel="noreferrer noopener" target="_blank">ショッピング街</a>や<a href="https://qvm.com.au/" rel="noreferrer noopener" target="_blank">マーケット</a>へのアクセスも良いことから利便性と居住性に優れた都市として人気があります。</p>
+<p><a href="#">メルボルン</a>はオーストラリア大陸の南海岸に位置し、シドニーに次ぐ国内第2位の人口を誇ります。治安の良さと先進的な医療サービスが整っている点が評価され、<a href="https://www.eiu.com/n/" rel="noreferrer noopener" target="_blank">エコノミスト・インテリジェンス・ユニット(EIU)</a>による「世界一住みやすい街」にも選出されました。1,375校もの教育機関を擁する<a href="https://www.invest.vic.gov.au/jp/opportunities/archived-opportunity-pages/international-education/vocational-education-and-technical-vet" rel="noreferrer noopener" target="_blank">学園都市</a>であり、<a href="https://jp.visitmelbourne.com/regions/melbourne/food-and-wine/cafes" rel="noreferrer noopener" target="_blank">オーストラリアカフェ文化の発祥の地</a>という背景からバリスタを志す多くの方が修業に訪れます。家賃相場はやや高めですが、求人数が多く<a href="https://www.australia.com/ja-jp/places/melbourne-and-surrounds/best-shopping-precincts.html" rel="noreferrer noopener" target="_blank">ショッピング街</a>や<a href="https://qvm.com.au/" rel="noreferrer noopener" target="_blank">マーケット</a>へのアクセスも良いことから利便性と居住性に優れた都市として人気があります。</p>
 <h3 class="wp-block-heading" id="working4-3">ブリスベン / Brisbane(クイーンズランド州)</h3>
-<p><a href="http://xs640823.xsrv.jp/etas/news/detail/goldcoast.html">ブリスベン</a>は人口200万人の中規模都市で、大都市のシドニーやメルボルンと比べて落ち着いた雰囲気の街並みが特長です。1988年の万国博覧会の開催に伴いブリスベン川沿いの再開発が行われ急速に発展しました。<a href="https://www.tropicalnorthqueensland.org/jp/" rel="noreferrer noopener" target="_blank">ケアンズ</a>や<a href="https://jp.sydney.com/" rel="noreferrer noopener" target="_blank">シドニー</a>へ訪れる際の拠点都市としても知られ、国内外から多くの観光客や留学生が訪れます。高いレベルの大学・専門学校・語学学校が多数あり、学生や若い世代の1人暮らしが多い傾向にあります。また、オーストラリアを代表するリゾート地“<a href="https://www.queensland.com/jp/ja/places-to-see/destinations/gold-coast.html" rel="noreferrer noopener" target="_blank">ゴールドコースト</a>”まで電車で2時間とアクセスが良く、アクティビティを満喫したい方にもお勧めの都市です。ブリスベンは日本食レストランなどアジア系飲食店等の求人が多く、家賃や物価が比較的安いことがメリットとして挙げられます。</p>
+<p><a href="#">ブリスベン</a>は人口200万人の中規模都市で、大都市のシドニーやメルボルンと比べて落ち着いた雰囲気の街並みが特長です。1988年の万国博覧会の開催に伴いブリスベン川沿いの再開発が行われ急速に発展しました。<a href="https://www.tropicalnorthqueensland.org/jp/" rel="noreferrer noopener" target="_blank">ケアンズ</a>や<a href="https://jp.sydney.com/" rel="noreferrer noopener" target="_blank">シドニー</a>へ訪れる際の拠点都市としても知られ、国内外から多くの観光客や留学生が訪れます。高いレベルの大学・専門学校・語学学校が多数あり、学生や若い世代の1人暮らしが多い傾向にあります。また、オーストラリアを代表するリゾート地“<a href="https://www.queensland.com/jp/ja/places-to-see/destinations/gold-coast.html" rel="noreferrer noopener" target="_blank">ゴールドコースト</a>”まで電車で2時間とアクセスが良く、アクティビティを満喫したい方にもお勧めの都市です。ブリスベンは日本食レストランなどアジア系飲食店等の求人が多く、家賃や物価が比較的安いことがメリットとして挙げられます。</p>
 <h2 class="wp-block-heading" id="working5">オーストラリアへの入国と短期渡航にはETAS(イータス)の申請が必要です</h2>
-<p>オーストラリアでのワーキングホリデーをさらに充実させるため、事前に現地を訪問し各都市の印象や就職事情を把握しておくことをお勧めします。日本国籍の方はビザを取得せずにオーストラリアで最長90日間の滞在が認められますが、渡航する際は<a href="http://xs640823.xsrv.jp/etas/service/index.html">電子渡航認証システムETAS(イータス)</a>の申請が必須となります。ただし、すでにワーキングホリデービザを取得した方は、事前訪問の際にETAS(イータス)申請は不要です。<br />ETAS(イータス)の有効期限や渡航可能な回数に関する詳細は「<a href="http://xs640823.xsrv.jp/etas/reapplication/index.html">オーストラリアETAS(イータス)の有効期限と再申請について</a>」をご確認ください。</p>
+<p>オーストラリアでのワーキングホリデーをさらに充実させるため、事前に現地を訪問し各都市の印象や就職事情を把握しておくことをお勧めします。日本国籍の方はビザを取得せずにオーストラリアで最長90日間の滞在が認められますが、渡航する際は<a href="#">電子渡航認証システムETAS(イータス)</a>の申請が必須となります。ただし、すでにワーキングホリデービザを取得した方は、事前訪問の際にETAS(イータス)申請は不要です。<br />ETAS(イータス)の有効期限や渡航可能な回数に関する詳細は「<a href="#">オーストラリアETAS(イータス)の有効期限と再申請について</a>」をご確認ください。</p>
 
  </div>
  </article>
@@ -155,6 +149,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

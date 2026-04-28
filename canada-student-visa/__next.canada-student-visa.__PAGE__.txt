@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T6483,<div class="page-layout">
+2:T602d,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダの学生ビザ(就学許可証)について</div>
 
@@ -61,10 +61,8 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="studying-abroad" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/11/bff87c7e255ef056efb4d54469efd8f0.webp" type="image/webp" width="640"/><img alt="studying-abroad" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/11/bff87c7e255ef056efb4d54469efd8f0.jpg" width="640"/>
-</picture>
-<p>カナダへ6か月以上の留学を計画している方は、就学許可証(Study Permit)の取得が必須となります。留学期間が6か月以内の場合は原則として不要ですが、履修後もカナダで滞在する可能性がある方は予め取得することをお勧めします。就学許可証はIRCC(カナダ移民・難民・市民権省)のウェブサイトにてオンライン申請が可能です。このページでは<a href="http://xs640823.xsrv.jp/eta/study_abroad/index.html">カナダ留学</a>に必要な書類や申請手順などについて解説します。</p>
+
+<p>カナダへ6か月以上の留学を計画している方は、就学許可証(Study Permit)の取得が必須となります。留学期間が6か月以内の場合は原則として不要ですが、履修後もカナダで滞在する可能性がある方は予め取得することをお勧めします。就学許可証はIRCC(カナダ移民・難民・市民権省)のウェブサイトにてオンライン申請が可能です。このページでは<a href="#">カナダ留学</a>に必要な書類や申請手順などについて解説します。</p>
 <h2 class="wp-block-heading" id="study1">カナダ学生ビザ申請の流れ</h2>
 <p>カナダ留学に必須となる就学許可証は<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html" rel="noreferrer noopener" target="_blank">IRCC(カナダ移民・難民・市民権省)のウェブサイト</a>にてオンライン申請が可能です。<br />すべて英語で行う必要がありますので、入力間違いにご注意ください。</p>
 <h3 class="wp-block-heading" id="study1-1">1. GCKeyを作成</h3>
@@ -107,18 +105,16 @@
 <h3 class="wp-block-heading" id="study3-1">個人識別情報(バイオメトリクス)とは</h3>
 <p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/biometrics.html" rel="noreferrer noopener" target="_blank">バイオメトリクス</a>とは日本語で「個人識別情報」を意味します。指紋など身体的な特徴を採取および管理することで、個人を識別する認証システムです。<br />カナダでは2018年より以下の方を除き、渡航前にバイオメトリクスの登録が義務付けられています。</p>
 <ul class="wp-block-list"><li>eTA(イータ)または観光ビザで入国する方</li><li>14歳以下の児童</li><li>80歳以上の高齢者</li></ul>
-<p>学生ビザや<a href="http://xs640823.xsrv.jp/eta/working-holiday/index.html">ワーキングホリデービザ</a>を利用してカナダへ渡航する方は、バイオメトリクスの事前登録が必須です。<br />1回登録したバイオメトリクスは10年間有効となり、入国審査の際に登録済みの情報と一致しているか確認が行われます。</p>
+<p>学生ビザや<a href="#">ワーキングホリデービザ</a>を利用してカナダへ渡航する方は、バイオメトリクスの事前登録が必須です。<br />1回登録したバイオメトリクスは10年間有効となり、入国審査の際に登録済みの情報と一致しているか確認が行われます。</p>
 <h3 class="wp-block-heading" id="study3-2">個人識別情報(バイオメトリクス)登録の流れ</h3>
 <p>バイトメトリクス登録の主な流れは以下の通りです。</p>
 <ol class="wp-block-list"><li>学生ビザを申請</li><li>ビザとバイオメトリクスの申請料金をクレジットカードにて支払い</li><li>カナダ移民局よりEメールでバイオメトリクス登録に関する案内書が届く</li><li>バイオメトリクス登録のためのビザ申請センター訪問日を予約(通知から30日以内の登録が必要)</li><li>指定日にビザ申請センターへ赴きバイオメトリクスの登録を行う</li></ol>
-<p>バイオメトリクスの登録は予約制です。Eメール、電話、ウェブチャットまたはビザ申請センター(VFS)にて予約をお願いします。学生ビザ申請後にカナダ移民局よりバイオメトリクス登録に関する案内書がEメールで届きますので、通知から30日以内に登録を行ってください。登録は東京・大阪いずれかのビザ申請センター(VFS)に申請者本人が赴き、所定の手続きを行う必要があります。所在地や営業時間などの詳細は「<a href="http://xs640823.xsrv.jp/eta/embassy/index.html">カナダビザ申請センター・カナダ大使館について</a>」をご確認ください。</p>
+<p>バイオメトリクスの登録は予約制です。Eメール、電話、ウェブチャットまたはビザ申請センター(VFS)にて予約をお願いします。学生ビザ申請後にカナダ移民局よりバイオメトリクス登録に関する案内書がEメールで届きますので、通知から30日以内に登録を行ってください。登録は東京・大阪いずれかのビザ申請センター(VFS)に申請者本人が赴き、所定の手続きを行う必要があります。所在地や営業時間などの詳細は「<a href="#">カナダビザ申請センター・カナダ大使館について</a>」をご確認ください。</p>
 <div class="Class_AB">
 <p><strong>カナダビザ申請センター(合同会社VFSサービシズ・ジャパン東京)</strong><br /> 〒105-0014<br /> 東京都港区芝1-4-3　SANKI 芝金杉橋ビル4F<br /> 月曜日～金曜日 9:00～17:00<br /></p> <p><strong>カナダビザ申請センター(合同会社VFSサービシズ・ジャパン大阪)</strong><br /> 〒542-0081<br /> 大阪府大阪市中央区南船場1-3-5　リプロ南船場ビル10F<br /> 月曜日～金曜日 9:00～17:00<br /></p> <p>ビザ申請センターにてバイオメトリクスの登録を行う際は、以下を必ず持参してください。<br /> <ul><li>パスポート</li><li>カナダ移民局より届いたバイオメトリクス登録に関する案内書</li><li>バイオメトリクス登録日時の予約確認書</li><li>ビザ申請センターが発行した予約同意書</li></ul> バイオメトリクス登録の予約に関する詳細は<a href="https://visa.vfsglobal.com/jpn/ja/can/book-an-appointment" rel="noreferrer noopener" target="_blank">ビザ申請センター(VFS)のウェブサイト</a>をご確認ください。</p></div>
-<picture>
-<source alt="canada-student" class="img_big m20-t m20-b lazyloaded" height="360" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/11/6bb4da439a1805d7bfc0b747125910e1.webp" type="image/webp" width="640"/><img alt="canada-student" class="img_big m20-t m20-b" decoding="async" height="360" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/11/6bb4da439a1805d7bfc0b747125910e1.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="study4">学生ビザでの就労について</h2>
-<p>カナダの学生ビザを取得した方は、一定の条件を満たすことによりアルバイトなどの就労が認められます。<br />就労可能な学生ビザの種類として、オフキャンパスビザ(Off-Campus Work Permit)、コーププログラム(Co-op)、ポスグラビザ(PGWP : Post-Graduation Work Permit)などがあります。規定により労働条件が異なるため、留学期間や自身の目的に合ったビザを選択してください。<br />なお、6か月以内の短期留学はeTA(イータ)を取得することでカナダでの滞在が可能ですが、就労は認められません。<br />カナダ留学と就労に関する注意点は「<a href="http://xs640823.xsrv.jp/eta/study_abroad/index.html">カナダ留学の特徴・メリットデメリットを徹底解説</a>」をご確認ください。</p>
+<p>カナダの学生ビザを取得した方は、一定の条件を満たすことによりアルバイトなどの就労が認められます。<br />就労可能な学生ビザの種類として、オフキャンパスビザ(Off-Campus Work Permit)、コーププログラム(Co-op)、ポスグラビザ(PGWP : Post-Graduation Work Permit)などがあります。規定により労働条件が異なるため、留学期間や自身の目的に合ったビザを選択してください。<br />なお、6か月以内の短期留学はeTA(イータ)を取得することでカナダでの滞在が可能ですが、就労は認められません。<br />カナダ留学と就労に関する注意点は「<a href="#">カナダ留学の特徴・メリットデメリットを徹底解説</a>」をご確認ください。</p>
 <h3 class="wp-block-heading" id="study4-1">オフキャンパスとは(Off-Campus Work Permit)</h3>
 <p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html" rel="noreferrer noopener" target="_blank">オフキャンパスビザ(Off-Campus)</a>は就労可能な学生ビザとして最も一般的です。<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html" rel="noreferrer noopener" target="_blank">カナダ政府認定の教育機関(DLI)</a>に在学し、Certificate(特定学科修了)、Diploma (複数学科修了)、Bachelor’s Degree (4年制大学卒業)を目的として滞在中の留学生が主な対象となります。同ビザは<a href="https://www.canada.ca/en/employment-social-development/programs/sin/temporary.html" rel="noreferrer noopener" target="_blank">社会保険番号(SIN)</a>の取得が必須となり、在学証明書や6か月以上のカリキュラム受講を証明する書類の提示が求められます。なお、DLIに該当する機関でも、語学学校の短期カリキュラムを専攻している方は対象外となるためご注意ください。<br />同ビザを取得した方は週に最大20時間の勤務が可能で、休講となる夏季や冬季に限り最大40時間の就労が認められます。</p>
 <h3 class="wp-block-heading" id="study4-2">コーププログラムとは(Co-op)</h3>
@@ -126,7 +122,7 @@
 <h3 class="wp-block-heading" id="study4-3">ポスグラビザとは(PGWP：Post-Graduation Work Permit)</h3>
 <p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html" rel="noreferrer noopener" target="_blank">ポスグラビザ(Post-Graduation Work Permit)</a>とは、<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html" rel="noreferrer noopener" target="_blank">カナダ政府認定の教育機関(DLI)</a>を卒業した後に国内での就労が認められる制度です。取得した方は就学した年数と同じ期間有効となる就労ビザが発行されます。対象となる教育機関はカナダ国内の公立大学または公立大学院で、指定のカリキュラムを8～24か月にわたり履修した方に限られます。24か月以上のカリキュラムを履修した方は最長3年間の就労ビザが発行され、カナダ国内で正社員としての就職が認められます。また、同ビザは雇用主や雇用形態が限定されないため、勤務先を自由に選択することもできます。ポスグラビザに年齢制限はありませんが、申請は1度のみと定められています。</p>
 <h2 class="wp-block-heading" id="study5">カナダへの渡航・入国にはeTA(イータ)の事前申請が必要です</h2>
-<p>カナダでの長期滞在を希望する方はビザの取得が必要となりますが、短期留学や観光旅行でカナダへ訪れる場合はeTA(イータ)申請のみで渡航が可能です。eTA(イータ)はカナダ連邦政府およびIRCC(カナダ移民・難民・市民権省)が定める入国制度で、180日以内の滞在を希望する方は事前申請が必須となります。ただし、180日以内の滞在でもカナダ国内で就労を予定している方はeTA(イータ)の対象外となり、ビザの取得が必要となりますのでご注意ください。<br />eTA(イータ)は日本を含むビザ免除対象国の市民に限り申請が可能で、渡航前にオンラインにて取得する必要があります。<br />eTA(イータ)とビザの違いや、カナダビザ申請に関する詳細は「<a href="http://xs640823.xsrv.jp/eta/lengthofstay/index.html">カナダのeTA(イータ)とビザの違いとは</a>」をご確認ください。</p>
+<p>カナダでの長期滞在を希望する方はビザの取得が必要となりますが、短期留学や観光旅行でカナダへ訪れる場合はeTA(イータ)申請のみで渡航が可能です。eTA(イータ)はカナダ連邦政府およびIRCC(カナダ移民・難民・市民権省)が定める入国制度で、180日以内の滞在を希望する方は事前申請が必須となります。ただし、180日以内の滞在でもカナダ国内で就労を予定している方はeTA(イータ)の対象外となり、ビザの取得が必要となりますのでご注意ください。<br />eTA(イータ)は日本を含むビザ免除対象国の市民に限り申請が可能で、渡航前にオンラインにて取得する必要があります。<br />eTA(イータ)とビザの違いや、カナダビザ申請に関する詳細は「<a href="#">カナダのeTA(イータ)とビザの違いとは</a>」をご確認ください。</p>
 <p></p>
 
  </div>
@@ -159,6 +155,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

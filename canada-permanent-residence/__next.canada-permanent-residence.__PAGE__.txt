@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T6324,<div class="page-layout">
+2:T60f3,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダの永住権について</div>
 
@@ -48,9 +48,7 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="永住権" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/f28dae391d47b5b261732a48b15d94e8.webp" type="image/webp" width="640"/><img alt="永住権" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/f28dae391d47b5b261732a48b15d94e8.jpg" width="640"/>
-</picture>
+
 <p>カナダは古くから外国人の受け入れ体制が整備されている国として知られ、現在も移住や永住を目的として国外から多くの市民が訪れます。特にバンクーバーやトロントなどの都市部は多くの移民が居住し、日本からの移住者も多く見受けられます。<br />カナダ政府は毎年30万人以上の外国人にカナダ永住権を発行し、率先して国外からの移民を受け入れています。カナダでの永住権を取得した方は “Permanent Resident” (永住者)として認められ、カナダ市民と同じく就学、就労、居住する権利が与えられます。ただし、永住権を取得した方であっても選挙権は与えられません。また、カナダ国籍のパスポートも取得することができませんが、それ以外はカナダ市民と同様の権利が認められます。カナダの移民制度は公平で透明性があり所定の条件を満たすことで永住が認められるため、他国と比べて永住権が取得しやすい傾向にあります。<br />このページではカナダへの移住や永住権に関する条件等について詳しく解説します。</p>
 <h2 class="wp-block-heading" id="permanent1">カナダの永住権とは</h2>
 <p>カナダでの永住権を取得した方は以下の権利が与えられます。</p>
@@ -120,7 +118,7 @@
 <p><ul><li>カナダ国内外で取得した高校卒業証書または同等の証明書を所持していること。</li><li>有効な労働許可証を所持していること、介護者として規定のスキルを保有していること。</li><li>介護職の実務経験があり、労働許可証の延長または再申請を済ませている方。</li><li>過去4年間のうち2年以上にわたり、カナダ国内で在宅のチャイルドケアワーカーとして常勤経験がある方。</li><li>指定機関による英語またはフランス語の語学テストを受験し、必要な語学力を満たしていると判断された方。(Canadian Language Benchmarkでレベル5以上のスコアを取得していること)</li></ul></p>
 </div>
 <h2 class="wp-block-heading" id="permanent16">カナダへ渡航する際はeTA(イータ)の申請が必要</h2>
-<p>カナダでの長期滞在を希望する方はビザの取得が必要となりますが、短期のビジネスや観光旅行でカナダへ訪れる場合は<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)</a>を申請することで渡航が可能です。eTA(イータ)はカナダ政府およびIRCC(カナダ移民・難民・市民権省)が定める入国制度で、外国籍の渡航者が取得しなければならない渡航認証制度です。日本を含むビザ免除プログラムに該当する国籍の方のみ申請することができ、カナダへ渡航する前にオンラインにて申請する必要があります。<a href="http://xs640823.xsrv.jp/eta/reapplication/index.html">eTA(イータ)の有効期限</a>は5年間となり、取得した方は1回の渡航で最大180日間の滞在が認められます。ただし、180日以内の滞在であってもカナダ国内で就労を予定している方はeTA(イータ)の対象外となり、ビザの申請が必要となりますのでご注意ください。日本国内のカナダビザ申請窓口は「<a href="http://xs640823.xsrv.jp/eta/embassy/index.html">カナダビザ申請センター・カナダ大使館について</a>」のページをご確認ください。</p>
+<p>カナダでの長期滞在を希望する方はビザの取得が必要となりますが、短期のビジネスや観光旅行でカナダへ訪れる場合は<a href="#">eTA(イータ)</a>を申請することで渡航が可能です。eTA(イータ)はカナダ政府およびIRCC(カナダ移民・難民・市民権省)が定める入国制度で、外国籍の渡航者が取得しなければならない渡航認証制度です。日本を含むビザ免除プログラムに該当する国籍の方のみ申請することができ、カナダへ渡航する前にオンラインにて申請する必要があります。<a href="#">eTA(イータ)の有効期限</a>は5年間となり、取得した方は1回の渡航で最大180日間の滞在が認められます。ただし、180日以内の滞在であってもカナダ国内で就労を予定している方はeTA(イータ)の対象外となり、ビザの申請が必要となりますのでご注意ください。日本国内のカナダビザ申請窓口は「<a href="#">カナダビザ申請センター・カナダ大使館について</a>」のページをご確認ください。</p>
 
  </div>
  </article>
@@ -152,6 +150,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

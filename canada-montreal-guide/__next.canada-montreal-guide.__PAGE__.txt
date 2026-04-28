@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T6596,<div class="page-layout">
+2:T5dc8,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ モントリオール観光ガイド &#8220;北米のパリ&#8221; おすすめスポット</div>
 
@@ -57,12 +57,10 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="モントリオール観光ガイド" class="img_big m20-t m20-b lazyloaded" height="425" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/50bdc69d75b2b26fe74a6d8d67fdc43e.webp" type="image/webp" width="640"/><img alt="モントリオール観光ガイド" class="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/50bdc69d75b2b26fe74a6d8d67fdc43e.jpg" width="640"/>
-</picture>
+
 <p>モントリオールはケベック州のセントローレンス川沿いに位置し、アメリカ国境やオンタリオ州との州境に接した北米を代表する都市です。市民の大半がフランス系カナダ人で構成されているため、同地域はカナダで唯一フランス語を第一言語としています。「北米のパリ」と呼ばれるモントリオールはヨーロッパの雰囲気が色濃く漂い、国内外から多くの旅行者が訪れます。このページではモントリオールの魅力と観光スポットについて解説します。</p>
 <h2 class="wp-block-heading" id="montreal1">モントリオールの基本情報</h2>
-<p>モントリオールはケベック州最大の都市で、オンタリオ州のトロントに次ぐカナダ第二の都市です。<br />周辺地域を含むモントリオールの面積は約4,000km2で人口は約400万人。2015年におけるビジネスや文化を対象とした総合的な世界都市ランキングにおいて24位と評価されました。モントリオールは住民の約7割が第一言語をフランス語とし、パリ(フランス)とキンシャサ(コンゴ民主共和国)に次ぐフランス語圏地域です。異国的な雰囲気やヨーロッパ調の街並みなどから「北米のパリ」と呼ばれ、季節を問わず多くの観光客が訪れます。<br />モントリオールを含むケベック州では新型コロナウイルス感染拡大の影響により、入国制限や公衆衛生対策を施行しています。詳細は「<a href="http://xs640823.xsrv.jp/eta/news/detail/990100/quebec.html">モントリオール – ケベック州の新型コロナウイルスと入国制限 最新情報</a>」をご確認ください。</p>
+<p>モントリオールはケベック州最大の都市で、オンタリオ州のトロントに次ぐカナダ第二の都市です。<br />周辺地域を含むモントリオールの面積は約4,000km2で人口は約400万人。2015年におけるビジネスや文化を対象とした総合的な世界都市ランキングにおいて24位と評価されました。モントリオールは住民の約7割が第一言語をフランス語とし、パリ(フランス)とキンシャサ(コンゴ民主共和国)に次ぐフランス語圏地域です。異国的な雰囲気やヨーロッパ調の街並みなどから「北米のパリ」と呼ばれ、季節を問わず多くの観光客が訪れます。<br />モントリオールを含むケベック州では新型コロナウイルス感染拡大の影響により、入国制限や公衆衛生対策を施行しています。詳細は「<a href="#">モントリオール – ケベック州の新型コロナウイルスと入国制限 最新情報</a>」をご確認ください。</p>
 <h2 class="wp-block-heading" id="montreal2">モントリオールのおすすめ観光スポット</h2>
 <h3 class="wp-block-heading" id="montreal2-1">ノートルダム大聖堂</h3>
 <p>ノートルダム大聖堂はモントリオールの旧市街に所在し、世界遺産にも登録されている有名なカトリック教会です。左右非対称の建物はバロック様式の最高傑作と呼ばれ、荘厳な佇まいは当時の雰囲気を現代に伝えています。屋内は色鮮やかなステンドグラスや美しい青色の装飾が施され、祭壇後方の巨大なパイプオルガンは訪れた方を圧倒します。大聖堂で行われるプロジェクションマッピング“AURA”は連日行われ、天井に映し出される美しい映像と壮大な音楽を体感することができます。</p>
@@ -76,9 +74,7 @@
 <h3 class="wp-block-heading" id="montreal2-4">ジャン・タロン・マーケット</h3>
 <p>ジャン・タロン・マーケットは古くから地元市民に親しまれている市場で、カナダの様々な食材が購入できる人気のスポットです。マーケットは屋内外に店舗があり、屋内では主に食品が販売されています。お土産に最適なメープルシロップや紅茶、地元で生産された新鮮な野菜や果物を扱う店舗が並び、連日多くの市民で賑わいを見せています。カフェやフードコートも充実しているため、買い物だけでなくカナダならではの食事も楽しむことができます。</p>
 <p class="Class_J">所在地：7070 Avenue Henri-Julien, Montreal, QC H2S 3S3<br />公式サイト：<a href="https://www.marchespublics-mtl.com/marches/jean-talon/" rel="noreferrer noopener" target="_blank">https://www.marchespublics-mtl.com/marches/jean-talon/</a></p>
-<picture>
-<source alt="モントリオール観光ガイド" class="img_big m20-t m20-b lazyloaded" height="425" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/fdaafe218af941b5cf4ca1533f813147.webp" type="image/webp" width="640"/><img alt="モントリオール観光ガイド" class="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/fdaafe218af941b5cf4ca1533f813147.jpg" width="640"/>
-</picture>
+
 <h3 class="wp-block-heading" id="montreal2-5">聖ジョゼフ礼拝堂</h3>
 <p>聖ジョセフ礼拝堂はモントリオールの最高地点となる標高263mにそびえる礼拝堂で、高さ44mにおよぶ大きなドーム型の建物が特長です。施設からはモントリオールの街が一望でき、世界中から毎年約200万人が訪れる観光名所となっています。聖ジョセフ礼拝堂はモントリオール出身のカトリック修道士アンドレ・ベセット氏に捧げる目的で建立されました。過去には訪れた方に独自の香油を塗布し、病気や怪我が完治したことから「奇跡の館」と呼ばれています。敷地内には博物館があり、アンドレ修道士の貴重な聖遺物や世界中から寄せられた200点以上のキリスト降誕図が展示されています。</p>
 <p class="Class_J">所在地：3800, chemin Queen-Mary Montreal (Quebec) Canada, H3V 1H6<br />公式サイト：<a href="https://www.saint-joseph.org/fr/" rel="noreferrer noopener" target="_blank">https://www.saint-joseph.org/fr/</a></p>
@@ -98,9 +94,7 @@
 <h3 class="wp-block-heading" id="montreal2-10">モントリオール旧港</h3>
 <p>モントリオール旧港はセントローレンス川沿いに広がる港で、モントリオールの歴史を感じることができる観光地です。港の距離は約2kmにわたり、整備された遊歩道を散歩しながら街の風景を眺めることができます。港からは街のシンボルである観覧車やモントリオール万博の会場となったサン・テレーヌ島が一望でき、季節を問わず多くの市民や観光客が訪れます。4つある埠頭のひとつ「ジャック・カルティエ埠頭」はセントローレンス川のボートクルーズ発着場になっているため、特に休日は多くの人で賑わいます。海辺のような大きな川辺には各国のクルーズ船が停泊し、付近には科学博物館や空中アトラクションなど家族で楽しめる施設も用意されています。</p>
 <p class="Class_J">所在地：333 rue de la commune o montreal qc h2y 2e2 canada<br />公式サイト：<a href="https://www.vieuxportdemontreal.com/" rel="noreferrer noopener" target="_blank">https://www.vieuxportdemontreal.com/</a></p>
-<picture>
-<source alt="モントリオール観光ガイド" class="img_big m20-t m20-b lazyloaded" height="425" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/41564e3186227002d550498c53a070e3.webp" type="image/webp" width="640"/><img alt="モントリオール観光ガイド" class="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/41564e3186227002d550498c53a070e3.jpg" width="640"/>
-</picture>
+
 <h3 class="wp-block-heading" id="montreal2-11">モントリオール・バイオドーム</h3>
 <p>オリンピックスタジアムに隣接するモントリオール・バイオドームは、植物園・動物園・水族館が融合した人気の観光スポットです。屋内施設では熱帯地方から北極圏まで様々な気候を体験することができます。園内には熱帯雨林・南北極地圏・カナダ落葉広葉樹林帯・セントローレンス海洋による4つのエリアを展示。なかでも熱帯雨林エリアは世界最大規模の面積を誇り、木の上でくつろぐタマリンや川を泳ぎ回るピラニアなどを観察することができます。</p>
 <p class="Class_J">所在地：4777 Avenue Pierre-De Coubertin, Montreal, QC H1V 1B3<br />入場料：大人 21.50ドル、65歳以上 19.25ドル、学生 15.50ドル、5～17歳 10.75ドル、4歳以下 無料<br />公式サイト：<a href="https://espacepourlavie.ca/en" rel="noreferrer noopener" target="_blank">https://espacepourlavie.ca/en</a></p>
@@ -112,9 +106,7 @@
 <p>大聖堂と塔の内部は約2時間で見学が可能です。宝物庫や地下遺跡も訪れる場合は3時間以上必要となります。</p>
 <h3 class="wp-block-heading" id="montreal4-2">1日目: モントリオール地下街 (2時間)</h3>
 <p>地下街はとても広いため、1日で全ての施設や店舗へ訪れることは困難です。予め購入したい商品や訪問したい場所を決めて効率よく買い物を楽しみましょう。</p>
-<picture>
-<source alt="モントリオール観光ガイド" class="img_big m20-t m20-b lazyloaded" height="425" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/b08adda782dc1794f77c2fc5c44246c6.webp" type="image/webp" width="640"/><img alt="モントリオール観光ガイド" class="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/b08adda782dc1794f77c2fc5c44246c6.jpg" width="640"/>
-</picture>
+
 <h3 class="wp-block-heading" id="montreal4-3">2日目: ジャン・タロン・マーケット (1時間)</h3>
 <p>最寄りのジャンタロン駅から徒歩5分で到着します。レストランやカフェも多くあり、市場を散策しながら地元ならではの昼食を味わうことができます。なお、市場の営業時間は曜日によって変動するため、訪れる前に確認することをお勧めします。</p>
 <h3 class="wp-block-heading" id="montreal4-4">2日目: モン・ロワイヤル公園・聖ジョセフ礼拝堂 (2時間)</h3>
@@ -124,7 +116,7 @@
 <h3 class="wp-block-heading" id="montreal4-6">3日目: オリンピック公園&amp;モントリオール・バイオドーム (3～4時間)</h3>
 <p>旧市街から地下鉄で約15分の場所にあるオリンピック公園は、モントリオール・オリンピックの開催地として有名です。現在は各種競技やアトラクションを行う複合施設として親しまれ、約30分のガイドツアーに参加することで敷地内を見学することができます。モントリオール・バイオドームはオリンピックスタジアムに隣接し、徒歩での移動が可能です。</p>
 <h2 class="wp-block-heading" id="montreal5">カナダ観光をする際に必要な手続き</h2>
-<p>日本国籍の方が空路でカナダへ渡航する際は、年齢を問わず電子渡航認証eTA(イータ)の申請手続きが必須となります。一般的な観光旅行を目的としてカナダへ渡航する場合は、ビザではなくeTA(イータ)を申請することで滞在が認められます。eTA(イータ)を管轄するIRCC(カナダ移民・難民・市民権省)では、少なくとも出発3日前までにオンラインにて申請を行うことを推奨しています。<br />eTA(イータ)に関する詳細は「<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)とは</a>」をご確認ください。</p>
+<p>日本国籍の方が空路でカナダへ渡航する際は、年齢を問わず電子渡航認証eTA(イータ)の申請手続きが必須となります。一般的な観光旅行を目的としてカナダへ渡航する場合は、ビザではなくeTA(イータ)を申請することで滞在が認められます。eTA(イータ)を管轄するIRCC(カナダ移民・難民・市民権省)では、少なくとも出発3日前までにオンラインにて申請を行うことを推奨しています。<br />eTA(イータ)に関する詳細は「<a href="#">eTA(イータ)とは</a>」をご確認ください。</p>
 
  </div>
  </article>
@@ -156,6 +148,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

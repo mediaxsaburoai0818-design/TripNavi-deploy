@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T3d31,<div class="page-layout">
+2:T398b,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ ETAS(イータス)申請が認証拒否された場合</div>
 
@@ -43,12 +43,9 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="ETAS(イータス)申請が認証拒否された場合" class="img_big m20-t m20-b" height="426" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p13_01.webp" type="image/webp" width="640"/>
-<img alt="ETAS(イータス)申請が認証拒否された場合" class="img_big m20-t m20-b" decoding="async" height="426" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p13_01.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="refusal1">ETAS(イータス)認証拒否の理由とは</h2>
-<p>オーストラリア渡航の際必要となる<a class="link-no-color" href="http://xs640823.xsrv.jp/etas/">ETAS(イータス)</a>は、申請から12時間程で認証結果を確認することが可能です。<br />しかし、何らかの理由により申請後に「認証拒否」と判断されてしまうこともございます。その理由として多いものが犯罪歴を問う項目において、間違えて「はい」を選択してしまうケースです。ETAS(イータス)は“過去に刑期12ヵ月を超える有罪判決を受けたことがある方“は認証を拒否される可能性が高くなっております。該当する方はETAS(イータス)ではなくビザの申請を検討することをお勧めします。実際に犯罪歴がなくても誤って「はい」と回答してしまうと“認証拒否”となってしまいます。申請を完了する前に、全ての質問事項欄が「いいえ」であるか必ず確認しましょう。<br />また、パスポートや氏名などの重要項目に入力ミスがある状態でETAS(イータス)申請を行った場合も、認証拒否となる場合があります。ETAS(イータス)を申請する際は全ての項目において間違いがないか、入力後に必ず確認するようにしましょう。特にパスポート番号、氏名、生年月日については正確な入力をお願いします。</p>
+<p>オーストラリア渡航の際必要となる<a class="link-no-color" href="#">ETAS(イータス)</a>は、申請から12時間程で認証結果を確認することが可能です。<br />しかし、何らかの理由により申請後に「認証拒否」と判断されてしまうこともございます。その理由として多いものが犯罪歴を問う項目において、間違えて「はい」を選択してしまうケースです。ETAS(イータス)は“過去に刑期12ヵ月を超える有罪判決を受けたことがある方“は認証を拒否される可能性が高くなっております。該当する方はETAS(イータス)ではなくビザの申請を検討することをお勧めします。実際に犯罪歴がなくても誤って「はい」と回答してしまうと“認証拒否”となってしまいます。申請を完了する前に、全ての質問事項欄が「いいえ」であるか必ず確認しましょう。<br />また、パスポートや氏名などの重要項目に入力ミスがある状態でETAS(イータス)申請を行った場合も、認証拒否となる場合があります。ETAS(イータス)を申請する際は全ての項目において間違いがないか、入力後に必ず確認するようにしましょう。特にパスポート番号、氏名、生年月日については正確な入力をお願いします。</p>
 <h2 class="wp-block-heading" id="refusal2">申請状況の確認</h2>
 <p>ETAS(イータス)申請後、入力した情報が正しいものであるか確認してみましょう。<br />当サイトにて申請いただいた方は、トップページの「申請情報確認」にアクセスいただき申請IDをご入力ください。<br />入力した全ての項目が確認できますので、氏名・パスポート番号等の個人情報や質問事項に誤りがないかご確認をお願いします。<br />なお、オーストラリア政府管轄のETAS(イータス)公式サイトにて申請を行った方は、住所等の詳細項目について追って確認することができません。申請後、全ての項目について確認が出来るのは当サイトにて申請を行った方に限られますのでご了承ください。</p>
 <h2 class="wp-block-heading" id="refusal3">認証拒否となった場合の対処方法</h2>
@@ -76,10 +73,7 @@
 <p>申請後、「ImmAccount」内にてビザ取得のために健康診断が必要であるか否かを確認することができます。<br />申請手続き完了後にステータスを確認しましょう。</p>
 <h3 class="wp-block-heading" id="refusal12">5. ビザ承認結果を確認</h3>
 <p>申し込み内容に問題がなければ申請から3週間前後でビザ発給のメールが届きます。<br />通知内容を確認し、メールに記載された情報を出力して大切に保管することをお勧めします。</p>
-<picture>
-<source alt="安心してオーストラリアへ渡航するために" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p13_02.webp" type="image/webp" width="640"/>
-<img alt="安心してオーストラリアへ渡航するために" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p13_02.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="refusal13">安心してオーストラリアへ渡航するために</h2>
 <p>オーストラリアは移民の割合が多い国です。そのため、他国から訪れる不法滞在者や違法な就労を行う人物を排除することを目的として、入国の際は厳しい審査が行われます。ETAS(イータス)やビザは渡航者がオーストラリアへ危害を加えることのない人物ではないことを証明する重要な渡航認証となり、渡航の際はどちらかの申請が必須となります。<br />ETAS(イータス)の申請に関しまして「何日前に申請を行うべきか？」との質問が寄せられますが、可能であればオーストラリア渡航が確定した時点でETAS(イータス)の申請を行うよう推奨しています。ETAS(イータス)はほとんどの場合12時間以内に結果が通達されますが、システムメンテナンスの影響や認証保留による追加の書類提出などの理由から審査が遅れるケースがあります。渡航日に取得が間に合わない可能性もありますのでETAS(イータス)の申請は遅くともオーストラリア渡航の3日前までに行いましょう。なお、ビザが必要となる場合は多くの提出物や申請情報の入力が必要となり、書類の手配を含めてETAS(イータス)申請よりも大変時間を要します。申請時に入力ミスや回答ミスが生じた場合はETAS(イータス)やビザの取得に大きな影響を与えますので、スケジュールに余裕を持った状態で慎重に申請を行ってください。</p>
 
@@ -113,6 +107,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

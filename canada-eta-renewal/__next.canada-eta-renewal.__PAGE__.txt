@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T49ef,<div class="page-layout">
+2:T4498,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ eTA(イータ)の更新について</div>
 
@@ -46,22 +46,16 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="eTA(イータ)の有効期限とは" class="img_big m20-t m20-b" height="391" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p12_1.webp" type="image/webp" width="640"/>
-<img alt="eTA(イータ)の有効期限とは" class="img_big m20-t m20-b" decoding="async" height="391" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p12_1.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="update1">eTA(イータ)の有効期限とは</h2>
-<p><a class="link-no-color aioseop-link" href="http://xs640823.xsrv.jp/eta/">eTA(イータ)</a>は申請日より5年間またはパスポートの期限(5年未満の場合)まで有効となります。<br />承認後に送付されるメールに有効期限が記載されていますのでご確認ください。<br />有効期限内であればカナダへの複数回の渡航が可能となり、一度に6カ月以内の滞在が許可されます。</p>
+<p><a class="link-no-color aioseop-link" href="#">eTA(イータ)</a>は申請日より5年間またはパスポートの期限(5年未満の場合)まで有効となります。<br />承認後に送付されるメールに有効期限が記載されていますのでご確認ください。<br />有効期限内であればカナダへの複数回の渡航が可能となり、一度に6カ月以内の滞在が許可されます。</p>
 <h2 class="wp-block-heading" id="update2">eTA(イータ)の更新について</h2>
 <p>eTA(イータ)には更新制度がありません。<br />承認されるとeTA番号(eTA number)が発行されますが、新たにeTA(イータ)申請をする際にこの番号が引き継がれることはございません。<br />既存のeTA(イータ)の申請内容(パスポート情報や個人情報など)についても引き継がれることはありませんので、新たに必要事項を全て入力する必要があります。eTA(イータ)の有効期限の延長を希望する場合やパスポートを新たに取得した際は改めてeTA(イータ)申請が必要となります。<br />改めてeTA(イータ)を申請すると新しいeTA(イータ)番号が発行されます。</p>
 <h3 class="wp-block-heading" id="update3">更新(再申請)が必要なケース</h3>
 <div class="Class_AB">
 <ul class="contents-block__ul"><li>有効期限の延長を希望する場合</li><li>新しいパスポートを取得してパスポート番号が変更となった場合</li></ul></div>
 <p> eTA(イータ)の有効期限が切れた方や間近になった方で期限の延長を希望される場合は、新たにeTA(イータ)申請を行いましょう。<br />また、eTA(イータ)はパスポート番号に基づいた認証のため、パスポート番号が変更となったときには新たに申請が必要となります。<br />eTA(イータ)の有効期限内であってもパスポートの紛失、氏名や本籍地の変更などによりパスポートを新たに取得された際は、既存のeTA(イータ)を利用することができなくなりますのでご注意ください。  </p>
-<picture>
-<source alt="パスポートの更新について" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p12_2.webp" type="image/webp" width="640"/>
-<img alt="パスポートの更新について" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p12_2.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="update4">パスポートの更新について</h2>
 <p> eTA(イータ)は申請時のパスポート情報に紐づいて管理されているため、パスポートを更新した際や新たにパスポートを取得された際には再申請が必要となります。 また、カナダ渡航時にはパスポートの残存期限が予定滞在期間プラス1日であることが定められていますので、eTA(イータ)申請を行う際はパスポートの有効期限を事前に確認しておきましょう。 <br />もし渡航中にパスポートの期限が切れてしまうと、現地の日本大使館・領事館にてパスポートの新規発行と帰国のための渡航書の発行手続きを行う必要があります。帰国のための渡航書とは、外国での滞在中にパスポートの失効や紛失、盗難にあった場合など、やむを得ない理由で緊急帰国するための渡航書です。発行には時間を要し、渡航スケジュールにも大きな影響を与えてしまうためパスポートの有効期限には余裕を持って渡航されることをお勧めいたします。 </p>
 <h3 class="wp-block-heading" id="update5">パスポート更新方法</h3>
@@ -123,15 +117,12 @@
 </tbody>
 </table>
 </figure>
-<picture>
-<source alt=" eTA(イータ)申請内容の変更(修正)について " class="img_big m20-t m20-b" height="360" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p12_3.webp" type="image/webp" width="640"/>
-<img alt=" eTA(イータ)申請内容の変更(修正)について " class="img_big m20-t m20-b" decoding="async" height="360" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p12_3.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="update7">eTA(イータ)申請内容の変更(修正)について </h2>
 <h3 class="wp-block-heading" id="update8">パスポート情報の変更(修正)をご希望の方</h3>
 <p>パスポート情報に誤りがあると飛行機に搭乗出来ない恐れがありますので、パスポートに記載されている内容(氏名のスペル、パスポート番号、発行国、生年月日など)の入力ミスがある場合には新たにeTA(イータ)申請手続きが必要となります。 </p>
 <h3 class="wp-block-heading" id="update9">個人情報に変更が生じた場合</h3>
-<p>パスポート情報以外の現在の個人情報(ご自宅の住所や勤務先・学校の情報など)が過去にeTA(イータ)申請をされた時点の内容と異なっていても、再申請の必要はありません。eTA(イータ)を再申請しなくてもカナダへの渡航は認められますが、申請内容の変更を希望される方は新たにeTA(イータ)申請手続きをお願い致します。 <br /><br />なお、当サイトにて申請された方については申請内容の修正を承っております。修正方法については「<a class="aioseop-link" href="http://xs640823.xsrv.jp/eta/howtofix/index.html">eTA(イータ)申請を間違えてしまった場合の対処方法</a>」をご確認ください。 </p>
+<p>パスポート情報以外の現在の個人情報(ご自宅の住所や勤務先・学校の情報など)が過去にeTA(イータ)申請をされた時点の内容と異なっていても、再申請の必要はありません。eTA(イータ)を再申請しなくてもカナダへの渡航は認められますが、申請内容の変更を希望される方は新たにeTA(イータ)申請手続きをお願い致します。 <br /><br />なお、当サイトにて申請された方については申請内容の修正を承っております。修正方法については「<a class="aioseop-link" href="#">eTA(イータ)申請を間違えてしまった場合の対処方法</a>」をご確認ください。 </p>
 <h2 class="wp-block-heading" id="update10">eTA(イータ)認証確認について</h2>
 <p>過去に承認されたeTA(イータ)申請状況は<a href="https://onlineservices-servicesenligne.cic.gc.ca/eta/applicationQuery?lang=en" rel="noreferrer noopener" target="_blank">IRCC(カナダ移民・難民・市民権省)のウェブサイト</a>にて進捗確認が可能です。<br />パスポート情報(パスポート番号、パスポート発行国・地域、パスポート発行日と有効期限)、eTA番号(eTA number)を入力すると申請状況が表示されます。eTA番号は申請後に送付されているメールに記載がありますのでご確認ください。</p>
 <h3 class="wp-block-heading" id="update11">eTA(イータ)申請状況確認方法</h3>
@@ -177,6 +168,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

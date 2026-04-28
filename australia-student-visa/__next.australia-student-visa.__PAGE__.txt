@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4931,<div class="page-layout">
+2:T4647,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 学生ビザとは</div>
 
@@ -54,10 +54,7 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="学生ビザとは" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p15_01.webp" type="image/webp" width="640"/>
-<img alt="学生ビザとは" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p15_01.jpg" width="640"/>
-</picture>
+
 <p>オーストラリアには入国を希望する外国籍の方に様々な種類のビザが制定されており、Subclass(サブクラス)により細かく分類分けされております。観光または短期商用を滞在目的とした90日以内の渡航の場合はSubclass601のETAS(イータス)申請を推奨しています。<br />乗り継ぎの為にオーストラリアへ短時間の入国を希望する渡航者向けのトランジットビザ(Subclass771)、観光・就労・4か月間までの就学ができるワーキングホリデービザ(Subclass417)などが代表的なオーストラリアビザですが、その中でも就学について特化しているのが学生ビザ(Subclass500)です。オーストラリアの学生ビザは留学先の教育機関によりビザが異なりSubclass570～576までに細分化されていましたが、2016年7月1日よりSubclass500に統一されました。 </p>
 <h2 class="wp-block-heading" id="studentvisa1">学生ビザ(Subclass500)</h2>
 <p>学生ビザとは、オーストラリアの教育機関に3か月以上の留学を目的とした場合に必要となるビザです。<br />申請対象となる留学先は大学・語学学校・専門学校・TAFE(Technical and Further Education)などのオーストラリア政府認定校(CRICOS登録校)に限られます。TAFE(Technical and Further Education)とは、州立の職業訓練学校のことを言います。<br />オーストラリア国内には100以上のTAFEがあり、様々な職業に関する専門的な知識や技術を学ぶことができます。なお、オーストラリアの学生ビザは留学中にオーストラリア国内での就労が許可されており、それと合わせて扶養家族の同行と就労が認められています。 </p>
@@ -81,10 +78,7 @@
 <p>申請時に日本とオーストラリアのどちらに滞在しているかによって申請可能な時期が異なりますのでご注意ください。  </p>
 <ul class="wp-block-list"><li><strong>日本にいる場合は、コースが開始される4ヵ月前から申請可能</strong></li><li><strong>オーストラリアにいる場合は、コースが開始される3ヵ月前から申請可能</strong></li></ul>
 <p>オーストラリア内務省では遅くともコースが始まる6週間前のビザ申請を推奨しております。 提出書類は全て英語で準備する必要がありますので、書類手配の時間を含め留学が確定した際は早めにビザ申請手続きに取り掛かると良いでしょう。申請内容に誤りがあった場合や、留学先の教育機関、移民局などの都合によりビザ取得までに長時間を要することもありますので、期間に余裕をもって申請を行うようにしましょう。 </p>
-<picture>
-<source alt="申請方法 " class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p15_02.webp" type="image/webp" width="640"/>
-<img alt="申請方法 " class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p15_02.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="studentvisa8">申請方法 </h2>
 <p>オーストラリア政府移民局・市民権省のウェブサイトよりオンラインで申請することができます。<br />すべて英文での質問、回答となりますので間違えないように注意しましょう。</p>
 <h3 class="wp-block-heading" id="studentvisa9">学生ビザ（Subclass500）申請ページ</h3>
@@ -148,6 +142,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T3c88,<div class="page-layout">
+2:T38f0,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 未成年のオーストラリア渡航について</div>
 
@@ -46,12 +46,9 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="未成年のオーストラリア渡航について" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p12_01.webp" type="image/webp" width="640"/>
-<img alt="未成年のオーストラリア渡航について" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p12_01.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="minority1">ETAS(イータス)申請の対象者とは</h2>
-<p>ビザを取得せずにオーストラリアへ観光や短期商用で訪れる場合、渡航者は<a class="link-no-color aioseop-link" href="http://xs640823.xsrv.jp/etas/">ETAS(イータス)</a>を取得しなければなりません。申請対象者は現在オーストラリア国外に滞在している下記の国籍をお持ちの方のみとなり、ETAS(イータス)を取得すると一度のオーストラリア渡航につき3か月以内の滞在が可能となります。 </p>
+<p>ビザを取得せずにオーストラリアへ観光や短期商用で訪れる場合、渡航者は<a class="link-no-color aioseop-link" href="#">ETAS(イータス)</a>を取得しなければなりません。申請対象者は現在オーストラリア国外に滞在している下記の国籍をお持ちの方のみとなり、ETAS(イータス)を取得すると一度のオーストラリア渡航につき3か月以内の滞在が可能となります。 </p>
 <h3 class="wp-block-heading" id="minority2">ETAS(イータス)申請対象国</h3>
 <div class="Class_AB">
 <p>日本、韓国、香港、アメリカ合衆国、カナダ、シンガポール、マレーシア、ブルネイ、アンドラ、オーストリア、ベルギー、ドイツ、デンマーク、フィンランド、フランス、ギリシャ、アイスランド、アイルランド、イタリア、リヒテンシュタイン、ルクセンブルク、マルタ、モナコ、ノルウェー、ポルトガル、サンマリノ共和国、スペイン、スウェーデン、スイス、台湾、オランダ、イギリス、バチカン市国<br /><br />ただし、オンラインによるETAS(イータス)申請が認められているのは以下の8か国に限定されています。<br />日本、韓国、香港、アメリカ合衆国、カナダ、シンガポール、マレーシア、ブルネイ</p></div>
@@ -85,10 +82,7 @@
 <p>上記の国以外にも18歳未満の未成年者が入国を行う場合、渡航同意書の持参を勧める国は数多く存在します。<br />国によっては追加で提出する書類が異なりますので、渡航前に大使館公式サイト等で確認を行いましょう。<br />渡航同意書に関しては大使館公式サイトにてサンプルが公開されている場合もありますが、規定の形式を設けていない国もあります。<br />その場合は自身で手配する必要がありますので、下記の情報を含む同意書を英文で作成してください。</p>
 <h3 class="wp-block-heading" id="minority13">渡航同意書 記載事項</h3>
 <figure class="wp-block-table"><table><tbody><tr><td>渡航者情報 </td><td>名前、パスポート番号、入国/出国日、渡航先、渡航目的 </td></tr><tr><td>同行者情報 </td><td>名前、渡航者との続柄、パスポート番号、住所、電話番号、生年月日 </td></tr><tr><td>滞在先情報</td><td>滞在先名(宿泊するホテル等)、滞在先住所、滞在先電話番号 </td></tr><tr><td>両親の署名</td><td>両親の名前、連絡先、サイン、記入日 </td></tr></tbody></table></figure>
-<picture>
-<source alt=" 未成年が安全な海外渡航を行うために " class="img_big m20-t m20-b" height="426" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p12_02.webp" type="image/webp" width="640"/>
-<img alt=" 未成年が安全な海外渡航を行うために " class="img_big m20-t m20-b" decoding="async" height="426" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p12_02.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="minority14">未成年が安全な海外渡航を行うために</h2>
 <p> 海外渡航を18歳未満の未成年者が行うにあたり、渡航者の安全を確保するため世界各国で厳重な入国審査が行われています。必ずしも渡航同意書は提示を要求されるとは限りませんが、入国審査官に求められた場合に掲示できなければ、渡航者の身柄や安全を確認するまで審査に長時間を要することがあり、現地で入国拒否と判断されてしまうケースもあります。<br />同意書は未成年者による単独渡航時のみならず、片方の親が同行される渡航に関しても書類を要求する国も存在しますので、問題なく入国審査を終えるためにも同意書の有無は事前に必ず確認しておきましょう。訪問する国によっては公証役場での認証を得た書類を併せて提示する場合もあり、書類の中には手配に時間がかかるものもございます。<br />渡航までに余裕を持って渡航同意書の準備を行いましょう。 </p>
 
@@ -122,6 +116,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

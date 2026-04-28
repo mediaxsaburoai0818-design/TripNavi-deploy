@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T437d,<div class="page-layout">
+2:T3fdd,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ アジア諸国を経由してオーストラリア渡航をする方へ</div>
 
@@ -40,10 +40,7 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="人気の国々を経由してのオーストラリア渡航" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p08_01.webp" type="image/webp" width="640"/>
-<img alt="人気の国々を経由してのオーストラリア渡航" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p08_01.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="viaasia1">人気の国々を経由してのオーストラリア渡航</h2>
 <p>成田国際空港と関西国際空港から発着しているオーストラリアへの直行便は約9時間半となっており、季節を問わず多くの利用者がいます。<br />フライト時間が長いことから2国間に位置しているアジア諸国を経由して渡航するルートも多く利用されております。<br />このページではオーストラリアへ渡航する際の代表的なルートをご紹介します。</p>
 <p>経由地で乗り継ぐには以下の3つの方法があります。</p>
@@ -296,12 +293,9 @@
 <p></p>
 <div class="Class_AB">
 <a href="https://www.anzen.mofa.go.jp/info/pcsafetymeasure_075.html" target="_blank">パプアニューギニア査証、出入国審査について(外務省公式サイト)</a></div>
-<picture>
-<source alt="オーストラリア渡航にビザは必要？" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p08_02.webp" type="image/webp" width="640"/>
-<img alt="オーストラリア渡航にビザは必要？" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p08_02.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="viaasia8">オーストラリア渡航にビザは必要？</h2>
-<p>他国籍者がオーストラリアに入国する場合はビザを取得する必要があります。<br />オーストラリアにはサブクラスにより細かく分類分けされた訪問者ビザ(サブクラス600)や一時就労ビザ(サブクラス400)、学生ビザ(サブクラス500)など多種類のビザが制定されていますが、日本を含む<a class="aioseop-link link-no-color" href="http://xs640823.xsrv.jp/etas/">ETAS(イータス)</a>申請対象国の国籍者は90日以内の観光や短期商用を目的とした渡航の場合、ウェブ上で取得手続きが可能な電子渡航認証システムのETAS(イータス)申請を取得して渡航することが許可されております。</p>
+<p>他国籍者がオーストラリアに入国する場合はビザを取得する必要があります。<br />オーストラリアにはサブクラスにより細かく分類分けされた訪問者ビザ(サブクラス600)や一時就労ビザ(サブクラス400)、学生ビザ(サブクラス500)など多種類のビザが制定されていますが、日本を含む<a class="aioseop-link link-no-color" href="#">ETAS(イータス)</a>申請対象国の国籍者は90日以内の観光や短期商用を目的とした渡航の場合、ウェブ上で取得手続きが可能な電子渡航認証システムのETAS(イータス)申請を取得して渡航することが許可されております。</p>
 <h2 class="wp-block-heading" id="viaasia9">ETAS(イータス)申請とは</h2>
 <p>ETAS(イータス)申請は “ELECTRIC TRAVEL AUTHORITY SYSTEM”の略称でサブクラス601に分類されるオーストラリアの電子渡航認証システムです。ETAS(イータス)申請対象国の国籍を有している渡航者はETAS(イータス)申請を取得するとビザを取得せずにオーストラリアに渡航することが許可されています。ETAS(イータス)申請を利用して渡航する場合は事前にウェブ上で申請し取得しておく必要があります。<br />認証審査は時間を要する場合がありますのでオーストラリア渡航の予定がある渡航者は早めに申請手続きを始めることが推奨されています。</p>
 <p>ETAS(イータス)申請は以下の条件を満たした場合に申請することができます。</p>
@@ -343,6 +337,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

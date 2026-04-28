@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T73b6,<div class="page-layout">
+2:T6eda,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オーストラリア「パース」で人気の観光スポットを紹介</div>
 
@@ -53,10 +53,8 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="オーストラリア「パース」で人気の観光スポットを紹介" class="img_big m20-t m20-b lazyloaded" height="428" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/acf354261f498d49a2ff5aa1188c9f59.webp" type="image/webp" width="640"/><img alt="オーストラリア「パース」で人気の観光スポットを紹介" class="img_big m20-t m20-b" decoding="async" height="428" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/acf354261f498d49a2ff5aa1188c9f59.jpg" width="640"/>
-</picture>
-<p>オーストラリアの西海岸に位置する<a href="http://xs640823.xsrv.jp/etas/news/detail/perth.html">パース</a>は、約200万人の市民が居住する西オーストラリア州の州都です。自然環境と近代的な建物が調和し、オーストラリア国内で最も晴天の多い地域としても知られています。パースは地中海性気候に属し、一年を通して過ごしやすく観光旅行に適した街です。西オーストラリアの固有種であるワイルドフラワーが見頃となる春(9～11月)や、マリンスポーツを楽しむことができる夏(12～2月)には特に多くの観光客が訪れます。<br />このページではオーストラリアの人気観光地であるパースについて詳しく解説します。</p>
+
+<p>オーストラリアの西海岸に位置する<a href="#">パース</a>は、約200万人の市民が居住する西オーストラリア州の州都です。自然環境と近代的な建物が調和し、オーストラリア国内で最も晴天の多い地域としても知られています。パースは地中海性気候に属し、一年を通して過ごしやすく観光旅行に適した街です。西オーストラリアの固有種であるワイルドフラワーが見頃となる春(9～11月)や、マリンスポーツを楽しむことができる夏(12～2月)には特に多くの観光客が訪れます。<br />このページではオーストラリアの人気観光地であるパースについて詳しく解説します。</p>
 <h2 class="wp-block-heading" id="perth1">オーストラリアの観光地「パース」の魅力</h2>
 <h3 class="wp-block-heading" id="perth2">一年中湿気が少なく過ごしやすい</h3>
 <p>西オーストラリア州の州都パースはオーストラリアで最も晴天が多い都市です。パースは温暖な地中海性気候に属し、春夏秋冬は以下のように区分されます。</p>
@@ -83,7 +81,7 @@
 <h3 class="wp-block-heading" id="perth11">フリーマントル・マーケット / Fremantle Markets</h3>
 <p>19世紀に建てられたコロニアル調の美しい建物が並ぶ<a href="https://www.australia.com/ja-jp/places/perth-and-surrounds/guide-to-fremantle.html" rel="noreferrer noopener" target="_blank">フリーマントル</a>は、パースから電車やバスで気軽に足を延ばせる人気の日帰り観光地です。毎週金曜日から日曜日には<a href="https://www.fremantlemarkets.com.au/" rel="noreferrer noopener" target="_blank">フリーマントル・マーケット</a>と呼ばれる青空市が開催され、古くから市民や観光客に親しまれています。通称「カプチーノ通り」にはレトロな建物の前にテラス席が並び、散策の休憩ポイントとして最適です。港町であるフリーマントルには海沿いに様々なレストランが立ち並びます。フィッシング・ボート・ハーバーでは美しい海を眺めながら地元のシーフード料理を味わうことができ、フィッシュ＆チップスやインド洋で獲れた新鮮な魚介類が人気です。<br />フリーマントルへのアクセスは、パース市街から車またはバスで約30分となります。</p>
 <h3 class="wp-block-heading" id="perth12">西オーストラリア州立美術館 / Art Gallery of Western</h3>
-<p>1895年に建てられた<a href="https://artgallery.wa.gov.au/" rel="noreferrer noopener" target="_blank">西オーストラリア州立美術館</a>は、オーストラリアを代表する歴史的な施設として市民や観光客に親しまれています。館内には多岐にわたる貴重な美術品が展示され、19世紀の巨匠や<a href="http://xs640823.xsrv.jp/etas/indigenouspeople/index.html">先住民</a>の芸術家、ヨーロッパからの移民や近代画家による見事な芸術作品を見ることができます。特に環インド洋地域の美術品が多く、インド洋に面した西オーストラリア州が古くから緊密に携わっていたことが展示作品からもうかがえます。本館には隕石や<a href="http://xs640823.xsrv.jp/etas/indigenouspeople/index.html">アボリジニ</a>美術等が展示され、博物館のジュビリー棟には蝶・動物・恐竜の化石や標本などが展示されています。また、中庭にある旧刑務所内には開拓時代の品々が収蔵されています。<br />西オーストラリア州立美術館はパースカルチャーセンター内にあり、開園時間は午前10時から午後5時までとなります。</p>
+<p>1895年に建てられた<a href="https://artgallery.wa.gov.au/" rel="noreferrer noopener" target="_blank">西オーストラリア州立美術館</a>は、オーストラリアを代表する歴史的な施設として市民や観光客に親しまれています。館内には多岐にわたる貴重な美術品が展示され、19世紀の巨匠や<a href="#">先住民</a>の芸術家、ヨーロッパからの移民や近代画家による見事な芸術作品を見ることができます。特に環インド洋地域の美術品が多く、インド洋に面した西オーストラリア州が古くから緊密に携わっていたことが展示作品からもうかがえます。本館には隕石や<a href="#">アボリジニ</a>美術等が展示され、博物館のジュビリー棟には蝶・動物・恐竜の化石や標本などが展示されています。また、中庭にある旧刑務所内には開拓時代の品々が収蔵されています。<br />西オーストラリア州立美術館はパースカルチャーセンター内にあり、開園時間は午前10時から午後5時までとなります。</p>
 <div class="Class_J"><strong>住所：Perth Cultural Centre, Perth WA 6000</strong></div>
 <h3 class="wp-block-heading" id="perth13">ピナクルズ(ナンバン国立公園) / pinnacles(Nambung National Park)</h3>
 <p>西オーストラリア州ウィートベルト地域にある<a href="https://parks.dpaw.wa.gov.au/park/nambung" rel="noreferrer noopener" target="_blank">ナンバン国立公園</a>には「ピナクルズ」と呼ばれる奇石群があります。ピナクルズは別名「荒野の墓標」とも呼ばれ、その不思議な風景を一目見ようと各国から多くの観光客が訪れる人気の撮影スポットです。砂漠のなかにたたずむ岩の大群は長い年月の風化により、どれも個性的な表情を見せています。<br />ピナクルズがあるナンバン国立公園はパースから北西200kmに位置し、市街地からは車で約3時間となります。公園内には全長4kmのピナクルズ・ループと呼ばれる周回コースがあり、車または徒歩で巡ることができます。</p>
@@ -93,10 +91,7 @@
 <div class="Class_J"><strong>住所：The Esplanade, Perth WA 6000</strong></div>
 <h3 class="wp-block-heading" id="perth15">コテスロー・ビーチ / Cottesloe Beach</h3>
 <p>パースと<a href="https://www.australia.com/ja-jp/places/perth-and-surrounds/guide-to-fremantle.html" rel="noreferrer noopener" target="_blank">フリーマントル</a>の中間に位置する<a href="https://www.australia.com/ja-jp/places/perth-and-surrounds/guide-to-cottesloe-beach.html" rel="noreferrer noopener" target="_blank">コテスロー・ビーチ</a>は、パース近郊で最もマリンスポーツが盛んな地域です。1kmも続く白い砂浜ではシュノーケリングやサーフィンなどを楽しむことができ、何世代にもわたり地元市民から親しまれてきました。毎年3月に行われる「<a href="https://sculpturebythesea.com/cottesloe/" rel="noreferrer noopener" target="_blank">スカルプチャー・バイ・ザ・シー</a>」ではビーチが野外アートギャラリーとなり、多くの観光客やアーティストが訪れます。ビーチの周辺にはカフェやレストランがあり、食事を楽しみながらインド洋に沈む夕日を眺めることもできます。<br />コテスロー・ビーチへのアクセスは、パース市街地から車で約30分。パース市内のエリザベス・キーからは路線バスでのアクセスも可能です。</p>
-<picture>
-<source alt="コテスロー・ビーチ / Cottesloe Beach" class="img_big m20-t m20-b" height="428" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/69925579163eabe2de0a53284bfbbe2c.webp" type="image/webp" width="640"/>
-<img alt="コテスロー・ビーチ / Cottesloe Beach" class="img_big m20-t m20-b" decoding="async" height="428" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/69925579163eabe2de0a53284bfbbe2c.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="perth16">パースでおすすめの料理</h2>
 <p>「世界一美しい都市」と呼ばれるパースは、素晴らしい料理が堪能できる街としても知られています。<br />インド洋に面したパースは魚介類が豊富に収穫できるため、街の至る場所で新鮮なシーフード料理を味わうことができます。なかでも“スナッパー”と呼ばれる白身魚を使った料理が人気で、淡泊な味わいと歯触りの良さからフィッシュアンドチップスの食材として古くから親しまれています。スナッパーはパースでは非常にポピュラーな魚で真鯛と似ている白身魚です。クセのない食感で、パース市内の一般的なレストランで気軽に味わうことができます。また、パースでは貝を使った料理も大変人気があります。なかでも新鮮な貝料理を提供するオイスターバーでは地元で獲れた牡蠣をはじめ、パース名物の“シーフードチャウダー”を味わうことができます。もうひとつのパース名物である“チリマッスル”はピリ辛のトマトソースでムール貝を煮込んだ伝統的な家庭料理で、多くの市民から親しまれるパースを代表するひと品です。<br />パース近郊の港町である<a href="https://www.australia.com/ja-jp/places/perth-and-surrounds/guide-to-fremantle.html" rel="noreferrer noopener" target="_blank">フリーマントル</a>には数多くのシーフード料理店が並びます。パースへ旅行した際はフリーマントルまで足を延ばし、趣向を凝らしたチリマッスルやシーフードチャウダーを味わってみてはいかがでしょうか。</p>
 <h2 class="wp-block-heading" id="perth17">パースへ旅行する際の予算</h2>
@@ -111,7 +106,7 @@
 <div class="Class_J"><ul><li>保湿化粧水、保湿クリームなど</li><li>厚手の長袖</li><li>着脱が便利なナイロン製の衣服</li></ul></div>
 <p>上記のほか、クレジットカードやスマートフォン、オーストラリアドルに換金した現金などを忘れずにご用意ください。パースは降水量が非常に少ない地域のため、季節を問わず空気が乾燥しています。乾燥対策として、保湿化粧水や保湿クリームを用意しましょう。<br />なお、パースを含めてオーストラリアはエコに対する意識がとても高い国です。買い物をする際はエコバッグを用意することをお勧めします。</p>
 <h2 class="wp-block-heading" id="perth21">オーストラリア旅行にはETAS(イータス)の申請が必要</h2>
-<p>日本国籍の方が90日以内の観光旅行を目的としてオーストラリアへ渡航する場合は、ビザではなく電子渡航認証ETAS(イータス)の申請が必須となります。ETAS(イータス)はオーストラリア政府移民局が管轄する制度で、少なくとも出発3日前までに申請を行うことを推奨しています。<br />ETAS(イータス)の申請はオンラインで行い、申請が承認された方は「渡航認証許可」の通知が届きますETAS(イータス)による渡航認証許可を取得していない方は旅客機への搭乗が拒否されますので、オーストラリアへ渡航する前に必ず申請をお願いします。<br />ETAS(イータス)に関する詳細は「<a href="http://xs640823.xsrv.jp/etas/service/index.html">オーストラリア観光ビザのETAS(イータス)とは</a>」をご確認ください。</p>
+<p>日本国籍の方が90日以内の観光旅行を目的としてオーストラリアへ渡航する場合は、ビザではなく電子渡航認証ETAS(イータス)の申請が必須となります。ETAS(イータス)はオーストラリア政府移民局が管轄する制度で、少なくとも出発3日前までに申請を行うことを推奨しています。<br />ETAS(イータス)の申請はオンラインで行い、申請が承認された方は「渡航認証許可」の通知が届きますETAS(イータス)による渡航認証許可を取得していない方は旅客機への搭乗が拒否されますので、オーストラリアへ渡航する前に必ず申請をお願いします。<br />ETAS(イータス)に関する詳細は「<a href="#">オーストラリア観光ビザのETAS(イータス)とは</a>」をご確認ください。</p>
 
  </div>
  </article>
@@ -143,6 +138,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

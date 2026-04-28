@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T325a,<div class="page-layout">
+2:T2ea3,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ ETAS(イータス)更新方法について</div>
 
@@ -41,20 +41,14 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="ETAS(イータス)更新方法について" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p11_01.webp" type="image/webp" width="640"/>
-<img alt="ETAS(イータス)更新方法について" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p11_01.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="update1">ETAS(イータス)の有効期限を延長するには</h2>
-<p><a class="link-no-color aioseop-link" href="http://xs640823.xsrv.jp/etas/">ETAS(イータス)</a>には期限を更新(延長)する制度はございません。<br />過去に取得したETAS(イータス)の有効期限が間近に迫っている、あるいは既に期限が切れてしまった等の理由で期限の延長をご希望の場合には、改めてETAS(イータス)申請が必要となります。<br />なお、ETAS(イータス)は入国時に有効であれば問題ありませんので、滞在中に期限が切れてしまう場合においては再申請の必要はございません。</p>
+<p><a class="link-no-color aioseop-link" href="#">ETAS(イータス)</a>には期限を更新(延長)する制度はございません。<br />過去に取得したETAS(イータス)の有効期限が間近に迫っている、あるいは既に期限が切れてしまった等の理由で期限の延長をご希望の場合には、改めてETAS(イータス)申請が必要となります。<br />なお、ETAS(イータス)は入国時に有効であれば問題ありませんので、滞在中に期限が切れてしまう場合においては再申請の必要はございません。</p>
 <h3 class="wp-block-heading" id="update2">ETAS(イータス)の有効期限について</h3>
 <p>付与日から12ケ月間またはパスポートの有効期限まで(1年未満の場合)有効となります。<br />有効期間中は観光・商用であれば何度でも3ケ月以内の滞在が可能となっています。</p>
 <p><a href="https://www.eta.homeaffairs.gov.au/ETAS3/etasp" rel="noreferrer noopener" target="_blank">オーストラリア政府移民局ETA確認ページ</a>の「Check an ETA」にて、 国籍、パスポート番号、生年月日、参照番号(Reference Number)を入力後、「次へ」をクリックすると照会が可能です。参照番号(Reference Number)は申請時に送付されるメールに記載がありますのでご確認ください。過去にオーストラリア政府移民局の申請サイトにて申請されたETAS(イータス)の有効期限等の情報も同ウェブページより確認が可能です。</p>
-<p>また、オーストラリア政府移民局の申請サイトではなく代理店等を経由して申請された方は<a href="https://immi.homeaffairs.gov.au/visas/already-have-a-visa/check-visa-details-and-conditions/overview" rel="noreferrer noopener" target="_blank">VEVO(Visa Entitlement Verification Online)システム</a>より確認が可能となっています。<br />ETAS(イータス)申請の認証確認方法について詳しくは「<a class="aioseop-link" href="http://xs640823.xsrv.jp/etas/operationerror/index.html">ETAS(イータス)申請の認証情報が確認できない場合</a>」にてご確認ください。 </p>
-<picture>
-<source alt="新しいパスポートを取得したときには" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p11_02.webp" type="image/webp" width="640"/>
-<img alt="新しいパスポートを取得したときには" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p11_02.jpg" width="640"/>
-</picture>
+<p>また、オーストラリア政府移民局の申請サイトではなく代理店等を経由して申請された方は<a href="https://immi.homeaffairs.gov.au/visas/already-have-a-visa/check-visa-details-and-conditions/overview" rel="noreferrer noopener" target="_blank">VEVO(Visa Entitlement Verification Online)システム</a>より確認が可能となっています。<br />ETAS(イータス)申請の認証確認方法について詳しくは「<a class="aioseop-link" href="#">ETAS(イータス)申請の認証情報が確認できない場合</a>」にてご確認ください。 </p>
+
 <h2 class="wp-block-heading" id="update3">新しいパスポートを取得したときには</h2>
 <p>新しいパスポートを取得した場合には、ETAS(イータス)についても新たに申請手続きが必要となります。<br />ETAS(イータス)はパスポート番号に紐づいた認証であるため、 ETAS(イータス) 申請の有効期限が十分に残っていたとしても新しいパスポート番号では利用することができなくなります。パスポート更新後にオーストラリアへの渡航の予定がある方は改めてETAS(イータス)申請手続きを行ってください。</p>
 <h3 class="wp-block-heading" id="update4">パスポートの更新について</h3>
@@ -208,6 +202,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

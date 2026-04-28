@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T6cea,<div class="page-layout">
+2:T5e46,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オーストラリア・パースの港町“フリーマントル”の歴史・文化と観光スポット</div>
 
@@ -43,10 +43,8 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="フリーマントルfremantle" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/fe243ccefbe96d5915b43d83cbb04f7b.webp" type="image/webp" width="640"/><img alt="フリーマントルfremantle" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/fe243ccefbe96d5915b43d83cbb04f7b.jpg" width="640"/>
-</picture>
-<p>フリーマントルはオーストラリア大陸西部に広がるインド洋に面した港湾都市です。<a href="http://xs640823.xsrv.jp/etas/news/detail/perth.html">西オーストラリア州</a>最大の都市パースから電車で約25分の距離にある、スワン川の河口に位置します。都心部からのアクセスが良いことから、新鮮な海産物を求めて料理人や観光客が訪れる観光都市としても知られます。このページではパースの外港として栄える”フリーマントル”について紹介します。</p>
+
+<p>フリーマントルはオーストラリア大陸西部に広がるインド洋に面した港湾都市です。<a href="#">西オーストラリア州</a>最大の都市パースから電車で約25分の距離にある、スワン川の河口に位置します。都心部からのアクセスが良いことから、新鮮な海産物を求めて料理人や観光客が訪れる観光都市としても知られます。このページではパースの外港として栄える”フリーマントル”について紹介します。</p>
 <h2 class="wp-block-heading" id="fremantle1">フリーマントルとは</h2>
 <p>西オーストラリア州南西部の海岸沿いに広がる港湾都市“<a href="https://www.visitfremantle.com.au/" rel="noreferrer noopener" target="_blank">フリーマントル</a>”は地中海性気候に属し、1年を通し漁業が盛んです。夏から初秋にかけて晴天が続き、冬となる5～8月に雨が多く降り年間降雨量の約7割が集中します。フリーマントルは1829年より開始された英国による”スワン川植民地化計画”の建設起点地となり、州都パースの設立にも貢献しました。地名は最初に入植した英国海軍の先遣隊リーダー、チャールズ・フリーマントルから名付けられ、現在ではパースの外港として西オーストラリア州最大の港湾施設を有します。南極へ向かう各国の南極観測船が寄港する拠点として知られますが、「世界で最も19世紀の面影がある港町」として入植時代の街並みが多く残る人気の観光都市です。<a href="http://www.environment.gov.au/cgi-bin/ahdb/search.pl?mode=place_detail;search=keyword%3DFremantle%2520railway%2520station%3Bkeyword_PD%3Don%3Bkeyword_SS%3Don%3Bkeyword_PH%3Don%3Blatitude_1dir%3DS%3Blongitude_1dir%3DE%3Blongitude_2dir%3DE%3Blatitude_2dir%3DS%3Bin_region%3Dpart;place_id=10471" rel="noreferrer noopener" target="_blank">フリーマントル駅</a>の駅舎は<a href="https://jp.visitmelbourne.com/regions/melbourne/things-to-do/history-and-heritage/heritage-buildings/vv-flinders-street-station" rel="noreferrer noopener" target="_blank">メルボルンのフリンダースストリート駅舎</a>と同じフェデレーションフリークラシック様式の建物で、西オーストラリア州遺産に登録されています。</p>
 <h2 class="wp-block-heading" id="fremantle2">フリーマントルへのアクセス</h2>
@@ -59,46 +57,32 @@
 <h4>フェリーでの行き方</h4>
 <p><strong>所要時間：約60分</strong><br />パースの<a href="https://elizabethquay.com.au/eq/see-do/attraction/barrack-street-jetty" rel="noreferrer noopener" target="_blank">バラックストリート桟橋</a>にあるフェリー乗り場から乗船し、スワン川を下ってフリーマントルに向かいます。スワン川は波が穏やかで、景色を眺めながらゆっくりとクルージングを楽しむことができます。フリーマントルの市内中心部に近いフェリーターミナルで下船すれば、<a href="https://www.fremantlemarkets.com.au/JP/" rel="noreferrer noopener" target="_blank">フリーマントルマーケット</a>まで徒歩15分、<a href="https://www.fremantlefishingboatharbour.com/" rel="noreferrer noopener" target="_blank">フィッシングボートハーバー</a>まで徒歩12分、<a href="https://fremantleprison.com.au/" rel="noreferrer noopener" target="_blank">フリーマントル刑務所跡</a>まで徒歩24分となります。</p>
 </div>
-<picture>
-<source alt="マーケット" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/725029797df6f98012579ec29066e86c.webp" type="image/webp" width="640"/><img alt="マーケット" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/725029797df6f98012579ec29066e86c.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="fremantle3">歴史・文化が堪能できるフリーマントルでおすすめの観光スポット</h2>
 <h3 class="wp-block-heading" id="fremantle3-1">フリーマントルマーケット / Fremantle Markets</h3>
 <p>フリーマントルマーケットは1897年の設立から120年続く歴史ある市場です。ビクトリア朝の建物は当時のまま使われ、古い石畳の路地には150店を超える新鮮な地場産食材を取り扱う露店やハンドクラフトショップなどが並びます。フードコートには焼き立てのバーベキューコーンやゴズレム(トルコ風クレープ)、パエリヤなどの屋台があり、ランチタイムには多くの人で混み合います。サウス・テラス側の入口ではダンスや手品などのショーが披露され、のんびりと週末を過ごす市民の憩いの場となっています。毎週金曜・土曜・日曜のみ開場し夕方には閉店となるため、訪れる際は早めに計画を立てましょう。</p>
 <div class="Class_J"><strong>所在地：</strong>Corner South Terrace ＆ Henderson Street, Fremantle, WA 6959<br /><strong>営業時間：</strong>金 8:00～20:00、土・日 8:00～18:00<br /><strong>公式サイト：</strong><a href="https://www.fremantlemarkets.com.au/JP/" rel="noreferrer noopener" target="_blank">Fremantle Markets</a></div>
-<picture>
-<source alt="刑務所" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/82b100b836ec89deb15b079dc7cd0fec.webp" type="image/webp" width="640"/><img alt="刑務所" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/82b100b836ec89deb15b079dc7cd0fec.jpg" width="640"/>
-</picture>
+
 <h3 class="wp-block-heading" id="fremantle3-2">フリーマントル刑務所跡 / Fremantle Prison</h3>
 <p>フリーマントル刑務所は1850年代の英国入植時代に囚人の手によって建てられ、暴動による火災で一部が焼失した1991年まで使用されました。2005年に「オーストラリアの囚人遺跡群」のひとつとしてオーストラリア国家遺産に認定され、2010年にはユネスコ世界遺産に登録されました。現在は史跡として公開され、フリーマントルを代表する観光スポットとなっています。エントランスとなるゲートハウスには絞首台や先住民囚人が描いた壁画の展示、刑務所をモチーフとしたカフェがあります。また、懐中電灯を持ち夜の刑務所を巡る<a href="https://fremantleprison.com.au/tours/torchlight-tour/" rel="noreferrer noopener" target="_blank">トーチライト・ツアー(Torchlight Tour)</a>や刑務所の地下20mにあるトンネルをヘッドライトの明かりを頼りに探検する<a href="https://fremantleprison.com.au/tours/tunnels-tour/" rel="noreferrer noopener" target="_blank">トンネル・ツアー(Tunnels Tour)</a>など、バラエティーに富んだ5種類のガイド付きツアーが催行されています。ガイドツアーには日本語による音声ガイドの無料レンタルがあるため、英語が苦手な方も気軽に参加できます。</p>
 <div class="Class_J"><strong>所在地：</strong>1 The Terrace, Fremantle, WA 6160<br /><strong>開館日：</strong>9:00～17:00 (全日)　※グッドフライデーとクリスマスデーは休館<br /><strong>公式サイト：</strong><a href="https://fremantleprison.com.au/visit-us/japanese/" rel="noreferrer noopener" target="_blank">Fremantle Prison</a></div>
-<picture>
-<source alt="ラウンドハウス" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/75a05e854ed1d1bd6fb61881b0fdd492.webp" type="image/webp" width="640"/><img alt="ラウンドハウス" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/75a05e854ed1d1bd6fb61881b0fdd492.jpg" width="640"/>
-</picture>
+
 <h3 class="wp-block-heading" id="fremantle3-3">ラウンドハウス / Round House</h3>
 <p>ラウンドハウスは西オーストラリア州に現存する最も古い建造物です。英国による入植時代に最初に建てられた恒久的建造物(一時的ではない建造物)で、<a href="https://fremantleprison.com.au/" rel="noreferrer noopener" target="_blank">フリーマントル刑務所</a>が稼働するまで収容所として使用されました。ラウンドハウスの名の通り8つの小部屋が中庭を囲むように連なる構造で、上から見るとドーナツ状になっています。インド洋を望める高台に建ち、エントランスからはフリーマントルの街並みが一望できます。独房として使用されていた8つの部屋には当時の様子を解説した写真が展示され、中庭では刑罰に用いられたとされる拷問具を見学できます。また、ラウンドハウスの下を通る海へ抜けるトンネルは捕鯨漁が盛んだった19世紀に作られました。当時、捕鯨はオーストラリアの主要産業で、鯨油は灯火燃料や機械油として多くの産業を支えました。フリーマントルでも捕鯨は盛んに行われ、捕獲された多くのクジラがこのトンネルを通って運び上げられました。現在はカフェやレストランが並ぶ<a href="https://beachsafe.org.au/beach/wa/fremantle/fremantle/bathers-beach" rel="noreferrer noopener" target="_blank">ベイザース・ビーチへ</a>抜ける道として多くの市民や海水浴客が訪れます。</p>
 <div class="Class_J"><strong>所在地：</strong>10 Arthur Head, Fremantle, Western Australia<br /><strong>開館日：</strong>10:30～15:30 (全日)<br /><strong>公式サイト：</strong><a href="https://www.fremantleroundhouse.com.au/" rel="noreferrer noopener" target="_blank">FREMANTLEVO LUNTEER HERITAGE GUIDES</a></div>
-<picture>
-<source alt="ベイザースビーチ" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/e09d2955634052bddbd184f466f3bd8a.webp" type="image/webp" width="640"/><img alt="ベイザースビーチ" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/e09d2955634052bddbd184f466f3bd8a.jpg" width="640"/>
-</picture>
+
 <h3 class="wp-block-heading" id="fremantle3-4">ベイザース・ビーチ / Bathers Beach</h3>
 <p>フリーマントル駅から徒歩約10分の距離にある<a href="https://www.westernaustralia.com/jp/Attraction/%e6%b5%b7%e6%b0%b4%e6%b5%b4%e3%83%93%e3%83%bc%e3%83%81_(Bathers_Beach)/5a8fc21219b1d99855022afc" rel="noreferrer noopener" target="_blank">ベイザース・ビーチ</a>は海を眺めながら休憩するのにお勧めのスポットです。かつては捕鯨産業の拠点として利用され、クジラの運搬に使ったトンネルは今でもビーチへの抜け道として使われています。ベイザース・ビーチは夕日が美しいことで知られ、ビーチサイドのラウンジではインド洋に沈む夕日を眺めながらのんびりと過ごす市民の姿が見られます。波が穏やかなため親子連れの海水浴客も多く、パドリングやカイトサーフィンも楽しめます。</p>
 <div class="Class_J"><strong>所在地：</strong>Mews Road, Fremantle, Western Australia, 6160<br /><strong>公式サイト：</strong><a href="https://beachsafe.org.au/beach/wa/fremantle/fremantle/bathers-beach" rel="noreferrer noopener" target="_blank">SURF LIFE SAVING AUSTRALIA</a></div>
-<picture>
-<source alt="フリーマントル・フィッシングボートハーバー" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/6dbd3b7621b61e4d5d4d9b5ddb7f117f.webp" type="image/webp" width="640"/><img alt="フリーマントル・フィッシングボートハーバー" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/6dbd3b7621b61e4d5d4d9b5ddb7f117f.jpg" width="640"/>
-</picture>
+
 <h3 class="wp-block-heading" id="fremantle3-5">フリーマントル・フィッシングボートハーバー / Fremantle Fishing Boat Harbour</h3>
 <p>フリーマントル駅から南西へ徒歩14分ほどの海沿いに、ウッドデッキの遊歩道で囲まれたフリーマントル・フィッシングボートハーバーがあります。<a href="https://beachsafe.org.au/beach/wa/fremantle/fremantle/bathers-beach" rel="noreferrer noopener" target="_blank">ベイザース・ビーチ</a>に隣接し、昔ながらの小さな漁港と新鮮な魚介類が揃うフィッシュマーケットや多くのレストランが並んでいます。有名な地ビール工場”<a href="https://littlecreatures.com.au/agegate/" rel="noreferrer noopener" target="_blank">Little Creatures</a>”があり、クラフトビールを目当てに訪れる地元の人や観光客も少なくありません。また、クルーズ船のレンタルもあり、釣りやシュノーケリングのほか、パーティや<a href="https://rottnestisland.com/" rel="noreferrer noopener" target="_blank">ロットネスト島</a>へのクルーズが可能です。</p>
 <div class="Class_J"><strong>所在地：</strong>Mews Rd, Fremantle WA 6160 Australia<br /><strong>公式サイト：</strong><a href="https://www.fremantlefishingboatharbour.com/" rel="noreferrer noopener" target="_blank">Fremantle Fishing Boat Harbour</a></div>
-<picture>
-<source alt="ロットネスト島" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/10b4b05d4737350730d05add4392e254.webp" type="image/webp" width="640"/><img alt="ロットネスト島" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/10b4b05d4737350730d05add4392e254.jpg" width="640"/>
-</picture>
+
 <h3 class="wp-block-heading" id="fremantle3-6">ロットネスト島 / Rottnest Island</h3>
 <p>ロットネスト島は外周約22kmの小さな島で、フリーマントルの約20km沖合に位置します。約7,000年前に海面の上昇によりオーストラリア本土から分離され、ヨーロッパによる探索が始まる17世紀まで無人の島だったと言われています。現在は島全体が<a href="https://campaign.rottnestisland.com/2020/08/26/wildlife-encounters-on-rottnest/" rel="noreferrer noopener" target="_blank">Ａ級自然保護区</a>の国立公園に指定され、“世界一幸せな動物”と呼ばれるオーストラリア固有の有袋類<a href="https://rottnestisland.com/the-island/about-the-island/quokkas-and-wildlife/quokkas" rel="noreferrer noopener" target="_blank">クオッカ</a>が最も多く生息していることでも知られています。主要な観光スポットへのアクセスは<a href="https://rottnestisland.com/the-island/travel-tools-and-tips/getting-around" rel="noreferrer noopener" target="_blank">循環バス</a>が便利ですが、島内の散策にはフェリー発着場近くで貸し出している<a href="https://rottnestisland.com/see-and-do/island-activities/Pedal-and-Flipper" rel="noreferrer noopener" target="_blank">レンタル自転車</a>がお勧めです。白い砂浜やエメラルドグリーンの海を眺めながらのサイクリングは地元の人や観光客に人気のアクティビティです。また、島には63か所を超えるビーチがあります。自然のままの美しいビーチではシュノーケリングやダイビング、サーフィンなどが楽しめます。フェリーが発着する中心街を離れると飲食店がないため、散策に出掛ける際は忘れずに飲み物などを用意しましょう。</p>
 <div class="Class_J"><strong>アクセス：</strong>フリーマントルからフェリーで約30分、パースからフェリーで約90分、パースの<a href="https://www.jandakotairport.com.au/" rel="noreferrer noopener" target="_blank">ジャンダコット空港</a>から小型飛行機で約12分<br /><strong>所在地：</strong>Rottnest Island, Perth, Western Australia<br /><strong>公式サイト：</strong><a href="https://rottnestisland.com/" rel="noreferrer noopener" target="_blank">ROTTNEST IS</a></div>
-<picture>
-<source alt="エスプラネード公園" class="img_big m20-t m20-b lazyloaded" height="428" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/326f077d05d1c9558bb8c20ca874842e.webp" type="image/webp" width="640"/><img alt="エスプラネード公園" class="img_big m20-t m20-b" decoding="async" height="428" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/326f077d05d1c9558bb8c20ca874842e.jpg" width="640"/>
-</picture>
+
 <h3 class="wp-block-heading" id="fremantle3-7">エスプラネード公園 / Esplanade Park</h3>
 <p><a href="https://www.rydges.com/accommodation/perth-wa/esplanade-hotel-fremantle-by-rydges/?utm_source=google&amp;utm_medium=organic&amp;utm_campaign=gmb" rel="noreferrer noopener" target="_blank">エスプラネードホテル</a>と<a href="https://www.fremantlefishingboatharbour.com/" rel="noreferrer noopener" target="_blank">フィッシングボートハーバー</a>の間にあるエスプラネード公園は、芝生が一面に広がる緑豊かな公園です。1900年代初めに海風から街を守るために作られました。クリスマスツリーで知られる針葉樹”ノーフォークマツ”で囲まれ、ウォーキングや日光浴を楽しむ地元の人々の憩いの場となっています。恐竜のオブジェやジャングルジムなどがあり、親子連れにお勧めの公園です。併設する観覧車は40mの高さがあり、フリーマントルの街並みやインド洋が展望できます。また、園内にはオーストラリア原産のオウム”テンジクバタン”が生息しています。体長40cmほどの白い鳥で、オウムの中でも「最高の話し手」と呼ばれペットとしても親しまれています。運が良ければ、群れでノーフォークマツの実をついばむ姿を見付けることができるかもしれません。</p>
 <div class="Class_J"><strong>所在地：</strong>Marine Terrace, Fremantle WA 6160 Australia<br /><strong>公式サイト：</strong><a href="https://www.fremantlefishingboatharbour.com/attraction/esplanade-park-fremantle/" rel="noreferrer noopener" target="_blank">Esplanade Park Fremantle</a></div>
@@ -106,7 +90,7 @@
 <p>エスプラネードホテルはフリーマントルのランドマークとして知られる有名ホテルです。ルーツは1850年の入植時代までさかのぼり、<a href="https://fremantleprison.com.au/visit-us/japanese/" rel="noreferrer noopener" target="_blank">フリーマントル刑務所</a>を建設する囚人たちが寝泊まりする倉庫として作られました。その後、幾度の名義変更や改装を経て1896年にエスプラネードホテルとしてオープン。独特のバルコニー構造やステンドグラスで飾られた建物は1978年にオーストラリア国家遺産へ登録され、西オーストラリア州遺産とフリーマントル市営遺産にも認定されました。館内には2つの屋外プールやフィットネスセンター、バラエティーに富んだレストランやバーがあり、結婚式も催行されます。通りを挟んだ目の前には<a href="https://www.fremantlefishingboatharbour.com/attraction/esplanade-park-fremantle/" rel="noreferrer noopener" target="_blank">エスプラネード公園</a>が隣接し、公園を抜けた先には<a href="https://www.fremantlefishingboatharbour.com/" rel="noreferrer noopener" target="_blank">フィッシングボートハーバー</a>が広がります。公園を背に通りを進めば3分ほどで<a href="https://www.fremantlemarkets.com.au/JP/" rel="noreferrer noopener" target="_blank">フリーマントルマーケット</a>に行くこともでき、フリーマントル観光の拠点としてもお勧めのホテルです。</p>
 <div class="Class_J"><strong>所在地：</strong>46-54 Marine Terrace, Fremantle WA 6160<br /><strong>公式サイト：</strong><a href="https://www.rydges.com/accommodation/perth-wa/esplanade-hotel-fremantle-by-rydges/?utm_source=google&amp;utm_medium=organic&amp;utm_campaign=gmb" rel="noreferrer noopener" target="_blank">Esplanade Hotel Fremantle by Rydges</a></div>
 <h2 class="wp-block-heading" id="fremantle4">フリーマントルへ旅行する際は早めのETAS(イータス)申請をお願いします</h2>
-<p>日本国籍の方が90日以内の観光旅行を目的としてオーストラリアへ渡航する際は、ビザではなく<a href="http://xs640823.xsrv.jp/etas/service/index.html">電子渡航認証ETAS(イータス)</a>の申請が必須です。ETAS(イータス)はオーストラリア政府移民局が管轄する制度で、少なくとも出発3日前までに申請を行うことを推奨しています。ETAS(イータス)を取得していない方は旅客機への搭乗が拒否されるため、オーストラリアへ渡航する際は忘れずに申請しましょう。なお、有効期間を過ぎたETAS(イータス)を所持している方は改めてETAS(イータス)申請が必要です。</p>
+<p>日本国籍の方が90日以内の観光旅行を目的としてオーストラリアへ渡航する際は、ビザではなく<a href="#">電子渡航認証ETAS(イータス)</a>の申請が必須です。ETAS(イータス)はオーストラリア政府移民局が管轄する制度で、少なくとも出発3日前までに申請を行うことを推奨しています。ETAS(イータス)を取得していない方は旅客機への搭乗が拒否されるため、オーストラリアへ渡航する際は忘れずに申請しましょう。なお、有効期間を過ぎたETAS(イータス)を所持している方は改めてETAS(イータス)申請が必要です。</p>
 
  </div>
  </article>
@@ -138,6 +122,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

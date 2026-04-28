@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4158,<div class="page-layout">
+2:T3f18,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 前科・犯罪歴がある場合のオーストラリア入国とETAS(イータス)申請</div>
 
@@ -43,9 +43,7 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="オーストラリア国旗と裁判" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/axWmxv4r59hxeSa1630395233_1630395262.webp" type="image/webp" width="640"/><img alt="オーストラリア国旗と裁判" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/axWmxv4r59hxeSa1630395233_1630395262.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="criminal1">前科・犯罪歴がある場合もオーストラリア入国とETAS(イータス)申請は可能か</h2>
 <p>観光や短期商用を目的として日本からオーストラリアへ渡航する際は、事前にETAS(イータス)の申請が必須となります。ETAS(イータス)を申請する際は前科に関する質問があり、過去に重大な犯罪歴がある方は申請の対象外となるため「渡航認証拒否」の通知が届くことが予想されます。前科に関する質問は各国の警察機関による連携のもと危険人物を特定し、テロ等の犯罪行為を未然に防ぐことを目的としています。虚偽の回答が判明した場合はETAS(イータス)による「渡航認証許可」が取り消され、今後のオーストラリア渡航が困難となりますのでご注意ください。</p>
 <p>重大な犯罪歴とは主に以下の内容を指します。</p>
@@ -62,7 +60,7 @@
 <p>前科・犯罪歴の質問に対し「はい」を選択した方は、ETAS(イータス)によるオーストラリア渡航が認められず「渡航認証拒否」の通知が届くことが予想されます。当該の通知が届いた場合は、<a href="https://immi.homeaffairs.gov.au/Visa-subsite/Pages/visit/600-visitor-landing.aspx" rel="noreferrer noopener" target="_blank">訪問ビザ(サブクラス600)</a>の申請をご検討ください。訪問ビザは申請者の犯罪歴を大使館の審査官が個別に確認します。訪問ビザの申請を希望する方は<a href="https://immi.homeaffairs.gov.au/help-support/applying-online-or-on-paper/overview" rel="noreferrer noopener" target="_blank">ImmiAccount</a>より手続きを行ってください。<br />なお、ETAS(イータス)の犯罪歴に関する質問に「いいえ」を選択した方も稀に「渡航認証拒否」となる場合があります。大半のケースは回答の選択ミスによるものですが、ETAS(イータス)を審査するDIBP(Department of Immigration and Border Protection：オーストラリア移民国境警備省)では理由を開示していません。回答の選択ミスや入力間違いがなく渡航認証拒否となった場合は、以下の理由が想定されます。</p>
 <div class="Class_JB"><ul><li>海外渡航のブラックリストに同姓同名の人物がいる</li><li>複数回のオーバーステイをした同姓同名の人物がいる</li><li>虚偽の回答と判断された場合</li><li>オーストラリアのビザ免除国に該当しない国籍の市民と判断された場合</li></ul></div>
 <p>※オーストラリア政府は日本／韓国／香港／アメリカ／カナダ／シンガポール／マレーシア／ブルネイの8か国をビザ免除対象国としています。</p>
-<p>渡航認証拒否の通知が届いた方は、約2日経過していなければETAS(イータス)の再申請ができません。入力した内容を見直し、再申請または訪問ビザの申請をお勧めします。当該の際は「<a href="http://xs640823.xsrv.jp/etas/refusal/index.html">ETAS(イータス)申請が認証拒否された場合</a>」をご確認ください。</p>
+<p>渡航認証拒否の通知が届いた方は、約2日経過していなければETAS(イータス)の再申請ができません。入力した内容を見直し、再申請または訪問ビザの申請をお勧めします。当該の際は「<a href="#">ETAS(イータス)申請が認証拒否された場合</a>」をご確認ください。</p>
 <h3 class="wp-block-heading" id="criminal3-1">在韓オーストラリア大使館　ビザ・国籍登録課</h3>
 <figure class="wp-block-table"><table><tbody><tr><td width="220">住所</td><td>Visa Section, Australian Embassy 19th Floor Kyobo Building 1 Jong-Ro, Jongno-Gu Seoul 03154</td></tr><tr><td>電話番号</td><td>(+61) 2-6196-0196</td></tr><tr><td>営業時間</td><td>月曜日～金曜日 9：00～12：30、13：30～17：00(予約制)</td></tr><tr><td>お問い合わせ</td><td><a href="mailto:soul-inform@dfat.gov.au" rel="noreferrer noopener" target="_blank">soul-inform@dfat.gov.au</a></td></tr><tr><td>公式サイト</td><td><a href="https://southkorea.embassy.gov.au/" rel="noreferrer noopener" target="_blank">https://southkorea.embassy.gov.au/</a></td></tr></tbody></table></figure>
 <p>在日オーストラリア大使館ではビザに関する電話での問い合わせや窓口での対応を行っておりません。<br />Eメール(<a href="mailto:immigration.tokyo@dfat.gov.au" rel="noreferrer noopener" target="_blank">immigration.tokyo@dfat.gov.au</a>)または在韓オーストラリア大使館へお問い合わせください。<br />ビザを希望する方は<a href="https://immi.homeaffairs.gov.au/" rel="noreferrer noopener" target="_blank">オーストラリア内務省のウェブサイト</a>を確認し、自身の渡航目的に沿ったビザの申請をご検討ください。ビザ申請は審査官が全ての状況を考慮したうえで判断を行います。犯罪歴がある方は正確な内容の申告が求められ、虚偽と判断された場合はビザ申請が却下されますのでご注意ください。</p>
@@ -75,7 +73,7 @@
 <h4 class="wp-block-heading">警視庁に関する情報</h4>
 <figure class="wp-block-table"><table><tbody><tr><td width="220">住所</td><td>千代田区霞が関2丁目1番1号　警視庁本部庁舎1階(正面玄関受付)</td></tr><tr><td>電話番号</td><td>03-3581-4321(警視庁代表)</td></tr><tr><td>受付日</td><td>月曜から金曜(祝日、年末年始を除く)</td></tr><tr><td>受付時間</td><td>午前8時30分から午前11時30分、午後1時00分から午後5時00分</td></tr><tr><td>公式サイト<br />渡航証明(犯罪経歴証明書)の申請について</td><td><a href="https://www.keishicho.metro.tokyo.jp/" rel="noreferrer noopener" target="_blank">https://www.keishicho.metro.tokyo.jp/</a><br /><a href="https://www.keishicho.metro.tokyo.jp/tetsuzuki/toko/toko.html" rel="noreferrer noopener" target="_blank">https://www.keishicho.metro.tokyo.jp/tetsuzuki/toko/toko.html</a></td></tr></tbody></table></figure>
 <h2 class="wp-block-heading" id="criminal4">オーストラリア入国には余裕を持ってETAS(イータス)申請を行いましょう</h2>
-<p>ETAS(イータス)の犯罪歴に関する質問は、申請者がオーストラリア国内に危害を及ぼす恐れがないかを判断する役割を担っています。重大な前科がある方やオーストラリア国内で逮捕歴がある方は、原則としてETAS(イータス)を利用して渡航することができません。また、過去にオーストラリアや他国で不法滞在により強制送還された方もETAS(イータス)申請の対象外となり、数年間にわたりビザの取得も認められませんのでご注意ください。<br />ETAS(イータス)申請の結果が「渡航認証拒否」となった方は、再申請やビザの手続きに数週間以上かかることも予想されます。重大な過失や前科がある方は日程に余裕をもってビザまたはETAS(イータス)申請の手続きをお願いします。渡航認証拒否が通知された際の対処方法は「<a href="http://xs640823.xsrv.jp/etas/refusal/index.html">ETAS(イータス)申請が認証拒否された場合</a>」をご確認ください。</p>
+<p>ETAS(イータス)の犯罪歴に関する質問は、申請者がオーストラリア国内に危害を及ぼす恐れがないかを判断する役割を担っています。重大な前科がある方やオーストラリア国内で逮捕歴がある方は、原則としてETAS(イータス)を利用して渡航することができません。また、過去にオーストラリアや他国で不法滞在により強制送還された方もETAS(イータス)申請の対象外となり、数年間にわたりビザの取得も認められませんのでご注意ください。<br />ETAS(イータス)申請の結果が「渡航認証拒否」となった方は、再申請やビザの手続きに数週間以上かかることも予想されます。重大な過失や前科がある方は日程に余裕をもってビザまたはETAS(イータス)申請の手続きをお願いします。渡航認証拒否が通知された際の対処方法は「<a href="#">ETAS(イータス)申請が認証拒否された場合</a>」をご確認ください。</p>
 
  </div>
  </article>
@@ -107,6 +105,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

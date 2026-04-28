@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T44b0,<div class="page-layout">
+2:T4208,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダ主要都市と日本の時差・サマータイムについて</div>
 
@@ -48,9 +48,7 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="カナダ主要都市と日本の時差・サマータイムについて" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/5bed225556501e2720ec0178da12dc4f.webp" type="image/webp" width="640"/><img alt="カナダ主要都市と日本の時差・サマータイムについて" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/5bed225556501e2720ec0178da12dc4f.jpg" width="640"/>
-</picture>
+
 <p>カナダはロシアに次ぎ世界で2番目に面積を有する広大な国です。そのため、タイムゾーンについてもUTC-8～UTC-3:30の6つに分類され、国内だけでも5時間半もの時差があります。当ページではカナダのタイムゾーンと日本との時差について解説します。</p>
 <h2 class="wp-block-heading" id="time1">カナダと日本の時差は12時間30分～17時間</h2>
 <p>カナダ南西部の太平洋側に位置する主要都市バンクーバーと日本との時差は17時間で、日本が早く時刻が進んでいます。例えば、日本が昼12時ではバンクーバーは前日の夜7時となります。カナダでは日照時間を有効活用することを目的として、例年3月から11月まで「サマータイム」という制度を施行しています。サマータイムを導入している地域ではタイムゾーンが1時間改訂され、期間中における日本との時差は16時間となります。バンクーバーのほか、セント・ジョンズ、トロント、ウィニペグ、レイジャナ、エドモントンなどの主要都市におけるタイムゾーンと日本との時差は下記の一覧表をご確認ください。</p>
@@ -92,7 +90,7 @@
 <h3 class="wp-block-heading" id="time15">ビクトリア</h3>
 <p>年間を通して温暖な気候が続き、美しい庭園や公園で有名な花の街ビクトリア。成田－ビクトリア間の直行便は就航していないため乗り継ぎが必要です。バンクーバーを経由しトランジットを含めると、往路は約11時間、復路は約12時間のフライトとなります。アメリカのシアトル経由を利用した際の往路は約14時間、復路は17時間ほどかかります。</p>
 <h2 class="wp-block-heading" id="time16">アメリカ経由の渡航にはeTA(イータ)とESTA(エスタ)が必要</h2>
-<p>カナダへ渡航する際はオンラインによる<a href="http://xs640823.xsrv.jp/eta/service/index.html">電子渡航認証eTA(イータ)</a>の取得が必須となります。eTA(イータ)は年齢を問わずカナダ渡航の際に全ての方が必要となり、出発する3日前には申請を済ませておくことを推奨しています。なお、<a href="http://xs640823.xsrv.jp/eta/viausa/index.html">アメリカを経由してカナダへ渡航する場合</a>や、<a href="http://xs640823.xsrv.jp/eta/transit/index.html">カナダからアメリカへ渡航する場合</a>はeTA(イータ)のほかにアメリカの電子渡航認証であるESTA(エスタ)の申請も必要となります。ESTA(エスタ)はアメリカへ空路で入国する場合に限り事前申請が必須となる制度で、陸路または海路を利用する場合はESTA(エスタ)を申請することなくアメリカへの入国が認められます。<br />カナダとアメリカの陸路・海路国境は閉鎖が続いていましたが、2021年11月より新型コロナウイルスワクチン接種完了を条件に自由な往来が可能となりました。入国の際に必要となる書類や手続きは、カナダおよびアメリカ両政府が定めるルールにより異なります。渡航を計画の際は施行中の措置を必ずご確認ください。</p>
+<p>カナダへ渡航する際はオンラインによる<a href="#">電子渡航認証eTA(イータ)</a>の取得が必須となります。eTA(イータ)は年齢を問わずカナダ渡航の際に全ての方が必要となり、出発する3日前には申請を済ませておくことを推奨しています。なお、<a href="#">アメリカを経由してカナダへ渡航する場合</a>や、<a href="#">カナダからアメリカへ渡航する場合</a>はeTA(イータ)のほかにアメリカの電子渡航認証であるESTA(エスタ)の申請も必要となります。ESTA(エスタ)はアメリカへ空路で入国する場合に限り事前申請が必須となる制度で、陸路または海路を利用する場合はESTA(エスタ)を申請することなくアメリカへの入国が認められます。<br />カナダとアメリカの陸路・海路国境は閉鎖が続いていましたが、2021年11月より新型コロナウイルスワクチン接種完了を条件に自由な往来が可能となりました。入国の際に必要となる書類や手続きは、カナダおよびアメリカ両政府が定めるルールにより異なります。渡航を計画の際は施行中の措置を必ずご確認ください。</p>
 
  </div>
  </article>
@@ -124,6 +122,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

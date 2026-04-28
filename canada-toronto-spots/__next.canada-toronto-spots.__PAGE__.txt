@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T56a0,<div class="page-layout">
+2:T51cf,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 初めてのトロントで押さえたいおすすめ観光スポット10選</div>
 
@@ -41,9 +41,7 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="カナダのトロント" class="img_big m20-t m20-b lazyloaded" height="417" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/16d657b38e3ae0613d3bf766d90f2080-1.webp" type="image/webp" width="640"/><img alt="カナダのトロント" class="img_big m20-t m20-b" decoding="async" height="417" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/16d657b38e3ae0613d3bf766d90f2080-1.jpg" width="640"/>
-</picture>
+
 <p>国際色豊かで自然あふれるカナダは北アメリカ大陸に位置し、10の州と3つの準州で構成されています。面積はロシアの1,710万km2に次ぐ998万km2を誇り、総人口は3,759万人に及びます。首都オタワを有するオンタリオ州はカナダ中東部に位置し、総人口の約3分の1が集まるカナダ最大の州です。このページではオンタリオ州の州都であるトロントについてご紹介します。</p>
 <h2 class="wp-block-heading" id="tourism1">カナダの都市”トロント”とは</h2>
 <p>オンタリオ州の南東部に位置するトロントは、アメリカのニューヨーク州と接するオンタリオ湖に面します。毎年多くの移民を受け入れるため“人種のモザイク”と呼ばれる一方で、カナダの経済、政治、文化面での中枢機能が集まることから“カナダ最大の都市”と称されます。また、季節ごとの多種多様なイベントなど芸術活動も盛んで、毎年9月に開催される“<a href="https://www.tiff.net/" rel="noreferrer noopener" target="_blank">トロント国際映画祭</a>”は世界でも注目されるノン・コンペティション映画祭です。</p>
@@ -64,10 +62,7 @@
 <h3 class="wp-block-heading" id="s05">セント・ローレンス・マーケット / St. Lawrence Market</h3>
 <p>1803年の開設以来トロント市民に愛されるセント・ローレンス・マーケットは“市民の台所”と呼ばれ、100店舗以上が軒を連ねます。“<a href="https://torontounion.ca/" rel="noreferrer noopener" target="_blank">ユニオン駅 / Union Station</a>“から徒歩12分の位置にあり、建物内は地上1階と地下1階に分かれます。生鮮食料品からキッチン用品、観光客向けギフトショップなど品揃え豊富で、毎週土曜日には近隣農家が出店するファーマーズ・マーケット、日曜日にはアンティークの雑貨やジュエリーが出品されるアンティークマーケットが開催されます。</p>
 <p><strong>所在地：</strong>93 Front St E, Toronto, ON M5E 1C3<br /><strong>公式サイト：</strong><a href="http://www.stlawrencemarket.com/about_us" rel="noreferrer noopener" target="_blank">http://www.stlawrencemarket.com/about_us</a></p>
-<picture>
-<source alt="ナイアガラの滝 / Niagara Falls" class="img_big m20-t m20-b" height="505" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/4d227519d1c2df116b67093e4ae34bb6.webp" type="image/webp" width="760"/>
-<img alt="ナイアガラの滝 / Niagara Falls" class="img_big m20-t m20-b" decoding="async" height="505" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/4d227519d1c2df116b67093e4ae34bb6.jpg" width="760"/>
-</picture>
+
 <h3 class="wp-block-heading" id="s06">ナイアガラの滝 / Niagara Falls</h3>
 <p>ニューヨーク州との国境に位置するナイアガラの滝は、アフリカの<a href="https://www.zambiatourism.com/destinations/waterfalls/victoria-falls/" rel="noreferrer noopener" target="_blank">ヴィクトリアの滝</a>、南米の<a href="https://iguazuargentina.com/es/index" rel="noreferrer noopener" target="_blank">イグアスの滝</a>と合わせて世界3大瀑布として知られます。長距離バスや鉄道などを利用するとトロント市街からは2時間ほど、トロント・ピアソン国際空港からは1時間30分ほどで訪れることができます。ナイアガラの滝はカナダ側にあるカナダ滝、アメリカ側にあるアメリカ滝とブライダルベール滝から形成され、 カナダ滝周辺には真横から滝を眺められる“<a href="https://www.niagaraparks.com/visit-niagara-parks/plan-your-visit/travel-information/welcome-centres/" rel="noreferrer noopener" target="_blank">テーブルロック・ウェルカムセンター</a>”、滝の裏側に入れる“<a href="https://www.niagaraparks.com/visit/attractions/journey-behind-the-falls/" rel="noreferrer noopener" target="_blank">ジャーニー・ビハインド・ザ・フォールズ</a>”、滝周辺の絶景を見下ろせる“<a href="https://www.skylon.com/" rel="noreferrer noopener" target="_blank">スカイロンタワー</a>”など展望台が数多く設けられています。</p>
 <p><strong>所在地：</strong>6650 Niagara Pkwy Niagara Falls, ON L2E 3E8, Niagara Falls, Ontario L2G 3Y9, Canada<br /><strong>公式サイト：</strong><a href="https://www.niagarafallstourism.com/" rel="noreferrer noopener" target="_blank">https://www.niagarafallstourism.com/</a></p>
@@ -84,7 +79,7 @@
 <p>オンタリオ湖に位置するトロント・アイランドは、橋や小道で繋がれた15の島々から形成されます。トロント市街にあるジャック・レイトン・フェリーターミナルから<a href="https://www.toronto.ca/data/parks/prd/facilities/complex/2725/index.html" rel="noreferrer noopener" target="_blank">センターアイランド</a>、<a href="https://www.toronto.ca/data/parks/prd/facilities/complex/2541/index.html" rel="noreferrer noopener" target="_blank">ハンランズ・ポイント</a>、<a href="https://www.toronto.ca/data/parks/prd/facilities/complex/2039/index.html" rel="noreferrer noopener" target="_blank">ウォーズ・アイランド</a>へ船が就航していますが、冬季はウォーズ・アイランド線のみ運航されます。島の中心部にあるセンターアイランドは観光スポットが豊富で、噴水や庭園、ビーチ、小さな遊園地“<a href="https://www.centreisland.ca/centreville-amusement-park" rel="noreferrer noopener" target="_blank">センタービル・アミューズメント・パーク / Centreville Amusement Park</a>”があり、最も観光客が集まります。西部に位置し、“<a href="https://www.billybishopairport.com/home" rel="noreferrer noopener" target="_blank">ビリー・ビショップ・トロント・シティー空港 / Billy Bishop Toronto City Airport</a>”を有するハンランズ・ポイントでは、ビーチや12のピクニックエリアなど自然の中でゆっくりと過ごすことができます。東部にあるウォーズ・アイランドには居住区があるため観光客は比較的少なく、カフェやサッカー場の他に、島の南側にある遊歩道からは壮観なオンタリオ湖が望めます。</p>
 <p><strong>所在地：</strong>Centre Island Toronto Ontario<br />公式サイト：<a href="https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/toronto-island-park/" rel="noreferrer noopener" target="_blank">https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/toronto-island-park/</a></p>
 <h2 class="wp-block-heading" id="tourism3">カナダ入国・渡航にはeTA(イータ)の事前申請が必要です</h2>
-<p>カナダ国籍や永住権の保有者以外がカナダへ入国する際は、<a href="http://xs640823.xsrv.jp/eta/lengthofstay/index.html">ビザ</a>を取得する必要があります。ただし、<a href="http://xs640823.xsrv.jp/eta/service/index.html#%E3%82%AB%E3%83%8A%E3%83%80%E3%81%AE%E3%83%93%E3%82%B6%E5%85%8D%E9%99%A4%E5%9B%BD%E3%83%BB%E5%9C%B0%E5%9F%9F%E4%B8%80%E8%A6%A7">ビザ免除対象国</a>に限り<a href="http://xs640823.xsrv.jp/eta/service/index.html">電子渡航認証のeTA(イータ)申請</a>を事前に取得する事でカナダへの入国が許可されます。eTA(イータ)はオンラインで申請手続きが完了し、承認が下りるとパスポート情報に紐づいて電子的に管理されます。承認時に発行される英数字10桁のeTA numberは、メモなどに書き留めておくことをおすすめします。また、国際的な子供の不法連れ去り行為などを防ぐために締結されているハーグ条約により、18歳未満の未成年者が単独または片方の親権者とカナダへ入国する際は渡航同意書の携行が推奨されます。渡航の際には“<a href="http://xs640823.xsrv.jp/eta/minority/index.html">未成年者のカナダ渡航について</a>”を事前に確認しましょう。</p>
+<p>カナダ国籍や永住権の保有者以外がカナダへ入国する際は、<a href="#">ビザ</a>を取得する必要があります。ただし、<a href="#">ビザ免除対象国</a>に限り<a href="#">電子渡航認証のeTA(イータ)申請</a>を事前に取得する事でカナダへの入国が許可されます。eTA(イータ)はオンラインで申請手続きが完了し、承認が下りるとパスポート情報に紐づいて電子的に管理されます。承認時に発行される英数字10桁のeTA numberは、メモなどに書き留めておくことをおすすめします。また、国際的な子供の不法連れ去り行為などを防ぐために締結されているハーグ条約により、18歳未満の未成年者が単独または片方の親権者とカナダへ入国する際は渡航同意書の携行が推奨されます。渡航の際には“<a href="#">未成年者のカナダ渡航について</a>”を事前に確認しましょう。</p>
 
  </div>
  </article>
@@ -116,6 +111,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

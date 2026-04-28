@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T1753,<div class="page-layout">
+2:T1583,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ eTA(イータ)申請とカナダ渡航に関するサイト</div>
 
@@ -18,10 +18,7 @@
  <div class="content">
 
 <h2 class="wp-block-heading">eTA(イータ)申請とカナダ渡航に関するサイト</h2>
-<picture>
-<source alt="eTA(イータ)申請とカナダ渡航に関するサイト" class="img_big m20-t m20-b" height="425" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p21_1.webp" type="image/webp" width="640"/>
-<img alt="eTA(イータ)申請とカナダ渡航に関するサイト" class="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p21_1.jpg" width="640"/>
-</picture>
+
 <div class="Class_J">
 <h4>eTA(イータ)公式ページ</h4>
 <p><a href="https://www.canada.ca/en.html" target="_blank">https://www.canada.ca/en.html</a></p><p>カナダ政府が運営しているeTA(イータ)申請サイトです。<br />eTA(イータ)はご自身で申請することも可能ですが、全ての項目について英語またはフランス語にて入力する必要があります。</p><p><a href="https://www.cic.gc.ca/english/contacts/web-form.asp" target="_blank">https://www.cic.gc.ca/english/contacts/web-form.asp</a></p><p>eTA(イータ)申請の承認が72時間以上経過している場合は、公式WEBフォームより申請状況についてのお問い合わせも可能です。<br />※英語・フランス語のみの対応となります</p>
@@ -68,6 +65,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

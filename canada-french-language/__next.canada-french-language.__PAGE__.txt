@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T40ef,<div class="page-layout">
+2:T3ee6,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダでフランス語が使われている理由と歴史</div>
 
@@ -40,9 +40,7 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="カナダ国旗とフランス国旗" class="img_big m20-t m20-b lazyloaded" height="487" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/cdc99b34c383cc4dfce643342ac1402a-1.webp" type="image/webp" width="640"/><img alt="カナダ国旗とフランス国旗" class="img_big m20-t m20-b" decoding="async" height="487" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/ee98e6ca9f84cf20df64c5d5046729d7.png" width="640"/>
-</picture>
+
 <p>カナダでは英語による会話が主となっていますが、一部の地域ではフランス語も盛んに使われています。カナダでは古くからイギリス(英語圏)とフランス(仏語圏)からの移民を多く受け入れているため2つの言語を使用しています。多様性を重視するカナダでは双方に配慮した結果、フランス語を第二の公用語として承認。国民は幼少期からフランス語も学び、多方面でフランス語を使用しています。<br />このページではカナダでフランス語が使用される理由や歴史的な背景、カナダ国内の言語事情について解説します。</p>
 <h2 class="wp-block-heading" id="french1">カナダの第二公用語はフランス語</h2>
 <h3 class="wp-block-heading" id="french2">カナダで最もフランス語が使用されている州とは</h3>
@@ -62,7 +60,7 @@
 <h3 class="wp-block-heading" id="french9">メリット3. 自然豊かな観光地が多い</h3>
 <p>カナダは自然環境の保護に非常に力を入れている国です。街中の至る場所に自然を活用した大規模な公園があり、多くの市民が散歩やピクニックを楽しんでいます。都市部から車やバスで少し離れると雄大な自然が広がり、登山やハイキング、スキーやスノーボードなどを楽しむことができます。<br />カナダの三大都市であるトロント、モントリオール、バンクーバーの中心部には観光スポットが集中しているため、勉強や仕事の気分転換に最適な場所も数多くあります。特にトロントでは1年を通して様々なイベントが行われ、7月に開催される“Caribbean Carnival Toronto”には毎年200万人もの観光客が訪れます。同イベントは世界最大のカリビアンカーニバルと評され、カナダにゆかりのある食事や音楽に触れ合うことができます。<br />雄大な自然を誇るカナダにはリフレッシュできる公園や施設が多くあり、手軽に旅行ができることもメリットのひとつです。</p>
 <h2 class="wp-block-heading" id="french10">カナダへ渡航する際はeTA(イータ)の申請が必要</h2>
-<p>ツアーへの参加や観光旅行を目的としてカナダへ渡航する際は、日本を出発する前にeTA(イータ)を申請する必要があります。eTA(イータ)はカナダ政府および移民局が定める電子渡航認証制度で、オンラインによる申請が必須となります。eTA(イータ)は申請日より5年間またはパスポートの期日まで有効となり、有効期限内であれば複数回のカナダ渡航が認められます。eTA(イータ)を利用して渡航する際はカナダで最長6か月以内の滞在が可能となります。一般的な観光や出張等でカナダへ訪れる場合はビザではなくeTA(イータ)を申請して渡航することをお勧めします。<br />なお、6か月以内の滞在であっても留学や就労を目的としてカナダへ渡航する方はeTA(イータ)申請の対象外となります。留学や就労を目的とする方は、カナダビザセンターにてビザの取得をご検討ください。<br />ビザの取得に関する詳細は「<a href="http://xs640823.xsrv.jp/eta/embassy/index.html">カナダビザ申請センター・カナダ大使館について</a>」をご確認ください。</p>
+<p>ツアーへの参加や観光旅行を目的としてカナダへ渡航する際は、日本を出発する前にeTA(イータ)を申請する必要があります。eTA(イータ)はカナダ政府および移民局が定める電子渡航認証制度で、オンラインによる申請が必須となります。eTA(イータ)は申請日より5年間またはパスポートの期日まで有効となり、有効期限内であれば複数回のカナダ渡航が認められます。eTA(イータ)を利用して渡航する際はカナダで最長6か月以内の滞在が可能となります。一般的な観光や出張等でカナダへ訪れる場合はビザではなくeTA(イータ)を申請して渡航することをお勧めします。<br />なお、6か月以内の滞在であっても留学や就労を目的としてカナダへ渡航する方はeTA(イータ)申請の対象外となります。留学や就労を目的とする方は、カナダビザセンターにてビザの取得をご検討ください。<br />ビザの取得に関する詳細は「<a href="#">カナダビザ申請センター・カナダ大使館について</a>」をご確認ください。</p>
 
  </div>
  </article>
@@ -94,6 +92,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

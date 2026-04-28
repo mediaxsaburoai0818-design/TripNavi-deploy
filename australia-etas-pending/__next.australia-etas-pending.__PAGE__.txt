@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T37e0,<div class="page-layout">
+2:T342e,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 認証審査が保留された場合の対処法</div>
 
@@ -41,10 +41,7 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="認証審査が保留された場合の対処法" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p05_01.webp" type="image/webp" width="640"/>
-<img alt="認証審査が保留された場合の対処法" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p05_01.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="pending1">ETAS(イータス)申請後に届く認証結果メールを確認しましょう</h2>
 <p>日本国籍者がオーストラリアで3か月以内の観光などを目的として渡航する場合、ETAS(イータス)申請を取得することでビザを取得せずにオーストラリアへの入国が許可されます。<br />ETAS(イータス)はウェブサイトで申請することができ、取得手続きを完了すると認証結果が記載された通知メールが届きます。<br />認証結果の通知メールは申請の際に登録したメールアドレスに送られますので、正しい情報で入力する必要があります。<br />申請者のメール受信設定により迷惑メールの対象となってしまい、受信できないなどのトラブルが多く発生しております。<br />ETAS(イータス)申請を行う際は一時的に迷惑メール防止フィルターを解除するなどの対応をお願いします。</p>
 <h3 class="wp-block-heading" id="pending2">主な認証結果の例</h3>
@@ -53,10 +50,7 @@
 <h3 class="wp-block-heading" id="pending3">認証審査が保留となる主なケース</h3>
 <ul class="wp-block-list"><li><strong>過去に重大な犯罪歴がある方</strong></li><li><strong>過去のオーストラリア滞在時に意図的なオーバーステイなどで強制送還されたことがある方</strong></li><li><strong>ETAS(イータス)申請のブラックリストに同姓同名の方がいる場合</strong></li><li><strong>オーストラリア政府管轄公式サイトがシステムメンテナンス中である場合</strong></li></ul>
 <p>申請後、内容に問題がない場合はスムーズに認証が承認され、個別のETAS(イータス)番号が付与されます。<br />ただし、申請した内容により追加手続きや書類提出が必要となる場合もありますので、余裕をもってETAS(イータス)申請を行いましょう。追加手続きや書類提出を促された場合は速やかに手配し、審査が完了するまでお待ちください。追加の手続きが発生した場合、認証の回答を得るまでに数日を要する場合がありますので、早めのETAS(イータス)申請をお願いします。</p>
-<picture>
-<source alt="認証保留時に発生する主な追加手続きの種類" class="img_big m20-t m20-b" height="425" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p05_02.webp" type="image/webp" width="640"/>
-<img alt="認証保留時に発生する主な追加手続きの種類" class="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p05_02.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="pending4">認証保留時に発生する主な追加手続きの種類</h2>
 <p>追加書類の提出はオーストラリア政府内務省が設けるメールフォームから送信します。ETAS（イータス）申請後に認証保留状態となった場合は、以下のサイトから書類提出の手続きを行いましょう。</p>
 <div class="Class_AB">
@@ -81,7 +75,7 @@
 <div class="Class_AB">
 <a aria-label=" (新しいタブで開く)" href="https://www.keishicho.metro.tokyo.jp/tetsuzuki/toko/toko.html" rel="noreferrer noopener" target="_blank">警視庁公式サイト「渡航証明(犯罪経歴証明書)の申請について」</a></div>
 <h2 class="wp-block-heading" id="pending11">ETAS(イータス)申請の承認確認ができてからオーストラリアへ渡航しましょう</h2>
-<p>認証審査が保留中の場合はETAS(イータス)申請を所持しているとは認められませんので、オーストラリアへ入国または飛行機に搭乗することはできません。渡航予定日までに余裕をもって申請手続きを進め、ETAS(イータス)申請の認証が承認されたことを確認してから渡航するようにしましょう。申請手続きが完了してから数日経過しても認証情報が確認できない場合や認証が保留のままの場合などは最寄りのオーストラリア大使館に問い合わせることをお勧め致します。<br /><br /> 在日オーストラリア大使館について詳しくは<a class="aioseop-link" href="http://xs640823.xsrv.jp/etas/embassy/index.html">こちら</a>のページをご参照ください。 </p>
+<p>認証審査が保留中の場合はETAS(イータス)申請を所持しているとは認められませんので、オーストラリアへ入国または飛行機に搭乗することはできません。渡航予定日までに余裕をもって申請手続きを進め、ETAS(イータス)申請の認証が承認されたことを確認してから渡航するようにしましょう。申請手続きが完了してから数日経過しても認証情報が確認できない場合や認証が保留のままの場合などは最寄りのオーストラリア大使館に問い合わせることをお勧め致します。<br /><br /> 在日オーストラリア大使館について詳しくは<a class="aioseop-link" href="#">こちら</a>のページをご参照ください。 </p>
 <div class="Class_AB">
 <a href="https://immi.homeaffairs.gov.au/help-support/contact-us/offices-and-locations" target="_blank">各国のオーストラリア大使館 一覧（オーストラリア内務省ウェブサイト）</a></div>
  </div>
@@ -114,6 +108,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

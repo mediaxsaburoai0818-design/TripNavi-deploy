@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T447b,<div class="page-layout">
+2:T406f,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 乗り継ぎでオーストラリアに入国する際ETAS(イータス)申請は必要？</div>
 
@@ -45,12 +45,9 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="乗り継ぎでオーストラリアに入国する際ETAS(イータス)申請は必要？" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p07_01.webp" type="image/webp" width="640"/>
-<img alt="乗り継ぎでオーストラリアに入国する際ETAS(イータス)申請は必要？" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p07_01.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="transit1">オーストラリアでの乗り継ぎ方によって必要なビザが違う！？</h2>
-<p>ニュージーランドなどオセアニア諸国へ渡航する場合、オーストラリア経由での渡航ルートを利用する方が非常に増えております。<br />乗り換えのためにオーストラリアへ入国する場合、滞在条件によりビザ取得の必要性が異なりますので渡航前に確認しておきましょう。乗り継ぎなど一時的な滞在でもオーストラリアでは入国とみなされるため、基本的にはビザや<a class="link-no-color aioseop-link" href="http://xs640823.xsrv.jp/etas/">ETAS(イータス)</a>を取得しなければいけません。<br />オーストラリアでの乗り継ぎの際はETAS(イータス)やトランジットビザ(サブクラス771)の取得が適切ですが、諸条件を満たす乗り継ぎであればビザを取得せずに入国が認められる「無査証入国」の対象となる場合もあります。<br />このページではオーストラリアで乗り継ぎをする場合に必要となるビザや、無査証入国の条件などについて解説いたします。</p>
+<p>ニュージーランドなどオセアニア諸国へ渡航する場合、オーストラリア経由での渡航ルートを利用する方が非常に増えております。<br />乗り換えのためにオーストラリアへ入国する場合、滞在条件によりビザ取得の必要性が異なりますので渡航前に確認しておきましょう。乗り継ぎなど一時的な滞在でもオーストラリアでは入国とみなされるため、基本的にはビザや<a class="link-no-color aioseop-link" href="#">ETAS(イータス)</a>を取得しなければいけません。<br />オーストラリアでの乗り継ぎの際はETAS(イータス)やトランジットビザ(サブクラス771)の取得が適切ですが、諸条件を満たす乗り継ぎであればビザを取得せずに入国が認められる「無査証入国」の対象となる場合もあります。<br />このページではオーストラリアで乗り継ぎをする場合に必要となるビザや、無査証入国の条件などについて解説いたします。</p>
 <h3 class="wp-block-heading" id="transit2">無査証入国とは</h3>
 <p>Travellers eligible to transit without a visa (TWOV)と表記され、「ビザなしで通過する資格のある旅行」の意味を指します。<br />無査証入国とは乗り継ぎを目的としてオーストラリアに一時的な滞在を希望する渡航者に対し、いくつかの条件を満たすことでビザ取得を免除する制度です。</p>
 <h2 class="wp-block-heading" id="transit3">乗り継ぎの状況によりビザの必要性が異なります</h2>
@@ -81,10 +78,7 @@
 <p></p>
 <div class="Class_AB">
 <a aria-label="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/transit-771 (新しいタブで開く)" href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/transit-771" rel="noreferrer noopener" target="_blank">トランジットビザ (サブクラス771) オーストラリア政府移民局サイト</a></div>
-<picture>
-<source alt="オーストラリアの空港ごとに異なる乗り継ぎ時の条件" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p07_02.webp" type="image/webp" width="640"/>
-<img alt="オーストラリアの空港ごとに異なる乗り継ぎ時の条件" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p07_02.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="transit7">オーストラリアの空港ごとに異なる乗り継ぎ時の条件</h2>
 <p>無査証入国(TWOV)の対象になる渡航者でも、乗り継ぎの際に利用する空港によってETAS(イータス)申請やトランジットビザを取得する必要がある場合もあります。オーストラリアで乗り継ぎの予定がある方は事前に確認しておきましょう。</p>
 <h3 class="wp-block-heading" id="transit8">シドニー国際空港(SYD)、ケアンズ国際空港(CNS)、ゴールドコースト空港(OOL)</h3>
@@ -132,6 +126,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

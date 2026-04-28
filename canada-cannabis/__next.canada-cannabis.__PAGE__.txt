@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T491c,<div class="page-layout">
+2:T4724,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダの大麻(マリファナ)合法化に関する実情と注意点</div>
 
@@ -45,9 +45,7 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="カナダでの大麻合法化" class="img_big m20-t m20-b lazyloaded" height="425" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/a281180162f798cd31d6f073a04f7a8f.webp" type="image/webp" width="640"/><img alt="カナダでの大麻合法化" class="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/a281180162f798cd31d6f073a04f7a8f.jpg" width="640"/>
-</picture>
+
 <p>カナダでは政府による厳しい管理のもと、大麻(マリファナ)の生産や使用を認めています。かつてより医療分野での使用が認められていたカナダでは、医師による処方せんを取得することで大麻の購入が可能でした。他国よりも入手が容易で使用に対し寛容な習慣があることから、2割以上の市民が大麻を使用しています。<br />このページではカナダの大麻合法化に至った経緯や、市民や渡航者に与える影響などについて解説します。</p>
 <h2 class="wp-block-heading" id="marijuana1">2018年よりカナダでは大麻が合法に</h2>
 <p>カナダが大麻合法化に至ったきっかけは、2015年における総選挙に端を発します。大麻の合法化を公約に掲げたトルドー氏が大領領に就任し、関連する法案が2018年6月に可決。成人用の嗜好品として大麻の使用が法的に認められ、2018年10月17日に合法化となりました。</p>
@@ -71,7 +69,7 @@
 <h3 class="wp-block-heading" id="marijuana4-1">各州における法定年齢と大麻に関する制限</h3>
 <div class="scroll-table"><table><tbody><tr><td style="background:#f7f7f7;" width="230">州</td><td style="background:#f7f7f7;" width="100">法定年齢</td><td style="background:#f7f7f7;">購入場所</td><td style="background:#f7f7f7;" width="250">公的所有制限</td></tr><tr><td style="background:#fff;"><a href="https://www.alberta.ca/cannabis-legalization.aspx" rel="noopener" target="_blank">アルバータ州</a></td><td>18歳</td><td>政府が運営するオンラインストア、個人ライセンス取得による対面販売</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www2.gov.bc.ca/gov/content/safety/public-safety/cannabis" rel="noopener" target="_blank">ブリティッシュコロンビア州</a></td><td>19歳</td><td>政府が運営する直営店およびオンラインストア、政府承認による民間の小売店</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www.gov.mb.ca/cannabis/index.html" rel="noopener" target="_blank">マニトバ州</a></td><td>19歳</td><td>政府が運営するオンラインストア、政府承認による民間の小売店</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www2.gnb.ca/content/gnb/en/corporate/promo/cannabis.html" rel="noopener" target="_blank">ニューブランズウィック州</a></td><td>19歳</td><td>政府が運営する直営店およびオンラインストア</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www.gov.nl.ca/cannabis/" rel="noopener" target="_blank">ニューファンドランド・ラブラドール州</a></td><td>19歳</td><td>政府が運営するオンラインストア、政府承認による民間の小売店</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://novascotia.ca/cannabis/" rel="noopener" target="_blank">ノバスコシア州</a></td><td>19歳</td><td>政府が運営する直営店およびオンラインストア</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www.ontario.ca/page/cannabis" rel="noopener" target="_blank">オンタリオ州</a></td><td>19歳</td><td>政府が運営するオンラインストア、政府承認による小売店</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www.saskatchewan.ca/government/cannabis-in-saskatchewan" rel="noopener" target="_blank">サスカチュワン州</a></td><td>19歳</td><td>政府が運営するオンラインストア、個人ライセンス取得による対面販売</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www.princeedwardisland.ca/en/information/cannabis-policy-legislation-and-regulation" rel="noopener" target="_blank">プリンスエドワードアイランド州</a></td><td>19歳</td><td>政府が運営する直営店およびオンラインストア</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://encadrementcannabis.gouv.qc.ca/en/" rel="noopener" target="_blank">ケベック州</a></td><td>21歳</td><td>政府が運営する直営店およびオンラインストア</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://yukon.ca/cannabis#cannabis-legalization" rel="noopener" target="_blank">ユーコン準州</a></td><td>19歳</td><td>政府が運営するオンラインストア、政府承認による民間の小売店</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www.gov.nu.ca/finance/information/cannabis" rel="noopener" target="_blank">ヌナブト準州</a></td><td>19歳</td><td>政府が運営するオンラインストア、政府承認による小売店、個人ライセンス取得による対面販売</td><td>乾燥大麻または同等の大麻30グラム</td></tr><tr><td style="background:#fff;"><a href="https://www.eia.gov.nt.ca/en/cannabis" rel="noopener" target="_blank">ノースウェスト準州</a></td><td>19歳</td><td>政府が運営する直営店およびオンラインストア</td><td>乾燥大麻または同等の大麻30グラム</td></tr></tbody></table></div>
 <h2 class="wp-block-heading" id="marijuana5">短期のカナダ入国・渡航にはeTA(イータ)の申請が必要です</h2>
-<p>短期のビジネスや観光旅行を目的としてカナダへ渡航する際は、eTA(イータ)の事前申請が必要です。eTA(イータ)はカナダ連邦政府およびIRCC(カナダ移民・難民・市民権省)が定める電子渡航認証制度で、オンラインでの申請が必須となります。eTA(イータ)を利用してカナダへ渡航する際は、最長6か月間の滞在が可能です。6か月以内の滞在でも留学や就労を目的として渡航する際はビザの取得が求められますが、一般的な観光旅行等でカナダへ訪れる方はeTA(イータ)の申請を推奨します。<br />eTA(イータ)は申請日から5年間またはパスポートの期日まで有効となり、有効期限内であれば複数回のカナダ渡航が認められます。eTA(イータ)の申請方法は「<a href="http://xs640823.xsrv.jp/eta/flow/index.html">カナダ電子渡航認証eTA(イータ)申請方法の手順と記入例</a>」をご確認ください。</p>
+<p>短期のビジネスや観光旅行を目的としてカナダへ渡航する際は、eTA(イータ)の事前申請が必要です。eTA(イータ)はカナダ連邦政府およびIRCC(カナダ移民・難民・市民権省)が定める電子渡航認証制度で、オンラインでの申請が必須となります。eTA(イータ)を利用してカナダへ渡航する際は、最長6か月間の滞在が可能です。6か月以内の滞在でも留学や就労を目的として渡航する際はビザの取得が求められますが、一般的な観光旅行等でカナダへ訪れる方はeTA(イータ)の申請を推奨します。<br />eTA(イータ)は申請日から5年間またはパスポートの期日まで有効となり、有効期限内であれば複数回のカナダ渡航が認められます。eTA(イータ)の申請方法は「<a href="#">カナダ電子渡航認証eTA(イータ)申請方法の手順と記入例</a>」をご確認ください。</p>
 
  </div>
  </article>
@@ -103,6 +101,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

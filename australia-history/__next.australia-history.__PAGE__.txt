@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T5951,<div class="page-layout">
+2:T5315,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オーストラリアの歴史と成り立ち</div>
 
@@ -43,19 +43,17 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="Parliament of Australia" class="img_big m20-t m20-b lazyloaded" height="426" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/11/b6e35ed8a8587a53be9fc3e7a02bdd81.webp" type="image/webp" width="640"/><img alt="Parliament of Australia" class="img_big m20-t m20-b" decoding="async" height="426" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/11/b6e35ed8a8587a53be9fc3e7a02bdd81.jpg" width="640"/>
-</picture>
-<p>留学や観光先として日本人に人気のオーストラリアは、建国から120年ほどと西洋諸国と比較すると若い国家に数えられます。しかし、政府樹立までは先住民<a href="http://xs640823.xsrv.jp/etas/indigenouspeople/index.html">アボリジニ</a>による開拓期とイギリスによる植民地統治の長い歴史を持ち、観光スポットはそれらに根ざした遺跡や建造物を多く含みます。事前に国家の成り立ちや先人の足跡を学ぶことで、留学や観光旅行をより楽しむことができるでしょう。<br />このページではオーストラリアの歴史と関連する観光スポットや注目ポイントを紹介します。</p>
+
+<p>留学や観光先として日本人に人気のオーストラリアは、建国から120年ほどと西洋諸国と比較すると若い国家に数えられます。しかし、政府樹立までは先住民<a href="#">アボリジニ</a>による開拓期とイギリスによる植民地統治の長い歴史を持ち、観光スポットはそれらに根ざした遺跡や建造物を多く含みます。事前に国家の成り立ちや先人の足跡を学ぶことで、留学や観光旅行をより楽しむことができるでしょう。<br />このページではオーストラリアの歴史と関連する観光スポットや注目ポイントを紹介します。</p>
 <h2 class="wp-block-heading" id="history1">建国以前</h2>
 <h3 class="wp-block-heading" id="history1-1">先住民アボリジニによる開拓期</h3>
 <p>オーストラリアにおける最初の人類は、最終氷期にあたる約5万年前に南方のトレス海峡やアラフラ海を越えアジア方面から渡ってきました。アボリジニと総称される彼らは400を超える部族ごとに狩猟や採集を中心とした移動生活を送り、自然に対する信仰によって社会を維持していました。狩猟生活はヨーロッパ人探検家が訪れる17世紀まで続き、その間の長い歴史は部族内の言い伝えによってのみ受け継がれています。長く生活様式が変わらなかった要因として、間氷期の到来により他大陸と隔絶したことで、農耕文化をはじめとする様々な外的影響を受けなかったためと考えられています。</p>
 <div class="Class_J">
 <h4>アボリジニの文化とアート</h4>
-<p>閉ざされたオーストラリア大陸で数万年の歴史を紡ぐことで、アボリジニは土地や自然に関する深い知識と高度な精神文化を育みました。現存する最古の文化と言われるアボリジニの文化に根差したアボリジナルアートは、世界的に高い評価を受けています。アボリジナルアートはキーホルダーやワインのラベルなどにも用いられ、<a href="http://xs640823.xsrv.jp/etas/souvenirs/index.html#souvenirs12">オーストラリア土産</a>として人気があります。また、各地で伝統的な食事や儀式の体験ツアーが催行され、部族の歴史や文化を肌で感じることができます。<br />アボリジニの歴史および文化を体験できる観光スポットの詳細は「<a href="http://xs640823.xsrv.jp/etas/indigenouspeople/index.html">オーストラリアの先住民、アボリジニの文化と歴史について</a>」をご覧ください。</p>
+<p>閉ざされたオーストラリア大陸で数万年の歴史を紡ぐことで、アボリジニは土地や自然に関する深い知識と高度な精神文化を育みました。現存する最古の文化と言われるアボリジニの文化に根差したアボリジナルアートは、世界的に高い評価を受けています。アボリジナルアートはキーホルダーやワインのラベルなどにも用いられ、<a href="#">オーストラリア土産</a>として人気があります。また、各地で伝統的な食事や儀式の体験ツアーが催行され、部族の歴史や文化を肌で感じることができます。<br />アボリジニの歴史および文化を体験できる観光スポットの詳細は「<a href="#">オーストラリアの先住民、アボリジニの文化と歴史について</a>」をご覧ください。</p>
 </div>
 <h3 class="wp-block-heading" id="history1-2">ヨーロッパ諸国による探検隊の上陸　イギリス植民地時代へ</h3>
-<p>オーストラリア大陸へヨーロッパ人が最初に訪れたのは、大航海時代の17世紀初頭と言われます。しかし、香辛料や黄金などの資源が見つからなかったため、当時は開拓されませんでした。その後、新たな流刑地を必要としたイギリスが1770年にオーストラリア東海岸一帯の領有を宣言。11隻の船団で輸送された1,000人以上の囚人が、シドニー湾へ上陸しました。イギリス政府はその後も<a href="http://xs640823.xsrv.jp/etas/news/detail/tasmania-hobart.html">ホバート</a>、<a href="http://xs640823.xsrv.jp/etas/news/detail/goldcoast.html">ブリスベン</a>、<a href="http://xs640823.xsrv.jp/etas/news/detail/perth.html">パース</a>、<a href="http://xs640823.xsrv.jp/etas/news/detail/adelaide.html">アデレード</a>、<a href="http://xs640823.xsrv.jp/etas/news/detail/melbourne.html">メルボルン</a>など大陸全土に植民地を増設し、1824年に大陸名を「オーストラリア」としました。<br />19世紀半ばになるとイギリスからの流刑は廃止され、羊毛業や鉄鉱石の採掘で安定した経済を背景に、イギリス式議会制による州ごとの自治が始まりました。時期を同じくして、ニューサウスウェールズ州とビクトリア州で金鉱脈が発見されたことをきっかけにゴールドラッシュが発生。黄金を求めて世界中から移民が押し寄せ、約44万人の人口は10年間で3倍近くまで急増しました。</p>
+<p>オーストラリア大陸へヨーロッパ人が最初に訪れたのは、大航海時代の17世紀初頭と言われます。しかし、香辛料や黄金などの資源が見つからなかったため、当時は開拓されませんでした。その後、新たな流刑地を必要としたイギリスが1770年にオーストラリア東海岸一帯の領有を宣言。11隻の船団で輸送された1,000人以上の囚人が、シドニー湾へ上陸しました。イギリス政府はその後も<a href="#">ホバート</a>、<a href="#">ブリスベン</a>、<a href="#">パース</a>、<a href="#">アデレード</a>、<a href="#">メルボルン</a>など大陸全土に植民地を増設し、1824年に大陸名を「オーストラリア」としました。<br />19世紀半ばになるとイギリスからの流刑は廃止され、羊毛業や鉄鉱石の採掘で安定した経済を背景に、イギリス式議会制による州ごとの自治が始まりました。時期を同じくして、ニューサウスウェールズ州とビクトリア州で金鉱脈が発見されたことをきっかけにゴールドラッシュが発生。黄金を求めて世界中から移民が押し寄せ、約44万人の人口は10年間で3倍近くまで急増しました。</p>
 <div class="Class_J">
 <h4>イギリスの植民船団</h4>
 <p>囚人を乗せた11隻の船団は「ファースト・フリート(最初の植民船団)」と呼ばれ、シドニー湾へ接岸した1月26日は”<a href="https://australiaday.org.au/" target="_blank">Australia Day(建国記念日)</a>”に指定されています。この日はオーストラリア市民にとって重要な祝日で、毎年コンサートや船舶パレードなど様々なイベントが開催されます。1770年にシドニーに初来航したキャプテン・クックの立像があるシドニー<a href="https://www.cityofsydney.nsw.gov.au/parks/hyde-park" target="_blank">ハイドパーク</a>では、音楽コンサートやキャラクターショーなどが行われ、毎年多くの観光客が訪れます。<br />また、西オーストラリア州の都市パースにはキャプテン・クックがオーストラリア大陸へ船出した際に鳴らされた鐘があります。この鐘はかつてイギリス本国において数世紀にわたり王室関連の祝賀などに使用されました。現在はパースのランドマークとして知られる「<a href="https://www.thebelltower.com.au/" target="_blank">スワン・ベル・タワー</a>」で音色を響かせています。</p>
@@ -69,16 +67,14 @@
 <p>ゴールドラッシュによる移民の増加と農地拡大はオーストラリアへ急速な近代化を促しました。鉄道や電信、教育機関などのインフラが整備され世界有数の高所得地域となりましたが、1890年代に入り建設バブルが崩壊。失業率の上昇と高まる民衆の不満を背景に、中国人などの有色人種を規制する白豪主義へと傾倒していきます。白豪主義による連携と国防の強化、州を越えたより自由な貿易を求める声はその後も高まり続け、1901年1月1日、州を連合したオーストラリア連邦が発足。しかし、外交権や司法権は変わらずイギリスが保持しました。法的な完全独立は、イギリス政府の判断を適用しないことを定めた1986年の「オーストラリア法」成立まで待つこととなります。</p>
 <div class="Class_J">
 <h4>首都キャンベラと臨時首都メルボルン</h4>
-<p>連邦政府樹立の際、首都に指定されたのは<a href="http://xs640823.xsrv.jp/etas/news/detail/canberra.html">キャンベラ</a>でした。当初、初入植の地<a href="http://xs640823.xsrv.jp/etas/news/detail/sydney.html">シドニー</a>と最多人口を誇る<a href="http://xs640823.xsrv.jp/etas/news/detail/melbourne.html">メルボルン</a>が候補に挙がりましたが、政府は両都市の中間に新たな首都キャンベラの建設を決定しました。キャンベラは北のシティ・ヒルと南のキャピタル・ヒルで構成される整った街並みが特徴で、南北を隔てる”<a href="https://www.nca.gov.au/lake-burley-griffin" rel="noreferrer noopener" target="_blank">バーリー・グリフィン湖</a>”は市民の憩いの場として親しまれています。湖周辺には<a href="https://www.aph.gov.au/" rel="noreferrer noopener" target="_blank">連邦議会議事堂</a>や<a href="https://nga.gov.au/" rel="noreferrer noopener" target="_blank">国立美術館</a>などが揃い、中心街には<a href="https://canberracentre.qicgre.com/" rel="noreferrer noopener" target="_blank">ショッピングモール</a>があります。<br />また、メルボルンにはかつて臨時の連邦政府が置かれた<a href="https://museumsvictoria.com.au/reb/" rel="noreferrer noopener" target="_blank">王立展示館(Royal Exhibition Building)</a>と<a href="https://www.parliament.vic.gov.au/" rel="noreferrer noopener" target="_blank">ビクトリア州議事堂(Parliament of Victoria)</a>があります。王立展示館は最初の連邦議会が開催されたことで知られ、2004年に<a href="https://whc.unesco.org/en/list/1131" rel="noreferrer noopener" target="_blank">ユネスコ世界遺産</a>に登録されました。ビクトリア州議事堂は1927年まで同国の政治の中心となり、現在はビクトリア州政府が置かれています。州議会が開催される日を除き、<a href="https://www.parliament.vic.gov.au/visit" rel="noreferrer noopener" target="_blank">館内を見学</a>することができ、敷地内にあるカフェ”<a href="https://beta.parliament.vic.gov.au/events/restaurant-high-tea/" rel="noreferrer noopener" target="_blank">Strangers Corridor</a>”の伝統的なアフタヌーンティーは観光客にも人気です。</p>
+<p>連邦政府樹立の際、首都に指定されたのは<a href="#">キャンベラ</a>でした。当初、初入植の地<a href="#">シドニー</a>と最多人口を誇る<a href="#">メルボルン</a>が候補に挙がりましたが、政府は両都市の中間に新たな首都キャンベラの建設を決定しました。キャンベラは北のシティ・ヒルと南のキャピタル・ヒルで構成される整った街並みが特徴で、南北を隔てる”<a href="https://www.nca.gov.au/lake-burley-griffin" rel="noreferrer noopener" target="_blank">バーリー・グリフィン湖</a>”は市民の憩いの場として親しまれています。湖周辺には<a href="https://www.aph.gov.au/" rel="noreferrer noopener" target="_blank">連邦議会議事堂</a>や<a href="https://nga.gov.au/" rel="noreferrer noopener" target="_blank">国立美術館</a>などが揃い、中心街には<a href="https://canberracentre.qicgre.com/" rel="noreferrer noopener" target="_blank">ショッピングモール</a>があります。<br />また、メルボルンにはかつて臨時の連邦政府が置かれた<a href="https://museumsvictoria.com.au/reb/" rel="noreferrer noopener" target="_blank">王立展示館(Royal Exhibition Building)</a>と<a href="https://www.parliament.vic.gov.au/" rel="noreferrer noopener" target="_blank">ビクトリア州議事堂(Parliament of Victoria)</a>があります。王立展示館は最初の連邦議会が開催されたことで知られ、2004年に<a href="https://whc.unesco.org/en/list/1131" rel="noreferrer noopener" target="_blank">ユネスコ世界遺産</a>に登録されました。ビクトリア州議事堂は1927年まで同国の政治の中心となり、現在はビクトリア州政府が置かれています。州議会が開催される日を除き、<a href="https://www.parliament.vic.gov.au/visit" rel="noreferrer noopener" target="_blank">館内を見学</a>することができ、敷地内にあるカフェ”<a href="https://beta.parliament.vic.gov.au/events/restaurant-high-tea/" rel="noreferrer noopener" target="_blank">Strangers Corridor</a>”の伝統的なアフタヌーンティーは観光客にも人気です。</p>
 </div>
-<picture>
-<source alt="Darwin Military Museum" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/11/984432db8f8db9b27a50218a53b8b158.webp" type="image/webp" width="640"/><img alt="Darwin Military Museum" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/11/984432db8f8db9b27a50218a53b8b158.jpg" width="640"/>
-</picture>
+
 <h3 class="wp-block-heading" id="history2-2">第一次世界大戦と第二次世界大戦</h3>
 <p>オーストラリア連邦の成立から13年後の1914年、イギリスとドイツを中心として第一次世界大戦が勃発。イギリス連邦の加盟国であるオーストラリアからは、総人口の7％にあたる約33万人もの義勇兵が戦場に赴き、約6万人が亡くなりました。オーストラリアは第一次世界大戦で総人口の1%強もの犠牲を払い、国際連盟への加入と国際社会での地位を獲得しました。<br />大戦による社会的な混乱が落ち着き始めた1939年、ドイツがポーランドへ侵攻したことをきっかけに第二次世界大戦が起こります。オーストラリアはイギリスやアメリカを中心とした連合軍側として参戦し、日本軍による本土への空襲で多くの市民が犠牲となりました。日本が降伏勧告を受け入れ戦争が終結する1945年8月までに、約100万人の兵士がアフリカ、ヨーロッパ、アジアの戦地で戦いに従事しました。</p>
 <div class="Class_J">
 <h4>オーストラリア戦争記念館</h4>
-<p>首都特別地域(ACT)の<a href="http://xs640823.xsrv.jp/etas/news/detail/canberra.html">キャンベラ</a>にある<a href="https://www.awm.gov.au/" target="_blank">オーストラリア戦争記念館</a>には、第一次世界大戦と第二次世界大戦を中心に建国以降の戦争に関する資料が展示されています。記念エリアにはオーストラリア人戦没者約102,000人の名を刻んだ慰霊碑や、戦争をモチーフとした彫刻・記念碑を展示した庭園があります。博物館エリアには旧日本軍の遺品や戦闘機が展示され、<a href="https://www.australia.com/ja-jp/places/sydney-and-surrounds/guide-to-sydney-harbour.html" target="_blank">シドニー湾</a>の海底から引き揚げられた日本帝国海軍の潜航艇も見ることができます。</p>
+<p>首都特別地域(ACT)の<a href="#">キャンベラ</a>にある<a href="https://www.awm.gov.au/" target="_blank">オーストラリア戦争記念館</a>には、第一次世界大戦と第二次世界大戦を中心に建国以降の戦争に関する資料が展示されています。記念エリアにはオーストラリア人戦没者約102,000人の名を刻んだ慰霊碑や、戦争をモチーフとした彫刻・記念碑を展示した庭園があります。博物館エリアには旧日本軍の遺品や戦闘機が展示され、<a href="https://www.australia.com/ja-jp/places/sydney-and-surrounds/guide-to-sydney-harbour.html" target="_blank">シドニー湾</a>の海底から引き揚げられた日本帝国海軍の潜航艇も見ることができます。</p>
 </div>
 <div class="Class_J">
 <h4>カウラ捕虜収容所跡地 </h4>
@@ -91,7 +87,7 @@
 <p>移民が国家設立に大きく関わるオーストラリアでは、開拓に携わった先人たちに敬意を表し多くの記録と記念碑を残しています。<br /><a href="https://migration.history.sa.gov.au/" rel="noreferrer noopener" target="_blank">アデレードにある移民博物館</a>には、南オーストラリア州を中心とした移民の歴史が展示されています。館内には当時の日用品や実際にあったエピソードが紹介され、白豪主義から多文化主義へと移行していく様子を見学することができます。<br />メルボルンには<a href="https://museumsvictoria.com.au/immigrationmuseum/" rel="noreferrer noopener" target="_blank">メルボルン移民博物館</a>があります。同博物館ではMirka Mora(ミルカ・モラ)など、オーストラリアへ移住したアーティストの作品が展示されています。また、多文化に関するトークショーやワークショップなどを通じ、ビクトリア州における移民の歴史を学ぶことができます。博物館に隣接するトリビュートガーデンには、1800年代から2002年までに世界中の国からビクトリア州へ移住した方の氏名を刻んだパブリックアートが設置されています。<br />シドニーにある<a href="https://www.sea.museum/" rel="noreferrer noopener" target="_blank">オーストリア国立海洋博物館</a>では、現在も移住した方の刻銘を行っています。博物館に隣接するピアモント湾沿いの遊歩道には30,000人以上の名を刻んだブロンズパネルが並び、<a href="https://www.sea.museum/explore/online-exhibitions/waves-of-migration/immigration-stories" rel="noreferrer noopener" target="_blank">ホームページ</a>では当時の社会情勢や移住へ至ったエピソードを紹介しています。</p>
 </div>
 <h2 class="wp-block-heading" id="history3">短期のオーストラリア入国・渡航にはETAS(イータス)の事前申請が必要です</h2>
-<p>日本国籍の方が観光や短期のビジネスを目的としてオーストラリアへ渡航する際は、電子渡航認証システムETAS(イータス)の申請が必須です。ETAS(イータス)はオーストラリア移民局が定めた入国制度で、一度の渡航につき最長90日の滞在が可能です。90日以上の滞在を希望する方はETAS(イータス)申請の対象外となり、ビザの取得が必要となります。また、留学や現地での就労を目的として渡航する方もETAS(イータス)申請の対象外となるため、目的に合わせたビザの取得をご検討ください。<br />ETAS(イータス)に関する詳しい情報と申請方法は「<a href="http://xs640823.xsrv.jp/etas/service/index.html">オーストラリア観光ビザのETAS(イータス)とは</a>」をご確認ください。</p>
+<p>日本国籍の方が観光や短期のビジネスを目的としてオーストラリアへ渡航する際は、電子渡航認証システムETAS(イータス)の申請が必須です。ETAS(イータス)はオーストラリア移民局が定めた入国制度で、一度の渡航につき最長90日の滞在が可能です。90日以上の滞在を希望する方はETAS(イータス)申請の対象外となり、ビザの取得が必要となります。また、留学や現地での就労を目的として渡航する方もETAS(イータス)申請の対象外となるため、目的に合わせたビザの取得をご検討ください。<br />ETAS(イータス)に関する詳しい情報と申請方法は「<a href="#">オーストラリア観光ビザのETAS(イータス)とは</a>」をご確認ください。</p>
 
  </div>
  </article>
@@ -123,6 +119,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

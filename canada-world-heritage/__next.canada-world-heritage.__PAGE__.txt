@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:Tc7e2,<div class="page-layout">
+2:Tc019,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダの世界遺産一覧</div>
 
@@ -55,10 +55,7 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="カナダの世界遺産一覧" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/c.webp" type="image/webp" width="640"/>
-<img alt="カナダの世界遺産一覧" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/c.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="heritage1">カナダは世界遺産の宝庫</h2>
 <p>自然豊かで広大な国土を有するカナダには、数多くの世界遺産が存在します。1978年にカナダで初めて登録されたニューファンドランド・ラブラドール州の“<a href="#h01">ランス・オ・メドー国定史跡</a>”から、2019年にアルバータ州の奇岩群“フードゥー/Hoodoo”が集まる“<a href="#h20">ライティング・オン・ストーン/アイシナイピ</a>”まで計20か所が世界遺産に登録されました。</p>
 <h3 class="wp-block-heading" id="heritage2">世界遺産/World Heritage Siteとは</h3>
@@ -78,10 +75,7 @@
 <h3 class="wp-block-heading" id="h04">州立恐竜自然公園 / Dinosaur Provincial Park</h3>
 <p>アルバータ州カルガリーの赤茶色で荒涼とした大地“<a href="https://www.travelalberta.com/jp/places-to-go/road-trips/canadian-badlands/" rel="noreferrer noopener" target="_blank">カナディアン・バッドランド / Badlands</a>”に位置する“州立恐竜自然公園”は、レッドディア川の渓谷にフードゥーと呼ばれる奇岩群が立ち並びます。園内には、白亜紀後期（約7,500万年前）の地層がむき出しになっている世界最大級の恐竜化石層があります。長年に渡り発掘と研究が行われる中で、150体以上の恐竜の骨が出土し、7科60種類の恐竜が生息していたと考えられています。中でもボーンヘッド骨化石密集層では1つの発掘場から12体の恐竜化石が発見されました。また、ドラムヘラーにある“<a href="https://tyrrellmuseum.com/" rel="noreferrer noopener" target="_blank">ロイヤル・ティレル古生物博物館 / The Royal Tyrrell Museum of Palaeontology</a>”では、恐竜やバージェス頁岩から発見されたバージェル動物群の化石を世界最大級の規模で展示しています。</p>
 <p>所在地：アルバータ州<br />行き方：カルガリー国際空港から車で約2時間半<br />登録年：1979年<br />公式サイト：<a href="https://albertaparks.ca/parks/south/dinosaur-pp/" rel="noreferrer noopener" target="_blank">https://albertaparks.ca/parks/south/dinosaur-pp/</a><br />ユネスコサイト：<a href="http://whc.unesco.org/en/list/71" rel="noreferrer noopener" target="_blank">http://whc.unesco.org/en/list/71</a></p>
-<picture>
-<source alt="スカン・グアイ（アンソニー島） / SGang Gwaay" class="img_big m20-t m20-b" height="507" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/02_1520.webp" type="image/webp" width="760"/>
-<img alt="スカン・グアイ（アンソニー島） / SGang Gwaay" class="img_big m20-t m20-b" decoding="async" height="507" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/02_1520.jpg" width="760"/>
-</picture>
+
 <h3 class="wp-block-heading" id="h05">スカン・グアイ（アンソニー島） / SGang Gwaay</h3>
 <p>スカン・グアイは、カナダのブリティッシュコロンビア州西部、<a href="https://jp-keepexploring.canada.travel/things-to-do/plan-your-trip-to-haida-gwaii" rel="noreferrer noopener" target="_blank">ハイダ・グアイ（旧：クイーンシャーロット諸島）</a>内<a href="https://www.pc.gc.ca/en/pn-np/bc/gwaiihaanas" rel="noreferrer noopener" target="_blank">グアイ・ハアナス国立公園</a>の最南端にある無人島“アンソニー島”にあります。カナダの先住民ハイダ族が暮らしていたとされ、集落跡やハイダ族の神話、伝説の鳥サンダーバードが刻まれている約10メートルある32本のトーテムポールなどがそのままの姿で残されています。1981年にスカン・グアイが世界遺産に登録された際、ハイダ族の要望により修復や復元を意図的に行わず自然のままに朽ちていくことが選択され、世界遺産としては珍しい“朽ちていく世界遺産”として知られます。</p>
 <p>所在地：ブリティッシュコロンビア州<br />行き方：モースビー島のサンドスピット空港からフェリーでグラハム島のスキッドゲートへ、ボートやカヤックでアンソニー島に上陸<br />登録年：1981年<br />公式サイト：<a href="https://www.pc.gc.ca/en/culture/spm-whs/sites-canada/sec02f" rel="noreferrer noopener" target="_blank">https://www.pc.gc.ca/en/culture/spm-whs/sites-canada/sec02f</a><br />ユネスコサイト：<a href="http://whc.unesco.org/en/list/157" rel="noreferrer noopener" target="_blank">http://whc.unesco.org/en/list/157</a></p>
@@ -94,10 +88,7 @@
 <h3 class="wp-block-heading" id="h08">カナディアン・ロッキー山脈自然公園群 / Canadian Rocky Mountain Parks</h3>
 <p>カナディアン・ロッキー山脈自然公園群は、アルバータ州の<a href="https://www.pc.gc.ca/en/pn-np/ab/banff" rel="noreferrer noopener" target="_blank">バンフ国立公園</a>、<a href="https://www.pc.gc.ca/en/pn-np/ab/jasper" rel="noreferrer noopener" target="_blank">ジャスパー国立公園</a>、<a href="https://www.pc.gc.ca/en/pn-np/bc/yoho" rel="noreferrer noopener" target="_blank">ヨーホー国立公園</a>、<a href="https://www.pc.gc.ca/en/pn-np/bc/kootenay" rel="noreferrer noopener" target="_blank">クートニ―国立公園</a>、ブリティッシュコロンビア州の<a href="https://bcparks.ca/explore/parkpgs/mt_assiniboine/" rel="noreferrer noopener" target="_blank">アシニボイン山州立公園</a>、<a href="https://bcparks.ca/explore/parkpgs/mt_robson/" rel="noreferrer noopener" target="_blank">マウントロブソン州立公園</a>、<a href="https://bcparks.ca/explore/parkpgs/hamber/" rel="noreferrer noopener" target="_blank">ハンバー州立公園</a>の7つの公園から構成されています。総面積は2万3,000平方キロメートルと広大で、園内には3,954メートルの<a href="https://visitvalemount.ca/summer/mount-robson-provincial-park/" rel="noreferrer noopener" target="_blank">マウントロブソン</a>をはじめ、3,000メートル級の険しい山々、氷河、氷河湖、滝、渓谷、鍾乳洞、化石など手付かずの自然が残ります。バンフ国立公園の<a href="https://www.travelalberta.com/jp/listings/lake-louise-1202/" rel="noreferrer noopener" target="_blank">レイク・ルイーズ</a>は光の加減で変化する湖水の色から“ロッキーの宝石”、ジャスパー国立公園の<a href="https://www.travelalberta.com/jp/listings/mount-edith-cavell-1211/" rel="noreferrer noopener" target="_blank">エディス・キャベル山</a>の中腹に留まる氷河は天使が羽を広げた様子に例えられ“エンジェル氷河”と称されます。</p>
 <p>所在地：アルバータ州、ブリティッシュコロンビア州<br />行き方：カルガリー国際空港からバンフまでバスで約2時間、エドモントン国際空港からジャスパーまでバスで約5時間<br />登録年：1984年、1990年<br />公式サイト：<a href="https://www.pc.gc.ca/en/culture/spm-whs/sites-canada/sec02h" rel="noreferrer noopener" target="_blank">https://www.pc.gc.ca/en/culture/spm-whs/sites-canada/sec02h</a><br />ユネスコサイト：<a href="http://whc.unesco.org/en/list/304" rel="noreferrer noopener" target="_blank">http://whc.unesco.org/en/list/304</a></p>
-<picture>
-<source alt="ケベック旧市街の歴史地区 / Historic District of Old Quebec" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/03_1520.webp" type="image/webp" width="760"/>
-<img alt="ケベック旧市街の歴史地区 / Historic District of Old Quebec" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/03_1520.jpg" width="760"/>
-</picture>
+
 <h3 class="wp-block-heading" id="h09">ケベック旧市街の歴史地区 / Historic District of Old Quebec</h3>
 <p>ケベック州の州都<a href="https://www.ville.quebec.qc.ca/" rel="noreferrer noopener" target="_blank">ケベックシティ</a>に位置する“ケベック旧市街の歴史地区”は、1600年代に入植したフランス人により築かれた北米最古の城塞都市です。地区内はアッパータウンとロウアータウンに分かれ、半数以上の建物が1850年以前に建てられました。セント・ローレンス川を望む高台に位置するアッパータウンには、フランスの古城を模したホテル“<a href="https://www.fairmont.com/frontenac-quebec/" rel="noreferrer noopener" target="_blank">シャトー・フロントナック</a>”、眼下の川や街を一望できる遊歩道“テラス・デュフラン”、シャンプラン像を中心に広がる“ダルム広場”、1647年に建設されたカナダ最古の教会“<a href="https://www.notre-dame-de-quebec.org/" rel="noreferrer noopener" target="_blank">ノートルダム大聖堂</a>”があります。ロウアータウンには、石畳が続くカナダ最古の繁華街“<a href="https://www.quartierpetitchamplain.com/en/" rel="noreferrer noopener" target="_blank">プチ・シャンプラン通り</a>”、1693年にフランス軍によって築かれた星形のケベック要塞“<a href="http://www.lacitadelle.qc.ca/en/" rel="noreferrer noopener" target="_blank">シタデル</a>”、シタデルの南部には英仏戦争の舞台となった戦場公園“<a href="http://www.ccbn-nbc.gc.ca/en/" rel="noreferrer noopener" target="_blank">エイブラハム平原</a>”が広がります。</p>
 <p>所在地：ケベック州<br />行き方：モントリオールから国内線で約45分、トロントから約1時間45分<br />登録年：1985年<br />公式サイト：<a href="https://www.pc.gc.ca/en/culture/spm-whs/sites-canada/sec02i" rel="noreferrer noopener" target="_blank">https://www.pc.gc.ca/en/culture/spm-whs/sites-canada/sec02i</a><br />ユネスコサイト：<a href="http://whc.unesco.org/en/list/300/" rel="noreferrer noopener" target="_blank">http://whc.unesco.org/en/list/300/</a></p>
@@ -113,10 +104,7 @@
 <h3 class="wp-block-heading" id="h13">ミグアシャ国立公園 / Miguasha National Park</h3>
 <p>ケベック州<a href="https://www.bonjourquebec.com/en/where-to-go/regions-of-quebec/gaspesie" rel="noreferrer noopener" target="_blank">ガスペ半島</a>の南海岸に位置する“ミグアシャ国立公園”は、約3億7000万年前の熱帯河口があった場所にあるため、“魚の時代”として知られるデボン紀（約4億1600万～3億5902万年前）の魚類から四肢動物への進化に関する重要な化石が数多く発掘されています。園内にあるシャルール湾の断崖に残るデボン紀のエスクミナック層からは、状態の良い魚類や脊椎動物の化石21種類と植物10種類の化石が発見され、生物学者や地学者たちから注目を集めました。園内にある“ミグアシャ自然歴史博物館”には、発掘された化石が1000点以上展示され、保存状態が良い化石には消化器系や軟骨まで確認できるものもあります。</p>
 <p>所在地：ケベック州<br />行き方：モントリオール・ピエール・エリオット・トルドー国際空港から国内線でチャーロ空港へ、そこから車で約1時間<br />登録年：1999年<br />公式サイト：<a href="https://www.sepaq.com/pq/mig/index.dot?language_id=1" rel="noreferrer noopener" target="_blank">https://www.sepaq.com/pq/mig/index.dot?language_id=1</a><br />ユネスコサイト：<a href="http://whc.unesco.org/en/list/686" rel="noreferrer noopener" target="_blank">http://whc.unesco.org/en/list/686</a></p>
-<picture>
-<source alt="リドー運河 / Rideau Canal" class="img_big m20-t m20-b" height="518" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/04_1520.webp" type="image/webp" width="760"/>
-<img alt="リドー運河 / Rideau Canal" class="img_big m20-t m20-b" decoding="async" height="518" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/04_1520.jpg" width="760"/>
-</picture>
+
 <h3 class="wp-block-heading" id="h14">リドー運河 / Rideau Canal</h3>
 <p>カナダの首都<a href="https://jp-keepexploring.canada.travel/places-to-go/ottawa" rel="noreferrer noopener" target="_blank">オタワ</a>とオンタリオ湖畔の<a href="https://www.cityofkingston.ca/" rel="noreferrer noopener" target="_blank">キングストン</a>までを結び、全長約202キロメートルに及ぶ“リドー運河”は1832年の開通以来、現在も使用される北米最古の運河です。イギリス植民地下に軍事物資の運搬目的で建設が開始されましたが、完成後は商業物資や移民の輸送に使用されました。現在はカナダ公園管理局“<a href="https://www.pc.gc.ca/en/index" rel="noreferrer noopener" target="_blank">パークス・カナダ</a>”により運営・管理が行われ、40以上の水門は手動で開閉されています。夏は遊覧船やカヌーが走り、冬は<a href="https://ottawatourism.ca/en/see-and-do/rideau-canal-skateway" rel="noreferrer noopener" target="_blank">世界で最も長いスケートリンク</a>として利用されます。</p>
 <p>所在地： オンタリオ州<br />行き方：オタワ・マクドナルド・カルティエ国際空港から車で10分<br />登録年：2007年<br />公式サイト：<a href="https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=503" rel="noreferrer noopener" target="_blank">https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=503</a><br />ユネスコサイト：<a href="http://whc.unesco.org/en/list/1221" rel="noreferrer noopener" target="_blank">http://whc.unesco.org/en/list/1221</a></p>
@@ -149,7 +137,7 @@
 <h3 class="wp-block-heading">カナダ北西部</h3>
 <ul class="wp-block-list"><li>ナハニ国立公園 / ノースウエスト準州</li><li>クルアーニー/ランゲル・セントイライアス/グレイシャー・ベイ/タッチェンシ / ユーコン準州、ブリティッシュコロンビア州</li><li>スカン・グアイ（アンソニー島） / ブリティッシュコロンビア州</li><li>ウッド・バッファロー国立公園 / ノースウエスト準州</li></ul>
 <h2 class="wp-block-heading" id="heritage5">カナダ入国・渡航にはeTA（イータ）の事前申請が必要</h2>
-<p>外国籍者がカナダへ渡航する際はビザを申請する必要がありますが、日本を含む<a href="http://xs640823.xsrv.jp/eta/service/index.html#%E3%82%AB%E3%83%8A%E3%83%80%E3%81%AE%E3%83%93%E3%82%B6%E5%85%8D%E9%99%A4%E5%9B%BD%E3%83%BB%E5%9C%B0%E5%9F%9F%E4%B8%80%E8%A6%A7">免除対象国</a>の国籍保持者は、渡航前に<a href="http://xs640823.xsrv.jp/eta/service/index.html">電子渡航認証のeTA（イータ）</a>を取得する事でビザが免除されます。eTA（イータ）申請はオンラインでの手続きとなり、認証が承認されるとパスポート情報に紐づいて電子的に管理されます。eTA（イータ）を取得すると観光または短期商用を目的とした最長6か月間のカナダ滞在が可能です。申請は“<a href="http://xs640823.xsrv.jp/eta/flow/index.html">申請方法の手順と記入例</a>”を参考に、すべての情報に誤りがないよう慎重に行いましょう。</p>
+<p>外国籍者がカナダへ渡航する際はビザを申請する必要がありますが、日本を含む<a href="#">免除対象国</a>の国籍保持者は、渡航前に<a href="#">電子渡航認証のeTA（イータ）</a>を取得する事でビザが免除されます。eTA（イータ）申請はオンラインでの手続きとなり、認証が承認されるとパスポート情報に紐づいて電子的に管理されます。eTA（イータ）を取得すると観光または短期商用を目的とした最長6か月間のカナダ滞在が可能です。申請は“<a href="#">申請方法の手順と記入例</a>”を参考に、すべての情報に誤りがないよう慎重に行いましょう。</p>
 
  </div>
  </article>
@@ -181,6 +169,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

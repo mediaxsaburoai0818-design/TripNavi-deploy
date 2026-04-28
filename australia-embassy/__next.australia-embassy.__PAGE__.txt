@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T2a10,<div class="page-layout">
+2:T2862,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オーストラリア大使館について</div>
 
@@ -37,10 +37,7 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt=" オーストラリア大使館について " class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p14_01.webp" type="image/webp" width="640"/>
-<img alt=" オーストラリア大使館について " class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p14_01.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="embassy1">オーストラリア大使館の主な業務</h2>
 <p> 在日オーストラリア大使館は日本での外交活動の拠点となっているほか、日本在住または滞在されているオーストラリアの方に対するパスポートの発行、緊急時の保護や情報提供などの領事サービスを行っています。<br />オーストラリアへ渡航する外国籍の方は必ずビザやETAS(イータス)申請が必要となりますが、全てオンラインにて申請が可能です。<br />在日オーストラリア大使館及び在日オーストラリア総領事館の窓口、郵送での申請手続きは受け付けておりませんのでご注意ください。 </p>
 <h3 class="wp-block-heading" id="embassy2">オーストラリアのビザやETAS(イータス)申請に関する情報について</h3>
@@ -145,6 +142,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

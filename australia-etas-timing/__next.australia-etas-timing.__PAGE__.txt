@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T30b5,<div class="page-layout">
+2:T2cab,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ ETAS(イータス)申請のベストなタイミングとは？</div>
 
@@ -37,12 +37,9 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="ETAS(イータス)申請のベストなタイミングとは？" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p09_01.webp" type="image/webp" width="640"/>
-<img alt="ETAS(イータス)申請のベストなタイミングとは？" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p09_01.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="timing1">ETAS(イータス)とは</h2>
-<p>オーストラリアに3ケ月以内の短期滞在を希望する方で、渡航目的が観光や短期のビジネスである場合はビザではなく<a class="link-no-color aioseop-link" href="http://xs640823.xsrv.jp/etas/">ETAS(イータス)</a>を取得することでオーストラリアへの渡航が可能となります。<br />ETAS(イータス)はオーストラリア政府が定める対象国・地域のパスポートを有する方のみが申請可能となっており、日本はこの対象国に該当しています。日本国籍を有する方で一般的なオーストラリア旅行を希望する場合はETAS(イータス)申請を行うことで渡航が認められます。<br />ETAS(イータス)は他のビザよりも申請手続きが簡易的で、オンライン上でパスポート情報、連絡先等を入力するだけでオーストラリアへの渡航許可を取得することが出来ます。</p>
+<p>オーストラリアに3ケ月以内の短期滞在を希望する方で、渡航目的が観光や短期のビジネスである場合はビザではなく<a class="link-no-color aioseop-link" href="#">ETAS(イータス)</a>を取得することでオーストラリアへの渡航が可能となります。<br />ETAS(イータス)はオーストラリア政府が定める対象国・地域のパスポートを有する方のみが申請可能となっており、日本はこの対象国に該当しています。日本国籍を有する方で一般的なオーストラリア旅行を希望する場合はETAS(イータス)申請を行うことで渡航が認められます。<br />ETAS(イータス)は他のビザよりも申請手続きが簡易的で、オンライン上でパスポート情報、連絡先等を入力するだけでオーストラリアへの渡航許可を取得することが出来ます。</p>
 <h3 class="wp-block-heading" id="timing2">ETAS(イータス)申請が必要なケース</h3>
 <div class="Class_D">
 <h5>一度の滞在が3ケ月以内であること</h5>
@@ -61,12 +58,9 @@
 </div>
 <h3 class="wp-block-heading" id="timing3">ETAS(イータス)申請はいつまでに行えばよいのでしょうか</h3>
 <p>オーストラリアへの渡航が決まりましたら早めの手続きをお勧めいたします。<br />通常、ETAS(イータス)は申請後すぐに審査結果が通知されますが、オーストラリア政府が主導となり管理しているETAS(イータス)オンラインアプリケーションの都合上、審査に時間がかかってしまうケースや承認されないケースもありますのでご注意ください。<br />ETAS(イータス)はオーストラリア国内で審査や運営を行っており、定期的にシステムメンテナスを行っております。<br />システムメンテナス中は審査が滞ってしまうことが報告されておりますのでオーストラリアへの渡航が決まり次第、航空チケットの手配と同時にETAS(イータス)申請を済ませることを推奨しております。</p>
-<picture>
-<source alt="ETAS(イータス)申請はいつまでに行えばよいのでしょうか" class="img_big m20-t m20-b" height="378" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p09_02.webp" type="image/webp" width="640"/>
-<img alt="ETAS(イータス)申請はいつまでに行えばよいのでしょうか" class="img_big m20-t m20-b" decoding="async" height="378" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p09_02.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="timing4">ETAS(イータス)申請が拒否されたら</h2>
-<p>ETAS(イータス)申請の審査結果が拒否となってしまった場合は、申請した内容に誤りがないか確認をしましょう。<br />特にパスポート番号や氏名の登録に間違いがないか、十分なご確認をお願いします。入力間違いを発見した際は、あらためてETAS(イータス)の申請手続きを行うことができますが、再度申請費用が必要となりますのでご注意ください。<br /><a class="aioseop-link" href="http://xs640823.xsrv.jp/etas/refusal/index.html">渡航認証が拒否された場合について詳しく見る </a><br />入力に間違いがなく拒否されてしまった方は訪問者ビザの申請をご検討ください。<br />オーストラリア政府は一時滞在用など、様々なビザを用意しております。渡航目的や滞在期間に合わせて該当するビザを取得しましょう。なお、犯罪歴があり刑期が12ケ月以上の有罪判決を受けたことがある方はETAS(イータス)申請の対象外となりますのでビザの申請をお願いします。</p>
+<p>ETAS(イータス)申請の審査結果が拒否となってしまった場合は、申請した内容に誤りがないか確認をしましょう。<br />特にパスポート番号や氏名の登録に間違いがないか、十分なご確認をお願いします。入力間違いを発見した際は、あらためてETAS(イータス)の申請手続きを行うことができますが、再度申請費用が必要となりますのでご注意ください。<br /><a class="aioseop-link" href="#">渡航認証が拒否された場合について詳しく見る </a><br />入力に間違いがなく拒否されてしまった方は訪問者ビザの申請をご検討ください。<br />オーストラリア政府は一時滞在用など、様々なビザを用意しております。渡航目的や滞在期間に合わせて該当するビザを取得しましょう。なお、犯罪歴があり刑期が12ケ月以上の有罪判決を受けたことがある方はETAS(イータス)申請の対象外となりますのでビザの申請をお願いします。</p>
 <h2 class="wp-block-heading" id="timing5">訪問者ビザ/Visitor visa(subclass600)について</h2>
 <p>オーストラリアはビザの種類がとても豊富です。訪問者ビザ(Visitor visas)、学生ビザ(Studying and training visas)、家族とパートナーの為のビザ(Family and partner visas)、就労ビザ(Working and skilled visas)、難民および人道的ビザ(Refugee and humanitarian visas)、その他のビザ(Other visas)の6つのカテゴリーに大きく分けられます。<br />そのカテゴリーの中で分類がなされており、“サブクラス600“のように数字が割り当てられています。訪問者ビザのサブクラス600は観光やビジネス(出張など)用のビザとなっております。”ストリーム”にて細かく分けられており観光ストリーム、ビジネス訪問者ストリーム、団体の中国国籍者ストリームなど全部で6種類あります。<br />日本国籍の方がETAS(イータス)申請を拒否された場合、訪問者ビザの中で取得可能な2つのストリームについてご紹介します。</p>
 <h3 class="wp-block-heading" id="timing6">観光ビザ(Tourist stream)</h3>
@@ -105,6 +99,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

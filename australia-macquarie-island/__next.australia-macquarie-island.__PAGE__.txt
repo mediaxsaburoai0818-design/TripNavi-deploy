@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T43e0,<div class="page-layout">
+2:T3cc9,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 【最南端の世界遺産】 オーストラリアのマッコーリー島</div>
 
@@ -50,35 +50,29 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="オーストラリアのマッコーリー島" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/597e52745109c1ef76c5daf75e8a99bf.webp" type="image/webp" width="640"/><img alt="オーストラリアのマッコーリー島" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/597e52745109c1ef76c5daf75e8a99bf.jpg" width="640"/>
-</picture>
+
 <p>オーストラリアと南極の中間に位置する無人島”マッコーリー島”は野生動物の楽園として知られ、固有種のロイヤルペンギンをはじめ多くの野生動物が生息しています。このページでは世界最南端に位置する世界遺産”マッコーリー島”の成り立ちや見どころ、アクセス方法について紹介します。</p>
 <h2 class="wp-block-heading" id="macquarie1">マッコーリー島とは</h2>
 <h3 class="wp-block-heading" id="macquarie1-1">マッコーリー島の成り立ち</h3>
 <p><a href="https://parks.tas.gov.au/explore-our-parks/macquarie-island-world-heritage-area" rel="noreferrer noopener" target="_blank">マッコーリー島</a>はインドプレートと太平洋プレートがぶつかり隆起した島で、およそ1,100～3,000万年前に形成されたと言われています。地球上で唯一、海底約6kmの深さにあるマントルから噴出した溶岩が地表に露出する部分があり、地質学的な希少性から1997年に<a href="http://whc.unesco.org/en/list/629" rel="noreferrer noopener" target="_blank">ユネスコ世界自然遺産</a>に登録されました。現在も年間数ミリほどの隆起を続け、世界中の地質学者が大きな関心を寄せています。</p>
 <h3 class="wp-block-heading" id="macquarie1-2">野生動物の楽園</h3>
-<p><a href="https://parks.tas.gov.au/explore-our-parks/macquarie-island-world-heritage-area" rel="noreferrer noopener" target="_blank">マッコーリー島</a>はオーストラリア大陸の南にある<a href="http://xs640823.xsrv.jp/etas/news/detail/tasmania-hobart.html">タスマニア島ホバート</a>から南東1,500kmの位置にあり、<a href="http://xs640823.xsrv.jp/etas/antarctic/index.html">南極大陸</a>からも1,300km離れている絶海の孤島です。一年を通して強烈な風と降雨量の多さから植物はほとんど育たず、海岸の斜面や内陸部の窪地にタソックと呼ばれるイネ科の多年草がわずかに生える程度です。しかし、周辺の海は栄養を豊富に含む冷たい南極還流とオーストラリア最大の暖流である<a href="https://earthobservatory.nasa.gov/images/15366/east-australian-current" rel="noreferrer noopener" target="_blank">東オーストラリア海流</a>がぶつかる海域となり、日本近海のような豊かな漁場を形成しています。餌となる小魚が多く集まることから、マッコーリー島はペンギンやアザラシなど海辺に生息する海洋動物にとって重要な繁殖地となりました。島の固有種ロイヤルペンギンをはじめ、キングペンギン、ジェンツーペンギン、イワトビペンギンなど25種類以上約350万羽の鳥類および約8万頭のミナミゾウアザラシが毎年繁殖のためにやってきます。繁殖シーズンとなる9～2月には浜辺を埋め尽くすほど巨大なペンギンのコロニーが形成され、そのすぐ傍ではミナミゾウアザラシが巨体を横たえている様子が見られます。運が良ければヒョウアザラシやニュージーランドアシカ、沖合に数種類のクジラも見ることができます。</p>
+<p><a href="https://parks.tas.gov.au/explore-our-parks/macquarie-island-world-heritage-area" rel="noreferrer noopener" target="_blank">マッコーリー島</a>はオーストラリア大陸の南にある<a href="#">タスマニア島ホバート</a>から南東1,500kmの位置にあり、<a href="#">南極大陸</a>からも1,300km離れている絶海の孤島です。一年を通して強烈な風と降雨量の多さから植物はほとんど育たず、海岸の斜面や内陸部の窪地にタソックと呼ばれるイネ科の多年草がわずかに生える程度です。しかし、周辺の海は栄養を豊富に含む冷たい南極還流とオーストラリア最大の暖流である<a href="https://earthobservatory.nasa.gov/images/15366/east-australian-current" rel="noreferrer noopener" target="_blank">東オーストラリア海流</a>がぶつかる海域となり、日本近海のような豊かな漁場を形成しています。餌となる小魚が多く集まることから、マッコーリー島はペンギンやアザラシなど海辺に生息する海洋動物にとって重要な繁殖地となりました。島の固有種ロイヤルペンギンをはじめ、キングペンギン、ジェンツーペンギン、イワトビペンギンなど25種類以上約350万羽の鳥類および約8万頭のミナミゾウアザラシが毎年繁殖のためにやってきます。繁殖シーズンとなる9～2月には浜辺を埋め尽くすほど巨大なペンギンのコロニーが形成され、そのすぐ傍ではミナミゾウアザラシが巨体を横たえている様子が見られます。運が良ければヒョウアザラシやニュージーランドアシカ、沖合に数種類のクジラも見ることができます。</p>
 <h3 class="wp-block-heading" id="macquarie1-3">野生動物への迫害の歴史</h3>
 <p>マッコーリー島に初めて人間が上陸したのは、イギリスによる植民地主義がオーストラリア全土へ広がりを見せた1810年と言われています。工業用オイルを得るための乱獲や持ち込まれたネコやウサギなどの外来動物の影響により、マッコーリー島の野生動物は大きく数を減らしました。20世紀に入り動植物や地質への科学的関心が高まったことで動物油脂産業は衰退しましたが、長年の乱獲と破壊された植生の回復には長い年月を必要とします。2014年に外来動物の駆除に成功したことで野生動物の数は徐々に増加していますが、近代的な観測設備の傍にはかつてアザラシやペンギンをオイルに変えた施設の跡地が今も残っています。</p>
 <h2 class="wp-block-heading" id="macquarie2">マッコーリー島を代表する野生動物たち</h2>
 <h3 class="wp-block-heading" id="macquarie2-1">ロイヤルペンギン / Royal penguin</h3>
 <p>体長約70cm、体重4～6kgほどのロイヤルペンギンはマッコーリー島にのみ生息し、主にオキアミ・小魚・イカなどを餌としています。王家を意味する「ロイヤル」は、白色の顔にかかる金色の冠羽が美しく気品に満ちていることが由来と言われています。同様に額に金色の冠羽をもつマカロニペンギンとよく似ていますが、ロイヤルペンギンは顔が白いのが特徴です。繁殖の季節は9～2月で、春となる10月に海岸や内陸の丘に作られた集団営巣地で産卵が始まります。夫婦が交代で温めた卵は1か月ほどで孵化し、夏の終わりとなる1～2月には羽毛が生え換わり親鳥と同じくらいの大きさに成長したヒナが巣立っていきます。<br />ロイヤルペンギンは<a href="https://www.iucnredlist.org/" rel="noreferrer noopener" target="_blank">IUCN</a>のレッドリストにて、近い将来絶滅危惧種に指定される可能性が高い”<a href="https://www.iucnredlist.org/species/22697797/132603136" rel="noreferrer noopener" target="_blank">近危急種</a>”に登録されています。現在、マッコーリー島には大小50か所以上の営巣地があり、2018年時点で約85万ペアの繁殖が確認されました。</p>
-<picture>
-<source alt="ロイヤルペンギン" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/0bbc9ee422bba8425cdd5ebfb466098e.webp" type="image/webp" width="640"/><img alt="ロイヤルペンギン" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/0bbc9ee422bba8425cdd5ebfb466098e.jpg" width="640"/>
-</picture>
+
 <h3 class="wp-block-heading" id="macquarie2-2">ミナミゾウアザラシ / Southern Elephant Seal</h3>
 <p>ミナミゾウアザラシは哺乳類でクジラ類に次ぐ巨体を持つ動物です。特にオスの重さは4トンにおよび、陸生肉食動物で最も重いホッキョクグマの7倍です。名前の由来はゾウのように膨らんだ特徴的な口元で、繁殖期には縄張りやハーレム(メスの群れ)を巡る争いで大きな咆哮を上げます。また、潜水能力が高く、水中に1～2時間も潜ることができます。これは筋細胞に酸素を蓄えるミオグロビンと呼ばれる物質を多く持ち、余剰のミオグロビンが血中に酸素を蓄えるヘモグロビンの臨時酸素貯蔵庫として機能しているためと考えられています。潜水可能な深度も2km以上と言われ、これは世界で最も深く潜れる哺乳類マッコウクジラに迫ります。<br />ミナミゾウアザラシのオスは13～14歳となった9月に繁殖地でハーレムを形成し、10月には海に戻る習性があります。繁殖地では餌を食べずにハーレムを守るため、海に戻る頃には体重が約半分まで減りほとんどのオスはそのまま海で生涯を終えます。<br />ミナミゾウアザラシは動物油脂産業が盛んだった19世紀に絶滅寸前まで個体数を減らし、<a href="https://www.iucnredlist.org/" rel="noreferrer noopener" target="_blank">IUCN</a>の<a href="https://www.iucnredlist.org/species/13583/45227247" rel="noreferrer noopener" target="_blank">レッドリスト</a>に登録されました。現在はマッコーリー島をはじめとする繁殖地の大半が世界遺産に登録され、保護下で徐々に数を増やしています。</p>
-<picture>
-<source alt="ミナミゾウアザラシSouthern Elephant Seal" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/f89739475fed4ada3fa521b4398f0801.webp" type="image/webp" width="640"/><img alt="ミナミゾウアザラシSouthern Elephant Seal" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/f89739475fed4ada3fa521b4398f0801.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="macquarie3">マッコーリー島の観光</h2>
 <h3 class="wp-block-heading" id="macquarie3-1">ベストシーズン</h3>
 <p>マッコーリー島は地球上で最も晴天が少ない場所のひとつです。1年を通して雪と強風が吹き荒れますが、繁殖シーズン中の11～2月は日照時間が増え1日3.5時間ほどの日照が見込まれます。この時期は南極圏で海中プランクトンが増加する白夜の時期と重なり、ペンギンやアザラシなど海洋動物の餌となるオキアミや小魚が豊富に集まります。島周辺には餌を求めてアシカやシャチ、クジラが姿を現すこともあり、繁殖を行う動物とともに豊かなファウナ(動物相)を形成。この短い亜南極の夏を見に、世界中から多くの観光客が訪れます。<br />浜辺を埋め尽くすロイヤルペンギンの巨大なコロニーや柔らかい産毛に包まれたヒナを見たい方は、子育てを行う12～2月の訪問がおすすめです。ヒナだけを集めた保育園のような集団へ夫婦で餌を運ぶ姿や、ヒナの産毛が生え換わる様子を見ることができます。<br />ミナミゾウアザラシの一生をかけたオス同士の戦いが行われるのは9月下旬～10月ですが、クルーズツアーが催行される12～2月は若いオスによる戦いの練習風景を見ることができます。口を大きく開き、特徴的な鼻を高く掲げ咆哮する姿は迫力があります。<br />マッコーリー島はツンドラ気候に属し、夏も含め厳しい寒さとなります。クルーズツアーに参加する際は防寒性に優れたウェアやニット帽、手袋などの防寒対策をお願いします。スマートフォンやカメラなどの電子機器は厳寒下ではバッテリーの消費が早くなるため、使い捨てカイロを貼るなどの対策も忘れず行いましょう。</p>
 <h3 class="wp-block-heading" id="macquarie3-2">アクセス</h3>
-<p>マッコーリー島は生息する海洋動物との衝突事故を防ぐため、本島を含む約75,000ヘクタールの海域を自然保護地区に指定し観光船の入域を禁止しています。マッコーリー島へは<a href="https://www.australia.com/ja-jp/places/tasmania.html" rel="noreferrer noopener" target="_blank">タスマニア島</a>の港町<a href="http://xs640823.xsrv.jp/etas/news/detail/tasmania-hobart.html">ホバート</a>やニュージーランド南部より夏期限定のクルーズツアーが催行され、海上から島の様子を観察することができます。乗船する際は双眼鏡やカメラを忘れずに用意しましょう。<br /><a href="https://hobartairport.com.au/" rel="noreferrer noopener" target="_blank">ホバート空港</a>へは<a href="http://xs640823.xsrv.jp/etas/news/detail/sydney.html">シドニー</a>や<a href="http://xs640823.xsrv.jp/etas/news/detail/melbourne.html">メルボルン</a>などの主要都市から直行便が運航されています。<br />ホバートから催行される南極観光クルーズでもマッコーリー島をはじめとする野生動物の繁殖地を見ることができます。南極への観光クルーズについては「<a href="http://xs640823.xsrv.jp/etas/antarctic/index.html">南極にアクセスできる国とは？南極への行き方や必需品</a>」をご覧ください。</p>
+<p>マッコーリー島は生息する海洋動物との衝突事故を防ぐため、本島を含む約75,000ヘクタールの海域を自然保護地区に指定し観光船の入域を禁止しています。マッコーリー島へは<a href="https://www.australia.com/ja-jp/places/tasmania.html" rel="noreferrer noopener" target="_blank">タスマニア島</a>の港町<a href="#">ホバート</a>やニュージーランド南部より夏期限定のクルーズツアーが催行され、海上から島の様子を観察することができます。乗船する際は双眼鏡やカメラを忘れずに用意しましょう。<br /><a href="https://hobartairport.com.au/" rel="noreferrer noopener" target="_blank">ホバート空港</a>へは<a href="#">シドニー</a>や<a href="#">メルボルン</a>などの主要都市から直行便が運航されています。<br />ホバートから催行される南極観光クルーズでもマッコーリー島をはじめとする野生動物の繁殖地を見ることができます。南極への観光クルーズについては「<a href="#">南極にアクセスできる国とは？南極への行き方や必需品</a>」をご覧ください。</p>
 <h2 class="wp-block-heading" id="macquarie4">短期のオーストラリア入国・渡航にはETAS(イータス)の事前申請が必要です</h2>
-<p>日本国籍の方が90日以内の観光や商用を目的としてオーストラリアへ渡航する際は、電子渡航認証“ETAS(イータス)”の申請が必須となります。事前にETAS(イータス)を取得していない方は航空機への搭乗が認められないため、オーストラリアを観光する際は必ず申請をお願いします。<br />ETAS(イータス)に関する詳細は「<a href="http://xs640823.xsrv.jp/etas/service/index.html">オーストラリア観光ビザのETAS(イータス)とは</a>」をご確認ください。</p>
+<p>日本国籍の方が90日以内の観光や商用を目的としてオーストラリアへ渡航する際は、電子渡航認証“ETAS(イータス)”の申請が必須となります。事前にETAS(イータス)を取得していない方は航空機への搭乗が認められないため、オーストラリアを観光する際は必ず申請をお願いします。<br />ETAS(イータス)に関する詳細は「<a href="#">オーストラリア観光ビザのETAS(イータス)とは</a>」をご確認ください。</p>
 
  </div>
  </article>
@@ -110,6 +104,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

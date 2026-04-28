@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T3b31,<div class="page-layout">
+2:T37de,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ eTA(イータ)申請が認証拒否となった場合の対処方法</div>
 
@@ -40,12 +40,9 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="認証拒否の理由とは" class="img_big m20-t m20-b" height="392" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p05_01.webp" type="image/webp" width="640"/>
-<img alt="認証拒否の理由とは" class="img_big m20-t m20-b" decoding="async" height="392" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p05_01.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="refusal1">認証拒否の理由とは</h2>
-<p><a class="link-no-color" href="http://xs640823.xsrv.jp/eta/">eTA(イータ)</a>は申請から数時間程で承認される場合が多く72時間以内には認証結果が通知されます。<br />申請時に入力した内容に問題があると判断された場合は、eTA(イータ)申請が“認証拒否”となるケースがあります。<br />認証拒否の主な原因として挙げられるのが、質問の回答欄に「はい」が含まれているケースです。質問は渡航者の過去の犯罪歴や他国での入国拒否の有無など、カナダ入国にあたり問題のない人物であるかを判断する重要なフィルターとなっています。質問事項に「はい」が1つでも該当している方は詳しい内容説明や追加書類を求められ、その後の審査により認証拒否となってしまう場合もあります。また、本来の回答が「いいえ」であるにも関わらず、誤って「はい」と入力した方や、事実と異なる内容を入力した方も認証拒否となることがございます。<br />カナダ移民・難民・市民権省(IRCC)のシステムには、過去に発給されたビザや許可証等の申請情報の記録が保管されています。質問事項を間違えて回答した場合、回答を変更して再度eTA(イータ)申請を行うことも可能ですが、虚偽申請と疑われ申請が拒否されたケースも報告されています。<br />申請時には各項目の質問内容を十分に確認し、正しい情報を入力するよう心がけましょう。</p>
+<p><a class="link-no-color" href="#">eTA(イータ)</a>は申請から数時間程で承認される場合が多く72時間以内には認証結果が通知されます。<br />申請時に入力した内容に問題があると判断された場合は、eTA(イータ)申請が“認証拒否”となるケースがあります。<br />認証拒否の主な原因として挙げられるのが、質問の回答欄に「はい」が含まれているケースです。質問は渡航者の過去の犯罪歴や他国での入国拒否の有無など、カナダ入国にあたり問題のない人物であるかを判断する重要なフィルターとなっています。質問事項に「はい」が1つでも該当している方は詳しい内容説明や追加書類を求められ、その後の審査により認証拒否となってしまう場合もあります。また、本来の回答が「いいえ」であるにも関わらず、誤って「はい」と入力した方や、事実と異なる内容を入力した方も認証拒否となることがございます。<br />カナダ移民・難民・市民権省(IRCC)のシステムには、過去に発給されたビザや許可証等の申請情報の記録が保管されています。質問事項を間違えて回答した場合、回答を変更して再度eTA(イータ)申請を行うことも可能ですが、虚偽申請と疑われ申請が拒否されたケースも報告されています。<br />申請時には各項目の質問内容を十分に確認し、正しい情報を入力するよう心がけましょう。</p>
 <h3 class="wp-block-heading" id="refusal2">eTA(イータ)申請書における質問内容について</h3>
 <p>eTA(イータ)申請ではパスポート情報や個人情報の入力以外に、以下の4つの質問事項に回答しなければなりません。ご自身の状況に基づき、必ず正確に答えましょう。</p>
 <h4 class="wp-block-heading"><span class="has-inline-color has-black-color">Have you ever been refused a visa or permit, denied entry to, or ordered to leave Canada or any other country/territory?</span></h4>
@@ -58,7 +55,7 @@
 <p>以下の症状に該当するものはありますか。</p>
 <ul class="wp-block-list"><li>Untreated syphilis(未治療の梅毒)</li><li>Untreated drug or alcohol addiction(未治療の薬物またはアルコール依存症)</li><li>Untreated mental health condition with psychosis(未治療の精神疾患)</li></ul>
 <h2 class="wp-block-heading" id="refusal3">申請内容の確認</h2>
-<p>カナダ移民・難民・市民権省(IRCC)公式サイト内のeTA(イータ)申請確認ページでは、申請時にご入力いただいた個人情報や質問事項の回答など細かな項目を確認することができません。当サイトでeTA(イータ)申請をされた方についてはトップページの「<a href="http://xs640823.xsrv.jp/eta/form/status">申請状況確認</a>」をクリックし、申請IDを入力いただくと申請内容の詳細を確認することが可能です。申請IDとは当サイトでのeTA(イータ)申請時にお客様１名様ずつに振り分けられる番号で、申請受付完了通知に記載しております33桁の番号になります。申請後に不安のある方は申請情報確認ページにアクセスし、質問事項欄が全て「いいえ」であるか確認しましょう。</p>
+<p>カナダ移民・難民・市民権省(IRCC)公式サイト内のeTA(イータ)申請確認ページでは、申請時にご入力いただいた個人情報や質問事項の回答など細かな項目を確認することができません。当サイトでeTA(イータ)申請をされた方についてはトップページの「<a href="#">申請状況確認</a>」をクリックし、申請IDを入力いただくと申請内容の詳細を確認することが可能です。申請IDとは当サイトでのeTA(イータ)申請時にお客様１名様ずつに振り分けられる番号で、申請受付完了通知に記載しております33桁の番号になります。申請後に不安のある方は申請情報確認ページにアクセスし、質問事項欄が全て「いいえ」であるか確認しましょう。</p>
 <h3 class="wp-block-heading" id="refusal4">1. 入力間違いにより質問事項欄に「はい」が含まれる場合</h3>
 <p>質問事項に「はい」が含まれる方は理由を回答する必要があります。<br />カナダ移民・難民・市民権省(IRCC)のシステムには過去に発給されたビザや許可証等の情報が保管されているため、eTA(イータ)申請後に質問事項の回答間違えが判明し正しい内容で再申請を行ったとしても、虚偽申請と疑われ申請が却下される場合があります。質問に「はい」がひとつでも含まれている方はeTA(イータ)申請が拒否されてしまう恐れがありますのでご注意ください。<br />該当する方は当サイトより追加質問や確認のメールを送信する場合がありますので、正確なご回答をお願いいたします。</p>
 <h3 class="wp-block-heading" id="refusal5">2. 質問事項欄が全て「いいえ」の場合</h3>
@@ -67,10 +64,7 @@
 <figure class="wp-block-table"><table><tbody><tr><td>住所</td><td>〒105-0014 東京都港区芝1-4-3 SANKI 芝金杉橋ビル4F</td></tr><tr><td>電話番号</td><td>0120-961-673</td></tr><tr><td>営業時間</td><td>月曜日～金曜日(祝祭日は除く) 　10 : 00～17 : 00</td></tr><tr><td>公式サイト</td><td><a aria-label=" (新しいタブで開く)" href="https://www.vfsglobal.ca/canada/japan/japanese/" rel="noreferrer noopener" target="_blank">https://www.vfsglobal.ca/canada/japan/japanese/</a></td></tr><tr><td>お知らせ</td><td>カナダビザ申請センターは新型コロナウイルスの感染対策として窓口を閉鎖していましたが、2020年6月8日より東京・大阪ともに業務を再開しました。<br />同センターは、当面のあいだバイオメトリクスの登録やパスポート返却等のみの対応となります。<br />詳細はカナダビザ申請センターの「<a href="https://visa.vfsglobal.com/jpn/ja/can/" rel="noreferrer noopener" target="_blank">新型コロナウイルスによる営業時間など変更のお知らせ</a>」をご確認ください。</td></tr></tbody></table></figure>
 <p></p>
 
-<picture>
-<source alt="空港と飛行機" class="img_big m20-t m20-b" height="378" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p05_02.webp" type="image/webp" width="640"/>
-<img alt="空港と飛行機" class="img_big m20-t m20-b" decoding="async" height="378" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p05_02.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="refusal7">eTA(イータ)が認証拒否されてしまうケース</h2>
 <p>カナダ渡航の際は事前にeTA(イータ)申請またはビザの取得を行う必要があり、さらに現地の入国審査を受けたうえでカナダへの入国が可能となります。カナダ移民・難民・市民権省(IRCC)は以下の条件に該当する渡航者を入国拒否と判断する場合があるとアナウンスしています。</p>
 <ul class="wp-block-list"><li>スパイ活動やテロ行為等によりカナダの安全を脅かす恐れがある人物</li><li>戦争や非人道的な行為に関与し、人権または国際的な権利を侵害した人物</li><li>犯罪や意図的なオーバーステイなどの理由で強制送還された履歴がある人物</li><li>麻薬の所持、飲酒運転等の犯歴がある人物</li><li>テロ組織や犯罪組織、反社会的な組織に関与している人物</li><li>感染症や精神疾患などによる医学的理由により健康状態に問題がある人物</li><li>経済的な自立や家族への経済的扶助が不可能である人物</li><li>虚偽の申告を行なった人物</li><li>移民、難民保護法に違反している人物</li><li>容認することができない家族をもつ人物</li></ul>
@@ -112,6 +106,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

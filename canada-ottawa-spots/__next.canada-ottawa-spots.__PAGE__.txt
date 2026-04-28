@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:Tc39c,<div class="page-layout">
+2:Tb072,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダの首都”オタワ”のおすすめ観光スポット15選</div>
 
@@ -53,15 +53,13 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="ottawa" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/f0531feb061674164577de51e255d6d7.webp" type="image/webp" width="640"/><img alt="ottawa" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/f0531feb061674164577de51e255d6d7.jpg" width="640"/>
-</picture>
-<p>オタワはカナダの東部に位置し、オンタリオ州とケベック州の州境となるオタワ川の沿岸にあります。カナダ経済を牽引する商都“<a href="http://xs640823.xsrv.jp/eta/news/detail/990100/ontario.html">トロント</a>“、文化を伝える芸術の街”<a href="http://xs640823.xsrv.jp/eta/news/detail/990100/quebec.html">モントリオール</a>“と並び、連邦議会議事堂を有する<a href="https://ottawatourism.ca/en" rel="noreferrer noopener" target="_blank">オタワ</a>は歴史と行政の中心地と称されます。ノートルダム大聖堂やユネスコ世界遺産に認定されたリドー運河など観光スポットが中心地に集まり、カナダの中でも観光しやすい都市と言えるでしょう。このページではオタワで開催される主要なイベントやおすすめグルメ、観光スポットを紹介します。</p>
+
+<p>オタワはカナダの東部に位置し、オンタリオ州とケベック州の州境となるオタワ川の沿岸にあります。カナダ経済を牽引する商都“<a href="#">トロント</a>“、文化を伝える芸術の街”<a href="#">モントリオール</a>“と並び、連邦議会議事堂を有する<a href="https://ottawatourism.ca/en" rel="noreferrer noopener" target="_blank">オタワ</a>は歴史と行政の中心地と称されます。ノートルダム大聖堂やユネスコ世界遺産に認定されたリドー運河など観光スポットが中心地に集まり、カナダの中でも観光しやすい都市と言えるでしょう。このページではオタワで開催される主要なイベントやおすすめグルメ、観光スポットを紹介します。</p>
 <h2 class="wp-block-heading" id="ottawa1">オタワとは</h2>
 <h3 class="wp-block-heading" id="ottawa1-1">政府機関や国立の文化施設が集結する自然豊かな国際都市</h3>
-<p><a href="https://ottawatourism.ca/en" rel="noreferrer noopener" target="_blank">オタワ</a>は<a href="http://xs640823.xsrv.jp/eta/news/detail/990100/ontario.html">トロント</a>、<a href="http://xs640823.xsrv.jp/eta/news/detail/990100/quebec.html">モントリオール</a>、<a href="http://xs640823.xsrv.jp/eta/news/detail/990100/britishcolumbia.html">バンクーバー</a>に次ぐカナダで4番目に人口が多い都市です。かつて先住民族の交易地として栄え、1857年のイギリス植民地時代にビクトリア女王により首都に選定されました。街の名称“オタワ”は”交易”を意味する先住民族の言葉に由来します。ユネスコ世界遺産に登録された<a href="https://www.visitrideaucanal.com/" rel="noreferrer noopener" target="_blank">リドー運河</a>やヨーロッパの建築様式で建てられた建造物が並ぶ街並みからはカナダの歴史を垣間見ることができます。<br />オタワには<a href="https://www.parl.ca/" rel="noreferrer noopener" target="_blank">連邦議会議事堂</a>や各国の大使館、<a href="https://www.gallery.ca/" rel="noreferrer noopener" target="_blank">国立美術館</a>など公共施設が集結し、通りは庭園のように緑豊かに整備されています。134の緑地公園が点在することから”水と緑の街”とも呼ばれ、春にはオランダ王室から友好の証として贈られる1万株のチューリップがカラフルに街を飾ります。冬に開催される”<a href="https://www.canada.ca/en/canadian-heritage/campaigns/winterlude.html" rel="noreferrer noopener" target="_blank">ウィンタールード</a>”では氷雪の彫刻やスケートリンクが設置され、カナダを代表する冬のイベントとして毎年約60万人もの観光客が訪れます。</p>
+<p><a href="https://ottawatourism.ca/en" rel="noreferrer noopener" target="_blank">オタワ</a>は<a href="#">トロント</a>、<a href="#">モントリオール</a>、<a href="#">バンクーバー</a>に次ぐカナダで4番目に人口が多い都市です。かつて先住民族の交易地として栄え、1857年のイギリス植民地時代にビクトリア女王により首都に選定されました。街の名称“オタワ”は”交易”を意味する先住民族の言葉に由来します。ユネスコ世界遺産に登録された<a href="https://www.visitrideaucanal.com/" rel="noreferrer noopener" target="_blank">リドー運河</a>やヨーロッパの建築様式で建てられた建造物が並ぶ街並みからはカナダの歴史を垣間見ることができます。<br />オタワには<a href="https://www.parl.ca/" rel="noreferrer noopener" target="_blank">連邦議会議事堂</a>や各国の大使館、<a href="https://www.gallery.ca/" rel="noreferrer noopener" target="_blank">国立美術館</a>など公共施設が集結し、通りは庭園のように緑豊かに整備されています。134の緑地公園が点在することから”水と緑の街”とも呼ばれ、春にはオランダ王室から友好の証として贈られる1万株のチューリップがカラフルに街を飾ります。冬に開催される”<a href="https://www.canada.ca/en/canadian-heritage/campaigns/winterlude.html" rel="noreferrer noopener" target="_blank">ウィンタールード</a>”では氷雪の彫刻やスケートリンクが設置され、カナダを代表する冬のイベントとして毎年約60万人もの観光客が訪れます。</p>
 <h3 class="wp-block-heading" id="ottawa1-2">日本とオタワの時差</h3>
-<p>東西に広大な国土を持つカナダは州ごとに「太平洋標準時」「山岳部標準時」「中部標準時」「東部標準時」「大西洋標準時」「ニューファンドランド標準時」の6つのタイムゾーンに分かれます。オタワがあるオンタリオ州は「東部標準時」を採用しているため、日本との時差は14時間です。サマータイムとなる3月中旬から11月初旬は13時間の時差となります。日本とオタワは昼夜がほぼ反対となるため、旅行中に日本にいる家族や友人と連絡をとる際は注意が必要です。<br />日本とカナダの時差の詳細はカナダ基本情報「<a href="http://xs640823.xsrv.jp/eta/time_difference/index.html">カナダ主要都市と日本の時差・サマータイムについて</a>」をご覧ください。</p>
+<p>東西に広大な国土を持つカナダは州ごとに「太平洋標準時」「山岳部標準時」「中部標準時」「東部標準時」「大西洋標準時」「ニューファンドランド標準時」の6つのタイムゾーンに分かれます。オタワがあるオンタリオ州は「東部標準時」を採用しているため、日本との時差は14時間です。サマータイムとなる3月中旬から11月初旬は13時間の時差となります。日本とオタワは昼夜がほぼ反対となるため、旅行中に日本にいる家族や友人と連絡をとる際は注意が必要です。<br />日本とカナダの時差の詳細はカナダ基本情報「<a href="#">カナダ主要都市と日本の時差・サマータイムについて</a>」をご覧ください。</p>
 <h3 class="wp-block-heading" id="ottawa1-3">オタワで開催される主なイベント</h3>
 <h4 class="wp-block-heading">カナダを代表する冬の祭典 “ウィンタールード”</h4>
 <p>ウィンタールードは2月の第1～3週の週末に開催され、60万人以上の観光客が訪れます。市内に点在するイベント会場では雪の滑り台や氷の彫刻が設置され、音楽コンサートやダンスパーティー、スキーレースなど様々な催しが行われます。メイン会場となる<a href="https://www.visitrideaucanal.com/" rel="noreferrer noopener" target="_blank">リドー運河</a>には7.8kmにわたるアイススケートリンクや屋台が設置され、多くの市民や観光客で賑わいます。イベントは週末に開催されますが、コンフェデレーション公園で開催される氷の彫刻”クリスタルガーデン”は平日もライトアップされます。</p>
@@ -97,7 +95,7 @@
 <strong>開催日：</strong>12月上旬～1月上旬<br /><strong>開催場所：</strong>連邦議会議事堂(Parliament of Canada)、他<br /><strong>公式サイト：</strong><a href="https://www.canada.ca/en/canadian-heritage/campaigns/christmas-lights.html" rel="noreferrer noopener" target="_blank">Christmas Lights Across Canada</a></div>
 <h3 class="wp-block-heading" id="ottawa1-4">おすすめグルメ</h3>
 <h4 class="wp-block-heading">メープルシロップ / maplesyrup</h4>
-<p>オタワのスーパーや市場では多くのメープルシロップが売られています。パンケーキのほかに日常の調味料として肉や魚介のグリルなど様々な料理に使われます。また、メープルシロップを使用した商品も種類豊富にあり、メープルコーヒーやメープルティーはお土産にもおすすめです。<br />メープルシロップについてはカナダ基本情報「<a href="http://xs640823.xsrv.jp/eta/maplesyrup/index.html">カナダのメープルシロップについて</a>」もご覧ください。</p>
+<p>オタワのスーパーや市場では多くのメープルシロップが売られています。パンケーキのほかに日常の調味料として肉や魚介のグリルなど様々な料理に使われます。また、メープルシロップを使用した商品も種類豊富にあり、メープルコーヒーやメープルティーはお土産にもおすすめです。<br />メープルシロップについてはカナダ基本情報「<a href="#">カナダのメープルシロップについて</a>」もご覧ください。</p>
 <h4 class="wp-block-heading">ビーバーテイル / BeaverTails</h4>
 <p>オタワの人気スイーツ”<a href="https://www.destinationontario.com/en-ca/beavertails" rel="noreferrer noopener" target="_blank">ビーバーテイル</a>”は、ビーバーの平たい尻尾に似せて伸ばした生地を揚げシナモンシュガーを振りかけたお菓子です。ビーバーはカナダ建国を後押しした動物で、16世紀の開拓時代に盛んに行われた毛皮の交易は多くの都市が築かれる原動力となりました。現在は国獣に指定され、自然保護活動のシンボルとしても親しまれています。”ビーバーテイル”はサクサクふわふわした柔らかい食感が特徴で、好みによりメープルシロップやチョコレートソースなどをトッピングして提供されます。カナダを代表するスイーツとして人気があり、<a href="http://byward-market.com/en/home/" rel="noreferrer noopener" target="_blank">バイワード・マーケット</a>にある<a href="https://beavertails.com/" rel="noreferrer noopener" target="_blank">第1号店</a>をはじめ世界各国に140店舗以上を展開しています。</p>
 <h4 class="wp-block-heading">オバマクッキー / Obama cookies</h4>
@@ -106,9 +104,7 @@
 <p>プディン・ショムール(失業者のプリン)は1929年の世界恐慌時にオタワと隣接する<a href="https://www.bonjourquebec.com/en" rel="noreferrer noopener" target="_blank">ケベック州</a>で生まれました。物資が不足する中、安価な材料だけで作ることができることからオタワ一帯に普及したスイーツとして知られます。現在では冷やして提供されるほか、温かいプリンに冷たいアイスクリームを添えて提供されるなど様々な食べ方で親しまれています。</p>
 <h4 class="wp-block-heading">メープルファッジ / Maple Fudge</h4>
 <p>メープルファッジはメープルシロップ、バター、生クリームを煮詰めて冷やし、キューブ状に切り分けたキャラメルのようなスイーツです。メープルシロップが凝縮され、とても甘く薫り高いのが特徴です。少ない材料で手軽に作ることができます。</p>
-<picture>
-<source alt="連邦議会議事堂 / Parliament of Canada" class="img_big m20-t m20-b lazyloaded" height="425" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/3202c7c435a133f655991e3c49085b2f.webp" type="image/webp" width="640"/><img alt="連邦議会議事堂 / Parliament of Canada" class="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/3202c7c435a133f655991e3c49085b2f.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="ottawa2">オタワのおすすめ観光スポット15選</h2>
 <h3 class="wp-block-heading" id="ottawa2-1">連邦議会議事堂 / Parliament of Canada</h3>
 <p>連邦議会議事堂は1859年より着工され、イギリス領から連邦制への移行と国家体制の整備と並行して1876年に完成しました。ネオ・ゴシック様式の壮麗な建物はオタワの象徴として親しまれていましたが、第一次世界大戦中の1916年に火災により焼失。1922年に<a href="https://www.ourcommons.ca/About/HistoryArtsArchitecture/collection_profiles/CP_Peace_Tower-e.htm" rel="noreferrer noopener" target="_blank">ピースタワー</a>とともに再建されました。議事堂は西棟、東棟、中央棟で構成され、中央棟の奥に高さ92mのピースタワーがあります。広場中央には1967年にカナダ建国100年を記念して灯された”Centennial Flame”が燃え、敷地内には20体以上の歴史的重要人物の立像や記念碑が点在しています。カナダ王室騎馬警察隊による<a href="https://army.gc.ca/en/4-canadian-division/ceremonial-guard/index.page" rel="noreferrer noopener" target="_blank">衛兵交代式</a>をはじめ、様々なイベントが行われています。</p>
@@ -122,9 +118,7 @@
 <p>戦争記念碑は<a href="https://www.visitrideaucanal.com/" rel="noreferrer noopener" target="_blank">リドー運河</a>沿いにあるコンフェデレーション広場にあります。第一次世界大戦による戦没者6万人を追悼する目的で建てられ、現在はすべての紛争で戦没したカナダ人の慰霊碑として市民に親しまれています。花崗岩で作られた巨大なアーチの下には第一次世界大戦に従軍したカナダ軍兵士の緻密なブロンズ像が設置され、戦争から平和へと前進する様子が表現されています。アーチの上部には平和と自由を象徴する彫像が飾られ、平和への祈りが込められています。</p>
 <div class="Class_AB">
 <strong>所在地：</strong>Confederation Square, Ottawa, Ontario K1N 9N6<br /><strong>公式サイト：</strong><a href="https://www.veterans.gc.ca/eng/remembrance/memorials/national-inventory-canadian-memorials/details/9429" rel="noreferrer noopener" target="_blank">National War Memorial</a></div>
-<picture>
-<source alt="ノートルダム大聖堂 / Notre-Dame Cathedral Basilica" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/cab9038766a495aefff1c627fa6eb66b.webp" type="image/webp" width="640"/><img alt="ノートルダム大聖堂 / Notre-Dame Cathedral Basilica" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/cab9038766a495aefff1c627fa6eb66b.jpg" width="640"/>
-</picture>
+
 <h3 class="wp-block-heading" id="ottawa2-4">ノートルダム大聖堂 / Notre-Dame Cathedral Basilica</h3>
 <p>ノートルダム大聖堂は1865年に建設されました。オタワで最大かつ最古の教会で、カナダの宗教芸術を代表する建物としてオタワ市指定遺産と<a href="https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=467" rel="noreferrer noopener" target="_blank">カナダ国定史跡</a>に登録されています。銀色に輝く2つの尖塔を持つ落ち着いた佇まいですが、内部は星空を描いた青い天井や金色の聖母子像、聖人を表現した色鮮やかなステンドグラスが飾られ見応えがあります。聖堂内はミサの時間を除き見学が可能で、5月中旬から10月中旬には45～60分の<a href="https://www.notredameottawa.com/guided-tours" rel="noreferrer noopener" target="_blank">ガイド付きツアー</a>も催行されています。ツアーへの参加を希望する場合は予約が必要です。</p>
 <div class="Class_AB">
@@ -133,16 +127,12 @@
 <p>ロイヤル・カナディアン・ミントはカナダの造幣局です。<a href="https://www.travelmanitoba.com/places/winnipeg/" rel="noreferrer noopener" target="_blank">ウィニペグ</a>とオタワにあり、オタワでは主に記念コインや純度99.99％のメープルリーフ金貨を製造しています。カナダの硬貨はかつてロンドンにある<a href="https://www.royalmint.com/" rel="noreferrer noopener" target="_blank">イギリスの造幣局</a>で作られていましたが、需要の高まりによりオタワ支部を設立。国家体制の整備に伴い1931年にロイヤル・カナディアン・ミントとして独立した歴史を持ちます。チューダーゴシック様式の重厚な建物は1979年に<a href="https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=9212&amp;pid=0" rel="noreferrer noopener" target="_blank">カナダ国定史跡</a>に登録されました。英語とフランス語によるガイドツアーでは実際の製造工程やコインの展示を見学することができます。日本語でのガイドは行っていませんが、コインが鋳造される様子は見応えがあります。ロイヤル・カナディアン・ミントで買うことができる記念コインはお土産におすすめです。</p>
 <div class="Class_AB">
 <strong>所在地：</strong>320 Sussex Dr, Ottawa, ON K1A 0G8<br /><strong>公式サイト：</strong><a href="https://www.mint.ca/store/mint/visit-the-mint/visit-the-mint-1200026" rel="noreferrer noopener" target="_blank">Royal Canadian Mint</a></div>
-<picture>
-<source alt="リドー運河 / Rideau Canal" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/82d73d1245c1f43baa32eafcf2749a28.webp" type="image/webp" width="640"/><img alt="リドー運河 / Rideau Canal" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/82d73d1245c1f43baa32eafcf2749a28.jpg" width="640"/>
-</picture>
+
 <h3 class="wp-block-heading" id="ottawa2-6">リドー運河 / Rideau Canal</h3>
 <p>オタワと<a href="https://www.visitkingston.ca/" rel="noreferrer noopener" target="_blank">キングストン</a>を結ぶリドー運河は全長202kmにおよぶ北米最古の運河で、人や物資の輸送ルートとして1826年から1832年にかけて建設されました。船舶が水位の異なる水路を通るための”ロック”と呼ばれる水門は現在も使われ、閉じた水門の中で水位を調節し船舶が通過する様子を見ることができます。リドー運河は建設当時の美しい景観を今に残すことから2007年に<a href="https://whc.unesco.org/en/list/1221" rel="noreferrer noopener" target="_blank">ユネスコ世界文化遺産</a>に登録されました。オタワを代表する観光スポットとして人気があり、春から秋にかけては遊覧船クルーズ、冬は凍結した運河を利用したスケートを楽しむことができます。<a href="https://www.canada.ca/en/canadian-heritage/campaigns/winterlude.html" rel="noreferrer noopener" target="_blank">ウィンタールード</a>や<a href="https://tulipfestival.net/" rel="noreferrer noopener" target="_blank">チューリップフェスティバル</a>などのイベント会場としても知られ、運河沿いにはレストランやショップが集まっています。運河を利用したスケートリンクは、世界一長いスケートリンクとして2005年にギネスブックに登録されています。</p>
 <div class="Class_AB">
 <strong>所在地：</strong>Rideau Canal, Ottawa, Ontario<br /><strong>公式サイト：</strong><a href="https://www.visitrideaucanal.com/" rel="noreferrer noopener" target="_blank">Rideau Canal</a></div>
-<picture>
-<source alt="バイワード・マーケット / ByWard Market" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/1a74cccffa5c72710d0d861bab4d0a4b.webp" type="image/webp" width="640"/><img alt="バイワード・マーケット / ByWard Market" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/1a74cccffa5c72710d0d861bab4d0a4b.jpg" width="640"/>
-</picture>
+
 <h3 class="wp-block-heading" id="ottawa2-7">バイワード・マーケット / ByWard Market</h3>
 <p>バイワード・マーケットは1826年に設立されたカナダで最も古いパブリック・マーケットです。バイワード・マーケットの設立には<a href="https://www.visitrideaucanal.com/" rel="noreferrer noopener" target="_blank">リドー運河</a>建設の監督としてイギリスより派遣されたジョン・バイ中佐が大きく関わっています。バイ中佐が運河建設に先立って職人や労働者のための町を整備した功績から、町は”バイ・タウン”と呼ばれました。のちにオタワ川にちなみ”オタワ”へ改名されましたが、バイ中佐の名を冠したバイワード・マーケットは現在でも多くの買い物客で賑わう人気のマーケットとして市民に愛されています。旬の野菜や果物、生花など600を超える屋台が並び、中にはオタワの人気スイーツ”<a href="https://beavertails.com/" rel="noreferrer noopener" target="_blank">ビーバーテイル</a>”の第1号店もあります。敷地内にはギャラリーやレストランがあり休憩にもおすすめです。</p>
 <div class="Class_AB">
@@ -155,31 +145,23 @@
 <p>ローリエ・ハウスはカナダの第8代首相ウィルフリッド・ローリエと第12代首相ウィリアム・ライアン・マッケンジー・キングが使用した旧首相官邸です。居住エリアのほか執務や各国要人との社交の場としても使われ、1956年に<a href="https://www.pc.gc.ca/en/lhn-nhs/on/laurier" rel="noreferrer noopener" target="_blank">カナダ国定史跡</a>に登録されました。書斎や寝室などは一般開放され、マッケンジーが着用した制服や著名人のサインが記されたゲストブックなど当時の様子を偲ばせる展示物を見ることができます。ローリエ・ハウスへは<a href="https://www.parl.ca/" rel="noreferrer noopener" target="_blank">連邦議会議事堂</a>があるダウンタウン地区からバスが運行されています。</p>
 <div class="Class_AB">
 <strong>所在地：</strong>335 Laurier Avenue East Ottawa ON K1N 6R4<br /><strong>公式サイト：</strong><a href="https://www.pc.gc.ca/en/lhn-nhs/on/laurier" rel="noreferrer noopener" target="_blank">Laurier House National Historic Site</a></div>
-<picture>
-<source alt="ネピアン・ポイント / Nepean Point" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/1772e03479b2cf3b7e69b62826adc299.webp" type="image/webp" width="640"/><img alt="ネピアン・ポイント / Nepean Point" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/1772e03479b2cf3b7e69b62826adc299.jpg" width="640"/>
-</picture>
+
 <h3 class="wp-block-heading" id="ottawa2-10">ネピアン・ポイント / Nepean Point</h3>
 <p>ネピアン・ポイントは<a href="https://www.parl.ca/" rel="noreferrer noopener" target="_blank">連邦議会議事堂</a>とオタワ川一帯を一望できるビュースポットです。<a href="https://www.gallery.ca/" rel="noreferrer noopener" target="_blank">カナダ国立美術館</a>の裏手にあり、連邦議会議事堂とは<a href="https://www.visitrideaucanal.com/" rel="noreferrer noopener" target="_blank">リドー運河</a>を挟み対岸に位置します。オタワ川側から見る連邦議会議事堂は緑の丘に建つ<a href="https://www.ourcommons.ca/About/HistoryArtsArchitecture/collection_profiles/CP_Peace_Tower-e.htm" rel="noreferrer noopener" target="_blank">ピースタワー</a>を中心とした尖塔が印象的です。オタワ川の先には<a href="https://www.tourismeoutaouais.com/services/ville-de-gatineau/" rel="noreferrer noopener" target="_blank">ガティノー</a>の街並みを眺望することができます。オタワ川を探索したフランス人サミュエル・ド・シャンプレインの銅像や野外円形劇場があり、夏にはコンサートなどが行われます。</p>
 <div class="Class_AB">
 <strong>所在地：</strong>380 Sussex Drive Ottawa, Ontario, Canada K1N 9N4 (カナダ国立美術館の敷地内)<br /><strong>公式サイト：</strong><a href="https://ncc-ccn.gc.ca/places/nepean-point" rel="noreferrer noopener" target="_blank">Nepean Point</a></div>
-<picture>
-<source alt="カナダ国立美術館 / National Gallery of Canada" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/b2747fad99c715a2e8c2d31c9290c2d8.webp" type="image/webp" width="640"/><img alt="カナダ国立美術館 / National Gallery of Canada" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/b2747fad99c715a2e8c2d31c9290c2d8.jpg" width="640"/>
-</picture>
+
 <h3 class="wp-block-heading" id="ottawa2-11">オタワにある美術館・博物館</h3>
 <h4 class="wp-block-heading">カナダ国立美術館 / National Gallery of Canada</h4>
 <p>カナダ国立美術館は1880年に設立し、幾度かの移転を経て1988年にオタワ川沿いの現在の位置に建てられました。イスラエルの建築家モシュ・サフディによるガラス張り構造のデザインが印象的で、美術館前の広場には日本の<a href="https://www.roppongihills.com/facilities/publicart_design/" rel="noreferrer noopener" target="_blank">六本木ヒルズ</a>にある巨大な蜘蛛のオブジェ「Maman」が展示されていることでも知られます。館内では中世イタリアの宗教画をはじめゴッホやセザンヌ、クリムト、モネ、ゴーギャンといった現代美術の巨匠の作品を見ることができます。また、カナダ出身の画家集団”グループ・オブ・セブン”による絵画や、先住民族によるトーテムポールなど幅広いジャンルの作品が展示され、年間40万人以上が訪れます。</p>
 <div class="Class_AB">
 <strong>開館日：</strong>月曜日・水曜日・金曜日～日曜日 10:00～17:00　木曜日 10:00～20:00<br /><strong>所在地：</strong>380 Sussex Drive Ottawa, Ontario, Canada K1N 9N4<br /><strong>公式サイト：</strong><a href="https://www.gallery.ca/" rel="noreferrer noopener" target="_blank">National Gallery of Canada</a></div>
-<picture>
-<source alt="カナダ国立自然博物館 / Canadian Museum of Nature" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/055c24f19574274406383f30be52cba8.webp" type="image/webp" width="640"/><img alt="カナダ国立自然博物館 / Canadian Museum of Nature" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/055c24f19574274406383f30be52cba8.jpg" width="640"/>
-</picture>
+
 <h4 class="wp-block-heading">カナダ国立自然博物館 / Canadian Museum of Nature</h4>
 <p>カナダ国立自然博物館は<a href="https://www.parl.ca/" rel="noreferrer noopener" target="_blank">連邦議会議事堂</a>があるダウンタウン地区にあり、生物や天体の歴史などを展示しています。第一次世界大戦時に連邦議会議事堂が焼失した際はカナダ国立自然博物館で上下院議会が開かれました。4階建ての重厚な館内には恐竜の化石やアポロ17号が1972年に持ち帰った月の石、450種以上の鳥のはく製、北極圏の地理や生態系に関する展示が常設されています。また、屋外展示場では北極圏の森やツンドラなどに植生する約60種の植物を見ることができます。</p>
 <div class="Class_AB">
 <strong>開館日：</strong>水曜日、金曜日～日曜日 10:00～16:00、木曜日 10:00～19:00<br /><strong>所在地：</strong>240 McLeod St, Ottawa, Ontario K2P 2R1<br /><strong>公式サイト：</strong><a href="http://www.nature.ca/en/home" rel="noreferrer noopener" target="_blank">Canadian Museum of Nature</a></div>
-<picture>
-<source alt="カナダ歴史博物館(旧カナダ文明博物館) / Canadian Museum of History" class="img_big m20-t m20-b lazyloaded" height="357" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/0a5c4371562cc3b0c6e508c042ac1fc3.webp" type="image/webp" width="640"/><img alt="カナダ歴史博物館(旧カナダ文明博物館) / Canadian Museum of History" class="img_big m20-t m20-b" decoding="async" height="357" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/09/0a5c4371562cc3b0c6e508c042ac1fc3.jpg" width="640"/>
-</picture>
+
 <h4 class="wp-block-heading">カナダ歴史博物館(旧カナダ文明博物館) / Canadian Museum of History</h4>
 <p>カナダ歴史博物館は<a href="https://ncc-ccn.gc.ca/places/nepean-point" rel="noreferrer noopener" target="_blank">ネピアン・ポイント</a>からアレクサンドラ橋を渡ったオタワ川沿いにあります。年間120万人以上が訪れる人気の博物館で、先住民族の歴史や文化が紹介されています。常設展示ではカナダの先住民族による絵画や彫刻、トーテムポールのほか、ヨーロッパ人のカナダ入植の軌跡を見学することができます。館内にはIMAXシアターがあり、縦29ｍ横26ｍの巨大スクリーン(IMAX)と半円球型スクリーン(OMNIMAX)で自然をテーマとした作品を鑑賞することができます。また、敷地内には<a href="https://www.historymuseum.ca/visit/childrens-museum/" rel="noreferrer noopener" target="_blank">カナダ子どもの博物館(Canadian Children’s Museum)</a>が併設され、多くの親子連れが訪れます。日本やインドなど世界各国をテーマとしたおもちゃ箱のような館内で、子どもとともに楽しみながら文化の多様性を学ぶことができます。展示してあるレトロなバスや三輪タクシーなどには実際に乗ることができ、子供に人気のスポットです。</p>
 <div class="Class_AB">
@@ -193,7 +175,7 @@
 <div class="Class_AB">
 <strong>開館日：</strong>月曜日～木曜日(12月25日を除く) 10:00～16:00<br /><strong>所在地：</strong>11 Aviation Pkwy, Ottawa, ON K1K 2X5<br /><strong>公式サイト：</strong><a href="https://ingeniumcanada.org/aviation" rel="noreferrer noopener" target="_blank">Canada Aviation and Space Museum</a></div>
 <h2 class="wp-block-heading" id="ottawa3">短期のカナダ入国・渡航にはeTA(イータ)の事前申請が必要です</h2>
-<p>日本国籍の方がオタワ観光など90日以内の滞在を目的としてカナダへ渡航する際は、年齢を問わず電子渡航認証eTA(イータ)の申請手続きが必須となります。eTA(イータ)を管轄するIRCC(カナダ移民・難民・市民権省)では、少なくとも出発3日前までにオンラインにて申請を行うことを推奨しています。<br />eTA(イータ)に関する詳細は「<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)とは</a>」をご確認ください。</p>
+<p>日本国籍の方がオタワ観光など90日以内の滞在を目的としてカナダへ渡航する際は、年齢を問わず電子渡航認証eTA(イータ)の申請手続きが必須となります。eTA(イータ)を管轄するIRCC(カナダ移民・難民・市民権省)では、少なくとも出発3日前までにオンラインにて申請を行うことを推奨しています。<br />eTA(イータ)に関する詳細は「<a href="#">eTA(イータ)とは</a>」をご確認ください。</p>
 
  </div>
  </article>
@@ -225,6 +207,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

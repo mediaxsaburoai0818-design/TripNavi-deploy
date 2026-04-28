@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T5378,<div class="page-layout">
+2:T513a,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</div>
 
@@ -45,10 +45,8 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="カナダのオーロラ" class="img_big m20-t m20-b lazyloaded" height="426" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/08/51a37c8fa174a7db2ba308d437d1e54b.webp" type="image/webp" width="640"/><img alt="カナダのオーロラ" class="img_big m20-t m20-b" decoding="async" height="426" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/08/3409231b22e13fbe91ff857c285f178d.jpg" width="640"/>
-</picture>
-<p>広大な国土と雄大な自然に恵まれたカナダは、年間を通して幻想的なオーロラが観賞できる地としても知られています。特に<a href="http://xs640823.xsrv.jp/eta/news/detail/990100/northwest-territories/">ノースウエスト準州</a>のイエローナイフや<a href="http://xs640823.xsrv.jp/eta/news/detail/990100/yukon.html">ユーコン準州</a>のホワイトホースでは高確率でオーロラが観賞できるため、世界中から多くの観光客が訪れます。このページではカナダでオーロラを鑑賞できるベストシーズンや、鑑賞の際における注意点などについて解説します。</p>
+
+<p>広大な国土と雄大な自然に恵まれたカナダは、年間を通して幻想的なオーロラが観賞できる地としても知られています。特に<a href="#">ノースウエスト準州</a>のイエローナイフや<a href="#">ユーコン準州</a>のホワイトホースでは高確率でオーロラが観賞できるため、世界中から多くの観光客が訪れます。このページではカナダでオーロラを鑑賞できるベストシーズンや、鑑賞の際における注意点などについて解説します。</p>
 <h2 class="wp-block-heading" id="aurora1">カナダでオーロラ鑑賞ができる場所</h2>
 <p>オーロラは地球の磁気と太陽が放出するプラズマ(電気を帯びた粒子)が衝突することで放電し、そのエネルギーが光となって帯状に映る自然現象です。プラズマは地球の表面が発する磁場を横断して移動することが困難なため大半の地域で弾かれてしまいますが、北極と南極の磁場発生源ではプラズマが入り込みやすい環境にあるためオーロラの発生率が高くなります。オーロラが発生するエリアは「オーロラベルト」とよばれ、緯度60～70度の範囲にわたり帯状に広がります。カナダはオーロラベルトの直下にあるため、高い確率でオーロラを鑑賞することができる世界でも数少ない国です。</p>
 <h3 class="wp-block-heading" id="aurora2">高確率でオーロラが出現する「イエローナイフ」</h3>
@@ -122,6 +120,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

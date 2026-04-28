@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T559c,<div class="page-layout">
+2:T5361,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について</div>
 
@@ -40,12 +40,9 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について" class="img_big m20-t m20-b" height="448" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/MwuNKV8unDYn9Qn1587451444.webp" type="image/webp" width="640"/>
-<img alt="カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について" class="img_big m20-t m20-b" decoding="async" height="448" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/MwuNKV8unDYn9Qn1587451444.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="reapplication1">eTA(イータ)の有効期限は5年間となります</h2>
-<p><a class="aioseop-link" href="http://xs640823.xsrv.jp/eta/">eTA(イータ)</a>の有効期限は渡航認証許可が下りた日から5年間と定められております。延長という制度はございませんので、今後もカナダへ渡航する予定がある方はeTA(イータ)の有効期限が切れるタイミングに合わせ、改めて申請を行ってください。改めて申請を行うと、この先5年間有効な新しいeTA(イータ)番号が付与され、それまでのeTA(イータ)番号は使用できなくなりますので予めご了承ください。また、パスポートの有効期限が5年未満の場合は、パスポートの有効期限日と同日にeTA(イータ)も失効となりますのでご注意ください。カナダへの渡航が決まりましたらご本人様と同行者様のパスポートの有効期限をご確認いただき、有効期限に余裕のない場合はパスポートの更新をご検討ください。パスポートの有効期限が半年未満の場合は必ずパスポートを更新いただき、その後eTA(イータ)を申請されることをお勧めいたします。</p>
+<p><a class="aioseop-link" href="#">eTA(イータ)</a>の有効期限は渡航認証許可が下りた日から5年間と定められております。延長という制度はございませんので、今後もカナダへ渡航する予定がある方はeTA(イータ)の有効期限が切れるタイミングに合わせ、改めて申請を行ってください。改めて申請を行うと、この先5年間有効な新しいeTA(イータ)番号が付与され、それまでのeTA(イータ)番号は使用できなくなりますので予めご了承ください。また、パスポートの有効期限が5年未満の場合は、パスポートの有効期限日と同日にeTA(イータ)も失効となりますのでご注意ください。カナダへの渡航が決まりましたらご本人様と同行者様のパスポートの有効期限をご確認いただき、有効期限に余裕のない場合はパスポートの更新をご検討ください。パスポートの有効期限が半年未満の場合は必ずパスポートを更新いただき、その後eTA(イータ)を申請されることをお勧めいたします。</p>
 <h2 class="wp-block-heading" id="reapplication2">最大180日の滞在が可能となるカナダビザeTA(イータ)の特長とは？</h2>
 <p>2016年3月15日より、カナダでは外国籍渡航者を対象にした事前渡航認証システムeTA(イータ)が導入されました。eTA(イータ)は日本をはじめ、カナダが定めるビザ免除制度の国籍者が利用できる入国審査システムで、いわば簡易的なビザと言った方が分かりやすいかもしれません。空路を利用してカナダへ入国する外国籍の渡航者はeTA(イータ)による渡航認証許可か、ビザによる入国許可を事前に申請する必要があります。eTA(イータ)はビザよりも申請が簡易であり安価で済むため、一般的なカナダ渡航であればeTA(イータ)を利用しての渡航を推奨いたします。eTA(イータ)は米国のESTA(エスタ)やオーストラリアのETAS(イータス)など、他の渡航認証制度と大きく異なる点があります。それは、1回の渡航で可能な滞在期間が最大で6か月(180日以内)も認められているという点です。米国の場合は最大で3か月(90日以内)、オーストラリアの場合も最大で3か月(90日以内)の滞在期間となっておりますので、実に2倍もの滞在期間が認められております。もう1つの特長は有効期限が長いという点です。米国入国で必要なESTA(エスタ)の有効期限は2年間、オーストラリア入国で必要なETAS(イータス)の有効期限は1年間に対し、eTA(イータ)の有効期限は5年間となっております。eTA(イータ)は渡航認証制度の中で最も長い有効期限が設定されており、頻繁にカナダへ渡航される方々にはその利便性が高く評価されております。なお、eTA(イータ)は空路でカナダへ入国する場合のみ必要となる認証なので、客船などを利用して海路でカナダへ入国する場合についてはeTA(イータ)を申請する必要はありません。ただし、カナダ国内の空港で乗り継ぎをして第三国へ向かう場合や、数時間でもカナダ国内の空港に滞在する際はeTA(イータ)の申請が必要となりますのでご注意ください。</p>
 <h2 class="wp-block-heading" id="attention">期限が切れたら再申請が必要？新たにeTA(イータ)を申請する際の注意点</h2>
@@ -107,6 +104,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

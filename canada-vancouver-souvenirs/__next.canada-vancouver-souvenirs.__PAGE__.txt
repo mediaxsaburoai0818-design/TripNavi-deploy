@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T6a62,<div class="page-layout">
+2:T62b5,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダ・バンクーバーおすすめのお土産20選、定番から人気の雑貨までご紹介</div>
 
@@ -62,9 +62,7 @@
 </a></li></ul>
 </nav>
 </div>
-<picture>
-<source alt="バンクーバーおすすめのお土産20選" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/6b79284c44bb318448a725d72f2d79a4.webp" type="image/webp" width="640"/><img alt="バンクーバーおすすめのお土産20選" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/6b79284c44bb318448a725d72f2d79a4.jpg" width="640"/>
-</picture>
+
 <p>世界で2番目に広い国土を持つカナダにはカナディアンロッキー、ナイアガラの滝など数多くの世界遺産や名所が揃います。カナダは世界各国から旅行客が訪れる人気の高い観光地として知られ、国内有数の大都市“バンクーバー”にあるバンクーバー国際空港には日本からの直行便も運航しています。バンクーバーは比較的治安も良いことから旅行だけでなく留学先としても人気がありますが、「大人数へ配るお土産のおすすめは？」「定番のお土産以外に人気のある商品は？」など帰国時のお土産に頭を悩ませる方も多いのではないでしょうか。こちらのページではカナダ土産の定番品から現地のお土産屋さんやスーパーで購入できるおすすめ商品などを紹介します。</p>
 <h2 class="wp-block-heading" id="souvenir01">カナダ定番のお土産</h2>
 <h3 class="wp-block-heading" id="souvenir02">1. メープルシロップ</h3>
@@ -77,9 +75,7 @@
 <p>スモークサーモンはブリティッシュコロンビア州の名産品です。使用される鮭には色々な種類がありますが、中でも高級な天然サーモン“<a href="https://www.canada.jp/stories/post-4374/" rel="noreferrer noopener" target="_blank">ベニザケ(Sockeye Salmon)</a>”で作られたものは人気があります。スモークサーモンは冷凍のものや常温保存が可能な真空パックのものが販売されており、お土産として購入する際は持ち運びに便利な真空パックのタイプがおすすめです。おつまみとしてそのまま食べるのも良いですが、サラダやサンドイッチなど料理にも使いやすいのでお酒が飲めない方へのお土産にも良いでしょう。</p>
 <h3 class="wp-block-heading" id="souvenir06">5. アイスワイン</h3>
 <p>カナダでは甘口ワインの最高峰として知られる“<a href="https://winecountryontario.ca/icewine/" rel="noreferrer noopener" target="_blank">アイスワイン</a>”を世界で最も多く生産しています。アイスワインは気温の低い環境で凍結されたぶどうを使用して作られ、原料となる凍ったぶどうからは通常の果実の10％ほどしか果汁を採ることができません。希少な果汁を使ったワインであることから、「貴族のワイン」と呼ばれていました。お土産としてアイスワインを購入する際はパッケージの表記をしっかりと確認しましょう。自然のなかで凍結されたぶどうを使用したワインには“ice wine”、人工的に凍らせたぶどうを使用したワインは“iced wine”または“dessert wine”と表記されます。また、カナダワイン協定が認めた高品質なワインにはVQA(Vintners Quality Alliance)マークもあるため、この2点をチェックしてワインを選ぶことをおすすめします。</p>
-<picture>
-<source alt="カナダ土産のおすすめ20選" class="img_big m20-t m20-b lazyloaded" height="492" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/4ccb67acc8cef681abfe67020ac78178.webp" type="image/webp" width="640"/><img alt="カナダ土産のおすすめ20選" class="img_big m20-t m20-b" decoding="async" height="492" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/4ccb67acc8cef681abfe67020ac78178.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="souvenir07">カナダのスーパーで買えるお土産</h2>
 <h3 class="wp-block-heading" id="souvenir08">6. 「COFFEE CRISP」チョコレートバー</h3>
 <p>黄色いパッケージが目を引く“<a href="https://www.madewithnestle.ca/coffee-crisp" rel="noreferrer noopener" target="_blank">COFFEE CRISP(コーヒー・クリスプ)</a>”はカナダの国民的なお菓子です。コーヒー味とバニラ味のウエハースをミルクチョコレートでコーティングしたチョコレートバーは食べやすく、サクッとした軽い食感を楽しめます。コーヒー・クリスプは現地のスーパーやコンビニなどのレジ横に置いてある場合も多く気軽に購入することができ、カナダ限定で販売されるお菓子のためお土産におすすめです。また、個包装された小分けパッケージも販売されており、ばらまき用のお土産にも重宝します。</p>
@@ -91,9 +87,7 @@
 <p>カナダでは自宅に常備されていることが多いピーナッツバターはお土産にもおすすめです。中でも「<a href="https://www.kraftcanada.ca/brands/kraft-peanut-butter" rel="noreferrer noopener" target="_blank">Kraft Canada</a>」のピーナッツバターは国内シェアナンバーワンを誇ります。定番タイプのSmooth（スムース）、粒の食感を残したCrunchy (クランチー)、濃厚な味わいのExtra Creamy(エキストラクリーミー)など様々な種類が揃うため、好みに合わせて選ぶことができます。現地のスーパーでは5カナダドル前後で販売されており、クマのイラストがトレードマークの可愛らしいパッケージが目印です。</p>
 <h3 class="wp-block-heading" id="souvenir12">10. ツーバイトブラウニー / Two-bite brownies</h3>
 <p><a href="https://www.twobite.ca/" rel="noreferrer noopener" target="_blank">ツーバイトブラウニー</a>はサクサクとした外側と中のしっとり柔らかな食感が人気のチョコレートブラウニーです。チョコレートの濃厚な味わいが楽しめるため、甘いものが好きな方へのお土産にいかがでしょうか。ツーバイトブラウニーはその名の通り“2口で食べることができる”程の小さめサイズのブラウニーが一袋にいくつか入った状態で販売されています。中でも小袋パックの商品は丁度よいサイズ感なのでお土産におすすめです。</p>
-<picture>
-<source alt="カナダ土産のおすすめ20選" class="img_big m20-t m20-b lazyloaded" height="425.5" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/0a39a90609da59b1e8511336a7097d29.webp" type="image/webp" width="640"/><img alt="カナダ土産のおすすめ20選" class="img_big m20-t m20-b" decoding="async" height="425.5" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/0a39a90609da59b1e8511336a7097d29.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="souvenir13">カナダのお土産物屋で買えるグッズ</h2>
 <h3 class="wp-block-heading" id="souvenir14">11. カナダの先住民族、ファーストネーションのドリームキャッチャー</h3>
 <p>ドリームキャッチャーはクモの巣状に編み込んだ糸とビーズや鳥の羽の装飾が特徴的な工芸品です。カナダとアメリカの先住民族“<a href="http://www.ojibwa.com/" rel="noreferrer noopener" target="_blank">オジブワ族</a>”に古くから伝わる魔よけのお守りとして知られています。良い夢だけが網の目を通り抜けると言われており悪夢から身を守るためベッドの上に吊るすのが一般的ですが、部屋のインテリアとして使用されることもあります。色やデザインが豊富のため、好みのものを探してみてはいかがでしょうか。</p>
@@ -105,9 +99,7 @@
 <p>カナダに生息する世界最大のヘラジカ“<a href="https://www.canada.jp/stories/post-4990/" rel="noreferrer noopener" target="_blank">ムース(Moose)</a>”は北米で最も背が高い哺乳類です。大きな体格が特徴的でオスには最大2mほどの巨大な角が生えています。アパレルブランド「<a href="https://www.abercrombie.com/shop/am-ja" rel="noreferrer noopener" target="_blank">アバクロンビー&amp;フィッチ</a>」のシンボルにもなっており、目にしたことがある方も多いのではないでしょうか。ムースをモチーフにしたアイテムはカナダらしいデザインが揃っており、ぬいぐるみやムース柄の靴下、ポストカード、お菓子など見た目にも可愛らしいものが沢山あります。</p>
 <h3 class="wp-block-heading" id="souvenir18">15. カナダの国旗を使った小物</h3>
 <p>カナダ国旗がデザインされたグッズはカナダ土産の定番アイテムです。トランプ、メモ帳、ペン、手袋、Tシャツ、折り畳み傘などバリエーションが豊富です。7月1日の建国記念日“<a href="https://www.canada.ca/en/canadian-heritage/campaigns/canada-day.html" rel="noreferrer noopener" target="_blank">カナダデー</a>”前後になると国旗をモチーフにしたグッズが特に沢山店頭へ並びます。また、これらのグッズはお土産物屋さんのほか国内で人気のある1ドルショップ「<a href="https://www.dollarama.com/en-CA/" rel="noreferrer noopener" target="_blank">Dollarama(ダララマ)</a>」でも販売されています。1ドルショップは日本の100円均一ショップのような店でキーホルダーやマグネット、お菓子などお土産にぴったりな商品を安く手に入れることができます。</p>
-<picture>
-<source alt="カナダ土産のおすすめ20選" class="img_big m20-t m20-b lazyloaded" height="426.5" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/60804e157a3e807b6566645bc4a0046b.webp" type="image/webp" width="640"/><img alt="カナダ土産のおすすめ20選" class="img_big m20-t m20-b" decoding="async" height="426.5" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/60804e157a3e807b6566645bc4a0046b.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="souvenir19">カナダの有名ブランドのお土産</h2>
 <h3 class="wp-block-heading" id="souvenir20">16. MAC</h3>
 <p>日本でも人気のあるコスメブランド“<a href="https://www.maccosmetics.ca/" rel="noreferrer noopener" target="_blank">MAC</a>”は1984年にトロントで生まれたブランドです。ブランド名のMACは“Make-Up Art Cosmetics”の略称で、元々はメイクアップアーティストやモデル、カメラマン向けに設立されたブランドのためMACのコスメは発色や色持ちの良さに定評があります。現地では日本で販売されていない商品やカラーも沢山あり、メイク好きな友人へのお土産にもぴったりです。また、日本よりも安く販売されており、免税店などでは更にお得に買うことができます。</p>
@@ -120,7 +112,7 @@
 <h3 class="wp-block-heading" id="souvenir24">20. Rogers Chocolates</h3>
 <p>観光客のみならず地元の人からも愛される<a href="https://www.rogerschocolates.com/" rel="noreferrer noopener" target="_blank">Rogers Chocolates(ロジャーズ・チョコレート)</a>は創業130年の老舗チョコレートショップです。バニラやメープルなどのフレーバークリームをチョコレートで包んだ“Victoria Creams”はリピーターの多い商品です。また、カナダの街並みや自然、動物などが描かれた缶に入ったチョコレートの詰め合わせ“Canadian Art Tinsシリーズ”は可愛らしいパッケージのためお土産やギフト用におすすめです。店舗では色々な種類のチョコレートを一粒ずつ箱に詰めてもらうこともできます。</p>
 <h2 class="wp-block-heading" id="souvenir25">カナダ入国・渡航にはeTA(イータ)の事前申請が必要です</h2>
-<p>観光などを目的としてカナダへ渡航する際、eTA(イータ)の申請を行う必要があります。日本を含むビザ免除対象国の国籍をお持ちの方はビザではなく、電子渡航認証eTA(イータ)を取得することでカナダへの渡航が許可されます。eTA(イータ)の有効期限は申請日より5年間、またはパスポートの有効期限日までとなります。有効期限内であればeTA(イータ)を利用したカナダ渡航は何度でも認められますが、1度につき最長6か月の滞在に限られます。eTA(イータ)はオンラインでの申請となり承認までに最大72時間かかる場合があるため、渡航日までに余裕を持って申請するようにしましょう。eTA(イータ)の詳細に関しては「<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)とは</a>」をご確認ください。</p>
+<p>観光などを目的としてカナダへ渡航する際、eTA(イータ)の申請を行う必要があります。日本を含むビザ免除対象国の国籍をお持ちの方はビザではなく、電子渡航認証eTA(イータ)を取得することでカナダへの渡航が許可されます。eTA(イータ)の有効期限は申請日より5年間、またはパスポートの有効期限日までとなります。有効期限内であればeTA(イータ)を利用したカナダ渡航は何度でも認められますが、1度につき最長6か月の滞在に限られます。eTA(イータ)はオンラインでの申請となり承認までに最大72時間かかる場合があるため、渡航日までに余裕を持って申請するようにしましょう。eTA(イータ)の詳細に関しては「<a href="#">eTA(イータ)とは</a>」をご確認ください。</p>
 
  </div>
  </article>
@@ -152,6 +144,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

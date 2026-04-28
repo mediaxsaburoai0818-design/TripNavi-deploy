@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T5c16,<div class="page-layout">
+2:T5941,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オーストラリア主要都市と日本の時差・サマータイムについて</div>
 
@@ -43,10 +43,7 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="オーストラリア主要都市と日本の時差・サマータイムについて" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/be14171bb825457644d161ac5362830b.webp" type="image/webp" width="640"/>
-<img alt="オーストラリア主要都市と日本の時差・サマータイムについて" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/be14171bb825457644d161ac5362830b.jpg" width="640"/>
-</picture>
+
 <p>オーストラリアの面積は日本の約21倍で、広大な国土では3つの時間帯(タイムゾーン)が制定されています。夏季には「サマータイム」を大半の州で導入し、日照時間を有効に活用するための基準を設けています。日本とオーストラリアとの時差は1時間ほどで地域により異なります。このページではオーストラリアと日本との時差や主要都市で導入している制度、オーストラリアのサマータイムについて解説します。</p>
 <h2 class="wp-block-heading" id="time1">オーストラリアと日本の時差はプラス1時間～マイナス1時間</h2>
 <p>オーストラリアのタイムゾーンは、東部・中央部・西部の3つに分類されます。クイーンズランド州、ビクトリア州、ニュー・サウスウェールズ州、首都特別地域は「東部時間帯」と制定され、日本よりも1時間早く時刻が進んでいます。南オーストラリア州、ノーザンテリトリー、ニュー・サウスウェールズ州の一部地域は「中央時間帯」となり、日本より30分早く時刻が進んでいます。主要都市のパースを擁する西オーストラリア州は「西部時間帯」として指定され、日本より１時間遅い時刻となります。<br />オーストラリアにおけるタイムゾーンの名称と該当地域、日本との時差は以下の通りです。</p>
@@ -119,7 +116,7 @@
 </div>
 <h3 class="wp-block-heading" id="time4">ケアンズ・ブリスベン・ゴールドコースト(クイーンズランド州)と日本との時差は+1時間</h3>
 <p>ケアンズ、ブリスベン、ゴールドコーストなどの主要都市を擁するクイーンズランド州は「オーストラリア東部時間帯」に制定され、日本よりも1時間早く時刻が進んでいます。クイーンズランド州はサマータイムを導入していないため、1年を通して日本との時差はプラス1時間となります。</p>
-<p>グレートバリアリーフの入り口として有名なケアンズは音楽やダンスを通して先住民である<a href="http://xs640823.xsrv.jp/etas/indigenouspeople/index.html">アボリジニ</a>やトレス海峡諸島の文化を伝えています。市の北西部には広大なデインツリー国立公園があり、世界中から多くの観光客が訪れる<a href="http://xs640823.xsrv.jp/etas/tourism/index.html">人気の観光スポット</a>です。</p>
+<p>グレートバリアリーフの入り口として有名なケアンズは音楽やダンスを通して先住民である<a href="#">アボリジニ</a>やトレス海峡諸島の文化を伝えています。市の北西部には広大なデインツリー国立公園があり、世界中から多くの観光客が訪れる<a href="#">人気の観光スポット</a>です。</p>
 <h3 class="wp-block-heading" id="time5">シドニー(ニュー・サウスウェールズ州)と日本との時差は+1時間</h3>
 <p>オーストラリアを代表する都市シドニーはニュー・サウスウェールズ州の州都です。シドニーを含むニュー・サウスウェールズ州は「オーストラリア東部時間帯」となり、日本よりも1時間早く時刻が進んでいます。ニュー・サウスウェールズ州はクイーンズランド州と同じ「オーストラリア東部時間帯」ですが、毎年10月から4月までサマータイムが適用されます。</p>
 <p>シドニーにはオーストラリアを代表する建築物オペラハウスがあり、連日多くの観光客で賑わいを見せています。シドニー港には王立公園やアーチ型のハーバーブリッジがあり、付近に建つシドニータワーの屋外スカイウォークからは自然と都市とが融合したシドニーの広大な風景が一望できます。</p>
@@ -186,7 +183,7 @@
 <tr>
 <td class="td-200" width="200"><strong>都市</strong></td><td class="td-200" width="200"><strong>空港名</strong></td></tr><tr><td class="td-200" width="200">アデレード</td><td class="td-200" width="200">アデレード空港</td></tr><tr><td class="td-200" width="200">アリス・スプリングス</td><td class="td-200" width="200">アリス・スプリングス空港</td></tr><tr><td class="td-200" width="200">ウルル/エアーズロック</td><td class="td-200" width="200">エアーズロック空港</td></tr><tr><td class="td-200" width="200">エスペランス</td><td class="td-200" width="200">エスペランス空港</td></tr><tr><td class="td-200" width="200">キャンベラ</td><td class="td-200" width="200">キャンベラ国際空港</td></tr><tr><td class="td-200" width="200">カンガルー島</td><td class="td-200" width="200">キングスコート空港</td></tr><tr><td class="td-200" width="200">グラッドストーン</td><td class="td-200" width="200">グラッドストーン空港</td></tr><tr><td class="td-200" width="200">タウンズビル</td><td class="td-200" width="200">タウンズビル空港</td></tr><tr><td class="td-200" width="200">ダーウィン</td><td class="td-200" width="200">ダーウィン国際空港</td></tr><tr><td class="td-200" width="200">ニューキャッスル</td><td class="td-200" width="200">ニューキャッスル空港</td></tr><tr><td class="td-200" width="200">ノーフォーク島</td><td class="td-200" width="200">ノーフォーク島空港</td></tr><tr><td class="td-200" width="200">ホバート</td><td class="td-200" width="200">ホバート国際空港</td></tr><tr><td class="td-200" width="200">ポートヘッドランド</td><td class="td-200" width="200">ポートヘッドランド国際空港</td></tr><tr><td class="td-200" width="200">ロードハウ島</td><td class="td-200" width="200">ロードハウ島空港</td></tr><tr><td class="td-200" width="200">タスマニア島</td><td class="td-200" width="200">ローンセストン空港</td></tr></tbody></table></figure>
 <h2 class="wp-block-heading" id="time15">オーストラリア渡航にはETAS(イータス)が必要</h2>
-<p>ETAS(イータス)を管轄するオーストラリア政府移民局ではオーストラリア渡航が決定次第、早めに申請することを推奨しています。ETAS(イータス)申請の際は通常12時間以内に申請結果が届きます。ただし、定期的なシステムメンテンスなどの理由により時間を要するケースも報告されています。オーストラリア渡航の3日前には申請を済ませておくことをお勧めします。ETAS(イータス)はオーストラリア政府が認定した数か国の国民のみが利用可能なビザ免除制度です。日本国籍の方はETAS(イータス)を利用しての旅行または短期商用を目的とする3か月以内の滞在であれば、ビザを取得せずにオーストラリア渡航が認められます。新型コロナウイルスの影響により、各航空会社は減便や運休を施行しています。最新のフライト情報は<a href="http://xs640823.xsrv.jp/etas/news/detail/990100.html#sec_flight">こちら</a>をご確認ください。</p>
+<p>ETAS(イータス)を管轄するオーストラリア政府移民局ではオーストラリア渡航が決定次第、早めに申請することを推奨しています。ETAS(イータス)申請の際は通常12時間以内に申請結果が届きます。ただし、定期的なシステムメンテンスなどの理由により時間を要するケースも報告されています。オーストラリア渡航の3日前には申請を済ませておくことをお勧めします。ETAS(イータス)はオーストラリア政府が認定した数か国の国民のみが利用可能なビザ免除制度です。日本国籍の方はETAS(イータス)を利用しての旅行または短期商用を目的とする3か月以内の滞在であれば、ビザを取得せずにオーストラリア渡航が認められます。新型コロナウイルスの影響により、各航空会社は減便や運休を施行しています。最新のフライト情報は<a href="#">こちら</a>をご確認ください。</p>
 
  </div>
  </article>
@@ -218,6 +215,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

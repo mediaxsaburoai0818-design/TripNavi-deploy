@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T5427,<div class="page-layout">
+2:T523e,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ アメリカを経由してカナダ渡航をする方へ</div>
 
@@ -48,12 +48,9 @@
 </ul>
 </nav>
 </div>
-<picture>
-<source alt="アメリカを経由してカナダ渡航をする方へ" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p10_01.webp" type="image/webp" width="640"/>
-<img alt="アメリカを経由してカナダ渡航をする方へ" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p10_01.jpg" width="640"/>
-</picture>
+
 <h2 class="wp-block-heading" id="viausa1">アメリカで乗り継ぐ場合、ビザは必要？</h2>
-<p>カナダへの直行便は日本から発着していますが、アメリカを経由してカナダに入国する渡航ルートも依然として多く利用されております。<br />日本国籍者がカナダに空路(飛行機)を利用して入国する場合は、6か月以内の滞在に限りビザではなく<a class="aioseop-link" href="http://xs640823.xsrv.jp/eta/">電子渡航認証システムeTA(イータ)</a>を利用することができ、陸路(車、バス、鉄道または徒歩)や海路(船)で入国する場合は eTA(イータ)申請もビザも不要となります。<br />ただし、アメリカで乗り継ぎをしてカナダへ入国する場合はカナダへの入国方法に関わらずESTA(エスタ)を取得する必要があります。<br />ESTA(エスタ)はアメリカに入国(乗り継ぎ時も含む)してから90日(3か月)以内の滞在が認められております。<br />eTA(イータ)を利用してカナダに入国した場合、6か月以内のカナダ滞在が可能ですがESTA(エスタ)を利用してアメリカで乗り継いだ場合は、<br />アメリカでの往復の乗り継ぎ期間を含めて滞在期間は90日以内と定められております。飛行機を利用して往路または復路をアメリカ経由で移動される場合はESTA(エスタ)の申請も必要となりますので、滞在期間と往復で経由する空港を確認しておきましょう。</p>
+<p>カナダへの直行便は日本から発着していますが、アメリカを経由してカナダに入国する渡航ルートも依然として多く利用されております。<br />日本国籍者がカナダに空路(飛行機)を利用して入国する場合は、6か月以内の滞在に限りビザではなく<a class="aioseop-link" href="#">電子渡航認証システムeTA(イータ)</a>を利用することができ、陸路(車、バス、鉄道または徒歩)や海路(船)で入国する場合は eTA(イータ)申請もビザも不要となります。<br />ただし、アメリカで乗り継ぎをしてカナダへ入国する場合はカナダへの入国方法に関わらずESTA(エスタ)を取得する必要があります。<br />ESTA(エスタ)はアメリカに入国(乗り継ぎ時も含む)してから90日(3か月)以内の滞在が認められております。<br />eTA(イータ)を利用してカナダに入国した場合、6か月以内のカナダ滞在が可能ですがESTA(エスタ)を利用してアメリカで乗り継いだ場合は、<br />アメリカでの往復の乗り継ぎ期間を含めて滞在期間は90日以内と定められております。飛行機を利用して往路または復路をアメリカ経由で移動される場合はESTA(エスタ)の申請も必要となりますので、滞在期間と往復で経由する空港を確認しておきましょう。</p>
 <h4 class="wp-block-heading">アメリカ経由でカナダへ入国する場合</h4>
 <p>アメリカでの乗り継ぎ(往路) + カナダでの滞在期間 + アメリカでの乗り継ぎ(復路) = 90日以内</p>
 <h3 class="wp-block-heading" id="viausa2">ESTA(エスタ)利用条件</h3>
@@ -147,6 +144,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dyoU6DNDqsPLqOP-pYh1p"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XE_nBUNioVWnhO63jHwdA"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
