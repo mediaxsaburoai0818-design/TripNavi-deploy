@@ -1,0 +1,202 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T414c,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-asia">アジア</a> ＞ <a href="/country-korea">韓国</a> ＞ <a href="/travel-info">旅行情報</a> ＞ 韓国の通貨ウォン・両替・物価ガイド【2026年最新】</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/korea-hero.jpg" alt="韓国" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="green">旅行情報</span>
+ <h1>韓国の通貨ウォン・両替・物価ガイド【2026年最新】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年5月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">韓国の通貨「ウォン」の基本情報</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#won-basics">韓国の通貨「ウォン」の基本情報</a></li>
+<li><a class="ez-toc-link" href="#exchange-rate">2026年最新の為替レート</a></li>
+<li><a class="ez-toc-link" href="#bills-coins">紙幣と硬貨の種類</a></li>
+<li><a class="ez-toc-link" href="#exchange-methods">お得な両替方法</a></li>
+<li><a class="ez-toc-link" href="#credit-cards">クレジットカード・キャッシュレス事情</a></li>
+<li><a class="ez-toc-link" href="#prices">韓国の物価目安</a></li>
+<li><a class="ez-toc-link" href="#tips-culture">チップ文化について</a></li>
+<li><a class="ez-toc-link" href="#money-tips">お金に関する注意点とコツ</a></li>
+</ul>
+</nav>
+</div>
+
+<p>韓国の通貨は「大韓民国ウォン（Korean Won）」で、通貨記号は「₩」、通貨コードは「KRW」です。ウォンの下位単位として「チョン（銭）」がありますが、現在は実際の流通では使用されていません。韓国ウォンは日本円と比較すると額面が大きく、買い物の際に「10,000ウォン」「50,000ウォン」といった大きな数字を扱うことになりますが、慣れてしまえば計算は簡単です。</p>
+
+<div class="Class_J">
+<h4>韓国ウォンの基本データ</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>通貨名 : 大韓民国ウォン（Korean Won）</li>
+<li>通貨記号 : ₩</li>
+<li>通貨コード : KRW</li>
+<li>発行 : 韓国銀行（Bank of Korea）</li>
+<li>補助単位 : チョン（銭）※現在は未使用</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="exchange-rate">2026年最新の為替レート</h2>
+<p>2026年5月現在の為替レートは、おおよそ以下の通りです。為替レートは日々変動するため、旅行前に最新のレートを確認することをおすすめします。</p>
+
+<div class="Class_J">
+<h4>為替レート目安（2026年5月現在）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>1円 ≒ 約9ウォン</li>
+<li>100ウォン ≒ 約11円</li>
+<li>1,000ウォン ≒ 約110円</li>
+<li>10,000ウォン ≒ 約1,100円</li>
+<li>50,000ウォン ≒ 約5,500円</li>
+</ul></p>
+</div>
+
+<p>簡単な計算方法として「ウォンの価格から0を一つ取って、さらに1割引」と覚えると便利です。例えば、10,000ウォンの商品なら「1,000円から1割引で約900〜1,100円」という目安になります。あるいは「ウォンの価格を10で割る」とほぼ日本円に近い金額になります。韓国ウォンは近年、対日本円でやや変動が大きくなっているため、旅行直前のレート確認が重要です。</p>
+
+<h2 class="wp-block-heading" id="bills-coins">紙幣と硬貨の種類</h2>
+<h3 class="wp-block-heading">紙幣（4種類）</h3>
+<p>韓国で流通している紙幣は4種類です。</p>
+<p><strong>50,000ウォン紙幣（約5,500円）</strong>：韓国最高額紙幣で、2009年に発行されました。表面には朝鮮時代の女性画家・申師任堂（シン・サイムダン）の肖像が描かれています。高額な買い物や両替で受け取ることが多い紙幣です。</p>
+<p><strong>10,000ウォン紙幣（約1,100円）</strong>：日常的に最もよく使う紙幣です。表面にはハングルを創製した世宗大王（セジョンデワン）の肖像が描かれています。お釣りや両替で最も頻繁に受け取る紙幣で、韓国旅行で最もなじみ深い紙幣になるでしょう。</p>
+<p><strong>5,000ウォン紙幣（約550円）</strong>：表面には朝鮮時代の儒学者・栗谷李珥（ユルゴク・イ・イ）の肖像が描かれています。ちょっとした買い物やお釣りでよく使われます。</p>
+<p><strong>1,000ウォン紙幣（約110円）</strong>：韓国最小額の紙幣で、表面には朝鮮時代の儒学者・退渓李滉（テゲ・イ・ファン）の肖像が描かれています。バスの運賃や小額の買い物で使用します。</p>
+
+<h3 class="wp-block-heading">硬貨（4種類）</h3>
+<p>韓国で流通している硬貨は4種類です。</p>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>500ウォン硬貨（約55円）：鶴のデザイン</li>
+<li>100ウォン硬貨（約11円）：李舜臣将軍の肖像</li>
+<li>50ウォン硬貨（約5.5円）：稲穂のデザイン</li>
+<li>10ウォン硬貨（約1.1円）：多宝塔のデザイン</li>
+</ul></p>
+<p>韓国ではキャッシュレス決済が非常に普及しているため、硬貨を使う機会は少なくなっていますが、小さな市場や屋台では現金が必要な場合もあります。1ウォン硬貨と5ウォン硬貨も存在しますが、現在はほとんど流通していません。</p>
+
+<h2 class="wp-block-heading" id="exchange-methods">お得な両替方法</h2>
+<h3 class="wp-block-heading">おすすめ度順の両替方法</h3>
+<p>韓国旅行での両替方法を、レートの良さ順にまとめます。</p>
+
+<p><strong>1. ソウル市内の公認両替所（最もお得）</strong></p>
+<p>明洞、南大門市場、東大門周辺の公認両替所が最もレートが良いとされています。特に明洞の「大使館前両替所」「一品香両替所」「大信両替所」などは、銀行や空港よりも圧倒的に良いレートを提供しています。看板に「公認換銭」と表示されている店を選びましょう。日本語が通じる両替所も多く、安心して利用できます。</p>
+
+<p><strong>2. 海外ATMでのキャッシング</strong></p>
+<p>クレジットカードの海外キャッシング機能を使い、韓国のATMでウォンを引き出す方法です。レートは銀行の公示レートに近く、手数料は1回あたり100〜220円程度です。帰国後に繰り上げ返済すれば利息を最小限に抑えられます。コンビニ（CU、GS25）や銀行のATMで利用可能で、英語・日本語の画面表示に対応しているATMも多いです。</p>
+
+<p><strong>3. 韓国の銀行</strong></p>
+<p>韓国の銀行窓口での両替は、空港よりもレートが良い場合がほとんどです。ウリ銀行、ハナ銀行、新韓銀行などの主要銀行で両替可能です。営業時間は月〜金の9:00〜16:00に限られるため、スケジュールに合わせて利用しましょう。パスポートの提示が必要です。</p>
+
+<p><strong>4. 韓国の空港（仁川・金海）</strong></p>
+<p>到着後すぐに現金が必要な場合は空港で少額だけ両替し、残りは市内の両替所で両替するのがおすすめです。空港のレートは市内の両替所と比べて1〜3%程度不利ですが、深夜到着の場合など、市内の両替所が閉まっている場合に便利です。</p>
+
+<p><strong>5. 日本の空港・銀行（レートが最も不利）</strong></p>
+<p>日本国内での両替はレートが最も不利になる傾向があります。成田空港や関西空港の両替所は便利ですが、市内の両替所と比べて5〜10%程度レートが悪いため、初めての韓国旅行で現金がないと不安な場合に1万円分程度だけ両替し、残りは韓国到着後に両替するのが賢い方法です。</p>
+
+<h2 class="wp-block-heading" id="credit-cards">クレジットカード・キャッシュレス事情</h2>
+<p>韓国は世界有数のキャッシュレス先進国で、クレジットカードの普及率は約95%に達しています。コンビニ、スーパー、レストラン、タクシー、地下鉄など、ほぼすべての場所でクレジットカードが使用可能です。VISA、Mastercard、JCBが広く受け入れられており、特にVISAとMastercardはほぼ100%の加盟店で利用できます。JCBも主要なデパートやホテル、観光地のショップでは使える場合が多いですが、小規模店舗では使えないこともあります。</p>
+<p>韓国独自の決済アプリ「カカオペイ」「ネイバーペイ」「サムスンペイ」も広く普及していますが、これらは韓国国内の銀行口座や韓国発行のカードが必要なため、外国人観光客が利用するのは難しい場合があります。ただし、Apple PayやGoogle Payに対応したNFC端末が増えており、これらのモバイル決済を利用できる店舗も増加しています。</p>
+<p>現金が必要になるのは、伝統市場の一部の屋台、露店、小規模な個人商店などです。明洞の屋台でもカード決済可能な場合がありますが、広蔵市場や南大門市場の小さな屋台では現金のみの場合もあるため、3〜5万ウォン程度の現金は常に持ち歩くのが安心です。</p>
+
+<h2 class="wp-block-heading" id="prices">韓国の物価目安</h2>
+<p>韓国の物価は日本と比較すると、項目によって安いものと高いものがあります。全体的には日本の7〜8割程度ですが、近年のインフレーションにより以前ほどの割安感はなくなってきています。</p>
+
+<h3 class="wp-block-heading">飲食関連の物価</h3>
+<div class="Class_J">
+<h4>飲食の物価目安</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>キンパ（韓国海苔巻き）1本 : 3,500〜5,000ウォン（約385〜550円）</li>
+<li>ビビンバ : 8,000〜12,000ウォン（約880〜1,320円）</li>
+<li>サムギョプサル（一人前） : 15,000〜20,000ウォン（約1,650〜2,200円）</li>
+<li>参鶏湯（サムゲタン） : 16,000〜20,000ウォン（約1,760〜2,200円）</li>
+<li>冷麺 : 10,000〜14,000ウォン（約1,100〜1,540円）</li>
+<li>チキン（1羽デリバリー） : 20,000〜25,000ウォン（約2,200〜2,750円）</li>
+<li>カフェラテ : 4,500〜6,000ウォン（約495〜660円）</li>
+<li>コンビニのペットボトル飲料 : 1,500〜2,500ウォン（約165〜275円）</li>
+<li>焼酎（チャミスル360ml） : コンビニで1,800ウォン（約200円）</li>
+<li>ビール（カス500ml缶） : コンビニで2,500ウォン（約275円）</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">交通関連の物価</h3>
+<div class="Class_J">
+<h4>交通の物価目安</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>地下鉄（基本料金） : 1,400ウォン（約154円）※T-moneyカード利用時</li>
+<li>バス（市内バス基本料金） : 1,500ウォン（約165円）</li>
+<li>タクシー（初乗り） : 4,800ウォン（約530円）</li>
+<li>KTX（ソウル→釜山） : 約59,800ウォン（約6,578円）</li>
+<li>空港鉄道（仁川空港→ソウル駅直通） : 9,500ウォン（約1,045円）</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">宿泊・その他の物価</h3>
+<div class="Class_J">
+<h4>宿泊・その他の物価目安</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ゲストハウス（ドミトリー） : 25,000〜40,000ウォン/泊（約2,750〜4,400円）</li>
+<li>ビジネスホテル : 80,000〜150,000ウォン/泊（約8,800〜16,500円）</li>
+<li>高級ホテル : 250,000ウォン〜/泊（約27,500円〜）</li>
+<li>チムジルバン（韓国式サウナ） : 12,000〜15,000ウォン（約1,320〜1,650円）</li>
+<li>映画チケット : 15,000ウォン（約1,650円）</li>
+<li>韓国コスメ（フェイスマスク10枚入り） : 5,000〜15,000ウォン（約550〜1,650円）</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="tips-culture">チップ文化について</h2>
+<p>韓国にはチップの文化がありません。レストラン、タクシー、ホテルなど、いずれの場面でもチップを渡す必要はなく、サービス料は料金に含まれているか、そもそも請求されません。高級レストランでは会計にサービス料（通常10%）が含まれている場合がありますが、それ以上のチップは不要です。チップを渡そうとすると戸惑われたり、断られたりすることもあるため、日本と同様にチップの心配は不要と考えて大丈夫です。</p>
+
+<h2 class="wp-block-heading" id="money-tips">お金に関する注意点とコツ</h2>
+<h3 class="wp-block-heading">両替の注意点</h3>
+<p>非公認の両替所や個人による路上両替は、偽札のリスクやトラブルの可能性があるため、必ず「公認換銭」の看板がある両替所を利用してください。また、ホテルのフロントでの両替はレートが非常に不利な場合が多いため、急ぎでない限り避けましょう。</p>
+
+<h3 class="wp-block-heading">余ったウォンの処理</h3>
+<p>帰国時に余ったウォンは、仁川空港の両替所で日本円に再両替できます。ただし、再両替の際にもレート差と手数料がかかるため、旅行中にできるだけ使い切るのが理想的です。硬貨は再両替できないため、空港の自動販売機やコンビニで使い切るか、次回の韓国旅行用に保管しておくのがおすすめです。仁川空港にはウォンの硬貨を電子マネーにチャージできる機械も設置されています。</p>
+
+<h3 class="wp-block-heading">税金還付（TAX REFUND）</h3>
+<p>韓国では外国人観光客を対象に、1店舗で3万ウォン以上（2026年現在）の買い物をした場合、付加価値税（VAT、10%）の還付を受けることができます。「TAX FREE」マークのある店舗で買い物をし、レシートと免税書類を受け取ります。帰国時に仁川空港や金海空港の税金還付カウンターで手続きを行えば、クレジットカードまたは現金で還付金を受け取れます。化粧品やファッションをまとめ買いする場合は、必ずTAX FREEの店舗を利用しましょう。</p>
+
+<p>韓国渡航に必要な手続きについては「<a href="/korea-keta-about">韓国K-ETA（電子旅行許可）とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/korea-mid.jpg" alt="韓国の風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/korea-travel-budget" class="related-card">
+ <img src="/korea-hero.jpg" alt="韓国旅行費用" style="width:300px;height:180px;object-fit:cover;" />
+ <p>韓国旅行の費用目安【予算別モデルプラン】</p>
+ </a>
+ <a href="/korea-souvenirs" class="related-card">
+ <img src="/korea-hero.jpg" alt="韓国お土産" style="width:300px;height:180px;object-fit:cover;" />
+ <p>韓国のお土産おすすめ15選</p>
+ </a>
+ <a href="/korea-seoul-spots" class="related-card">
+ <img src="/korea-hero.jpg" alt="ソウル" style="width:300px;height:180px;object-fit:cover;" />
+ <p>ソウル観光スポット15選【2026年最新】</p>
+ </a>
+ <a href="/korea-keta-about" class="related-card">
+ <img src="/korea-hero.jpg" alt="韓国K-ETA" style="width:300px;height:180px;object-fit:cover;" />
+ <p>韓国K-ETA（電子旅行許可）とは</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ff94T42YlfR_z_ZaKeNRt"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

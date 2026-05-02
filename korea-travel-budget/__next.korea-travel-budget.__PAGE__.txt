@@ -1,0 +1,286 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T4aca,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-asia">アジア</a> ＞ <a href="/country-korea">韓国</a> ＞ <a href="/travel-info">旅行情報</a> ＞ 韓国旅行の費用目安【予算別モデルプラン】</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/korea-hero.jpg" alt="韓国旅行費用" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="green">旅行情報</span>
+ <h1>韓国旅行の費用目安【予算別モデルプラン】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年5月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">韓国旅行にかかる費用の全体像</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#total-cost">韓国旅行にかかる費用の全体像</a></li>
+<li><a class="ez-toc-link" href="#airfare">航空券の費用</a></li>
+<li><a class="ez-toc-link" href="#hotel">宿泊費</a></li>
+<li><a class="ez-toc-link" href="#food-cost">食費</a></li>
+<li><a class="ez-toc-link" href="#transport-cost">交通費</a></li>
+<li><a class="ez-toc-link" href="#activities">観光・アクティビティ費</a></li>
+<li><a class="ez-toc-link" href="#shopping">お土産・ショッピング費</a></li>
+<li><a class="ez-toc-link" href="#budget-plan">節約プラン（2泊3日：約3〜5万円）</a></li>
+<li><a class="ez-toc-link" href="#standard-plan">標準プラン（2泊3日：約6〜10万円）</a></li>
+<li><a class="ez-toc-link" href="#luxury-plan">贅沢プラン（2泊3日：約12〜20万円）</a></li>
+<li><a class="ez-toc-link" href="#saving-tips">費用を抑えるコツ</a></li>
+</ul>
+</nav>
+</div>
+
+<p>韓国旅行は日本から近く、比較的リーズナブルに楽しめる海外旅行先として人気です。2泊3日の韓国旅行にかかる費用は、節約すれば約3〜5万円、標準的なプランで約6〜10万円、贅沢なプランでは約12〜20万円が目安です。航空券の価格は時期や航空会社によって大きく変動しますが、LCC（格安航空会社）を利用すれば往復2〜4万円台で渡航可能です。韓国の物価は日本の7〜8割程度で、特に食費と交通費はリーズナブルに抑えられます。</p>
+
+<div class="Class_J">
+<h4>韓国旅行の費用目安（2泊3日・一人あたり）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>節約プラン : 約3〜5万円</li>
+<li>標準プラン : 約6〜10万円</li>
+<li>贅沢プラン : 約12〜20万円</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="airfare">航空券の費用</h2>
+<p>韓国への航空券は、時期と航空会社によって価格が大きく異なります。日本〜ソウル（仁川）間には大韓航空、アシアナ航空、ANA、JALなどのフルサービスキャリア（FSC）と、チェジュ航空、ティーウェイ航空、エアソウル、ピーチ、ジェットスターなどのLCC（格安航空会社）が就航しています。</p>
+
+<div class="Class_J">
+<h4>航空券の価格目安（東京〜ソウル往復）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>LCC（通常期） : 約20,000〜40,000円</li>
+<li>LCC（繁忙期） : 約40,000〜70,000円</li>
+<li>LCC（セール時） : 約10,000〜20,000円</li>
+<li>FSC（通常期） : 約40,000〜80,000円</li>
+<li>FSC（繁忙期） : 約70,000〜120,000円</li>
+</ul></p>
+</div>
+
+<p>航空券を安く購入するコツは以下の通りです。</p>
+<p><strong>早期予約：</strong>出発の2〜3か月前に予約すると、比較的安い料金で購入できます。直前予約は価格が高騰する傾向があります。</p>
+<p><strong>曜日の工夫：</strong>金曜出発・日曜帰国のパターンは最も人気が高く、航空券も高くなります。火曜〜木曜の出発は比較的安くなることが多いです。</p>
+<p><strong>LCCのセールを活用：</strong>チェジュ航空やティーウェイ航空は定期的にセールを実施しており、片道数千円のチケットが出ることもあります。各航空会社のメルマガやSNSをフォローしておくと、セール情報をいち早くキャッチできます。</p>
+<p><strong>繁忙期を避ける：</strong>ゴールデンウィーク、夏休み（7月下旬〜8月）、年末年始、3連休は航空券が高騰します。これらの時期を外すと大幅に安くなります。</p>
+
+<h2 class="wp-block-heading" id="hotel">宿泊費</h2>
+<p>韓国の宿泊費はエリアと宿泊施設のランクによって大きく異なります。ソウルの中心部（明洞、弘大、江南）は価格が高めですが、少し離れたエリアを選ぶとリーズナブルな宿泊先が見つかります。</p>
+
+<div class="Class_J">
+<h4>宿泊費の目安（1泊1室あたり）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ゲストハウス（ドミトリー） : 25,000〜40,000ウォン（約2,750〜4,400円）</li>
+<li>ゲストハウス（個室） : 50,000〜80,000ウォン（約5,500〜8,800円）</li>
+<li>ビジネスホテル : 80,000〜150,000ウォン（約8,800〜16,500円）</li>
+<li>中級ホテル : 150,000〜250,000ウォン（約16,500〜27,500円）</li>
+<li>高級ホテル : 250,000〜500,000ウォン（約27,500〜55,000円）</li>
+<li>5つ星ホテル : 500,000ウォン以上（約55,000円以上）</li>
+</ul></p>
+</div>
+
+<p>宿泊費を抑えるには、ゲストハウスやAirbnb（エアビーアンドビー）の利用がおすすめです。韓国のゲストハウスは清潔で設備が充実しているところが多く、オーナーや他の旅行者との交流も楽しめます。また、チムジルバン（韓国式サウナ・スパ）に宿泊するという方法もあります。12,000〜15,000ウォン（約1,320〜1,650円）で入場でき、仮眠スペースで一晩過ごすことができます。深夜到着時の一時的な宿泊先としても便利です。</p>
+
+<h2 class="wp-block-heading" id="food-cost">食費</h2>
+<p>韓国の食費は日本と比較するとリーズナブルで、特にローカル食堂や屋台グルメは非常にコスパが良いです。一方、観光客向けのレストランや高級韓牛焼肉店は日本と同等かそれ以上の価格になる場合もあります。</p>
+
+<div class="Class_J">
+<h4>1日あたりの食費目安</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>節約プラン : 約3,000〜5,000円/日</li>
+<li>標準プラン : 約5,000〜8,000円/日</li>
+<li>贅沢プラン : 約10,000〜20,000円/日</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">食事別の費用目安</h3>
+<p><strong>朝食（2,000〜5,000円相当ウォン）：</strong>コンビニのキンパやトースト（1,500〜3,000ウォン）、ローカル食堂のクッパやスープ定食（7,000〜9,000ウォン）、カフェのモーニングセット（8,000〜12,000ウォン）など。ホテルの朝食ビュッフェは20,000〜40,000ウォンと高めです。</p>
+<p><strong>昼食（5,000〜15,000ウォン）：</strong>ビビンバ、冷麺、カルグクスなどの定食は8,000〜14,000ウォン。市場でのキンパや屋台グルメは3,000〜5,000ウォンでお腹いっぱいになれます。</p>
+<p><strong>夕食（15,000〜50,000ウォン）：</strong>サムギョプサルの焼肉は一人前15,000〜20,000ウォン（通常2人前から注文）。参鶏湯は16,000〜20,000ウォン。高級韓牛焼肉店では一人50,000〜100,000ウォン以上かかる場合もあります。</p>
+<p><strong>カフェ・スイーツ（4,000〜8,000ウォン）：</strong>カフェラテは4,500〜6,000ウォン、ケーキやスイーツは5,000〜8,000ウォン程度です。</p>
+
+<h2 class="wp-block-heading" id="transport-cost">交通費</h2>
+<p>韓国国内の交通費は非常にリーズナブルです。ソウル市内の移動は地下鉄とバスで1日1,000〜2,000円程度に収まります。</p>
+
+<div class="Class_J">
+<h4>交通費の目安</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>空港〜ソウル市内（A'REX一般列車） : 4,750ウォン（約523円/片道）</li>
+<li>地下鉄（市内移動1回） : 1,400ウォン（約154円）</li>
+<li>バス（市内1回） : 1,500ウォン（約165円）</li>
+<li>タクシー（市内中距離、約5km） : 7,000〜10,000ウォン（約770〜1,100円）</li>
+<li>KTX（ソウル→釜山） : 59,800ウォン（約6,578円/片道）</li>
+<li>ソウル市内の1日の交通費目安 : 約1,000〜2,000円</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="activities">観光・アクティビティ費</h2>
+<p>韓国の観光地は入場無料または低料金の場所が多いのが特徴です。宮殿の入場料は3,000ウォン（約330円）程度で、韓服を着ていれば無料になるサービスもあります。</p>
+
+<div class="Class_J">
+<h4>主な観光スポットの入場料</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>景福宮 : 3,000ウォン（約330円）※韓服着用者無料</li>
+<li>昌徳宮 : 3,000ウォン（約330円）</li>
+<li>昌徳宮秘苑 : 追加5,000ウォン（約550円）</li>
+<li>Nソウルタワー展望台 : 21,000ウォン（約2,310円）</li>
+<li>ロッテワールド : 62,000ウォン（約6,820円）</li>
+<li>国立博物館 : 無料</li>
+<li>戦争記念館 : 無料</li>
+<li>韓服レンタル（2時間） : 15,000〜30,000ウォン（約1,650〜3,300円）</li>
+<li>チムジルバン（韓国式サウナ） : 12,000〜15,000ウォン（約1,320〜1,650円）</li>
+<li>DMZツアー : 80,000〜130,000ウォン（約8,800〜14,300円）</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="shopping">お土産・ショッピング費</h2>
+<p>お土産やショッピングにかける費用は個人差が大きいですが、目安を紹介します。</p>
+
+<div class="Class_J">
+<h4>お土産・ショッピングの予算目安</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>バラまき用お土産（海苔、お菓子、コスメ） : 5,000〜15,000円</li>
+<li>自分用コスメ : 5,000〜20,000円</li>
+<li>ファッション・雑貨 : 5,000〜30,000円</li>
+<li>合計目安 : 10,000〜50,000円</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="budget-plan">節約プラン（2泊3日：約3〜5万円）</h2>
+<p>できるだけ費用を抑えて韓国旅行を楽しむプランです。</p>
+
+<div class="Class_J">
+<h4>節約プランの費用内訳</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>航空券（LCCセール利用） : 15,000〜25,000円</li>
+<li>宿泊（ゲストハウスドミトリー×2泊） : 5,500〜8,800円</li>
+<li>食費（3日分） : 6,000〜10,000円</li>
+<li>交通費（空港往復＋市内移動） : 2,000〜3,000円</li>
+<li>観光・アクティビティ : 1,000〜3,000円</li>
+<li>お土産 : 3,000〜5,000円</li>
+<li>合計 : 約32,500〜54,800円</li>
+</ul></p>
+</div>
+
+<p><strong>節約プランのポイント：</strong></p>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>LCCのセール時に航空券を購入</li>
+<li>ゲストハウスのドミトリーを利用</li>
+<li>食事はローカル食堂、市場、コンビニを活用</li>
+<li>無料の観光スポット（宮殿、博物館）を中心に巡る</li>
+<li>移動は地下鉄とバスを活用</li>
+</ul></p>
+
+<h3 class="wp-block-heading">節約プランのモデルスケジュール</h3>
+<p><strong>1日目：</strong>午前：LCCで仁川到着→A'REX一般列車でソウル駅→地下鉄で宿泊先へ。午後：景福宮（3,000ウォン）→北村韓屋村（無料）→仁寺洞散策。夕食：広蔵市場でピンデトッ＆マヤッキンパ（約8,000ウォン）。</p>
+<p><strong>2日目：</strong>午前：南大門市場でカルグクス（7,000ウォン）→明洞散策＆コスメショッピング。午後：Nソウルタワー（徒歩で登山、展望台は外から景色を楽しむ）→弘大エリア散策。夕食：弘大のローカル食堂でキムチチゲ定食（8,000ウォン）。</p>
+<p><strong>3日目：</strong>午前：戦争記念館（無料）→南大門市場でお土産購入。午後：A'REXで仁川空港→帰国。</p>
+
+<h2 class="wp-block-heading" id="standard-plan">標準プラン（2泊3日：約6〜10万円）</h2>
+<p>ほどよく快適に、定番の韓国旅行を楽しむプランです。</p>
+
+<div class="Class_J">
+<h4>標準プランの費用内訳</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>航空券（LCCまたはFSC通常期） : 30,000〜50,000円</li>
+<li>宿泊（ビジネスホテル×2泊） : 17,600〜33,000円</li>
+<li>食費（3日分） : 15,000〜24,000円</li>
+<li>交通費 : 3,000〜5,000円</li>
+<li>観光・アクティビティ : 3,000〜8,000円</li>
+<li>お土産 : 10,000〜20,000円</li>
+<li>合計 : 約78,600〜140,000円</li>
+</ul></p>
+</div>
+
+<p><strong>標準プランのポイント：</strong></p>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>明洞や弘大エリアのビジネスホテルで快適に宿泊</li>
+<li>昼食はローカル食堂、夕食は焼肉や参鶏湯などの名店で</li>
+<li>韓服レンタル体験やチムジルバンなどのアクティビティも</li>
+<li>OLIVE YOUNGや大型マートでしっかりお土産購入</li>
+</ul></p>
+
+<h2 class="wp-block-heading" id="luxury-plan">贅沢プラン（2泊3日：約12〜20万円）</h2>
+<p>特別な旅行を楽しむための贅沢プランです。</p>
+
+<div class="Class_J">
+<h4>贅沢プランの費用内訳</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>航空券（FSCビジネスクラスまたはプレミアムエコノミー） : 60,000〜100,000円</li>
+<li>宿泊（高級ホテル×2泊） : 55,000〜110,000円</li>
+<li>食費（3日分） : 30,000〜60,000円</li>
+<li>交通費（タクシー中心） : 5,000〜10,000円</li>
+<li>観光・アクティビティ : 10,000〜20,000円</li>
+<li>お土産・ショッピング : 30,000〜50,000円</li>
+<li>合計 : 約190,000〜350,000円</li>
+</ul></p>
+</div>
+
+<p><strong>贅沢プランのポイント：</strong></p>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ロッテホテルやシグニエルなどの5つ星ホテルに宿泊</li>
+<li>韓牛焼肉の名店やミシュラン掲載レストランで食事</li>
+<li>移動はタクシーまたはハイヤーで快適に</li>
+<li>免税店で高級コスメやブランド品をショッピング</li>
+<li>エステ・スパで韓国式美容体験</li>
+</ul></p>
+
+<h2 class="wp-block-heading" id="saving-tips">費用を抑えるコツ</h2>
+<h3 class="wp-block-heading">航空券の節約</h3>
+<p>LCCのメルマガやSNSをフォローしてセール情報をチェックしましょう。平日出発・平日帰国のスケジュールにすると航空券が安くなります。また、Skyscanner、Google Flightsなどの比較サイトを活用して最安値を見つけましょう。</p>
+
+<h3 class="wp-block-heading">宿泊費の節約</h3>
+<p>Booking.comやAgodaの「早期割引」を利用する、中心部から少し離れたエリアの宿を選ぶ、ゲストハウスやAirbnbを活用するなどの方法があります。また、チムジルバンで一晩過ごすのも節約テクニックの一つです。</p>
+
+<h3 class="wp-block-heading">食費の節約</h3>
+<p>朝食はコンビニやパン屋で済ませ、昼食はローカル食堂、夕食だけ少し良いレストランで食べるメリハリをつけるのがおすすめです。市場のグルメは安くて美味しいため、広蔵市場や南大門市場をフル活用しましょう。韓国のコンビニ弁当やおにぎりもクオリティが高く、2,000〜4,000ウォンで満足できます。</p>
+
+<h3 class="wp-block-heading">お土産の節約</h3>
+<p>大型マート（emart、Lotte Mart）で食品系のお土産をまとめ買いすると、観光地のお土産店よりも大幅に安く購入できます。OLIVE YOUNGのセット割引やタイムセールも活用しましょう。空港の免税店でのまとめ買いも、金額によっては追加割引が適用されることがあります。</p>
+
+<h3 class="wp-block-heading">その他の節約テクニック</h3>
+<p><strong>Wi-Fi：</strong>ポケットWi-Fiのレンタル（1日500〜800円程度）やSIMカード（3日間2,000〜3,000円程度）を活用。韓国の主要観光地やカフェでは無料Wi-Fiが利用可能です。</p>
+<p><strong>クーポン：</strong>韓国観光公社の公式アプリ「Visit Korea」や「カカオマップ」のクーポン機能を活用すると、飲食店やショップの割引が受けられることがあります。</p>
+<p><strong>TAX REFUND：</strong>1店舗3万ウォン以上の買い物は税金還付の対象です。免税手続きを忘れずに行いましょう。</p>
+
+<p>韓国渡航に必要な手続きについては「<a href="/korea-keta-about">韓国K-ETA（電子旅行許可）とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/korea-mid.jpg" alt="韓国の風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/korea-currency" class="related-card">
+ <img src="/korea-hero.jpg" alt="韓国通貨" style="width:300px;height:180px;object-fit:cover;" />
+ <p>韓国の通貨ウォン・両替・物価ガイド【2026年最新】</p>
+ </a>
+ <a href="/korea-transport" class="related-card">
+ <img src="/korea-hero.jpg" alt="韓国交通" style="width:300px;height:180px;object-fit:cover;" />
+ <p>韓国の交通ガイド【地下鉄・バス・KTX】</p>
+ </a>
+ <a href="/korea-seoul-spots" class="related-card">
+ <img src="/korea-hero.jpg" alt="ソウル" style="width:300px;height:180px;object-fit:cover;" />
+ <p>ソウル観光スポット15選【2026年最新】</p>
+ </a>
+ <a href="/korea-keta-about" class="related-card">
+ <img src="/korea-hero.jpg" alt="韓国K-ETA" style="width:300px;height:180px;object-fit:cover;" />
+ <p>韓国K-ETA（電子旅行許可）とは</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ff94T42YlfR_z_ZaKeNRt"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

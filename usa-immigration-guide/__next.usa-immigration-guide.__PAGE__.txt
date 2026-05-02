@@ -1,0 +1,210 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T44d1,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-north-america">北アメリカ</a> ＞ <a href="/country-usa">アメリカ</a> ＞ <a href="/travel-info">旅行情報</a> ＞ アメリカ入国審査の流れ【質問と回答例】</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/usa-hero.jpg" alt="アメリカ入国審査" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="green">旅行情報</span>
+ <h1>アメリカ入国審査の流れ【質問と回答例】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年5月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">アメリカ入国審査の概要</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#overview">アメリカ入国審査の概要</a></li>
+<li><a class="ez-toc-link" href="#flow">入国審査の流れ（ステップバイステップ）</a></li>
+<li><a class="ez-toc-link" href="#questions">よくある質問と回答例（英語・日本語）</a></li>
+<li><a class="ez-toc-link" href="#customs">税関申告と手荷物検査</a></li>
+<li><a class="ez-toc-link" href="#apc">APC（自動パスポートコントロール）の利用</a></li>
+<li><a class="ez-toc-link" href="#secondary">二次審査（セカンダリースクリーニング）</a></li>
+<li><a class="ez-toc-link" href="#tips">入国審査をスムーズに通過するコツ</a></li>
+<li><a class="ez-toc-link" href="#prohibited">持ち込み禁止品・制限品</a></li>
+<li><a class="ez-toc-link" href="#esta">ESTA（電子渡航認証）の確認</a></li>
+</ul>
+</nav>
+</div>
+
+<p>アメリカの入国審査は世界でも厳格なことで知られており、初めて渡航する方にとっては緊張する場面かもしれません。しかし、事前に流れを理解し、必要な書類を準備しておけば、スムーズに通過することができます。入国審査は通常、飛行機の到着後にイミグレーション（入国審査場）で行われ、CBP（米国税関・国境警備局）の審査官によるパスポートチェック、質問、指紋採取・写真撮影が行われます。所要時間は混雑状況によって異なりますが、30分〜2時間程度を見込んでおきましょう。</p>
+<p>2026年現在、日本国籍の方がビザ免除プログラム（VWP）でアメリカに入国する場合、事前にESTA（電子渡航認証）の承認を受けていることが必要です。ESTAが承認されていても、最終的な入国の可否は空港の審査官が判断します。ESTAの承認＝入国許可ではないことを理解しておきましょう。</p>
+
+<h2 class="wp-block-heading" id="flow">入国審査の流れ（ステップバイステップ）</h2>
+
+<h3 class="wp-block-heading">ステップ1：飛行機の到着・入国審査場へ移動</h3>
+<p>飛行機が到着したら、「Arrivals」や「Immigration」「Passport Control」の案内表示に従って入国審査場へ向かいます。機内で配布される税関申告書（CBP Declaration Form 6059B）がある場合は、到着前に記入しておきましょう（現在は電子化が進んでおり、APC端末やモバイルパスポートコントロールで代替する空港も増えています）。</p>
+
+<h3 class="wp-block-heading">ステップ2：入国審査の列に並ぶ</h3>
+<p>入国審査場では、「U.S. Citizens / Permanent Residents（アメリカ国民・永住者）」と「Non-U.S. Citizens / Visitors（外国人・訪問者）」の2つの列に分かれています。日本人旅行者は「Non-U.S. Citizens / Visitors」の列に並びます。APC（自動パスポートコントロール）端末が設置されている空港では、先にAPC端末で手続きを済ませてから審査官のブースに進む場合もあります。</p>
+
+<h3 class="wp-block-heading">ステップ3：審査官によるパスポートチェック</h3>
+<p>順番が来たら、審査官のブースに進みます。パスポートを提示し、審査官からの質問に答えます。帽子とサングラスは外しておきましょう。審査官は渡航目的、滞在期間、滞在先、帰国便の有無などを確認します。質問は英語で行われますが、簡潔に答えれば大丈夫です。</p>
+
+<h3 class="wp-block-heading">ステップ4：指紋採取・写真撮影</h3>
+<p>審査官の指示に従い、指紋のスキャン（両手の人差し指、または全指）と顔写真の撮影が行われます。これはUS-VISITプログラムの一環で、テロ対策とセキュリティのために実施されています。14歳未満と79歳以上の方は指紋採取が免除されます。</p>
+
+<h3 class="wp-block-heading">ステップ5：入国スタンプの押印</h3>
+<p>審査が完了すると、パスポートに入国スタンプが押されます。スタンプには入国日と滞在可能期間（通常「WT」と記載され、最大90日）が記されています。スタンプの内容を確認し、滞在可能期間に間違いがないか確認しましょう。</p>
+
+<h3 class="wp-block-heading">ステップ6：手荷物の受け取り</h3>
+<p>入国審査を通過したら、バゲージクレーム（手荷物受取場）で預けた荷物を受け取ります。フライト番号とターンテーブル番号を電光掲示板で確認しましょう。</p>
+
+<h3 class="wp-block-heading">ステップ7：税関検査</h3>
+<p>荷物を受け取ったら、税関検査に進みます。税関申告書を提出し、問題がなければそのまま通過できます。ランダムで荷物検査が行われることもあります。申告すべきものがある場合は正直に申告しましょう。</p>
+
+<h2 class="wp-block-heading" id="questions">よくある質問と回答例（英語・日本語）</h2>
+<p>入国審査官からの質問はパターン化されており、事前に準備しておけば問題なく対応できます。以下に代表的な質問と回答例を紹介します。</p>
+
+<h3 class="wp-block-heading">渡航目的について</h3>
+<p><strong>Q: What is the purpose of your visit?（渡航の目的は何ですか？）</strong></p>
+<p>A: Sightseeing. / For vacation. / For tourism.（観光です。/ 休暇です。）</p>
+<p>A: Business.（ビジネスです。）※商談・会議の場合</p>
+<p>A: Visiting friends [family].（友人[家族]を訪問します。）</p>
+
+<h3 class="wp-block-heading">滞在期間について</h3>
+<p><strong>Q: How long will you be staying?（どのくらい滞在しますか？）</strong></p>
+<p>A: Five days.（5日間です。）</p>
+<p>A: About one week.（約1週間です。）</p>
+<p>A: Ten days.（10日間です。）</p>
+
+<h3 class="wp-block-heading">滞在先について</h3>
+<p><strong>Q: Where will you be staying?（どこに滞在しますか？）</strong></p>
+<p>A: At the Hilton Hotel in Manhattan.（マンハッタンのヒルトンホテルです。）</p>
+<p>A: At my friend's house in Los Angeles.（ロサンゼルスの友人の家です。）</p>
+<p>※ホテルの予約確認書を持っておくと安心です。</p>
+
+<h3 class="wp-block-heading">帰国便について</h3>
+<p><strong>Q: Do you have a return ticket?（帰国便のチケットは持っていますか？）</strong></p>
+<p>A: Yes, I do. Here it is.（はい、持っています。こちらです。）</p>
+<p>※Eチケットの控え（プリントアウトまたはスマートフォン画面）を見せられるように準備しておきましょう。</p>
+
+<h3 class="wp-block-heading">職業について</h3>
+<p><strong>Q: What do you do for a living? / What is your occupation?（お仕事は何ですか？）</strong></p>
+<p>A: I'm an office worker.（会社員です。）</p>
+<p>A: I'm a teacher.（教師です。）</p>
+<p>A: I'm a student.（学生です。）</p>
+<p>A: I'm self-employed.（自営業です。）</p>
+
+<h3 class="wp-block-heading">持ち込み品について</h3>
+<p><strong>Q: Are you carrying any food, plants, or animal products?（食品、植物、動物性製品を持っていますか？）</strong></p>
+<p>A: No, I'm not.（いいえ、持っていません。）</p>
+<p>A: Yes, I have some Japanese snacks.（はい、日本のお菓子を持っています。）</p>
+<p>※正直に回答し、虚偽申告は絶対に避けましょう。</p>
+
+<h3 class="wp-block-heading">その他の質問</h3>
+<p><strong>Q: How much money are you bringing?（いくら持ち込みますか？）</strong></p>
+<p>A: About one thousand dollars.（約1,000ドルです。）</p>
+<p>※$10,000以上の現金を持ち込む場合は申告が義務です。</p>
+
+<p><strong>Q: Is this your first time in the United States?（アメリカは初めてですか？）</strong></p>
+<p>A: Yes, this is my first time.（はい、初めてです。）</p>
+<p>A: No, I've been here twice before.（いいえ、以前2回来たことがあります。）</p>
+
+<p><strong>Q: Are you traveling alone?（一人で旅行していますか？）</strong></p>
+<p>A: Yes, I am.（はい、一人です。）</p>
+<p>A: No, I'm traveling with my family [friend].（いいえ、家族[友人]と一緒です。）</p>
+
+<h2 class="wp-block-heading" id="customs">税関申告と手荷物検査</h2>
+<p>アメリカに入国する際、すべての旅行者は税関申告が必要です。税関申告書（CBP Declaration Form 6059B）には、持ち込む物品、現金（$10,000以上の場合）、食品・農産物の有無などを記入します。家族で旅行する場合は、1家族につき1枚の提出で構いません。</p>
+<p>申告が必要な主な品目は以下の通りです。</p>
+<div class="Class_J">
+<h4>税関申告が必要な品目</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>$10,000以上の現金または金融証券 : 申告義務あり（申告しないと全額没収の可能性）</li>
+<li>免税範囲を超える商品 : 旅行者1人あたり$800まで免税</li>
+<li>酒類 : 21歳以上で1リットルまで免税</li>
+<li>たばこ : 紙巻たばこ200本または葉巻50本まで免税</li>
+<li>食品・農産物 : 肉製品、果物、野菜、種子などは厳しく規制</li>
+<li>医薬品 : 処方薬は英語の処方箋または説明書を携帯</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="apc">APC（自動パスポートコントロール）の利用</h2>
+<p>APC（Automated Passport Control）は、JFK空港、LAX空港、SFO空港など主要空港に設置されている自動入国審査端末です。ESTA保持者で、パスポートにICチップが内蔵されている場合に利用できます。端末でパスポートをスキャンし、質問事項に回答すると、レシートが発行されます。そのレシートを持って審査官のブースに進むと、通常より短い待ち時間で審査を受けられます。初めてアメリカに入国する場合は利用できない空港もありますが、2回目以降の入国では利用可能な場合が多いです。</p>
+
+<h2 class="wp-block-heading" id="secondary">二次審査（セカンダリースクリーニング）</h2>
+<p>入国審査の一次審査で追加の確認が必要と判断された場合、別室での二次審査（セカンダリースクリーニング）に回されることがあります。二次審査に回されたからといって、必ずしも入国が拒否されるわけではありません。追加の質問や書類確認が行われるだけのケースが多いです。二次審査に回される主な理由としては、過去の渡航歴に不審な点がある、滞在目的が不明確、帰国便の予約がない、ESTAの情報に不一致がある、ランダム選抜などが挙げられます。二次審査では冷静に、正直に質問に答えることが重要です。嘘をついたり、態度を荒げたりすると状況が悪化する可能性があります。待ち時間が1〜3時間かかることもあるため、乗り継ぎ便がある場合は余裕のあるスケジュールを組んでおきましょう。</p>
+
+<h2 class="wp-block-heading" id="tips">入国審査をスムーズに通過するコツ</h2>
+<div class="Class_J">
+<h4>入国審査のポイント</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ESTAは渡航72時間以上前に申請・承認を確認する</li>
+<li>パスポートの有効期限が滞在期間＋6か月以上あることを確認</li>
+<li>帰国便のEチケット控えを印刷またはスマートフォンに保存</li>
+<li>ホテルの予約確認書を用意（住所と電話番号）</li>
+<li>滞在日数、訪問都市、目的を簡潔に説明できるように準備</li>
+<li>質問には簡潔に、正直に回答する（余計な情報は不要）</li>
+<li>帽子・サングラスは外しておく</li>
+<li>スマートフォンの電源は切らない（書類を見せる必要がある場合あり）</li>
+<li>審査官には礼儀正しく接する（Hello, Thank youなど基本的な挨拶を忘れずに）</li>
+<li>英語が不安な場合でも、シンプルな単語で答えれば大丈夫</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="prohibited">持ち込み禁止品・制限品</h2>
+<p>アメリカへの持ち込みが禁止または制限されている品目を事前に確認しておきましょう。</p>
+<div class="Class_J">
+<h4>主な持ち込み禁止・制限品</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>肉製品（生肉、加工肉含む） : 原則禁止。ビーフジャーキー、ソーセージなどもNG</li>
+<li>果物・野菜（生鮮） : 原則禁止。検疫で没収される</li>
+<li>乳製品（一部） : 未殺菌チーズなどは制限あり</li>
+<li>植物・種子 : 許可証なしでの持ち込みは禁止</li>
+<li>土・砂 : 禁止</li>
+<li>$10,000以上の現金 : 持ち込み可能だが申告義務あり</li>
+<li>医薬品 : 処方薬は英語の処方箋を携帯。一般的な市販薬は問題なし</li>
+<li>酒類・たばこ : 免税範囲を超える場合は課税対象</li>
+</ul></p>
+</div>
+
+<p>日本からのお土産として持ち込むことの多い食品では、せんべい、チョコレート、クッキーなどの加工菓子は問題ありません。カップ麺も通常は持ち込み可能ですが、肉エキスが含まれている場合は没収されることがあります。インスタント味噌汁は通常問題ありません。迷った場合は税関申告書で「Yes」を選択し、審査官に確認してもらうのが最も安全です。</p>
+
+<h2 class="wp-block-heading" id="esta">ESTA（電子渡航認証）の確認</h2>
+<p>日本国籍の方がアメリカへ観光目的で渡航する場合、ESTA（電子渡航認証システム）の事前申請が必要です。ESTAはオンラインで申請可能で、申請料は$21です。通常72時間以内に審査結果が通知されますが、渡航日の余裕をもって早めに申請することをお勧めします。ESTAの有効期間は2年間で、その間は何度でもアメリカへの入国が可能です。パスポートを更新した場合は、ESTAも再申請が必要です。</p>
+<p>ESTAに関する詳細は「<a href="/usa-esta-about">アメリカESTA（電子渡航認証）とは</a>」をご確認ください。申請方法の詳しい手順は「<a href="/usa-esta-application">ESTA申請方法・記入例</a>」で解説しています。ESTAが拒否された場合の対処法は「<a href="/usa-esta-rejection">ESTAが拒否された場合の対処法</a>」をご覧ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/usa-transport" class="related-card">
+ <img src="/usa-hero.jpg" alt="アメリカ交通" style="width:300px;height:180px;object-fit:cover;" />
+ <p>アメリカの交通ガイド【Uber・地下鉄・Amtrak】</p>
+ </a>
+ <a href="/usa-currency" class="related-card">
+ <img src="/usa-hero.jpg" alt="アメリカの通貨" style="width:300px;height:180px;object-fit:cover;" />
+ <p>アメリカの通貨ドル・両替・チップガイド</p>
+ </a>
+ <a href="/usa-time-difference" class="related-card">
+ <img src="/usa-hero.jpg" alt="アメリカの時差" style="width:300px;height:180px;object-fit:cover;" />
+ <p>アメリカと日本の時差【都市別一覧】</p>
+ </a>
+ <a href="/usa-esta-application" class="related-card">
+ <img src="/usa-hero.jpg" alt="ESTA申請" style="width:300px;height:180px;object-fit:cover;" />
+ <p>ESTA申請方法・記入例</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ff94T42YlfR_z_ZaKeNRt"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

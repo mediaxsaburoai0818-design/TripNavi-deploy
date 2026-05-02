@@ -1,0 +1,253 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T42e1,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-north-america">北アメリカ</a> ＞ <a href="/country-usa">アメリカ</a> ＞ <a href="/travel-info">旅行情報</a> ＞ アメリカ旅行の費用目安【予算別モデルプラン】</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/usa-hero.jpg" alt="アメリカ旅行の費用" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="green">旅行情報</span>
+ <h1>アメリカ旅行の費用目安【予算別モデルプラン】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年5月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">アメリカ旅行の費用概要</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#overview">アメリカ旅行の費用概要</a></li>
+<li><a class="ez-toc-link" href="#airfare">航空券の費用</a></li>
+<li><a class="ez-toc-link" href="#hotel">宿泊費</a></li>
+<li><a class="ez-toc-link" href="#food">食費</a></li>
+<li><a class="ez-toc-link" href="#transport">交通費</a></li>
+<li><a class="ez-toc-link" href="#sightseeing">観光・アクティビティ費</a></li>
+<li><a class="ez-toc-link" href="#other">その他の費用</a></li>
+<li><a class="ez-toc-link" href="#model-budget">予算別モデルプラン（5泊7日）</a></li>
+<li><a class="ez-toc-link" href="#saving-tips">旅費を抑えるコツ</a></li>
+</ul>
+</nav>
+</div>
+
+<p>アメリカ旅行の費用は、渡航先の都市、旅行の時期、宿泊先のグレード、食事のスタイルなどによって大きく変動します。一般的に、ニューヨークやサンフランシスコは物価が高く、ラスベガスや地方都市は比較的リーズナブルです。2026年5月現在の為替レート（1ドル＝約148円）をもとに、各費目の相場を解説します。円安が進んでいる現在、以前と比べてアメリカ旅行の費用は上昇傾向にありますが、工夫次第で十分に楽しめる旅行プランを組むことが可能です。</p>
+<p>アメリカ旅行の総費用（5泊7日の場合）は、節約プランで約25〜35万円、標準プランで約40〜55万円、贅沢プランで約70〜100万円以上が目安です。最も大きな費用は航空券と宿泊費で、この2つで総費用の60〜70%を占めます。以下、各費目ごとに詳しく見ていきましょう。</p>
+
+<h2 class="wp-block-heading" id="airfare">航空券の費用</h2>
+
+<h3 class="wp-block-heading">東海岸（ニューヨーク・ワシントンD.C.など）</h3>
+<p>日本〜ニューヨーク（JFK）の直行便は、ANA、JAL、ユナイテッド航空、デルタ航空などが運航しています。エコノミークラスの往復料金は時期によって大きく変動します。</p>
+<div class="Class_J">
+<h4>ニューヨーク往復航空券の目安（エコノミー）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>オフシーズン（1月〜3月、11月） : 10万〜16万円</li>
+<li>ショルダーシーズン（4月〜5月、9月〜10月） : 14万〜20万円</li>
+<li>ハイシーズン（6月〜8月、12月下旬〜1月上旬） : 18万〜30万円</li>
+<li>ビジネスクラス : 40万〜80万円</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">西海岸（ロサンゼルス・サンフランシスコなど）</h3>
+<p>日本〜ロサンゼルス（LAX）は直行便で約10時間と、東海岸よりも距離が短いため、航空券はやや安めの傾向があります。</p>
+<div class="Class_J">
+<h4>ロサンゼルス往復航空券の目安（エコノミー）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>オフシーズン : 8万〜14万円</li>
+<li>ショルダーシーズン : 12万〜18万円</li>
+<li>ハイシーズン : 16万〜25万円</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">ハワイ（ホノルル）</h3>
+<p>日本〜ホノルルはLCCのZIPAIRやエアアジアXも就航しており、選択肢が豊富です。</p>
+<div class="Class_J">
+<h4>ホノルル往復航空券の目安（エコノミー）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>オフシーズン : 5万〜10万円</li>
+<li>ショルダーシーズン : 8万〜14万円</li>
+<li>ハイシーズン（GW・お盆・年末年始） : 12万〜25万円</li>
+<li>LCC利用 : 4万〜8万円（受託手荷物別）</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">航空券を安く購入するコツ</h3>
+<p>航空券は出発の2〜3か月前に購入するのが最もお得な場合が多いです。比較サイト（Google Flights、スカイスキャナー、エクスペディアなど）で複数の航空会社の料金を比較しましょう。出発日を1〜2日ずらすだけで数万円の差が出ることもあります。マイレージプログラムを活用すれば、特典航空券での無料渡航も可能です。LCCは基本料金は安いですが、受託手荷物（$30〜$60）、座席指定（$10〜$50）、機内食（$8〜$15）がすべて別料金のため、総額で比較することが重要です。</p>
+
+<h2 class="wp-block-heading" id="hotel">宿泊費</h2>
+<p>アメリカのホテル料金は都市によって大きく異なります。ニューヨークとサンフランシスコは全米で最も宿泊費が高い都市です。表示料金に加えて、ホテル税（都市により10〜15%程度）とリゾートフィー（$20〜$50/泊、ラスベガスのホテルで多い）が加算されることに注意が必要です。</p>
+
+<div class="Class_J">
+<h4>宿泊費の目安（1泊1室あたり・税別）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ホステル（ドミトリー） : $40〜$80（約6,000〜12,000円）</li>
+<li>バジェットホテル : $100〜$180（約15,000〜27,000円）</li>
+<li>ミッドレンジホテル : $180〜$350（約27,000〜52,000円）</li>
+<li>高級ホテル : $350〜$700以上（約52,000〜100,000円以上）</li>
+<li>Airbnb（個室） : $80〜$200（約12,000〜30,000円）</li>
+<li>Airbnb（一棟貸し） : $150〜$400（約22,000〜60,000円）</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">都市別の宿泊費比較</h3>
+<p>ニューヨーク（マンハッタン）のミッドレンジホテルは1泊$250〜$400程度で、全米で最も高い水準です。タイムズスクエア周辺は特に高額で、少し離れたミッドタウンウエストやアッパーウエストサイドの方がやや安くなります。ブルックリンやクイーンズのホテルは$150〜$250程度でマンハッタンより割安です。ロサンゼルスは$150〜$300程度、ラスベガスは曜日によって大きく変動し、平日$80〜$150、週末$150〜$350程度です。ハワイ（ワイキキ）は$200〜$400程度が中心価格帯です。</p>
+
+<h2 class="wp-block-heading" id="food">食費</h2>
+<p>アメリカの食費は日本より高めです。特にニューヨークやサンフランシスコなどの大都市では、外食費が日本の1.5〜2倍程度かかります。さらにチップ（18〜20%）と消費税（8〜10%）が加算されるため、メニュー表示価格の約1.3倍が実際の支払額になると考えておきましょう。</p>
+
+<div class="Class_J">
+<h4>1日の食費の目安（1人あたり）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>節約プラン : $40〜$60（約6,000〜9,000円）ファストフード、デリ、スーパーの惣菜を活用</li>
+<li>標準プラン : $80〜$120（約12,000〜18,000円）朝食はホテル/カフェ、昼食はカジュアルレストラン、夕食は中級レストラン</li>
+<li>贅沢プラン : $150〜$300以上（約22,000〜45,000円以上）ブランチ、人気レストラン、ステーキハウスなど</li>
+</ul></p>
+</div>
+
+<p>食費を抑えるコツとしては、朝食はホテルの無料朝食やベーグルショップ（$3〜$5）を利用する、ランチをメインの食事にする（ランチメニューはディナーより30〜50%安いことが多い）、スーパーマーケットのデリコーナーやフードコートを活用する、水はペットボトルをスーパーで購入する（レストランで水を注文すると有料の場合あり）、などの工夫が効果的です。</p>
+
+<h2 class="wp-block-heading" id="transport">交通費</h2>
+<p>都市内の交通費は移動手段によって大きく異なります。地下鉄が充実しているニューヨークでは1日$10〜$20程度で済みますが、車社会のロサンゼルスではレンタカーまたはUberが必要で、1日$40〜$80程度かかることもあります。</p>
+
+<div class="Class_J">
+<h4>交通費の目安</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ニューヨーク地下鉄（7日間パス） : $33（約4,900円）</li>
+<li>Uber（ニューヨーク市内移動1回） : $10〜$30（約1,500〜4,500円）</li>
+<li>JFK空港〜マンハッタン（地下鉄＋エアトレイン） : $11.50（約1,700円）</li>
+<li>JFK空港〜マンハッタン（タクシー定額） : $70＋チップ（約11,000円）</li>
+<li>レンタカー（1日） : $40〜$100＋保険・ガソリン（約6,000〜15,000円）</li>
+<li>Amtrak ニューヨーク〜ワシントンD.C. : $50〜$180（約7,500〜27,000円）</li>
+<li>国内線（ニューヨーク〜ロサンゼルス） : $100〜$300片道（約15,000〜45,000円）</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="sightseeing">観光・アクティビティ費</h2>
+<p>アメリカの観光スポットには無料と有料のものがあります。ニューヨークの多くの博物館・美術館は入場料がかかりますが、スミソニアン博物館群（ワシントンD.C.）はすべて無料です。テーマパークは高額ですが、アメリカ旅行のハイライトとして多くの旅行者が訪れます。</p>
+
+<div class="Class_J">
+<h4>主な観光スポットの入場料</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>自由の女神（フェリー＋台座） : $24.50（約3,600円）</li>
+<li>エンパイア・ステート・ビル（86階展望台） : $44（約6,500円）</li>
+<li>メトロポリタン美術館 : $30（約4,400円）</li>
+<li>9/11メモリアル＆ミュージアム : $33（約4,900円）</li>
+<li>ユニバーサル・スタジオ・ハリウッド : $119〜$169（約18,000〜25,000円）</li>
+<li>ディズニーランド・リゾート（1日） : $104〜$194（約15,000〜29,000円）</li>
+<li>ブロードウェイ・ミュージカル : $80〜$350（約12,000〜52,000円）</li>
+<li>ニューヨーク・シティパス（5スポット共通券） : $146（約21,600円、個別購入より約40%お得）</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="other">その他の費用</h2>
+<div class="Class_J">
+<h4>その他の費用項目</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ESTA申請料 : $21（約3,100円）</li>
+<li>海外旅行保険（5泊7日） : 3,000〜8,000円（クレジットカード付帯保険で代替可能な場合も）</li>
+<li>Wi-Fiレンタル（5泊7日） : 4,000〜8,000円（eSIMなら1,000〜3,000円程度）</li>
+<li>チップ（1日あたり） : $15〜$30（約2,200〜4,400円）</li>
+<li>お土産代 : 10,000〜30,000円程度</li>
+<li>空港〜自宅の交通費 : 2,000〜10,000円（成田エクスプレスなど）</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="model-budget">予算別モデルプラン（5泊7日）</h2>
+
+<h3 class="wp-block-heading">節約プラン（ニューヨーク5泊7日）：約25〜35万円</h3>
+<div class="Class_J">
+<h4>節約プランの内訳</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>航空券 : 10万〜16万円（オフシーズン、LCCまたはセール利用）</li>
+<li>宿泊費 : 5万〜8万円（ホステルまたはブルックリンのバジェットホテル、1泊$70〜$110程度）</li>
+<li>食費 : 3万〜4.5万円（1日$40〜$60、ファストフード＋デリ中心）</li>
+<li>交通費 : 0.5万〜1万円（メトロ7日間パス$33＋エアトレイン）</li>
+<li>観光費 : 2万〜3万円（無料スポット中心＋シティパス）</li>
+<li>その他 : 2万〜3万円（ESTA、保険、Wi-Fi、チップ、お土産）</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">標準プラン（ニューヨーク5泊7日）：約40〜55万円</h3>
+<div class="Class_J">
+<h4>標準プランの内訳</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>航空券 : 14万〜20万円（ショルダーシーズン、大手航空会社エコノミー）</li>
+<li>宿泊費 : 13万〜18万円（ミッドレンジホテル、1泊$180〜$250程度）</li>
+<li>食費 : 6万〜9万円（1日$80〜$120、カフェ＋レストラン）</li>
+<li>交通費 : 1.5万〜2.5万円（メトロ＋Uber数回）</li>
+<li>観光費 : 3万〜5万円（展望台、美術館、ブロードウェイ1公演）</li>
+<li>その他 : 3万〜5万円（ESTA、保険、Wi-Fi、チップ、お土産）</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">贅沢プラン（ニューヨーク5泊7日）：約70〜100万円以上</h3>
+<div class="Class_J">
+<h4>贅沢プランの内訳</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>航空券 : 20万〜40万円（ハイシーズン、ビジネスクラスなら40万〜80万円）</li>
+<li>宿泊費 : 25万〜50万円（高級ホテル、1泊$350〜$700程度）</li>
+<li>食費 : 11万〜22万円（1日$150〜$300、高級レストラン＋ステーキハウス）</li>
+<li>交通費 : 3万〜5万円（Uber中心＋リムジンサービス）</li>
+<li>観光費 : 5万〜10万円（ヘリコプターツアー、プレミアム席ブロードウェイなど）</li>
+<li>その他 : 5万〜10万円（ショッピング、チップ、お土産）</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="saving-tips">旅費を抑えるコツ</h2>
+
+<div class="Class_J">
+<h4>節約のポイント</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>航空券は2〜3か月前に購入し、比較サイトで最安値を検索</li>
+<li>宿泊はマンハッタン外（ブルックリン、クイーンズ）でコストダウン</li>
+<li>朝食はホテルの無料朝食やベーグルショップを活用</li>
+<li>ランチをメインの食事にする（ディナーの半額以下のことも）</li>
+<li>ニューヨーク・シティパスで観光費を30〜40%節約</li>
+<li>無料の観光スポット（セントラルパーク、ブルックリン・ブリッジ、ハイライン等）を活用</li>
+<li>地下鉄の7日間パス（$33）で交通費を定額化</li>
+<li>水はスーパーで購入（レストランの水は有料$2〜$5）</li>
+<li>ハッピーアワー（16:00〜19:00頃）でドリンク＆フード割引を活用</li>
+<li>eSIMを利用しWi-Fiレンタルのコストを削減</li>
+<li>為替レートが有利な時期に事前にドルを両替</li>
+</ul></p>
+</div>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/usa-currency" class="related-card">
+ <img src="/usa-hero.jpg" alt="アメリカの通貨" style="width:300px;height:180px;object-fit:cover;" />
+ <p>アメリカの通貨ドル・両替・チップガイド</p>
+ </a>
+ <a href="/usa-transport" class="related-card">
+ <img src="/usa-hero.jpg" alt="アメリカ交通" style="width:300px;height:180px;object-fit:cover;" />
+ <p>アメリカの交通ガイド【Uber・地下鉄・Amtrak】</p>
+ </a>
+ <a href="/usa-newyork-spots" class="related-card">
+ <img src="/usa-hero.jpg" alt="ニューヨーク" style="width:300px;height:180px;object-fit:cover;" />
+ <p>ニューヨーク観光スポット15選【2026年最新】</p>
+ </a>
+ <a href="/usa-esta-about" class="related-card">
+ <img src="/usa-hero.jpg" alt="アメリカESTA" style="width:300px;height:180px;object-fit:cover;" />
+ <p>アメリカESTA（電子渡航認証）とは</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ff94T42YlfR_z_ZaKeNRt"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

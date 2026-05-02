@@ -1,0 +1,219 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T4351,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-asia">アジア</a> ＞ <a href="/country-korea">韓国</a> ＞ <a href="/travel-info">旅行情報</a> ＞ 韓国入国審査の流れ【質問と回答例】</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/korea-hero.jpg" alt="韓国入国審査" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="green">旅行情報</span>
+ <h1>韓国入国審査の流れ【質問と回答例】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年5月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">韓国入国審査の全体の流れ</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#overall-flow">韓国入国審査の全体の流れ</a></li>
+<li><a class="ez-toc-link" href="#before-arrival">到着前の準備</a></li>
+<li><a class="ez-toc-link" href="#arrival-card">入国カードの書き方</a></li>
+<li><a class="ez-toc-link" href="#immigration">入国審査の手順</a></li>
+<li><a class="ez-toc-link" href="#questions">審査官からの質問と回答例</a></li>
+<li><a class="ez-toc-link" href="#baggage-customs">荷物受取・税関申告</a></li>
+<li><a class="ez-toc-link" href="#keta-relation">K-ETAと入国審査の関係</a></li>
+<li><a class="ez-toc-link" href="#auto-gate">自動入国審査（SES）</a></li>
+<li><a class="ez-toc-link" href="#departure">出国時の手続き</a></li>
+<li><a class="ez-toc-link" href="#trouble">トラブル対処法</a></li>
+</ul>
+</nav>
+</div>
+
+<p>韓国への入国審査は、日本人旅行者にとって比較的スムーズに行える手続きです。日本国籍の方は90日以内の観光目的の滞在であればビザ（査証）が免除されているため、パスポートとK-ETA（電子旅行許可）があればスムーズに入国できます。仁川国際空港の場合、飛行機の到着から入国審査を経て荷物を受け取り、到着ロビーに出るまでの所要時間は、混雑状況にもよりますが通常30分〜1時間程度です。</p>
+
+<p>韓国入国の全体的な流れは以下の通りです。</p>
+<div class="Class_J">
+<h4>韓国入国の流れ</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>1. 飛行機到着・降機</li>
+<li>2. 検疫（必要に応じて）</li>
+<li>3. 入国審査（イミグレーション）</li>
+<li>4. 荷物受取（バゲージクレーム）</li>
+<li>5. 税関検査</li>
+<li>6. 到着ロビーへ</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="before-arrival">到着前の準備</h2>
+<h3 class="wp-block-heading">必要書類の確認</h3>
+<p>韓国入国に必要な書類を事前に確認し、すぐに取り出せるように準備しておきましょう。</p>
+<div class="Class_J">
+<h4>韓国入国に必要な書類</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>パスポート（残存有効期間が滞在日数以上あること）</li>
+<li>K-ETA認証（スマートフォンに保存またはプリントアウト）</li>
+<li>帰国便の航空券（Eチケットの控え）</li>
+<li>入国カード（機内で配布、またはK-ETA取得者は不要の場合あり）</li>
+<li>税関申告書（申告物がある場合）</li>
+</ul></p>
+</div>
+
+<p>パスポートの残存有効期間について、韓国は「滞在日数以上」あれば入国可能とされていますが、安全のため残存有効期間が6か月以上あることを推奨します。万が一パスポートの有効期限が迫っている場合は、出発前に更新しておきましょう。</p>
+
+<h3 class="wp-block-heading">機内での準備</h3>
+<p>機内では客室乗務員から入国カードと税関申告書が配布されます（K-ETA取得者は入国カードが不要な場合もあります）。到着前に記入を済ませておくと、入国審査がスムーズです。ボールペンを1本用意しておくと便利です。機内ではパスポート、航空券の控え、宿泊先の情報（ホテル名・住所・電話番号）をすぐに取り出せるようにしておきましょう。</p>
+
+<h2 class="wp-block-heading" id="arrival-card">入国カードの書き方</h2>
+<p>韓国の入国カード（到着カード）は、K-ETAを取得している場合は原則不要です。K-ETAを取得していない場合は、入国カードに以下の情報を記入します。</p>
+
+<div class="Class_J">
+<h4>入国カードの記入項目</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>Family Name（姓） : パスポートの英字表記と同じ</li>
+<li>Given Name（名） : パスポートの英字表記と同じ</li>
+<li>Date of Birth（生年月日） : 西暦（例：1990/01/15）</li>
+<li>Nationality（国籍） : JAPAN</li>
+<li>Gender（性別） : Male / Female</li>
+<li>Passport No.（パスポート番号） : パスポートの番号</li>
+<li>Home Address（自宅住所） : 日本の住所を英語で記入</li>
+<li>Address in Korea（韓国での滞在先） : ホテル名と住所</li>
+<li>Purpose of Visit（渡航目的） : Tourism（観光）にチェック</li>
+<li>Flight No.（便名） : 搭乗便の便名（例：KE706）</li>
+<li>Port of Embarkation（出発地） : 出発空港名（例：TOKYO/NARITA）</li>
+<li>Signature（署名） : パスポートと同じ署名</li>
+</ul></p>
+</div>
+
+<p>記入は英語（ブロック体）で行います。韓国での滞在先はホテルの英語名と住所を記入しますが、ホテル名だけでも問題ない場合がほとんどです。宿泊先が決まっていない場合は、予定しているエリアのホテル名を記入しておけば大丈夫です。</p>
+
+<h2 class="wp-block-heading" id="immigration">入国審査の手順</h2>
+<p>飛行機を降りたら、「입국심사（Immigration / 入国審査）」の案内表示に従って進みます。仁川空港の場合、ターミナル1・2ともに入国審査エリアは1階にあり、シャトルトレインで移動する場合もあります。</p>
+
+<h3 class="wp-block-heading">入国審査の列に並ぶ</h3>
+<p>入国審査エリアでは「FOREIGNERS（外国人）」の列に並びます。混雑時は30分以上待つこともあるため、トイレは飛行機を降りた後の通路で済ませておくのがおすすめです。自動入国審査（SES）を事前に登録している場合は、専用レーンで短時間で通過できます。</p>
+
+<h3 class="wp-block-heading">審査官とのやりとり</h3>
+<p>自分の番が来たら、審査官のブースに進み、パスポートと入国カード（K-ETA取得者は不要の場合あり）を提出します。審査官はパスポートの写真と本人を確認し、指紋の採取と顔写真の撮影を行います。17歳以上の外国人は両手の人差し指の指紋採取が必須です。指紋採取は機械に指を置くだけで数秒で完了します。顔写真はカウンター上のカメラで撮影されます。</p>
+
+<h2 class="wp-block-heading" id="questions">審査官からの質問と回答例</h2>
+<p>韓国の入国審査では、審査官から簡単な質問をされることがあります。質問は韓国語または英語で行われますが、日本語で対応してくれる審査官もいます。以下に代表的な質問と回答例をまとめます。</p>
+
+<h3 class="wp-block-heading">よくある質問と回答例</h3>
+
+<p><strong>Q1. 渡航目的は何ですか？（What is the purpose of your visit?）</strong></p>
+<p>A. 「観光です（Sightseeing / Tourism）」と答えます。ビジネス目的の場合は「Business」、友人・親族の訪問は「Visiting friends/family」と答えます。</p>
+
+<p><strong>Q2. 何日間滞在しますか？（How long will you stay?）</strong></p>
+<p>A. 「3泊4日です（3 nights, 4 days / Four days）」のように具体的に答えます。帰国便の日程を伝えれば十分です。</p>
+
+<p><strong>Q3. どこに泊まりますか？（Where will you stay?）</strong></p>
+<p>A. ホテル名を答えます。「ロッテホテル明洞です（Lotte Hotel Myeongdong）」のように具体的なホテル名を伝えましょう。予約確認書をスマートフォンに保存しておくと安心です。</p>
+
+<p><strong>Q4. 帰りの航空券はありますか？（Do you have a return ticket?）</strong></p>
+<p>A. 「はい、あります（Yes, I do）」と答え、求められたらEチケットの控えを見せます。</p>
+
+<p><strong>Q5. 韓国に知り合いはいますか？（Do you know anyone in Korea?）</strong></p>
+<p>A. 友人や親族がいる場合は正直に答えます。観光目的で知り合いがいない場合は「いいえ（No）」と答えれば問題ありません。</p>
+
+<p><strong>Q6. 以前に韓国に来たことはありますか？（Have you been to Korea before?）</strong></p>
+<p>A. 渡航歴に応じて「はい、○回目です（Yes, this is my Xth visit）」または「いいえ、初めてです（No, this is my first time）」と答えます。</p>
+
+<p>質問は通常1〜2問程度で、詳しい質問をされることは稀です。審査官に対しては笑顔で落ち着いて対応すれば問題ありません。英語に自信がない場合でも、単語レベルの回答で十分通じます。</p>
+
+<h2 class="wp-block-heading" id="baggage-customs">荷物受取・税関申告</h2>
+<h3 class="wp-block-heading">荷物の受取</h3>
+<p>入国審査を通過したら、バゲージクレーム（荷物受取エリア）で預けた荷物を受け取ります。電光掲示板で自分の搭乗便のターンテーブル番号を確認し、該当のターンテーブルで荷物が出てくるのを待ちます。荷物が出てこない場合や破損していた場合は、バゲージクレーム内のカウンターで申告してください。</p>
+
+<h3 class="wp-block-heading">税関検査</h3>
+<p>荷物を受け取ったら税関検査に進みます。申告する物品がない場合は緑色の「Nothing to Declare（申告なし）」のレーンを通過します。税関申告が必要な場合は赤色の「Goods to Declare（申告あり）」のレーンに進みます。</p>
+
+<div class="Class_J">
+<h4>韓国への免税範囲</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>酒類 : 1リットル以下かつ400ドル以下のもの1本</li>
+<li>たばこ : 紙巻き200本、葉巻50本、その他250g</li>
+<li>香水 : 60ml以下</li>
+<li>その他の品物 : 合計800ドル以下</li>
+<li>現金 : 10,000ドル相当額以上の外貨は申告が必要</li>
+</ul></p>
+</div>
+
+<p>日本からのお土産として食品を持ち込む場合、肉類（ハム、ソーセージ、ジャーキーなど）は持ち込みが禁止されています。果物や野菜も検疫の対象となるため、加工食品やお菓子類を選ぶのが安全です。</p>
+
+<h2 class="wp-block-heading" id="keta-relation">K-ETAと入国審査の関係</h2>
+<p>K-ETA（韓国電子旅行許可）を事前に取得していると、入国審査がよりスムーズになります。K-ETAの情報はパスポート番号と紐づけられているため、審査官はパスポートをスキャンするだけでK-ETAの認証状況を確認できます。K-ETA取得者は入国カードの記入が不要になる場合があり、手続きの手間が省けます。</p>
+<p>K-ETAの申請は渡航の72時間前までに行うのがおすすめです。通常は24時間以内に審査結果が通知されますが、追加審査が必要な場合は72時間以上かかることもあります。K-ETAの有効期間は3年間で、その間は何度でも韓国への入国が可能です。K-ETAの詳細については「<a href="/korea-keta-about">韓国K-ETA（電子旅行許可）とは</a>」および「<a href="/korea-keta-application">韓国K-ETAの申請方法</a>」をご確認ください。</p>
+
+<h2 class="wp-block-heading" id="auto-gate">自動入国審査（SES）</h2>
+<p>韓国ではSES（Smart Entry Service）と呼ばれる自動入国審査システムが導入されており、事前に登録すれば有人審査の列に並ばずに入国できます。SESの登録は仁川空港や金海空港の専用カウンターで行え、パスポートと指紋の登録で完了します。登録は無料で、一度登録すれば有効期限内のパスポートで継続的に利用できます。17歳以上の方が対象で、登録には約5〜10分かかります。</p>
+<p>SESを利用する場合、自動ゲートにパスポートを置き、指紋と顔認証で本人確認が行われます。所要時間はわずか15〜30秒で、混雑する有人審査の列を回避できる大きなメリットがあります。韓国に頻繁に渡航する方は初回訪問時にSESの登録をしておくことを強くおすすめします。</p>
+
+<h2 class="wp-block-heading" id="departure">出国時の手続き</h2>
+<p>韓国からの出国時の手続きは入国時よりもシンプルです。空港には出発の2〜3時間前に到着することをおすすめします。</p>
+
+<div class="Class_J">
+<h4>出国の流れ</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>1. チェックイン・荷物預け入れ</li>
+<li>2. 出国審査（イミグレーション）</li>
+<li>3. セキュリティチェック（手荷物検査）</li>
+<li>4. 免税店でのショッピング（任意）</li>
+<li>5. 搭乗ゲートへ移動</li>
+<li>6. 搭乗</li>
+</ul></p>
+</div>
+
+<p>出国審査では出国カードの記入は不要です。パスポートを審査官に提示するか、SES登録済みの場合は自動ゲートを利用します。仁川空港では出国審査後の免税エリアが非常に充実しており、最後のお買い物を楽しむ時間を確保しておくと良いでしょう。TAX FREE対象商品の還付手続きは出国審査前の税金還付カウンターで行います。</p>
+
+<h2 class="wp-block-heading" id="trouble">トラブル対処法</h2>
+<h3 class="wp-block-heading">入国審査で質問が多い場合</h3>
+<p>通常は1〜2問程度の質問で済みますが、稀に詳しい質問をされることがあります。落ち着いて正直に回答すれば問題ありません。ホテルの予約確認書、帰国便のEチケット、旅行計画書などをスマートフォンに保存しておくと、求められた場合にすぐに提示できます。</p>
+
+<h3 class="wp-block-heading">荷物が出てこない場合</h3>
+<p>バゲージクレームで30分以上待っても荷物が出てこない場合は、ターンテーブル近くのカウンターに航空券の控えと手荷物タグ（搭乗時にもらうバゲージタグ）を持って相談しましょう。ロストバゲージの手続きをしてくれ、後日ホテルに届けてもらうことも可能です。</p>
+
+<h3 class="wp-block-heading">言語の不安がある場合</h3>
+<p>仁川空港や金海空港には日本語対応の案内カウンターがあります。また、「1330」は韓国観光公社の旅行者向けヘルプライン（日本語対応あり）で、入国手続きに関する質問にも対応してもらえます。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/korea-mid.jpg" alt="韓国の風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/korea-keta-about" class="related-card">
+ <img src="/korea-hero.jpg" alt="韓国K-ETA" style="width:300px;height:180px;object-fit:cover;" />
+ <p>韓国K-ETA（電子旅行許可）とは</p>
+ </a>
+ <a href="/korea-keta-application" class="related-card">
+ <img src="/korea-hero.jpg" alt="K-ETA申請" style="width:300px;height:180px;object-fit:cover;" />
+ <p>韓国K-ETAの申請方法【画像付き】</p>
+ </a>
+ <a href="/korea-transport" class="related-card">
+ <img src="/korea-hero.jpg" alt="韓国交通" style="width:300px;height:180px;object-fit:cover;" />
+ <p>韓国の交通ガイド【地下鉄・バス・KTX】</p>
+ </a>
+ <a href="/korea-currency" class="related-card">
+ <img src="/korea-hero.jpg" alt="韓国通貨" style="width:300px;height:180px;object-fit:cover;" />
+ <p>韓国の通貨ウォン・両替・物価ガイド【2026年最新】</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ff94T42YlfR_z_ZaKeNRt"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

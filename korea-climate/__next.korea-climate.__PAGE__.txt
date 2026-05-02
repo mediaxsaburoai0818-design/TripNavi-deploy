@@ -1,0 +1,192 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T4432,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-asia">アジア</a> ＞ <a href="/country-korea">韓国</a> ＞ <a href="/travel-info">旅行情報</a> ＞ 韓国の気候・服装ガイド【月別】</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/korea-hero.jpg" alt="韓国" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="green">旅行情報</span>
+ <h1>韓国の気候・服装ガイド【月別】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年5月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">韓国の気候の特徴</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#climate-overview">韓国の気候の特徴</a></li>
+<li><a class="ez-toc-link" href="#best-season">ベストシーズンはいつ？</a></li>
+<li><a class="ez-toc-link" href="#spring">春（3月〜5月）の気候と服装</a></li>
+<li><a class="ez-toc-link" href="#summer">夏（6月〜8月）の気候と服装</a></li>
+<li><a class="ez-toc-link" href="#autumn">秋（9月〜11月）の気候と服装</a></li>
+<li><a class="ez-toc-link" href="#winter">冬（12月〜2月）の気候と服装</a></li>
+<li><a class="ez-toc-link" href="#city-comparison">都市別の気候比較</a></li>
+<li><a class="ez-toc-link" href="#monthly-guide">月別の気温・降水量データ</a></li>
+<li><a class="ez-toc-link" href="#packing-tips">持ち物・服装のポイント</a></li>
+</ul>
+</nav>
+</div>
+
+<p>韓国は日本と同様に四季がはっきりとした温帯気候に属しています。ただし、日本と比較すると大陸性気候の影響がより強く、夏と冬の寒暖差が非常に大きいのが特徴です。韓国の夏は高温多湿で、冬は厳しい寒さに見舞われます。特にソウルは冬の最低気温がマイナス10度以下になることも珍しくなく、東京と比べると5〜10度ほど気温が低くなります。一方、南部の釜山や済州島はソウルよりも温暖で、冬でも比較的過ごしやすい気候です。</p>
+<p>韓国の年間降水量はソウルで約1,400ミリメートルで、東京（約1,520ミリメートル）とほぼ同程度です。しかし、降水量の約60%が6月下旬〜9月上旬の梅雨・夏季に集中しているのが大きな特徴です。韓国の梅雨（チャンマ）は日本の梅雨と時期がほぼ重なり、6月下旬〜7月中旬に集中豪雨が降ることがあります。春と秋は晴天が多く、湿度も低いため、最も過ごしやすい季節です。</p>
+
+<div class="Class_J">
+<h4>韓国の気候基本データ（ソウル）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>気候区分 : 温暖湿潤気候（ケッペンの分類：Cwa/Dwa）</li>
+<li>年平均気温 : 約12.5℃</li>
+<li>最高気温（8月） : 平均約30℃（最高35℃以上の日も）</li>
+<li>最低気温（1月） : 平均約−6℃（最低−15℃以下の日も）</li>
+<li>年間降水量 : 約1,400mm</li>
+<li>梅雨（チャンマ） : 6月下旬〜7月中旬</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="best-season">ベストシーズンはいつ？</h2>
+<p>韓国旅行のベストシーズンは、一般的に春（4月〜5月）と秋（9月〜11月）です。この時期は気温が15〜25度前後で過ごしやすく、晴天の日が多いため、観光に最適です。</p>
+<p><strong>春（4月〜5月）のおすすめポイント：</strong>桜、ツツジ、レンギョウが咲き誇る美しい季節です。ソウルの汝矣島（ヨイド）の桜並木、慶州（キョンジュ）の桜まつりは特に人気があります。気温も快適で、宮殿巡りや街歩きに最適です。ただし、3月は黄砂（ファンサ）の影響を受けることがあり、マスクの準備が必要です。</p>
+<p><strong>秋（9月〜11月）のおすすめポイント：</strong>紅葉が美しく、湿度も低くて快適な季節です。内蔵山（ネジャンサン）、雪岳山（ソラクサン）、南山タワー周辺の紅葉は絶景です。10月の釜山国際映画祭、各地の収穫祭など、イベントも多い時期です。11月後半からは急に冷え込むため、防寒対策が必要になります。</p>
+
+<h2 class="wp-block-heading" id="spring">春（3月〜5月）の気候と服装</h2>
+<h3 class="wp-block-heading">3月の気候と服装</h3>
+<p>3月のソウルは平均気温が5〜6℃で、日本の2月頃の気候に近い肌寒さが残ります。朝晩は0℃前後まで冷え込むことがあり、日中でも10℃を超える日は月の後半にならないと多くありません。黄砂（ファンサ）やPM2.5の影響が出やすい時期でもあるため、マスクや目薬を準備しておくと安心です。服装はまだ冬のコートが必要で、重ね着スタイルがおすすめです。</p>
+
+<h3 class="wp-block-heading">4月の気候と服装</h3>
+<p>4月は春本番で、ソウルの平均気温は12〜13℃まで上昇します。桜やレンギョウが咲き始め、街全体が華やかな雰囲気に包まれます。日中は15〜20℃まで暖かくなりますが、朝晩はまだ5℃前後まで冷えるため、薄手のジャケットやカーディガンが必要です。日中と朝晩の寒暖差が大きい時期なので、脱ぎ着しやすい服装が便利です。</p>
+
+<h3 class="wp-block-heading">5月の気候と服装</h3>
+<p>5月はソウルの平均気温が18℃前後となり、日中は25℃近くまで上がる日もあります。湿度も低く、一年で最も過ごしやすい時期の一つです。半袖でも過ごせる日がありますが、朝晩は涼しいため薄手の羽織ものがあると安心です。日差しが強くなるので、日焼け止めやサングラスも準備しましょう。</p>
+
+<h2 class="wp-block-heading" id="summer">夏（6月〜8月）の気候と服装</h2>
+<h3 class="wp-block-heading">6月の気候と服装</h3>
+<p>6月は気温が25℃前後まで上昇し、月の後半からは梅雨（チャンマ）が始まります。湿度が高くなり、蒸し暑さを感じるようになります。折りたたみ傘やレインコートは必携です。半袖・半ズボンで過ごせますが、室内は冷房が強いため、薄手のカーディガンを持ち歩くのがおすすめです。</p>
+
+<h3 class="wp-block-heading">7月の気候と服装</h3>
+<p>7月はソウルの平均気温が25〜27℃、最高気温は30℃を超える日が多くなります。7月中旬頃まで梅雨が続き、集中豪雨が発生することもあります。梅雨明け後は真夏の暑さとなり、湿度も非常に高くなります。軽い素材の服装が基本で、速乾性のある衣類がおすすめです。日傘や帽子、日焼け止めは必須です。</p>
+
+<h3 class="wp-block-heading">8月の気候と服装</h3>
+<p>8月は一年で最も暑い月で、ソウルの最高気温は33〜35℃に達することもあります。湿度も非常に高く、体感温度はさらに上がります。猛暑日には熱中症対策が重要で、こまめな水分補給と休憩を心がけましょう。海雲台や済州島など、ビーチリゾートが人気の季節です。軽い素材の半袖・半ズボンが基本で、水着やビーチサンダルも準備しましょう。</p>
+
+<h2 class="wp-block-heading" id="autumn">秋（9月〜11月）の気候と服装</h2>
+<h3 class="wp-block-heading">9月の気候と服装</h3>
+<p>9月は暑さが和らぎ始め、ソウルの平均気温は22℃前後となります。上旬はまだ暑い日もありますが、下旬には秋らしい爽やかな気候になります。日中は半袖でも過ごせますが、朝晩は涼しくなるため薄手の上着があると安心です。秋夕（チュソク）の時期は交通機関の混雑に注意が必要です。</p>
+
+<h3 class="wp-block-heading">10月の気候と服装</h3>
+<p>10月はソウルの平均気温が14〜15℃で、秋らしい爽やかな気候が続きます。紅葉が始まり、景福宮や北村韓屋村、南山公園などが赤や黄色に染まる美しい季節です。日中は18〜22℃と過ごしやすいですが、朝晩は8〜10℃まで冷え込むため、ジャケットやセーターが必要です。重ね着スタイルが最適です。</p>
+
+<h3 class="wp-block-heading">11月の気候と服装</h3>
+<p>11月はソウルの平均気温が7℃前後まで下がり、冬の訪れを感じる季節です。下旬には最低気温が0℃前後になることもあり、本格的な防寒対策が必要になります。厚手のコート、マフラー、手袋は必須です。紅葉は11月上旬まで楽しめますが、後半は落葉が進み、冬枯れの風景に変わります。</p>
+
+<h2 class="wp-block-heading" id="winter">冬（12月〜2月）の気候と服装</h2>
+<h3 class="wp-block-heading">12月の気候と服装</h3>
+<p>12月のソウルは平均気温がマイナス1℃前後で、東京の真冬よりもかなり寒くなります。最低気温はマイナス10℃を下回ることもあり、本格的な防寒装備が必要です。ダウンジャケット、ヒートテックなどの機能性インナー、厚手のマフラー、手袋、耳あて、ブーツは必須です。クリスマスシーズンのイルミネーションが美しく、清渓川（チョンゲチョン）のランタンフェスティバルなど冬ならではのイベントも楽しめます。</p>
+
+<h3 class="wp-block-heading">1月の気候と服装</h3>
+<p>1月は一年で最も寒い月で、ソウルの平均気温はマイナス3〜マイナス5℃です。最低気温がマイナス15℃以下になることもあり、体感温度は風を考慮するとさらに低くなります。フード付きの厚手ダウンジャケット、ウールの帽子、スキー用手袋レベルの防寒グッズが必要です。ホッカイロを多めに持っていくことをおすすめします。一方、韓国の建物内は「オンドル（床暖房）」が普及しているため室内は暖かく、脱ぎ着しやすい服装が便利です。</p>
+
+<h3 class="wp-block-heading">2月の気候と服装</h3>
+<p>2月も1月に引き続き厳しい寒さが続きます。ソウルの平均気温はマイナス1〜0℃程度で、後半になると徐々に気温が上がり始めますが、まだまだ真冬の装備が必要です。旧正月（ソルラル）の時期は多くの店舗が休業するため、旅行の計画には注意が必要です。スキーやスノーボードを楽しむなら、江原道（カンウォンド）のスキーリゾートがおすすめです。</p>
+
+<h2 class="wp-block-heading" id="city-comparison">都市別の気候比較</h2>
+<p>韓国は南北に約1,000キロメートルの国土が広がっているため、都市によって気候が異なります。</p>
+
+<h3 class="wp-block-heading">ソウル</h3>
+<p>韓国北部に位置するソウルは、大陸性気候の影響を強く受け、夏と冬の寒暖差が激しいのが特徴です。夏は35℃を超える猛暑日があり、冬はマイナス15℃以下まで冷え込むことがあります。年較差（年間の最高気温と最低気温の差）は約40〜50℃にもなります。東京と比較すると冬は5〜10℃低く、夏は同程度かやや高い傾向があります。</p>
+
+<h3 class="wp-block-heading">釜山</h3>
+<p>韓国南東部の沿岸に位置する釜山は、海洋性気候の影響を受け、ソウルよりも温暖です。冬の最低気温は0℃前後で、ソウルほど厳しい寒さにはなりません。夏も海風の影響で若干涼しく感じます。日本の大阪や福岡に近い気候で、日本人旅行者にとっては比較的過ごしやすい環境です。</p>
+
+<h3 class="wp-block-heading">済州島（チェジュド）</h3>
+<p>韓国最南端の済州島は亜熱帯気候に近く、韓国本土と比べて温暖です。冬でも平均気温が5℃前後で、雪が降ることはほとんどありません。年間を通じて風が強いのが特徴で、特に冬は北西風が吹き付けます。夏は台風の影響を受けることがあるため、天気予報のチェックが必要です。日本の鹿児島や沖縄本島に近い気候です。</p>
+
+<h2 class="wp-block-heading" id="monthly-guide">月別の気温・降水量データ</h2>
+<p>ソウルの月別平均気温と降水量のデータです。旅行計画の参考にしてください。</p>
+
+<div class="Class_J">
+<h4>ソウルの月別平均気温と降水量</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>1月 : 平均 −3℃（最高2℃/最低−7℃）、降水量 20mm</li>
+<li>2月 : 平均 0℃（最高5℃/最低−5℃）、降水量 25mm</li>
+<li>3月 : 平均 6℃（最高11℃/最低0℃）、降水量 45mm</li>
+<li>4月 : 平均 13℃（最高18℃/最低7℃）、降水量 75mm</li>
+<li>5月 : 平均 18℃（最高24℃/最低13℃）、降水量 100mm</li>
+<li>6月 : 平均 23℃（最高28℃/最低18℃）、降水量 135mm</li>
+<li>7月 : 平均 26℃（最高30℃/最低22℃）、降水量 370mm</li>
+<li>8月 : 平均 27℃（最高31℃/最低23℃）、降水量 350mm</li>
+<li>9月 : 平均 22℃（最高26℃/最低17℃）、降水量 170mm</li>
+<li>10月 : 平均 15℃（最高20℃/最低9℃）、降水量 50mm</li>
+<li>11月 : 平均 7℃（最高12℃/最低2℃）、降水量 50mm</li>
+<li>12月 : 平均 −1℃（最高3℃/最低−5℃）、降水量 20mm</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="packing-tips">持ち物・服装のポイント</h2>
+<p>韓国旅行で季節を問わず持っておきたいアイテムと、季節別の持ち物をまとめます。</p>
+
+<h3 class="wp-block-heading">通年で持っておきたいもの</h3>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>折りたたみ傘：天候が変わりやすいため必携</li>
+<li>日焼け止め：春〜秋は紫外線が強い</li>
+<li>マスク：黄砂やPM2.5対策（特に3月〜5月）</li>
+<li>歩きやすい靴：宮殿や市場の石畳、丘陵地の観光に</li>
+<li>モバイルバッテリー：地図アプリやSNSの利用に</li>
+</ul></p>
+
+<h3 class="wp-block-heading">冬季（12月〜2月）の必需品</h3>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>厚手ダウンジャケット（フード付き推奨）</li>
+<li>ヒートテック等の機能性インナー（上下）</li>
+<li>ウールの帽子、耳あて</li>
+<li>厚手の手袋（スマホ対応が便利）</li>
+<li>マフラーまたはネックウォーマー</li>
+<li>ホッカイロ（貼るタイプ・持つタイプ各複数枚）</li>
+<li>防水ブーツ（雪対策）</li>
+</ul></p>
+
+<p>韓国の冬は想像以上に寒いため、日本の冬支度よりも1〜2段階厚着の準備が必要です。ただし、韓国の建物内やデパート、地下鉄は暖房が効いていて暖かいため、脱ぎ着しやすいレイヤードスタイルが最も実用的です。現地でダウンジャケットやニット帽を購入することもでき、明洞や東大門にはリーズナブルな防寒着を扱う店が多くあります。</p>
+
+<p>韓国渡航に必要な手続きについては「<a href="/korea-keta-about">韓国K-ETA（電子旅行許可）とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/korea-mid.jpg" alt="韓国の風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/korea-seoul-spots" class="related-card">
+ <img src="/korea-hero.jpg" alt="ソウル" style="width:300px;height:180px;object-fit:cover;" />
+ <p>ソウル観光スポット15選【2026年最新】</p>
+ </a>
+ <a href="/korea-time-difference" class="related-card">
+ <img src="/korea-hero.jpg" alt="韓国時差" style="width:300px;height:180px;object-fit:cover;" />
+ <p>韓国と日本の時差【時差なし！でも注意点あり】</p>
+ </a>
+ <a href="/korea-travel-budget" class="related-card">
+ <img src="/korea-hero.jpg" alt="韓国旅行費用" style="width:300px;height:180px;object-fit:cover;" />
+ <p>韓国旅行の費用目安【予算別モデルプラン】</p>
+ </a>
+ <a href="/korea-keta-about" class="related-card">
+ <img src="/korea-hero.jpg" alt="韓国K-ETA" style="width:300px;height:180px;object-fit:cover;" />
+ <p>韓国K-ETA（電子旅行許可）とは</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ff94T42YlfR_z_ZaKeNRt"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

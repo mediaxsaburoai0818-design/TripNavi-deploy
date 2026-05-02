@@ -1,0 +1,153 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T4084,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-north-america">北アメリカ</a> ＞ <a href="/country-usa">アメリカ</a> ＞ <a href="/travel-info">旅行情報</a> ＞ アメリカの交通ガイド【Uber・地下鉄・Amtrak】</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/usa-hero.jpg" alt="アメリカの交通" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="green">旅行情報</span>
+ <h1>アメリカの交通ガイド【Uber・地下鉄・Amtrak】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年5月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">アメリカの交通事情の概要</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#overview">アメリカの交通事情の概要</a></li>
+<li><a class="ez-toc-link" href="#rideshare">Uber・Lyft（ライドシェア）</a></li>
+<li><a class="ez-toc-link" href="#subway">地下鉄・都市鉄道</a></li>
+<li><a class="ez-toc-link" href="#bus">路線バス</a></li>
+<li><a class="ez-toc-link" href="#amtrak">Amtrak（長距離鉄道）</a></li>
+<li><a class="ez-toc-link" href="#rental">レンタカー</a></li>
+<li><a class="ez-toc-link" href="#domestic">国内線（飛行機）</a></li>
+<li><a class="ez-toc-link" href="#taxi">タクシー</a></li>
+<li><a class="ez-toc-link" href="#airport">空港からのアクセス</a></li>
+</ul>
+</nav>
+</div>
+
+<p>アメリカは広大な国土を持つ車社会であり、ニューヨークなど一部の大都市を除いて、公共交通機関だけで移動するのは難しい場合があります。しかし、近年のライドシェア（Uber・Lyft）の普及により、車を持たない旅行者でもかなり快適に移動できるようになりました。都市間の移動は国内線（飛行機）が最も効率的で、Amtrak（全米鉄道）やグレイハウンドバスなどの選択肢もあります。都市内の移動手段は渡航先によって大きく異なるため、事前に確認しておくことが重要です。</p>
+<p>アメリカの交通手段は大きく分けて、ライドシェア（Uber・Lyft）、地下鉄・都市鉄道、路線バス、Amtrak（長距離鉄道）、レンタカー、国内線（飛行機）、タクシーの7つがあります。旅行者にとって最も使いやすいのはライドシェアと地下鉄の組み合わせで、レンタカーはロサンゼルスなどの車社会の都市で特に便利です。</p>
+
+<h2 class="wp-block-heading" id="rideshare">Uber・Lyft（ライドシェア）</h2>
+
+<h3 class="wp-block-heading">ライドシェアとは</h3>
+<p>Uber（ウーバー）とLyft（リフト）はアメリカ発のライドシェアサービスで、スマートフォンアプリで車を呼び、目的地まで乗車できるサービスです。アメリカ全土で利用可能で、タクシーよりも手軽で多くの場合安価なため、旅行者にとって最も便利な移動手段の一つです。</p>
+
+<h3 class="wp-block-heading">使い方</h3>
+<p>事前にUberまたはLyftのアプリをダウンロードし、アカウントを作成しておきましょう。日本で作成したアカウントとクレジットカードがそのままアメリカでも使えます。使い方は簡単で、アプリで目的地を入力すると、料金の見積もりと到着予定時間が表示されます。乗車を確定すると、近くにいるドライバーがマッチングされ、ドライバーの名前、車種、ナンバープレートが表示されます。指定のピックアップポイントで待ち、車が到着したらナンバープレートを確認して乗車します。降車時は自動的にクレジットカードから課金されるため、現金のやり取りは不要です。</p>
+
+<h3 class="wp-block-heading">料金とチップ</h3>
+<p>料金は距離と時間に基づいて計算され、需要が高い時間帯（ラッシュアワー、深夜、イベント時など）はサージプライシング（割増料金）が適用されます。料金の目安は、ニューヨーク市内の移動（マンハッタン内）で$10〜$30程度、空港〜市内で$40〜$80程度です。チップはアプリ上で降車後に追加できます。乗車料金の15〜20%が目安ですが、短距離の場合は$2〜$5程度が一般的です。</p>
+
+<div class="Class_J">
+<h4>Uber・Lyftの車種オプション</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>UberX / Lyft : 最も一般的で安価なオプション。通常のセダン車</li>
+<li>UberXL / Lyft XL : 6人まで乗車可能なSUVまたはミニバン。荷物が多い場合にも便利</li>
+<li>Uber Comfort : やや広めの車両でレッグルームに余裕あり</li>
+<li>Uber Black / Lyft Lux : 高級車によるプレミアムサービス</li>
+<li>UberPool / Lyft Shared : 相乗りオプション。最も安価だが時間がかかる場合あり</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="subway">地下鉄・都市鉄道</h2>
+
+<h3 class="wp-block-heading">ニューヨークの地下鉄（サブウェイ）</h3>
+<p>ニューヨークの地下鉄は世界最大級の都市鉄道システムで、472の駅、27路線を有し、24時間365日運行しています。料金は距離に関係なく一律$2.90で、メトロカード（プリペイドカード）またはOMNY（タッチ決済：Visa・Mastercardのタッチ決済対応カードやApple Pay / Google Payで利用可能）で支払います。OMNYは1週間に12回乗車すると、その週の残りは無料になる自動キャッピング機能があり、7日間乗り放題メトロカード（$33）と同等の効果があります。ニューヨーク観光では地下鉄が最も効率的な移動手段です。ただし、深夜帯は運行本数が減り、一部路線は深夜運行を休止することがあります。路線図は駅構内やアプリ（Google Maps、Citymapper）で確認できます。</p>
+
+<h3 class="wp-block-heading">その他の都市の鉄道</h3>
+<p>ロサンゼルスのメトロは近年急速に路線を拡大しており、Aライン（旧ブルーライン）、Bライン（旧レッドライン：ハリウッドやユニバーサルシティへ）、Eライン（旧エクスポライン：サンタモニカへ）などが観光にも便利です。料金は$1.75。サンフランシスコのBART（ベイエリア高速鉄道）は空港とダウンタウンを結ぶ主要路線で、ケーブルカーは観光名物として人気です。ワシントンD.C.のメトロは清潔で安全な鉄道システムとして知られ、主要な観光スポット（スミソニアン博物館群、ホワイトハウス周辺など）へのアクセスに便利です。シカゴの「L」（エルと発音）は高架鉄道で、ダウンタウンのルーフを囲むように走る環状線（ループ）が特徴です。</p>
+
+<h2 class="wp-block-heading" id="bus">路線バス</h2>
+<p>アメリカの多くの都市では路線バスが運行されており、地下鉄がカバーしていないエリアへの移動に便利です。ニューヨークのMTAバスは地下鉄と同じ料金（$2.90）で、メトロカードやOMNYでの乗車が可能です。ロサンゼルスのメトロバスは広大なエリアをカバーしており、電車と組み合わせて利用すると効率的です。サンフランシスコのMuniバスはベイエリア全域を網羅しています。バスはリアルタイムの位置情報をGoogle MapsやTransitアプリで確認できるため、待ち時間を最小限に抑えられます。</p>
+<p>都市間バスとしては、グレイハウンド（Greyhound）がアメリカ最大の長距離バス会社で、全米の主要都市を結んでいます。ニューヨーク〜ワシントンD.C.（約4時間30分、$20〜$50）、ニューヨーク〜ボストン（約4時間、$15〜$40）など、早めに予約すれば非常にリーズナブルです。フリックスバス（FlixBus）も近年アメリカに進出し、格安の都市間バスを提供しています。</p>
+
+<h2 class="wp-block-heading" id="amtrak">Amtrak（長距離鉄道）</h2>
+<p>Amtrak（アムトラック）はアメリカの全国鉄道旅客公社が運行する長距離鉄道で、全米500以上の都市を結んでいます。飛行機と異なり市内の中心部から出発・到着するため、空港アクセスの時間を考慮すると、中距離の移動では飛行機と同程度の所要時間で移動できることもあります。</p>
+
+<h3 class="wp-block-heading">主な路線と所要時間</h3>
+<div class="Class_J">
+<h4>人気のAmtrak路線</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>アセラ（Acela） : ニューヨーク〜ワシントンD.C.（約2時間50分）、ニューヨーク〜ボストン（約3時間30分）。高速鉄道で北東回廊を結ぶ最も人気の路線</li>
+<li>ノースイースト・リージョナル : アセラと同じ区間を走る普通列車。アセラより安価で所要時間はやや長い</li>
+<li>コーストスターライト : シアトル〜ロサンゼルス（約35時間）。太平洋岸の絶景を楽しむ景観列車</li>
+<li>カリフォルニア・ゼファー : シカゴ〜サンフランシスコ（約51時間）。ロッキー山脈を越える壮大な景色</li>
+<li>エンパイア・ビルダー : シカゴ〜シアトル/ポートランド（約46時間）。氷河地帯を通る北回りルート</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">チケットの購入方法</h3>
+<p>Amtrakのチケットは公式サイト（amtrak.com）やアプリから購入できます。料金は区間、クラス（コーチ、ビジネス、ファーストクラス）、予約時期によって変動します。早期予約割引（セイバー運賃）を利用すると、通常料金の50%以上安くなることもあります。ニューヨーク〜ワシントンD.C.のアセラは通常$80〜$180程度、セイバー運賃なら$50〜$80程度です。USA Rail Passは15日間で8区間、30日間で12区間乗り放題のパスで、複数都市を巡る旅行に最適です。</p>
+
+<h2 class="wp-block-heading" id="rental">レンタカー</h2>
+<p>ロサンゼルスをはじめとする車社会の都市では、レンタカーが最も便利な移動手段です。アメリカのレンタカーは25歳以上であれば日本の運転免許証と国際運転免許証で運転可能です（21〜24歳は追加料金がかかるのが一般的）。主なレンタカー会社はハーツ（Hertz）、エンタープライズ（Enterprise）、エイビス（Avis）、バジェット（Budget）などです。</p>
+<p>料金は車種や季節、レンタル期間によって異なりますが、エコノミークラス（コンパクトカー）で1日$40〜$80程度、中型車（ミッドサイズ）で$50〜$100程度です。これに加えて保険料、ガソリン代、駐車場代がかかります。保険は日本のクレジットカードの海外旅行保険に含まれている場合もあるため、事前に確認しておきましょう。アメリカは右側通行で、日本と逆のため、最初は特に注意が必要です。赤信号でも右折可能（一部例外あり）、4ウェイストップ（全方向一時停止の交差点）など、日本と異なる交通ルールにも注意しましょう。</p>
+
+<h2 class="wp-block-heading" id="domestic">国内線（飛行機）</h2>
+<p>広大なアメリカでは、都市間の移動に国内線を利用するのが一般的です。ニューヨーク〜ロサンゼルスは約5時間30分、ニューヨーク〜シカゴは約2時間30分、ロサンゼルス〜サンフランシスコは約1時間20分です。主要な航空会社はアメリカン航空、デルタ航空、ユナイテッド航空の3大キャリアのほか、サウスウエスト航空、ジェットブルー、スピリット航空、フロンティア航空などのLCC（格安航空会社）があります。</p>
+<p>LCCは事前予約で片道$50〜$100程度の格安チケットが見つかることもありますが、受託手荷物は有料（$30〜$50）で、座席指定も追加料金がかかる場合があります。3大キャリアはLCCより高めですが、手荷物やサービスが充実しています。国内線の空港セキュリティチェックは厳格で、TSA（運輸保安庁）の検査には30〜60分かかることもあるため、出発の2時間前には空港に到着しておくことをおすすめします。</p>
+
+<h2 class="wp-block-heading" id="taxi">タクシー</h2>
+<p>ニューヨークのイエローキャブ（黄色いタクシー）はニューヨークのアイコンの一つです。初乗り料金は$3.00で、その後0.2マイルごとに$0.70が加算されます。渋滞時は待機時間にも課金されます。マンハッタン内の移動で$10〜$20程度、JFK空港からマンハッタンまでは定額$70（チップ・通行料別）です。チップは料金の15〜20%が目安です。タクシーは流しで拾うことができ、車の上のランプが点灯していれば空車のサインです。</p>
+<p>その他の都市ではタクシーは流しで拾うことが難しく、ホテルやレストランで呼んでもらうか、電話で予約するのが一般的です。そのため、多くの都市ではUber・Lyftの方がはるかに便利です。</p>
+
+<h2 class="wp-block-heading" id="airport">空港からのアクセス</h2>
+
+<div class="Class_J">
+<h4>主要空港からのアクセス方法</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>JFK空港（ニューヨーク） : エアトレイン＋地下鉄（約1時間、$11.50）、タクシー定額$70、Uber $50〜$80</li>
+<li>ラガーディア空港（ニューヨーク） : バス＋地下鉄（約1時間）、タクシー $30〜$50、Uber $25〜$45</li>
+<li>LAX空港（ロサンゼルス） : メトロCライン接続（約1時間）、Uber $30〜$50、フライアウェイバス $9.75</li>
+<li>SFO空港（サンフランシスコ） : BART（約30分、$9.65）、Uber $30〜$50</li>
+<li>ORD空港（シカゴ） : CTA Lトレイン ブルーライン（約45分、$5）、Uber $30〜$50</li>
+<li>ホノルル空港（ハワイ） : Uber $20〜$35、ワイキキ行きシャトルバス $18〜$20</li>
+</ul></p>
+</div>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/usa-newyork-spots" class="related-card">
+ <img src="/usa-hero.jpg" alt="ニューヨーク" style="width:300px;height:180px;object-fit:cover;" />
+ <p>ニューヨーク観光スポット15選【2026年最新】</p>
+ </a>
+ <a href="/usa-travel-budget" class="related-card">
+ <img src="/usa-hero.jpg" alt="アメリカ旅行費用" style="width:300px;height:180px;object-fit:cover;" />
+ <p>アメリカ旅行の費用目安【予算別モデルプラン】</p>
+ </a>
+ <a href="/usa-immigration-guide" class="related-card">
+ <img src="/usa-hero.jpg" alt="アメリカ入国審査" style="width:300px;height:180px;object-fit:cover;" />
+ <p>アメリカ入国審査の流れ【質問と回答例】</p>
+ </a>
+ <a href="/usa-esta-about" class="related-card">
+ <img src="/usa-hero.jpg" alt="アメリカESTA" style="width:300px;height:180px;object-fit:cover;" />
+ <p>アメリカESTA（電子渡航認証）とは</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ff94T42YlfR_z_ZaKeNRt"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

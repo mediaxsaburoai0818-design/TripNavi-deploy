@@ -1,0 +1,179 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3fd9,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-north-america">北アメリカ</a> ＞ <a href="/country-usa">アメリカ</a> ＞ <a href="/travel-info">旅行情報</a> ＞ アメリカの通貨ドル・両替・チップガイド</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/usa-hero.jpg" alt="アメリカの通貨" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="green">旅行情報</span>
+ <h1>アメリカの通貨ドル・両替・チップガイド【2026年最新】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年5月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">アメリカの通貨の基本</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#currency-basic">アメリカの通貨の基本</a></li>
+<li><a class="ez-toc-link" href="#bills">紙幣の種類と特徴</a></li>
+<li><a class="ez-toc-link" href="#coins">硬貨の種類と特徴</a></li>
+<li><a class="ez-toc-link" href="#exchange">両替の方法と注意点</a></li>
+<li><a class="ez-toc-link" href="#creditcard">クレジットカード事情</a></li>
+<li><a class="ez-toc-link" href="#tip">チップの基本とマナー</a></li>
+<li><a class="ez-toc-link" href="#tax">消費税（セールスタックス）について</a></li>
+<li><a class="ez-toc-link" href="#budget">旅行中の現金の目安</a></li>
+</ul>
+</nav>
+</div>
+
+<p>アメリカの通貨はアメリカドル（United States Dollar）で、通貨記号は「$」、通貨コードは「USD」です。1ドル＝100セントで構成されています。2026年5月現在の為替レートは1ドル＝約148円前後ですが、為替レートは日々変動するため、渡航前に最新のレートを確認しておきましょう。アメリカドルは世界の基軸通貨として広く流通しており、アメリカ国内はもちろん、世界中の多くの国で両替が可能です。</p>
+<p>アメリカはクレジットカード社会として知られていますが、チップの支払いやストリートフード、フリーマーケットなど現金が必要な場面もあります。旅行者としては、クレジットカードをメインの支払い手段にしつつ、チップや小額の支払い用に$200〜$300程度の現金を持っておくと安心です。</p>
+
+<h2 class="wp-block-heading" id="bills">紙幣の種類と特徴</h2>
+<p>アメリカの紙幣は$1、$5、$10、$20、$50、$100の6種類が一般的に流通しています。すべての紙幣はほぼ同じサイズ（156mm × 66mm）で、色合いも似ているため、慣れないうちは金額を間違えやすいので注意が必要です。</p>
+
+<div class="Class_J">
+<h4>紙幣一覧</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>$1紙幣 : ジョージ・ワシントン（初代大統領）が描かれた最も使用頻度の高い紙幣。チップや自動販売機で多用</li>
+<li>$5紙幣 : エイブラハム・リンカーン（第16代大統領）。日常の買い物で頻繁に使用</li>
+<li>$10紙幣 : アレクサンダー・ハミルトン（初代財務長官）。中程度の支払いに便利</li>
+<li>$20紙幣 : アンドリュー・ジャクソン（第7代大統領）。ATMで最も多く出てくる紙幣で流通量が多い</li>
+<li>$50紙幣 : ユリシーズ・S・グラント（第18代大統領）。やや高額の支払いに使用</li>
+<li>$100紙幣 : ベンジャミン・フランクリン（政治家・科学者）。高額紙幣で、小さな店舗ではお釣りが用意できず受け取りを拒否されることも</li>
+</ul></p>
+</div>
+
+<p>旅行者へのアドバイスとして、$100紙幣はタクシーや小さなレストラン、屋台などでは嫌がられることがあるため、$20紙幣を中心に持っておくのが便利です。両替の際にも「Small bills, please（小さい紙幣でお願いします）」と伝えると、使いやすい紙幣で受け取ることができます。</p>
+
+<h2 class="wp-block-heading" id="coins">硬貨の種類と特徴</h2>
+<p>アメリカの硬貨は主に4種類が日常的に使用されています。紙幣と異なり、硬貨には金額が数字ではなく英語で刻印されているため、慣れるまで見分けにくいかもしれません。</p>
+
+<div class="Class_J">
+<h4>硬貨一覧</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>1セント（ペニー / Penny） : 銅色の小さな硬貨。エイブラハム・リンカーンの肖像。日常的に使われるが、一部の店舗では受け取りを廃止する動きも</li>
+<li>5セント（ニッケル / Nickel） : 銀色でやや大きめの硬貨。トーマス・ジェファーソンの肖像</li>
+<li>10セント（ダイム / Dime） : 最も小さい硬貨。フランクリン・D・ルーズベルトの肖像。サイズが小さいのに5セントより価値が高いため混乱しやすい</li>
+<li>25セント（クォーター / Quarter） : 最も使用頻度が高い硬貨。ジョージ・ワシントンの肖像。コインランドリーや駐車メーターで必要なことが多い</li>
+</ul></p>
+</div>
+
+<p>50セント硬貨（ハーフダラー）や1ドル硬貨も存在しますが、日常的にはあまり流通していません。硬貨は帰国時に日本の銀行で両替できないことが多いため、旅行中に使い切るか、空港の募金箱に入れるとよいでしょう。</p>
+
+<h2 class="wp-block-heading" id="exchange">両替の方法と注意点</h2>
+
+<h3 class="wp-block-heading">日本国内での両替</h3>
+<p>日本でドルに両替する場合、主な方法は以下の通りです。銀行窓口（三菱UFJ銀行、みずほ銀行、三井住友銀行など）は安心感がありますが、手数料は1ドルあたり約2〜3円上乗せされることが多いです。空港の両替所（トラベレックスなど）は利便性が高い反面、レートは銀行よりやや不利な傾向があります。最もレートが良いとされるのは、外貨両替専門店（大黒屋、インターバンクなど）やFX口座からの外貨受取サービスです。</p>
+
+<h3 class="wp-block-heading">アメリカ現地での両替</h3>
+<p>アメリカ現地で日本円からドルに両替する場合、ホテルのフロントや街中の両替所（Currency Exchange）が利用できますが、一般的にレートは日本国内での両替より不利です。空港の両替所も便利ですが手数料が高い傾向があります。現地での両替よりも、日本で事前に必要分を両替しておくか、現地ATMでクレジットカードのキャッシング機能を利用する方がお得なケースが多いです。</p>
+
+<h3 class="wp-block-heading">ATMの活用</h3>
+<p>アメリカでは街中のいたるところにATMがあり、日本のクレジットカード（Visa、Mastercard、JCB）やデビットカード、プリペイドカードを使って現地通貨を引き出すことができます。ATM利用時の手数料は、カード会社の海外キャッシング手数料（年利18%程度を日割り計算）に加え、ATM設置者側の手数料（$2〜$5程度）がかかる場合があります。帰国後すぐに繰り上げ返済すれば、キャッシングの利息は最小限に抑えられ、両替所よりもお得になることが多いです。暗証番号（4桁のPIN）は渡航前に確認しておきましょう。</p>
+
+<h3 class="wp-block-heading">お得な両替のコツ</h3>
+<div class="Class_J">
+<h4>両替のポイント</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>為替レートが有利な時期に事前に両替しておく</li>
+<li>$20紙幣を中心に、$1紙幣も多めに用意（チップ用）</li>
+<li>大金の両替は外貨両替専門店やFXサービスが有利</li>
+<li>現地ではATMキャッシング＋繰り上げ返済が経済的</li>
+<li>ホテルや空港の両替所は最終手段として利用</li>
+<li>$100紙幣は使いにくいため避ける</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="creditcard">クレジットカード事情</h2>
+<p>アメリカは世界有数のカード社会であり、ほぼすべての場所でクレジットカードが使えます。スーパーマーケット、レストラン、タクシー、ホテル、公共交通機関、さらにはフードトラック（移動販売車）でもカード決済が一般的です。$1のコーヒーでもカード払いが普通で、むしろ現金のみの店は少数派です。</p>
+<p>最も広く受け入れられているブランドはVisa、次いでMastercard、American Express、Discoverの順です。JCBはハワイや日本人観光客が多いエリアでは使えますが、一般的なアメリカの店舗では利用できないことが多いため、VisaまたはMastercardを最低1枚は持参することをおすすめします。</p>
+<p>非接触決済（コンタクトレス / タップ決済）やApple Pay・Google Payなどのモバイル決済も急速に普及しています。レストランでの支払いは、テーブルにカードを置いておくとサーバーが持っていき処理する方式が一般的ですが、最近はテーブルに設置されたタブレット端末で支払うスタイルも増えています。カード決済時にはチップの金額を入力する画面が表示されるため、15%〜20%の範囲で適切な金額を選択します。</p>
+<p>海外でのカード利用には、カード会社ごとに1.6%〜2.2%の海外事務手数料がかかります。この手数料を考慮しても、両替手数料よりもお得なケースが多いです。渡航前にカード会社に海外渡航の届出をしておくと、不正利用防止のためのカード停止を避けられます。</p>
+
+<h2 class="wp-block-heading" id="tip">チップの基本とマナー</h2>
+<p>チップ（Tip / Gratuity）はアメリカの文化に深く根付いた習慣であり、サービス業で働く人々の収入の重要な部分を占めています。チップを渡さないことは非常に失礼とみなされ、サービスに対する不満の表明と解釈されるため、適切なチップを渡すことはアメリカ旅行の必須マナーです。</p>
+
+<h3 class="wp-block-heading">場面別チップの目安</h3>
+<div class="Class_J">
+<h4>チップの相場一覧</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>レストラン（テーブルサービス）: 税前金額の18〜20%。高級レストランでは20〜25%</li>
+<li>バー : ドリンク1杯につき$1〜$2、またはタブ（会計）の15〜20%</li>
+<li>カフェ（カウンター注文）: 不要だが、タブレット端末で$1〜$2を選択する人も増加中</li>
+<li>ファストフード : 不要</li>
+<li>タクシー / Uber / Lyft : 料金の15〜20%</li>
+<li>ホテルのベルマン : 荷物1つあたり$2〜$5</li>
+<li>ホテルのハウスキーピング : 1泊あたり$2〜$5（枕元やサイドテーブルに置く）</li>
+<li>ホテルのコンシェルジュ : レストラン予約などのサービスに$5〜$20</li>
+<li>ホテルのドアマン : タクシーを呼んでもらった場合 $1〜$5</li>
+<li>美容室・理髪店 : 料金の15〜20%</li>
+<li>ツアーガイド : 半日ツアー $10〜$20、終日ツアー $20〜$50</li>
+<li>フードデリバリー : 注文金額の15〜20%（最低$3〜$5）</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">チップの渡し方</h3>
+<p>レストランでのチップの渡し方は、カード払いの場合、レシートにチップ額と合計額を記入して署名します。最近はタブレット端末にチップの選択肢（15%、18%、20%、カスタム）が表示される方式が増えています。現金で渡す場合は、テーブルにお札を置いていくか、サーバーに直接手渡します。ホテルのハウスキーピングへのチップは、$1紙幣を数枚、枕元やサイドテーブルに置いておきます。メモを添えて「Thank you」と書いておくと、クリーニングスタッフへのチップであることが明確になります。</p>
+
+<h2 class="wp-block-heading" id="tax">消費税（セールスタックス）について</h2>
+<p>アメリカには日本の消費税に相当する「セールスタックス（Sales Tax）」がありますが、日本と大きく異なるのは、表示価格に税金が含まれていない点です。商品に表示されている価格はすべて税抜価格であり、レジで支払う際に税金が加算されます。たとえば$10の商品を購入する場合、ニューヨーク市では8.875%の税金が加算され、実際の支払額は$10.89になります。</p>
+<p>セールスタックスの税率は州・郡・市によって異なり、0%（オレゴン州、モンタナ州など5州）から最大10%以上（テネシー州の一部地域）まで幅があります。主要都市のセールスタックス率は、ニューヨーク市 8.875%、ロサンゼルス 9.5%、シカゴ 10.25%、サンフランシスコ 8.625%、ラスベガス 8.375%、ホノルル 4.712%です。食料品（未加工食品）は多くの州で非課税または軽減税率が適用されますが、レストランでの食事には課税されます。</p>
+
+<h2 class="wp-block-heading" id="budget">旅行中の現金の目安</h2>
+<p>クレジットカードをメインの支払い手段として使う場合でも、チップ用の現金は必要です。以下は旅行日数別の現金の目安です。</p>
+
+<div class="Class_J">
+<h4>現金の目安（チップ・小額支払い用）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>3〜4泊の旅行 : $200〜$300程度（$1紙幣を20枚以上含む）</li>
+<li>5〜7泊の旅行 : $300〜$500程度</li>
+<li>1週間以上の旅行 : $500〜$800程度</li>
+</ul></p>
+</div>
+
+<p>$1紙幣はチップに頻繁に使うため、最低でも20枚以上は用意しておくと安心です。大きな紙幣は小さな店舗でお釣りが出ないこともあるため、$20紙幣以下を中心に持っておくことをおすすめします。現地で現金が足りなくなった場合は、ATMでキャッシングするのが便利です。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/usa-travel-budget" class="related-card">
+ <img src="/usa-hero.jpg" alt="アメリカ旅行費用" style="width:300px;height:180px;object-fit:cover;" />
+ <p>アメリカ旅行の費用目安【予算別モデルプラン】</p>
+ </a>
+ <a href="/usa-souvenirs" class="related-card">
+ <img src="/usa-hero.jpg" alt="アメリカのお土産" style="width:300px;height:180px;object-fit:cover;" />
+ <p>アメリカのお土産おすすめ15選</p>
+ </a>
+ <a href="/usa-food-guide" class="related-card">
+ <img src="/usa-hero.jpg" alt="アメリカ料理" style="width:300px;height:180px;object-fit:cover;" />
+ <p>アメリカ料理・グルメガイド</p>
+ </a>
+ <a href="/usa-esta-about" class="related-card">
+ <img src="/usa-hero.jpg" alt="アメリカESTA" style="width:300px;height:180px;object-fit:cover;" />
+ <p>アメリカESTA（電子渡航認証）とは</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ff94T42YlfR_z_ZaKeNRt"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

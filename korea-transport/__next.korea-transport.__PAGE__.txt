@@ -1,0 +1,192 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T454c,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-asia">アジア</a> ＞ <a href="/country-korea">韓国</a> ＞ <a href="/travel-info">旅行情報</a> ＞ 韓国の交通ガイド【地下鉄・バス・KTX】</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/korea-hero.jpg" alt="韓国の交通" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="green">旅行情報</span>
+ <h1>韓国の交通ガイド【地下鉄・バス・KTX】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年5月</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">韓国の交通概要</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#transport-overview">韓国の交通概要</a></li>
+<li><a class="ez-toc-link" href="#t-money">T-moneyカード（交通ICカード）</a></li>
+<li><a class="ez-toc-link" href="#subway">地下鉄（メトロ）</a></li>
+<li><a class="ez-toc-link" href="#bus">路線バス</a></li>
+<li><a class="ez-toc-link" href="#ktx">KTX（韓国高速鉄道）</a></li>
+<li><a class="ez-toc-link" href="#taxi">タクシー</a></li>
+<li><a class="ez-toc-link" href="#airport-access">空港アクセス</a></li>
+<li><a class="ez-toc-link" href="#useful-apps">便利なアプリ</a></li>
+<li><a class="ez-toc-link" href="#transport-tips">交通利用のコツと注意点</a></li>
+</ul>
+</nav>
+</div>
+
+<p>韓国は交通インフラが非常に発達しており、旅行者にとって移動しやすい国の一つです。特にソウル市内は地下鉄網が充実しており、主要な観光地のほとんどに地下鉄でアクセスできます。ソウルから釜山や慶州などの地方都市へはKTX（韓国高速鉄道）で快適に移動でき、韓国全土を効率よく周遊することが可能です。交通ICカードの「T-moneyカード」を1枚持っていれば、地下鉄、バス、タクシー、コンビニでの決済まで、ほぼ全ての交通手段と日常の買い物をカバーできます。</p>
+<p>韓国の公共交通機関は日本と比較すると運賃が非常にリーズナブルです。ソウルの地下鉄は基本料金1,400ウォン（約154円）、市内バスは1,500ウォン（約165円）、タクシーの初乗りは4,800ウォン（約530円）と、日本の半額以下の水準です。さらに、地下鉄とバスの乗り換え割引制度があり、30分以内の乗り換えなら追加料金なしで利用できるのも大きなメリットです。</p>
+
+<h2 class="wp-block-heading" id="t-money">T-moneyカード（交通ICカード）</h2>
+<p>T-moneyカードは韓国の全国共通交通ICカードで、日本のSuicaやPASMOに相当するカードです。地下鉄、バス、タクシー、コンビニ、自動販売機など幅広く利用でき、韓国旅行の必需品と言えます。</p>
+
+<h3 class="wp-block-heading">購入方法</h3>
+<p>T-moneyカードはコンビニ（CU、GS25、セブンイレブン）、地下鉄駅の自動販売機、仁川空港の到着ロビーなどで購入できます。カード本体の価格は2,500ウォン（約275円）で、これに加えてチャージ（充電）金額を入金して使用します。デザインが異なる限定版T-moneyカードも販売されており、お土産としても人気です。</p>
+
+<h3 class="wp-block-heading">チャージ方法</h3>
+<p>T-moneyカードのチャージはコンビニのレジ、地下鉄駅の自動チャージ機、一部のバス車内で可能です。チャージは1,000ウォン単位で行え、最低1,000ウォンから最大50万ウォンまでチャージできます。自動チャージ機は韓国語のほか英語・日本語にも対応しているため、操作に困ることはほとんどありません。</p>
+
+<h3 class="wp-block-heading">T-moneyカードのメリット</h3>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>地下鉄の基本料金が100ウォン割引（1,400ウォン → 1,300ウォン）</li>
+<li>地下鉄⇔バスの乗り換え割引（30分以内なら追加料金なし）</li>
+<li>タクシーでも使用可能（小額の現金を用意する手間が省ける）</li>
+<li>コンビニでの支払いにも使える</li>
+<li>残額は帰国時にコンビニで払い戻し可能（手数料500ウォン）</li>
+</ul></p>
+
+<h2 class="wp-block-heading" id="subway">地下鉄（メトロ）</h2>
+<h3 class="wp-block-heading">ソウル地下鉄</h3>
+<p>ソウルの地下鉄は1〜9号線と、京義中央線、盆唐線、新盆唐線、空港鉄道（A'REX）など20以上の路線が運行しており、総延長は約340キロメートルに及びます。各路線は色分けされており（1号線：濃青、2号線：緑、3号線：オレンジ、4号線：水色など）、駅構内の案内表示はハングル、英語、漢字（中国語）、日本語の4か国語で表記されています。</p>
+<p>運行時間は始発が午前5時30分頃、終電が午前0時頃です（路線・駅により異なる）。運行間隔は平日のラッシュ時は2〜3分、日中は5〜8分、週末は6〜10分程度です。金曜・土曜の夜は一部路線で深夜延長運行が行われることもあります。</p>
+<p>地下鉄の利用方法は日本とほぼ同じで、改札にT-moneyカードをタッチして入場し、降車駅でもう一度タッチして退場します。1回用交通カード（デポジット500ウォン、降車後に返金）も券売機で購入できますが、T-moneyカードの方がお得で便利です。</p>
+
+<div class="Class_J">
+<h4>ソウル地下鉄の運賃（T-moneyカード利用時）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>基本料金（10km以内） : 1,400ウォン（約154円）</li>
+<li>10〜50km : 5kmごとに100ウォン加算</li>
+<li>50km以上 : 8kmごとに100ウォン加算</li>
+<li>例：明洞→景福宮（約3km） : 1,400ウォン</li>
+<li>例：仁川空港→ソウル駅（A'REX一般列車） : 4,750ウォン</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">釜山地下鉄</h3>
+<p>釜山の地下鉄は4路線と軽電鉄1路線が運行しており、海雲台、チャガルチ市場、西面、釜山駅など主要な観光地をカバーしています。運賃はソウルと同様にT-moneyカードで支払え、基本料金は1,400ウォンです。</p>
+
+<h2 class="wp-block-heading" id="bus">路線バス</h2>
+<p>韓国の路線バスは地下鉄ではカバーしきれないエリアへのアクセスに便利な交通手段です。ソウル市内のバスは色で種類が分けられています。</p>
+
+<div class="Class_J">
+<h4>ソウル市内バスの種類</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>青色バス（幹線バス） : 市内の主要幹線を運行、長距離移動向け</li>
+<li>緑色バス（支線バス） : 地下鉄駅と周辺エリアをつなぐ短距離路線</li>
+<li>赤色バス（広域バス） : ソウルと近郊都市を結ぶ急行バス</li>
+<li>黄色バス（循環バス） : 都心部を循環する短距離バス</li>
+</ul></p>
+</div>
+
+<p>バスの運賃は市内バスが1,500ウォン（約165円）、広域バスが2,500ウォン（約275円）程度です。T-moneyカードで乗車時にタッチし、降車時にもタッチする方式です。バス停の電光掲示板にはバスの到着予定時刻がリアルタイムで表示されます。バス車内のアナウンスは韓国語と英語で行われますが、観光客にはルートが分かりにくい場合もあるため、NAVERマップやカカオマップの活用をおすすめします。</p>
+
+<h2 class="wp-block-heading" id="ktx">KTX（韓国高速鉄道）</h2>
+<p>KTX（Korea Train Express）はフランスのTGV技術を基に開発された韓国の高速鉄道で、最高速度305km/hで韓国全土を結んでいます。2004年に開業し、ソウル〜釜山間を約2時間30分で結ぶ韓国の大動脈です。</p>
+
+<h3 class="wp-block-heading">主要路線と所要時間</h3>
+<div class="Class_J">
+<h4>KTXの主要路線と所要時間</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ソウル → 釜山 : 約2時間30分（59,800ウォン〜）</li>
+<li>ソウル → 大邱 : 約1時間40分（43,500ウォン〜）</li>
+<li>ソウル → 大田 : 約50分（23,700ウォン〜）</li>
+<li>ソウル → 光州 : 約1時間50分（47,800ウォン〜）</li>
+<li>ソウル → 江陵 : 約1時間50分（27,600ウォン〜）</li>
+<li>ソウル → 慶州 : 約2時間（新慶州駅、51,900ウォン〜）</li>
+</ul></p>
+</div>
+
+<h3 class="wp-block-heading">KTXの予約・乗車方法</h3>
+<p>KTXのチケットはKORAIL（韓国鉄道公社）の公式サイト、駅の券売機、駅の窓口で購入できます。外国人旅行者にはKORAILの英語サイトからのオンライン予約が便利です。座席は一般室と特室（ファーストクラス）の2種類があり、一般室でも十分快適です。自由席はなく全席指定のため、繁忙期（旧正月、秋夕、ゴールデンウィーク）は早めの予約が必要です。</p>
+<p>外国人旅行者向けのお得なパスとして「KRパス（Korea Rail Pass）」があります。KRパスは一定期間内にKTXを含む韓国鉄道が乗り放題になるパスで、複数都市を周遊する場合に非常にお得です。2日間パス（121,000ウォン〜）、3日間パス（138,000ウォン〜）、4日間パス（170,000ウォン〜）、5日間パス（195,000ウォン〜）があります。</p>
+
+<h2 class="wp-block-heading" id="taxi">タクシー</h2>
+<p>韓国のタクシーは日本に比べて非常にリーズナブルで、4人以上のグループ旅行では地下鉄よりもお得な場合があります。</p>
+
+<h3 class="wp-block-heading">タクシーの種類</h3>
+<p><strong>一般タクシー（オレンジ・シルバー）：</strong>最も一般的なタクシーで、初乗り4,800ウォン（約530円）、以降132mごとに100ウォン加算されます。深夜料金（24:00〜4:00）は20%割増となります。</p>
+<p><strong>模範タクシー（黒色）：</strong>大型車両で、ドライバーの経験や資格が一般タクシーより上位のタクシーです。初乗り7,000ウォン（約770円）で、深夜割増はありません。英語が通じるドライバーが多く、外国人旅行者にも利用しやすいです。</p>
+<p><strong>インターナショナルタクシー：</strong>外国人旅行者専用のタクシーで、英語・日本語・中国語が通じるドライバーが運転します。事前に料金が確定するため、ぼったくりの心配がありません。KSTグローバルタクシーのサイトやアプリから予約可能です。</p>
+
+<h3 class="wp-block-heading">タクシーの利用方法</h3>
+<p>タクシーの乗車方法は日本とほぼ同じですが、ドアは自動ではなく手動で開けます。目的地を伝える際は、韓国語で住所を見せるか、NAVERマップで目的地を表示して見せるのが確実です。「カカオT」アプリを使えば、配車から決済までスマホで完結し、行き先を韓国語で伝える手間も省けます。T-moneyカードやクレジットカードでの支払いが可能ですが、一部の個人タクシーでは現金のみの場合もあります。</p>
+
+<h2 class="wp-block-heading" id="airport-access">空港アクセス</h2>
+<h3 class="wp-block-heading">仁川国際空港 → ソウル市内</h3>
+<div class="Class_J">
+<h4>仁川空港からソウル市内へのアクセス方法</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>A'REX直通列車 : 仁川空港→ソウル駅 約43分、9,500ウォン（約1,045円）</li>
+<li>A'REX一般列車 : 仁川空港→ソウル駅 約66分、4,750ウォン（約523円）</li>
+<li>リムジンバス : 仁川空港→ソウル市内各所 約60〜90分、10,000〜17,000ウォン</li>
+<li>タクシー : 仁川空港→ソウル市内 約60〜80分、65,000〜80,000ウォン</li>
+</ul></p>
+</div>
+
+<p>最もおすすめはA'REX（空港鉄道）の一般列車です。直通列車よりも20分ほど余分にかかりますが、料金は半額以下で、途中駅で地下鉄に乗り換えることもできます。深夜到着の場合はリムジンバスの深夜便またはタクシーを利用します。</p>
+
+<h3 class="wp-block-heading">金海国際空港 → 釜山市内</h3>
+<p>金海国際空港から釜山市内へは、軽電鉄で沙上駅まで行き、地下鉄2号線に乗り換えるのが一般的です。所要時間は約40〜60分、運賃は1,400〜1,800ウォン程度です。タクシーなら市内中心部まで約30分、20,000〜30,000ウォン程度です。</p>
+
+<h2 class="wp-block-heading" id="useful-apps">便利なアプリ</h2>
+<p>韓国旅行で交通を利用する際に役立つアプリを紹介します。</p>
+<p><strong>NAVERマップ：</strong>韓国で最も使われている地図アプリです。地下鉄・バスの乗り換え案内、所要時間、運賃が正確に表示されます。Google Mapsより韓国内の情報が充実しているため、韓国旅行ではNAVERマップの利用を強くおすすめします。日本語にも対応しています。</p>
+<p><strong>カカオマップ：</strong>NAVERマップと並ぶ韓国の人気地図アプリです。飲食店やカフェの口コミ情報が充実しており、グルメ検索にも便利です。</p>
+<p><strong>カカオT：</strong>韓国版Uberとも言えるタクシー配車アプリです。目的地を入力するだけでタクシーを呼べ、概算料金も事前に確認できます。ドライバーとのコミュニケーション不要で、外国人旅行者にとって非常に便利です。</p>
+<p><strong>Subway Korea：</strong>韓国の地下鉄路線図と乗り換え案内に特化したアプリです。オフラインでも使用でき、最短ルートや所要時間を検索できます。</p>
+
+<h2 class="wp-block-heading" id="transport-tips">交通利用のコツと注意点</h2>
+<p><strong>ラッシュ時の混雑：</strong>ソウルの地下鉄は平日の朝（7:30〜9:00）と夕方（18:00〜19:30）が最も混雑します。この時間帯に観光地を移動する場合は、余裕を持ったスケジュールを組みましょう。</p>
+<p><strong>優先席のマナー：</strong>韓国の地下鉄・バスの優先席（ノヤクチャソク）は、日本以上に厳格に高齢者や妊婦に譲る文化があります。優先席には座らないようにしましょう。</p>
+<p><strong>地下鉄でのWi-Fi：</strong>ソウルの地下鉄車内では無料Wi-Fi「Seoul Free Wi-Fi」が利用可能です。通信速度は遅い場合がありますが、地図の確認程度なら十分です。</p>
+<p><strong>バスの乗り降り：</strong>バスは前のドアから乗車し、後ろのドアから降車するのが基本です。乗車時・降車時ともにT-moneyカードをタッチします。降車時のタッチを忘れると、次の乗車時に乗り換え割引が適用されないため注意しましょう。</p>
+<p><strong>タクシーのトラブル防止：</strong>一般タクシーではごくまれにメーターを使わない、遠回りをするといったトラブルが報告されています。必ずメーターが作動しているか確認し、不安な場合はカカオTアプリを使用するか模範タクシーを利用しましょう。</p>
+
+<p>韓国渡航に必要な手続きについては「<a href="/korea-keta-about">韓国K-ETA（電子旅行許可）とは</a>」をご確認ください。</p>
+
+ </div>
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/korea-mid.jpg" alt="韓国の風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/korea-seoul-spots" class="related-card">
+ <img src="/korea-hero.jpg" alt="ソウル" style="width:300px;height:180px;object-fit:cover;" />
+ <p>ソウル観光スポット15選【2026年最新】</p>
+ </a>
+ <a href="/korea-travel-budget" class="related-card">
+ <img src="/korea-hero.jpg" alt="韓国旅行費用" style="width:300px;height:180px;object-fit:cover;" />
+ <p>韓国旅行の費用目安【予算別モデルプラン】</p>
+ </a>
+ <a href="/korea-immigration-guide" class="related-card">
+ <img src="/korea-hero.jpg" alt="韓国入国" style="width:300px;height:180px;object-fit:cover;" />
+ <p>韓国入国審査の流れ【質問と回答例】</p>
+ </a>
+ <a href="/korea-keta-about" class="related-card">
+ <img src="/korea-hero.jpg" alt="韓国K-ETA" style="width:300px;height:180px;object-fit:cover;" />
+ <p>韓国K-ETA（電子旅行許可）とは</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ff94T42YlfR_z_ZaKeNRt"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null
