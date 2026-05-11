@@ -1,0 +1,112 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T1fbb,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/etias-about/">ETIAS</a> ＞ ETIASとESTAの違い比較</div>
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/tripnavi-hero-a.jpg" alt="ヨーロッパ渡航" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="blue">渡航手続き</span>
+ <h1>ETIASとESTAの違い比較｜費用・有効期限・対象地域を徹底解説</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年05月02日</span>
+ </div>
+ <div class="content">
+
+<h2>ETIASとESTAの概要</h2>
+<p>ETIAS（エティアス）とESTA（エスタ）はどちらも電子渡航認証システムですが、管轄する地域や運営機関が異なります。ETIASはEU（欧州連合）が運営するシェンゲン圏向けの渡航認証で、ESTAはアメリカ合衆国国土安全保障省（DHS）が運営するアメリカ向けの渡航認証です。どちらもビザ免除対象国の国民が短期渡航する際に事前取得が必要な電子認証です。</p>
+<p>ETIASの基本情報は<a href="/etias-about/">ETIASとは</a>、ESTAの詳細は<a href="/usa-esta-about/">ESTAとは</a>をご確認ください。</p>
+
+<h2>ETIASとESTAの徹底比較表</h2>
+<figure class="wp-block-table">
+<table>
+<thead>
+<tr><th>比較項目</th><th>ETIAS</th><th>ESTA</th></tr>
+</thead>
+<tbody>
+<tr><td>正式名称</td><td>European Travel Information and Authorisation System</td><td>Electronic System for Travel Authorization</td></tr>
+<tr><td>日本語名</td><td>欧州渡航情報・認証システム</td><td>電子渡航認証システム</td></tr>
+<tr><td>運営機関</td><td>eu-LISA（EU大規模ITシステム運営管理庁）</td><td>CBP（アメリカ税関・国境警備局）</td></tr>
+<tr><td>対象地域</td><td>シェンゲン協定加盟30カ国</td><td>アメリカ合衆国</td></tr>
+<tr><td>申請費用</td><td>7ユーロ（約1,100円）</td><td>21ドル（約3,200円）</td></tr>
+<tr><td>年齢による免除</td><td>18歳未満・70歳以上は無料</td><td>年齢による免除なし</td></tr>
+<tr><td>有効期限</td><td>3年間</td><td>2年間</td></tr>
+<tr><td>滞在可能日数</td><td>180日間のうち最大90日</td><td>最大90日</td></tr>
+<tr><td>申請方法</td><td>公式サイトまたは専用アプリ</td><td>公式サイト</td></tr>
+<tr><td>審査期間</td><td>通常数分（最大30日）</td><td>通常72時間以内</td></tr>
+<tr><td>必要書類</td><td>パスポート、メール、クレジットカード</td><td>パスポート、メール、クレジットカード</td></tr>
+<tr><td>パスポート要件</td><td>ICチップ搭載パスポート</td><td>ICチップ搭載パスポート</td></tr>
+<tr><td>渡航目的</td><td>観光・ビジネス・トランジット</td><td>観光・ビジネス・トランジット</td></tr>
+<tr><td>運用開始年</td><td>2026年予定</td><td>2009年</td></tr>
+</tbody>
+</table>
+</figure>
+
+<h2>費用の違い</h2>
+<p>ETIASの申請費用は<strong>7ユーロ（約1,100円）</strong>で、ESTAの<strong>21ドル（約3,200円）</strong>と比較すると約3分の1の費用で済みます。さらにETIASは18歳未満および70歳以上の方は無料ですが、ESTAには年齢による免除はありません。家族でのヨーロッパ旅行の場合、子供の分が無料になるのはETIASの大きなメリットです。詳しくは<a href="/etias-cost/">ETIAS申請費用・料金</a>をご確認ください。</p>
+
+<h2>有効期限と滞在日数の違い</h2>
+<p>ETIASの有効期限は<strong>3年間</strong>（またはパスポート有効期限まで）で、ESTAの<strong>2年間</strong>より1年長くなっています。ただし、1回あたりの最大滞在日数はどちらも90日です。ETIASの場合は「180日間のうち最大90日」というルールで、シェンゲン圏全体での滞在日数が合算されます。ESTAの場合は入国日から最大90日です。</p>
+
+<h2>対象地域の違い</h2>
+<p>最も大きな違いは対象地域です。</p>
+<ul>
+<li><strong>ETIAS</strong>：シェンゲン協定加盟30カ国（フランス、ドイツ、イタリア、スペインなど）が対象。1つのETIASで複数国を周遊できます。<a href="/etias-countries/">対象国一覧はこちら</a></li>
+<li><strong>ESTA</strong>：アメリカ合衆国のみが対象。ハワイやグアムへの渡航にも必要です。</li>
+</ul>
+
+<h2>審査方法の違い</h2>
+<p>ETIASとESTAでは審査で照合するデータベースが異なります。</p>
+<ul>
+<li><strong>ETIAS</strong>：ユーロポール（欧州刑事警察機構）、SIS（シェンゲン情報システム）、インターポール等のデータベースと照合</li>
+<li><strong>ESTA</strong>：TECS（税関執行通信システム）、NCIC（全米犯罪情報センター）等のデータベースと照合</li>
+</ul>
+<p>どちらもセキュリティ上の問題がなければ短時間で承認されますが、データベースの照合でフラグが立った場合は追加審査が行われます。</p>
+
+<h2>両方を取得する必要があるケース</h2>
+<p>アメリカとヨーロッパの両方を訪問する旅行を計画している場合は、ETIASとESTAの両方を取得する必要があります。例えば、ニューヨーク経由でパリに向かう場合、アメリカでの入国・乗り継ぎにESTAが必要で、フランスへの入国にETIASが必要です。</p>
+
+<h2>よくある質問（FAQ）</h2>
+<h3>Q. ETIASとESTAは同時に申請できますか？</h3>
+<p>それぞれ別のシステムで運営されているため、同時には申請できません。ただし、両方を保持することは可能です。旅行計画が決まったら、それぞれの公式サイトから個別に申請してください。</p>
+
+<h3>Q. ESTAを持っていればETIASは不要ですか？</h3>
+<p>いいえ。ESTAはアメリカ向け、ETIASはヨーロッパ（シェンゲン圏）向けの制度です。ヨーロッパに渡航する場合はETIASが別途必要です。</p>
+
+<h3>Q. ETIASとESTAのどちらが審査が厳しいですか？</h3>
+<p>どちらも犯罪歴やセキュリティ上の問題がなければスムーズに承認されます。ETIASはまだ運用開始前のため実績データはありませんが、ESTAと同等の審査レベルが予想されます。</p>
+
+<h3>Q. アメリカ経由でヨーロッパに行く場合、どちらが必要ですか？</h3>
+<p>アメリカで入国審査を受ける場合はESTAが必要です。その後ヨーロッパに向かう場合はETIASも必要です。アメリカの空港でトランジットする場合でも、アメリカの入国審査を通過するためESTAは必須です。</p>
+
+ </div>
+ </article>
+
+      <section class="related-articles">
+ <h2 class="related-title">ETIAS関連記事</h2>
+ <div class="related-grid">
+ <a href="/etias-about/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1485081669829-bacb8c7bb1f3?w=300&h=180&fit=crop" alt="ETIASとは" />
+ <p>ETIASとは？EU渡航認証システムの概要</p>
+ </a>
+ <a href="/etias-vs-visa/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=300&h=180&fit=crop" alt="ETIASとビザ" />
+ <p>ETIASとビザの違い</p>
+ </a>
+ <a href="/etias-application/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=300&h=180&fit=crop" alt="ETIAS申請" />
+ <p>ETIAS申請方法・手順ガイド</p>
+ </a>
+ <a href="/etias-cost/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=300&h=180&fit=crop" alt="ETIAS費用" />
+ <p>ETIAS申請費用・料金</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"n4-5a2ApQIxn7RNXJKC_i"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

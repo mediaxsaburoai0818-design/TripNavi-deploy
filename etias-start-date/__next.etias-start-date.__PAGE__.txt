@@ -1,0 +1,108 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T1e0e,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/etias-about/">ETIAS</a> ＞ ETIASはいつから？</div>
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/tripnavi-hero-a.jpg" alt="ヨーロッパ渡航" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="blue">渡航手続き</span>
+ <h1>ETIASはいつから？開始時期・導入スケジュールの最新情報【2026年版】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年05月02日</span>
+ </div>
+ <div class="content">
+
+<h2>ETIAS開始時期の最新情報（2026年5月時点）</h2>
+<p>ETIAS（欧州渡航情報・認証システム）は、2026年現在も正式な運用開始日が確定していません。欧州委員会は2026年中の稼働開始を目標としていますが、具体的な日程は発表されていない状況です。導入が決定した際には、運用開始の数ヶ月前から事前周知期間が設けられ、渡航者が準備できるようにする方針が示されています。ETIASの概要については<a href="/etias-about/">ETIASとは</a>をご確認ください。</p>
+
+<h2>延期の経緯とこれまでのスケジュール</h2>
+<p>ETIASの導入は当初の予定から複数回にわたって延期されています。以下はこれまでの主な経緯です。</p>
+<figure class="wp-block-table">
+<table>
+<thead>
+<tr><th>時期</th><th>出来事</th></tr>
+</thead>
+<tbody>
+<tr><td>2016年11月</td><td>欧州委員会がETIAS制度の提案を発表</td></tr>
+<tr><td>2018年9月</td><td>EU理事会と欧州議会がETIAS規則を正式採択</td></tr>
+<tr><td>2018年10月</td><td>ETIAS規則が官報に掲載され、法的に発効</td></tr>
+<tr><td>2021年</td><td>当初の運用開始予定年。技術開発の遅延により延期</td></tr>
+<tr><td>2023年</td><td>2023年11月の運用開始が見込まれていたが延期</td></tr>
+<tr><td>2024年</td><td>2024年中の開始が予定されていたがEES（出入国管理システム）の遅延に伴い再延期</td></tr>
+<tr><td>2025年</td><td>2025年後半の開始が見込まれていたが、さらなる技術的課題により延期</td></tr>
+<tr><td>2026年</td><td>2026年中の稼働開始が現在の目標</td></tr>
+</tbody>
+</table>
+</figure>
+
+<h2>延期の主な理由</h2>
+<p>ETIASの導入が繰り返し延期されている主な理由は以下の通りです。</p>
+
+<h3>1. EES（出入国管理システム）との連携</h3>
+<p>ETIASはEES（Entry/Exit System：出入国管理システム）と連携して運用される設計です。EESはシェンゲン圏の出入国記録をデジタル化するシステムで、ETIASの前提条件となっています。EES自体の開発・導入にも遅延が発生しており、これがETIASの遅延に直結しています。</p>
+
+<h3>2. 大規模ITシステムの技術的課題</h3>
+<p>ETIASは年間数千万件の申請を処理する必要があり、各国の入国管理データベースやインターポール、ユーロポールなどの複数システムとリアルタイムで連携する複雑なITインフラです。30カ国以上の国々のシステムとの統合テストに想定以上の時間がかかっています。</p>
+
+<h3>3. 加盟国間の調整</h3>
+<p>シェンゲン協定加盟30カ国すべてが足並みを揃えてシステムを導入する必要があり、各国の準備状況に差があることも遅延の要因です。</p>
+
+<h2>ETIAS導入前に準備すべきこと</h2>
+<p>ETIAS導入に備えて、以下の準備を進めておくことをお勧めします。</p>
+<ul>
+<li><strong>パスポートの確認</strong>：ICチップ搭載の機械読取式パスポート（MRP）が必要です。残存有効期限も確認しましょう。</li>
+<li><strong>渡航計画の早期立案</strong>：ETIAS導入直後は申請が集中する可能性があるため、余裕を持った計画を立てましょう。</li>
+<li><strong>最新情報のチェック</strong>：当サイトでは開始時期の最新情報を随時更新しています。</li>
+</ul>
+
+<h2>ETIAS導入後の移行期間</h2>
+<p>ETIAS導入後は、一定の移行期間が設けられる見込みです。移行期間中はETIASの取得が推奨されるものの、未取得でも入国が認められる可能性があります。ただし、移行期間終了後はETIASの取得が必須となるため、早めの申請をお勧めします。申請方法については<a href="/etias-application/">ETIAS申請方法・手順ガイド</a>をご確認ください。</p>
+
+<h2>よくある質問（FAQ）</h2>
+<h3>Q. 2026年のヨーロッパ旅行にETIASは必要ですか？</h3>
+<p>2026年5月時点ではETIASの運用は開始されていないため、現時点では不要です。ただし、2026年中に導入される可能性があるため、渡航前に最新情報を確認することをお勧めします。</p>
+
+<h3>Q. ETIAS導入前に予約した旅行はどうなりますか？</h3>
+<p>ETIAS導入前に予約した旅行であっても、渡航日がETIAS運用開始後であればETIASの取得が必要になります。導入決定時には十分な周知期間が設けられる見込みです。</p>
+
+<h3>Q. ETIASが始まったらすぐに申請しなければいけませんか？</h3>
+<p>渡航予定がある場合は早めの申請を推奨しますが、必ずしも運用開始と同時に申請する必要はありません。渡航の少なくとも72時間前までに申請を済ませてください。</p>
+
+<h3>Q. ETIAS導入後、ヨーロッパへのビザなし渡航はなくなりますか？</h3>
+<p>いいえ。日本はビザ免除対象国のままであり、ETIASはビザではなく渡航認証です。ビザなし渡航の権利は維持されますが、事前にETIASの取得が必要になるということです。<a href="/etias-vs-visa/">ETIASとビザの違い</a>も参考にしてください。</p>
+
+<h3>Q. なぜETIASの導入はこれほど遅れているのですか？</h3>
+<p>主な理由は、前提システムであるEES（出入国管理システム）の開発遅延と、30カ国以上のシステム統合という技術的な複雑さです。セキュリティとプライバシーの両立も課題となっています。</p>
+
+ </div>
+ </article>
+
+      <section class="related-articles">
+ <h2 class="related-title">ETIAS関連記事</h2>
+ <div class="related-grid">
+ <a href="/etias-about/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1485081669829-bacb8c7bb1f3?w=300&h=180&fit=crop" alt="ETIASとは" />
+ <p>ETIASとは？EU渡航認証システムの概要</p>
+ </a>
+ <a href="/etias-application/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=300&h=180&fit=crop" alt="ETIAS申請" />
+ <p>ETIAS申請方法・手順ガイド</p>
+ </a>
+ <a href="/etias-japan/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=300&h=180&fit=crop" alt="日本人のETIAS" />
+ <p>日本人のETIAS申請ガイド</p>
+ </a>
+ <a href="/etias-countries/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=300&h=180&fit=crop" alt="ETIAS対象国" />
+ <p>ETIAS対象国一覧（シェンゲン協定加盟国）</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"n4-5a2ApQIxn7RNXJKC_i"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

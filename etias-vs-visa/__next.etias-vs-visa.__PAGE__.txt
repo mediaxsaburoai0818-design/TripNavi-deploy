@@ -1,0 +1,109 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T1df4,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/etias-about/">ETIAS</a> ＞ ETIASとビザの違い</div>
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/tripnavi-hero-a.jpg" alt="ヨーロッパ渡航" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="blue">渡航手続き</span>
+ <h1>ETIASとビザの違い｜渡航認証とビザ（査証）を徹底比較</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年05月02日</span>
+ </div>
+ <div class="content">
+
+<h2>ETIASはビザではない</h2>
+<p>ETIASについて最もよく誤解されるのが「ETIASはビザ（査証）である」という認識です。結論から言うと、<strong>ETIASはビザではありません</strong>。ETIASは「渡航認証」であり、ビザ免除対象国の国民が短期渡航する際にオンラインで取得する電子的な渡航許可です。ビザとは本質的に異なる制度ですので、その違いを正しく理解しておきましょう。ETIASの概要については<a href="/etias-about/">ETIASとは</a>をご確認ください。</p>
+
+<h2>ETIASとビザの比較表</h2>
+<figure class="wp-block-table">
+<table>
+<thead>
+<tr><th>比較項目</th><th>ETIAS（渡航認証）</th><th>シェンゲンビザ（査証）</th></tr>
+</thead>
+<tbody>
+<tr><td>制度の種類</td><td>電子渡航認証</td><td>査証（ビザ）</td></tr>
+<tr><td>対象者</td><td>ビザ免除対象国の国民（日本を含む約60カ国）</td><td>ビザ免除対象外の国の国民</td></tr>
+<tr><td>申請方法</td><td>完全オンライン</td><td>大使館・領事館での申請（面接が必要な場合あり）</td></tr>
+<tr><td>必要書類</td><td>パスポート、メール、クレジットカードのみ</td><td>パスポート、写真、招待状、旅程表、財政証明、保険証書等</td></tr>
+<tr><td>申請費用</td><td>7ユーロ（約1,100円）</td><td>80ユーロ（約12,800円）</td></tr>
+<tr><td>審査期間</td><td>通常数分（最大30日）</td><td>通常15日（最大45日）</td></tr>
+<tr><td>有効期限</td><td>3年間</td><td>種類により異なる（通常90日〜1年）</td></tr>
+<tr><td>滞在可能期間</td><td>180日間のうち最大90日</td><td>ビザに記載された期間</td></tr>
+<tr><td>入国回数</td><td>有効期間中は何度でも</td><td>シングル/マルチプルエントリーを選択</td></tr>
+<tr><td>就労の可否</td><td>不可（観光・ビジネス目的のみ）</td><td>就労ビザであれば可能</td></tr>
+</tbody>
+</table>
+</figure>
+
+<h2>ETIASの特徴とメリット</h2>
+<p>ETIASには以下のような特徴があり、従来のビザに比べて大幅に簡便な手続きとなっています。</p>
+<ul>
+<li><strong>オンライン完結</strong>：大使館や領事館を訪問する必要がなく、自宅からパソコンやスマートフォンで申請可能です。</li>
+<li><strong>迅速な審査</strong>：ほとんどの場合、申請から数分で承認されます。</li>
+<li><strong>低コスト</strong>：申請費用はわずか7ユーロで、18歳未満と70歳以上は無料です。</li>
+<li><strong>長い有効期間</strong>：一度取得すれば3年間有効で、期間中は何度でもシェンゲン圏に渡航できます。</li>
+<li><strong>簡単な必要書類</strong>：パスポートとクレジットカードがあれば申請可能です。</li>
+</ul>
+
+<h2>ビザが必要になるケース</h2>
+<p>ETIASは短期の観光・ビジネス渡航のための制度です。以下のケースではETIASではなくビザの申請が必要です。</p>
+<ul>
+<li><strong>90日以上の長期滞在</strong>：留学、就労、長期のビジネスなど、180日間のうち90日を超える滞在を予定している場合</li>
+<li><strong>就労目的</strong>：シェンゲン圏で報酬を得る就労活動を行う場合</li>
+<li><strong>留学目的</strong>：3ヶ月以上の学業のために滞在する場合</li>
+<li><strong>家族との同居</strong>：シェンゲン圏在住の家族と長期にわたって同居する場合</li>
+<li><strong>ETIAS申請が却下された場合</strong>：渡航認証が却下された場合は、通常のビザ申請を検討してください</li>
+</ul>
+
+<h2>日本人はどちらが必要か</h2>
+<p>日本はEUのビザ免除対象国に指定されているため、90日以内の短期渡航（観光・ビジネス）の場合はETIASのみで渡航可能です。現在はビザもETIASも不要でシェンゲン圏に渡航できますが、ETIAS導入後は事前に渡航認証を取得する必要があります。日本人のETIAS申請について詳しくは<a href="/etias-japan/">日本人のETIAS申請ガイド</a>をご確認ください。</p>
+
+<h2>よくある質問（FAQ）</h2>
+<h3>Q. ETIASがあれば必ず入国できますか？</h3>
+<p>いいえ。ETIASは渡航認証であり、入国を保証するものではありません。入国審査時に最終的な判断が行われ、入国を拒否される場合もあります。これはビザでも同様です。</p>
+
+<h3>Q. ETIASとシェンゲンビザを両方持つことはできますか？</h3>
+<p>通常は不要です。ビザを持っている場合はETIASは必要ありません。ビザの有効期限が切れた後に短期渡航する場合は、ETIASの申請を検討してください。</p>
+
+<h3>Q. ETIAS申請が却下されたらビザを申請できますか？</h3>
+<p>はい。ETIASの却下はビザ申請の妨げにはなりません。ただし、却下理由によってはビザ審査にも影響する可能性があるため、正確な情報で申請することが重要です。</p>
+
+<h3>Q. ワーキングホリデーの場合はETIASで渡航できますか？</h3>
+<p>いいえ。ワーキングホリデーは就労を含むため、ETIASでは渡航できません。渡航先の国のワーキングホリデービザを別途申請する必要があります。</p>
+
+<h3>Q. ETIASとESTAの違いは何ですか？</h3>
+<p>ETIASはヨーロッパ（シェンゲン圏）向け、ESTAはアメリカ向けの電子渡航認証です。費用や有効期限も異なります。詳しくは<a href="/etias-vs-esta/">ETIASとESTAの違い比較</a>をご覧ください。</p>
+
+ </div>
+ </article>
+
+      <section class="related-articles">
+ <h2 class="related-title">ETIAS関連記事</h2>
+ <div class="related-grid">
+ <a href="/etias-about/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1485081669829-bacb8c7bb1f3?w=300&h=180&fit=crop" alt="ETIASとは" />
+ <p>ETIASとは？EU渡航認証システムの概要</p>
+ </a>
+ <a href="/etias-vs-esta/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=300&h=180&fit=crop" alt="ETIASとESTA" />
+ <p>ETIASとESTAの違い比較</p>
+ </a>
+ <a href="/etias-application/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=300&h=180&fit=crop" alt="ETIAS申請" />
+ <p>ETIAS申請方法・手順ガイド</p>
+ </a>
+ <a href="/etias-japan/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=300&h=180&fit=crop" alt="日本人のETIAS" />
+ <p>日本人のETIAS申請ガイド</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"n4-5a2ApQIxn7RNXJKC_i"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null
