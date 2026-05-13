@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T361e,<div class="page-layout">
+2:T3af8,<div class="page-layout">
     <main class="page-main">
       <div class="breadcrumb">
         <a href="index.html">ホーム</a> ＞
@@ -137,10 +137,22 @@
               <li><strong>アメリカESTA:</strong> 料金21ドル、有効期限2年、滞在最大90日</li>
               <li><strong>カナダeTA:</strong> 料金7カナダドル、有効期限5年、滞在最大180日</li>
               <li><strong>オーストラリアETAS:</strong> 料金20オーストラリアドル、有効期限1年、滞在最大90日</li>
+              <li><strong><a href="/etias-about/" style="color: #2563eb;">ヨーロッパETIAS</a>:</strong> 料金7ユーロ、有効期限3年、滞在最大90日（2025年導入予定）</li>
             </ul>
           </div>
 
           <p>イギリスETAは、アメリカのESTAと同じ2年間の有効期限を持ちますが、1回の滞在可能期間が最大6か月と長い点が特徴です。</p>
+
+          <div class="info-box" style="background: #f0f7ff; border-left: 4px solid #3b82f6;">
+            <h4>🇪🇺 ヨーロッパ旅行をお考えの方へ</h4>
+            <p>イギリスはEU加盟国ではないため、イギリスETAとは別に、フランス・イタリア・スペインなどEU/シェンゲン圏への渡航には<strong>ETIAS（欧州渡航情報認証制度）</strong>が必要になります。イギリスとヨーロッパ周遊を計画している方は、両方の渡航認証を準備しましょう。</p>
+            <ul>
+              <li><a href="/etias-about/" style="color: #2563eb;">ETIAS（欧州渡航情報認証制度）とは →</a></li>
+              <li><a href="/etias-countries/" style="color: #2563eb;">ETIAS対象国一覧 →</a></li>
+              <li><a href="/etias-france/" style="color: #2563eb;">フランス渡航とETIAS →</a></li>
+              <li><a href="/etias-italy/" style="color: #2563eb;">イタリア渡航とETIAS →</a></li>
+            </ul>
+          </div>
 
           <h2 id="section6">よくある質問</h2>
 
@@ -250,6 +262,6 @@
         </ol>
       </div>
     </aside>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"n4-5a2ApQIxn7RNXJKC_i"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fjkQvZPHrLofWSfUkKqaH"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

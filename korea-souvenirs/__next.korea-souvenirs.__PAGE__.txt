@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T45a1,<div class="page-layout">
+2:T48b7,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-asia">アジア</a> ＞ <a href="/country-korea">韓国</a> ＞ <a href="/shopping">ショッピング</a> ＞ 韓国のお土産おすすめ15選【コスメ・食品・雑貨】</div>
 
@@ -110,6 +110,16 @@
 <p>韓国渡航に必要な手続きについては「<a href="/korea-keta-about">韓国K-ETA（電子旅行許可）とは</a>」をご確認ください。</p>
 
  </div>
+
+<div class="related-procedures" style="margin-top: 2rem; padding: 1.5rem; background: #f0f7ff; border-radius: 12px; border-left: 4px solid #3b82f6;">
+  <h3 style="margin-top: 0; color: #1e40af;">関連する渡航手続き</h3>
+  <ul style="list-style: none; padding: 0;">
+    <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-about/" style="color: #2563eb; text-decoration: none;">韓国K-ETA（電子旅行許可）とは →</a></li>
+    <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-application/" style="color: #2563eb; text-decoration: none;">K-ETAの申請方法・記入例 →</a></li>
+    <li style="margin-bottom: 0.5rem;"><a href="/korea-immigration-guide/" style="color: #2563eb; text-decoration: none;">韓国入国審査の流れ →</a></li>
+  </ul>
+</div>
+
  </article>
 
  <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
@@ -139,6 +149,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"n4-5a2ApQIxn7RNXJKC_i"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fjkQvZPHrLofWSfUkKqaH"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

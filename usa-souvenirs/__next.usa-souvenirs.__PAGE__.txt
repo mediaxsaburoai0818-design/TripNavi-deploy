@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4774,<div class="page-layout">
+2:T4a8b,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-north-america">北アメリカ</a> ＞ <a href="/country-usa">アメリカ</a> ＞ <a href="/shopping">ショッピング</a> ＞ アメリカのお土産おすすめ15選【定番から穴場まで】</div>
 
@@ -108,6 +108,16 @@
 <p>アメリカからのお土産を日本に持ち込む際には、税関の規則に注意が必要です。免税範囲は、酒類3本（1本760ml以内）、たばこ200本（紙巻）、香水2オンス（約56ml）、その他の品物の合計が海外市価20万円以内です。肉製品（ビーフジャーキーなど）は原則として日本への持ち込みが禁止されているため注意してください。ただし、検疫証明書付きの製品は持ち込み可能な場合があります。果物やナッツ類の一部も植物検疫の対象となる場合があるため、事前に農林水産省のウェブサイトで確認しておくことをおすすめします。</p>
 
  </div>
+
+<div class="related-procedures" style="margin-top: 2rem; padding: 1.5rem; background: #f0f7ff; border-radius: 12px; border-left: 4px solid #3b82f6;">
+  <h3 style="margin-top: 0; color: #1e40af;">関連する渡航手続き</h3>
+  <ul style="list-style: none; padding: 0;">
+    <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-about/" style="color: #2563eb; text-decoration: none;">アメリカESTA（電子渡航認証）とは →</a></li>
+    <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-application/" style="color: #2563eb; text-decoration: none;">ESTA申請方法・記入例 →</a></li>
+    <li style="margin-bottom: 0.5rem;"><a href="/usa-immigration-guide/" style="color: #2563eb; text-decoration: none;">アメリカ入国審査の流れ →</a></li>
+  </ul>
+</div>
+
  </article>
 
  <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
@@ -137,6 +147,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"n4-5a2ApQIxn7RNXJKC_i"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fjkQvZPHrLofWSfUkKqaH"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

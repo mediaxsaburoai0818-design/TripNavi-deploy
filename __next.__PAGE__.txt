@@ -1,19 +1,19 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T3110,<div class="hero">
+2:T362e,<div class="hero">
   <img src="/tripnavi-hero-a.jpg" alt="美しいビーチとサンセット">
   <div class="overlay"><div class="content">
     <div class="tag">TRAVEL GUIDE 2026</div>
     <h1>世界への扉を、もっとスムーズに。</h1>
-    <p>ESTA・eTA・ETA…各国の渡航認証を分かりやすく解説。安心の旅をサポートします。</p>
+    <p>ESTA・eTA・ETA・ETIAS…各国の渡航認証を分かりやすく解説。安心の旅をサポートします。</p>
     <a href="/usa-esta-application/" class="cta">渡航認証ガイドを見る</a>
   </div></div>
 </div>
 
 <div class="stats">
   <div class="stat"><div class="num">98</div><div class="label">記事数</div></div>
-  <div class="stat"><div class="num">5カ国</div><div class="label">対応国</div></div>
+  <div class="stat"><div class="num">6地域</div><div class="label">対応国・地域</div></div>
   <div class="stat"><div class="num">24時間</div><div class="label">最新情報更新</div></div>
   <div class="stat"><div class="num">無料</div><div class="label">すべての情報</div></div>
 </div>
@@ -36,6 +36,10 @@
     <div class="country-card">
       <div class="img-placeholder"><img src="/country-australia.jpg" alt="オーストラリア - シドニーオペラハウス"></div>
       <div class="body"><h3>オーストラリア（ETAS）</h3><p>オーストラリア渡航に必要なETASの申請ガイド。観光ビザとの違いも解説。</p><a href="/australia-etas-about/">ガイドを見る →</a></div>
+    </div>
+    <div class="country-card">
+      <div class="img-placeholder"><img src="/country-uk.jpg" alt="ヨーロッパ - エッフェル塔"></div>
+      <div class="body"><h3>ヨーロッパ（ETIAS）</h3><p>2025年導入予定の欧州渡航情報認証制度ETIAS。フランス・イタリアなどシェンゲン圏への渡航に必要です。</p><a href="/etias-about/">ガイドを見る →</a></div>
     </div>
   </div>
 </section>
@@ -179,6 +183,24 @@
           <p>スマートフォンからオーストラリアETASを申請する方法。</p>
         </div>
       </a>
+
+      <a href="/etias-about/" class="scroll-card">
+        <div class="scroll-card-image" style="background-image: url('/uk-hero.jpg');"></div>
+        <div class="scroll-card-body">
+          <span class="card-tag">ヨーロッパETIAS</span>
+          <h3>ETIAS（欧州渡航情報認証）とは</h3>
+          <p>フランス・イタリアなどヨーロッパ渡航に必要な新しい認証制度を解説。</p>
+        </div>
+      </a>
+
+      <a href="/etias-application/" class="scroll-card">
+        <div class="scroll-card-image" style="background-image: url('/uk-mid.jpg');"></div>
+        <div class="scroll-card-body">
+          <span class="card-tag">ヨーロッパETIAS</span>
+          <h3>ETIAS申請方法・必要書類</h3>
+          <p>ETIASのオンライン申請手順を画像付きでわかりやすく解説。</p>
+        </div>
+      </a>
     </div>
   </div>
 </section>
@@ -265,6 +287,6 @@
       </a>
     </div>
   </div>
-</section>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"n4-5a2ApQIxn7RNXJKC_i"}
+</section>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fjkQvZPHrLofWSfUkKqaH"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
