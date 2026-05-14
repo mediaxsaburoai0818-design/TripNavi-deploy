@@ -1,0 +1,146 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T4506,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-europe">ヨーロッパ</a> ＞ <a href="/country-italy">イタリア</a> ＞ イタリアの交通ガイド</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/tripnavi-hero-a.jpg" alt="イタリアの交通" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="blue">交通</span>
+ <h1>イタリアの交通ガイド【2026年最新】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年5月14日</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">イタリアの交通事情</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#transport-overview">イタリアの交通事情</a></li>
+<li><a class="ez-toc-link" href="#train">鉄道（トレニタリア・イタロ）</a></li>
+<li><a class="ez-toc-link" href="#metro">地下鉄（メトロ）</a></li>
+<li><a class="ez-toc-link" href="#bus">路線バス・長距離バス</a></li>
+<li><a class="ez-toc-link" href="#vaporetto">水上バス（ヴァポレット）- ヴェネツィア</a></li>
+<li><a class="ez-toc-link" href="#taxi">タクシー</a></li>
+<li><a class="ez-toc-link" href="#airport">空港からのアクセス</a></li>
+<li><a class="ez-toc-link" href="#tips">イタリア交通の注意点</a></li>
+<li><a class="ez-toc-link" href="#transport-faq">よくある質問（FAQ）</a></li>
+<li><a class="ez-toc-link" href="#transport-etias">イタリア渡航に必要な手続き</a></li>
+</ul>
+</nav>
+</div>
+
+<p>イタリアは南北に約1,200kmにわたる細長い国土を持ち、都市間の移動には鉄道が最も便利な交通手段です。高速鉄道（フレッチャロッサ、イタロ）の発達により、ローマ〜ミラノ間は約3時間、ローマ〜フィレンツェ間は約1時間30分、ローマ〜ナポリ間は約1時間10分でアクセスできます。各都市内の移動には地下鉄（メトロ）やバス、トラムが整備されており、観光客にも利用しやすい交通網が構築されています。ヴェネツィアでは自動車が使えないため、水上バス（ヴァポレット）が主要な交通手段となっています。</p>
+<p>イタリアの交通機関で注意すべき点は、時刻表通りに運行しないことがしばしばある点です。特にローカル線のレジョナーレ（普通列車）は遅延が多いため、乗り継ぎには余裕を持ったスケジュールを組むことが重要です。また、鉄道やバスではスリや置き引きが多発するため、貴重品の管理には十分注意してください。イタリアの交通機関では刻印（コンポスタ）が必要な切符があり、刻印を忘れると無効切符とみなされ罰金を科される可能性があります。</p>
+
+<h2 class="wp-block-heading" id="train">鉄道（トレニタリア・イタロ）</h2>
+<p>イタリアの鉄道は国営のトレニタリア（Trenitalia）と民間のイタロ（Italo / NTV）の2社が運行しています。トレニタリアの高速列車フレッチャロッサ（Frecciarossa）は最高時速300kmで主要都市を結び、ビジネスクラスからスタンダードクラスまで4つの座席クラスがあります。早期予約の「Super Economy」チケットは通常料金の半額以下で購入でき、ローマ〜フィレンツェ間が19.90ユーロ〜と非常にお得です。</p>
+<p>イタロはNTV（Nuovo Trasporto Viaggiatori）が運行する民間の高速列車で、トレニタリアの競合路線を走っています。車内はモダンなデザインで、全席に電源コンセントとWi-Fiが完備されています。両社ともウェブサイトやアプリから予約可能で、早期予約ほど安い料金が適用されます。なお、レジョナーレ（普通列車）は予約不要で当日券を購入し、乗車前に駅の刻印機で刻印する必要があります。刻印を忘れた場合は車内検札で50ユーロ程度の罰金が科されるため注意してください。</p>
+
+<div class="Class_J">
+<h4>主要都市間の所要時間と料金目安（高速列車）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>ローマ〜フィレンツェ : 約1時間30分（19.90〜49.90ユーロ）</li>
+<li>ローマ〜ミラノ : 約3時間（29.90〜89.90ユーロ）</li>
+<li>ローマ〜ナポリ : 約1時間10分（19.90〜44.90ユーロ）</li>
+<li>ローマ〜ヴェネツィア : 約3時間45分（29.90〜79.90ユーロ）</li>
+<li>フィレンツェ〜ヴェネツィア : 約2時間（19.90〜49.90ユーロ）</li>
+<li>ミラノ〜ヴェネツィア : 約2時間30分（19.90〜49.90ユーロ）</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="metro">地下鉄（メトロ）</h2>
+<p>イタリアの主要都市には地下鉄（メトロ）が整備されています。ローマの地下鉄はA線（オレンジ）、B線（青）、C線（緑）の3路線で、コロッセオ（B線）、スペイン広場（A線スパーニャ駅）、バチカン（A線オッタヴィアーノ駅）など主要観光地にアクセスできます。片道切符（BIT）は1.50ユーロで75分間有効（地下鉄は1回のみ、バスは乗り換え自由）、24時間券は7ユーロ、48時間券は12.50ユーロ、72時間券は18ユーロです。</p>
+<p>ミラノの地下鉄は5路線あり、イタリアで最も発達した地下鉄網です。片道切符は2.20ユーロで90分間有効です。ナポリの地下鉄は2路線で、「トレド駅」は世界で最も美しい地下鉄駅の一つとして知られており、モザイクアートに彩られた幻想的な空間は一見の価値があります。各都市の地下鉄では自動券売機で切符を購入でき、英語表示にも対応しています。ラッシュアワー（7:30〜9:00、17:00〜19:00）は非常に混雑するため、スリに注意し、貴重品は体の前で管理しましょう。</p>
+
+<h2 class="wp-block-heading" id="bus">路線バス・長距離バス</h2>
+<p>イタリアの各都市には路線バスが充実しており、地下鉄ではカバーできないエリアへのアクセスに便利です。ローマではATAC社が運行する路線バスが市内全域を網羅しており、地下鉄と共通の切符で乗車できます。バスの切符はタバッキ（タバコ屋）、ニュースキオスクで事前購入するか、車内の自動券売機でも購入できます。乗車時に車内の刻印機で刻印することを忘れないでください。</p>
+<p>都市間の長距離移動にはFlixBusやMarinoBusなどの長距離バスも選択肢の一つです。鉄道に比べて所要時間は長くなりますが、料金が非常に安く、ローマ〜フィレンツェ間が5〜15ユーロ程度で利用できます。また、トスカーナの丘陵地帯の小さな町や鉄道の通っていない地域へは、ローカルバスが重要な交通手段となります。シエナ、サンジミニャーノ、ピエンツァなどのトスカーナの美しい町へは、フィレンツェからバスでアクセスするのが一般的です。</p>
+
+<h2 class="wp-block-heading" id="vaporetto">水上バス（ヴァポレット）- ヴェネツィア</h2>
+<p>ヴェネツィアは自動車の乗り入れが禁止されている世界的にもユニークな都市で、主要な交通手段は水上バス（ヴァポレット）と徒歩です。ACTV社が運行するヴァポレットは、大運河（カナル・グランデ）を中心にヴェネツィア本島、リド島、ムラーノ島、ブラーノ島、トルチェッロ島などを結んでいます。1番線はカナル・グランデを各駅停車で進み、沿岸の美しい宮殿群を眺めながら移動できるため、観光船としても人気です。</p>
+<p>片道切符は9.50ユーロと高額なため、複数回利用する場合はフリーパスの購入がお得です。24時間券は25ユーロ、48時間券は35ユーロ、72時間券は45ユーロ、7日券は65ユーロです。切符はヴェネツィア・ウニカ（Venezia Unica）のウェブサイトまたは駅や停留所の自動券売機で購入できます。乗船時には必ず読取機にチケットをかざして打刻してください。水上タクシーもありますが、非常に高額（初乗り約15ユーロ、以降1分ごとに約2ユーロ加算）なため注意が必要です。ゴンドラは交通手段というよりは観光アクティビティで、約30分の遊覧で80〜120ユーロが相場です。</p>
+
+<h2 class="wp-block-heading" id="taxi">タクシー</h2>
+<p>イタリアのタクシーは白い車体に「TAXI」と表示されたメーター制の公認タクシーが安全です。流し営業はほとんど行われておらず、タクシー乗り場（主要な広場、駅前、空港にある）から乗車するか、電話やアプリ（FreeNow、itTaxi等）で配車を依頼します。初乗り料金はローマで3〜6.50ユーロ（時間帯による）、1kmあたり1.10ユーロ程度が加算されます。空港送迎は定額制で、ローマ・フィウミチーノ空港〜市内中心部は50ユーロの固定料金です。</p>
+<p>タクシーに乗る際は、メーターが動いていることを確認しましょう。荷物の追加料金（スーツケース1個あたり1ユーロ程度）や深夜・日曜・祝日の割増料金が適用される場合があります。観光地周辺で声をかけてくるタクシーは非公認の白タクである可能性が高く、法外な料金を請求されるケースが報告されているため、必ず公認タクシー乗り場から乗車してください。チップは義務ではありませんが、端数を切り上げる程度は一般的です。</p>
+
+<h2 class="wp-block-heading" id="airport">空港からのアクセス</h2>
+<p>ローマのフィウミチーノ空港からローマ市内へは、レオナルド・エクスプレス（空港特急）が最も便利で、テルミニ駅まで約32分、片道14.50ユーロです。15〜30分間隔で運行しています。バス（SIT Bus、Terravision等）はテルミニ駅まで約50〜70分で、片道6〜7ユーロとリーズナブルです。ミラノ・マルペンサ空港からはマルペンサ・エクスプレスでミラノ中央駅まで約50分、片道13ユーロです。</p>
+<p>ヴェネツィア・マルコポーロ空港からは水上バス（アリラグーナ）でサンマルコ広場まで約75分、片道15ユーロです。陸上バス（ATVO、ACTV）でローマ広場まで約20分、片道8〜10ユーロです。フィレンツェのペレトラ空港（アメリゴ・ヴェスプッチ空港）からはトラムT2線でサンタ・マリア・ノヴェッラ駅まで約20分、片道1.70ユーロと非常にお得です。いずれの空港でも到着ロビーに出る前に、交通手段の案内板を確認し、正規のチケット売り場で切符を購入することをおすすめします。</p>
+
+<h2 class="wp-block-heading" id="tips">イタリア交通の注意点</h2>
+<p>イタリアの交通機関を利用する際に知っておくべき重要なポイントをまとめます。まず、鉄道のストライキ（スキオペロ / sciopero）は比較的頻繁に行われます。ストライキ中でも最低限の運行は保証されていますが、大幅な遅延や運休が発生するため、トレニタリアやイタロの公式サイトで最新情報を確認してください。次に、ZTL（Zona Traffico Limitato：交通制限区域）はイタリアの多くの都市の中心部に設定されており、許可のない車両が進入するとカメラで自動撮影され、後日罰金通知が届きます。レンタカー利用の場合は特に注意が必要です。</p>
+<p>バスや地下鉄の切符の刻印を忘れると、検札官に見つかった場合50ユーロ以上の罰金が科されます。「知らなかった」という言い訳は通用しないため、乗車したら必ず刻印機に切符を通してください。また、主要駅やバス内ではスリが多いため、リュックは前に背負い、財布やスマートフォンはジャケットの内ポケットに入れるなど対策を講じましょう。夜間の移動はタクシーの方が安全です。</p>
+
+<h2 class="wp-block-heading" id="transport-faq">よくある質問（FAQ）</h2>
+<h3>Q. イタリアの鉄道チケットはいつ予約するのがお得ですか？</h3>
+<p>トレニタリアの「Super Economy」やイタロの早期割引は、出発の3〜4ヶ月前から購入可能で最大70%オフになります。ただし変更・返金不可のため、スケジュールが確定してから購入しましょう。</p>
+
+<h3>Q. ローマの地下鉄は安全ですか？</h3>
+<p>地下鉄自体は安全ですが、ラッシュアワーや観光シーズンはスリが多発します。特にA線のテルミニ〜スパーニャ間は要注意です。貴重品は体の前で管理し、不審な人物には近づかないようにしましょう。</p>
+
+<h3>Q. ヴェネツィアでゴンドラに乗るにはどうすればいいですか？</h3>
+<p>ゴンドラ乗り場は市内各所にあり、予約なしで乗船できます。公定料金は日中80ユーロ（約30分）、夜間100ユーロですが、交渉により延長や特別ルートの対応も可能です。複数人でシェアすれば一人あたりの負担は軽くなります。</p>
+
+<h3>Q. レンタカーは必要ですか？</h3>
+<p>主要都市間は鉄道が便利なためレンタカーは不要です。ただし、トスカーナの田園地帯やアマルフィ海岸など、公共交通でアクセスしにくい地域を自由に回りたい場合はレンタカーが便利です。ZTLには十分注意してください。</p>
+
+<h3>Q. イタリアで交通パスは使えますか？</h3>
+<p>ユーレイルパス（Eurail Pass）がイタリア国内でも利用可能です。また、ローマではRoma Pass、フィレンツェではFirenzeカード、ヴェネツィアではVenezia Unicaなど、各都市の交通・観光パスも充実しています。滞在日数と利用頻度に応じて選びましょう。</p>
+
+<h2 class="wp-block-heading" id="transport-etias">イタリア渡航に必要な手続き</h2>
+<p>日本国籍の方がイタリア（シェンゲン圏）へ観光目的で渡航する場合、90日以内の滞在であればビザは不要です。ただし、2025年よりETIAS（欧州渡航情報認証制度）の取得が必要となる予定です。ETIASはオンラインで申請でき、申請料は7ユーロ（18歳未満は無料）です。</p>
+<p>ETIASに関する詳細は「<a href="/etias-about">ETIAS（欧州渡航情報認証制度）とは</a>」をご確認ください。</p>
+
+ </div>
+
+<div class="related-procedures" style="margin-top: 2rem; padding: 1.5rem; background: #f0f7ff; border-radius: 12px; border-left: 4px solid #3b82f6;">
+  <h3 style="margin-top: 0; color: #1e40af;">関連する渡航手続き</h3>
+  <ul style="list-style: none; padding: 0;">
+    <li style="margin-bottom: 0.5rem;"><a href="/etias-about/" style="color: #2563eb; text-decoration: none;">ETIAS（欧州渡航情報認証制度）とは →</a></li>
+    <li style="margin-bottom: 0.5rem;"><a href="/etias-italy/" style="color: #2563eb; text-decoration: none;">イタリアのETIAS情報 →</a></li>
+    <li style="margin-bottom: 0.5rem;"><a href="/etias-application/" style="color: #2563eb; text-decoration: none;">ETIAS申請方法・記入例 →</a></li>
+  </ul>
+</div>
+
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/tripnavi-hero-a.jpg" alt="イタリアの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/italy-rome-spots" class="related-card">
+ <img src="/tripnavi-hero-a.jpg" alt="ローマ" style="width:300px;height:180px;object-fit:cover;" />
+ <p>ローマ観光スポット15選【2026年最新】</p>
+ </a>
+ <a href="/italy-currency" class="related-card">
+ <img src="/tripnavi-hero-a.jpg" alt="イタリア通貨" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イタリアの通貨・両替・物価ガイド</p>
+ </a>
+ <a href="/italy-travel-budget" class="related-card">
+ <img src="/tripnavi-hero-a.jpg" alt="イタリア旅行費用" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イタリア旅行の費用・予算ガイド</p>
+ </a>
+ <a href="/etias-italy" class="related-card">
+ <img src="/tripnavi-hero-a.jpg" alt="イタリアETIAS" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イタリアのETIAS情報</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"lrMwvv6q5GW04PThHGilI"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

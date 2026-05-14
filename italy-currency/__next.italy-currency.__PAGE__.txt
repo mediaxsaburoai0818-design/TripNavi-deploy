@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T3831,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/area-europe">ヨーロッパ</a> ＞ <a href="/country-italy">イタリア</a> ＞ イタリアの通貨・両替・物価ガイド</div>
+
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/tripnavi-hero-a.jpg" alt="イタリアの通貨" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="blue">通貨・両替</span>
+ <h1>イタリアの通貨・両替・物価ガイド【2026年最新】</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年5月14日</span>
+ </div>
+
+ <div class="content">
+
+<h2 class="wp-block-heading">イタリアの通貨の基本情報</h2>
+<div class="counter-flat lazyloaded" id="ez-toc-container">
+<div class="ez-toc-title-container lazyloaded">
+<p class="ez-toc-title">Contents</p>
+</div>
+<nav>
+<ul class="ez-toc-list ez-toc-list-level-1">
+<li><a class="ez-toc-link" href="#currency-overview">イタリアの通貨の基本情報</a></li>
+<li><a class="ez-toc-link" href="#exchange">両替方法と注意点</a></li>
+<li><a class="ez-toc-link" href="#creditcard">クレジットカード事情</a></li>
+<li><a class="ez-toc-link" href="#tip">チップ文化</a></li>
+<li><a class="ez-toc-link" href="#prices">イタリアの物価目安</a></li>
+<li><a class="ez-toc-link" href="#taxfree">免税（タックスフリー）制度</a></li>
+<li><a class="ez-toc-link" href="#currency-faq">よくある質問（FAQ）</a></li>
+<li><a class="ez-toc-link" href="#currency-etias">イタリア渡航に必要な手続き</a></li>
+</ul>
+</nav>
+</div>
+
+<p>イタリアの通貨はユーロ（EUR / €）です。イタリアは1999年のユーロ導入時からの参加国であり、それ以前はリラ（ITL）が使用されていました。2026年5月現在の為替レートは1ユーロ＝約165円前後ですが、為替相場は日々変動するため、渡航前に最新のレートを確認することをおすすめします。ユーロ紙幣は5、10、20、50、100、200、500ユーロの7種類があり、硬貨は1、2、5、10、20、50セントと1、2ユーロの8種類です。500ユーロ紙幣は2019年に発行が停止されており、流通量は少なくなっています。</p>
+<p>イタリアではユーロがシェンゲン圏の共通通貨であるため、フランス、ドイツ、スペインなど他のユーロ圏諸国で両替した余りのユーロをそのまま使用できるのが便利です。ユーロ硬貨は各国の裏面デザインが異なりますが、どの国のデザインの硬貨もユーロ圏全体で使用可能です。イタリアの1ユーロ硬貨にはレオナルド・ダ・ヴィンチの「ウィトルウィウス的人体図」、2ユーロ硬貨にはダンテ・アリギエーリの肖像がデザインされており、お土産にもなります。</p>
+
+<h2 class="wp-block-heading" id="exchange">両替方法と注意点</h2>
+<p>イタリアでユーロに両替する方法はいくつかあります。最もおすすめなのは日本出発前に銀行や空港の両替所で必要最低限のユーロを両替しておくことです。日本国内の銀行では1ユーロあたり3〜4円程度の手数料が目安ですが、空港の両替所はやや手数料が高い傾向があります。現地での両替は銀行（Banca）や公認の両替所（Cambio）で可能ですが、観光地周辺の両替所は手数料が非常に高い場合があるため注意が必要です。</p>
+<p>ATMでの国際キャッシングは最も効率的な両替方法の一つです。イタリアの主要銀行のATMは空港、駅、街中のいたるところにあり、VISAやMastercard、PLUSやCirrusマークの付いたキャッシュカードで現地通貨を引き出せます。ATM利用時の注意点として、「DCC（動的通貨変換）」の画面が表示されたら「Without Conversion（変換なし）」を選択してください。DCCを選ぶと不利なレートで換算されてしまいます。また、観光地周辺に設置されている独立型ATMは手数料が高い場合があるため、銀行併設のATMを利用するのがおすすめです。</p>
+
+<h2 class="wp-block-heading" id="creditcard">クレジットカード事情</h2>
+<p>イタリアではクレジットカードが広く普及しており、ホテル、レストラン、ショップ、スーパーマーケットなどほとんどの場所でカード決済が可能です。VISA、Mastercardの受け入れ率が最も高く、JCBやAmerican Expressは使えない店舗もあるため、VISAまたはMastercardを最低1枚は持参することをおすすめします。2022年以降、イタリアではすべての商店で電子決済を受け付けることが法律で義務化されており、少額でもカード決済を拒否することはできません。</p>
+<p>コンタクトレス決済（タッチ決済）はイタリア全土で急速に普及しており、25ユーロ以下の決済はPIN入力不要でタッチするだけで完了します。Apple PayやGoogle Payなどのスマートフォン決済も多くの店舗で利用可能です。ただし、市場の屋台、一部の小さなトラットリア、タバッキ（タバコ屋）などでは現金のみの場合もあるため、50〜100ユーロ程度の現金は常に持ち歩くことをおすすめします。海外事務手数料は通常1.6〜2.2%程度で、カード会社によって異なります。</p>
+
+<h2 class="wp-block-heading" id="tip">チップ文化</h2>
+<p>イタリアではアメリカのように高額なチップを支払う文化はなく、チップは義務ではありません。レストランでは多くの場合、会計にコペルト（coperto / 席料）として1〜3ユーロが加算されており、これがサービス料の代わりとなっています。追加のチップは不要ですが、特に良いサービスを受けた場合は会計の5〜10%程度、あるいはお釣りの端数を切り上げて置くのが一般的です。</p>
+<p>バール（カフェ）ではカウンターでエスプレッソを飲む場合、チップは不要です。テーブルサービスの場合も同様ですが、テーブル料が加算されることがあります。タクシーでは料金の端数を切り上げる程度が一般的です。ホテルのポーターには荷物1個あたり1〜2ユーロ、ルームサービスには1〜2ユーロ程度を置くのが目安です。ガイド付きツアーの場合は、半日ツアーで5〜10ユーロ、1日ツアーで10〜20ユーロ程度が相場です。チップを渡す場合は現金で直接手渡すのがスマートです。</p>
+
+<h2 class="wp-block-heading" id="prices">イタリアの物価目安</h2>
+<p>イタリアの物価は西ヨーロッパの中ではやや低めですが、ローマ、ミラノ、ヴェネツィアなどの主要観光都市は物価が高めです。特にヴェネツィアはイタリアで最も物価が高い都市の一つで、同じ食事でもローマより20〜30%高くなることがあります。一方、南イタリアのナポリやシチリア島は比較的物価が安く、お得に旅行を楽しめます。</p>
+
+<div class="Class_J">
+<h4>イタリアの物価目安（2026年5月時点）</h4>
+<p><ul class="contents-block__ul coulm-1-list sp-coulm-1-list">
+<li>エスプレッソ（バールのカウンター） : 1〜1.50ユーロ（約165〜248円）</li>
+<li>カプチーノ : 1.50〜2ユーロ（約248〜330円）</li>
+<li>ジェラート（小） : 2.50〜3.50ユーロ（約413〜578円）</li>
+<li>ピザ（ピッツェリア） : 7〜12ユーロ（約1,155〜1,980円）</li>
+<li>パスタ（トラットリア） : 10〜16ユーロ（約1,650〜2,640円）</li>
+<li>ミネラルウォーター（500ml） : 1〜2ユーロ（約165〜330円）</li>
+<li>ビール（バール） : 4〜6ユーロ（約660〜990円）</li>
+<li>地下鉄片道（ローマ） : 1.50ユーロ（約248円）</li>
+<li>タクシー初乗り（ローマ） : 3〜6.50ユーロ（約495〜1,073円）</li>
+<li>ホテル（中級3つ星） : 80〜150ユーロ/泊（約13,200〜24,750円）</li>
+</ul></p>
+</div>
+
+<h2 class="wp-block-heading" id="taxfree">免税（タックスフリー）制度</h2>
+<p>EU圏外に居住する旅行者は、「Tax Free」の表示がある店舗で同一日・同一店舗で154.95ユーロ以上の買い物をした場合、付加価値税（IVA：22%）の一部（約12〜15%）の還付を受けることができます。購入時にパスポートを提示し、免税書類を作成してもらい、EU最終出国時に空港の税関で書類にスタンプをもらい、免税カウンターで還付を受けます。Global Blue、Planet Tax Freeなどの免税代行サービスを利用すると手続きが簡単です。</p>
+<p>還付はクレジットカードへの返金、現金（ユーロ）、または銀行小切手で受け取ることができます。空港での手続きに時間がかかることがあるため、出発の3時間前には空港に到着しておくことをおすすめします。なお、食品や消耗品は免税対象外の場合があります。また、免税書類は購入日から3ヶ月以内に税関でスタンプを受ける必要があるため、帰国時期にも注意してください。</p>
+
+<h2 class="wp-block-heading" id="currency-faq">よくある質問（FAQ）</h2>
+<h3>Q. イタリア旅行にはいくら現金を持っていけばよいですか？</h3>
+<p>クレジットカードが広く使えるため、現金は200〜300ユーロ程度あれば十分です。市場での買い物やチップ用に小額紙幣（5ユーロ、10ユーロ）を多めに用意しておくと便利です。</p>
+
+<h3>Q. 日本円からユーロへの両替はどこが一番お得ですか？</h3>
+<p>一般的に日本の銀行やFX専門の両替所（トラベレックスなど）が手数料面で有利です。現地ATMでの国際キャッシングも実質的な両替コストが低く、レートも良い傾向にあります。観光地の両替所は手数料が高いため避けましょう。</p>
+
+<h3>Q. イタリアでJCBカードは使えますか？</h3>
+<p>JCBはイタリアでは使えない店舗が多いのが現状です。VISAまたはMastercardの利用が最も確実です。JCBしか持っていない場合は、渡航前にVISAかMastercardのカードを追加で用意することを強くおすすめします。</p>
+
+<h3>Q. イタリアのレストランでコペルト（席料）とは何ですか？</h3>
+<p>コペルト（coperto）はテーブルセッティングやパンの提供に対する席料で、1〜3ユーロ程度が会計に自動的に加算されます。これはイタリアでは合法的な料金で、チップの代わりとなるものです。メニューに表記されていることが多いです。</p>
+
+<h3>Q. 100ユーロや200ユーロの高額紙幣は使えますか？</h3>
+<p>100ユーロ紙幣は多くの店舗で使用可能ですが、小さな店やバールでは嫌がられることがあります。200ユーロ以上の紙幣は受け取りを拒否される場合も多いです。ATMで引き出す際は50ユーロ以下の紙幣を指定するか、スーパーマーケットで崩すのが賢い方法です。</p>
+
+<h2 class="wp-block-heading" id="currency-etias">イタリア渡航に必要な手続き</h2>
+<p>日本国籍の方がイタリア（シェンゲン圏）へ観光目的で渡航する場合、90日以内の滞在であればビザは不要です。ただし、2025年よりETIAS（欧州渡航情報認証制度）の取得が必要となる予定です。ETIASはオンラインで申請でき、申請料は7ユーロ（18歳未満は無料）です。</p>
+<p>ETIASに関する詳細は「<a href="/etias-about">ETIAS（欧州渡航情報認証制度）とは</a>」をご確認ください。</p>
+
+ </div>
+
+<div class="related-procedures" style="margin-top: 2rem; padding: 1.5rem; background: #f0f7ff; border-radius: 12px; border-left: 4px solid #3b82f6;">
+  <h3 style="margin-top: 0; color: #1e40af;">関連する渡航手続き</h3>
+  <ul style="list-style: none; padding: 0;">
+    <li style="margin-bottom: 0.5rem;"><a href="/etias-about/" style="color: #2563eb; text-decoration: none;">ETIAS（欧州渡航情報認証制度）とは →</a></li>
+    <li style="margin-bottom: 0.5rem;"><a href="/etias-italy/" style="color: #2563eb; text-decoration: none;">イタリアのETIAS情報 →</a></li>
+    <li style="margin-bottom: 0.5rem;"><a href="/etias-application/" style="color: #2563eb; text-decoration: none;">ETIAS申請方法・記入例 →</a></li>
+  </ul>
+</div>
+
+ </article>
+
+ <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/tripnavi-hero-a.jpg" alt="イタリアの風景" style="width: 100%; height: 240px; object-fit: cover;">
+</div>
+
+      <section class="related-articles">
+ <h2 class="related-title">関連記事</h2>
+ <div class="related-grid">
+ <a href="/italy-travel-budget" class="related-card">
+ <img src="/tripnavi-hero-a.jpg" alt="イタリア旅行費用" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イタリア旅行の費用・予算ガイド</p>
+ </a>
+ <a href="/italy-transport" class="related-card">
+ <img src="/tripnavi-hero-a.jpg" alt="イタリア交通" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イタリアの交通ガイド</p>
+ </a>
+ <a href="/italy-souvenirs" class="related-card">
+ <img src="/tripnavi-hero-a.jpg" alt="イタリアお土産" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イタリアのお土産15選</p>
+ </a>
+ <a href="/etias-italy" class="related-card">
+ <img src="/tripnavi-hero-a.jpg" alt="イタリアETIAS" style="width:300px;height:180px;object-fit:cover;" />
+ <p>イタリアのETIAS情報</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"lrMwvv6q5GW04PThHGilI"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null
