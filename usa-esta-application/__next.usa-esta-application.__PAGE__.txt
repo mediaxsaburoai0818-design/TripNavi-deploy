@@ -1,17 +1,13 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T3ec7,<div class="page-layout">
+2:T3fc5,<div class="page-layout">
     <main class="page-main">
       <div class="breadcrumb">
         <a href="index.html">ホーム</a> ＞ 
         <a href="#usa">アメリカ</a> ＞ 
         <a href="#visa-info">渡航ノウハウ</a> ＞ 
         ESTA（エスタ）の申請方法
-      </div>
-
-      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-        <img src="/usa-hero.jpg" alt="アメリカ" style="width: 100%; height: 280px; object-fit: cover;">
       </div>
 
       <article class="article-detail">
@@ -24,7 +20,7 @@
         <div class="content">
           
           <div class="article-toc">
-            <h4 class="toc-title">📋 目次</h4>
+            <h4 class="toc-title">目次</h4>
             <nav>
               <ol>
                 <li><a href="#section1">ESTA(エスタ)とは</a>
@@ -68,7 +64,7 @@
 
           <h3 id="section1-1">ESTA申請対象者</h3>
           <div class="info-box">
-            <h4>✅ ESTA申請が必要な方</h4>
+            <h4>ESTA申請が必要な方</h4>
             <ul>
               <li><strong>VWP対象国の国民</strong>（日本を含む）</li>
               <li><strong>滞在期間が90日以内</strong>の観光・商用目的</li>
@@ -78,7 +74,7 @@
           </div>
 
           <div class="warn-box">
-            <h4>⚠️ ESTA対象外（ビザが必要）</h4>
+            <h4>ESTA対象外（ビザが必要）</h4>
             <ul>
               <li>留学目的（90日を超える場合）</li>
               <li>就労目的</li>
@@ -105,7 +101,7 @@
 
           <h3 id="section2-1">ESTA申請に必要な書類・情報</h3>
           <div class="info-box">
-            <h4>📋 事前準備</h4>
+            <h4>事前準備</h4>
             <ul>
               <li><strong>パスポート</strong>（有効期限が渡航終了日から6ヶ月以上あること）</li>
               <li><strong>メールアドレス</strong>（認証コード受信用）</li>
@@ -118,7 +114,7 @@
           <h3 id="section2-2">1. ESTA公式サイトにアクセス</h3>
           <p>アメリカ国土安全保障省（DHS）の公式ESTA申請サイト（<strong>https://esta.cbp.dhs.gov/</strong>）にアクセスします。</p>
           <div class="warn-box">
-            <h4>⚠️ 注意</h4>
+            <h4>注意</h4>
             <p>ESTA申請を代行する民間サイトも存在しますが、公式サイトでは申請料金は40.27米ドルのみです。高額な手数料を請求するサイトには注意してください。</p>
           </div>
 
@@ -191,7 +187,7 @@
           <p>アメリカへの90日以内の短期滞在には、ESTA申請が必須です。DHS公式サイトまたは「ESTA Mobile」アプリから簡単に申請できます。申請料金は40.27米ドル、有効期限は2年間です。出発の3日前までに申請を完了し、安心してアメリカ旅行をお楽しみください。</p>
 
           <div class="info-box">
-            <h4>✅ ESTA申請のポイント</h4>
+            <h4>ESTA申請のポイント</h4>
             <ul>
               <li>出発3日前までに申請完了</li>
               <li>公式サイトから申請（40.27米ドル）</li>
@@ -202,11 +198,7 @@
           </div>
         </div>
 
-        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-          <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
-        </div>
-
-
+        
         <div class="related-articles">
           <h3 class="related-title">関連記事</h3>
           <div class="related-grid">
@@ -239,6 +231,14 @@
             </a>
           </div>
         </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-birthplace/" style="color: #D4885A; text-decoration: underline;">ESTA申請時の出生した市区町村名の記載方法を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-vwp/" style="color: #D4885A; text-decoration: underline;">ビザ免除プログラム(VWP)とは？対象国・条件・ESTAとの違いを解説</a></li>
+          </ul>
+        </section>
       </article>
     </main>
 
@@ -277,6 +277,6 @@
         </ol>
       </div>
     </aside>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vOqzNMyC9G9rQ7dx95SDe"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

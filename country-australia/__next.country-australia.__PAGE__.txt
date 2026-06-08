@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T465a,<div class="area-hero" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=1400&h=400&fit=crop')">
+2:T4be5,<div class="area-hero" style="background-image:url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=1400&h=400&fit=crop')">
  <div class="area-hero-overlay"></div>
  <div class="area-hero-content">
  <span class="area-hero-label">AUSTRALIA</span>
@@ -13,10 +13,6 @@
  <div class="container">
  <div class="section-inner">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ オーストラリア</div>
-
- <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-   <img src="/australia-hero.jpg" alt="オーストラリア" style="width: 100%; height: 280px; object-fit: cover;">
- </div>
 
  <div class="country-info">
  <div class="country-intro">
@@ -152,10 +148,6 @@
  </a>
  </div>
  </section>
-
- <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-   <img src="/australia-mid.jpg" alt="グレートバリアリーフ" style="width: 100%; height: 240px; object-fit: cover;">
- </div>
 
  <section class="section">
  <h2 class="section-title">✈️ 観光・グルメ</h2>
@@ -337,7 +329,21 @@
  </a>
  </div>
  </section>
+
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-about/" style="color: #D4885A; text-decoration: underline;">ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-smartphone/" style="color: #D4885A; text-decoration: underline;">スマホでのETAS(イータス)申請方法</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-renewal/" style="color: #D4885A; text-decoration: underline;">ETAS(イータス)更新方法について</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-validity/" style="color: #D4885A; text-decoration: underline;">オーストラリアETAS(イータス)の有効期限と再申請について</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-vs-visa/" style="color: #D4885A; text-decoration: underline;">ETAS(イータス)とビザの違い</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-top-destinations/" style="color: #D4885A; text-decoration: underline;">オーストラリアのエリア別観光スポット・見どころ15選</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-sydney-spots/" style="color: #D4885A; text-decoration: underline;">シドニーの観光スポット10選 定番からおすすめまでを紹介</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-world-heritage/" style="color: #D4885A; text-decoration: underline;">オーストラリアの世界遺産15選 自然遺産から文化遺産まで</a></li>
+   </ul>
+ </section>
  </div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vOqzNMyC9G9rQ7dx95SDe"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

@@ -1,13 +1,10 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T422a,<div class="page-layout">
+2:T43c1,<div class="page-layout">
     <main class="page-main">
       <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-usa.html">アメリカ</a> ＞ <a href="tips.html">入国・ビザガイド</a> ＞ ビザ免除プログラム(VWP)とは</div>
 
-      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-  <img src="/usa-hero.jpg" alt="アメリカ" style="width: 100%; height: 280px; object-fit: cover;">
-</div>
       <article class="article-detail">
         <span class="card-tag">入国・ビザガイド</span>
         <h1>ビザ免除プログラム(VWP)とは？対象国・条件・ESTAとの違いを解説</h1>
@@ -37,7 +34,7 @@
           <img src="https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=300&fit=crop" alt="パスポートと航空券" class="section-img" />
           <p>ビザ免除プログラム（VWP：Visa Waiver Program）とは、アメリカ政府が定めた国・地域の市民に限り、ビザを取得せずに渡米が認められる制度です。渡航目的は90日以内の観光または商用に限られ、VWPを利用して渡米する際は電子渡航認証システム「ESTA（エスタ）」を申請し、「渡航認証許可」の取得が求められます。</p>
           <div class="point-box">
-            <p class="box-title">💡 ポイント</p>
+            <p class="box-title">ポイント</p>
             <p>就労や留学を目的として渡米する方はVWPの利用条件に該当しないため、ビザの取得が必須です。ビザの取得には多くの書類提出や領事官との面接などが求められ、申請から取得までに1か月以上かかるため早めの手続きをお勧めします。</p>
           </div>
 
@@ -94,7 +91,7 @@
             <li>特定の伝染病を患っている方</li>
           </ul>
           <div class="warn-box">
-            <p class="box-title">⚠️ ご注意ください</p>
+            <p class="box-title">ご注意ください</p>
             <p>上記に該当する方はESTA（エスタ）申請の対象外となるため、在日米国大使館・総領事館にて目的にあわせたビザの取得をご検討ください。</p>
           </div>
           <p>また、カナダ・メキシコ・英領バミューダ諸島は、アメリカのVWPに参加していません。ただし、米国移民国籍法ではカナダおよびバミューダ諸島の市民がビザを取得せずに渡航する場合は特定の条項を定めています。</p>
@@ -122,7 +119,7 @@
           </ul>
 
           <div class="summary-box">
-            <p class="box-title">📝 この記事のまとめ</p>
+            <p class="box-title">この記事のまとめ</p>
             <ul>
               <li>VWPは日本を含む41か国が対象で、90日以内の観光・商用目的ならビザ不要</li>
               <li>VWP利用にはESTA申請が必須（出発72時間前までに申請推奨）</li>
@@ -153,20 +150,18 @@
           </div>
         </div>
 
-<div class="related-procedures" style="margin-top: 2rem; padding: 1.5rem; background: #f0f7ff; border-radius: 12px; border-left: 4px solid #3b82f6;">
-  <h3 style="margin-top: 0; color: #1e40af;">関連する渡航手続き</h3>
-  <ul style="list-style: none; padding: 0;">
-    <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-about/" style="color: #2563eb; text-decoration: none;">アメリカESTA（電子渡航認証）とは →</a></li>
-    <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-application/" style="color: #2563eb; text-decoration: none;">ESTA申請方法・記入例 →</a></li>
-    <li style="margin-bottom: 0.5rem;"><a href="/usa-immigration-guide/" style="color: #2563eb; text-decoration: none;">アメリカ入国審査の流れ →</a></li>
-  </ul>
-</div>
-
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-application/" style="color: #D4885A; text-decoration: underline;">ESTA（エスタ）の申請方法を記入例付きで解説！料金や有効期限も紹介！</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-renewal/" style="color: #D4885A; text-decoration: underline;">ESTA（エスタ）に更新は必要？入力ミスをした際の対応についても解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-smartphone/" style="color: #D4885A; text-decoration: underline;">ESTAアプリでの申請方法を解説！スマホ申請のポイントを紹介</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-group/" style="color: #D4885A; text-decoration: underline;">ESTAのグループ申請方法を解説！家族で申請する際の注意点も紹介</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-birthplace/" style="color: #D4885A; text-decoration: underline;">ESTA申請時の出生した市区町村名の記載方法を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-hawaii-esta/" style="color: #D4885A; text-decoration: underline;">ハワイ渡航時にESTAは必要？申請時の注意点も解説</a></li>
+          </ul>
+        </section>
       </article>
-
-      <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-  <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
-</div>
 
       <section class="related-articles">
         <h2 class="related-title">関連記事</h2>
@@ -191,6 +186,6 @@
       </section>
     </main>
     <div id="sidebar-mount"></div>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vOqzNMyC9G9rQ7dx95SDe"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

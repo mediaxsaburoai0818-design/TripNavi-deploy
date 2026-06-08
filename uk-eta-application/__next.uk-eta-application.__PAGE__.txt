@@ -1,17 +1,13 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4049,<div class="page-layout">
+2:T423e,<div class="page-layout">
     <main class="page-main">
       <div class="breadcrumb">
         <a href="index.html">ホーム</a> ＞ 
         <a href="#uk">イギリス</a> ＞ 
         <a href="#visa-info">渡航ノウハウ</a> ＞ 
         イギリスETAの申請方法
-      </div>
-
-      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-        <img src="/uk-hero.jpg" alt="イギリス" style="width: 100%; height: 280px; object-fit: cover;">
       </div>
 
       <article class="article-detail">
@@ -24,7 +20,7 @@
         <div class="content">
           
           <div class="article-toc">
-            <h4 class="toc-title">📋 目次</h4>
+            <h4 class="toc-title">目次</h4>
             <nav>
               <ol>
                 <li><a href="#section1">イギリス入国に必要なETA（電子渡航認証）とは？</a>
@@ -55,7 +51,7 @@
           <p><strong>イギリスETA</strong>は、ビザ免除国の国民がイギリスに入国する際に必要となる電子渡航認証です。アメリカのESTAや韓国のK-ETAと類似した制度で、短期観光、出張、乗り継ぎ目的の渡航者が対象です。</p>
 
           <div class="info-box">
-            <h4>📌 イギリスETAの特徴</h4>
+            <h4>イギリスETAの特徴</h4>
             <ul>
               <li><strong>導入日:</strong> 2025年1月8日（日本人対象）</li>
               <li><strong>申請料金:</strong> 16ポンド（将来20ポンドへ引き上げ予定）</li>
@@ -85,7 +81,7 @@
           </ul>
 
           <div class="warn-box">
-            <h4>⚠️ 重要</h4>
+            <h4>重要</h4>
             <p>子供・乳幼児も年齢不問で申請が必要です。</p>
           </div>
 
@@ -121,7 +117,7 @@
           <h2 id="section3">イギリスETA申請に必要な書類・情報</h2>
           
           <div class="info-box">
-            <h4>📋 必要な書類</h4>
+            <h4>必要な書類</h4>
             <ul>
               <li><strong>パスポート</strong>（ICチップ付き、有効期限内）</li>
               <li><strong>顔写真データ</strong>（jpg/jpeg、3か月以内撮影、パスポート写真とは別。9歳以下は不要）</li>
@@ -131,7 +127,7 @@
           </div>
 
           <div class="info-box">
-            <h4>📝 必要な情報</h4>
+            <h4>必要な情報</h4>
             <ul>
               <li>パスポート情報（番号、氏名、国籍、生年月日、有効期限）</li>
               <li>個人情報（住所、電話番号、職業）</li>
@@ -178,7 +174,7 @@
           <h2 id="section5">イギリスETA申請時の注意点</h2>
           
           <div class="warn-box">
-            <h4>⚠️ 4つの重要な注意点</h4>
+            <h4>4つの重要な注意点</h4>
 
             <p><strong>1. パスポート情報の入力ミス</strong></p>
             <p>ローマ字入力時のスペルミスに注意してください。却下された場合も返金はありません。</p>
@@ -228,7 +224,7 @@
           <p>ETA未取得の場合、搭乗不可となる可能性があります。出発の<strong>1〜2週間前</strong>までに取得することを推奨します。</p>
 
           <div class="info-box">
-            <h4>✅ イギリスETA申請のポイント</h4>
+            <h4>イギリスETA申請のポイント</h4>
             <ul>
               <li>2025年1月8日より必須（日本人対象）</li>
               <li>申請料金: 16ポンド</li>
@@ -241,11 +237,7 @@
           </div>
         </div>
 
-        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-          <img src="/uk-mid.jpg" alt="イギリスの田園風景" style="width: 100%; height: 240px; object-fit: cover;">
-        </div>
-
-
+        
         <div class="related-articles">
           <h3 class="related-title">関連記事</h3>
           <div class="related-grid">
@@ -278,6 +270,15 @@
             </a>
           </div>
         </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-application/" style="color: #D4885A; text-decoration: underline;">K-ETA(電子旅行許可証)とは？申請方法や一時免除措置について解説【韓国旅行】</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/guam-eta-application/" style="color: #D4885A; text-decoration: underline;">グアム旅行に必要なGuam-CNMI ETAの申請方法について解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-vwp/" style="color: #D4885A; text-decoration: underline;">ビザ免除プログラム(VWP)とは？対象国・条件・ESTAとの違いを解説</a></li>
+          </ul>
+        </section>
       </article>
     </main>
 
@@ -316,6 +317,6 @@
         </ol>
       </div>
     </aside>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vOqzNMyC9G9rQ7dx95SDe"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

@@ -1,7 +1,7 @@
-User-agent: *
+User-Agent: *
 Allow: /
-
 Disallow: /_next/
 Disallow: /404
 
+Host: https://trips-now.com
 Sitemap: https://trips-now.com/sitemap.xml

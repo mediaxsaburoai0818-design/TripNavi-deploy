@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T3f8a,<div class="page-layout">
+2:T4092,<div class="page-layout">
     <main class="page-main">
       <div class="breadcrumb">
         <a href="index.html">ホーム</a> ＞ 
@@ -10,9 +10,6 @@
         ESTAのグループ申請方法
       </div>
 
-      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-  <img src="/usa-hero.jpg" alt="アメリカ" style="width: 100%; height: 280px; object-fit: cover;">
-</div>
       <article class="article-detail">
         <span class="card-tag">USA渡航ノウハウ</span>
         <h1>ESTAのグループ申請方法を解説！家族で申請する際の注意点も紹介</h1>
@@ -23,7 +20,7 @@
         <div class="content">
           
           <div class="article-toc">
-            <h4 class="toc-title">📋 目次</h4>
+            <h4 class="toc-title">目次</h4>
             <nav>
               <ol>
                 <li><a href="#section1">ESTAのグループ申請について</a>
@@ -57,7 +54,7 @@
 
           <h3 id="section1-1">グループ申請のメリット</h3>
           <div class="info-box">
-            <h4>✅ グループ申請の主なメリット</h4>
+            <h4>グループ申請の主なメリット</h4>
             <ul>
               <li><strong>クレジットカード情報の繰り返し入力が不要</strong> - 代表者が一括支払い</li>
               <li><strong>グループIDで全員の申請状況を一括管理</strong> - 管理が簡単</li>
@@ -107,7 +104,7 @@
           <h2 id="section2">ESTAのグループ申請に必要な書類・情報</h2>
           
           <div class="info-box">
-            <h4>📋 必要な書類（全員分）</h4>
+            <h4>必要な書類（全員分）</h4>
             <ul>
               <li><strong>ICチップ搭載の有効なパスポート</strong></li>
               <li><strong>クレジットカード/デビットカード/PayPal</strong>（代表者のみ）</li>
@@ -116,7 +113,7 @@
           </div>
 
           <div class="info-box">
-            <h4>📝 必要な情報（全員分）</h4>
+            <h4>必要な情報（全員分）</h4>
             <ul>
               <li>名前、生年月日、性別、国籍</li>
               <li>居住地、電話番号</li>
@@ -149,7 +146,7 @@
           <p>入力後「次へ」をクリックすると、<strong>グループID</strong>が発行されます。</p>
           
           <div class="warn-box">
-            <h4>⚠️ 重要</h4>
+            <h4>重要</h4>
             <p>グループIDは必ずメモして保管してください。後で申請状況を確認する際に必要です。</p>
           </div>
 
@@ -181,7 +178,7 @@
           </ol>
 
           <div class="warn-box">
-            <h4>⚠️ 支払い期限</h4>
+            <h4>支払い期限</h4>
             <p>グループID発行後、<strong>7日以内</strong>に支払いを完了してください。期限を過ぎると申請が無効になります。</p>
           </div>
 
@@ -218,7 +215,7 @@
           <p>家族や複数人でアメリカへ渡航する際は、ESTAのグループ申請が便利です。代表者がグループIDを発行し、全員分の費用を一括決済・管理できます。ただし、申請情報は1人ずつ入力が必要なため、全員分のパスポートを事前に準備しておきましょう。</p>
 
           <div class="info-box">
-            <h4>✅ グループ申請のポイント</h4>
+            <h4>グループ申請のポイント</h4>
             <ul>
               <li>最大50人まで一度に申請可能</li>
               <li>代表者が一括支払い・管理</li>
@@ -231,10 +228,7 @@
         </div>
 
         
-        <div <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-  <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
-</div>
-      <section class="related-articles">
+        <div class="related-articles">
           <h3 class="related-title">関連記事</h3>
           <div class="related-grid">
             <a href="usa-esta-application.html" class="related-card">
@@ -266,6 +260,14 @@
             </a>
           </div>
         </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-birthplace/" style="color: #D4885A; text-decoration: underline;">ESTA申請時の出生した市区町村名の記載方法を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-vwp/" style="color: #D4885A; text-decoration: underline;">ビザ免除プログラム(VWP)とは？対象国・条件・ESTAとの違いを解説</a></li>
+          </ul>
+        </section>
       </article>
     </main>
 
@@ -304,6 +306,6 @@
         </ol>
       </div>
     </aside>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vOqzNMyC9G9rQ7dx95SDe"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

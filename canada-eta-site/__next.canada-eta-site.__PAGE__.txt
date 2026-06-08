@@ -1,14 +1,11 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T1583,<div class="page-layout">
+2:T1a4b,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ eTA(イータ)申請とカナダ渡航に関するサイト</div>
 
- <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-  <img src="/canada-hero.jpg" alt="カナダ" style="width: 100%; height: 280px; object-fit: cover;">
-</div>
-      <article class="article-detail">
+ <article class="article-detail">
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>eTA(イータ)申請とカナダ渡航に関するサイト</h1>
  <div class="article-meta">
@@ -18,7 +15,10 @@
  <div class="content">
 
 <h2 class="wp-block-heading">eTA(イータ)申請とカナダ渡航に関するサイト</h2>
-
+<picture>
+<source alt="eTA(イータ)申請とカナダ渡航に関するサイト" class="img_big m20-t m20-b" height="425" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p21_1.webp" type="image/webp" width="640"/>
+<img alt="eTA(イータ)申請とカナダ渡航に関するサイト" class="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p21_1.jpg" width="640"/>
+</picture>
 <div class="Class_J">
 <h4>eTA(イータ)公式ページ</h4>
 <p><a href="https://www.canada.ca/en.html" target="_blank">https://www.canada.ca/en.html</a></p><p>カナダ政府が運営しているeTA(イータ)申請サイトです。<br />eTA(イータ)はご自身で申請することも可能ですが、全ての項目について英語またはフランス語にて入力する必要があります。</p><p><a href="https://www.cic.gc.ca/english/contacts/web-form.asp" target="_blank">https://www.cic.gc.ca/english/contacts/web-form.asp</a></p><p>eTA(イータ)申請の承認が72時間以上経過している場合は、公式WEBフォームより申請状況についてのお問い合わせも可能です。<br />※英語・フランス語のみの対応となります</p>
@@ -36,13 +36,20 @@
 <p><a href="https://www.mofa.go.jp/mofaj/na/na1/page24_000587.html" target="_blank">https://www.mofa.go.jp/mofaj/na/na1/page24_000587.html</a></p><p>eTA(イータ)に関するご質問は在日カナダ大使館でも受け付けております。<br /> (英語、仏語、日本語に対応)</p>
 </div>
  </div>
+
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/canada-eta-about/" style="color: #D4885A; text-decoration: underline;">カナダの電子渡航認証eTA(イータ)とは</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/canada-eta-application/" style="color: #D4885A; text-decoration: underline;">カナダeTA（電子渡航認証）の申請方法を解説！</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/canada-eta-smartphone/" style="color: #D4885A; text-decoration: underline;">スマホでのeTA(イータ)申請方法</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/canada-visa-center/" style="color: #D4885A; text-decoration: underline;">カナダビザ申請センター・カナダ大使館について</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/country-canada/" style="color: #D4885A; text-decoration: underline;">カナダ旅行ガイド</a></li>
+   </ul>
+ </section>
  </article>
 
- <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-  <img src="/canada-mid.jpg" alt="カナダの風景" style="width: 100%; height: 240px; object-fit: cover;">
-</div>
-
-      <section class="related-articles">
+ <section class="related-articles">
  <h2 class="related-title">関連記事</h2>
  <div class="related-grid">
  <a href="canada-eta.html" class="related-card">
@@ -65,6 +72,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vOqzNMyC9G9rQ7dx95SDe"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

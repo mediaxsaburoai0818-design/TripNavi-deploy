@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4301,<div class="area-hero" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1400&h=400&fit=crop')">
+2:T4a04,<div class="area-hero" style="background-image:url('https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1400&h=400&fit=crop')">
  <div class="area-hero-overlay"></div>
  <div class="area-hero-content">
  <span class="area-hero-label">CANADA</span>
@@ -329,7 +329,21 @@
  </a>
  </div>
  </section>
+
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/canada-eta-about/" style="color: #D4885A; text-decoration: underline;">カナダの電子渡航認証eTA(イータ)とは</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/canada-eta-application/" style="color: #D4885A; text-decoration: underline;">カナダeTA（電子渡航認証）の申請方法を解説！</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/canada-eta-smartphone/" style="color: #D4885A; text-decoration: underline;">スマホでのeTA(イータ)申請方法</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/canada-eta-validity/" style="color: #D4885A; text-decoration: underline;">カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/canada-eta-vs-visa/" style="color: #D4885A; text-decoration: underline;">カナダのeTA(イータ)とビザの違いとは</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/canada-top-destinations/" style="color: #D4885A; text-decoration: underline;">カナダのおすすめ人気観光地10選</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/canada-vancouver-spots/" style="color: #D4885A; text-decoration: underline;">カナダ・バンクーバーの観光スポット13選</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/canada-world-heritage/" style="color: #D4885A; text-decoration: underline;">カナダの世界遺産一覧</a></li>
+   </ul>
+ </section>
  </div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vOqzNMyC9G9rQ7dx95SDe"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

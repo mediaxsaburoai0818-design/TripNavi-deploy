@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T3589,<div class="page-layout">
+2:T337c,<div class="page-layout">
     <main class="page-main">
       <div class="breadcrumb">
         <a href="index.html">ホーム</a> ＞ 
@@ -10,9 +10,6 @@
         ハワイ渡航時のESTA
       </div>
 
-      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-  <img src="/usa-hero.jpg" alt="アメリカ" style="width: 100%; height: 280px; object-fit: cover;">
-</div>
       <article class="article-detail">
         <span class="card-tag">USA渡航ノウハウ</span>
         <h1>ハワイ渡航時にESTAは必要？申請時の注意点も解説</h1>
@@ -23,7 +20,7 @@
         <div class="content">
           
           <div class="article-toc">
-            <h4 class="toc-title">📋 目次</h4>
+            <h4 class="toc-title">目次</h4>
             <nav>
               <ol>
                 <li><a href="#section1">ハワイの入国でESTAは必要？</a>
@@ -47,7 +44,7 @@
           <p><strong>結論から言うと、日本国籍者がハワイへ渡航する場合、ESTA（エスタ）の取得が必須です。</strong>ハワイはアメリカ合衆国の一部であるため、アメリカ本土と同様にESTAが必要となります。</p>
 
           <div class="warn-box">
-            <h4>⚠️ 重要</h4>
+            <h4>重要</h4>
             <p>ESTAの審査には<strong>最大72時間</strong>かかります。出発の<strong>3日前まで</strong>に申請を完了することを強く推奨します。不備があるとさらに時間がかかるため、早めの申請が安心です。</p>
           </div>
 
@@ -57,7 +54,7 @@
           </div>
 
           <div class="warn-box">
-            <h4>⚠️ 注意</h4>
+            <h4>注意</h4>
             <p>ESTAを取得できないまま渡航すると、<strong>搭乗拒否</strong>される恐れがあります。必ず事前に申請を完了してください。</p>
           </div>
 
@@ -65,7 +62,7 @@
           <p>ESTAの申請は、米国国土安全保障省（DHS）の公式サイトからオンラインで行います。</p>
 
           <div class="info-box">
-            <h4>📋 申請に必要なもの</h4>
+            <h4>申請に必要なもの</h4>
             <ul>
               <li><strong>クレジットカード/デビットカード/PayPal</strong>（支払い用）</li>
               <li><strong>メールアドレス</strong>（申請完了通知受信用）</li>
@@ -108,7 +105,7 @@
           <p>ESTA申請時には、以下の3点に特に注意してください。</p>
 
           <div class="info-box">
-            <h4>⚠️ 3つの重要な注意点</h4>
+            <h4>3つの重要な注意点</h4>
 
             <p><strong>1. 正確な情報を入力</strong></p>
             <ul>
@@ -161,7 +158,7 @@
           <p>承認が得られないまま渡航すると、搭乗拒否される恐れがあります。早めの申請を心がけ、安心してハワイ旅行を楽しんでください。</p>
 
           <div class="info-box">
-            <h4>✅ ハワイESTA申請のポイント</h4>
+            <h4>ハワイESTA申請のポイント</h4>
             <ul>
               <li>ハワイ渡航にはESTA必須（アメリカ本土と同じ）</li>
               <li>申請料金: 40.27米ドル</li>
@@ -175,10 +172,7 @@
         </div>
 
         
-        <div <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-  <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
-</div>
-      <section class="related-articles">
+        <div class="related-articles">
           <h3 class="related-title">関連記事</h3>
           <div class="related-grid">
             <a href="usa-esta-application.html" class="related-card">
@@ -211,15 +205,13 @@
           </div>
         </div>
 
-<div class="related-procedures" style="margin-top: 2rem; padding: 1.5rem; background: #f0f7ff; border-radius: 12px; border-left: 4px solid #3b82f6;">
-  <h3 style="margin-top: 0; color: #1e40af;">関連する渡航手続き</h3>
-  <ul style="list-style: none; padding: 0;">
-    <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-about/" style="color: #2563eb; text-decoration: none;">アメリカESTA（電子渡航認証）とは →</a></li>
-    <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-application/" style="color: #2563eb; text-decoration: none;">ESTA申請方法・記入例 →</a></li>
-    <li style="margin-bottom: 0.5rem;"><a href="/usa-immigration-guide/" style="color: #2563eb; text-decoration: none;">アメリカ入国審査の流れ →</a></li>
-  </ul>
-</div>
-
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-birthplace/" style="color: #D4885A; text-decoration: underline;">ESTA申請時の出生した市区町村名の記載方法を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-vwp/" style="color: #D4885A; text-decoration: underline;">ビザ免除プログラム(VWP)とは？対象国・条件・ESTAとの違いを解説</a></li>
+          </ul>
+        </section>
       </article>
     </main>
 
@@ -258,6 +250,6 @@
         </ol>
       </div>
     </aside>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vOqzNMyC9G9rQ7dx95SDe"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

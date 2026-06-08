@@ -1,17 +1,13 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T356b,<div class="page-layout">
+2:T3958,<div class="page-layout">
     <main class="page-main">
       <div class="breadcrumb">
         <a href="index.html">ホーム</a> ＞ 
         <a href="country-canada.html">カナダ</a> ＞ 
         <a href="#visa-info">渡航ノウハウ</a> ＞ 
         カナダeTAの申請方法
-      </div>
-
-      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-        <img src="/canada-hero.jpg" alt="カナダ" style="width: 100%; height: 280px; object-fit: cover;">
       </div>
 
       <article class="article-detail">
@@ -24,7 +20,7 @@
         <div class="content">
           
           <div class="article-toc">
-            <h4 class="toc-title">📋 目次</h4>
+            <h4 class="toc-title">目次</h4>
             <nav>
               <ol>
                 <li><a href="#section1">カナダeTA（電子渡航認証）とは？</a></li>
@@ -44,7 +40,7 @@
           <p><strong>eTA（Electronic Travel Authorization）</strong>は、ビザ免除対象国が<strong>空路で</strong>カナダへ渡航する際に必要となる電子渡航認証です。</p>
 
           <div class="info-box">
-            <h4>📌 カナダeTAの特徴</h4>
+            <h4>カナダeTAの特徴</h4>
             <ul>
               <li><strong>対象:</strong> 空路でのカナダ入国（観光、短期商用、トランジット）</li>
               <li><strong>滞在期間:</strong> 1回の入国につき最長6か月以内</li>
@@ -56,7 +52,7 @@
           </div>
 
           <div class="warn-box">
-            <h4>⚠️ 注意</h4>
+            <h4>注意</h4>
             <p>陸路・海路での入国はeTA対象外です。空路での入国時のみ必要となります。</p>
           </div>
 
@@ -64,7 +60,7 @@
           <h2 id="section2">カナダeTA申請に必要な書類・情報</h2>
           
           <div class="info-box">
-            <h4>📋 必要な書類</h4>
+            <h4>必要な書類</h4>
             <ul>
               <li><strong>パスポート</strong>（ICチップ付き、有効期限内）</li>
               <li><strong>クレジットカードまたはデビットカード</strong>（支払い用）</li>
@@ -73,7 +69,7 @@
           </div>
 
           <div class="info-box">
-            <h4>📝 必要な情報</h4>
+            <h4>必要な情報</h4>
             <ul>
               <li>パスポート情報（番号、発行日、有効期限、発行国）</li>
               <li>個人情報（氏名、生年月日、電話番号、現住所）</li>
@@ -197,7 +193,7 @@
           <p>オンラインで申請可能で、入力ミスや虚偽申告は承認遅延や入国拒否の可能性があります。渡航日の<strong>1〜2週間前まで</strong>に申請することを推奨します。</p>
 
           <div class="info-box">
-            <h4>✅ カナダeTA申請のポイント</h4>
+            <h4>カナダeTA申請のポイント</h4>
             <ul>
               <li>空路でのカナダ入国時に必須</li>
               <li>申請料金: 7カナダドル</li>
@@ -211,11 +207,7 @@
           </div>
         </div>
 
-        <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-          <img src="/canada-mid.jpg" alt="カナダの風景" style="width: 100%; height: 240px; object-fit: cover;">
-        </div>
-
-
+        
         <div class="related-articles">
           <h3 class="related-title">関連記事</h3>
           <div class="related-grid">
@@ -248,6 +240,18 @@
             </a>
           </div>
         </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/canada-eta-about/" style="color: #D4885A; text-decoration: underline;">カナダの電子渡航認証eTA(イータ)とは</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/canada-eta-smartphone/" style="color: #D4885A; text-decoration: underline;">スマホでのeTA(イータ)申請方法</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/canada-eta-application-guide/" style="color: #D4885A; text-decoration: underline;">カナダeTA(イータ)申請の婚姻状況と職業の申請方法</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/canada-eta-validity/" style="color: #D4885A; text-decoration: underline;">カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/country-canada/" style="color: #D4885A; text-decoration: underline;">カナダ旅行ガイド</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/canada-vancouver-spots/" style="color: #D4885A; text-decoration: underline;">カナダ・バンクーバーの観光スポット13選</a></li>
+          </ul>
+        </section>
       </article>
     </main>
 
@@ -286,6 +290,6 @@
         </ol>
       </div>
     </aside>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vOqzNMyC9G9rQ7dx95SDe"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

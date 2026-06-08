@@ -1,14 +1,11 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T2ea3,<div class="page-layout">
+2:T3660,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ ETAS(イータス)更新方法について</div>
 
- <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-  <img src="/australia-hero.jpg" alt="オーストラリア" style="width: 100%; height: 280px; object-fit: cover;">
-</div>
-      <article class="article-detail">
+ <article class="article-detail">
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>ETAS(イータス)更新方法について</h1>
  <div class="article-meta">
@@ -41,14 +38,20 @@
 </ul>
 </nav>
 </div>
-
+<picture>
+<source alt="ETAS(イータス)更新方法について" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p11_01.webp" type="image/webp" width="640"/>
+<img alt="ETAS(イータス)更新方法について" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p11_01.jpg" width="640"/>
+</picture>
 <h2 class="wp-block-heading" id="update1">ETAS(イータス)の有効期限を延長するには</h2>
-<p><a class="link-no-color aioseop-link" href="#">ETAS(イータス)</a>には期限を更新(延長)する制度はございません。<br />過去に取得したETAS(イータス)の有効期限が間近に迫っている、あるいは既に期限が切れてしまった等の理由で期限の延長をご希望の場合には、改めてETAS(イータス)申請が必要となります。<br />なお、ETAS(イータス)は入国時に有効であれば問題ありませんので、滞在中に期限が切れてしまう場合においては再申請の必要はございません。</p>
+<p><a class="link-no-color aioseop-link" href="http://xs640823.xsrv.jp/etas/">ETAS(イータス)</a>には期限を更新(延長)する制度はございません。<br />過去に取得したETAS(イータス)の有効期限が間近に迫っている、あるいは既に期限が切れてしまった等の理由で期限の延長をご希望の場合には、改めてETAS(イータス)申請が必要となります。<br />なお、ETAS(イータス)は入国時に有効であれば問題ありませんので、滞在中に期限が切れてしまう場合においては再申請の必要はございません。</p>
 <h3 class="wp-block-heading" id="update2">ETAS(イータス)の有効期限について</h3>
 <p>付与日から12ケ月間またはパスポートの有効期限まで(1年未満の場合)有効となります。<br />有効期間中は観光・商用であれば何度でも3ケ月以内の滞在が可能となっています。</p>
 <p><a href="https://www.eta.homeaffairs.gov.au/ETAS3/etasp" rel="noreferrer noopener" target="_blank">オーストラリア政府移民局ETA確認ページ</a>の「Check an ETA」にて、 国籍、パスポート番号、生年月日、参照番号(Reference Number)を入力後、「次へ」をクリックすると照会が可能です。参照番号(Reference Number)は申請時に送付されるメールに記載がありますのでご確認ください。過去にオーストラリア政府移民局の申請サイトにて申請されたETAS(イータス)の有効期限等の情報も同ウェブページより確認が可能です。</p>
-<p>また、オーストラリア政府移民局の申請サイトではなく代理店等を経由して申請された方は<a href="https://immi.homeaffairs.gov.au/visas/already-have-a-visa/check-visa-details-and-conditions/overview" rel="noreferrer noopener" target="_blank">VEVO(Visa Entitlement Verification Online)システム</a>より確認が可能となっています。<br />ETAS(イータス)申請の認証確認方法について詳しくは「<a class="aioseop-link" href="#">ETAS(イータス)申請の認証情報が確認できない場合</a>」にてご確認ください。 </p>
-
+<p>また、オーストラリア政府移民局の申請サイトではなく代理店等を経由して申請された方は<a href="https://immi.homeaffairs.gov.au/visas/already-have-a-visa/check-visa-details-and-conditions/overview" rel="noreferrer noopener" target="_blank">VEVO(Visa Entitlement Verification Online)システム</a>より確認が可能となっています。<br />ETAS(イータス)申請の認証確認方法について詳しくは「<a class="aioseop-link" href="http://xs640823.xsrv.jp/etas/operationerror/index.html">ETAS(イータス)申請の認証情報が確認できない場合</a>」にてご確認ください。 </p>
+<picture>
+<source alt="新しいパスポートを取得したときには" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p11_02.webp" type="image/webp" width="640"/>
+<img alt="新しいパスポートを取得したときには" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p11_02.jpg" width="640"/>
+</picture>
 <h2 class="wp-block-heading" id="update3">新しいパスポートを取得したときには</h2>
 <p>新しいパスポートを取得した場合には、ETAS(イータス)についても新たに申請手続きが必要となります。<br />ETAS(イータス)はパスポート番号に紐づいた認証であるため、 ETAS(イータス) 申請の有効期限が十分に残っていたとしても新しいパスポート番号では利用することができなくなります。パスポート更新後にオーストラリアへの渡航の予定がある方は改めてETAS(イータス)申請手続きを行ってください。</p>
 <h3 class="wp-block-heading" id="update4">パスポートの更新について</h3>
@@ -173,13 +176,21 @@
 <p>以上のように入国時にパスポートの残存期間が3ケ月または6ケ月以上必要な国が多くあります。<br />渡航予定日に対して有効期限に余裕がない場合にはパスポート更新の手続きを行いましょう。 <br />更新にあたり既存のETAS(イータス)は失効となりますので再申請が必要となります。 </p>
 
  </div>
+
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-about/" style="color: #D4885A; text-decoration: underline;">ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-validity/" style="color: #D4885A; text-decoration: underline;">オーストラリアETAS(イータス)の有効期限と再申請について</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-smartphone/" style="color: #D4885A; text-decoration: underline;">スマホでのETAS(イータス)申請方法</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-timing/" style="color: #D4885A; text-decoration: underline;">ETAS(イータス)申請のベストなタイミングとは？</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/country-australia/" style="color: #D4885A; text-decoration: underline;">オーストラリア旅行ガイド</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-cairns-spots/" style="color: #D4885A; text-decoration: underline;">ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</a></li>
+   </ul>
+ </section>
  </article>
 
- <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-  <img src="/australia-mid.jpg" alt="オーストラリアの風景" style="width: 100%; height: 240px; object-fit: cover;">
-</div>
-
-      <section class="related-articles">
+ <section class="related-articles">
  <h2 class="related-title">関連記事</h2>
  <div class="related-grid">
  <a href="australia-etas.html" class="related-card">
@@ -202,6 +213,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vOqzNMyC9G9rQ7dx95SDe"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

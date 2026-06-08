@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T2fd1,<div class="page-layout">
+2:T30da,<div class="page-layout">
     <main class="page-main">
       <div class="breadcrumb">
         <a href="index.html">ホーム</a> ＞ 
@@ -10,9 +10,6 @@
         ESTA申請時の出生した市区町村名
       </div>
 
-      <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-  <img src="/usa-hero.jpg" alt="アメリカ" style="width: 100%; height: 280px; object-fit: cover;">
-</div>
       <article class="article-detail">
         <span class="card-tag">USA渡航ノウハウ</span>
         <h1>ESTA申請時の出生した市区町村名の記載方法を解説</h1>
@@ -23,7 +20,7 @@
         <div class="content">
           
           <div class="article-toc">
-            <h4 class="toc-title">📋 目次</h4>
+            <h4 class="toc-title">目次</h4>
             <nav>
               <ol>
                 <li><a href="#section1">ESTA申請で出生した市区町村名について</a>
@@ -47,7 +44,7 @@
           <p>ESTA申請では、「<strong>出生地（City of Birth）</strong>」の入力が必須です。出生地とは、<strong>実際に生まれた場所</strong>（病院・助産院・自宅の所在地）を指します。</p>
 
           <div class="warn-box">
-            <h4>⚠️ 重要</h4>
+            <h4>重要</h4>
             <p><strong>出生地 ≠ 本籍地</strong></p>
             <p>出生地と本籍地を混同しないようご注意ください。本籍地は変更可能ですが、<strong>出生地は生涯変わりません</strong>。</p>
           </div>
@@ -63,7 +60,7 @@
           <h3 id="section1-1">出生地を記入する際の注意点</h3>
           
           <div class="info-box">
-            <h4>✅ 出生地記入の3つの注意点</h4>
+            <h4>出生地記入の3つの注意点</h4>
             
             <p><strong>1. ローマ字で正確に入力</strong></p>
             <ul>
@@ -100,7 +97,7 @@
           <p>以下、具体的な記入例をご紹介します。</p>
 
           <div class="info-box">
-            <h4>📝 記入例</h4>
+            <h4>記入例</h4>
 
             <p><strong>例1: 東京都新宿区西新宿2丁目8-1で出生</strong></p>
             <p>出生地: <strong>「SHINJUKU-KU」</strong>または<strong>「SHINJUKU」</strong>、<strong>「TOKYO」</strong></p>
@@ -114,7 +111,7 @@
             <p><strong>例4: 東京都田無市南町5丁目で出生（現在は西東京市）</strong></p>
             <p>出生地: <strong>「TANASHI-SHI」</strong>または<strong>「TANASHI」</strong></p>
             <div class="warn-box">
-              <h4>⚠️ 注意</h4>
+              <h4>注意</h4>
               <p>現在の住所が「西東京市」でも、出生当時が「田無市」であれば、<strong>「TANASHI-SHI」</strong>と記入してください。</p>
             </div>
           </div>
@@ -163,7 +160,7 @@
           <p>誤入力は審査遅延や再申請の原因となるため、十分に確認してから申請を進めてください。</p>
 
           <div class="info-box">
-            <h4>✅ 出生地記入のポイント</h4>
+            <h4>出生地記入のポイント</h4>
             <ul>
               <li>出生地は実際に生まれた市区町村（病院・自宅の所在地）</li>
               <li>出生地≠本籍地（混同に注意）</li>
@@ -176,10 +173,7 @@
         </div>
 
         
-        <div <div style="margin: 32px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
-  <img src="/usa-mid.jpg" alt="アメリカの風景" style="width: 100%; height: 240px; object-fit: cover;">
-</div>
-      <section class="related-articles">
+        <div class="related-articles">
           <h3 class="related-title">関連記事</h3>
           <div class="related-grid">
             <a href="usa-esta-application.html" class="related-card">
@@ -211,6 +205,14 @@
             </a>
           </div>
         </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-hawaii-esta/" style="color: #D4885A; text-decoration: underline;">ハワイ渡航時にESTAは必要？申請時の注意点も解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-vwp/" style="color: #D4885A; text-decoration: underline;">ビザ免除プログラム(VWP)とは？対象国・条件・ESTAとの違いを解説</a></li>
+          </ul>
+        </section>
       </article>
     </main>
 
@@ -249,6 +251,6 @@
         </ol>
       </div>
     </aside>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vOqzNMyC9G9rQ7dx95SDe"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
