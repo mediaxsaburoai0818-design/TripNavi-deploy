@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T55c6,<div class="page-layout">
+2:T5557,<div class="page-layout">
  <main class="page-main">
- <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オンタリオ湖の魅力やおすすめ観光スポットを紹介</div>
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ オンタリオ湖の魅力やおすすめ観光スポットを紹介</div>
 
  <article class="article-detail">
  <span class="card-tag" data-color="orange">観光・グルメ</span>
@@ -92,11 +92,11 @@
 <source alt="プーティン(POUTINE)" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/12/3a25721d3eebd6888c4d6b8b28f467b3.webp" type="image/webp" width="640"/><img alt="プーティン(POUTINE)" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/12/3a25721d3eebd6888c4d6b8b28f467b3.jpg" width="640"/>
 </picture>
 <h2 class="wp-block-heading" id="ontario4">オンタリオ湖周辺グルメ</h2>
-<p>高層ビル群やチャイナタウンなど、さまざまな文化が混在するオンタリオ湖周辺は、カナダの大自然と100か国を超える世界中の食文化が楽しめるグルメスポットです。ユニオン駅からほど近いグルメ市場<a href="http://www.stlawrencemarket.com/" rel="noreferrer noopener" target="_blank">セント・ローレンス・マーケット(St. Lawrence Market)</a>では、サーモンをはじめとしたカナダの海の幸が堪能できます。オンタリオでは今、若者たちの間で「プーティン(POUTINE)」という食べ物が大流行中です。プーティンとは、フレッシュチーズの一種“チーズカード”と、グレービーソースがかかったフライドポテトの事で、ハイカロリーながら美味しいと専門店ができるほど人気を呼んでいます。オンタリオには、この他にも紹介しきれないほどのグルメが満載です。<br />カナダといえば名産品として<a href="http://xs640823.xsrv.jp/eta/maplesyrup/index.html">メープルシロップ</a>が有名ですが、メープルシロップを使用した料理の中でメープルシロップを自然の雪で固めた「メープルタフィー」をご存じでしょうか。作り方は簡単、トレーに冷たい雪を敷き詰め、その上に煮詰めた熱いメープルシロップを垂らします。固まらないうちに棒ですくうとシロップが固まり棒つきキャンティーになります。まさにカナダの大自然が生み出したグルメと言えます。</p>
+<p>高層ビル群やチャイナタウンなど、さまざまな文化が混在するオンタリオ湖周辺は、カナダの大自然と100か国を超える世界中の食文化が楽しめるグルメスポットです。ユニオン駅からほど近いグルメ市場<a href="http://www.stlawrencemarket.com/" rel="noreferrer noopener" target="_blank">セント・ローレンス・マーケット(St. Lawrence Market)</a>では、サーモンをはじめとしたカナダの海の幸が堪能できます。オンタリオでは今、若者たちの間で「プーティン(POUTINE)」という食べ物が大流行中です。プーティンとは、フレッシュチーズの一種“チーズカード”と、グレービーソースがかかったフライドポテトの事で、ハイカロリーながら美味しいと専門店ができるほど人気を呼んでいます。オンタリオには、この他にも紹介しきれないほどのグルメが満載です。<br />カナダといえば名産品として<a href="/canada-maple-syrup/">メープルシロップ</a>が有名ですが、メープルシロップを使用した料理の中でメープルシロップを自然の雪で固めた「メープルタフィー」をご存じでしょうか。作り方は簡単、トレーに冷たい雪を敷き詰め、その上に煮詰めた熱いメープルシロップを垂らします。固まらないうちに棒ですくうとシロップが固まり棒つきキャンティーになります。まさにカナダの大自然が生み出したグルメと言えます。</p>
 <h2 class="wp-block-heading" id="ontario5">オンタリオ湖からナイアガラの滝へ</h2>
-<p><a href="http://xs640823.xsrv.jp/eta/border/index.html">ナイアガラの滝</a>は、世界三大瀑布のひとつに数えられ、高さ約54m、幅約670mという壮大な規模をほこり、名前の由来となった先住民の言葉「ニアガル(雷轟く水)」の通り、雷鳴のような轟音を響かせる迫力は圧巻です。エリー湖からオンタリオ湖に流れる川にかかり、カナダのトロントから南南西に120km、アメリカのバッファローから北北東に27km、二国の国境に位置します。地図でみると近くみえるオンタリオ湖とナイアガラの滝ですが、オンタリオ湖からは車で約2時間かかります。それでも足を延ばして是非見ておきたい絶景です。</p>
+<p><a href="/canada-usa-border/">ナイアガラの滝</a>は、世界三大瀑布のひとつに数えられ、高さ約54m、幅約670mという壮大な規模をほこり、名前の由来となった先住民の言葉「ニアガル(雷轟く水)」の通り、雷鳴のような轟音を響かせる迫力は圧巻です。エリー湖からオンタリオ湖に流れる川にかかり、カナダのトロントから南南西に120km、アメリカのバッファローから北北東に27km、二国の国境に位置します。地図でみると近くみえるオンタリオ湖とナイアガラの滝ですが、オンタリオ湖からは車で約2時間かかります。それでも足を延ばして是非見ておきたい絶景です。</p>
 <h2 class="wp-block-heading" id="ontario6">短期のカナダ入国・渡航にはeTA(イータ)の事前申請が必要です</h2>
-<p>トロントやオンタリオ湖、ナイアガラの滝への観光、出張などを目的としたカナダ渡航の際には、<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)</a>の事前申請が必要です。eTA(イータ)はカナダ政府が導入している電子渡航認証制度です。eTA(イータ)を利用して渡航する際は、一度の渡航で6ヶ月以内の滞在が認められます。なお、eTA(イータ)は取得日から5年間またはパスポートの期日まで有効となります。eTA(イータ)の申請に関する詳細は「<a href="http://xs640823.xsrv.jp/eta/flow/index.html">カナダ電子渡航認証eTA(イータ)申請方法の手順と記入例</a>」をご確認ください。</p>
+<p>トロントやオンタリオ湖、ナイアガラの滝への観光、出張などを目的としたカナダ渡航の際には、<a href="/canada-eta-about/">eTA(イータ)</a>の事前申請が必要です。eTA(イータ)はカナダ政府が導入している電子渡航認証制度です。eTA(イータ)を利用して渡航する際は、一度の渡航で6ヶ月以内の滞在が認められます。なお、eTA(イータ)は取得日から5年間またはパスポートの期日まで有効となります。eTA(イータ)の申請に関する詳細は「<a href="/canada-eta-application-guide/">カナダ電子渡航認証eTA(イータ)申請方法の手順と記入例</a>」をご確認ください。</p>
 
  </div>
  </article>
@@ -104,19 +104,19 @@
  <section class="related-articles">
  <h2 class="related-title">関連記事</h2>
  <div class="related-grid">
- <a href="canada-eta.html" class="related-card">
+ <a href="/canada-eta-about/" class="related-card">
  <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
  <p>カナダの電子渡航認証eTA(イータ)とは</p>
  </a>
- <a href="canada-vancouver.html" class="related-card">
+ <a href="/canada-vancouver-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
  <p>カナダ・バンクーバーの観光スポット13選</p>
  </a>
- <a href="canada-toronto.html" class="related-card">
+ <a href="/canada-toronto-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
  <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
  </a>
- <a href="canada-aurora.html" class="related-card">
+ <a href="/canada-aurora-viewing/" class="related-card">
  <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
  <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
  </a>
@@ -124,6 +124,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

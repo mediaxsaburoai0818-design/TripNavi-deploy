@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T5d1f,<div class="page-layout">
+2:T5cc8,<div class="page-layout">
  <main class="page-main">
- <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダのeTA(イータ)とビザの違いとは</div>
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ カナダのeTA(イータ)とビザの違いとは</div>
 
  <article class="article-detail">
  <span class="card-tag" data-color="orange">観光・グルメ</span>
@@ -57,7 +57,7 @@
 <h2 class="wp-block-heading" id="lengthofstay1">ビザとは</h2>
 <p>海外へ渡航する際に必要となるビザとパスポートですが、どのような違いと特長があるのでしょうか。 パスポートが国外へ入国・滞在する際の身分証明書になるのに対し、ビザは入国しても差し支えないことを渡航先の国の政府が証明するものです。<br />ビザは事前に書類や面接などで審査が行われ、入国しても問題無いと判断された場合のみ発行されます。<br />ただしビザは必ずしも入国を保証するものではなく、最終的な判断は入国審査官に委ねられますのでご了承ください。海外渡航の際、目的が観光や短期の商用であればパスポートのみで入国・滞在できる国もありますが、パスポートだけでなく観光ビザが必要となる国もあります。<br />また、留学や就労のために長期滞在する場合には学生ビザや就労ビザ等を渡航目的に合わせて取得しなければなりません。</p>
 <h2 class="wp-block-heading" id="lengthofstay2">電子渡航認証システムとは</h2>
-<p>電子渡航認証とはビザの取得が免除される代わりに申請が必要となるもので、いわば短期滞在用の簡易的なビザと捉えてもよいでしょう。<br />電子渡航認証は申請者が希望する外国へ入国する適格性があるかを事前に審査するシステムで、オンラインでパスポート情報や個人情報等を入力し取得します。ビザは申請から取得するまで数週間かかるのに対し、電子渡航認証は基本的に短時間で承認されます。<br />なお、電子渡航認証もビザと同様に入国を保証するものではなく、最終的な判断は入国審査官に委ねられます。多発するテロ等による情勢の変化から、電子渡航認証の取得を必要とする国が近年増えています。電子渡航認証システムは<a href="http://xs640823.xsrv.jp/eta/">カナダのeTA(イータ)</a>、アメリカのESTA(エスタ)、オーストラリアのETAS(イータス)、スリランカのETA(イーティーエー)が現在運営されており、ヨーロッパでは2022年よりETIAS(エティアス)という電子渡航認証システムが導入される予定となっています。電子渡航認証は国により滞在可能日数や有効期限が異なります。<br />観光などで渡航の際は早めに電子渡航認証を申請するようにしましょう。</p>
+<p>電子渡航認証とはビザの取得が免除される代わりに申請が必要となるもので、いわば短期滞在用の簡易的なビザと捉えてもよいでしょう。<br />電子渡航認証は申請者が希望する外国へ入国する適格性があるかを事前に審査するシステムで、オンラインでパスポート情報や個人情報等を入力し取得します。ビザは申請から取得するまで数週間かかるのに対し、電子渡航認証は基本的に短時間で承認されます。<br />なお、電子渡航認証もビザと同様に入国を保証するものではなく、最終的な判断は入国審査官に委ねられます。多発するテロ等による情勢の変化から、電子渡航認証の取得を必要とする国が近年増えています。電子渡航認証システムは<a href="/country-canada/">カナダのeTA(イータ)</a>、アメリカのESTA(エスタ)、オーストラリアのETAS(イータス)、スリランカのETA(イーティーエー)が現在運営されており、ヨーロッパでは2022年よりETIAS(エティアス)という電子渡航認証システムが導入される予定となっています。電子渡航認証は国により滞在可能日数や有効期限が異なります。<br />観光などで渡航の際は早めに電子渡航認証を申請するようにしましょう。</p>
 <picture>
 <source alt="カナダ渡航の際に必要なビザとeTA(イータ)申請について" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p01_02.webp" type="image/webp" width="640"/>
 <img alt="カナダ渡航の際に必要なビザとeTA(イータ)申請について" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p01_02.jpg" width="640"/>
@@ -83,11 +83,11 @@
 <h3 class="wp-block-heading" id="lengthofstay11">トランジットビザ</h3>
 <p>トランジットビザ(Transit Visa)はビザが免除されていない国籍の方がカナダでトランジット(飛行機の乗り換え)をする際に必要となるビザです。カナダに到着してから48時間以内に出国することが条件となります。</p>
 <h3 class="wp-block-heading" id="lengthofstay12">ワーキングホリデー</h3>
-<p>日本はカナダと<a href="http://xs640823.xsrv.jp/eta/working-holiday/index.html">ワーキングホリデー</a>協定を締結しているため、18～30歳の方であればワーキングホリデーを申請することで1年間カナダに滞在することが可能です。ワーキングホリデーを利用することで観光や就学(6か月以内)、ホームステイ、アルバイトなど自由に過ごすことが認められています。</p>
+<p>日本はカナダと<a href="/canada-working-holiday/">ワーキングホリデー</a>協定を締結しているため、18～30歳の方であればワーキングホリデーを申請することで1年間カナダに滞在することが可能です。ワーキングホリデーを利用することで観光や就学(6か月以内)、ホームステイ、アルバイトなど自由に過ごすことが認められています。</p>
 <p>以上のようにカナダでは渡航目的により様々なビザが用意されています。すべてオンラインにて申請が可能ですが、eTA(イータ)申請とは異なり多くの書類が必要となります。<br />また、カナダのビザ申請にはバイオメトリクス(個人識別情報)の登録がほとんどのケースで必須となっています。日本ではカナダビザ申請センター(東京都港区に1か所のみ)にて顔写真撮影と指紋採取が行われ、カナダ政府へ個人識別情報として提供されます。</p>
 <h2 class="wp-block-heading" id="lengthofstay13">ワーキングホリデー制度とは</h2>
 <p>日本とワーキングホリデー協定を結んでいる国・地域では、青年が相手国・地域で一定期間を過ごすことが可能となっています。<br />広い国際的視野をもった青年を育成し、両国・地域間の相互理解、友好関係を促進することが目的とされた制度です。<br />滞在中には旅行することに加えて短期の就学や滞在費を賄う為のアルバイトをすることが許可されています。<br />入国から3～4か月まで語学学校に通い、その後アルバイトや旅行、ボランティアなどをして過ごすことが一般的となっています。<br />なお、ワーキングホリデービザはあくまでも観光を目的としたビザなので、留学や就労を第一の目的とした渡航では利用できません。</p>
-<p>参考ページ：<a href="http://xs640823.xsrv.jp/eta/working-holiday/index.html">カナダのワーキングホリデー</a></p>
+<p>参考ページ：<a href="/canada-working-holiday/">カナダのワーキングホリデー</a></p>
 <h3 class="wp-block-heading" id="lengthofstay14">日本とワーキングホリデー協定を結んでいる国</h3>
 <div class="Class_J country-list"><ul><li>カナダ</li><li>オーストラリア</li><li>ニュージーランド</li><li>韓国</li><li>フランス</li><li>ドイツ</li><li>イギリス</li><li>アイルランド</li><li>デンマーク</li><li>台湾</li><li>香港</li><li>ノルウェー</li><li>ポーランド</li><li>ポルトガル</li><li>スロバキア</li><li>オーストリア</li><li>ハンガリー</li><li>スペイン</li><li>アルゼンチン</li><li>チェコ</li><li>チリ</li><li>アイスランド</li><li>リトアニア</li>
 <li>スウェーデン</li>
@@ -157,19 +157,19 @@
  <section class="related-articles">
  <h2 class="related-title">関連記事</h2>
  <div class="related-grid">
- <a href="canada-eta.html" class="related-card">
+ <a href="/canada-eta-about/" class="related-card">
  <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
  <p>カナダの電子渡航認証eTA(イータ)とは</p>
  </a>
- <a href="canada-vancouver.html" class="related-card">
+ <a href="/canada-vancouver-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
  <p>カナダ・バンクーバーの観光スポット13選</p>
  </a>
- <a href="canada-toronto.html" class="related-card">
+ <a href="/canada-toronto-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
  <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
  </a>
- <a href="canada-aurora.html" class="related-card">
+ <a href="/canada-aurora-viewing/" class="related-card">
  <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
  <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
  </a>
@@ -177,6 +177,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

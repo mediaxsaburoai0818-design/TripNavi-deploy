@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4c4b,<div class="page-layout">
+2:T4c30,<div class="page-layout">
  <main class="page-main">
- <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダビザ申請センター・カナダ大使館について</div>
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ カナダビザ申請センター・カナダ大使館について</div>
 
  <article class="article-detail">
  <span class="card-tag" data-color="orange">観光・グルメ</span>
@@ -53,7 +53,7 @@
 <img alt="カナダビザ申請センター・カナダ大使館について" class="img_big m20-t m20-b" decoding="async" height="384" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p31_01.jpg" width="640"/>
 </picture>
 <h2 class="wp-block-heading" id="embassy1">ビザ申請センターについて</h2>
-<p>カナダへ渡航する日本国籍者を含む外国人は、事前にビザを取得する必要があります。ビザの取得が免除される条件を満たしている対象者は電子渡航認証システム<a class="link-no-color" href="http://xs640823.xsrv.jp/eta/">eTA(イータ)申請</a>の取得のみで渡航することも可能ですが、eTA(イータ)申請の取得条件に該当しない方またはeTA(イータ)申請の取得を拒否された方はカナダへの渡航内容に沿ったビザを取得する必要があります。<br /> 2012年4月末日にて在日カナダ大使館における査証(ビザ)部が閉鎖されたことにより、日本国内のカナダビザに関する業務は在フィリピンカナダ大使館(マニラ)へと移行されました。<br />日本におけるカナダビザに関する業務は民間のVFSグループに委託されておりカナダビザ申請センター(CVAC)として運営を行っております。<br />ビザ申請センターでは就学許可証(学生ビザ)、就労許可証(就労ビザ)など一時滞在で必要となるビザとカナダ永住者渡航証(トラベルドキュメント)の申請受付、バイオメトリクスの登録などビザの基本的な情報提供が中心となっています。<br />ビザ申請に関するアドバイス等は一切受け付けておりませんのでご了承ください。<br />なお、カナダの各種ビザはオンラインから申請が可能です。ビザ申請センターへ出向かなくても申請手続をすることが可能ですが、バイオメトリクスの登録については必ずビザ申請センターにて行う必要があります。</p>
+<p>カナダへ渡航する日本国籍者を含む外国人は、事前にビザを取得する必要があります。ビザの取得が免除される条件を満たしている対象者は電子渡航認証システム<a class="link-no-color" href="/country-canada/">eTA(イータ)申請</a>の取得のみで渡航することも可能ですが、eTA(イータ)申請の取得条件に該当しない方またはeTA(イータ)申請の取得を拒否された方はカナダへの渡航内容に沿ったビザを取得する必要があります。<br /> 2012年4月末日にて在日カナダ大使館における査証(ビザ)部が閉鎖されたことにより、日本国内のカナダビザに関する業務は在フィリピンカナダ大使館(マニラ)へと移行されました。<br />日本におけるカナダビザに関する業務は民間のVFSグループに委託されておりカナダビザ申請センター(CVAC)として運営を行っております。<br />ビザ申請センターでは就学許可証(学生ビザ)、就労許可証(就労ビザ)など一時滞在で必要となるビザとカナダ永住者渡航証(トラベルドキュメント)の申請受付、バイオメトリクスの登録などビザの基本的な情報提供が中心となっています。<br />ビザ申請に関するアドバイス等は一切受け付けておりませんのでご了承ください。<br />なお、カナダの各種ビザはオンラインから申請が可能です。ビザ申請センターへ出向かなくても申請手続をすることが可能ですが、バイオメトリクスの登録については必ずビザ申請センターにて行う必要があります。</p>
 <h3 class="wp-block-heading" id="embassy2">バイオメトリクス登録とは</h3>
 <p>カナダのビザを取得するにはバイオメトリクス(個人識別情報)の登録がほとんどのケースで必要となります。<br />就学許可証、就労許可証、訪問者ビザの申請者は10年に一度、永住権申請者は申請の都度バイオメトリクスを提供しなければなりません。<br />日本ではカナダビザ申請センター(東京都港区)にて顔写真撮影と指紋採取が行われ、個人識別情報としてカナダ政府へ提供されます。</p>
 <h3 class="wp-block-heading" id="embassy3">カナダビザ申請センター</h3>
@@ -132,19 +132,19 @@
  <section class="related-articles">
  <h2 class="related-title">関連記事</h2>
  <div class="related-grid">
- <a href="canada-eta.html" class="related-card">
+ <a href="/canada-eta-about/" class="related-card">
  <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
  <p>カナダの電子渡航認証eTA(イータ)とは</p>
  </a>
- <a href="canada-vancouver.html" class="related-card">
+ <a href="/canada-vancouver-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
  <p>カナダ・バンクーバーの観光スポット13選</p>
  </a>
- <a href="canada-toronto.html" class="related-card">
+ <a href="/canada-toronto-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
  <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
  </a>
- <a href="canada-aurora.html" class="related-card">
+ <a href="/canada-aurora-viewing/" class="related-card">
  <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
  <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
  </a>
@@ -152,6 +152,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T6154,<div class="page-layout">
+2:T60ef,<div class="page-layout">
  <main class="page-main">
- <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダの永住権について</div>
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ カナダの永住権について</div>
 
  <article class="article-detail">
  <span class="card-tag" data-color="orange">観光・グルメ</span>
@@ -117,7 +117,7 @@
 <p><ul><li>カナダ国内外で取得した高校卒業証書または同等の証明書を所持していること。</li><li>有効な労働許可証を所持していること、介護者として規定のスキルを保有していること。</li><li>介護職の実務経験があり、労働許可証の延長または再申請を済ませている方。</li><li>過去4年間のうち2年以上にわたり、カナダ国内で在宅のチャイルドケアワーカーとして常勤経験がある方。</li><li>指定機関による英語またはフランス語の語学テストを受験し、必要な語学力を満たしていると判断された方。(Canadian Language Benchmarkでレベル5以上のスコアを取得していること)</li></ul></p>
 </div>
 <h2 class="wp-block-heading" id="permanent16">カナダへ渡航する際はeTA(イータ)の申請が必要</h2>
-<p>カナダでの長期滞在を希望する方はビザの取得が必要となりますが、短期のビジネスや観光旅行でカナダへ訪れる場合は<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)</a>を申請することで渡航が可能です。eTA(イータ)はカナダ政府およびIRCC(カナダ移民・難民・市民権省)が定める入国制度で、外国籍の渡航者が取得しなければならない渡航認証制度です。日本を含むビザ免除プログラムに該当する国籍の方のみ申請することができ、カナダへ渡航する前にオンラインにて申請する必要があります。<a href="http://xs640823.xsrv.jp/eta/reapplication/index.html">eTA(イータ)の有効期限</a>は5年間となり、取得した方は1回の渡航で最大180日間の滞在が認められます。ただし、180日以内の滞在であってもカナダ国内で就労を予定している方はeTA(イータ)の対象外となり、ビザの申請が必要となりますのでご注意ください。日本国内のカナダビザ申請窓口は「<a href="http://xs640823.xsrv.jp/eta/embassy/index.html">カナダビザ申請センター・カナダ大使館について</a>」のページをご確認ください。</p>
+<p>カナダでの長期滞在を希望する方はビザの取得が必要となりますが、短期のビジネスや観光旅行でカナダへ訪れる場合は<a href="/canada-eta-about/">eTA(イータ)</a>を申請することで渡航が可能です。eTA(イータ)はカナダ政府およびIRCC(カナダ移民・難民・市民権省)が定める入国制度で、外国籍の渡航者が取得しなければならない渡航認証制度です。日本を含むビザ免除プログラムに該当する国籍の方のみ申請することができ、カナダへ渡航する前にオンラインにて申請する必要があります。<a href="/canada-eta-renewal/">eTA(イータ)の有効期限</a>は5年間となり、取得した方は1回の渡航で最大180日間の滞在が認められます。ただし、180日以内の滞在であってもカナダ国内で就労を予定している方はeTA(イータ)の対象外となり、ビザの申請が必要となりますのでご注意ください。日本国内のカナダビザ申請窓口は「<a href="/canada-visa-center/">カナダビザ申請センター・カナダ大使館について</a>」のページをご確認ください。</p>
 
  </div>
  </article>
@@ -125,19 +125,19 @@
  <section class="related-articles">
  <h2 class="related-title">関連記事</h2>
  <div class="related-grid">
- <a href="canada-eta.html" class="related-card">
+ <a href="/canada-eta-about/" class="related-card">
  <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
  <p>カナダの電子渡航認証eTA(イータ)とは</p>
  </a>
- <a href="canada-vancouver.html" class="related-card">
+ <a href="/canada-vancouver-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
  <p>カナダ・バンクーバーの観光スポット13選</p>
  </a>
- <a href="canada-toronto.html" class="related-card">
+ <a href="/canada-toronto-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
  <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
  </a>
- <a href="canada-aurora.html" class="related-card">
+ <a href="/canada-aurora-viewing/" class="related-card">
  <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
  <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
  </a>
@@ -145,6 +145,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

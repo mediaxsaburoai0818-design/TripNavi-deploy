@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T43c1,<div class="page-layout">
+2:T43ac,<div class="page-layout">
     <main class="page-main">
-      <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-usa.html">アメリカ</a> ＞ <a href="tips.html">入国・ビザガイド</a> ＞ ビザ免除プログラム(VWP)とは</div>
+      <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/usa-esta-application/">アメリカ</a> ＞ <a href="/">入国・ビザガイド</a> ＞ ビザ免除プログラム(VWP)とは</div>
 
       <article class="article-detail">
         <span class="card-tag">入国・ビザガイド</span>
@@ -166,19 +166,19 @@
       <section class="related-articles">
         <h2 class="related-title">関連記事</h2>
         <div class="related-grid">
-          <a href="usa-transit.html" class="related-card">
+          <a href="/usa-esta-application/" class="related-card">
             <img src="https://images.unsplash.com/photo-1556388158-158ea5ccacbd?w=300&h=180&fit=crop" alt="トランジットESTA" />
             <p>アメリカでの乗り継ぎ(トランジット)にもESTA申請は必要！</p>
           </a>
-          <a href="usa-news-latest.html" class="related-card">
+          <a href="/usa-esta-application/" class="related-card">
             <img src="https://images.unsplash.com/photo-1508433957232-3107f5fd5995?w=300&h=180&fit=crop" alt="アメリカ入国最新情報" />
             <p>アメリカ入国・渡航に関する最新情報【2026年最新】</p>
           </a>
-          <a href="usa-losangeles-immigration.html" class="related-card">
+          <a href="/usa-esta-application/" class="related-card">
             <img src="https://images.unsplash.com/photo-1534190239940-9ba8944ea261?w=300&h=180&fit=crop" alt="ロサンゼルス入国審査" />
             <p>ロサンゼルス国際空港(LAX)入国審査の流れを徹底解説</p>
           </a>
-          <a href="usa-hawaii-news.html" class="related-card">
+          <a href="/usa-hawaii-esta/" class="related-card">
             <img src="https://images.unsplash.com/photo-1507876466758-bc54f384809c?w=300&h=180&fit=crop" alt="ハワイ渡航情報" />
             <p>ハワイ入国・渡航に関する最新情報【2026年3月最新】</p>
           </a>
@@ -186,6 +186,6 @@
       </section>
     </main>
     <div id="sidebar-mount"></div>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T609a,<div class="page-layout">
+2:T6051,<div class="page-layout">
  <main class="page-main">
- <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダ イエローナイフの観光スポット13選とオーロラのベストシーズン</div>
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ カナダ イエローナイフの観光スポット13選とオーロラのベストシーズン</div>
 
  <article class="article-detail">
  <span class="card-tag" data-color="orange">観光・グルメ</span>
@@ -72,7 +72,7 @@
 <p><a href="https://www.explorerhotel.ca/" rel="noreferrer noopener" target="_blank">Explorer Hotel</a>の中にあるレストラン<a href="https://www.explorerhotel.ca/traders-grill.htm" rel="noreferrer noopener" target="_blank">TRADER’S GRILL</a>は、カナダ北部の料理を味わえる高級店です。北極イワナやヘラジカのステーキなどイエローナイフならではの料理を楽しむことができ、特にシーフードチャウダーが人気メニューとなっています。<br /><strong>所在地：</strong>4825 49 Avenue Yellowknife, Northwest Territories X1A 2R3, Canada<br /><strong>電話：</strong>(867) 873-3531</p>
 </div>
 <h3 class="wp-block-heading" id="yellowknife1-4">イエローナイフと日本の時差</h3>
-<p>カナダは6つのタイムゾーンに分類され、イエローナイフがあるノースウエスト準州はアルバータ州やブリティッシュコロンビア州南東部と同様の“山岳部時間“に該当します。日本とは16時間(サマータイム中は15時間)の時差があります。<br />カナダと日本の時差について詳しくは「<a href="http://xs640823.xsrv.jp/eta/time_difference/index.html">カナダ主要都市と日本の時差・サマータイムについて</a>」をご確認ください。</p>
+<p>カナダは6つのタイムゾーンに分類され、イエローナイフがあるノースウエスト準州はアルバータ州やブリティッシュコロンビア州南東部と同様の“山岳部時間“に該当します。日本とは16時間(サマータイム中は15時間)の時差があります。<br />カナダと日本の時差について詳しくは「<a href="/canada-time-difference/">カナダ主要都市と日本の時差・サマータイムについて</a>」をご確認ください。</p>
 <picture>
 <source alt="yellowknife2" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/d8aee61987b480e76ca019cb00dc4283.webp" type="image/webp" width="640"/><img alt="yellowknife2" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/d8aee61987b480e76ca019cb00dc4283.jpg" width="640"/>
 </picture>
@@ -119,7 +119,7 @@
 <h3 class="wp-block-heading" id="yellowknife2-13">グレートスレーブ湖 / Great Slave Lake</h3>
 <p><a href="https://spectacularnwt.com/attraction/great-slave-lake" rel="noreferrer noopener" target="_blank">グレートスレーブ湖</a>はノースウェスト準州の南部に位置します。カナダ国内ではグレートベア湖に次いで2番目に大きく、最大水深は614メートルあり北アメリカでは最も深い湖です。冬(1～3月)には“アイスロード“と呼ばれる氷の道となり、車両が走行する道路になります。</p>
 <h2 class="wp-block-heading" id="yellowknife3">カナダ観光をする際に必要な手続き</h2>
-<p>イエローナイフなどカナダへ観光を目的に入国する際は、eTA(イータ)の取得が必須となります。eTA(イータ)は観光や短期商用などを目的にカナダを訪れる際に必要となる電子渡航認証です。有効期限は申請日から5年間となり、1度の渡航につき最長180日間の滞在が認められます。イエローナイフへの旅行を計画中の方は、渡航前に必ずeTA(イータ)申請の手続きを行いましょう。<br />eTA(イータ)に関する詳細は「<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)とは</a>」をご確認ください。</p>
+<p>イエローナイフなどカナダへ観光を目的に入国する際は、eTA(イータ)の取得が必須となります。eTA(イータ)は観光や短期商用などを目的にカナダを訪れる際に必要となる電子渡航認証です。有効期限は申請日から5年間となり、1度の渡航につき最長180日間の滞在が認められます。イエローナイフへの旅行を計画中の方は、渡航前に必ずeTA(イータ)申請の手続きを行いましょう。<br />eTA(イータ)に関する詳細は「<a href="/canada-eta-about/">eTA(イータ)とは</a>」をご確認ください。</p>
 
  </div>
  </article>
@@ -127,19 +127,19 @@
  <section class="related-articles">
  <h2 class="related-title">関連記事</h2>
  <div class="related-grid">
- <a href="canada-eta.html" class="related-card">
+ <a href="/canada-eta-about/" class="related-card">
  <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
  <p>カナダの電子渡航認証eTA(イータ)とは</p>
  </a>
- <a href="canada-vancouver.html" class="related-card">
+ <a href="/canada-vancouver-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
  <p>カナダ・バンクーバーの観光スポット13選</p>
  </a>
- <a href="canada-toronto.html" class="related-card">
+ <a href="/canada-toronto-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
  <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
  </a>
- <a href="canada-aurora.html" class="related-card">
+ <a href="/canada-aurora-viewing/" class="related-card">
  <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
  <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
  </a>
@@ -147,6 +147,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

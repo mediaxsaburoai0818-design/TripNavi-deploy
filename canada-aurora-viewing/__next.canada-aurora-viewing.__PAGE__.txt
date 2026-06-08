@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T51a8,<div class="page-layout">
+2:T5151,<div class="page-layout">
  <main class="page-main">
- <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</div>
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</div>
 
  <article class="article-detail">
  <span class="card-tag" data-color="orange">観光・グルメ</span>
@@ -45,7 +45,7 @@
 <picture>
 <source alt="カナダのオーロラ" class="img_big m20-t m20-b lazyloaded" height="426" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/08/51a37c8fa174a7db2ba308d437d1e54b.webp" type="image/webp" width="640"/><img alt="カナダのオーロラ" class="img_big m20-t m20-b" decoding="async" height="426" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/08/3409231b22e13fbe91ff857c285f178d.jpg" width="640"/>
 </picture>
-<p>広大な国土と雄大な自然に恵まれたカナダは、年間を通して幻想的なオーロラが観賞できる地としても知られています。特に<a href="http://xs640823.xsrv.jp/eta/news/detail/990100/northwest-territories/">ノースウエスト準州</a>のイエローナイフや<a href="http://xs640823.xsrv.jp/eta/news/detail/990100/yukon.html">ユーコン準州</a>のホワイトホースでは高確率でオーロラが観賞できるため、世界中から多くの観光客が訪れます。このページではカナダでオーロラを鑑賞できるベストシーズンや、鑑賞の際における注意点などについて解説します。</p>
+<p>広大な国土と雄大な自然に恵まれたカナダは、年間を通して幻想的なオーロラが観賞できる地としても知られています。特に<a href="/canada-yellowknife-aurora/">ノースウエスト準州</a>のイエローナイフや<a href="/canada-yellowknife-aurora/">ユーコン準州</a>のホワイトホースでは高確率でオーロラが観賞できるため、世界中から多くの観光客が訪れます。このページではカナダでオーロラを鑑賞できるベストシーズンや、鑑賞の際における注意点などについて解説します。</p>
 <h2 class="wp-block-heading" id="aurora1">カナダでオーロラ鑑賞ができる場所</h2>
 <p>オーロラは地球の磁気と太陽が放出するプラズマ(電気を帯びた粒子)が衝突することで放電し、そのエネルギーが光となって帯状に映る自然現象です。プラズマは地球の表面が発する磁場を横断して移動することが困難なため大半の地域で弾かれてしまいますが、北極と南極の磁場発生源ではプラズマが入り込みやすい環境にあるためオーロラの発生率が高くなります。オーロラが発生するエリアは「オーロラベルト」とよばれ、緯度60～70度の範囲にわたり帯状に広がります。カナダはオーロラベルトの直下にあるため、高い確率でオーロラを鑑賞することができる世界でも数少ない国です。</p>
 <h3 class="wp-block-heading" id="aurora2">高確率でオーロラが出現する「イエローナイフ」</h3>
@@ -95,19 +95,19 @@
  <section class="related-articles">
  <h2 class="related-title">関連記事</h2>
  <div class="related-grid">
- <a href="canada-eta.html" class="related-card">
+ <a href="/canada-eta-about/" class="related-card">
  <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
  <p>カナダの電子渡航認証eTA(イータ)とは</p>
  </a>
- <a href="canada-vancouver.html" class="related-card">
+ <a href="/canada-vancouver-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
  <p>カナダ・バンクーバーの観光スポット13選</p>
  </a>
- <a href="canada-toronto.html" class="related-card">
+ <a href="/canada-toronto-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
  <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
  </a>
- <a href="canada-aurora.html" class="related-card">
+ <a href="/canada-aurora-viewing/" class="related-card">
  <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
  <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
  </a>
@@ -115,6 +115,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

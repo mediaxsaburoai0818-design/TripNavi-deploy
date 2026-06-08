@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T63da,<div class="page-layout">
+2:T636e,<div class="page-layout">
  <main class="page-main">
- <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 【2022年最新】カナダのおすすめ人気観光地10選</div>
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ 【2022年最新】カナダのおすすめ人気観光地10選</div>
 
  <article class="article-detail">
  <span class="card-tag" data-color="orange">観光・グルメ</span>
@@ -84,13 +84,13 @@
 <h3 class="wp-block-heading" id="attractions15">期限が有効なパスポートを用意する</h3>
 <p>カナダへ渡航する際にパスポートの有効期限を確認しておきましょう。原則としてカナダを出国する予定日までパスポートの期限が有効であれば渡航が認められますが、期限に余裕がない場合はパスポートの更新を推奨します。パスポートの更新は残存期間が1年未満となった方が対象となります。目安としてパスポートの残存期間が半年未満の場合は、更新を済ませた後にカナダ渡航を計画することをお勧めします。なお、パスポートを所有していない方は、住民登録をしている都道府県内のパスポートセンターにて申請をお願いします。</p>
 <h3 class="wp-block-heading" id="attractions16">渡航前にeTA（イータ）を申請する</h3>
-<p>観光等を目的としてカナダへ渡航する全ての方は、電子渡航認証制度のeTA（イータ）を申請することが必須となります。eTA（イータ）はカナダ政府および移民局が定める渡航制度で、少なくとも出発予定の3日前までに申請を済ませておくことを推奨しています。日本から空路でカナダへ渡航する方は、年齢を問わずeTA（イータ）申請の対象となります。アメリカから陸路でカナダへ入国する際は、eTA（イータ）の申請は必要ありません。eTA（イータ）に関する詳細は<a href="http://xs640823.xsrv.jp/eta/service/index.html">こちら</a>をご確認ください。</p>
+<p>観光等を目的としてカナダへ渡航する全ての方は、電子渡航認証制度のeTA（イータ）を申請することが必須となります。eTA（イータ）はカナダ政府および移民局が定める渡航制度で、少なくとも出発予定の3日前までに申請を済ませておくことを推奨しています。日本から空路でカナダへ渡航する方は、年齢を問わずeTA（イータ）申請の対象となります。アメリカから陸路でカナダへ入国する際は、eTA（イータ）の申請は必要ありません。eTA（イータ）に関する詳細は<a href="/canada-eta-about/">こちら</a>をご確認ください。</p>
 <h3 class="wp-block-heading" id="attractions17">海外旅行保険に加入する</h3>
 <p>カナダへの旅行が決まった方は、滞在期間に適用する海外旅行保険（海外旅行傷害保険）について確認しましょう。海外旅行保険（海外旅行傷害保険）とは、海外への渡航を目的として自宅を出発してから帰宅するまでの間に起こったトラブルを補償する保険制度です。カナダ旅行の際は自身の病気や怪我、他人が所有する器物への損害に対する賠償、自身が所有する物品や財産の破損や盗難を補償する保険へ加入することを推奨します。</p>
 <h3 class="wp-block-heading" id="attractions18">ツアーの催行時期やフライト予定を確認する</h3>
-<p>新型コロナウイルス感染拡大の影響により、各航空会社は日本-カナダ間における直行便の運休や減便を行っています。また、旅行会社ではツアーの参加者に対し、状況を鑑みて中止や延期を告知する場合があります。ツアーを利用してカナダへ渡航する方は、必ず催行予定をご確認ください。現在、カナダ連邦政府および日本政府は不要不急の渡航を中止するよう要請しています。カナダ渡航における最新情報と入国制限は<a href="http://xs640823.xsrv.jp/eta/news/detail/990100.html">こちら</a>をご確認ください。</p>
+<p>新型コロナウイルス感染拡大の影響により、各航空会社は日本-カナダ間における直行便の運休や減便を行っています。また、旅行会社ではツアーの参加者に対し、状況を鑑みて中止や延期を告知する場合があります。ツアーを利用してカナダへ渡航する方は、必ず催行予定をご確認ください。現在、カナダ連邦政府および日本政府は不要不急の渡航を中止するよう要請しています。カナダ渡航における最新情報と入国制限は<a href="/country-canada/">こちら</a>をご確認ください。</p>
 <h2 class="wp-block-heading" id="attractions19">カナダ旅行にはeTA（イータ）の申請が必要</h2>
-<p>日本国籍の方が空路でカナダへ渡航する際は、年齢を問わず電子渡航認証のeTA（イータ）を申請する必要があります。eTA（イータ）はカナダ連邦政府および移民局が定める入国制度で、少なくとも出発3日前までにオンラインにて申請することを推奨しています。一般的な観光旅行を目的としてカナダへ渡航する場合は、ビザではなくeTA（イータ）を申請することで滞在が認められます。<br />eTA（イータ）の有効期限は5年間で、有効期限内であればビザを取得せずに何度でもカナダへの渡航が認められます。eTA（イータ）を利用して渡航する方は最長6か月の滞在が可能ですが、短期の留学や就労を目的として渡航する場合は申請の対象外となります。6か月以上の滞在やカナダ国内での留学や就労を希望する方は、目的に合わせたビザの取得が必須となります。詳しくは「<a href="http://xs640823.xsrv.jp/eta/lengthofstay/index.html">eTA(イータ)とビザの違いとは</a>」をご確認ください。</p>
+<p>日本国籍の方が空路でカナダへ渡航する際は、年齢を問わず電子渡航認証のeTA（イータ）を申請する必要があります。eTA（イータ）はカナダ連邦政府および移民局が定める入国制度で、少なくとも出発3日前までにオンラインにて申請することを推奨しています。一般的な観光旅行を目的としてカナダへ渡航する場合は、ビザではなくeTA（イータ）を申請することで滞在が認められます。<br />eTA（イータ）の有効期限は5年間で、有効期限内であればビザを取得せずに何度でもカナダへの渡航が認められます。eTA（イータ）を利用して渡航する方は最長6か月の滞在が可能ですが、短期の留学や就労を目的として渡航する場合は申請の対象外となります。6か月以上の滞在やカナダ国内での留学や就労を希望する方は、目的に合わせたビザの取得が必須となります。詳しくは「<a href="/canada-eta-validity/">eTA(イータ)とビザの違いとは</a>」をご確認ください。</p>
 
  </div>
  </article>
@@ -98,19 +98,19 @@
  <section class="related-articles">
  <h2 class="related-title">関連記事</h2>
  <div class="related-grid">
- <a href="canada-eta.html" class="related-card">
+ <a href="/canada-eta-about/" class="related-card">
  <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
  <p>カナダの電子渡航認証eTA(イータ)とは</p>
  </a>
- <a href="canada-vancouver.html" class="related-card">
+ <a href="/canada-vancouver-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
  <p>カナダ・バンクーバーの観光スポット13選</p>
  </a>
- <a href="canada-toronto.html" class="related-card">
+ <a href="/canada-toronto-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
  <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
  </a>
- <a href="canada-aurora.html" class="related-card">
+ <a href="/canada-aurora-viewing/" class="related-card">
  <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
  <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
  </a>
@@ -118,6 +118,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

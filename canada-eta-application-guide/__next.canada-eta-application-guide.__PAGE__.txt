@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T3419,<div class="page-layout">
+2:T33fd,<div class="page-layout">
  <main class="page-main">
- <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダeTA(イータ)申請の婚姻状況と職業の申請方法</div>
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ カナダeTA(イータ)申請の婚姻状況と職業の申請方法</div>
 
  <article class="article-detail">
  <span class="card-tag" data-color="orange">観光・グルメ</span>
@@ -95,7 +95,7 @@
 <h4 class="wp-block-heading">パスポート情報</h4>
 <p>パスポート番号、パスポート種別、パスポート発行日と有効期限、カナダのビザ申請有無、他国籍の有無、渡航日の登録</p>
 <h4 class="wp-block-heading">連絡先情報</h4>
-<p>居住地の住所、Eメールアドレス<br />上記を入力後、カナダ渡航に関する犯罪歴や健康状態についての質問事項と誓約事項・利用規約を確認してください。申請内容に間違いが無いか確認し、申請料金を支払うとeTA(イータ)申請が完了します。eTA(イータ)申請方法は<a href="http://xs640823.xsrv.jp/eta/flow/index.html">カナダ電子渡航認証eTA(イータ)申請方法の手順と記入例</a>をご確認ください。</p>
+<p>居住地の住所、Eメールアドレス<br />上記を入力後、カナダ渡航に関する犯罪歴や健康状態についての質問事項と誓約事項・利用規約を確認してください。申請内容に間違いが無いか確認し、申請料金を支払うとeTA(イータ)申請が完了します。eTA(イータ)申請方法は<a href="/canada-eta-application-guide/">カナダ電子渡航認証eTA(イータ)申請方法の手順と記入例</a>をご確認ください。</p>
 
  </div>
 
@@ -114,19 +114,19 @@
  <section class="related-articles">
  <h2 class="related-title">関連記事</h2>
  <div class="related-grid">
- <a href="canada-eta.html" class="related-card">
+ <a href="/canada-eta-about/" class="related-card">
  <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
  <p>カナダの電子渡航認証eTA(イータ)とは</p>
  </a>
- <a href="canada-vancouver.html" class="related-card">
+ <a href="/canada-vancouver-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
  <p>カナダ・バンクーバーの観光スポット13選</p>
  </a>
- <a href="canada-toronto.html" class="related-card">
+ <a href="/canada-toronto-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
  <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
  </a>
- <a href="canada-aurora.html" class="related-card">
+ <a href="/canada-aurora-viewing/" class="related-card">
  <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
  <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
  </a>
@@ -134,6 +134,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

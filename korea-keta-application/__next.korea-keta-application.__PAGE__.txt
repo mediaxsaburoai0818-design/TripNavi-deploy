@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
 4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4896,<div class="page-layout">
+2:T4878,<div class="page-layout">
     <main class="page-main">
       <div class="breadcrumb">
-        <a href="index.html">ホーム</a> ＞ 
+        <a href="/">ホーム</a> ＞ 
         <a href="#korea">韓国</a> ＞ 
         <a href="#visa-info">渡航ノウハウ</a> ＞ 
         K-ETAの申請方法
@@ -265,28 +265,28 @@
         <div class="related-articles">
           <h3 class="related-title">関連記事</h3>
           <div class="related-grid">
-            <a href="usa-esta-application.html" class="related-card">
+            <a href="/usa-esta-application/" class="related-card">
               <div class="related-card-body">
                 <span class="related-card-tag">USA渡航ノウハウ</span>
                 <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
               </div>
             </a>
             
-            <a href="uk-eta-application.html" class="related-card">
+            <a href="/uk-eta-application/" class="related-card">
               <div class="related-card-body">
                 <span class="related-card-tag">イギリス渡航ノウハウ</span>
                 <h3>イギリスETAとは？申請方法を解説</h3>
               </div>
             </a>
             
-            <a href="canada-eta-about.html" class="related-card">
+            <a href="/canada-eta-about/" class="related-card">
               <div class="related-card-body">
                 <span class="related-card-tag">カナダeTA</span>
                 <h3>カナダの電子渡航認証eTA（イータ）とは</h3>
               </div>
             </a>
             
-            <a href="australia-etas-about.html" class="related-card">
+            <a href="/australia-etas-about/" class="related-card">
               <div class="related-card-body">
                 <span class="related-card-tag">オーストラリア</span>
                 <h3>ETAS（イータス）とは - オーストラリア観光ビザ</h3>
@@ -312,7 +312,7 @@
         <h3 class="sidebar-title">人気記事ランキング</h3>
         <ol class="sidebar-ranking">
           <li>
-            <a href="canada-eta-about.html">
+            <a href="/canada-eta-about/">
               <span class="rank-num">1</span>
               <div class="rank-info">
                 <span class="rank-tag">カナダeTA</span>
@@ -321,7 +321,7 @@
             </a>
           </li>
           <li>
-            <a href="australia-etas-about.html">
+            <a href="/australia-etas-about/">
               <span class="rank-num">2</span>
               <div class="rank-info">
                 <span class="rank-tag">オーストラリア</span>
@@ -330,7 +330,7 @@
             </a>
           </li>
           <li>
-            <a href="usa-esta-application.html">
+            <a href="/usa-esta-application/">
               <span class="rank-num">3</span>
               <div class="rank-info">
                 <span class="rank-tag">USA ESTA</span>
@@ -341,6 +341,6 @@
         </ol>
       </div>
     </aside>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T6d52,<div class="page-layout">
+2:T6d27,<div class="page-layout">
  <main class="page-main">
- <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ カナダ・バンクーバーの観光スポット13選 見どころやおすすめ料理を紹介</div>
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ カナダ・バンクーバーの観光スポット13選 見どころやおすすめ料理を紹介</div>
 
  <article class="article-detail">
  <span class="card-tag" data-color="orange">観光・グルメ</span>
@@ -120,7 +120,7 @@
 <div class="Class_AB">
 <strong>所在地：</strong>750 Hornby Street, Vancouver, BC V6Z 2H7<br /><strong>入場料：</strong>5歳以下 無料、6～12歳 6.50ドル、学生 18ドル、大人 24ドル、シニア 20ドル<br /><strong>公式サイト：</strong><a href="https://www.vanartgallery.bc.ca/" rel="noreferrer noopener" target="_blank">https://www.vanartgallery.bc.ca/</a></div>
 <h2 class="wp-block-heading" id="vancouver4">カナダ観光をする際に必要な手続き</h2>
-<p>バンクーバーでの観光などを目的としてカナダへ渡航する際は、eTA(イータ)の申請手続きが必須となります。eTA(イータ)は年齢を問わず申請が必要となる電子渡航認証です。家族やグループでカナダへ渡航する際は、必ず全員のeTA(イータ)申請をお願いします。申請手続きの際は期限が有効なパスポートのほか、クレジットカード、確実に受信が可能なメールアドレスをご用意ください。eTA(イータ)を管轄するIRCC(カナダ移民・難民・市民権省)では、出発3日前までにオンラインにて申請を行うことを推奨しています。<br />eTA(イータ)に関する詳細は「<a href="http://xs640823.xsrv.jp/eta/service/index.html">eTA(イータ)とは</a>」をご確認ください。</p>
+<p>バンクーバーでの観光などを目的としてカナダへ渡航する際は、eTA(イータ)の申請手続きが必須となります。eTA(イータ)は年齢を問わず申請が必要となる電子渡航認証です。家族やグループでカナダへ渡航する際は、必ず全員のeTA(イータ)申請をお願いします。申請手続きの際は期限が有効なパスポートのほか、クレジットカード、確実に受信が可能なメールアドレスをご用意ください。eTA(イータ)を管轄するIRCC(カナダ移民・難民・市民権省)では、出発3日前までにオンラインにて申請を行うことを推奨しています。<br />eTA(イータ)に関する詳細は「<a href="/canada-eta-about/">eTA(イータ)とは</a>」をご確認ください。</p>
 
  </div>
  </article>
@@ -128,19 +128,19 @@
  <section class="related-articles">
  <h2 class="related-title">関連記事</h2>
  <div class="related-grid">
- <a href="canada-eta.html" class="related-card">
+ <a href="/canada-eta-about/" class="related-card">
  <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
  <p>カナダの電子渡航認証eTA(イータ)とは</p>
  </a>
- <a href="canada-vancouver.html" class="related-card">
+ <a href="/canada-vancouver-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
  <p>カナダ・バンクーバーの観光スポット13選</p>
  </a>
- <a href="canada-toronto.html" class="related-card">
+ <a href="/canada-toronto-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
  <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
  </a>
- <a href="canada-aurora.html" class="related-card">
+ <a href="/canada-aurora-viewing/" class="related-card">
  <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
  <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
  </a>
@@ -148,6 +148,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

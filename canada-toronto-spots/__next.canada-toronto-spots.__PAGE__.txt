@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T54d0,<div class="page-layout">
+2:T53d8,<div class="page-layout">
  <main class="page-main">
- <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-canada.html">カナダ</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ 初めてのトロントで押さえたいおすすめ観光スポット10選</div>
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ 初めてのトロントで押さえたいおすすめ観光スポット10選</div>
 
  <article class="article-detail">
  <span class="card-tag" data-color="orange">観光・グルメ</span>
@@ -81,7 +81,7 @@
 <p>オンタリオ湖に位置するトロント・アイランドは、橋や小道で繋がれた15の島々から形成されます。トロント市街にあるジャック・レイトン・フェリーターミナルから<a href="https://www.toronto.ca/data/parks/prd/facilities/complex/2725/index.html" rel="noreferrer noopener" target="_blank">センターアイランド</a>、<a href="https://www.toronto.ca/data/parks/prd/facilities/complex/2541/index.html" rel="noreferrer noopener" target="_blank">ハンランズ・ポイント</a>、<a href="https://www.toronto.ca/data/parks/prd/facilities/complex/2039/index.html" rel="noreferrer noopener" target="_blank">ウォーズ・アイランド</a>へ船が就航していますが、冬季はウォーズ・アイランド線のみ運航されます。島の中心部にあるセンターアイランドは観光スポットが豊富で、噴水や庭園、ビーチ、小さな遊園地“<a href="https://www.centreisland.ca/centreville-amusement-park" rel="noreferrer noopener" target="_blank">センタービル・アミューズメント・パーク / Centreville Amusement Park</a>”があり、最も観光客が集まります。西部に位置し、“<a href="https://www.billybishopairport.com/home" rel="noreferrer noopener" target="_blank">ビリー・ビショップ・トロント・シティー空港 / Billy Bishop Toronto City Airport</a>”を有するハンランズ・ポイントでは、ビーチや12のピクニックエリアなど自然の中でゆっくりと過ごすことができます。東部にあるウォーズ・アイランドには居住区があるため観光客は比較的少なく、カフェやサッカー場の他に、島の南側にある遊歩道からは壮観なオンタリオ湖が望めます。</p>
 <p><strong>所在地：</strong>Centre Island Toronto Ontario<br />公式サイト：<a href="https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/toronto-island-park/" rel="noreferrer noopener" target="_blank">https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/toronto-island-park/</a></p>
 <h2 class="wp-block-heading" id="tourism3">カナダ入国・渡航にはeTA(イータ)の事前申請が必要です</h2>
-<p>カナダ国籍や永住権の保有者以外がカナダへ入国する際は、<a href="http://xs640823.xsrv.jp/eta/lengthofstay/index.html">ビザ</a>を取得する必要があります。ただし、<a href="http://xs640823.xsrv.jp/eta/service/index.html#%E3%82%AB%E3%83%8A%E3%83%80%E3%81%AE%E3%83%93%E3%82%B6%E5%85%8D%E9%99%A4%E5%9B%BD%E3%83%BB%E5%9C%B0%E5%9F%9F%E4%B8%80%E8%A6%A7">ビザ免除対象国</a>に限り<a href="http://xs640823.xsrv.jp/eta/service/index.html">電子渡航認証のeTA(イータ)申請</a>を事前に取得する事でカナダへの入国が許可されます。eTA(イータ)はオンラインで申請手続きが完了し、承認が下りるとパスポート情報に紐づいて電子的に管理されます。承認時に発行される英数字10桁のeTA numberは、メモなどに書き留めておくことをおすすめします。また、国際的な子供の不法連れ去り行為などを防ぐために締結されているハーグ条約により、18歳未満の未成年者が単独または片方の親権者とカナダへ入国する際は渡航同意書の携行が推奨されます。渡航の際には“<a href="http://xs640823.xsrv.jp/eta/minority/index.html">未成年者のカナダ渡航について</a>”を事前に確認しましょう。</p>
+<p>カナダ国籍や永住権の保有者以外がカナダへ入国する際は、<a href="/canada-eta-validity/">ビザ</a>を取得する必要があります。ただし、<a href="/canada-eta-about/">ビザ免除対象国</a>に限り<a href="/canada-eta-about/">電子渡航認証のeTA(イータ)申請</a>を事前に取得する事でカナダへの入国が許可されます。eTA(イータ)はオンラインで申請手続きが完了し、承認が下りるとパスポート情報に紐づいて電子的に管理されます。承認時に発行される英数字10桁のeTA numberは、メモなどに書き留めておくことをおすすめします。また、国際的な子供の不法連れ去り行為などを防ぐために締結されているハーグ条約により、18歳未満の未成年者が単独または片方の親権者とカナダへ入国する際は渡航同意書の携行が推奨されます。渡航の際には“<a href="/canada-indigenous-peoples/">未成年者のカナダ渡航について</a>”を事前に確認しましょう。</p>
 
  </div>
  </article>
@@ -89,19 +89,19 @@
  <section class="related-articles">
  <h2 class="related-title">関連記事</h2>
  <div class="related-grid">
- <a href="canada-eta.html" class="related-card">
+ <a href="/canada-eta-about/" class="related-card">
  <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=300&h=180&fit=crop" alt="カナダeTA" />
  <p>カナダの電子渡航認証eTA(イータ)とは</p>
  </a>
- <a href="canada-vancouver.html" class="related-card">
+ <a href="/canada-vancouver-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=300&h=180&fit=crop" alt="バンクーバー" />
  <p>カナダ・バンクーバーの観光スポット13選</p>
  </a>
- <a href="canada-toronto.html" class="related-card">
+ <a href="/canada-toronto-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1517935706615-2717063c2225?w=300&h=180&fit=crop" alt="トロント" />
  <p>初めてのトロントで押さえたいおすすめ観光スポット10選</p>
  </a>
- <a href="canada-aurora.html" class="related-card">
+ <a href="/canada-aurora-viewing/" class="related-card">
  <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?w=300&h=180&fit=crop" alt="オーロラ" />
  <p>カナダ(イエローナイフ・ホワイトホース)でのオーロラ鑑賞</p>
  </a>
@@ -109,6 +109,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

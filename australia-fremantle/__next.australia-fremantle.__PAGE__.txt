@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T6afc,<div class="page-layout">
+2:T6abb,<div class="page-layout">
  <main class="page-main">
- <div class="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-oceania.html">オセアニア</a> ＞ <a href="country-australia.html">オーストラリア</a> ＞ <a href="gourmet.html">観光・グルメ</a> ＞ オーストラリア・パースの港町“フリーマントル”の歴史・文化と観光スポット</div>
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ オーストラリア・パースの港町“フリーマントル”の歴史・文化と観光スポット</div>
 
  <article class="article-detail">
  <span class="card-tag" data-color="orange">観光・グルメ</span>
@@ -43,7 +43,7 @@
 <picture>
 <source alt="フリーマントルfremantle" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/fe243ccefbe96d5915b43d83cbb04f7b.webp" type="image/webp" width="640"/><img alt="フリーマントルfremantle" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/fe243ccefbe96d5915b43d83cbb04f7b.jpg" width="640"/>
 </picture>
-<p>フリーマントルはオーストラリア大陸西部に広がるインド洋に面した港湾都市です。<a href="http://xs640823.xsrv.jp/etas/news/detail/perth.html">西オーストラリア州</a>最大の都市パースから電車で約25分の距離にある、スワン川の河口に位置します。都心部からのアクセスが良いことから、新鮮な海産物を求めて料理人や観光客が訪れる観光都市としても知られます。このページではパースの外港として栄える”フリーマントル”について紹介します。</p>
+<p>フリーマントルはオーストラリア大陸西部に広がるインド洋に面した港湾都市です。<a href="/country-australia/">西オーストラリア州</a>最大の都市パースから電車で約25分の距離にある、スワン川の河口に位置します。都心部からのアクセスが良いことから、新鮮な海産物を求めて料理人や観光客が訪れる観光都市としても知られます。このページではパースの外港として栄える”フリーマントル”について紹介します。</p>
 <h2 class="wp-block-heading" id="fremantle1">フリーマントルとは</h2>
 <p>西オーストラリア州南西部の海岸沿いに広がる港湾都市“<a href="https://www.visitfremantle.com.au/" rel="noreferrer noopener" target="_blank">フリーマントル</a>”は地中海性気候に属し、1年を通し漁業が盛んです。夏から初秋にかけて晴天が続き、冬となる5～8月に雨が多く降り年間降雨量の約7割が集中します。フリーマントルは1829年より開始された英国による”スワン川植民地化計画”の建設起点地となり、州都パースの設立にも貢献しました。地名は最初に入植した英国海軍の先遣隊リーダー、チャールズ・フリーマントルから名付けられ、現在ではパースの外港として西オーストラリア州最大の港湾施設を有します。南極へ向かう各国の南極観測船が寄港する拠点として知られますが、「世界で最も19世紀の面影がある港町」として入植時代の街並みが多く残る人気の観光都市です。<a href="http://www.environment.gov.au/cgi-bin/ahdb/search.pl?mode=place_detail;search=keyword%3DFremantle%2520railway%2520station%3Bkeyword_PD%3Don%3Bkeyword_SS%3Don%3Bkeyword_PH%3Don%3Blatitude_1dir%3DS%3Blongitude_1dir%3DE%3Blongitude_2dir%3DE%3Blatitude_2dir%3DS%3Bin_region%3Dpart;place_id=10471" rel="noreferrer noopener" target="_blank">フリーマントル駅</a>の駅舎は<a href="https://jp.visitmelbourne.com/regions/melbourne/things-to-do/history-and-heritage/heritage-buildings/vv-flinders-street-station" rel="noreferrer noopener" target="_blank">メルボルンのフリンダースストリート駅舎</a>と同じフェデレーションフリークラシック様式の建物で、西オーストラリア州遺産に登録されています。</p>
 <h2 class="wp-block-heading" id="fremantle2">フリーマントルへのアクセス</h2>
@@ -103,7 +103,7 @@
 <p>エスプラネードホテルはフリーマントルのランドマークとして知られる有名ホテルです。ルーツは1850年の入植時代までさかのぼり、<a href="https://fremantleprison.com.au/visit-us/japanese/" rel="noreferrer noopener" target="_blank">フリーマントル刑務所</a>を建設する囚人たちが寝泊まりする倉庫として作られました。その後、幾度の名義変更や改装を経て1896年にエスプラネードホテルとしてオープン。独特のバルコニー構造やステンドグラスで飾られた建物は1978年にオーストラリア国家遺産へ登録され、西オーストラリア州遺産とフリーマントル市営遺産にも認定されました。館内には2つの屋外プールやフィットネスセンター、バラエティーに富んだレストランやバーがあり、結婚式も催行されます。通りを挟んだ目の前には<a href="https://www.fremantlefishingboatharbour.com/attraction/esplanade-park-fremantle/" rel="noreferrer noopener" target="_blank">エスプラネード公園</a>が隣接し、公園を抜けた先には<a href="https://www.fremantlefishingboatharbour.com/" rel="noreferrer noopener" target="_blank">フィッシングボートハーバー</a>が広がります。公園を背に通りを進めば3分ほどで<a href="https://www.fremantlemarkets.com.au/JP/" rel="noreferrer noopener" target="_blank">フリーマントルマーケット</a>に行くこともでき、フリーマントル観光の拠点としてもお勧めのホテルです。</p>
 <div class="Class_J"><strong>所在地：</strong>46-54 Marine Terrace, Fremantle WA 6160<br /><strong>公式サイト：</strong><a href="https://www.rydges.com/accommodation/perth-wa/esplanade-hotel-fremantle-by-rydges/?utm_source=google&amp;utm_medium=organic&amp;utm_campaign=gmb" rel="noreferrer noopener" target="_blank">Esplanade Hotel Fremantle by Rydges</a></div>
 <h2 class="wp-block-heading" id="fremantle4">フリーマントルへ旅行する際は早めのETAS(イータス)申請をお願いします</h2>
-<p>日本国籍の方が90日以内の観光旅行を目的としてオーストラリアへ渡航する際は、ビザではなく<a href="http://xs640823.xsrv.jp/etas/service/index.html">電子渡航認証ETAS(イータス)</a>の申請が必須です。ETAS(イータス)はオーストラリア政府移民局が管轄する制度で、少なくとも出発3日前までに申請を行うことを推奨しています。ETAS(イータス)を取得していない方は旅客機への搭乗が拒否されるため、オーストラリアへ渡航する際は忘れずに申請しましょう。なお、有効期間を過ぎたETAS(イータス)を所持している方は改めてETAS(イータス)申請が必要です。</p>
+<p>日本国籍の方が90日以内の観光旅行を目的としてオーストラリアへ渡航する際は、ビザではなく<a href="/australia-etas-about/">電子渡航認証ETAS(イータス)</a>の申請が必須です。ETAS(イータス)はオーストラリア政府移民局が管轄する制度で、少なくとも出発3日前までに申請を行うことを推奨しています。ETAS(イータス)を取得していない方は旅客機への搭乗が拒否されるため、オーストラリアへ渡航する際は忘れずに申請しましょう。なお、有効期間を過ぎたETAS(イータス)を所持している方は改めてETAS(イータス)申請が必要です。</p>
 
  </div>
  </article>
@@ -111,19 +111,19 @@
  <section class="related-articles">
  <h2 class="related-title">関連記事</h2>
  <div class="related-grid">
- <a href="australia-etas.html" class="related-card">
+ <a href="/australia-etas-about/" class="related-card">
  <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=300&h=180&fit=crop" alt="オーストラリアETAS" />
  <p>ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</p>
  </a>
- <a href="australia-sydney.html" class="related-card">
+ <a href="/australia-sydney-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=300&h=180&fit=crop" alt="シドニー" />
  <p>シドニーの観光スポット10選 定番からおすすめまでを紹介</p>
  </a>
- <a href="australia-cairns.html" class="related-card">
+ <a href="/australia-cairns-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=300&h=180&fit=crop" alt="ケアンズ" />
  <p>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</p>
  </a>
- <a href="australia-goldcoast.html" class="related-card">
+ <a href="/australia-gold-coast-spots/" class="related-card">
  <img src="https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=300&h=180&fit=crop" alt="ゴールドコースト" />
  <p>ゴールドコーストでおすすめの人気観光スポット20選</p>
  </a>
@@ -131,6 +131,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zxRpUSVBhhChM3RhDWkGC"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
