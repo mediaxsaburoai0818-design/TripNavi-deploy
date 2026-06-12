@@ -1,0 +1,142 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T7a0,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"UK ETAはスマホアプリで申請できますか？","acceptedAnswer":{"@type":"Answer","text":"できます。公式アプリ「UK ETA」をスマートフォンにインストールし、カメラでパスポートと顔をスキャンして申請します。アプリのほかオンラインでも申請できます。"}},{"@type":"Question","name":"アプリ申請に必要なものは何ですか？","acceptedAnswer":{"@type":"Answer","text":"有効なパスポート、メールアドレス、顔写真、支払い手段（クレジット／デビットカード、Apple Pay、Google Pay）が必要です。"}},{"@type":"Question","name":"アプリではパスポートをどう読み取りますか？","acceptedAnswer":{"@type":"Answer","text":"スマホのカメラでパスポートをスキャンします。アプリの案内に従って、パスポートと自分の顔を撮影・スキャンして申請を進めます。"}},{"@type":"Question","name":"アプリの料金はいくらですか？","acceptedAnswer":{"@type":"Answer","text":"申請料金は£20で、返金はできません。料金は改定される可能性があるため、最新額は公式でご確認ください。"}},{"@type":"Question","name":"アプリとオンラインのどちらで申請すべきですか？","acceptedAnswer":{"@type":"Answer","text":"どちらでも申請できます。アプリはカメラでパスポートと顔をスキャンする方式、オンラインはパスポートと顔の写真をアップロードする方式です。使いやすい方を選びましょう。"}},{"@type":"Question","name":"アプリで申請したら結果はどう届きますか？","acceptedAnswer":{"@type":"Answer","text":"UKVIから登録メールアドレス宛に結果が届きます。通常1日程度、最長3営業日が目安です。"}}]}3:T2929,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/uk-eta-application/">イギリス</a> ＞
+        スマホアプリでのUK ETA申請
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">イギリス渡航ノウハウ</span>
+        <h1>スマホアプリでのUK ETA申請方法を解説</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">UK ETAは公式アプリで申請できる</a>
+                  <ul>
+                    <li><a href="#section1-1">アプリとオンラインの違い</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section2">アプリ申請に必要なもの</a></li>
+                <li><a href="#section3">アプリでの申請手順</a></li>
+                <li><a href="#section4">申請時の注意点</a></li>
+                <li><a href="#section5">よくある質問</a></li>
+                <li><a href="#section6">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>UK ETAは、公式スマートフォンアプリ「UK ETA」を使って手元で申請できます。この記事では、GOV.UK（英国政府公式）の情報をもとに、アプリでの申請方法と注意点を整理します。</p>
+
+          <h2 id="section1">UK ETAは公式アプリで申請できる</h2>
+          <p>UK ETAは、<strong>公式アプリ「UK ETA」</strong>またはオンラインから申請できます。アプリでは、スマホのカメラでパスポートと自分の顔をスキャンして手続きを進めます。</p>
+
+          <h3 id="section1-1">アプリとオンラインの違い</h3>
+          <table>
+            <tr><th>方法</th><th>特徴</th></tr>
+            <tr><td>公式アプリ「UK ETA」</td><td>カメラでパスポートと顔をスキャンして申請</td></tr>
+            <tr><td>オンライン</td><td>パスポートと顔の写真をアップロードして申請</td></tr>
+          </table>
+          <p>どちらでも申請できるため、使いやすい方を選びましょう。アプリはスキャン操作がスムーズに行えるのが特徴です。</p>
+
+          <h2 id="section2">アプリ申請に必要なもの</h2>
+          <div class="info-box">
+            <h4>用意するもの</h4>
+            <ul>
+              <li><strong>有効なパスポート</strong>（実際に渡航で使うもの）</li>
+              <li><strong>メールアドレス</strong>（結果の通知を受け取る）</li>
+              <li><strong>顔写真</strong>（アプリでの撮影に対応）</li>
+              <li><strong>支払い手段</strong>（クレジット／デビットカード、Apple Pay、Google Pay）</li>
+            </ul>
+          </div>
+
+          <h2 id="section3">アプリでの申請手順</h2>
+          <p>アプリでの申請は、おおむね次のような流れで進みます（画面や手順は更新されることがあります）。</p>
+          <ul>
+            <li><strong>1. 公式アプリ「UK ETA」をインストールする</strong> — スマホのアプリストアから入手します。</li>
+            <li><strong>2. メールアドレスを登録する</strong> — 結果通知を受け取るアドレスを入力します。</li>
+            <li><strong>3. パスポートをスキャンする</strong> — カメラでパスポートを読み取り、情報を取り込みます。</li>
+            <li><strong>4. 顔をスキャン・撮影する</strong> — 案内に従って自分の顔を撮影します。</li>
+            <li><strong>5. 必要事項を入力する</strong> — 個人情報や経歴に関する質問に回答します。</li>
+            <li><strong>6. 内容を確認して支払う</strong> — 入力内容を確認し、£20を支払います。</li>
+            <li><strong>7. 結果を待つ</strong> — UKVIからメールで結果が届きます。</li>
+          </ul>
+          <p>申請後の結果確認については<a href="/uk-eta-check/">申請状況・審査結果の確認方法の記事</a>もあわせてご覧ください。</p>
+
+          <h2 id="section4">申請時の注意点</h2>
+          <div class="warn-box">
+            <h4>申請前に確認したいこと</h4>
+            <p><strong>1. 渡航で使うパスポートで申請する</strong></p>
+            <p>ETAはパスポートに紐づくため、実際に渡航するパスポートと同じもので申請してください。</p>
+            <p><strong>2. 入力ミスに注意</strong></p>
+            <p>氏名やパスポート番号の誤りは渡航時の問題につながります。返金はされません。</p>
+            <p><strong>3. 家族の分も人数分申請する</strong></p>
+            <p>子ども・赤ちゃんを含め、渡航するすべての人に1人ずつETAが必要です。</p>
+            <p><strong>4. 早めに申請する</strong></p>
+            <p>審査は最長3営業日が目安です。渡航直前ではなく余裕を持って申請しましょう。</p>
+          </div>
+
+          <h2 id="section5">よくある質問</h2>
+          <div class="faq-item"><h3>Q1: スマホアプリで申請できる？</h3><p><strong>A:</strong> できます。公式アプリ「UK ETA」でカメラ撮影・スキャンして申請します。オンラインでも申請可能です。</p></div>
+          <div class="faq-item"><h3>Q2: 必要なものは？</h3><p><strong>A:</strong> 有効なパスポート、メールアドレス、顔写真、支払い手段（カードやApple Pay／Google Pay）です。</p></div>
+          <div class="faq-item"><h3>Q3: パスポートはどう読み取る？</h3><p><strong>A:</strong> スマホのカメラでパスポートをスキャンします。案内に従って顔も撮影します。</p></div>
+          <div class="faq-item"><h3>Q4: 料金は？</h3><p><strong>A:</strong> £20で返金不可です。最新額は公式でご確認ください。</p></div>
+          <div class="faq-item"><h3>Q5: アプリとオンラインどちらがいい？</h3><p><strong>A:</strong> どちらでも申請できます。アプリはスキャン方式、オンラインは写真アップロード方式です。</p></div>
+          <div class="faq-item"><h3>Q6: 結果はどう届く？</h3><p><strong>A:</strong> UKVIからメールで届きます。通常1日程度、最長3営業日が目安です。</p></div>
+
+          <h2 id="section6">まとめ</h2>
+          <p>UK ETAは公式アプリ「UK ETA」で、カメラによるパスポート・顔のスキャンを使って手軽に申請できます。必要なものは有効なパスポート、メールアドレス、顔写真、支払い手段です。料金は£20で、結果はメールで通知されます。渡航で使うパスポートで、入力ミスに注意しながら早めに申請しましょう。</p>
+          <div class="info-box">
+            <h4>アプリ申請のポイント</h4>
+            <ul>
+              <li>公式アプリ「UK ETA」でスキャン申請</li>
+              <li>必要：パスポート・メール・顔写真・支払い手段</li>
+              <li>料金：£20（返金不可・最新は公式確認）</li>
+              <li>家族は人数分・早めに申請</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/uk-eta-application/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>イギリスETAの申請方法</h3></div></a>
+            <a href="/uk-eta-check/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAの申請状況・審査結果の確認方法</h3></div></a>
+            <a href="/uk-eta-timing/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETA申請のタイミング</h3></div></a>
+            <a href="/uk-eta-about/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAとは？制度概要を解説</h3></div></a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">UK ETA関連記事</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-pending/" style="color: #D4885A; text-decoration: underline;">UK ETAが審査中・保留のときの対処</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-validity/" style="color: #D4885A; text-decoration: underline;">UK ETAの有効期限</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-vs-visa/" style="color: #D4885A; text-decoration: underline;">UK ETAとビザの違い</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">UK ETA関連記事</h3>
+        <ol class="sidebar-ranking">
+          <li><a href="/uk-eta-application/"><span class="rank-num">1</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">イギリスETAの申請方法</div></div></a></li>
+          <li><a href="/uk-eta-check/"><span class="rank-num">2</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">UK ETAの確認方法</div></div></a></li>
+          <li><a href="/uk-eta-about/"><span class="rank-num">3</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">UK ETAとは</div></div></a></li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"イギリス\",\"item\":\"https://trips-now.com/uk-eta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"スマホアプリでのUK ETA申請\",\"item\":\"https://trips-now.com/uk-eta-smartphone/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

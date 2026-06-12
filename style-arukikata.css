@@ -1263,6 +1263,11 @@ section.content {
   color: #8B7E6F;
 }
 
+.article-meta .meta-author {
+  color: #8B7E6F;
+  font-weight: 500;
+}
+
 /* === Related articles section === */
 .related-title {
   border-left-color: #D4885A;

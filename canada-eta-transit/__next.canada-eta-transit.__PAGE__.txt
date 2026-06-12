@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4028,<div class="page-layout">
+2:T3eac,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ カナダで乗り継ぐ時にeTA(イータ)申請は必要？</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>カナダで乗り継ぐ時にeTA(イータ)申請は必要？</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -42,8 +42,8 @@
 </nav>
 </div>
 <picture>
-<source alt="カナダで乗り継ぐ時にeTA(イータ)申請は必要？" class="img_big m20-t m20-b" height="411" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p11_1.webp" type="image/webp" width="640"/>
-<img alt="カナダで乗り継ぐ時にeTA(イータ)申請は必要？" class="img_big m20-t m20-b" decoding="async" height="411" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p11_1.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="transit1">カナダで短時間乗り継ぐ場合でもeTA(イータ)申請は必要です</h2>
 <p>日本からの渡航者がカナダで乗り継いでアメリカや南米、カリブ海などへ向かう渡航ルートは多く利用されておりますが、乗り継ぎの目的でカナダに入国した場合でも<a class="link-no-color aioseop-link" href="/country-canada/">eTA(イータ)申請</a>を取得する必要があります。トランジットと呼ばれる乗り継ぎや便の乗り換え(トランスファー)などの為にカナダの空港へ降りた場合もカナダに入国したとみなされますのでeTA(イータ)申請を取得していなければなりません。<br />eTA(イータ)申請はカナダ政府によって2016年3月より導入された入国管理システムで、カナダに入国する渡航者は事前にインターネットで取得し認証承認を受けている必要があります。</p>
@@ -116,6 +116,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

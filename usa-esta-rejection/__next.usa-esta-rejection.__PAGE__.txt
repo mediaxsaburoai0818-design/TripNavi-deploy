@@ -1,0 +1,204 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T8e0,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ESTAが拒否されたらアメリカに行けないのですか？","acceptedAnswer":{"@type":"Answer","text":"ESTAが拒否（Travel Not Authorized）された場合でも、米国大使館・領事館で非移民ビザを申請し、承認されれば渡航は可能です。CBPによれば、ESTA拒否後に渡航するにはビザ取得が唯一の方法です。"}},{"@type":"Question","name":"ESTAが拒否されたらすぐ再申請すべきですか？","acceptedAnswer":{"@type":"Answer","text":"いいえ。CBPは、状況が変わっていないまま再申請しても再び拒否されると説明しています。また虚偽の情報で再申請するとVWPでの渡航が永久に不可能になるため、安易な再申請は避けてください。"}},{"@type":"Question","name":"ESTAが拒否された理由は教えてもらえますか？","acceptedAnswer":{"@type":"Answer","text":"CBPは原則として個別の拒否理由を開示していません。大使館・領事館もESTA拒否の理由説明や問題解決はできず、ビザ申請の手続きを案内する役割となります。"}},{"@type":"Question","name":"ビザはどこで申請すればよいですか？","acceptedAnswer":{"@type":"Answer","text":"居住地を管轄する米国大使館・領事館で非移民ビザを申請します。一般的なビザ情報はtravel.state.gov、管轄大使館はusembassy.govで確認できます。"}},{"@type":"Question","name":"渡航が迫っている場合はどうすればよいですか？","acceptedAnswer":{"@type":"Answer","text":"CBPによれば、ESTA拒否・取消後に商用・医療・人道目的で差し迫った渡航がある場合、ビザの緊急予約（面接の優先予約）を申請できる場合があります。"}},{"@type":"Question","name":"一度拒否されると今後ずっとESTAは使えませんか？","acceptedAnswer":{"@type":"Answer","text":"一度の拒否で永久に使えなくなるわけではありませんが、拒否の原因となった状況が変わらない限り再申請しても結果は同じです。状況が変化した場合は再申請を検討できます。"}}]}3:T372f,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/usa-esta-application/">アメリカ</a> ＞
+        ESTAが拒否された場合
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>ESTAが拒否されたら？渡航不許可時の正しい対応とビザ申請を解説</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">「Travel Not Authorized」とは</a></li>
+                <li><a href="#section2">拒否されたときにやってはいけないこと</a>
+                  <ul>
+                    <li><a href="#section2-1">安易な再申請のリスク</a></li>
+                    <li><a href="#section2-2">虚偽情報による再申請の危険性</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section3">拒否後の正しい対応：ビザ申請</a></li>
+                <li><a href="#section4">拒否理由は開示されない</a></li>
+                <li><a href="#section5">渡航が迫っている場合の対処</a></li>
+                <li><a href="#section6">単純な入力ミスが原因のことも</a></li>
+                <li><a href="#section7">よくある質問</a></li>
+                <li><a href="#section8">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>ESTAを申請したのに「Travel Not Authorized（渡航不許可）」と表示されてしまった——。そんなとき、慌てて何度も再申請するのは禁物です。この記事では、ESTAが<strong>拒否された場合の正しい対応</strong>を、米国CBP公式情報をもとに解説します。やってはいけないことと、取るべき手続きを順を追って整理します。</p>
+
+          <h2 id="section1">「Travel Not Authorized」とは</h2>
+          <p>ESTAのステータスが<strong>「Travel Not Authorized（渡航不許可）」</strong>と表示された場合、それはビザ免除プログラム（VWP）を利用したアメリカへの渡航が認められなかったことを意味します。この状態では、ESTAでの搭乗・入国はできません。</p>
+          <div class="warn-box">
+            <h4>拒否＝VWPでの渡航不可</h4>
+            <p>「Travel Not Authorized」は、あくまでVWP（ビザ免除）での渡航が認められないという意味です。アメリカへの渡航そのものが完全に禁止されたわけではなく、ビザを取得すれば渡航できる可能性があります。</p>
+          </div>
+
+          <h2 id="section2">拒否されたときにやってはいけないこと</h2>
+
+          <h3 id="section2-1">安易な再申請のリスク</h3>
+          <p>拒否されると「もう一度申請すれば通るかも」と考えがちですが、これは避けるべき行動です。CBPは、<strong>状況が変わっていないまま再申請しても、新しい申請も同様に拒否される</strong>と明確に説明しています。意味もなく再申請を繰り返すと、その都度手数料がかかるだけです。</p>
+
+          <h3 id="section2-2">虚偽情報による再申請の危険性</h3>
+          <div class="warn-box">
+            <h4>虚偽申請は永久にVWP不可</h4>
+            <p>CBPによれば、渡航認証を得るために<strong>虚偽の情報で再申請すると、その渡航者はVWP（ビザ免除）での米国渡航が永久にできなくなります</strong>。承認されたいからといって、事実と異なる回答をすることは絶対に避けてください。</p>
+          </div>
+
+          <h2 id="section3">拒否後の正しい対応：ビザ申請</h2>
+          <p>ESTAが拒否されても渡航を希望する場合の正しい対応は、<strong>米国大使館・領事館で非移民ビザを申請する</strong>ことです。CBPは、ESTAが拒否された渡航者がアメリカへ渡航する唯一の方法はビザの取得であると説明しています。</p>
+          <div class="info-box">
+            <h4>ビザ申請の流れ（概要）</h4>
+            <ul>
+              <li>居住地を管轄する米国大使館・領事館を確認する</li>
+              <li>渡航目的に応じた非移民ビザ（観光なら通常B-2など）を選ぶ</li>
+              <li>オンライン申請書（DS-160）を作成し、面接を予約する</li>
+              <li>必要書類を準備し、面接に臨む</li>
+            </ul>
+          </div>
+          <p>一般的なビザ情報は <strong>travel.state.gov</strong>、管轄の大使館は <strong>usembassy.gov</strong> で確認できます。ビザの種類や手続きの詳細は、これら公式サイトで最新情報をご確認ください。</p>
+
+          <h2 id="section4">拒否理由は開示されない</h2>
+          <p>「なぜ拒否されたのか知りたい」と思うのは自然ですが、CBPは<strong>原則として個別の拒否理由を開示していません</strong>。また、大使館・領事館もESTA拒否の理由を説明したり、その問題を解決したりすることはできません。大使館・領事館の役割は、あくまでビザ申請を処理することです。</p>
+          <div class="info-box">
+            <h4>覚えておきたいポイント</h4>
+            <p>ESTAの拒否理由をCBPや大使館に問い合わせても、詳細な理由は得られないのが一般的です。理由を探るよりも、ビザ申請という次のステップに進むほうが現実的です。</p>
+          </div>
+
+          <h2 id="section5">渡航が迫っている場合の対処</h2>
+          <p>「もう出発が近いのに拒否されてしまった」という場合、通常のビザ面接予約では間に合わないこともあります。CBPによれば、ESTAの拒否・取消後に、<strong>商用・医療・人道目的で差し迫った渡航</strong>がある場合は、非移民ビザの<strong>緊急予約（面接の優先予約）</strong>を申請できる場合があります。該当しそうな場合は、管轄の大使館・領事館の案内に従って手続きしてください。</p>
+
+          <h2 id="section6">単純な入力ミスが原因のことも</h2>
+          <p>拒否ではなく、そもそも申請内容に誤りがあって正しく処理されていないケースもあります。パスポート番号や生年月日などの入力ミスが原因の場合は、誤りを正したうえで申請し直すことで解決することがあります。入力ミスの修正・再申請の取り扱いについては、別記事で詳しく解説しています。ただし、適格性に関する質問への回答が原因で「Travel Not Authorized」となっている場合は、ビザ申請が必要です。</p>
+
+          <h2 id="section7">よくある質問</h2>
+          <div class="faq-item">
+            <h3>Q1: ESTAが拒否されたらアメリカに行けないのですか？</h3>
+            <p><strong>A:</strong> ESTAが拒否されても、米国大使館・領事館で非移民ビザを申請し承認されれば渡航は可能です。CBPによれば、ESTA拒否後に渡航するにはビザ取得が唯一の方法です。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q2: ESTAが拒否されたらすぐ再申請すべきですか？</h3>
+            <p><strong>A:</strong> いいえ。CBPは、状況が変わらないまま再申請しても再び拒否されると説明しています。虚偽情報での再申請はVWPでの渡航が永久に不可能になるため避けてください。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q3: ESTAが拒否された理由は教えてもらえますか？</h3>
+            <p><strong>A:</strong> CBPは原則として個別の拒否理由を開示していません。大使館・領事館も理由説明や問題解決はできず、ビザ申請を案内する役割となります。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q4: ビザはどこで申請すればよいですか？</h3>
+            <p><strong>A:</strong> 居住地を管轄する米国大使館・領事館で非移民ビザを申請します。一般情報はtravel.state.gov、管轄大使館はusembassy.govで確認できます。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q5: 渡航が迫っている場合はどうすればよいですか？</h3>
+            <p><strong>A:</strong> CBPによれば、ESTA拒否・取消後に商用・医療・人道目的の差し迫った渡航がある場合、ビザの緊急予約を申請できる場合があります。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q6: 一度拒否されると今後ずっとESTAは使えませんか？</h3>
+            <p><strong>A:</strong> 一度の拒否で永久に使えなくなるわけではありませんが、原因となった状況が変わらない限り再申請しても結果は同じです。状況が変化した場合は再申請を検討できます。</p>
+          </div>
+
+          <h2 id="section8">まとめ</h2>
+          <p>ESTAが拒否（Travel Not Authorized）された場合、安易な再申請は逆効果で、特に虚偽情報での再申請はVWPでの渡航が永久に不可能になります。渡航を希望するなら、米国大使館・領事館で非移民ビザを申請するのが正しい対応です。拒否理由は原則開示されないため、理由を探るよりビザ申請に進むのが現実的です。</p>
+          <div class="info-box">
+            <h4>ESTA拒否時の対応ポイント</h4>
+            <ul>
+              <li>「Travel Not Authorized」=VWPでの渡航不可</li>
+              <li>状況が変わらない再申請は再び拒否される（CBP）</li>
+              <li>虚偽情報での再申請はVWP永久不可</li>
+              <li>渡航するには大使館・領事館でビザ申請</li>
+              <li>拒否理由は原則非開示</li>
+              <li>緊急時はビザの緊急予約を申請できる場合あり</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/usa-esta-vs-visa/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAとビザの違いを徹底解説！どちらが必要？</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-criminal-record/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>犯罪歴があるとESTAは取れない？対応を解説</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-pending/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAが審査中・保留のときの対処法</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-renewal/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAに更新は必要？入力ミスの対応も解説</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-check/" style="color: #D4885A; text-decoration: underline;">ESTAの申請状況・承認確認の方法を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-about/" style="color: #D4885A; text-decoration: underline;">ESTA（エスタ）とは？制度概要を解説</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/usa-esta-application/">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/usa-esta-vs-visa/">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTAとビザの違いを解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/usa-esta-criminal-record/">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">犯罪歴があるとESTAは取れない？</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"アメリカ\",\"item\":\"https://trips-now.com/usa-esta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ESTAが拒否された場合\",\"item\":\"https://trips-now.com/usa-esta-rejection/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

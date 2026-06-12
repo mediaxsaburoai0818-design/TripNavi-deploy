@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T55a6,<div class="page-layout">
+2:T5292,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ オーストラリアの歴史と成り立ち</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>オーストラリアの歴史と成り立ち</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -41,7 +41,7 @@
 </nav>
 </div>
 <picture>
-<source alt="Parliament of Australia" class="img_big m20-t m20-b lazyloaded" height="426" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/11/b6e35ed8a8587a53be9fc3e7a02bdd81.webp" type="image/webp" width="640"/><img alt="Parliament of Australia" class="img_big m20-t m20-b" decoding="async" height="426" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/11/b6e35ed8a8587a53be9fc3e7a02bdd81.jpg" width="640"/>
+
 </picture>
 <p>留学や観光先として日本人に人気のオーストラリアは、建国から120年ほどと西洋諸国と比較すると若い国家に数えられます。しかし、政府樹立までは先住民<a href="/australia-aboriginal-culture/">アボリジニ</a>による開拓期とイギリスによる植民地統治の長い歴史を持ち、観光スポットはそれらに根ざした遺跡や建造物を多く含みます。事前に国家の成り立ちや先人の足跡を学ぶことで、留学や観光旅行をより楽しむことができるでしょう。<br />このページではオーストラリアの歴史と関連する観光スポットや注目ポイントを紹介します。</p>
 <h2 class="wp-block-heading" id="history1">建国以前</h2>
@@ -69,7 +69,7 @@
 <p>連邦政府樹立の際、首都に指定されたのは<a href="/country-australia/">キャンベラ</a>でした。当初、初入植の地<a href="/country-australia/">シドニー</a>と最多人口を誇る<a href="/country-australia/">メルボルン</a>が候補に挙がりましたが、政府は両都市の中間に新たな首都キャンベラの建設を決定しました。キャンベラは北のシティ・ヒルと南のキャピタル・ヒルで構成される整った街並みが特徴で、南北を隔てる”<a href="https://www.nca.gov.au/lake-burley-griffin" rel="noreferrer noopener" target="_blank">バーリー・グリフィン湖</a>”は市民の憩いの場として親しまれています。湖周辺には<a href="https://www.aph.gov.au/" rel="noreferrer noopener" target="_blank">連邦議会議事堂</a>や<a href="https://nga.gov.au/" rel="noreferrer noopener" target="_blank">国立美術館</a>などが揃い、中心街には<a href="https://canberracentre.qicgre.com/" rel="noreferrer noopener" target="_blank">ショッピングモール</a>があります。<br />また、メルボルンにはかつて臨時の連邦政府が置かれた<a href="https://museumsvictoria.com.au/reb/" rel="noreferrer noopener" target="_blank">王立展示館(Royal Exhibition Building)</a>と<a href="https://www.parliament.vic.gov.au/" rel="noreferrer noopener" target="_blank">ビクトリア州議事堂(Parliament of Victoria)</a>があります。王立展示館は最初の連邦議会が開催されたことで知られ、2004年に<a href="https://whc.unesco.org/en/list/1131" rel="noreferrer noopener" target="_blank">ユネスコ世界遺産</a>に登録されました。ビクトリア州議事堂は1927年まで同国の政治の中心となり、現在はビクトリア州政府が置かれています。州議会が開催される日を除き、<a href="https://www.parliament.vic.gov.au/visit" rel="noreferrer noopener" target="_blank">館内を見学</a>することができ、敷地内にあるカフェ”<a href="https://beta.parliament.vic.gov.au/events/restaurant-high-tea/" rel="noreferrer noopener" target="_blank">Strangers Corridor</a>”の伝統的なアフタヌーンティーは観光客にも人気です。</p>
 </div>
 <picture>
-<source alt="Darwin Military Museum" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/11/984432db8f8db9b27a50218a53b8b158.webp" type="image/webp" width="640"/><img alt="Darwin Military Museum" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/11/984432db8f8db9b27a50218a53b8b158.jpg" width="640"/>
+
 </picture>
 <h3 class="wp-block-heading" id="history2-2">第一次世界大戦と第二次世界大戦</h3>
 <p>オーストラリア連邦の成立から13年後の1914年、イギリスとドイツを中心として第一次世界大戦が勃発。イギリス連邦の加盟国であるオーストラリアからは、総人口の7％にあたる約33万人もの義勇兵が戦場に赴き、約6万人が亡くなりました。オーストラリアは第一次世界大戦で総人口の1%強もの犠牲を払い、国際連盟への加入と国際社会での地位を獲得しました。<br />大戦による社会的な混乱が落ち着き始めた1939年、ドイツがポーランドへ侵攻したことをきっかけに第二次世界大戦が起こります。オーストラリアはイギリスやアメリカを中心とした連合軍側として参戦し、日本軍による本土への空襲で多くの市民が犠牲となりました。日本が降伏勧告を受け入れ戦争が終結する1945年8月までに、約100万人の兵士がアフリカ、ヨーロッパ、アジアの戦地で戦いに従事しました。</p>
@@ -116,6 +116,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

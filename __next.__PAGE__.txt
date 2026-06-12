@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T3121,<div class="hero">
+2:T32a2,<div class="hero">
   <img src="/tripnavi-hero-a.jpg" alt="美しいビーチとサンセット">
   <div class="overlay"><div class="content">
     <div class="tag">TRAVEL GUIDE 2026</div>
@@ -36,6 +36,10 @@
     <div class="country-card">
       <div class="img-placeholder"><img src="/country-australia.jpg" alt="オーストラリア - シドニーオペラハウス"></div>
       <div class="body"><h3>オーストラリア（ETAS）</h3><p>オーストラリア渡航に必要なETASの申請ガイド。観光ビザとの違いも解説。</p><a href="/australia-etas-about/">ガイドを見る →</a></div>
+    </div>
+    <div class="country-card">
+      <div class="img-placeholder"><img src="/uk-mid.jpg" alt="ヨーロッパ - 渡航認証ETIAS"></div>
+      <div class="body"><h3>ヨーロッパ（ETIAS）</h3><p>導入予定の欧州渡航情報認証制度ETIASを解説。開始時期・料金・対象国の最新情報。</p><a href="/etias-about/">ガイドを見る →</a></div>
     </div>
   </div>
 </section>
@@ -265,6 +269,6 @@
       </a>
     </div>
   </div>
-</section>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+</section>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

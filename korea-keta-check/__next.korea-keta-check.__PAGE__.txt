@@ -1,0 +1,183 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T95d,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"K-ETAの審査結果はどこで確認できますか？","acceptedAnswer":{"@type":"Answer","text":"K-ETA公式サイト（www.k-eta.go.kr）または公式アプリ「K-ETA」の「K-ETA結果照会（Check Application & Result）」から確認できます。承認時には登録したメールアドレスにも通知が届きます。"}},{"@type":"Question","name":"結果照会に必要な情報は何ですか？","acceptedAnswer":{"@type":"Answer","text":"一般的にパスポート番号、氏名（ローマ字）、生年月日、国籍などが必要です。非会員で申請した場合はメール認証が求められることがあります。会員登録して申請した場合はログインで確認できます。"}},{"@type":"Question","name":"K-ETAの審査にはどのくらい時間がかかりますか？","acceptedAnswer":{"@type":"Answer","text":"多くのケースで即時に結果が出ますが、追加確認が必要な場合は保留となり、通常72時間以内に結果が通知されます。余裕をもって出発の数日前までに申請しておくと安心です。"}},{"@type":"Question","name":"審査結果にはどんな種類がありますか？","acceptedAnswer":{"@type":"Answer","text":"主に「承認（Approved／K-ETA OK）」「追加審査（要確認）」「不承認（Not OK）」があります。承認されれば渡航可能、不承認の場合はK-ETAでの入国はできません。"}},{"@type":"Question","name":"結果がなかなか出ないときはどうすればいいですか？","acceptedAnswer":{"@type":"Answer","text":"入力したメールアドレスの受信トレイや迷惑メールフォルダを確認し、公式サイトの結果照会でも状況を確認してください。72時間を超えても結果が出ない場合は、K-ETA公式サイトの問い合わせ窓口に連絡しましょう。"}},{"@type":"Question","name":"承認結果は印刷して持参する必要がありますか？","acceptedAnswer":{"@type":"Answer","text":"システム上で渡航情報が確認されるため必須ではありませんが、搭乗手続きや入国審査でスムーズに対応できるよう、承認画面のスクリーンショットや印刷物を用意しておくと安心です。"}}]}3:T3894,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/korea-keta-application/">韓国 K-ETA</a> ＞
+        申請状況・結果の確認
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>K-ETAの申請状況・審査結果を確認する方法【韓国旅行】</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">K-ETAの審査結果はどこで確認する？</a></li>
+                <li><a href="#section2">結果照会の手順</a>
+                  <ul>
+                    <li><a href="#section2-1">公式サイトで確認する</a></li>
+                    <li><a href="#section2-2">公式アプリで確認する</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section3">審査結果の種類と意味</a></li>
+                <li><a href="#section4">結果が出るまでの時間の目安</a></li>
+                <li><a href="#section5">結果が出ない・メールが届かないとき</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>K-ETAを申請したあと、「審査はどうなった？」「結果はどこで見られる？」と気になる方は多いはずです。この記事では、<strong>K-ETAの申請状況・審査結果を確認する方法</strong>を、公式の結果照会機能をもとに手順立てて解説します。</p>
+
+          <h2 id="section1">K-ETAの審査結果はどこで確認する？</h2>
+          <p>K-ETAの審査結果は、主に次の3つの方法で確認できます。</p>
+          <div class="info-box">
+            <h4>結果を確認する3つの方法</h4>
+            <ul>
+              <li><strong>メール通知:</strong> 申請時に登録したメールアドレスへ結果が届きます</li>
+              <li><strong>公式サイトの結果照会:</strong> www.k-eta.go.kr の「K-ETA結果照会」から確認</li>
+              <li><strong>公式アプリ:</strong> アプリ「K-ETA」の結果照会メニューから確認</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">結果照会の手順</h2>
+
+          <h3 id="section2-1">公式サイトで確認する</h3>
+          <p>K-ETA公式サイト（<strong>www.k-eta.go.kr</strong>）で結果を確認する基本的な流れは以下のとおりです。</p>
+          <ul>
+            <li>公式サイトにアクセスし、言語で「日本語」を選択する</li>
+            <li>メニューから「<strong>K-ETA結果照会</strong>」を選ぶ</li>
+            <li>会員登録して申請した場合はログインして確認する</li>
+            <li>非会員で申請した場合は、パスポート情報などを入力し、必要に応じてメール認証を行う</li>
+            <li>申請状況（審査中／承認／不承認など）が表示される</li>
+          </ul>
+
+          <h3 id="section2-2">公式アプリで確認する</h3>
+          <p>公式アプリ「K-ETA」をインストールしている場合は、アプリ内の結果照会メニューからも同様に確認できます。スマホで申請した方は、申請時と同じ端末・アカウントで確認するとスムーズです。</p>
+
+          <div class="warn-box">
+            <h4>非公式サイトに注意</h4>
+            <p>「K-ETA確認」などで検索すると、公式を装った代行サイトが表示されることがあります。結果照会や申請は、必ず公式ドメイン<strong>www.k-eta.go.kr</strong>または公式アプリから行ってください。</p>
+          </div>
+
+          <h2 id="section3">審査結果の種類と意味</h2>
+          <p>K-ETAの審査結果は、主に次のパターンに分かれます。</p>
+
+          <div style="overflow-x: auto; margin: 20px 0;">
+            <table style="width: 100%; border-collapse: collapse; background: #fff;">
+              <thead>
+                <tr style="background: var(--primary-light);">
+                  <th style="padding: 12px; border: 1px solid var(--gray-200); text-align: left;">結果表示</th>
+                  <th style="padding: 12px; border: 1px solid var(--gray-200); text-align: left;">意味</th>
+                  <th style="padding: 12px; border: 1px solid var(--gray-200); text-align: left;">対応</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>承認（Approved／OK）</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">渡航許可が下りた状態</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">そのまま渡航可能</td>
+                </tr>
+                <tr style="background: var(--gray-50);">
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>審査中・保留</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">追加確認のため結果保留</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">通常72時間以内の結果を待つ</td>
+                </tr>
+                <tr>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);"><strong>不承認（Not OK）</strong></td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">K-ETAでの入国が認められない</td>
+                  <td style="padding: 10px; border: 1px solid var(--gray-200);">入力誤りなら再申請、それ以外はビザを検討</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <h2 id="section4">結果が出るまでの時間の目安</h2>
+          <p>多くの場合、申請後すぐに結果が表示されます。ただし、システムが追加確認を必要と判断した場合は保留扱いとなり、<strong>通常72時間以内</strong>に結果が通知されます。繁忙期は時間がかかることもあるため、出発直前ではなく余裕をもって申請しておくことが大切です。</p>
+
+          <div class="info-box">
+            <h4>申請のタイミングの目安</h4>
+            <p>審査に最大72時間かかる可能性を踏まえ、<strong>出発の数日前まで</strong>には申請を済ませておくと安心です。一時免除措置の対象期間中はK-ETA自体が不要な場合もあるため、まず必要かどうかを公式サイトで確認しましょう。</p>
+          </div>
+
+          <h2 id="section5">結果が出ない・メールが届かないとき</h2>
+          <p>結果がなかなか確認できない場合は、次の点をチェックしてください。</p>
+          <ul>
+            <li>登録メールアドレスの<strong>迷惑メールフォルダ</strong>を確認する</li>
+            <li>メールアドレスの入力ミスがなかったか思い返す</li>
+            <li>公式サイトの「K-ETA結果照会」で直接状況を確認する</li>
+            <li>72時間を超えても結果が出ない場合は、公式サイトの問い合わせ窓口に連絡する</li>
+          </ul>
+
+          <div class="warn-box">
+            <h4>パスポート情報の入力ミスに注意</h4>
+            <p>姓名・パスポート番号・生年月日などに誤りがあると、結果照会ができなかったり、入国時にトラブルになったりすることがあります。承認後は、登録内容とパスポートが一致しているか必ず確認しましょう。</p>
+          </div>
+
+          <h2 id="section6">よくある質問</h2>
+          <div class="faq-item"><h3>Q: K-ETAの審査結果はどこで確認できますか？</h3><p><strong>A:</strong> K-ETA公式サイト（www.k-eta.go.kr）または公式アプリ「K-ETA」の「K-ETA結果照会（Check Application & Result）」から確認できます。承認時には登録したメールアドレスにも通知が届きます。</p></div>
+          <div class="faq-item"><h3>Q: 結果照会に必要な情報は何ですか？</h3><p><strong>A:</strong> 一般的にパスポート番号、氏名（ローマ字）、生年月日、国籍などが必要です。非会員で申請した場合はメール認証が求められることがあります。会員登録して申請した場合はログインで確認できます。</p></div>
+          <div class="faq-item"><h3>Q: K-ETAの審査にはどのくらい時間がかかりますか？</h3><p><strong>A:</strong> 多くのケースで即時に結果が出ますが、追加確認が必要な場合は保留となり、通常72時間以内に結果が通知されます。余裕をもって出発の数日前までに申請しておくと安心です。</p></div>
+          <div class="faq-item"><h3>Q: 審査結果にはどんな種類がありますか？</h3><p><strong>A:</strong> 主に「承認（Approved／K-ETA OK）」「追加審査（要確認）」「不承認（Not OK）」があります。承認されれば渡航可能、不承認の場合はK-ETAでの入国はできません。</p></div>
+          <div class="faq-item"><h3>Q: 結果がなかなか出ないときはどうすればいいですか？</h3><p><strong>A:</strong> 入力したメールアドレスの受信トレイや迷惑メールフォルダを確認し、公式サイトの結果照会でも状況を確認してください。72時間を超えても結果が出ない場合は、K-ETA公式サイトの問い合わせ窓口に連絡しましょう。</p></div>
+          <div class="faq-item"><h3>Q: 承認結果は印刷して持参する必要がありますか？</h3><p><strong>A:</strong> システム上で渡航情報が確認されるため必須ではありませんが、搭乗手続きや入国審査でスムーズに対応できるよう、承認画面のスクリーンショットや印刷物を用意しておくと安心です。</p></div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>K-ETAの審査結果は、<strong>登録メール・公式サイトの結果照会・公式アプリ</strong>の3つで確認できます。多くは即時に結果が出ますが、保留となった場合は通常72時間以内に通知されます。</p>
+          <p>結果が「承認」であれば渡航可能、「不承認」の場合は入力誤りの確認や再申請、ビザの検討が必要です。結果照会・申請は必ず公式窓口（www.k-eta.go.kr）から行いましょう。なお最新の料金・有効期限・免除状況はK-ETA公式サイトでご確認ください。</p>
+
+          <div class="info-box">
+            <h4>結果確認のポイント</h4>
+            <ul>
+              <li>メール・公式サイト・アプリの3経路で確認可能</li>
+              <li>多くは即時、保留時は通常72時間以内</li>
+              <li>結果照会は必ず公式ドメインから</li>
+              <li>出発の数日前までに申請を済ませる</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-application/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAの申請方法を解説</h3></div></a>
+            <a href="/korea-keta-rejection/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAが却下された場合の対処法</h3></div></a>
+            <a href="/korea-keta-renewal/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAの更新・再申請</h3></div></a>
+            <a href="/korea-keta-about/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAとは？制度の概要</h3></div></a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">韓国K-ETAの関連記事</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-validity/" style="color: #D4885A; text-decoration: underline;">K-ETAの有効期限はいつまで？</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-smartphone/" style="color: #D4885A; text-decoration: underline;">スマホ・アプリでのK-ETA申請方法</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-vs-visa/" style="color: #D4885A; text-decoration: underline;">K-ETAとビザの違い</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">韓国K-ETA 記事一覧</h3>
+        <ol class="sidebar-ranking">
+          <li><a href="/korea-keta-application/"><span class="rank-num">1</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">K-ETAの申請方法</div></div></a></li>
+          <li><a href="/korea-keta-about/"><span class="rank-num">2</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">K-ETAとは？制度概要</div></div></a></li>
+          <li><a href="/korea-keta-rejection/"><span class="rank-num">3</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">却下された場合</div></div></a></li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"韓国 K-ETA\",\"item\":\"https://trips-now.com/korea-keta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"K-ETAの申請状況・結果確認\",\"item\":\"https://trips-now.com/korea-keta-check/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T417d,<div class="page-layout">
+2:T3e69,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ アジア諸国を経由してオーストラリア渡航をする方へ</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>アジア諸国を経由してオーストラリア渡航をする方へ</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -38,8 +38,8 @@
 </nav>
 </div>
 <picture>
-<source alt="人気の国々を経由してのオーストラリア渡航" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p08_01.webp" type="image/webp" width="640"/>
-<img alt="人気の国々を経由してのオーストラリア渡航" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p08_01.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="viaasia1">人気の国々を経由してのオーストラリア渡航</h2>
 <p>成田国際空港と関西国際空港から発着しているオーストラリアへの直行便は約9時間半となっており、季節を問わず多くの利用者がいます。<br />フライト時間が長いことから2国間に位置しているアジア諸国を経由して渡航するルートも多く利用されております。<br />このページではオーストラリアへ渡航する際の代表的なルートをご紹介します。</p>
@@ -294,8 +294,8 @@
 <div class="Class_AB">
 <a href="https://www.anzen.mofa.go.jp/info/pcsafetymeasure_075.html" target="_blank">パプアニューギニア査証、出入国審査について(外務省公式サイト)</a></div>
 <picture>
-<source alt="オーストラリア渡航にビザは必要？" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p08_02.webp" type="image/webp" width="640"/>
-<img alt="オーストラリア渡航にビザは必要？" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/p08_02.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="viaasia8">オーストラリア渡航にビザは必要？</h2>
 <p>他国籍者がオーストラリアに入国する場合はビザを取得する必要があります。<br />オーストラリアにはサブクラスにより細かく分類分けされた訪問者ビザ(サブクラス600)や一時就労ビザ(サブクラス400)、学生ビザ(サブクラス500)など多種類のビザが制定されていますが、日本を含む<a class="aioseop-link link-no-color" href="/country-australia/">ETAS(イータス)</a>申請対象国の国籍者は90日以内の観光や短期商用を目的とした渡航の場合、ウェブ上で取得手続きが可能な電子渡航認証システムのETAS(イータス)申請を取得して渡航することが許可されております。</p>
@@ -336,6 +336,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

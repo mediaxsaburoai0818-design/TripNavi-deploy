@@ -1,0 +1,128 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T2429,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/etias-about/">ETIAS</a> ＞ 日本人のETIAS申請ガイド</div>
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/tripnavi-hero-a.jpg" alt="ヨーロッパ渡航" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="blue">渡航手続き</span>
+ <h1>日本人のETIAS申請ガイド｜なぜ申請が必要？手順と注意点を解説</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年05月02日</span>
+ </div>
+ <div class="content">
+
+<h2>日本人にETIAS申請が必要な理由</h2>
+<p>日本はEU（欧州連合）のビザ免除対象国に指定されており、現在はビザなしでシェンゲン圏に短期渡航（90日以内）が可能です。しかし、ETIAS（欧州渡航情報・認証システム）の導入後は、<strong>ビザ免除対象国の国民すべてに事前の渡航認証取得が義務付けられます</strong>。これは日本を含む約60カ国が対象です。</p>
+<p>ETIASの目的は、ビザなし渡航者の身元を事前にスクリーニングし、テロリズムや不法移民、国際犯罪のリスクを低減することにあります。ビザ免除の権利自体は維持されますが、渡航前にオンラインで認証を取得する手続きが新たに追加されるということです。ETIASの詳細については<a href="/etias-about/">ETIASとは</a>をご確認ください。</p>
+
+<h2>日本人がETIASを申請する際の基本情報</h2>
+<figure class="wp-block-table">
+<table>
+<thead>
+<tr><th>項目</th><th>内容</th></tr>
+</thead>
+<tbody>
+<tr><td>申請対象</td><td>シェンゲン圏に短期渡航する日本国籍保有者</td></tr>
+<tr><td>申請方法</td><td>ETIAS公式サイトまたは専用アプリ</td></tr>
+<tr><td>対応言語</td><td>多言語対応（日本語対応予定）</td></tr>
+<tr><td>必要なもの</td><td>日本国パスポート（IC搭載）、メールアドレス、クレジットカード</td></tr>
+<tr><td>申請費用</td><td>20ユーロ（約3,400円）、18歳未満・70歳超は無料</td></tr>
+<tr><td>審査期間</td><td>通常数分（最大30日）</td></tr>
+<tr><td>有効期限</td><td>3年間（またはパスポート有効期限まで）</td></tr>
+<tr><td>滞在可能日数</td><td>180日間のうち最大90日</td></tr>
+</tbody>
+</table>
+</figure>
+
+<h2>日本語でのETIAS申請方法</h2>
+<p>ETIAS公式サイトは多言語対応が予定されており、日本語でも申請が可能になる見込みです。申請は以下の手順で行います。</p>
+<ul>
+<li><strong>ステップ1</strong>：ETIAS公式サイトにアクセスし、言語を日本語に設定します。</li>
+<li><strong>ステップ2</strong>：日本国パスポートの情報を入力します。スマートフォンのNFC機能でICチップを読み取る方法も利用可能です。</li>
+<li><strong>ステップ3</strong>：氏名、生年月日、連絡先などの個人情報を入力します。氏名はパスポートの記載通りにローマ字で入力してください。</li>
+<li><strong>ステップ4</strong>：セキュリティに関する質問（犯罪歴、渡航拒否歴など）に回答します。</li>
+<li><strong>ステップ5</strong>：申請費用20ユーロをクレジットカードで支払います。</li>
+<li><strong>ステップ6</strong>：登録メールアドレスに審査結果が届きます。</li>
+</ul>
+<p>申請手順の詳細は<a href="/etias-application/">ETIAS申請方法・手順ガイド</a>をご確認ください。</p>
+
+<h2>日本国パスポートの要件</h2>
+<p>ETIAS申請に使用できるのは、<strong>ICチップ搭載の日本国パスポート</strong>です。2006年3月以降に発行された日本のパスポートにはICチップが搭載されていますので、ほとんどの方は問題なく利用できます。以下の点もご確認ください。</p>
+<ul>
+<li>パスポートの残存有効期限がシェンゲン圏出国予定日から3ヶ月以上あること</li>
+<li>パスポートの発行日から10年以内であること</li>
+<li>損傷や汚れがなく、ICチップが正常に読み取れること</li>
+</ul>
+<p>パスポートの有効期限に不安がある場合は、まずパスポートの更新を済ませてからETIASの申請を行ってください。</p>
+
+<h2>日本人に人気のETIAS対象国</h2>
+<p>日本人旅行者に特に人気のあるシェンゲン圏の国々をご紹介します。いずれもETIAS導入後は渡航認証が必要です。</p>
+<ul>
+<li><strong>フランス</strong>：パリ、プロヴァンス、ニースなど。日本人渡航者数はヨーロッパで最多クラス。<a href="/etias-france/">詳しくはこちら</a></li>
+<li><strong>イタリア</strong>：ローマ、フィレンツェ、ベネチア、ミラノなど。世界遺産の数が世界最多。<a href="/etias-italy/">詳しくはこちら</a></li>
+<li><strong>スペイン</strong>：バルセロナ、マドリード、グラナダなど。サグラダ・ファミリアが人気。</li>
+<li><strong>ドイツ</strong>：ミュンヘン、ベルリン、フランクフルトなど。ビジネス渡航も多い。</li>
+<li><strong>スイス</strong>：チューリッヒ、ジュネーブ、ツェルマットなど。アルプスの絶景が魅力。</li>
+<li><strong>フィンランド</strong>：ヘルシンキは日本からの直行便があり、アクセス良好。</li>
+</ul>
+<p>全対象国の一覧は<a href="/etias-countries/">ETIAS対象国一覧</a>をご確認ください。</p>
+
+<h2>現在のヨーロッパ渡航ルール（ETIAS導入前）</h2>
+<p>ETIAS導入前の現在（2026年5月時点）、日本人がシェンゲン圏に渡航する際のルールは以下の通りです。</p>
+<ul>
+<li>ビザなしで入国可能（短期滞在の場合）</li>
+<li>滞在可能期間は180日間のうち最大90日</li>
+<li>パスポートのみで入国手続きが可能</li>
+<li>ETIASの取得は現時点では不要</li>
+</ul>
+<p>ETIAS導入後は上記に加えて、事前のETIAS取得が必要になります。開始時期の最新情報は<a href="/etias-start-date/">ETIASはいつから？</a>をご確認ください。</p>
+
+<h2>よくある質問（FAQ）</h2>
+<h3>Q. 日本のパスポートでETIAS申請は何語で入力しますか？</h3>
+<p>氏名はパスポートに記載されたローマ字で入力します。申請フォーム自体は日本語対応が予定されているため、質問内容は日本語で理解できます。</p>
+
+<h3>Q. 短期のビジネス出張でもETIASは必要ですか？</h3>
+<p>はい。観光だけでなく、短期のビジネス渡航（会議出席、商談など）でもETIASの取得が必要です。ただし、就労（報酬を得る活動）を目的とする場合はETIASではなくビザが必要です。</p>
+
+<h3>Q. 子供も含めて家族全員がETIAS申請する必要がありますか？</h3>
+<p>はい。乳幼児を含むすべての年齢の方に申請が必要です。ただし、18歳未満は申請料が無料です。保護者が代理で申請を行うことができます。</p>
+
+<h3>Q. 日本とヨーロッパの二重国籍の場合はどうなりますか？</h3>
+<p>EU加盟国の国籍を持っている場合は、ETIASは不要です。日本のパスポートで渡航する場合はETIASが必要ですが、EU加盟国のパスポートで入国する場合は不要です。</p>
+
+<h3>Q. ETIASの費用は日本円で支払えますか？</h3>
+<p>申請費用は20ユーロで、クレジットカードの国際決済として処理されます。日本円での直接支払いではなく、カード会社の為替レートでユーロ建ての決済が行われます。<a href="/etias-cost/">費用の詳細はこちら</a></p>
+
+ </div>
+ </article>
+
+      <section class="related-articles">
+ <h2 class="related-title">ETIAS関連記事</h2>
+ <div class="related-grid">
+ <a href="/etias-about/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1485081669829-bacb8c7bb1f3?w=300&h=180&fit=crop" alt="ETIASとは" />
+ <p>ETIASとは？EU渡航認証システムの概要</p>
+ </a>
+ <a href="/etias-application/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=300&h=180&fit=crop" alt="ETIAS申請" />
+ <p>ETIAS申請方法・手順ガイド</p>
+ </a>
+ <a href="/etias-france/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=300&h=180&fit=crop" alt="フランスETIAS" />
+ <p>フランス渡航にETIASは必要？</p>
+ </a>
+ <a href="/etias-italy/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?w=300&h=180&fit=crop" alt="イタリアETIAS" />
+ <p>イタリア渡航にETIASは必要？</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

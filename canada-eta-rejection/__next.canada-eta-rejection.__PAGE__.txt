@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T3e19,<div class="page-layout">
+2:T3b77,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ eTA(イータ)申請が認証拒否となった場合の対処方法</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>eTA(イータ)申請が認証拒否となった場合の対処方法</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -38,8 +38,8 @@
 </nav>
 </div>
 <picture>
-<source alt="認証拒否の理由とは" class="img_big m20-t m20-b" height="392" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p05_01.webp" type="image/webp" width="640"/>
-<img alt="認証拒否の理由とは" class="img_big m20-t m20-b" decoding="async" height="392" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p05_01.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="refusal1">認証拒否の理由とは</h2>
 <p><a class="link-no-color" href="/country-canada/">eTA(イータ)</a>は申請から数時間程で承認される場合が多く72時間以内には認証結果が通知されます。<br />申請時に入力した内容に問題があると判断された場合は、eTA(イータ)申請が“認証拒否”となるケースがあります。<br />認証拒否の主な原因として挙げられるのが、質問の回答欄に「はい」が含まれているケースです。質問は渡航者の過去の犯罪歴や他国での入国拒否の有無など、カナダ入国にあたり問題のない人物であるかを判断する重要なフィルターとなっています。質問事項に「はい」が1つでも該当している方は詳しい内容説明や追加書類を求められ、その後の審査により認証拒否となってしまう場合もあります。また、本来の回答が「いいえ」であるにも関わらず、誤って「はい」と入力した方や、事実と異なる内容を入力した方も認証拒否となることがございます。<br />カナダ移民・難民・市民権省(IRCC)のシステムには、過去に発給されたビザや許可証等の申請情報の記録が保管されています。質問事項を間違えて回答した場合、回答を変更して再度eTA(イータ)申請を行うことも可能ですが、虚偽申請と疑われ申請が拒否されたケースも報告されています。<br />申請時には各項目の質問内容を十分に確認し、正しい情報を入力するよう心がけましょう。</p>
@@ -65,8 +65,8 @@
 <p></p>
 
 <picture>
-<source alt="空港と飛行機" class="img_big m20-t m20-b" height="378" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p05_02.webp" type="image/webp" width="640"/>
-<img alt="空港と飛行機" class="img_big m20-t m20-b" decoding="async" height="378" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p05_02.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="refusal7">eTA(イータ)が認証拒否されてしまうケース</h2>
 <p>カナダ渡航の際は事前にeTA(イータ)申請またはビザの取得を行う必要があり、さらに現地の入国審査を受けたうえでカナダへの入国が可能となります。カナダ移民・難民・市民権省(IRCC)は以下の条件に該当する渡航者を入国拒否と判断する場合があるとアナウンスしています。</p>
@@ -116,6 +116,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

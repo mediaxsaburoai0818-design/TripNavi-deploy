@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T1a3c,<div class="page-layout">
+2:T18c6,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ eTA(イータ)申請とカナダ渡航に関するサイト</div>
 
@@ -9,15 +9,15 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>eTA(イータ)申請とカナダ渡航に関するサイト</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
 
 <h2 class="wp-block-heading">eTA(イータ)申請とカナダ渡航に関するサイト</h2>
 <picture>
-<source alt="eTA(イータ)申請とカナダ渡航に関するサイト" class="img_big m20-t m20-b" height="425" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p21_1.webp" type="image/webp" width="640"/>
-<img alt="eTA(イータ)申請とカナダ渡航に関するサイト" class="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p21_1.jpg" width="640"/>
+
+
 </picture>
 <div class="Class_J">
 <h4>eTA(イータ)公式ページ</h4>
@@ -72,6 +72,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

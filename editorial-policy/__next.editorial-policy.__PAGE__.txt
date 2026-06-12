@@ -1,0 +1,64 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T1469,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        編集方針・情報源ポリシー
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">サイトについて</span>
+        <h1>編集方針・情報源ポリシー</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span>
+          <span class="meta-date">最終更新日：2026年06月10日</span>
+        </div>
+
+        <div class="content">
+          <p>TripsNow（トリップスナウ）は、海外渡航認証（ESTA・eTA・ETAS・UK ETA・K-ETAなど）とビザに関する情報、および各国の旅行情報を提供する総合ガイドサイトです。渡航認証やビザは、料金・要件・対象者が国の制度改正によって変わる<strong>YMYL（People's Money or Life）領域</strong>の情報です。読者の渡航判断に直接影響するため、当サイトでは情報の正確性と透明性を最優先に、以下の方針で制作・運営しています。</p>
+
+          <h2 id="section1">1. 情報源ポリシー（一次情報主義）</h2>
+          <p>当サイトの渡航認証・ビザに関する記述は、原則として<strong>各国政府・公的機関が公開する公式の一次情報</strong>に基づいて作成しています。SNSや出典不明のまとめ情報を根拠にすることはありません。主に参照している公式情報源は次のとおりです。</p>
+          <div class="info-box">
+            <h4>主な参照公式情報源（一次情報）</h4>
+            <ul>
+              <li><strong>アメリカ ESTA：</strong> 米国税関国境警備局（CBP）公式サイト esta.cbp.dhs.gov / cbp.gov</li>
+              <li><strong>イギリス UK ETA：</strong> 英国政府 GOV.UK（gov.uk/eta）</li>
+              <li><strong>カナダ eTA：</strong> カナダ移民・難民・市民権省（IRCC）公式サイト canada.ca</li>
+              <li><strong>オーストラリア ETA：</strong> オーストラリア内務省（Department of Home Affairs）immi.homeaffairs.gov.au</li>
+              <li><strong>韓国 K-ETA：</strong> K-ETA公式サイト k-eta.go.kr</li>
+            </ul>
+          </div>
+          <p>各記事では、料金や要件など重要な数値・条件について、可能な限り該当する公式サイトへのリンクを併記し、読者ご自身が一次情報を確認できるようにしています。</p>
+
+          <h2 id="section2">2. 制作・編集体制</h2>
+          <p>記事はTripsNow編集部が、公式情報の収集・読み込み・整理・執筆・校正の各工程を経て制作しています。制度の概要をわかりやすく解説することに加え、申請時につまずきやすいポイントや判断基準など、読者が実際に手続きを進めるうえで役立つ視点を加えることを重視しています。</p>
+
+          <h2 id="section3">3. 正確性と更新の方針</h2>
+          <p>渡航認証の料金や要件は、各国の制度改正により予告なく変更されることがあります。当サイトでは次の方針で情報の鮮度を保つよう努めています。</p>
+          <ul>
+            <li>各ページに<strong>最終更新日</strong>を表示し、いつ時点の情報かを明確にしています。</li>
+            <li>料金・有効期限・対象者などの重要事項は、定期的に公式情報と照合して見直します。</li>
+            <li>料金などの数値には「最新は公式サイトで確認を」という注意書きを添え、読者が最終確認を行えるようにしています。</li>
+          </ul>
+          <div class="warn-box">
+            <h4>最終確認は必ず公式サイトで</h4>
+            <p>当サイトは正確な情報提供に努めていますが、制度は随時変わります。申請・渡航の前には、必ず各国政府の公式サイトで最新の料金・要件をご確認ください。</p>
+          </div>
+
+          <h2 id="section4">4. 訂正・お問い合わせの方針</h2>
+          <p>掲載内容に誤りや古い情報を発見した場合は、確認のうえ速やかに訂正します。内容に関するご指摘・ご質問は、当サイトのお問い合わせ窓口までお寄せください。</p>
+
+          <h2 id="section5">5. 申請代行サービスではありません</h2>
+          <p>TripsNowは渡航認証・ビザに関する<strong>情報提供サイト</strong>であり、申請の代行を行う事業者ではありません。実際の申請は、各国政府の公式サイトでご自身で行ってください。公式以外の代行サイトの中には、公式料金に高額な手数料を上乗せするものもあるため、ご注意ください。</p>
+
+          <h2 id="section6">6. 免責事項</h2>
+          <p>当サイトの情報の利用にあたっては、<a href="/disclaimer/">免責事項</a>もあわせてご確認ください。</p>
+        </div>
+      </article>
+    </main>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"編集方針・情報源ポリシー\",\"item\":\"https://trips-now.com/editorial-policy/\"}]}"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

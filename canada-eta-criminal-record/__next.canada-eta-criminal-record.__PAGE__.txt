@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4141,<div class="page-layout">
+2:T3e75,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ 前科・犯罪歴がある場合のカナダ入国とeTA(イータ)申請</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>前科・犯罪歴がある場合のカナダ入国とeTA(イータ)申請</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -38,11 +38,11 @@
 </nav>
 </div>
 <picture>
-<source alt="前科" class="img_big m20-t m20-b lazyloaded" height="405" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/cec463fa5472ff7a92b88663960fe7e0.webp" type="image/webp" width="640"/><img alt="前科" class="img_big m20-t m20-b" decoding="async" height="405" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/cec463fa5472ff7a92b88663960fe7e0.jpg" width="640"/>
+
 </picture>
 <h2 class="wp-block-heading" id="criminal1">前科・犯罪歴がある場合もeTA(イータ)は申請できる？</h2>
 <picture>
-<source alt="前科" class="img_big m20-t m20-b lazyloaded" height="80" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/08/0d739cb1e9729099142c3e1eacf37b2b.webp" type="image/webp" width="640"/><img alt="前科" class="img_big m20-t m20-b" decoding="async" height="80" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/08/0d739cb1e9729099142c3e1eacf37b2b.png" width="640"/>
+
 </picture>
 <p>過去に刑事上の有罪判決を受けて逮捕された方は上記の質問に対し、「はい」と回答することが求められます。該当する方は原則としてeTA(イータ)申請によるカナダ渡航が認められないため、ビザの取得をご検討ください。ビザの申請先に関する詳細は「<a href="/canada-visa-center/">カナダビザ申請センター・カナダ大使館について</a>」をご確認ください。</p>
 <p>なお、上記の質問に該当する主な犯罪歴は以下の通りです。</p>
@@ -105,6 +105,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

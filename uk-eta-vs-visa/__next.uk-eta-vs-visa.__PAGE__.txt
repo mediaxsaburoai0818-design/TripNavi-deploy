@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T79b,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"UK ETAとビザは何が違いますか？","acceptedAnswer":{"@type":"Answer","text":"ETAはビザ免除での短期渡航（最長6か月の観光・商用・短期留学など）向けの事前オンライン認証で、ビザはより長期の滞在や就労・留学などに必要な許可です。目的や滞在期間によって必要なものが変わります。"}},{"@type":"Question","name":"観光ならビザではなくETAでいいですか？","acceptedAnswer":{"@type":"Answer","text":"観光や知人訪問など最長6か月の短期渡航であれば、多くの場合ETAで足ります。ただし国籍や状況によるため、必要なものはGOV.UK公式でご確認ください。"}},{"@type":"Question","name":"ETAで働くことはできますか？","acceptedAnswer":{"@type":"Answer","text":"原則できません。英国企業のための有給・無給の就労や自営業はETAでは認められず（一部の例外を除く）、就労にはビザが必要です。"}},{"@type":"Question","name":"長期留学はETAでできますか？","acceptedAnswer":{"@type":"Answer","text":"ETAで認められるのは最長6か月の短期留学までです。6か月を超える留学にはビザが必要です。"}},{"@type":"Question","name":"ETAとビザの両方が必要なことはありますか？","acceptedAnswer":{"@type":"Answer","text":"すでに有効なUKビザなど英国での許可を持っている人はETAは不要です。自分にETAとビザのどちらが必要かはGOV.UK公式でご確認ください。"}},{"@type":"Question","name":"ETAが却下されたらビザを申請できますか？","acceptedAnswer":{"@type":"Answer","text":"ETAで渡航できないと判断された場合、ビザ申請が選択肢になることがあります。詳細は公式でご確認ください。"}}]}3:T2802,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/uk-eta-application/">イギリス</a> ＞
+        UK ETAとビザの違い
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">イギリス渡航ノウハウ</span>
+        <h1>UK ETAとビザの違いをわかりやすく解説</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">UK ETAとビザの基本的な違い</a></li>
+                <li><a href="#section2">比較表で見る違い</a></li>
+                <li><a href="#section3">ETAでできること・ビザが必要なこと</a>
+                  <ul>
+                    <li><a href="#section3-1">ETAで足りるケース</a></li>
+                    <li><a href="#section3-2">ビザが必要なケース</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section4">自分にどちらが必要か</a></li>
+                <li><a href="#section5">よくある質問</a></li>
+                <li><a href="#section6">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>イギリスへ渡航する際、「ETAとビザのどちらが必要なのか」と迷う方は多いです。この記事では、GOV.UK（英国政府公式）の情報をもとに、UK ETAとビザの違いをわかりやすく整理します。</p>
+
+          <h2 id="section1">UK ETAとビザの基本的な違い</h2>
+          <p>大きな違いは「対象とする渡航の性質」です。<strong>UK ETA</strong>は、ビザ免除国の国民が短期（最長6か月）の観光・商用・短期留学・乗り継ぎなどで渡航する際に必要な、入国前の<strong>オンライン認証</strong>です。一方<strong>ビザ</strong>は、より長期の滞在や、就労・長期留学・居住など、ETAでは認められない目的のために必要な<strong>許可</strong>です。</p>
+
+          <h2 id="section2">比較表で見る違い</h2>
+          <table>
+            <tr><th>項目</th><th>UK ETA</th><th>ビザ</th></tr>
+            <tr><td>主な目的</td><td>短期の観光・商用・短期留学・乗り継ぎ</td><td>就労・長期留学・居住・長期滞在など</td></tr>
+            <tr><td>滞在期間</td><td>1回あたり最長6か月</td><td>ビザの種類による（長期も可）</td></tr>
+            <tr><td>申請方法</td><td>公式アプリまたはオンライン</td><td>種類により異なる（書類提出等）</td></tr>
+            <tr><td>就労</td><td>原則不可（一部例外あり）</td><td>就労可能なビザがある</td></tr>
+            <tr><td>位置づけ</td><td>ビザ免除での事前認証</td><td>滞在・活動の許可</td></tr>
+          </table>
+
+          <h2 id="section3">ETAでできること・ビザが必要なこと</h2>
+
+          <h3 id="section3-1">ETAで足りるケース</h3>
+          <div class="info-box">
+            <h4>UK ETAで対応できる主な渡航</h4>
+            <ul>
+              <li>観光、家族・友人の訪問（最長6か月）</li>
+              <li>短期の商用（ビジネス）</li>
+              <li>短期留学（最長6か月）</li>
+              <li>Permitted paid engagement（許可された有償活動）</li>
+              <li>Creative Worker visa concession（最長3か月）</li>
+              <li>入国審査を通過する乗り継ぎ</li>
+            </ul>
+          </div>
+
+          <h3 id="section3-2">ビザが必要なケース</h3>
+          <div class="warn-box">
+            <h4>ETAでは対応できず、ビザが必要な主なケース</h4>
+            <ul>
+              <li>6か月を超える滞在</li>
+              <li>英国企業のための就労・自営業（一部例外を除く）</li>
+              <li>6か月を超える長期留学</li>
+              <li>イギリスでの居住</li>
+              <li>結婚・シビルパートナーシップの登録や届け出</li>
+            </ul>
+          </div>
+
+          <h2 id="section4">自分にどちらが必要か</h2>
+          <p>必要なものは、<strong>国籍と渡航の目的</strong>によって決まります。短期の観光や商用ならETAで足りることが多い一方、就労や長期滞在ならビザが必要です。また、すでに有効なUKビザなど英国での許可を持っている人は、ETAを取得する必要はありません。</p>
+          <p>自分の状況でETAとビザのどちらが必要かは、必ずGOV.UK公式サイトでご確認ください。ETAが却下された場合にビザ申請を検討するケースについては<a href="/uk-eta-rejection/">却下された場合の記事</a>もあわせてご覧ください。</p>
+
+          <h2 id="section5">よくある質問</h2>
+          <div class="faq-item"><h3>Q1: ETAとビザは何が違う？</h3><p><strong>A:</strong> ETAは短期渡航向けの事前オンライン認証、ビザは長期滞在や就労などに必要な許可です。目的と期間で必要なものが変わります。</p></div>
+          <div class="faq-item"><h3>Q2: 観光ならETAでいい？</h3><p><strong>A:</strong> 最長6か月の観光なら多くの場合ETAで足ります。国籍・状況によるため公式でご確認ください。</p></div>
+          <div class="faq-item"><h3>Q3: ETAで働ける？</h3><p><strong>A:</strong> 原則できません。就労にはビザが必要です（一部の例外を除く）。</p></div>
+          <div class="faq-item"><h3>Q4: 長期留学はETAでできる？</h3><p><strong>A:</strong> ETAは最長6か月の短期留学まで。6か月超の留学にはビザが必要です。</p></div>
+          <div class="faq-item"><h3>Q5: ETAとビザ両方必要なことは？</h3><p><strong>A:</strong> 有効なUKビザなど許可を持つ人はETA不要です。どちらが必要かは公式でご確認ください。</p></div>
+          <div class="faq-item"><h3>Q6: ETA却下後にビザを申請できる？</h3><p><strong>A:</strong> ETAで渡航できない場合、ビザ申請が選択肢になることがあります。詳細は公式でご確認ください。</p></div>
+
+          <h2 id="section6">まとめ</h2>
+          <p>UK ETAはビザ免除での短期渡航（最長6か月の観光・商用・短期留学・乗り継ぎなど）向けのオンライン認証で、就労や長期滞在にはビザが必要です。自分の渡航にETAとビザのどちらが必要かは、国籍と目的によって変わるため、必ずGOV.UK公式でご確認ください。</p>
+          <div class="info-box">
+            <h4>違いのポイント</h4>
+            <ul>
+              <li>ETA：短期渡航向けの事前認証（最長6か月）</li>
+              <li>ビザ：就労・長期滞在・居住などの許可</li>
+              <li>就労・6か月超の滞在にはビザが必要</li>
+              <li>必要なものは国籍と目的で決まる（公式で確認）</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/uk-eta-about/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAとは？制度概要を解説</h3></div></a>
+            <a href="/uk-eta-validity/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAの有効期限</h3></div></a>
+            <a href="/uk-eta-rejection/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAが却下された場合の対応</h3></div></a>
+            <a href="/uk-eta-transit/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>乗り継ぎ・トランジットでUK ETAは必要？</h3></div></a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">UK ETA関連記事</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-application/" style="color: #D4885A; text-decoration: underline;">イギリスETAとは？申請方法を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-criminal-record/" style="color: #D4885A; text-decoration: underline;">犯罪歴がある場合のUK ETA申請</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-timing/" style="color: #D4885A; text-decoration: underline;">UK ETA申請のタイミング</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">UK ETA関連記事</h3>
+        <ol class="sidebar-ranking">
+          <li><a href="/uk-eta-application/"><span class="rank-num">1</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">イギリスETAの申請方法</div></div></a></li>
+          <li><a href="/uk-eta-about/"><span class="rank-num">2</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">UK ETAとは</div></div></a></li>
+          <li><a href="/uk-eta-validity/"><span class="rank-num">3</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">UK ETAの有効期限</div></div></a></li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"イギリス\",\"item\":\"https://trips-now.com/uk-eta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UK ETAとビザの違い\",\"item\":\"https://trips-now.com/uk-eta-vs-visa/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

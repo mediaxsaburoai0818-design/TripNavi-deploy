@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T6541,<div class="page-layout">
+2:T5e97,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ オーストラリアお土産13選 【人気＆定番からおすすめまでご紹介】</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>オーストラリアお土産13選 【人気＆定番からおすすめまでご紹介】</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -49,8 +49,8 @@
 </nav>
 </div>
 <picture>
-<source alt="マカダミアナッツ / Macadamia nuts" class="img_big m20-t m20-b" height="412" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/e366181d2f39dae101d2089c9d5c4688-1.webp" type="image/webp" width="640"/>
-<img alt="マカダミアナッツ / Macadamia nuts" class="img_big m20-t m20-b" decoding="async" height="412" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/e366181d2f39dae101d2089c9d5c4688-1.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="souvenirs1">オーストラリア旅行を満喫するために</h2>
 <p>日本から毎年約50万人が訪れるオーストラリアには、豊かな自然や大都市、歴史的建造物など多彩な<a href="/australia-top-destinations/">観光スポット</a>があります。旅行ではお土産を購入する方も多いと思いますが、価格や購入場所に加え「定番のお土産は避けた方が良い？」など悩みどころは多いのではないでしょうか。このページでは現地でお土産探しに悩むことが無いよう、オーストラリア土産の定番からおすすめまで紹介します。</p>
@@ -70,8 +70,8 @@
 <h3 class="wp-block-heading" id="souvenirs8">紅茶</h3>
 <p>オーストラリアで紅茶と言えば専門店の「T2」が有名です。ビクトリア州メルボルン発祥の「T2」は、1996年にフィッツロイで1号店がオープンしてから今日までオーストラリア国民に愛される紅茶専門店です。T2は紅茶だけでなくハーブティーやフルーツティー、緑茶やウーロン茶なども取り扱い、200種類以上のフレーバーがあります。店内では試飲もできるので渡す相手を想像しながらセレクトしてみてはいかがでしょうか。味もさることながらキューブ型のパッケージがカラフルで目を引きます。<br />また、イギリス発祥の紅茶ブランド「TWININGS(トワイニング)」はオーストラリア限定フレーバー「AUSTRARIAN AFTERNOON TEA」を販売しています。地元のスーパーマーケットなどでも販売され、T2と比べてお手頃価格で購入できます。</p>
 <picture>
-<source alt="コアラグッズ" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/a66ebf21d496b29f964684ce82100de3.webp" type="image/webp" width="640"/>
-<img alt="コアラグッズ" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/a66ebf21d496b29f964684ce82100de3.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="souvenirs9">オーストラリアのお土産 グッズ</h2>
 <h3 class="wp-block-heading" id="souvenirs10">コアラグッズ</h3>
@@ -86,8 +86,8 @@
 <h3 class="wp-block-heading" id="souvenirs14">ラウンドタオル / Round Towel</h3>
 <p>世界で最も美しいビーチのひとつと言われるホワイトヘブンビーチをはじめ、オーストラリアには数多くの美しいビーチがあります。ビーチ大国で人気のあるラウンドタオルは近年SNSで注目され、お土産としても人気です。大人が寝転がれるほど大きい円形のラウンドタオルは、サーフブランドやファッションブランドなどで多く販売されています。オーストラリアのブランド「the beach people」はラウンドタオルの発祥店といわれ、多種多様なデザインを取り揃えています。ラウンドタオルには砂がつきにくい加工や渇きやすい布が使用され利便性に優れます。ビーチ以外でもブランケットやラグとして活躍するためオシャレ好きな方へのお土産にピッタリです。</p>
 <picture>
-<source alt="オーストラリアのお土産 化粧品" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/5f78f174b2f54463dbfc3ba8e69555c2.webp" type="image/webp" width="640"/>
-<img alt="オーストラリアのお土産 化粧品" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/5f78f174b2f54463dbfc3ba8e69555c2.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="souvenirs15">オーストラリアのお土産 化粧品</h2>
 <h3 class="wp-block-heading" id="souvenirs16">ユーカリオイル / Eucalyptus Oil</h3>
@@ -95,8 +95,8 @@
 <h3 class="wp-block-heading" id="souvenirs17">ティーツリーオイル / Tea Tree Oil</h3>
 <p>殺菌や抗菌、抗炎症作用に優れ感染症予防や肌トラブル対策にも有効なティーツリーオイルは、ユーカリオイルと共にオーストラリアの家庭における常備品のひとつです。ティーツリーオイルはオーストラリア東海岸の亜熱帯地域に自生するフトモモ科の植物“ティーツリー”の葉を水蒸気蒸留して抽出されます。<a href="/australia-aboriginal-culture/">オーストラリアの先住民アボリジナル(アボリジニ)</a>はティーツリーの葉で怪我の殺菌消毒や皮膚トラブルの治療を行っていたと言われます。ティーツリーはオイルやスキンクリームなどを始め様々な商品に使用され、水虫の治療に効くフットパウダーなども販売されています。スーパーマーケットやドラッグストアなどで購入できます。</p>
 <picture>
-<source alt="ティーツリーオイルTea Tree Oil" class="img_big m20-t m20-b" height="363" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/a9ace6debae66612773a34bff5990db2.webp" type="image/webp" width="640"/>
-<img alt="ティーツリーオイルTea Tree Oil" class="img_big m20-t m20-b" decoding="async" height="363" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/a9ace6debae66612773a34bff5990db2.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="souvenirs18">オーストラリア入国について</h2>
 <p>海外渡航者がオーストラリアへ入国する際は、ETAS(イータス)またはビザを取得する必要があります。渡航目的や滞在日数などによって取得するビザの種類は異なります。ビザの申請は<a href="https://immi.homeaffairs.gov.au/" rel="noreferrer noopener" target="_blank">オーストラリア内務省サイト</a>にてオンラインで行いましょう。パスポートの残存期間はオーストラリアに滞在する期間を含む日数であれば問題ありません。未成年者がビザ申請をする際の追加書類については「<a href="/australia-aboriginal-culture/">未成年のオーストラリア渡航について</a>」よりご確認ください。また、オーストラリアでは固有の動植物の保護と環境維持のため、入国する際に厳しい検疫が行われます。検疫についての詳細は<a href="https://japan.embassy.gov.au/tkyojapanese/quarantine_jp.html" rel="noreferrer noopener" target="_blank">オーストラリア大使館のページ</a>よりご確認ください。</p>
@@ -129,6 +129,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

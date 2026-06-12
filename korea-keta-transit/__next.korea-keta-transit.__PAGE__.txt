@@ -1,0 +1,143 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T962,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"韓国で乗り継ぎするだけならK-ETAは必要ですか？","acceptedAnswer":{"@type":"Answer","text":"同じ空港の制限エリア内で乗り継ぎ、入国審査を受けずに次の便に乗る場合は、原則としてK-ETAは不要です。一方、入国エリアに出る場合や荷物を受け取る場合は必要になります。"}},{"@type":"Question","name":"乗り継ぎで入国エリアに出るとK-ETAが必要ですか？","acceptedAnswer":{"@type":"Answer","text":"はい。乗り継ぎでもいったん入国審査を受けて入国エリアに出る場合は、K-ETA（または免除措置の対象であればその扱い）が必要です。"}},{"@type":"Question","name":"預け荷物を受け取って預け直す場合はどうですか？","acceptedAnswer":{"@type":"Answer","text":"荷物をいったん受け取って入国エリアに出る必要がある場合は、入国扱いとなりK-ETAが必要になることがあります。経由地での荷物の扱いは、利用する航空会社に事前に確認してください。"}},{"@type":"Question","name":"免除措置の対象国民でも乗り継ぎでK-ETAは必要ですか？","acceptedAnswer":{"@type":"Answer","text":"一時免除措置の対象国・地域の国民は、免除期間中はK-ETAなしで入国できます。乗り継ぎで入国する場合もこの扱いが適用されますが、免除期間や条件は変動するため公式サイトで確認してください。"}},{"@type":"Question","name":"空港の外に一時的に出る乗り継ぎツアーはどうなりますか？","acceptedAnswer":{"@type":"Answer","text":"乗り継ぎの待ち時間に空港外へ出る場合は入国扱いとなり、K-ETAまたは免除措置の対象としての入国手続きが必要です。利用する制度・プログラムの条件を事前に確認しましょう。"}},{"@type":"Question","name":"乗り継ぎでも電子入国申告書（e-Arrival Card）は必要ですか？","acceptedAnswer":{"@type":"Answer","text":"入国エリアに出る場合は、電子入国申告書（e-Arrival Card）の提出が求められることがあります。乗り継ぎのみで入国しない場合は不要です。最新の要否は公式情報で確認してください。"}}]}3:T2f4d,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/korea-keta-application/">韓国 K-ETA</a> ＞
+        乗り継ぎでの要否
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>乗り継ぎ（トランジット）でK-ETAは必要？要否を解説【韓国】</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">乗り継ぎでK-ETAが必要かの基本</a></li>
+                <li><a href="#section2">ケース別の要否</a>
+                  <ul>
+                    <li><a href="#section2-1">制限エリア内のみで乗り継ぎ</a></li>
+                    <li><a href="#section2-2">入国エリアに出る乗り継ぎ</a></li>
+                    <li><a href="#section2-3">荷物を受け取る場合</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section3">免除措置との関係</a></li>
+                <li><a href="#section4">乗り継ぎ前に確認したいこと</a></li>
+                <li><a href="#section5">よくある質問</a></li>
+                <li><a href="#section6">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>韓国の空港を経由して第三国へ向かうとき、「乗り継ぎだけでもK-ETAは必要？」と迷う方は多いはずです。答えは<strong>「入国エリアに出るかどうか」</strong>で変わります。この記事で、ケース別に要否を整理します。</p>
+
+          <h2 id="section1">乗り継ぎでK-ETAが必要かの基本</h2>
+          <p>判断の基準はシンプルで、<strong>入国審査を受けて入国エリアに出るかどうか</strong>です。同じ空港の制限エリア内で次の便に乗り継ぐだけなら、原則K-ETAは不要です。一方、いったん入国する場合は必要になります。</p>
+
+          <div class="info-box">
+            <h4>基本の判断基準</h4>
+            <ul>
+              <li><strong>制限エリア内で乗り継ぐだけ</strong> → 原則K-ETA不要</li>
+              <li><strong>入国エリアに出る</strong> → K-ETA（または免除措置の対象としての入国手続き）が必要</li>
+              <li><strong>荷物を受け取って入国する</strong> → 必要になることがある</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">ケース別の要否</h2>
+
+          <h3 id="section2-1">制限エリア内のみで乗り継ぎ</h3>
+          <p>到着便から出発便へ、空港の制限エリア（トランジットエリア）内だけで移動し、入国審査を受けない場合は、原則として<strong>K-ETAは不要</strong>です。荷物も最終目的地まで通しで預けている（スルーチェックイン）ことが前提になります。</p>
+
+          <h3 id="section2-2">入国エリアに出る乗り継ぎ</h3>
+          <p>乗り継ぎの待ち時間に観光したい、空港外のホテルに泊まりたいなど、<strong>いったん入国審査を受けて入国エリアに出る場合は、K-ETAが必要</strong>です。免除措置の対象国・地域の国民であれば、免除期間中はその扱いで入国できます。</p>
+
+          <h3 id="section2-3">荷物を受け取る場合</h3>
+          <p>航空券の予約状況によっては、乗り継ぎ地で<strong>預け荷物をいったん受け取り、預け直す</strong>必要があるケースがあります。この場合、入国エリアに出ることになり、入国手続きが必要になることがあります。荷物の扱いは航空会社によって異なるため、事前に確認しましょう。</p>
+
+          <div class="warn-box">
+            <h4>航空会社・空港に事前確認を</h4>
+            <p>乗り継ぎの動線や荷物の扱いは、航空券の発券状況や空港の運用によって変わります。「自分のケースで入国エリアに出る必要があるか」は、利用する航空会社に事前に確認するのが確実です。</p>
+          </div>
+
+          <h2 id="section3">免除措置との関係</h2>
+          <p>現在は2026年12月31日まで、日本を含む22の国・地域を対象に、K-ETAの一時免除措置が実施されています。<strong>免除措置の対象国・地域の国民は、免除期間中はK-ETAなしで入国できる</strong>ため、乗り継ぎで入国する場合もこの扱いが適用されます。</p>
+
+          <div class="info-box">
+            <h4>免除期間は変動します</h4>
+            <p>一時免除措置の期限は延長・短縮される可能性があります。渡航時点での要否は、必ずK-ETA公式サイト（www.k-eta.go.kr）や駐日本国大韓民国大使館で最新情報をご確認ください。</p>
+          </div>
+
+          <h2 id="section4">乗り継ぎ前に確認したいこと</h2>
+          <ul>
+            <li>乗り継ぎで<strong>入国エリアに出る必要があるか</strong>（航空会社に確認）</li>
+            <li>荷物がスルーチェックインされているか</li>
+            <li>免除措置の対象か、対象期間中か（公式サイトで確認）</li>
+            <li>入国する場合は<strong>電子入国申告書（e-Arrival Card）</strong>の要否</li>
+            <li>第三国（最終目的地）側の入国・渡航認証要件</li>
+          </ul>
+
+          <h2 id="section5">よくある質問</h2>
+          <div class="faq-item"><h3>Q: 韓国で乗り継ぎするだけならK-ETAは必要ですか？</h3><p><strong>A:</strong> 同じ空港の制限エリア内で乗り継ぎ、入国審査を受けずに次の便に乗る場合は、原則としてK-ETAは不要です。一方、入国エリアに出る場合や荷物を受け取る場合は必要になります。</p></div>
+          <div class="faq-item"><h3>Q: 乗り継ぎで入国エリアに出るとK-ETAが必要ですか？</h3><p><strong>A:</strong> はい。乗り継ぎでもいったん入国審査を受けて入国エリアに出る場合は、K-ETA（または免除措置の対象であればその扱い）が必要です。</p></div>
+          <div class="faq-item"><h3>Q: 預け荷物を受け取って預け直す場合はどうですか？</h3><p><strong>A:</strong> 荷物をいったん受け取って入国エリアに出る必要がある場合は、入国扱いとなりK-ETAが必要になることがあります。経由地での荷物の扱いは、利用する航空会社に事前に確認してください。</p></div>
+          <div class="faq-item"><h3>Q: 免除措置の対象国民でも乗り継ぎでK-ETAは必要ですか？</h3><p><strong>A:</strong> 一時免除措置の対象国・地域の国民は、免除期間中はK-ETAなしで入国できます。乗り継ぎで入国する場合もこの扱いが適用されますが、免除期間や条件は変動するため公式サイトで確認してください。</p></div>
+          <div class="faq-item"><h3>Q: 空港の外に一時的に出る乗り継ぎツアーはどうなりますか？</h3><p><strong>A:</strong> 乗り継ぎの待ち時間に空港外へ出る場合は入国扱いとなり、K-ETAまたは免除措置の対象としての入国手続きが必要です。利用する制度・プログラムの条件を事前に確認しましょう。</p></div>
+          <div class="faq-item"><h3>Q: 乗り継ぎでも電子入国申告書（e-Arrival Card）は必要ですか？</h3><p><strong>A:</strong> 入国エリアに出る場合は、電子入国申告書（e-Arrival Card）の提出が求められることがあります。乗り継ぎのみで入国しない場合は不要です。最新の要否は公式情報で確認してください。</p></div>
+
+          <h2 id="section6">まとめ</h2>
+          <p>韓国での乗り継ぎでK-ETAが必要かは、<strong>入国エリアに出るかどうか</strong>で決まります。制限エリア内だけで乗り継ぐ場合は原則不要、入国エリアに出る場合や荷物を受け取って入国する場合は必要です。</p>
+          <p>現在は2026年12月31日まで、日本を含む対象国・地域はK-ETAが一時免除されています。ただし免除期間や乗り継ぎの動線は変わり得るため、渡航前に航空会社とK-ETA公式サイトの両方で確認しておくと安心です。</p>
+
+          <div class="info-box">
+            <h4>乗り継ぎ時のポイント</h4>
+            <ul>
+              <li>制限エリア内のみの乗り継ぎは原則K-ETA不要</li>
+              <li>入国エリアに出る・荷物を受け取る場合は必要</li>
+              <li>免除措置対象国民は免除期間中は不要</li>
+              <li>動線・荷物の扱いは航空会社に事前確認</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-about/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAとは？制度の概要</h3></div></a>
+            <a href="/korea-keta-application/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAの申請方法を解説</h3></div></a>
+            <a href="/korea-keta-vs-visa/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAとビザの違い</h3></div></a>
+            <a href="/korea-keta-validity/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAの有効期限</h3></div></a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">韓国K-ETAの関連記事</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-check/" style="color: #D4885A; text-decoration: underline;">申請状況・結果を確認する方法</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-smartphone/" style="color: #D4885A; text-decoration: underline;">スマホ・アプリでのK-ETA申請方法</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-rejection/" style="color: #D4885A; text-decoration: underline;">K-ETAが却下された場合の対処法</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">韓国K-ETA 記事一覧</h3>
+        <ol class="sidebar-ranking">
+          <li><a href="/korea-keta-application/"><span class="rank-num">1</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">K-ETAの申請方法</div></div></a></li>
+          <li><a href="/korea-keta-about/"><span class="rank-num">2</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">K-ETAとは？制度概要</div></div></a></li>
+          <li><a href="/korea-keta-vs-visa/"><span class="rank-num">3</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">K-ETAとビザの違い</div></div></a></li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"韓国 K-ETA\",\"item\":\"https://trips-now.com/korea-keta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"乗り継ぎでのK-ETA要否\",\"item\":\"https://trips-now.com/korea-keta-transit/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

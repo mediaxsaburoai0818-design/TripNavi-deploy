@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4878,<div class="page-layout">
+2:T4f78,<div class="page-layout">
     <main class="page-main">
       <div class="breadcrumb">
         <a href="/">ホーム</a> ＞ 
@@ -14,7 +14,7 @@
         <span class="card-tag">韓国渡航ノウハウ</span>
         <h1>K-ETA(電子旅行許可証)とは？申請方法や一時免除措置について解説【韓国旅行】</h1>
         <div class="article-meta">
-          <span class="meta-date">更新日：2026年03月31日</span>
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月31日</span>
         </div>
 
         <div class="content">
@@ -303,6 +303,7 @@
             <li style="margin-bottom: 0.5rem;"><a href="/usa-vwp/" style="color: #D4885A; text-decoration: underline;">ビザ免除プログラム(VWP)とは？対象国・条件・ESTAとの違いを解説</a></li>
           </ul>
         </section>
+      <section style="margin-top:2rem;padding:1.5rem;background-color:#FFF8F3;border-radius:12px;border-left:4px solid #D4885A;"><h3 style="margin-top:0;color:#D4885A;font-size:1.1rem;">韓国K-ETAの関連記事</h3><ul style="list-style:none;padding:0;margin:0;"><li style="margin-bottom:0.5rem;"><a href="/korea-keta-about/" style="color:#D4885A;text-decoration:underline;">K-ETAとは？制度の概要</a></li><li style="margin-bottom:0.5rem;"><a href="/korea-keta-vs-visa/" style="color:#D4885A;text-decoration:underline;">K-ETAとビザの違い</a></li><li style="margin-bottom:0.5rem;"><a href="/korea-keta-validity/" style="color:#D4885A;text-decoration:underline;">K-ETAの有効期限はいつまで？</a></li><li style="margin-bottom:0.5rem;"><a href="/korea-keta-smartphone/" style="color:#D4885A;text-decoration:underline;">スマホ・アプリで申請する方法</a></li><li style="margin-bottom:0.5rem;"><a href="/korea-keta-check/" style="color:#D4885A;text-decoration:underline;">申請状況・審査結果を確認する方法</a></li><li style="margin-bottom:0.5rem;"><a href="/korea-keta-rejection/" style="color:#D4885A;text-decoration:underline;">却下された場合の原因と対処</a></li><li style="margin-bottom:0.5rem;"><a href="/korea-keta-renewal/" style="color:#D4885A;text-decoration:underline;">更新・再申請が必要なケース</a></li><li style="margin-bottom:0.5rem;"><a href="/korea-keta-criminal-record/" style="color:#D4885A;text-decoration:underline;">犯罪歴がある場合の考え方</a></li><li style="margin-bottom:0.5rem;"><a href="/korea-keta-transit/" style="color:#D4885A;text-decoration:underline;">乗り継ぎでK-ETAは必要？</a></li></ul></section>
       </article>
     </main>
 
@@ -341,6 +342,6 @@
         </ol>
       </div>
     </aside>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

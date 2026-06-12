@@ -1,0 +1,145 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T7c3,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"UK ETAは更新できますか？","acceptedAnswer":{"@type":"Answer","text":"UK ETAには既存のものを延長する「更新」の仕組みはなく、有効期限が切れたら新たに申請（再申請）するのが基本です。再申請も最初の申請と同じ手順・料金で行います。"}},{"@type":"Question","name":"パスポートを新しくしたらETAも取り直す必要がありますか？","acceptedAnswer":{"@type":"Answer","text":"ETAは申請に使ったパスポートに電子的に紐づきます。パスポートを新しくした場合は、新しいパスポートでETAを取り直すことになります。詳細は公式サイトでご確認ください。"}},{"@type":"Question","name":"ETAの有効期限が切れたらどうすればいいですか？","acceptedAnswer":{"@type":"Answer","text":"有効期限（2年間またはパスポート失効まで）が過ぎた場合は、次の渡航前に再度ETAを申請します。早めに申請しておくと安心です。"}},{"@type":"Question","name":"再申請の料金はいくらですか？","acceptedAnswer":{"@type":"Answer","text":"再申請も新規申請と同じ£20が基本です。料金は改定される可能性があるため、最新額は公式サイトでご確認ください。"}},{"@type":"Question","name":"有効なETAがあるうちに次のETAを申請できますか？","acceptedAnswer":{"@type":"Answer","text":"取り扱いは状況により異なる場合があります。重複申請や料金の扱いについては、最新の運用をGOV.UK公式サイトでご確認ください。"}},{"@type":"Question","name":"再申請でも審査時間は同じですか？","acceptedAnswer":{"@type":"Answer","text":"再申請でも審査の流れは新規と同様で、通常1日程度、最長3営業日が目安です。早めに申請しましょう。"}}]}3:T2ab0,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/uk-eta-application/">イギリス</a> ＞
+        UK ETAの更新・再申請
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">イギリス渡航ノウハウ</span>
+        <h1>UK ETAの更新・再申請のやり方と注意点を解説</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">UK ETAに「更新」はある？</a>
+                  <ul>
+                    <li><a href="#section1-1">期限が切れたら「再申請」が基本</a></li>
+                    <li><a href="#section1-2">パスポートを変更したときの扱い</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section2">再申請が必要になる主なケース</a></li>
+                <li><a href="#section3">再申請の手順と料金</a></li>
+                <li><a href="#section4">再申請時の注意点</a></li>
+                <li><a href="#section5">よくある質問</a></li>
+                <li><a href="#section6">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>一度取得したUK ETAは有効期間が決まっているため、期限が来たら次の渡航に向けて手続きが必要になります。この記事では、GOV.UK（英国政府公式）の情報をもとに、UK ETAの「更新」と「再申請」の考え方を整理します。</p>
+
+          <h2 id="section1">UK ETAに「更新」はある？</h2>
+          <p>UK ETAには、既存のETAをそのまま延長するような「更新」の仕組みはありません。有効期間が終わった後に再びイギリスへ渡航する場合は、<strong>新たにETAを申請（再申請）</strong>することになります。</p>
+
+          <h3 id="section1-1">期限が切れたら「再申請」が基本</h3>
+          <p>UK ETAの有効期間は<strong>承認から2年間、またはパスポートの有効期限までのいずれか早い方</strong>です。この期間が過ぎたら、次の渡航前に改めてETAを申請します。手順や料金は最初の申請と同じです。</p>
+
+          <h3 id="section1-2">パスポートを変更したときの扱い</h3>
+          <p>ETAは申請に使ったパスポートに電子的に紐づいています。そのため、<strong>パスポートを新しくした場合は、新しいパスポートでETAを取り直す</strong>のが基本的な考え方です。パスポート更新後の具体的な取り扱いは変更されることもあるため、最新の案内は公式サイトでご確認ください。</p>
+
+          <div class="info-box">
+            <h4>更新・再申請の基本</h4>
+            <ul>
+              <li>延長型の「更新」はなく、期限切れ後は「再申請」</li>
+              <li>有効期間：2年間またはパスポート失効まで</li>
+              <li>パスポートを変えたら新しいパスポートで取り直し</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">再申請が必要になる主なケース</h2>
+          <ul>
+            <li><strong>有効期限が切れた：</strong> 2年が経過、またはパスポートが失効した場合。</li>
+            <li><strong>パスポートを更新・変更した：</strong> 新しいパスポート番号でETAが必要になる場合。</li>
+            <li><strong>前回のETAが却下・失効した：</strong> 状況に応じて改めて申請が必要な場合。</li>
+          </ul>
+          <p>いずれの場合も、渡航前に有効なETAが手元にあることが大切です。</p>
+
+          <h2 id="section3">再申請の手順と料金</h2>
+          <p>再申請は新規申請と同じく、公式アプリ「UK ETA」またはオンラインから行います。必要なものは、有効なパスポート、メールアドレス、顔写真、支払い手段です。</p>
+          <table>
+            <tr><th>項目</th><th>内容</th></tr>
+            <tr><td>申請方法</td><td>公式アプリまたはオンライン（新規と同じ）</td></tr>
+            <tr><td>料金</td><td>£20（新規と同じ・返金不可）</td></tr>
+            <tr><td>審査時間</td><td>通常1日程度、最長3営業日が目安</td></tr>
+          </table>
+          <div class="warn-box">
+            <h4>料金は事前に確認を</h4>
+            <p>料金は改定される可能性があります。再申請の前に、必ずGOV.UK公式サイトで最新の料金をご確認ください。</p>
+          </div>
+
+          <h2 id="section4">再申請時の注意点</h2>
+          <div class="warn-box">
+            <h4>3つの注意点</h4>
+            <p><strong>1. 渡航で使うパスポートで申請する</strong></p>
+            <p>ETAはパスポートに紐づくため、実際に渡航するパスポートと同じもので申請してください。</p>
+            <p><strong>2. 入力ミスに注意</strong></p>
+            <p>氏名やパスポート番号のスペルミスがあると、渡航時に問題になる可能性があります。返金はされません。</p>
+            <p><strong>3. 早めに申請する</strong></p>
+            <p>審査に最長3営業日かかることを見込み、渡航直前ではなく余裕を持って申請しましょう。</p>
+          </div>
+
+          <h2 id="section5">よくある質問</h2>
+          <div class="faq-item"><h3>Q1: UK ETAは更新できますか？</h3><p><strong>A:</strong> 延長型の更新はありません。期限が切れたら新たに再申請します。手順・料金は新規と同じです。</p></div>
+          <div class="faq-item"><h3>Q2: パスポートを新しくしたら取り直しが必要？</h3><p><strong>A:</strong> ETAはパスポートに紐づくため、新しいパスポートで取り直すのが基本です。詳細は公式でご確認ください。</p></div>
+          <div class="faq-item"><h3>Q3: 有効期限が切れたらどうする？</h3><p><strong>A:</strong> 次の渡航前に改めてETAを申請します。早めの申請がおすすめです。</p></div>
+          <div class="faq-item"><h3>Q4: 再申請の料金は？</h3><p><strong>A:</strong> 新規と同じ£20が基本です。最新額は公式サイトでご確認ください。</p></div>
+          <div class="faq-item"><h3>Q5: 有効なETAがあるうちに次を申請できる？</h3><p><strong>A:</strong> 取り扱いは状況によります。重複申請や料金の扱いは公式の最新運用をご確認ください。</p></div>
+          <div class="faq-item"><h3>Q6: 再申請でも審査時間は同じ？</h3><p><strong>A:</strong> 新規と同様、通常1日程度・最長3営業日が目安です。</p></div>
+
+          <h2 id="section6">まとめ</h2>
+          <p>UK ETAには延長型の「更新」はなく、有効期限（2年間またはパスポート失効まで）が切れたら新たに「再申請」するのが基本です。パスポートを変更した場合も新しいパスポートで取り直します。料金は新規と同じ£20で、審査は最長3営業日が目安です。渡航で使うパスポートで、早めに申請しましょう。</p>
+          <div class="info-box">
+            <h4>更新・再申請のポイント</h4>
+            <ul>
+              <li>延長型の更新はなく期限切れ後は再申請</li>
+              <li>パスポート変更時は取り直し</li>
+              <li>料金は新規と同じ£20（最新は公式確認）</li>
+              <li>渡航で使うパスポートで早めに申請</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/uk-eta-validity/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAの有効期限</h3></div></a>
+            <a href="/uk-eta-about/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAとは？制度概要を解説</h3></div></a>
+            <a href="/uk-eta-rejection/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAが却下された場合の対応</h3></div></a>
+            <a href="/uk-eta-timing/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETA申請のタイミング</h3></div></a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">UK ETA関連記事</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-application/" style="color: #D4885A; text-decoration: underline;">イギリスETAとは？申請方法を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-smartphone/" style="color: #D4885A; text-decoration: underline;">スマホアプリでのUK ETA申請方法</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-check/" style="color: #D4885A; text-decoration: underline;">UK ETAの申請状況・審査結果の確認方法</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">UK ETA関連記事</h3>
+        <ol class="sidebar-ranking">
+          <li><a href="/uk-eta-application/"><span class="rank-num">1</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">イギリスETAの申請方法</div></div></a></li>
+          <li><a href="/uk-eta-validity/"><span class="rank-num">2</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">UK ETAの有効期限</div></div></a></li>
+          <li><a href="/uk-eta-about/"><span class="rank-num">3</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">UK ETAとは</div></div></a></li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"イギリス\",\"item\":\"https://trips-now.com/uk-eta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UK ETAの更新・再申請\",\"item\":\"https://trips-now.com/uk-eta-renewal/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

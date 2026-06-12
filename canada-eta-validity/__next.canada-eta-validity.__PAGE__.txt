@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T586c,<div class="page-layout">
+2:T56a6,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -38,8 +38,8 @@
 </nav>
 </div>
 <picture>
-<source alt="カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について" class="img_big m20-t m20-b" height="448" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/MwuNKV8unDYn9Qn1587451444.webp" type="image/webp" width="640"/>
-<img alt="カナダ電子渡航認証eTA(イータ)の有効期限や確認方法について" class="img_big m20-t m20-b" decoding="async" height="448" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/MwuNKV8unDYn9Qn1587451444.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="reapplication1">eTA(イータ)の有効期限は5年間となります</h2>
 <p><a class="aioseop-link" href="/country-canada/">eTA(イータ)</a>の有効期限は渡航認証許可が下りた日から5年間と定められております。延長という制度はございませんので、今後もカナダへ渡航する予定がある方はeTA(イータ)の有効期限が切れるタイミングに合わせ、改めて申請を行ってください。改めて申請を行うと、この先5年間有効な新しいeTA(イータ)番号が付与され、それまでのeTA(イータ)番号は使用できなくなりますので予めご了承ください。また、パスポートの有効期限が5年未満の場合は、パスポートの有効期限日と同日にeTA(イータ)も失効となりますのでご注意ください。カナダへの渡航が決まりましたらご本人様と同行者様のパスポートの有効期限をご確認いただき、有効期限に余裕のない場合はパスポートの更新をご検討ください。パスポートの有効期限が半年未満の場合は必ずパスポートを更新いただき、その後eTA(イータ)を申請されることをお勧めいたします。</p>
@@ -111,6 +111,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

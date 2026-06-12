@@ -1,0 +1,162 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T875,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"K-ETAはスマホだけで申請できますか？","acceptedAnswer":{"@type":"Answer","text":"できます。公式アプリ「K-ETA」または公式サイト（www.k-eta.go.kr）にスマホからアクセスすれば、パスポート情報の入力から顔写真のアップロード、決済まですべてスマホで完結します。"}},{"@type":"Question","name":"公式アプリはどこで入手できますか？","acceptedAnswer":{"@type":"Answer","text":"App Store（iPhone）またはGoogle Play（Android）で「K-ETA」と検索してインストールします。提供元が公式（韓国当局）であることを確認してからダウンロードしてください。"}},{"@type":"Question","name":"スマホ申請に必要なものは何ですか？","acceptedAnswer":{"@type":"Answer","text":"パスポート、規定を満たす顔写真データ、決済用のクレジットカード／デビットカード、認証用のメールアドレスが必要です。"}},{"@type":"Question","name":"顔写真はその場で撮影してもいいですか？","acceptedAnswer":{"@type":"Answer","text":"白い背景・正面・帽子やサングラスなしなど規定を満たせば、その場で撮影した写真も使えます。ファイル形式やサイズの規定（JPEG・容量・ピクセル上限など）に合うように調整してください。"}},{"@type":"Question","name":"スマホ申請後の結果はどこで確認しますか？","acceptedAnswer":{"@type":"Answer","text":"アプリ内の結果照会メニュー、または公式サイトの「K-ETA結果照会」で確認できます。承認時には登録メールにも通知が届きます。"}},{"@type":"Question","name":"代行アプリ・代行サイトを使っても大丈夫ですか？","acceptedAnswer":{"@type":"Answer","text":"非公式の代行アプリ・サイトでは追加手数料が発生することがあります。申請は公式アプリ「K-ETA」または公式サイト（www.k-eta.go.kr）から行うのがおすすめです。"}}]}3:T330d,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/korea-keta-application/">韓国 K-ETA</a> ＞
+        スマホ・アプリ申請
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>スマホ・アプリでK-ETAを申請する方法と手順【韓国旅行】</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">K-ETAはスマホだけで申請できる</a></li>
+                <li><a href="#section2">公式アプリの入手と準備</a></li>
+                <li><a href="#section3">スマホでの申請手順</a></li>
+                <li><a href="#section4">顔写真をうまく登録するコツ</a></li>
+                <li><a href="#section5">スマホ申請の注意点</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>「パソコンがなくてもK-ETAは申請できる？」——答えはイエスです。公式アプリ「K-ETA」やスマホブラウザを使えば、申請から決済、結果確認まですべて手のひらの中で完結します。この記事では、<strong>スマホ・アプリでのK-ETA申請方法</strong>を手順立てて解説します。</p>
+
+          <h2 id="section1">K-ETAはスマホだけで申請できる</h2>
+          <p>K-ETAは、<strong>公式アプリ「K-ETA」</strong>または<strong>公式サイト（www.k-eta.go.kr）</strong>にスマホからアクセスして申請できます。パスポートの撮影、情報入力、顔写真のアップロード、決済までスマホ1台で完結するため、外出先でも申請しやすいのが特長です。</p>
+
+          <div class="info-box">
+            <h4>スマホ申請に必要なもの</h4>
+            <ul>
+              <li><strong>パスポート</strong>（有効期限内）</li>
+              <li><strong>顔写真データ</strong>（JPEG・白背景など規定に準拠）</li>
+              <li><strong>クレジットカード／デビットカード</strong>（決済用）</li>
+              <li><strong>メールアドレス</strong>（認証・結果通知用）</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">公式アプリの入手と準備</h2>
+          <p>公式アプリは、App Store（iPhone）またはGoogle Play（Android）で「<strong>K-ETA</strong>」と検索して入手します。</p>
+          <ul>
+            <li>提供元が公式（韓国当局）であることを確認する</li>
+            <li>OSを最新の状態にしておくと動作が安定しやすい</li>
+            <li>通信環境の良い場所で申請する</li>
+          </ul>
+
+          <div class="warn-box">
+            <h4>類似アプリ・代行アプリに注意</h4>
+            <p>ストアには似た名前のアプリが並ぶことがあります。提供元を確認し、公式アプリを選んでください。非公式の代行アプリは追加手数料が発生することがあります。</p>
+          </div>
+
+          <h2 id="section3">スマホでの申請手順</h2>
+          <p>スマホでの申請は、おおむね次の流れで進みます。</p>
+          <ul>
+            <li><strong>1.</strong> 公式アプリまたは公式サイトを開き、言語で「日本語」を選ぶ</li>
+            <li><strong>2.</strong> 「K-ETAを申請する」を選び、利用規約に同意する</li>
+            <li><strong>3.</strong> メールアドレスを登録し、届いた認証番号を入力する</li>
+            <li><strong>4.</strong> パスポートを撮影、または手入力で情報を登録する</li>
+            <li><strong>5.</strong> 連絡先・渡航情報・滞在先などを入力する</li>
+            <li><strong>6.</strong> 職業や緊急連絡先、質問項目に回答する</li>
+            <li><strong>7.</strong> 規定に沿った顔写真をアップロードする</li>
+            <li><strong>8.</strong> 内容を確認し、申請手数料（₩10,300前後）を決済する</li>
+            <li><strong>9.</strong> 受付完了後、結果照会で承認を確認する</li>
+          </ul>
+
+          <div class="info-box">
+            <h4>申請手数料</h4>
+            <p>申請手数料は₩10,000で、これにオンライン決済手数料（約3%）が加わり、合計でおおむね₩10,300前後となります。料金は改定される場合があるため、最新額はK-ETA公式サイトでご確認ください。</p>
+          </div>
+
+          <h2 id="section4">顔写真をうまく登録するコツ</h2>
+          <p>スマホ申請でつまずきやすいのが顔写真です。次のポイントを押さえましょう。</p>
+          <ul>
+            <li><strong>背景:</strong> 白い壁など無地で明るい背景にする</li>
+            <li><strong>顔の向き:</strong> 正面を向き、表情は自然に</li>
+            <li><strong>着用物:</strong> 帽子・サングラス・マスクは外す（眼鏡は反射に注意）</li>
+            <li><strong>明るさ:</strong> 顔に影が出ないよう均一な明るさで撮る</li>
+            <li><strong>形式・サイズ:</strong> JPEG形式で、容量・ピクセルの上限など規定に合わせる</li>
+          </ul>
+
+          <h2 id="section5">スマホ申請の注意点</h2>
+          <div class="warn-box">
+            <h4>スマホ申請で気をつけたいこと</h4>
+            <p><strong>1. 入力ミスに注意:</strong> パスポートのスペルや番号を正確に。審査開始後は修正できません。</p>
+            <p><strong>2. 通信切れに注意:</strong> 途中で通信が途切れないよう、安定した環境で申請します。</p>
+            <p><strong>3. 余裕をもって:</strong> 審査は通常72時間以内。出発の数日前までに申請を済ませましょう。</p>
+            <p><strong>4. 公式から申請:</strong> 申請は公式アプリ・公式サイトから行います。</p>
+          </div>
+
+          <div class="info-box">
+            <h4>そもそも申請が必要か確認を</h4>
+            <p>現在は2026年12月31日まで、日本を含む22の国・地域を対象にK-ETAの一時免除措置が実施されています。免除期間中はK-ETA自体が不要な場合があります。申請前に、渡航時点で必要かどうかをK-ETA公式サイトで確認しましょう。免除期間は変動します。</p>
+          </div>
+
+          <h2 id="section6">よくある質問</h2>
+          <div class="faq-item"><h3>Q: K-ETAはスマホだけで申請できますか？</h3><p><strong>A:</strong> できます。公式アプリ「K-ETA」または公式サイト（www.k-eta.go.kr）にスマホからアクセスすれば、パスポート情報の入力から顔写真のアップロード、決済まですべてスマホで完結します。</p></div>
+          <div class="faq-item"><h3>Q: 公式アプリはどこで入手できますか？</h3><p><strong>A:</strong> App Store（iPhone）またはGoogle Play（Android）で「K-ETA」と検索してインストールします。提供元が公式（韓国当局）であることを確認してからダウンロードしてください。</p></div>
+          <div class="faq-item"><h3>Q: スマホ申請に必要なものは何ですか？</h3><p><strong>A:</strong> パスポート、規定を満たす顔写真データ、決済用のクレジットカード／デビットカード、認証用のメールアドレスが必要です。</p></div>
+          <div class="faq-item"><h3>Q: 顔写真はその場で撮影してもいいですか？</h3><p><strong>A:</strong> 白い背景・正面・帽子やサングラスなしなど規定を満たせば、その場で撮影した写真も使えます。ファイル形式やサイズの規定（JPEG・容量・ピクセル上限など）に合うように調整してください。</p></div>
+          <div class="faq-item"><h3>Q: スマホ申請後の結果はどこで確認しますか？</h3><p><strong>A:</strong> アプリ内の結果照会メニュー、または公式サイトの「K-ETA結果照会」で確認できます。承認時には登録メールにも通知が届きます。</p></div>
+          <div class="faq-item"><h3>Q: 代行アプリ・代行サイトを使っても大丈夫ですか？</h3><p><strong>A:</strong> 非公式の代行アプリ・サイトでは追加手数料が発生することがあります。申請は公式アプリ「K-ETA」または公式サイト（www.k-eta.go.kr）から行うのがおすすめです。</p></div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>K-ETAは、<strong>公式アプリ「K-ETA」または公式サイト</strong>を使えばスマホ1台で申請できます。パスポート撮影・情報入力・顔写真アップロード・決済・結果確認まで、すべてスマホで完結します。</p>
+          <p>顔写真の規定や入力ミスに注意し、安定した通信環境で、出発の数日前までに申請しておくと安心です。なお現在は免除措置の対象国・地域は2026年12月31日までK-ETA不要のため、申請前に必要かどうかを公式サイトで確認しましょう。</p>
+
+          <div class="info-box">
+            <h4>スマホ申請のポイント</h4>
+            <ul>
+              <li>公式アプリ「K-ETA」または公式サイトで完結</li>
+              <li>必要なのはパスポート・顔写真・カード・メール</li>
+              <li>顔写真は白背景・正面・無着用が基本</li>
+              <li>料金₩10,300前後、出発の数日前までに申請</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-application/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAの申請方法を解説</h3></div></a>
+            <a href="/korea-keta-check/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>申請状況・結果を確認する方法</h3></div></a>
+            <a href="/korea-keta-about/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAとは？制度の概要</h3></div></a>
+            <a href="/korea-keta-validity/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAの有効期限</h3></div></a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">韓国K-ETAの関連記事</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-renewal/" style="color: #D4885A; text-decoration: underline;">K-ETAの更新・再申請</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-rejection/" style="color: #D4885A; text-decoration: underline;">K-ETAが却下された場合の対処法</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-transit/" style="color: #D4885A; text-decoration: underline;">乗り継ぎ（トランジット）でK-ETAは必要？</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">韓国K-ETA 記事一覧</h3>
+        <ol class="sidebar-ranking">
+          <li><a href="/korea-keta-application/"><span class="rank-num">1</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">K-ETAの申請方法</div></div></a></li>
+          <li><a href="/korea-keta-check/"><span class="rank-num">2</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">申請状況・結果の確認</div></div></a></li>
+          <li><a href="/korea-keta-about/"><span class="rank-num">3</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">K-ETAとは？制度概要</div></div></a></li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"韓国 K-ETA\",\"item\":\"https://trips-now.com/korea-keta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"スマホ・アプリでの申請\",\"item\":\"https://trips-now.com/korea-keta-smartphone/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

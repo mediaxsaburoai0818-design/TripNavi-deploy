@@ -1,0 +1,182 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T912,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"K-ETAとは何ですか？","acceptedAnswer":{"@type":"Answer","text":"K-ETA（Korea Electronic Travel Authorization／韓国電子旅行許可）は、ビザ免除で韓国に短期入国する外国人が、渡航前にオンラインで取得する電子的な渡航許可です。2021年9月に本格導入されました。"}},{"@type":"Question","name":"いま日本人はK-ETAが必要ですか？","acceptedAnswer":{"@type":"Answer","text":"2026年12月31日までは、日本を含む22の国・地域を対象とした一時免除措置により、K-ETAなしで韓国に入国できます。免除措置の期間は変動するため、渡航前に必ずK-ETA公式サイト（www.k-eta.go.kr）で最新の状況をご確認ください。"}},{"@type":"Question","name":"K-ETAの料金はいくらですか？","acceptedAnswer":{"@type":"Answer","text":"申請手数料は₩10,000で、これにオンライン決済手数料（カード会社手数料約3%）が加わり、合計でおおむね₩10,300前後となります。料金は改定される場合があるため、公式サイトで最新額をご確認ください。"}},{"@type":"Question","name":"K-ETAの有効期限はどのくらいですか？","acceptedAnswer":{"@type":"Answer","text":"2023年7月3日以降に取得したK-ETAは、承認日から3年間有効です（それ以前の取得分は2年間）。有効期間内は複数回の入国が可能ですが、1回の滞在は最長90日までです。"}},{"@type":"Question","name":"K-ETAとビザは同じですか？","acceptedAnswer":{"@type":"Answer","text":"異なります。ビザは長期滞在・就労・留学などに必要な正式な査証で、K-ETAはビザ免除対象者が短期の観光・商用などで渡航する際の事前認証です。K-ETAはビザの代わりにはなりません。"}},{"@type":"Question","name":"K-ETAはどこで申請しますか？","acceptedAnswer":{"@type":"Answer","text":"K-ETA公式ウェブサイト（www.k-eta.go.kr）または公式モバイルアプリ「K-ETA」から申請します。非公式の代行サイトでは追加手数料がかかる場合があるため、公式窓口の利用をおすすめします。"}}]}3:T39b4,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/korea-keta-application/">韓国 K-ETA</a> ＞
+        K-ETAとは
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>K-ETA（韓国電子旅行許可）とは？制度の概要をやさしく解説</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">K-ETAとは？基本の仕組み</a>
+                  <ul>
+                    <li><a href="#section1-1">導入の経緯</a></li>
+                    <li><a href="#section1-2">ESTAやeTAとの共通点</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section2">K-ETAの対象者</a></li>
+                <li><a href="#section3">料金・有効期限・審査時間</a></li>
+                <li><a href="#section4">一時免除措置の最新状況</a></li>
+                <li><a href="#section5">K-ETAでできること・できないこと</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>韓国旅行を計画するとき、最初に気になるのが「<strong>K-ETA</strong>って結局なに？」という疑問ではないでしょうか。この記事では、K-ETA（韓国電子旅行許可）の制度概要を、導入の背景から料金・有効期限、そして現在実施されている一時免除措置まで、公式情報をもとにわかりやすく整理します。</p>
+
+          <h2 id="section1">K-ETAとは？基本の仕組み</h2>
+          <p><strong>K-ETA（Korea Electronic Travel Authorization／韓国電子旅行許可）</strong>は、ビザ免除で韓国へ短期渡航する外国人が、渡航前にオンラインで取得する電子的な渡航許可です。空港でビザを取得する代わりに、事前にウェブ上で身元情報を登録し、入国に問題がないかを審査してもらう仕組みです。</p>
+
+          <div class="info-box">
+            <h4>K-ETAの基本情報</h4>
+            <ul>
+              <li><strong>正式名称:</strong> Korea Electronic Travel Authorization（韓国電子旅行許可）</li>
+              <li><strong>本格導入:</strong> 2021年9月</li>
+              <li><strong>対象:</strong> ビザ免除で90日以内の観光・商用・親族訪問などをする外国人</li>
+              <li><strong>申請窓口:</strong> 公式サイト（www.k-eta.go.kr）／公式アプリ「K-ETA」</li>
+              <li><strong>料金:</strong> ₩10,000＋決済手数料（合計₩10,300前後）</li>
+              <li><strong>有効期限:</strong> 承認日から3年間（2023年7月3日以降の取得分）</li>
+            </ul>
+          </div>
+
+          <h3 id="section1-1">導入の経緯</h3>
+          <p>K-ETAは、韓国への入国者の事前審査を強化し、不法滞在や入国拒否のリスクを渡航前に把握することを目的に導入されました。従来は空港の入国審査で行っていた確認の一部を、渡航前にオンラインで済ませることで、空港での手続きをスムーズにする狙いがあります。</p>
+
+          <h3 id="section1-2">ESTAやeTAとの共通点</h3>
+          <p>K-ETAは、アメリカの<strong>ESTA</strong>やカナダの<strong>eTA</strong>、オーストラリアの<strong>ETAS</strong>と同じ「電子渡航認証」の一種です。いずれも、ビザ免除国の国民が短期渡航する際に、ビザの代わりにオンラインで事前許可を取得する制度という点で共通しています。</p>
+
+          <h2 id="section2">K-ETAの対象者</h2>
+          <p>K-ETAは、原則として<strong>ビザ免除で韓国に短期入国する外国人</strong>が対象です。</p>
+
+          <p><strong>本来K-ETAが必要な方（免除措置がない場合）:</strong></p>
+          <ul>
+            <li>ビザ免除国の国民で、90日以内の観光・商用・親族訪問などを目的に渡航する方</li>
+            <li>韓国の空港で乗り継ぎ、いったん入国エリアに出る方</li>
+          </ul>
+
+          <p><strong>そもそもK-ETAが不要な方:</strong></p>
+          <ul>
+            <li>有効な韓国ビザを取得済みの方</li>
+            <li>外交・公用など特定の在留資格を持つ方</li>
+            <li>一時免除措置の対象国・地域の国民（免除期間中）</li>
+          </ul>
+
+          <div class="warn-box">
+            <h4>免除対象国でも申請が必要なケースに注意</h4>
+            <p>一時免除措置の対象であっても、就労や長期滞在などビザが必要な目的では、別途ビザの取得が必要です。免除はあくまで短期の観光・商用などが対象です。</p>
+          </div>
+
+          <h2 id="section3">料金・有効期限・審査時間</h2>
+          <p>K-ETAの主な数値を整理すると以下のとおりです。いずれも改定される可能性があるため、申請前にK-ETA公式サイトで最新情報をご確認ください。</p>
+
+          <div class="info-box">
+            <h4>主要スペック</h4>
+            <ul>
+              <li><strong>料金:</strong> 申請手数料₩10,000＋決済手数料（合計₩10,300前後）</li>
+              <li><strong>有効期限:</strong> 承認日から3年間（2023年7月3日以降取得分。それ以前は2年間）</li>
+              <li><strong>1回の滞在期間:</strong> 最長90日</li>
+              <li><strong>審査時間:</strong> 多くは即時、遅い場合でも通常72時間以内</li>
+            </ul>
+          </div>
+
+          <p>有効期間内であれば、何度でも韓国に入国できます。ただしパスポートの有効期限がK-ETAの残存期間より短い場合は、パスポート有効期限日までがK-ETAの実質的な有効期限となります。</p>
+
+          <h2 id="section4">一時免除措置の最新状況</h2>
+          <div class="info-box">
+            <h4>一時免除措置（2026年12月31日まで）</h4>
+            <p>韓国政府は、日本を含む22の国・地域の国民を対象に、K-ETAの取得を一時的に免除する措置を実施しています。</p>
+            <ul>
+              <li><strong>免除期間:</strong> 2026年12月31日まで（延長を重ねて現在の期限）</li>
+              <li><strong>対象:</strong> 日本を含む22の国・地域</li>
+              <li><strong>内容:</strong> 免除期間中はK-ETA不要で韓国に入国可能</li>
+              <li><strong>対象目的:</strong> 90日以内の観光・商用・親族訪問など</li>
+            </ul>
+          </div>
+
+          <div class="warn-box">
+            <h4>免除期間は変動します</h4>
+            <p>一時免除措置の期限は、これまで複数回延長されてきました。期間は変更される可能性があるため、渡航時点で有効かどうかは必ず<strong>K-ETA公式サイト（www.k-eta.go.kr）や駐日本国大韓民国大使館</strong>で最新情報をご確認ください。</p>
+          </div>
+
+          <p>なお、K-ETAが免除される期間中でも、<strong>電子入国申告書（e-Arrival Card）</strong>の事前提出が求められる場合があります。こちらも渡航前に公式情報を確認しておくと安心です。</p>
+
+          <h2 id="section5">K-ETAでできること・できないこと</h2>
+          <p>K-ETAは便利な制度ですが、できることには限りがあります。</p>
+          <ul>
+            <li><strong>できること:</strong> 90日以内の観光、商用（会議・視察など）、親族・知人訪問、短期の文化交流</li>
+            <li><strong>できないこと:</strong> 就労、収益を伴う活動、留学（長期）、90日を超える滞在</li>
+          </ul>
+          <p>これらの「できないこと」に該当する場合は、目的に応じたビザの取得が必要です。</p>
+
+          <h2 id="section6">よくある質問</h2>
+          <div class="faq-item"><h3>Q: K-ETAとは何ですか？</h3><p><strong>A:</strong> K-ETA（Korea Electronic Travel Authorization／韓国電子旅行許可）は、ビザ免除で韓国に短期入国する外国人が、渡航前にオンラインで取得する電子的な渡航許可です。2021年9月に本格導入されました。</p></div>
+          <div class="faq-item"><h3>Q: いま日本人はK-ETAが必要ですか？</h3><p><strong>A:</strong> 2026年12月31日までは、日本を含む22の国・地域を対象とした一時免除措置により、K-ETAなしで韓国に入国できます。免除措置の期間は変動するため、渡航前に必ずK-ETA公式サイト（www.k-eta.go.kr）で最新の状況をご確認ください。</p></div>
+          <div class="faq-item"><h3>Q: K-ETAの料金はいくらですか？</h3><p><strong>A:</strong> 申請手数料は₩10,000で、これにオンライン決済手数料（カード会社手数料約3%）が加わり、合計でおおむね₩10,300前後となります。料金は改定される場合があるため、公式サイトで最新額をご確認ください。</p></div>
+          <div class="faq-item"><h3>Q: K-ETAの有効期限はどのくらいですか？</h3><p><strong>A:</strong> 2023年7月3日以降に取得したK-ETAは、承認日から3年間有効です（それ以前の取得分は2年間）。有効期間内は複数回の入国が可能ですが、1回の滞在は最長90日までです。</p></div>
+          <div class="faq-item"><h3>Q: K-ETAとビザは同じですか？</h3><p><strong>A:</strong> 異なります。ビザは長期滞在・就労・留学などに必要な正式な査証で、K-ETAはビザ免除対象者が短期の観光・商用などで渡航する際の事前認証です。K-ETAはビザの代わりにはなりません。</p></div>
+          <div class="faq-item"><h3>Q: K-ETAはどこで申請しますか？</h3><p><strong>A:</strong> K-ETA公式ウェブサイト（www.k-eta.go.kr）または公式モバイルアプリ「K-ETA」から申請します。非公式の代行サイトでは追加手数料がかかる場合があるため、公式窓口の利用をおすすめします。</p></div>
+
+          <h2 id="section7">まとめ</h2>
+          <p><strong>K-ETA</strong>は、ビザ免除で韓国に短期渡航する外国人向けの電子渡航許可制度です。料金は₩10,300前後、有効期限は承認日から3年間で、有効期間内は複数回の入国が可能です。</p>
+          <p>現在は<strong>2026年12月31日まで</strong>、日本を含む22の国・地域を対象とした一時免除措置により、K-ETAなしで入国できます。ただし免除期間は変動するため、渡航前には必ず公式サイトで最新の状況を確認しましょう。</p>
+
+          <div class="info-box">
+            <h4>K-ETAのポイント</h4>
+            <ul>
+              <li>ビザ免除者向けの電子渡航許可（2021年9月導入）</li>
+              <li>料金₩10,300前後・有効期限3年・1回の滞在は最長90日</li>
+              <li>2026年12月31日まで日本含む22か国・地域は一時免除</li>
+              <li>免除期間は変動。公式サイトで最新確認を</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-application/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAの申請方法を解説</h3></div></a>
+            <a href="/korea-keta-validity/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAの有効期限はいつまで？</h3></div></a>
+            <a href="/korea-keta-vs-visa/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAとビザの違い</h3></div></a>
+            <a href="/korea-keta-check/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAの申請状況・結果を確認する方法</h3></div></a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">韓国K-ETAの関連記事</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-transit/" style="color: #D4885A; text-decoration: underline;">乗り継ぎ（トランジット）でK-ETAは必要？</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-smartphone/" style="color: #D4885A; text-decoration: underline;">スマホ・アプリでのK-ETA申請方法</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-rejection/" style="color: #D4885A; text-decoration: underline;">K-ETAが却下された場合の対処法</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">韓国K-ETA 記事一覧</h3>
+        <ol class="sidebar-ranking">
+          <li><a href="/korea-keta-application/"><span class="rank-num">1</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">K-ETAの申請方法</div></div></a></li>
+          <li><a href="/korea-keta-validity/"><span class="rank-num">2</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">K-ETAの有効期限</div></div></a></li>
+          <li><a href="/korea-keta-vs-visa/"><span class="rank-num">3</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">K-ETAとビザの違い</div></div></a></li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"韓国 K-ETA\",\"item\":\"https://trips-now.com/korea-keta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"K-ETAとは\",\"item\":\"https://trips-now.com/korea-keta-about/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

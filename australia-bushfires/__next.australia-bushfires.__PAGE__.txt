@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4862,<div class="page-layout">
+2:T46a9,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ オーストラリアで森林火災が多発する原因とは？</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>オーストラリアで森林火災が多発する原因とは？</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -36,7 +36,7 @@
 </nav>
 </div>
 <picture>
-<source alt="オーストラリアで森林火災が多発する原因とは" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/54eac673d0ca9973516d08f0791eef12.webp" type="image/webp" width="640"/><img alt="オーストラリアで森林火災が多発する原因とは" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/54eac673d0ca9973516d08f0791eef12.jpg" width="640"/>
+
 </picture>
 <p>森林火災とは主に山や森林で広範囲にわたり発生する火災を指し、近年では世界各国で件数が増加しています。2019年にはオーストラリアとアマゾンで大きな森林火災が発生し、2020年にはアメリカ・カリフォルニア州を中心に大規模な火災が発生。いずれも長期にわたる火災となり、付近の市民や環境に大きな被害を及ぼしました。森林火災は人間を含む生態系に影響を与えるだけでなく、長期化することで二酸化炭素の大量放出による地球温暖化や大気汚染に繋がる恐れがあります。広大な敷地を誇るオーストラリアには多くの山林があり、枯れ葉や木々が大量にあることから森林火災の大規模化が懸念されています。<br />このページでは近年オーストラリアで発生した森林火災と、今後の取り組みについて解説します。</p>
 <h2 class="wp-block-heading" id="forest01">オーストラリアで森林火災が起こる原因とは？</h2>
@@ -85,6 +85,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

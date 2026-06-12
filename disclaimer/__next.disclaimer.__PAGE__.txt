@@ -1,0 +1,47 @@
+1:"$Sreact.fragment"
+3:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+2:Tece,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        免責事項
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">サイトについて</span>
+        <h1>免責事項</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span>
+          <span class="meta-date">最終更新日：2026年06月10日</span>
+        </div>
+
+        <div class="content">
+          <p>TripsNow（トリップスナウ、以下「当サイト」）に掲載している情報をご利用いただく際は、以下の免責事項をご確認ください。当サイトをご利用いただいた時点で、本免責事項に同意いただいたものとみなします。</p>
+
+          <h2 id="section1">1. 情報の正確性について</h2>
+          <p>当サイトは、各国政府の公式情報をもとに、正確かつ最新の情報を提供するよう努めています。しかし、渡航認証・ビザの制度や料金は予告なく変更される場合があり、掲載内容が常に最新・完全であることを保証するものではありません。</p>
+          <div class="warn-box">
+            <h4>公式情報が優先されます</h4>
+            <p>料金・要件・対象者などの最終的な判断は、必ず各国政府の公式サイトに掲載された最新情報に基づいて行ってください。当サイトの情報と公式情報に相違がある場合は、公式情報が優先されます。</p>
+          </div>
+
+          <h2 id="section2">2. 申請・渡航は自己責任で</h2>
+          <p>当サイトは渡航認証・ビザに関する情報提供を目的としており、<strong>申請の代行や渡航可否の保証を行うものではありません</strong>。渡航認証の申請、提出書類の準備、渡航の最終判断はすべて利用者ご自身の責任で行ってください。渡航認証が承認された場合でも、入国できることを保証するものではなく、最終的な入国の可否は各国の入国審査官が判断します。</p>
+
+          <h2 id="section3">3. 損害に関する免責</h2>
+          <p>当サイトの情報を利用したことによって生じたいかなる損害（申請の不備、渡航トラブル、費用の発生、機会損失などを含みますが、これらに限りません）についても、当サイトは一切の責任を負いかねます。情報の利用は利用者ご自身の判断と責任において行ってください。</p>
+
+          <h2 id="section4">4. 外部リンクについて</h2>
+          <p>当サイトには、各国政府の公式サイトをはじめとする外部サイトへのリンクが含まれます。リンク先のサイトは各運営者が管理しており、その内容・正確性・安全性について当サイトは責任を負いません。リンク先のご利用は、各サイトの利用規約等に従ってください。</p>
+
+          <h2 id="section5">5. 著作権について</h2>
+          <p>当サイトに掲載されている文章・画像などのコンテンツの著作権は、当サイトまたは正当な権利者に帰属します。引用の範囲を超えた無断転載・複製はご遠慮ください。</p>
+
+          <h2 id="section6">6. お問い合わせ</h2>
+          <p>本免責事項や掲載内容に関するお問い合わせは、当サイトのお問い合わせ窓口までお願いいたします。あわせて<a href="/editorial-policy/">編集方針・情報源ポリシー</a>もご確認ください。</p>
+        </div>
+      </article>
+    </main>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"免責事項\",\"item\":\"https://trips-now.com/disclaimer/\"}]}"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}]],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+5:null

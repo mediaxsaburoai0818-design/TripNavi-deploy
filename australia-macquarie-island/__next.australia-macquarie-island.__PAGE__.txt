@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4110,<div class="page-layout">
+2:T3beb,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ 【最南端の世界遺産】 オーストラリアのマッコーリー島</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>【最南端の世界遺産】 オーストラリアのマッコーリー島</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -48,7 +48,7 @@
 </nav>
 </div>
 <picture>
-<source alt="オーストラリアのマッコーリー島" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/597e52745109c1ef76c5daf75e8a99bf.webp" type="image/webp" width="640"/><img alt="オーストラリアのマッコーリー島" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/597e52745109c1ef76c5daf75e8a99bf.jpg" width="640"/>
+
 </picture>
 <p>オーストラリアと南極の中間に位置する無人島”マッコーリー島”は野生動物の楽園として知られ、固有種のロイヤルペンギンをはじめ多くの野生動物が生息しています。このページでは世界最南端に位置する世界遺産”マッコーリー島”の成り立ちや見どころ、アクセス方法について紹介します。</p>
 <h2 class="wp-block-heading" id="macquarie1">マッコーリー島とは</h2>
@@ -62,12 +62,12 @@
 <h3 class="wp-block-heading" id="macquarie2-1">ロイヤルペンギン / Royal penguin</h3>
 <p>体長約70cm、体重4～6kgほどのロイヤルペンギンはマッコーリー島にのみ生息し、主にオキアミ・小魚・イカなどを餌としています。王家を意味する「ロイヤル」は、白色の顔にかかる金色の冠羽が美しく気品に満ちていることが由来と言われています。同様に額に金色の冠羽をもつマカロニペンギンとよく似ていますが、ロイヤルペンギンは顔が白いのが特徴です。繁殖の季節は9～2月で、春となる10月に海岸や内陸の丘に作られた集団営巣地で産卵が始まります。夫婦が交代で温めた卵は1か月ほどで孵化し、夏の終わりとなる1～2月には羽毛が生え換わり親鳥と同じくらいの大きさに成長したヒナが巣立っていきます。<br />ロイヤルペンギンは<a href="https://www.iucnredlist.org/" rel="noreferrer noopener" target="_blank">IUCN</a>のレッドリストにて、近い将来絶滅危惧種に指定される可能性が高い”<a href="https://www.iucnredlist.org/species/22697797/132603136" rel="noreferrer noopener" target="_blank">近危急種</a>”に登録されています。現在、マッコーリー島には大小50か所以上の営巣地があり、2018年時点で約85万ペアの繁殖が確認されました。</p>
 <picture>
-<source alt="ロイヤルペンギン" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/0bbc9ee422bba8425cdd5ebfb466098e.webp" type="image/webp" width="640"/><img alt="ロイヤルペンギン" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/0bbc9ee422bba8425cdd5ebfb466098e.jpg" width="640"/>
+
 </picture>
 <h3 class="wp-block-heading" id="macquarie2-2">ミナミゾウアザラシ / Southern Elephant Seal</h3>
 <p>ミナミゾウアザラシは哺乳類でクジラ類に次ぐ巨体を持つ動物です。特にオスの重さは4トンにおよび、陸生肉食動物で最も重いホッキョクグマの7倍です。名前の由来はゾウのように膨らんだ特徴的な口元で、繁殖期には縄張りやハーレム(メスの群れ)を巡る争いで大きな咆哮を上げます。また、潜水能力が高く、水中に1～2時間も潜ることができます。これは筋細胞に酸素を蓄えるミオグロビンと呼ばれる物質を多く持ち、余剰のミオグロビンが血中に酸素を蓄えるヘモグロビンの臨時酸素貯蔵庫として機能しているためと考えられています。潜水可能な深度も2km以上と言われ、これは世界で最も深く潜れる哺乳類マッコウクジラに迫ります。<br />ミナミゾウアザラシのオスは13～14歳となった9月に繁殖地でハーレムを形成し、10月には海に戻る習性があります。繁殖地では餌を食べずにハーレムを守るため、海に戻る頃には体重が約半分まで減りほとんどのオスはそのまま海で生涯を終えます。<br />ミナミゾウアザラシは動物油脂産業が盛んだった19世紀に絶滅寸前まで個体数を減らし、<a href="https://www.iucnredlist.org/" rel="noreferrer noopener" target="_blank">IUCN</a>の<a href="https://www.iucnredlist.org/species/13583/45227247" rel="noreferrer noopener" target="_blank">レッドリスト</a>に登録されました。現在はマッコーリー島をはじめとする繁殖地の大半が世界遺産に登録され、保護下で徐々に数を増やしています。</p>
 <picture>
-<source alt="ミナミゾウアザラシSouthern Elephant Seal" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/f89739475fed4ada3fa521b4398f0801.webp" type="image/webp" width="640"/><img alt="ミナミゾウアザラシSouthern Elephant Seal" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/10/f89739475fed4ada3fa521b4398f0801.jpg" width="640"/>
+
 </picture>
 <h2 class="wp-block-heading" id="macquarie3">マッコーリー島の観光</h2>
 <h3 class="wp-block-heading" id="macquarie3-1">ベストシーズン</h3>
@@ -103,6 +103,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

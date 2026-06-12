@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T482e,<div class="page-layout">
+2:T46b9,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ カナダの先住民族とは？歴史や問題点を解説</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>カナダの先住民族とは？歴史や問題点を解説</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -32,7 +32,7 @@
 </nav>
 </div>
 <picture>
-<source alt="カナダの先住民族とは" class="img_big m20-t m20-b lazyloaded" height="426" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/eb36a7516bad1d6a777485f043e2b3dc.webp" type="image/webp" width="640"/><img alt="カナダの先住民族とは" class="img_big m20-t m20-b" decoding="async" height="426" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/eb36a7516bad1d6a777485f043e2b3dc.jpg" width="640"/>
+
 </picture>
 <p>多くの移民により構成されているカナダは世界有数の多民族国家として知られていますが、先住民は古くから国内で独自の地位を築いています。カナダの憲法では北米インディアンのファースト・ネーションズをはじめ、先住民とヨーロッパ人の両方を祖先とするメティス、北極地方に居住するイヌイットによる3つのグループがカナダの先住民族として認定されています。先住民として認定された市民はカナダ連邦法により一定の権利や社会保障などを受けることができます。多くの先住民は国内に3,100か所以上ある居留地と呼ばれる特定地域に居住していますが、大半の居留地は地方の辺鄙な場所にあるため不自由な生活を強いられているケースもあります。<br />このページではカナダの先住民に関する歴史や、地域や環境を取り巻く現在の状況について解説します。</p>
 <h2 class="wp-block-heading" id="indigenouspeople01">カナダの先住民</h2>
@@ -86,6 +86,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

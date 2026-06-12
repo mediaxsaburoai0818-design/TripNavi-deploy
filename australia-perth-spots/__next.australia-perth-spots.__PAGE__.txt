@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T7153,<div class="page-layout">
+2:T6db4,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ オーストラリア「パース」で人気の観光スポットを紹介</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>オーストラリア「パース」で人気の観光スポットを紹介</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -51,7 +51,7 @@
 </nav>
 </div>
 <picture>
-<source alt="オーストラリア「パース」で人気の観光スポットを紹介" class="img_big m20-t m20-b lazyloaded" height="428" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/acf354261f498d49a2ff5aa1188c9f59.webp" type="image/webp" width="640"/><img alt="オーストラリア「パース」で人気の観光スポットを紹介" class="img_big m20-t m20-b" decoding="async" height="428" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/acf354261f498d49a2ff5aa1188c9f59.jpg" width="640"/>
+
 </picture>
 <p>オーストラリアの西海岸に位置する<a href="/country-australia/">パース</a>は、約200万人の市民が居住する西オーストラリア州の州都です。自然環境と近代的な建物が調和し、オーストラリア国内で最も晴天の多い地域としても知られています。パースは地中海性気候に属し、一年を通して過ごしやすく観光旅行に適した街です。西オーストラリアの固有種であるワイルドフラワーが見頃となる春(9～11月)や、マリンスポーツを楽しむことができる夏(12～2月)には特に多くの観光客が訪れます。<br />このページではオーストラリアの人気観光地であるパースについて詳しく解説します。</p>
 <h2 class="wp-block-heading" id="perth1">オーストラリアの観光地「パース」の魅力</h2>
@@ -91,8 +91,8 @@
 <h3 class="wp-block-heading" id="perth15">コテスロー・ビーチ / Cottesloe Beach</h3>
 <p>パースと<a href="https://www.australia.com/ja-jp/places/perth-and-surrounds/guide-to-fremantle.html" rel="noreferrer noopener" target="_blank">フリーマントル</a>の中間に位置する<a href="https://www.australia.com/ja-jp/places/perth-and-surrounds/guide-to-cottesloe-beach.html" rel="noreferrer noopener" target="_blank">コテスロー・ビーチ</a>は、パース近郊で最もマリンスポーツが盛んな地域です。1kmも続く白い砂浜ではシュノーケリングやサーフィンなどを楽しむことができ、何世代にもわたり地元市民から親しまれてきました。毎年3月に行われる「<a href="https://sculpturebythesea.com/cottesloe/" rel="noreferrer noopener" target="_blank">スカルプチャー・バイ・ザ・シー</a>」ではビーチが野外アートギャラリーとなり、多くの観光客やアーティストが訪れます。ビーチの周辺にはカフェやレストランがあり、食事を楽しみながらインド洋に沈む夕日を眺めることもできます。<br />コテスロー・ビーチへのアクセスは、パース市街地から車で約30分。パース市内のエリザベス・キーからは路線バスでのアクセスも可能です。</p>
 <picture>
-<source alt="コテスロー・ビーチ / Cottesloe Beach" class="img_big m20-t m20-b" height="428" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/69925579163eabe2de0a53284bfbbe2c.webp" type="image/webp" width="640"/>
-<img alt="コテスロー・ビーチ / Cottesloe Beach" class="img_big m20-t m20-b" decoding="async" height="428" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/69925579163eabe2de0a53284bfbbe2c.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="perth16">パースでおすすめの料理</h2>
 <p>「世界一美しい都市」と呼ばれるパースは、素晴らしい料理が堪能できる街としても知られています。<br />インド洋に面したパースは魚介類が豊富に収穫できるため、街の至る場所で新鮮なシーフード料理を味わうことができます。なかでも“スナッパー”と呼ばれる白身魚を使った料理が人気で、淡泊な味わいと歯触りの良さからフィッシュアンドチップスの食材として古くから親しまれています。スナッパーはパースでは非常にポピュラーな魚で真鯛と似ている白身魚です。クセのない食感で、パース市内の一般的なレストランで気軽に味わうことができます。また、パースでは貝を使った料理も大変人気があります。なかでも新鮮な貝料理を提供するオイスターバーでは地元で獲れた牡蠣をはじめ、パース名物の“シーフードチャウダー”を味わうことができます。もうひとつのパース名物である“チリマッスル”はピリ辛のトマトソースでムール貝を煮込んだ伝統的な家庭料理で、多くの市民から親しまれるパースを代表するひと品です。<br />パース近郊の港町である<a href="https://www.australia.com/ja-jp/places/perth-and-surrounds/guide-to-fremantle.html" rel="noreferrer noopener" target="_blank">フリーマントル</a>には数多くのシーフード料理店が並びます。パースへ旅行した際はフリーマントルまで足を延ばし、趣向を凝らしたチリマッスルやシーフードチャウダーを味わってみてはいかがでしょうか。</p>
@@ -136,6 +136,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

@@ -1,0 +1,194 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T7e8,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"UK ETAとは何ですか？","acceptedAnswer":{"@type":"Answer","text":"UK ETA（Electronic Travel Authorisation）は、ビザなしでイギリスへ短期渡航する人に必要な電子渡航認証です。観光・知人訪問・短期商用・短期留学・乗り継ぎ（入国審査を通過する場合）などが対象で、最長6か月の滞在が認められます。"}},{"@type":"Question","name":"UK ETAの料金はいくらですか？","acceptedAnswer":{"@type":"Answer","text":"GOV.UK公式によると申請料金は£20です。返金はできないため、入力内容をよく確認してから支払ってください。最新の料金は必ず公式サイトでご確認ください。"}},{"@type":"Question","name":"UK ETAの有効期間はどれくらいですか？","acceptedAnswer":{"@type":"Answer","text":"承認から2年間、またはパスポートの有効期限までのいずれか早い方まで有効です。有効期間中は何度でも渡航できます。"}},{"@type":"Question","name":"子どもや赤ちゃんもUK ETAが必要ですか？","acceptedAnswer":{"@type":"Answer","text":"必要です。GOV.UK公式は、赤ちゃんや子どもを含め、渡航するすべての人に1人ずつETAが必要としています。"}},{"@type":"Question","name":"UK ETAがあれば必ず入国できますか？","acceptedAnswer":{"@type":"Answer","text":"いいえ。ETAはイギリスへの入国を保証するものではありません。最終的な入国可否は到着時の入国審査で判断されます。"}},{"@type":"Question","name":"UK ETAで働くことはできますか？","acceptedAnswer":{"@type":"Answer","text":"原則できません。UK ETAでは英国企業のための有給・無給の就労や自営業はできません（一部のPermitted paid engagementやCreative Worker concessionを除く）。就労目的の場合はビザが必要です。"}}]}3:T39a5,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/uk-eta-application/">イギリス</a> ＞
+        UK ETAとは
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">イギリス渡航ノウハウ</span>
+        <h1>UK ETAとは？イギリス電子渡航認証の制度概要を解説</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">UK ETA（イギリス電子渡航認証）とは</a>
+                  <ul>
+                    <li><a href="#section1-1">ETAが導入された背景</a></li>
+                    <li><a href="#section1-2">ESTAやeTAとの位置づけの違い</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section2">UK ETAの基本スペック</a></li>
+                <li><a href="#section3">UK ETAの対象者と免除される人</a></li>
+                <li><a href="#section4">UK ETAでできること・できないこと</a></li>
+                <li><a href="#section5">UK ETAの申請方法の概要</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p><strong>UK ETA（Electronic Travel Authorisation／電子渡航認証）</strong>は、ビザなしでイギリスへ短期渡航する外国人に求められる入国前のオンライン認証制度です。日本国籍の方も対象となっており、観光・知人訪問・短期商用などでイギリスを訪れる際には、出発前にETAを取得しておく必要があります。この記事では、GOV.UK（英国政府公式）の情報をもとに、UK ETAの制度概要をわかりやすく整理します。</p>
+
+          <h2 id="section1">UK ETA（イギリス電子渡航認証）とは</h2>
+          <p>UK ETAは、これまでビザなしでイギリスに入国できていた国々の渡航者に対し、入国前の事前審査を行う仕組みです。アメリカのESTAやカナダのeTA、オーストラリアのETASと同じく「ビザではないが事前のオンライン認証が必須」というカテゴリーに位置づけられます。</p>
+          <p>ETAは渡航者本人のパスポートに電子的に紐づけられ、承認されると有効期間中は何度でもイギリスへの渡航に使えます。ただし<strong>ETAはあくまで「渡航の認証」であり、イギリスへの入国を保証するものではありません</strong>。最終的な入国可否は到着時の入国審査官が判断します。</p>
+
+          <h3 id="section1-1">ETAが導入された背景</h3>
+          <p>イギリスは入国管理のデジタル化を進めており、ビザを必要としない短期渡航者についても、事前に渡航者情報を把握してセキュリティを高める目的でETA制度を段階的に導入してきました。日本を含む多くの国の国民が対象に加わっており、制度は今後も拡大・更新される可能性があります。具体的な開始日や対象範囲は変更され得るため、渡航前には必ず公式サイトで最新情報をご確認ください。</p>
+
+          <h3 id="section1-2">ESTAやeTAとの位置づけの違い</h3>
+          <p>名称は国ごとに異なりますが、いずれも「ビザ免除国の国民向けの事前オンライン認証」という点で共通しています。UK ETAはイギリス（およびジャージー、ガーンジー、マン島）への渡航に使えるもので、他国のESTA・eTA・ETASとは互換性がありません。イギリスへ行くなら、必ずUK ETAを別途取得する必要があります。</p>
+
+          <div class="info-box">
+            <h4>UK ETAの位置づけ</h4>
+            <ul>
+              <li>ビザではないが、ビザ免除での短期渡航に必須の認証</li>
+              <li>パスポートに電子的に紐づく</li>
+              <li>イギリス・ジャージー・ガーンジー・マン島が対象</li>
+              <li>入国を保証するものではない</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">UK ETAの基本スペック</h2>
+          <p>GOV.UK公式情報にもとづく、UK ETAの主な基本情報は以下の通りです。</p>
+          <table>
+            <tr><th>項目</th><th>内容</th></tr>
+            <tr><td>申請料金</td><td>£20（返金不可）</td></tr>
+            <tr><td>有効期間</td><td>承認から2年間、またはパスポート失効まで（いずれか早い方）</td></tr>
+            <tr><td>渡航回数</td><td>有効期間中は複数回（何度でも）渡航可能</td></tr>
+            <tr><td>1回あたりの滞在</td><td>最長6か月まで</td></tr>
+            <tr><td>申請方法</td><td>公式アプリ「UK ETA」またはオンライン</td></tr>
+            <tr><td>審査時間</td><td>通常1日程度、最長で3営業日を見込む</td></tr>
+            <tr><td>支払い</td><td>クレジットカード／デビットカード／Apple Pay／Google Pay</td></tr>
+          </table>
+
+          <div class="warn-box">
+            <h4>料金の確認について</h4>
+            <p>申請料金は過去に改定されており、今後も変更される可能性があります。渡航前には必ずGOV.UK公式サイトで最新の料金をご確認ください。</p>
+          </div>
+
+          <h2 id="section3">UK ETAの対象者と免除される人</h2>
+          <p>UK ETAが必要かどうかは「国籍」と「渡航の目的」によって決まります。ヨーロッパ、アメリカ、オーストラリア、カナダなど、これまでビザ不要だった国の国民の多くがETAの対象です。</p>
+          <p>一方、以下のような人はETAを取得する必要がありません。</p>
+          <ul>
+            <li>イギリスまたはアイルランドのパスポートを持つ人</li>
+            <li>イギリスでの居住・就労・就学の許可（ビザ等）をすでに持っている人</li>
+          </ul>
+          <div class="warn-box">
+            <h4>子ども・赤ちゃんも対象</h4>
+            <p>渡航するすべての人に、年齢を問わず1人ずつETAが必要です。家族で渡航する場合は人数分の申請を忘れないようにしましょう。</p>
+          </div>
+
+          <h2 id="section4">UK ETAでできること・できないこと</h2>
+          <p>UK ETAで認められる行為と、認められない行為は明確に分かれています。</p>
+          <div class="info-box">
+            <h4>UK ETAでできること</h4>
+            <ul>
+              <li>観光、家族・友人の訪問（最長6か月）</li>
+              <li>短期の商用（ビジネス）目的の渡航</li>
+              <li>短期留学（最長6か月）</li>
+              <li>Creative Worker visa concessionでの渡航（最長3か月）</li>
+              <li>Permitted paid engagement（許可された有償活動）</li>
+              <li>入国審査を通過する乗り継ぎ（トランジット）</li>
+            </ul>
+          </div>
+          <div class="warn-box">
+            <h4>UK ETAでできないこと</h4>
+            <ul>
+              <li>6か月を超える滞在</li>
+              <li>英国企業のための有給・無給の就労や自営業（一部の例外を除く）</li>
+              <li>公的給付（手当）の受給</li>
+              <li>頻繁・連続した訪問による実質的な居住</li>
+              <li>結婚・シビルパートナーシップの登録や届け出</li>
+            </ul>
+          </div>
+
+          <h2 id="section5">UK ETAの申請方法の概要</h2>
+          <p>UK ETAは、スマートフォンの公式アプリ「UK ETA」またはオンラインで申請します。必要なものは、有効なパスポート、メールアドレス、顔写真、支払い手段（カード等）です。アプリではカメラでパスポートと顔をスキャンします。</p>
+          <p>申請後はUK Visas and Immigration（UKVI）から結果がメールで届きます。通常は1日程度、遅くとも3営業日以内に結果が出ることが多いですが、余裕を持って早めに申請しておくと安心です。詳しい手順は<a href="/uk-eta-smartphone/">スマホアプリでの申請方法の記事</a>もあわせてご覧ください。</p>
+
+          <h2 id="section6">よくある質問</h2>
+          <div class="faq-item">
+            <h3>Q1: UK ETAとは何ですか？</h3>
+            <p><strong>A:</strong> ビザなしでイギリスへ短期渡航する人に必要な電子渡航認証です。観光・知人訪問・短期商用・短期留学・乗り継ぎ（入国審査を通過する場合）などが対象で、1回あたり最長6か月の滞在が認められます。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q2: UK ETAの料金はいくらですか？</h3>
+            <p><strong>A:</strong> GOV.UK公式によると£20です。返金はできません。料金は改定される可能性があるため、最新額は公式サイトでご確認ください。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q3: UK ETAの有効期間はどれくらいですか？</h3>
+            <p><strong>A:</strong> 承認から2年間、またはパスポートの有効期限までのいずれか早い方まで有効で、その間は何度でも渡航できます。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q4: 子どもや赤ちゃんもUK ETAが必要ですか？</h3>
+            <p><strong>A:</strong> 必要です。年齢を問わず、渡航するすべての人に1人ずつETAが必要です。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q5: UK ETAがあれば必ず入国できますか？</h3>
+            <p><strong>A:</strong> いいえ。ETAは入国を保証するものではなく、最終判断は到着時の入国審査で行われます。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q6: UK ETAで働けますか？</h3>
+            <p><strong>A:</strong> 原則できません。就労目的の場合はビザが必要です。</p>
+          </div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>UK ETAは、ビザ免除でイギリスへ短期渡航する人に必須の電子渡航認証です。料金は£20、有効期間は2年間（またはパスポート失効まで）で、1回あたり最長6か月まで滞在できます。観光・商用・短期留学・乗り継ぎなどに使えますが、就労や長期滞在には使えません。</p>
+          <div class="info-box">
+            <h4>UK ETAのポイント</h4>
+            <ul>
+              <li>ビザ免除での短期渡航に必須の事前認証</li>
+              <li>料金：£20（返金不可・最新は公式で確認）</li>
+              <li>有効期間：2年間またはパスポート失効まで</li>
+              <li>滞在：1回あたり最長6か月</li>
+              <li>入国を保証するものではない</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/uk-eta-application/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>イギリスETAとは？申請方法を解説</h3></div></a>
+            <a href="/uk-eta-vs-visa/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAとビザの違い</h3></div></a>
+            <a href="/uk-eta-validity/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAの有効期限</h3></div></a>
+            <a href="/uk-eta-smartphone/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>スマホアプリでのUK ETA申請方法</h3></div></a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">UK ETA関連記事</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-check/" style="color: #D4885A; text-decoration: underline;">UK ETAの申請状況・審査結果の確認方法</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-timing/" style="color: #D4885A; text-decoration: underline;">UK ETAは いつから申請できる？タイミングの目安</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-transit/" style="color: #D4885A; text-decoration: underline;">乗り継ぎ・トランジットでUK ETAは必要？</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-criminal-record/" style="color: #D4885A; text-decoration: underline;">犯罪歴がある場合のUK ETA申請</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">UK ETA関連記事</h3>
+        <ol class="sidebar-ranking">
+          <li><a href="/uk-eta-application/"><span class="rank-num">1</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">イギリスETAの申請方法</div></div></a></li>
+          <li><a href="/uk-eta-vs-visa/"><span class="rank-num">2</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">UK ETAとビザの違い</div></div></a></li>
+          <li><a href="/uk-eta-renewal/"><span class="rank-num">3</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">UK ETAの更新・再申請</div></div></a></li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"イギリス\",\"item\":\"https://trips-now.com/uk-eta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UK ETAとは\",\"item\":\"https://trips-now.com/uk-eta-about/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

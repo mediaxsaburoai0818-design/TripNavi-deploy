@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T436b,<div class="page-layout">
+2:T3ec4,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ シドニーの観光スポット10選 定番からおすすめまでを紹介</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>シドニーの観光スポット10選 定番からおすすめまでを紹介</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -38,7 +38,7 @@
 </nav>
 </div>
 <picture>
-<source alt="シドニーの観光スポット10選" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/5d33762f1189dd68a147bcb1e69dcc6f.webp" type="image/webp" width="640"/><img alt="シドニーの観光スポット10選" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/5d33762f1189dd68a147bcb1e69dcc6f.jpg" width="640"/>
+
 </picture>
 <p>オペラハウスやハーバーブリッジで有名なシドニーはオーストラリア国内で最も人気のある観光地です。歴史を感じる街並みや近代的な建造物が並ぶ地域など様々な表情を見せるシドニーには多くの観光スポットがあります。このページではシドニー旅行の際に訪れたい定番の観光地や人気のスポットを厳選して紹介します。</p>
 <h2 class="wp-block-heading" id="sidney1">オーストラリア・シドニーのおすすめ＆定番観光スポット</h2>
@@ -52,8 +52,8 @@
 <h3 class="wp-block-heading" id="sec_zoo">4. タロンガ動物公園</h3>
 <p>タロンガ動物公園はシドニーで最も大きな動物園として市民や観光客に親しまれています。1916年に設立し、広大な敷地の中で約400種類の動物たちが飼育されています。コアラとの記念撮影が可能で、多くの観光客で賑わいをみせています。また、放し飼いの鳥と親しむことができるなど、家族で楽しめるアクティビティが充実しています。<br />タロンガ動物公園へのアクセスは、サーキュラー・キー・フェリーターミナルからフェリーで12分。フェリーからは広大な動物園の景色を眺めることができます。入場料は大人46ドル、子ども26ドル、4才未満は無料となっています。なお、オーストラリアでコアラとの記念撮影が可能な動物園は「<a href="/australia-koala-zoos/">オーストラリアでコアラと出会える動物園</a>」をご確認ください。</p>
 <picture>
-<source alt="タロンガ動物公園" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/MlJqspTmiMZiLWb1614662366.webp" type="image/webp" width="640"/>
-<img alt="タロンガ動物公園" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/MlJqspTmiMZiLWb1614662366.jpg" width="640"/>
+
+
 </picture>
 <h3 class="wp-block-heading" id="sec_tower">5. シドニー・タワー・アイのスカイウォーク</h3>
 <p>高さ305mのシドニー・タワーはシドニーで最も高い建造物です。地上250mには展望台のシドニー・タワー・アイがあり、晴天の日はシドニーハーバーの海岸線やブルー・マウンテンズまで見渡すことができます。展望台にはスカイウォークと呼ばれる歩道があり、建物の外側に造られた歩道を歩くアトラクションが人気を博しています。歩道の一部は特殊なガラスが敷かれ、足元からは透明なガラス越しにシドニー市街を眺めることできます。スカイウォークへの参加は満10歳以上となり、17歳未満の方は18歳以上の保護者の同伴が必要となります。また、参加の際はパスポートなど写真付きの身分証明書の提示が求められます。</p>
@@ -62,8 +62,8 @@
 <h3 class="wp-block-heading" id="sec_church">7. セントメアリー大聖堂</h3>
 <p>セントメアリー大聖堂はシドニーのランドマークであり、オーストラリアで最初に建立したカトリック教会です。今から200年以上前に建てられ、シドニーの発展に深く関わってきた建築家ウィリアム・ウォーデルによるゴシック建築の傑作としてその名が知られています。教会内には美しいステンドグラスの窓や優美な石膏像があり、荘厳なパイプオルガンの音色に情緒と歴史を感じることでしょう。1865年には大きな火災が起こり一時焼失しましたが、60年以上の歳月をかけて復旧。現在も街のシンボルとして市民から親しまれています。<br />セントメアリー大聖堂はシドニー中心部にあるハイドパークに隣接し、セントジェームズ駅から徒歩2分の場所にあります。</p>
 <picture>
-<source alt="オペラハウス" class="img_big m20-t m20-b" height="428" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/ioo7pOiPPD7s5R71614662679.webp" type="image/webp" width="640"/>
-<img alt="オペラハウス" class="img_big m20-t m20-b" decoding="async" height="428" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/ioo7pOiPPD7s5R71614662679.jpg" width="640"/>
+
+
 </picture>
 <h3 class="wp-block-heading" id="sec_opera">8. オペラハウス</h3>
 <p>オペラハウスは1973年に建てられた歌劇場で、世界遺産にも登録されたオーストラリアを代表する建造物です。独特な形状の屋根は帆船の帆をイメージしており、人類史上最も優れた建造物として評価されています。館内にはオペラシアターやコンサートホール、ドラマシアターなど5つの劇場があり、年回の公演回数は世界トップクラスを誇ります。ガイドによる館内見学ツアーも行われ、年間で1,090万人もの観光客が訪れるオペラハウスは世界有数の観光スポットとして連日賑わいを見せています。<br />オペラハウスはサーキュラー・キー駅すぐ近くにあり、見学ツアーは午前9時から午後5時まで。入場料は大人25ドル、子ども18ドルとなっています。</p>
@@ -100,6 +100,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

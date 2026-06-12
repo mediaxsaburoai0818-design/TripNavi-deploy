@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T54e3,<div class="page-layout">
+2:T4db5,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>ケアンズの観光地10選 おすすめの定番スポットから必見の大自然まで</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -39,8 +39,8 @@
 </nav>
 </div>
 <picture>
-<source alt="ケアンズのグレートバリアリーフ" class="img_big m20-t m20-b" height="426" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/c5925630198bc7adbb42591aaa2024cc.webp" type="image/webp" width="640"/>
-<img alt="ケアンズのグレートバリアリーフ" class="img_big m20-t m20-b" decoding="async" height="426" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/c5925630198bc7adbb42591aaa2024cc.jpg" width="640"/>
+
+
 </picture>
 <p>自然豊かで日本と同じく四季が存在するオーストラリアは南半球に位置し、7つの州と<a href="/country-australia/">ノーザンテリトリー(北部準州)</a>、<a href="/country-australia/">首都特別地域(ACT)</a>で構成されています。国内の平均高度は全大陸の中で最も低く、標高約2,230mのコジアスコ山が最高峰となる起伏が少ない地形が特徴です。このページではオーストラリア北東部に位置し、国内で2番目に面積が大きい<a href="/country-australia/">クイーンズランド州</a>の都市”ケアンズ“についてご紹介します。</p>
 <h2 class="wp-block-heading" id="cairns1">オーストラリアの都市“ケアンズ”とは</h2>
@@ -55,8 +55,8 @@
 <div class="Class_AB">
 <strong>所在地：</strong>Boad Access, Green Island QLD 4871 オーストラリア<br /><strong>アクセス：</strong>リーフ・フリート・ターミナル / Cairns Reef Fleet Terminal からフェリーで約50分<br /><strong>公式サイト：</strong><a href="https://www.green-island.com.au/" rel="noreferrer noopener" target="_blank">Green Island</a></div>
 <picture>
-<source alt="キュランダ高原列車 / Kuranda Scenic Railway" class="img_big m20-t m20-b" height="424" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/15546b4749510069cd8ff15953d60d8e.webp" type="image/webp" width="640"/>
-<img alt="キュランダ高原列車 / Kuranda Scenic Railway" class="img_big m20-t m20-b" decoding="async" height="424" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/15546b4749510069cd8ff15953d60d8e.jpg" width="640"/>
+
+
 </picture>
 <h3 class="wp-block-heading" id="sec_kuranda">3.　キュランダ高原列車 / Kuranda Scenic Railway</h3>
 <p>別名“キュランダ観光鉄道”と呼ばれるキュランダ高原列車は、1891年に開業された歴史の長い鉄道です。ケアンズ駅からフレッシュウォーター駅やバロン滝駅を経由し、世界遺産のキュランダまで約33kmを2時間ほどかけてゆっくりと走ります。テレビ番組「世界の車窓から」で約10年間使用された列車からの景色を乗車中も楽しむことができるでしょう。途中のバロン滝駅では10分ほど停車するので、列車を降りて滝を眺めたり記念撮影ができます。ケアンズ駅発は8時30分、9時30分、キュランダ駅発は午後2時、午後3時30分の2本ずつのみなので乗車時間に遅れないよう注意しましょう。</p>
@@ -75,8 +75,8 @@
 <div class="Class_AB">
 <strong>所在地：</strong>1671 Japoonvale Road, Mena Creek QLD 4871<br /><strong>公式サイト：</strong><a href="https://www.paronellapark.com.au/" rel="noreferrer noopener" target="_blank">Paronella Park</a></div>
 <picture>
-<source alt="エスプラネード・ラグーン / Esplanade Lagoon" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/74425df3d82d1c047c326759e0771e9b.webp" type="image/webp" width="640"/>
-<img alt="エスプラネード・ラグーン / Esplanade Lagoon" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/74425df3d82d1c047c326759e0771e9b.jpg" width="640"/>
+
+
 </picture>
 <h3 class="wp-block-heading" id="sec_lagoon">7.　エスプラネード・ラグーン / Esplanade Lagoon</h3>
 <p>エスプラネードと呼ばれる海岸通りの東側に位置する“エスプラネード・ラグーン”は、ケアンズ市民に愛される人工プールです。利用料金は無料で、午前6時から午後10時まではプールサイドにライフガードが常駐するため子供連れの家族から地元の人々、観光客にも人気のスポットです。海辺に位置するため景色が良く、白い砂浜や緑あふれる公園、バーベキュー場などゆっくりと過ごすことができます。また、アクティビティ施設や毎週土曜日に開催される“エスプラネードマーケット”など様々なイベントもあります。</p>
@@ -91,8 +91,8 @@
 <div class="Class_AB">
 <strong>所在地：</strong>35-41 Wharf St, Cairns City QLD 4870, Australia<br /><strong>公式サイト：</strong><a href="https://www.reefcasino.com.au/ja/play/casino-promotions" rel="noreferrer noopener" target="_blank">THE REEF HOTEL CASINO</a></div>
 <picture>
-<source alt="カーテン・フィグ国立公園 / Curtain Fig National Park" class="img_big m20-t m20-b" height="480" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/AsxjBhnosVYNHeA1615180164.webp" type="image/webp" width="640"/>
-<img alt="カーテン・フィグ国立公園 / Curtain Fig National Park" class="img_big m20-t m20-b" decoding="async" height="480" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/AsxjBhnosVYNHeA1615180164.jpg" width="640"/>
+
+
 </picture>
 <h3 class="wp-block-heading" id="sec_curtain">10.　カーテン・フィグ国立公園 / Curtain Fig National Park</h3>
 <p>ケアンズから車で約1時間の場所に位置する街“<a href="https://www.yungaburra.com/" rel="noreferrer noopener" target="_blank">ヤンガバラ</a>”のはずれにある“カーテン・フィグ国立公園”では、絶滅の危機に瀕している低木と蔓の層が密集している森“<a href="http://www.environment.gov.au/cgi-bin/sprat/public/publicshowcommunity.pl?id=30" rel="noreferrer noopener" target="_blank">マビフォレスト</a>”やイチジクの木“フィグツリー”が保護されています。森の中に延びるボードウォークを進むと、カーテンのように垂れ下がる巨大なイチジクの根が現れます。別名“絞め殺しのイチジク”と呼ばれるフィグツリーは、他の植物に巻き付きながら成長し、巻き付いた植物の栄養を全て吸収し腐敗させてしまいます。園内にある無数のフィグツリーの幹から垂れ下がる根がカーテンのように見えることから“カーテン・フィグ”と呼ばれ、高さは15m、幹の周囲は40mあり、推定500年以上の樹齢を誇ります。</p>
@@ -127,6 +127,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

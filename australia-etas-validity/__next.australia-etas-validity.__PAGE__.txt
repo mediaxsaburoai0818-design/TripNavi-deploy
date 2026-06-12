@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T3ae1,<div class="page-layout">
+2:T394d,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ オーストラリアETAS(イータス)の有効期限と再申請について</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>オーストラリアETAS(イータス)の有効期限と再申請について</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -30,8 +30,8 @@
 </nav>
 </div>
 <picture>
-<source alt="ETAS(イータス)の再申請・有効期限について" class="img_big m20-t m20-b" height="370" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/AzWnS6EkllOg5Wu1588588442.webp" type="image/webp" width="640"/>
-<img alt="ETAS(イータス)の再申請・有効期限について" class="img_big m20-t m20-b" decoding="async" height="370" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/04/AzWnS6EkllOg5Wu1588588442.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="reapplication1"> オーストラリア渡航で必要となるETAS(イータス)とは </h2>
 <p><a class="link-no-color aioseop-link" href="/country-australia/">ETAS(イータス)</a>とは、外国籍の方がオーストラリアへ渡航する際に必要となるオーストラリア独自の電子渡航認証システムです。オーストラリアへの渡航目的が旅行か短期商用または短期留学のいずれかで、1回につき3か月以内の滞在であればビザを取得せずに渡航が認められる制度となります。ETAS(イータス)の申請はオンラインで受け付けており、審査結果はEメールにて速やかに通知されます。ETAS(イータス)はビザよりも審査が簡易的であり、短期間のオーストラリア滞在に適した一時入国ビザと言えるでしょう。ETAS(イータス)の有効期限は取得した日から起算して1年間と定められています。ETAS(イータス)は1度の渡航につき最大で3か月の滞在が認められますので、4月1日にオーストラリアへ入国した場合は最長で7月1日までの滞在が可能となります。<br />※日本ではETAS(イータス)と呼ぶのが一般的ですが、オーストラリアでは主にETA(イーティーエー)と呼ばれています。ETAS(イータス)は“ELECTRIC TRAVEL AUTHORITY SYSTEM”の略で、ETAは末尾の“SYSTEM”を省略した呼称となります。オーストラリアで電子渡航認証について尋ねられた際はETA(イーティーエー)と答えるとスムーズです。 </p>
@@ -84,6 +84,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

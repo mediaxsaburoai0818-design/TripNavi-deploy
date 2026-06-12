@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T59c7,<div class="page-layout">
+2:T57ef,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ オーストラリア主要都市と日本の時差・サマータイムについて</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>オーストラリア主要都市と日本の時差・サマータイムについて</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -41,8 +41,8 @@
 </nav>
 </div>
 <picture>
-<source alt="オーストラリア主要都市と日本の時差・サマータイムについて" class="img_big m20-t m20-b" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/be14171bb825457644d161ac5362830b.webp" type="image/webp" width="640"/>
-<img alt="オーストラリア主要都市と日本の時差・サマータイムについて" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/be14171bb825457644d161ac5362830b.jpg" width="640"/>
+
+
 </picture>
 <p>オーストラリアの面積は日本の約21倍で、広大な国土では3つの時間帯(タイムゾーン)が制定されています。夏季には「サマータイム」を大半の州で導入し、日照時間を有効に活用するための基準を設けています。日本とオーストラリアとの時差は1時間ほどで地域により異なります。このページではオーストラリアと日本との時差や主要都市で導入している制度、オーストラリアのサマータイムについて解説します。</p>
 <h2 class="wp-block-heading" id="time1">オーストラリアと日本の時差はプラス1時間～マイナス1時間</h2>
@@ -211,6 +211,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

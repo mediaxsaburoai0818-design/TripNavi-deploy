@@ -1,0 +1,121 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T22a5,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/etias-about/">ETIAS</a> ＞ ETIAS対象国一覧</div>
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/tripnavi-hero-a.jpg" alt="ヨーロッパ渡航" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="blue">渡航手続き</span>
+ <h1>ETIAS対象国一覧｜シェンゲン協定加盟30カ国の完全リスト</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年05月02日</span>
+ </div>
+ <div class="content">
+
+<h2>ETIASが必要なシェンゲン協定加盟国とは</h2>
+<p>ETIAS（欧州渡航情報・認証システム）は、シェンゲン協定に加盟する国々への短期渡航時に必要となる電子渡航認証です。シェンゲン協定とは、ヨーロッパの多くの国が加盟する国境管理の協定で、加盟国間では出入国審査なしに自由に移動できる「シェンゲン圏」を形成しています。日本国籍の方がシェンゲン圏に渡航する際は、ETIAS導入後に渡航認証の取得が義務付けられます。ETIASの概要については<a href="/etias-about/">ETIASとは</a>をご確認ください。</p>
+
+<h2>シェンゲン協定加盟30カ国一覧</h2>
+<p>以下がETIAS対象となるシェンゲン協定加盟国の完全リストです（2026年5月現在）。</p>
+<figure class="wp-block-table">
+<table>
+<thead>
+<tr><th>地域</th><th>国名</th><th>備考</th></tr>
+</thead>
+<tbody>
+<tr><td>西ヨーロッパ</td><td>フランス</td><td>日本人に最も人気のヨーロッパ渡航先の一つ。<a href="/etias-france/">詳細はこちら</a></td></tr>
+<tr><td>西ヨーロッパ</td><td>ドイツ</td><td>EU最大の経済国。ビジネス渡航も多い</td></tr>
+<tr><td>西ヨーロッパ</td><td>オランダ</td><td>アムステルダム・スキポール空港はヨーロッパのハブ</td></tr>
+<tr><td>西ヨーロッパ</td><td>ベルギー</td><td>EU本部所在地。ブリュッセルへの渡航が多い</td></tr>
+<tr><td>西ヨーロッパ</td><td>ルクセンブルク</td><td>小国だがEU機関が多数所在</td></tr>
+<tr><td>西ヨーロッパ</td><td>オーストリア</td><td>ウィーンは音楽の都として人気</td></tr>
+<tr><td>西ヨーロッパ</td><td>スイス</td><td>EU非加盟だがシェンゲン協定には加盟</td></tr>
+<tr><td>西ヨーロッパ</td><td>リヒテンシュタイン</td><td>スイスとオーストリアに挟まれた小国</td></tr>
+<tr><td>南ヨーロッパ</td><td>イタリア</td><td>ローマ、ミラノ、ベネチアなど観光地多数。<a href="/etias-italy/">詳細はこちら</a></td></tr>
+<tr><td>南ヨーロッパ</td><td>スペイン</td><td>バルセロナ、マドリードが人気</td></tr>
+<tr><td>南ヨーロッパ</td><td>ポルトガル</td><td>リスボン、ポルトが近年人気上昇中</td></tr>
+<tr><td>南ヨーロッパ</td><td>ギリシャ</td><td>アテネ、サントリーニ島など</td></tr>
+<tr><td>南ヨーロッパ</td><td>マルタ</td><td>地中海の島国。語学留学先としても人気</td></tr>
+<tr><td>南ヨーロッパ</td><td>クロアチア</td><td>2023年にシェンゲン圏に加盟</td></tr>
+<tr><td>南ヨーロッパ</td><td>スロベニア</td><td>リュブリャナが首都の自然豊かな国</td></tr>
+<tr><td>北ヨーロッパ</td><td>デンマーク</td><td>コペンハーゲンが北欧のゲートウェイ</td></tr>
+<tr><td>北ヨーロッパ</td><td>スウェーデン</td><td>ストックホルムが首都</td></tr>
+<tr><td>北ヨーロッパ</td><td>ノルウェー</td><td>EU非加盟だがシェンゲン協定に加盟。フィヨルド観光が人気</td></tr>
+<tr><td>北ヨーロッパ</td><td>フィンランド</td><td>ヘルシンキは日本からのアクセスが良好</td></tr>
+<tr><td>北ヨーロッパ</td><td>アイスランド</td><td>EU非加盟だがシェンゲン協定に加盟。オーロラ観測で人気</td></tr>
+<tr><td>北ヨーロッパ</td><td>エストニア</td><td>IT先進国。タリン旧市街は世界遺産</td></tr>
+<tr><td>北ヨーロッパ</td><td>ラトビア</td><td>リガ旧市街が世界遺産</td></tr>
+<tr><td>北ヨーロッパ</td><td>リトアニア</td><td>バルト三国の一つ</td></tr>
+<tr><td>中央ヨーロッパ</td><td>チェコ</td><td>プラハは人気の観光都市</td></tr>
+<tr><td>中央ヨーロッパ</td><td>ポーランド</td><td>ワルシャワ、クラクフなど</td></tr>
+<tr><td>中央ヨーロッパ</td><td>スロバキア</td><td>ブラチスラヴァが首都</td></tr>
+<tr><td>中央ヨーロッパ</td><td>ハンガリー</td><td>ブダペストの温泉が人気</td></tr>
+<tr><td>東ヨーロッパ</td><td>ブルガリア</td><td>2024年にシェンゲン圏に加盟</td></tr>
+<tr><td>東ヨーロッパ</td><td>ルーマニア</td><td>2024年にシェンゲン圏に加盟</td></tr>
+</tbody>
+</table>
+</figure>
+
+<h2>ETIASが不要な主なヨーロッパの国</h2>
+<p>以下の国はシェンゲン協定に加盟していないため、ETIASは不要です（ただし、別途入国要件が存在する場合があります）。</p>
+<ul>
+<li><strong>イギリス</strong>：EU離脱済み。UK-ETAが必要です。</li>
+<li><strong>アイルランド</strong>：シェンゲン協定に不参加。独自の入国管理を実施。</li>
+<li><strong>キプロス</strong>：EU加盟国だがシェンゲン圏には未加盟。</li>
+<li><strong>トルコ</strong>：EU・シェンゲンいずれにも非加盟。</li>
+</ul>
+
+<h2>複数国を周遊する場合の注意点</h2>
+<p>ETIASを取得すれば、シェンゲン圏内の複数国を自由に周遊できます。ただし、以下の点に注意が必要です。</p>
+<ul>
+<li>180日間のうち合計90日以内の滞在に限られます。</li>
+<li>シェンゲン圏からの出入国記録はすべて合算されます。</li>
+<li>ETIAS申請時に「最初に入国するシェンゲン加盟国」を申告する必要があります。</li>
+<li>各国独自の規制（持ち込み制限等）は別途確認が必要です。</li>
+</ul>
+
+<h2>よくある質問（FAQ）</h2>
+<h3>Q. シェンゲン圏とEU加盟国は同じですか？</h3>
+<p>いいえ。スイス、ノルウェー、アイスランド、リヒテンシュタインはEU非加盟ですがシェンゲン協定に加盟しています。逆にアイルランド、キプロスはEU加盟国ですがシェンゲン協定には不参加です。</p>
+
+<h3>Q. フランスの海外県・海外領土もETIAS対象ですか？</h3>
+<p>フランス本土はシェンゲン圏ですが、海外県・海外領土（グアドループ、マルティニーク、レユニオン等）はシェンゲン圏外となるため、ETIASの対象外です。別途入国要件を確認してください。</p>
+
+<h3>Q. トランジット（乗り継ぎ）でもETIASは必要ですか？</h3>
+<p>シェンゲン圏の空港で乗り継ぎをする場合、入国審査を通過する場合はETIASが必要です。国際線エリア内での乗り継ぎのみであれば不要な場合もありますが、各空港のルールをご確認ください。</p>
+
+<h3>Q. 今後シェンゲン加盟国が増える可能性はありますか？</h3>
+<p>はい。ブルガリアとルーマニアは2024年にシェンゲン圏に加盟しました。キプロスなども将来的に加盟する可能性があります。最新情報は随時更新します。</p>
+
+ </div>
+ </article>
+
+      <section class="related-articles">
+ <h2 class="related-title">ETIAS関連記事</h2>
+ <div class="related-grid">
+ <a href="/etias-about/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1485081669829-bacb8c7bb1f3?w=300&h=180&fit=crop" alt="ETIASとは" />
+ <p>ETIASとは？EU渡航認証システムの概要</p>
+ </a>
+ <a href="/etias-france/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=300&h=180&fit=crop" alt="フランスETIAS" />
+ <p>フランス渡航にETIASは必要？</p>
+ </a>
+ <a href="/etias-italy/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?w=300&h=180&fit=crop" alt="イタリアETIAS" />
+ <p>イタリア渡航にETIASは必要？</p>
+ </a>
+ <a href="/etias-application/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=300&h=180&fit=crop" alt="ETIAS申請" />
+ <p>ETIAS申請方法・手順ガイド</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

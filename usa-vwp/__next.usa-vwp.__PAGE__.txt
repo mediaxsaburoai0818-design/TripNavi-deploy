@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T43ac,<div class="page-layout">
+2:T43f0,<div class="page-layout">
     <main class="page-main">
       <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/usa-esta-application/">アメリカ</a> ＞ <a href="/">入国・ビザガイド</a> ＞ ビザ免除プログラム(VWP)とは</div>
 
@@ -9,7 +9,7 @@
         <span class="card-tag">入国・ビザガイド</span>
         <h1>ビザ免除プログラム(VWP)とは？対象国・条件・ESTAとの違いを解説</h1>
         <div class="article-meta">
-          <span class="meta-date">更新日：2026年3月5日</span>
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年3月5日</span>
         </div>
         <img src="https://images.unsplash.com/photo-1501466044931-62695aada8e9?w=800&h=400&fit=crop" alt="アメリカの国旗とパスポート" class="article-hero" />
 
@@ -186,6 +186,6 @@
       </section>
     </main>
     <div id="sidebar-mount"></div>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

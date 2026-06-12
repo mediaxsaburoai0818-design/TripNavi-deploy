@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T42d8,<div class="page-layout">
+2:T431c,<div class="page-layout">
     <main class="page-main">
       <div class="breadcrumb">
         <a href="/">ホーム</a> ＞ 
@@ -14,7 +14,7 @@
         <span class="card-tag">グアム渡航ノウハウ</span>
         <h1>グアム旅行に必要なGuam-CNMI ETAの申請方法について解説</h1>
         <div class="article-meta">
-          <span class="meta-date">更新日：2026年03月31日</span>
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月31日</span>
         </div>
 
         <div class="content">
@@ -305,6 +305,6 @@
         </ol>
       </div>
     </aside>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

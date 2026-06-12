@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4aaf,<div class="page-layout">
+2:T48d2,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ オーストラリアでプレーされるラグビーの種類や環境について</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>オーストラリアでプレーされるラグビーの種類や環境について</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -41,8 +41,8 @@
 </nav>
 </div>
 <picture>
-<source alt="オーストラリアでプレーされるラグビーの種類や環境について" class="img_big m20-t m20-b lazyloaded" height="426" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/25kDV2aa2HGdzwc16238229621.webp" type="image/webp" width="640"/>
-<img alt="オーストラリアでプレーされるラグビーの種類や環境について" class="img_big m20-t m20-b" decoding="async" height="426" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/3bab7612448901cd298388c14c72bc7c.jpg" width="640"/>
+
+
 </picture>
 <p>2019年のワールドカップ開催により日本でも人気が高まったラグビーの強豪国として知られるオーストラリア。ラグビーが誕生したイギリスの植民地であったことも影響し、18世紀頃にはオーストラリアでプレーされるようになりました。ラグビーは今もなお国内で広く親しまれ、地域のスポーツクラブや高校の授業で行われる人気スポーツのひとつです。こちらのページではオーストラリアにおけるラグビーの歴史や種類、国内のラグビー環境について解説します。</p>
 <h2 class="wp-block-heading" id="rugby1">オーストラリアといえばラグビー</h2>
@@ -105,6 +105,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:Tc9d1,<div class="page-layout">
+2:Tbaad,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ オーストラリアの世界遺産15選 自然遺産から文化遺産まで</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>オーストラリアの世界遺産15選 自然遺産から文化遺産まで</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -56,7 +56,7 @@
 </nav>
 </div>
 <picture>
-<source alt="世界遺産のグレートバリアリーフ" class="img_big m20-t m20-b lazyloaded" height="426" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/9caaf6e6bf6c3f52c27949f9437beddf.webp" type="image/webp" width="640"/><img alt="世界遺産のグレートバリアリーフ" class="img_big m20-t m20-b" decoding="async" height="426" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/9caaf6e6bf6c3f52c27949f9437beddf.jpg" width="640"/>
+
 </picture>
 <p>オーストラリアでは自然遺産12か所、文化遺産4か所、複合遺産4か所の計20か所がユネスコの世界遺産に登録されています。美しいサンゴ礁群や原生雨林などの自然遺産だけではなく、<a href="/australia-aboriginal-culture/">アボリジニ</a>の遺跡や囚人遺跡群、20世紀を象徴する建造物などの文化遺産まで多岐にわたります。人気の観光スポットであるグレートバリアリーフやウルル/エアーズロック、オペラハウスもオーストラリアを代表する世界遺産です。このページではオーストラリア観光でお勧めの世界遺産15選を紹介します。</p>
 <h2 class="wp-block-heading" id="world1">オーストラリアの代表的な世界自然遺産7選</h2>
@@ -80,7 +80,7 @@
 <div class="Class_AB">
 <strong>所在地：</strong>ニューサウスウェールズ州東部<br /><strong>アクセス：</strong>シドニー市内から車で約2時間<br /><strong>登録年：</strong>2000年<br /><strong>ニューサウスウェールズ州政府観光局サイト：</strong><a href="https://www.visitnsw.com/destinations/blue-mountains" rel="noreferrer noopener" target="_blank">Blue Mountains</a><br /><strong>ユネスコ公式サイト：</strong><a href="https://whc.unesco.org/en/list/917" rel="noreferrer noopener" target="_blank">Greater Blue Mountains Area</a></div>
 <picture>
-<source alt="ブルー・マウンテンズ / Blue Mountains" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/62917c443f79e1e2cabe95d757f4de6b.webp" type="image/webp" width="640"/><img alt="ブルー・マウンテンズ / Blue Mountains" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/62917c443f79e1e2cabe95d757f4de6b.jpg" width="640"/>
+
 </picture>
 <h3 class="wp-block-heading" id="world1-3">ロード・ハウ島 / Lord Howe Island</h3>
 <p>約700万年前に起きた海底火山の隆起と海水の浸食により形成されたロード・ハウ島とその周辺の島々は、“<a href="https://www.australia.com/ja-jp/places/sydney-and-surrounds/guide-to-lord-howe-island.html" rel="noreferrer noopener" target="_blank">ロード・ハウ島群</a>“として1982年に世界自然遺産に登録されました。島々の周辺には世界最南端のサンゴ礁が広がります。サンゴ礁が作り出す色彩豊かな海は、スキューバダイビングやシュノーケリングの人気スポットにもなっています。また、大陸では見ることができない亜熱帯の森林が広がり、自生する219種の植物のうち74種はロード・ハウ島のみに生息する固有種です。シロハラウミツバメの唯一の繁殖地としても知られ、貴重な姿を観察することができます。現在、ロード・ハウ島にはおよそ300人が暮らしており、環境保護のために観光客の訪問は1日あたり400人に制限されています。</p>
@@ -91,7 +91,7 @@
 <div class="Class_AB">
 <strong>所在地：</strong>クイーンズランド州南海岸<br /><strong>アクセス：</strong>リバーヘッズまたはインスキップからフェリー<br /><strong>登録年：</strong>1992年<br /><strong>クイーンズランド州政府観光局サイト：</strong><a href="https://www.queensland.com/au/en/places-to-see/destination-information/p-56b25d552cbcbe7073ad6968-fraser-island" rel="noreferrer noopener" target="_blank">Fraser Island</a><br /><strong>ユネスコ公式サイト：</strong><a href="https://whc.unesco.org/en/list/630" rel="noreferrer noopener" target="_blank">Fraser Island</a></div>
 <picture>
-<source alt="フレーザー島 / Fraser Island" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/081b2b282eede44d570bc8d425d03917-1.webp" type="image/webp" width="640"/><img alt="フレーザー島 / Fraser Island" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/081b2b282eede44d570bc8d425d03917.jpg" width="640"/>
+
 </picture>
 <h3 class="wp-block-heading" id="world1-5">パーヌルル国立公園 / Purnululu National Park</h3>
 <p><a href="https://www.australia.com/ja-jp/places/broome-and-surrounds/guide-to-purnululu-national-park.html" rel="noreferrer noopener" target="_blank">パーヌルル国立公園</a>は西オーストラリア州のキンバリー地域にある国立公園です。約2,400平方kmの公園内には奇岩群によって形成された山脈が広がり、どこまでも続く黒とオレンジの岩山は「地球最後の秘境」と称されます。2000万年以上かけてデボン紀の石英砂岩を含む岩石が浸食され、蜂の巣を逆さにした形状や円錐形の奇形岩が連なる山脈になりました。こうしたユニークな地形は<a href="/australia-aboriginal-culture/">アボリジニ</a>の言葉で砂岩を意味する“バングル・バングル”と呼ばれます。アボリジニはこの地域に4万年以上前から暮らしていたと考えられ、公園内にはアボリジニが描いたとされる岩絵を至るところで見ることができます。岩絵は2万年以上前から近代にわたり描かれ、モチーフは時代によって様々です。公園内ではアボリジニのガイドによる<a href="https://www.bunglebungleguidedtours.com.au/" rel="noreferrer noopener" target="_blank">岩絵を巡るツアー</a>も開催されています。</p>
@@ -102,7 +102,7 @@
 <div class="Class_AB">
 <strong>所在地：</strong>Cape Range National Park Yardie Creek Road, WA 6707<br /><strong>アクセス：</strong>パースから車で約12時間<br /><strong>登録年：</strong>2011年<br /><strong>西オーストラリア州政府観光局サイト：</strong><a href="https://www.westernaustralia.com/jp/Attraction/Ningaloo_Reef/56b266f77b935fbe730e6352" rel="noreferrer noopener" target="_blank">ニンガルー・リーフ</a><br /><strong>ユネスコ公式サイト：</strong><a href="https://whc.unesco.org/en/list/1369" rel="noreferrer noopener" target="_blank">Ningaloo Coast</a></div>
 <picture>
-<source alt="ニンガルー・コースト / Ningaloo Coast" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/66f00c26a42a267489672e142ee0ffd5-1.webp" type="image/webp" width="640"/><img alt="ニンガルー・コースト / Ningaloo Coast" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/66f00c26a42a267489672e142ee0ffd5.jpg" width="640"/>
+
 </picture>
 <h3 class="wp-block-heading" id="world1-7">オーストラリアの哺乳類化石地域 / Australian Fossil Mammal Sites</h3>
 <p>オーストラリアの哺乳類化石地域はクイーンズランド州にある<a href="https://www.queensland.com/jp/ja/things-to-do/attractions/p-56b25fe72880253d74c480dc-riversleigh-world-heritage-site-boodjamulla-lawn-hill-national-park" rel="noreferrer noopener" target="_blank">リヴァーズレー</a>と南オーストラリア州の<a href="https://southaustralia.com/products/limestone-coast/destination-information/naracoorte" rel="noreferrer noopener" target="_blank">ナラコーテ</a>の2つの地域で構成されます。両地域ではオーストラリア大陸固有の哺乳類の化石が数多く発掘され、哺乳類の進化や気候、地形の変化を知ることができる貴重な場所です。<br /><a href="https://www.queensland.com/jp/ja/things-to-do/attractions/p-56b25fe72880253d74c480dc-riversleigh-world-heritage-site-boodjamulla-lawn-hill-national-park" rel="noreferrer noopener" target="_blank">ブージャムラ(ローンヒル)国立公園</a>にあるリヴァーズレー化石地域では1500万～2500万年前に生息していた100種類以上の動物の化石が発掘されました。当地域は旅行者の立ち入りが禁止されていますが、世界最大の鉱山町としても知られる“<a href="https://discovermountisa.com.au/" rel="noreferrer noopener" target="_blank">マウント・アイザ</a>”にある<a href="https://discovermountisa.com.au/attractions/riversleigh-fossil-discovery-centre/" rel="noreferrer noopener" target="_blank">リヴァーズレー・フォッシルセンター</a>では発掘された化石が展示されています。一方、<a href="https://www.naracoortecaves.sa.gov.au/Home" rel="noreferrer noopener" target="_blank">ナラコーテケーブ国立公園</a>では有袋類の祖先と言われる“フクロライオン“の骨格や巨大なカンガルーの化石など100種以上が発掘されました。ビジター・センターも兼ねる<a href="https://www.naracoortecaves.sa.gov.au/discover/above-the-ground/wonambi-fossil-centre" rel="noreferrer noopener" target="_blank">ウォナンビ化石センター</a>では、古代生物に関する展示を通して進化の過程を学ぶことができます。また、公園内には26の洞窟が点在し、洞窟や鍾乳洞を巡るツアーが催行されています。</p>
@@ -114,7 +114,7 @@
 <div class="Class_AB">
 <strong>所在地：</strong>Bennelong Point, Sydney NSW 2000<br /><strong>アクセス：</strong>シティレール“サーキュラー・キー駅”から徒歩で約5分<br /><strong>登録年：</strong>2007年<br /><strong>公式サイト：</strong><a href="https://www.sydneyoperahouse.com/" rel="noreferrer noopener" target="_blank">Sydney Opera House</a><br /><strong>ユネスコ公式サイト：</strong><a href="https://whc.unesco.org/en/list/166" rel="noreferrer noopener" target="_blank">Sydney Opera House</a></div>
 <picture>
-<source alt="シドニー・オペラハウス / Sydney Opera House" class="img_big m20-t m20-b lazyloaded" height="425" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/8c48c2b1ff53eb9064038e1d582433af.webp" type="image/webp" width="640"/><img alt="シドニー・オペラハウス / Sydney Opera House" class="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/8c48c2b1ff53eb9064038e1d582433af.jpg" width="640"/>
+
 </picture>
 <h3 class="wp-block-heading" id="world2-2">王立展示館とカールトン庭園 / Royal Exhibition Building and Carlton Gardens</h3>
 <p><a href="https://whatson.melbourne.vic.gov.au/things-to-do/carlton-gardens" rel="noreferrer noopener" target="_blank">カールトン庭園</a>は約26ヘクタールもの面積を有するメルボルンを代表する庭園です。オーストラリアは造園が盛んな国として知られ、中でもメルボルンは「ガーデンシティ」と称されます。庭園内には美しい並木道や小さな池があり、フクロギツネなどの野生動物も生息。季節の花々が咲き誇るカールトン庭園は、市民や観光客の憩いの場となっています。<br />敷地内には庭園とともに世界文化遺産に登録されている<a href="https://museumsvictoria.com.au/reb/" rel="noreferrer noopener" target="_blank">王立展示館</a>や<a href="https://museumsvictoria.com.au/melbournemuseum/" rel="noreferrer noopener" target="_blank">メルボルン博物館</a>、映画館、テニスコートなどがあります。王立展示館はオーストラリアで初めて建てられた大陸ヨーロッパ風の建造物で、1880年に開催されたメルボルン万博のために建築されました。ゴシックやロマネスクなど数種の様式が混ざり合った独特なデザインで、白色をメインとしたクラシカルな建物はヨーロッパの宮殿を観光しているような気分を味わえます。王立展示館の内部を見学するにはガイドツアーの予約が必要です。</p>
@@ -128,7 +128,7 @@
 <div class="Class_AB">
 <strong>登録年：</strong>2010年<br /><strong>オーストラリア政府農業水環境局サイト：</strong><a href="https://www.environment.gov.au/heritage/places/world/convict-sites" rel="noreferrer noopener" target="_blank">Australian Convict Sites</a><br /><strong>ユネスコ公式サイト：</strong><a href="https://whc.unesco.org/en/list/1306" rel="noreferrer noopener" target="_blank">Australian Convict Sites</a></div>
 <picture>
-<source alt="オーストラリア囚人遺跡群 / Australian Convict Sites" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/4723fad02755c2ccf72b874fc722b2a8.webp" type="image/webp" width="640"/><img alt="オーストラリア囚人遺跡群 / Australian Convict Sites" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/4723fad02755c2ccf72b874fc722b2a8.jpg" width="640"/>
+
 </picture>
 <h3 class="wp-block-heading" id="world2-4">バジ・ビムの文化的景観 / Budj Bim Cultural Landscape</h3>
 <p>バジ・ビムはオーストラリアの先住民族”グンディッジマラ族(Gunditjmara)”により6,600年前に開発された世界最古と言われる水産養殖地です。ビクトリア南西部の「世界で最も美しい海岸線」として知られるグレート・オーシャン・ロード近郊に位置します。養殖地の面積は約100平方キロメートルに及び、食料としてウナギを捕獲するために使用されていました。グンディッジマラ族は一般的なアボリジニの遊牧生活とは異なる生活をしていたことが遺跡から明らかになっています。マウント・エクルズ(現在は死火山)の玄武石を用いた石造りの円形住居に定住し、養鰻のために川の流れを変える工事も行われたと言われています。<br />バジ・ビムはオーストラリアで唯一、先住民の文化的価値のみによって認定された世界遺産です。グンディッジマラ族による<a href="https://www.budjbimtours.net/" rel="noreferrer noopener" target="_blank">ガイド付きツアー</a>も催行されています。</p>
@@ -140,7 +140,7 @@
 <div class="Class_AB">
 <strong>所在地：</strong>Lasseter Hwy, Uluru NT 0872<br /><strong>アクセス：</strong>エアーズロック(コネラン)空港から車で約20分<br /><strong>登録年(拡張年)：</strong>1987年 (1994年)<br /><strong>公式サイト：</strong><a href="https://parksaustralia.gov.au/uluru/" rel="noreferrer noopener" target="_blank">Uluru-Kata Tjuta National Park</a><br /><strong>ユネスコ公式サイト：</strong><a href="https://whc.unesco.org/en/list/447" rel="noreferrer noopener" target="_blank">Uluru-Kata Tjuta National Park</a></div>
 <picture>
-<source alt="ウルル＝カタ・ジュタ国立公園(エアーズロック) / Uluru-Kata Tjuta National Park" class="img_big m20-t m20-b lazyloaded" height="360" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/5411b8ea2d172213ba4578ec3bd26fae.webp" type="image/webp" width="640"/><img alt="ウルル＝カタ・ジュタ国立公園(エアーズロック) / Uluru-Kata Tjuta National Park" class="img_big m20-t m20-b" decoding="async" height="360" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/5411b8ea2d172213ba4578ec3bd26fae.jpg" width="640"/>
+
 </picture>
 <h3 class="wp-block-heading" id="world3-2">カカドゥ国立公園 / Kakadu National Park</h3>
 <p><a href="https://www.australia.com/ja-jp/places/darwin-and-surrounds/guide-to-kakadu-national-park.html" rel="noreferrer noopener" target="_blank">カカドゥ国立公園</a>はノーザンテリトリー北部に位置するオーストラリアで最大規模を誇る国立公園です。マングローブが生い茂る湿原が広がり、1,600種の植物、200種を超える鳥など数多くの動植物が生息しています。サウス・アリゲーター川(South Alligator River)の支流にある<a href="https://parksaustralia.gov.au/kakadu/discover/regions/yellow-water/" rel="noreferrer noopener" target="_blank">イエロー・ウォーター</a>は野生動物と出会える絶好のスポットです。イエロー・ウォーターをボートで巡る“<a href="https://kakadutourism.com/trip-planning/tours-activities/yellow-water-cruises/" rel="noreferrer noopener" target="_blank">イエロー・ウォーター・クルーズ</a>”ではイリエワニ、ウミワシ、バッファローなどを観察することができます。<br />また、カカドゥ国立公園はアボリジニが2万年前に描いた約3,000のロックアート(壁画)が残されている貴重な場所です。<a href="https://northernterritory.com/kakadu-and-surrounds" rel="noreferrer noopener" target="_blank">カカドゥ</a>観光の拠点となるジャビルから北へ約40ｋｍの場所にある<a href="https://northernterritory.com/kakadu-and-surrounds/destinations/ubirr" rel="noreferrer noopener" target="_blank">ウビル</a>では、約1.5kmの<a href="https://parksaustralia.gov.au/kakadu/do/walks/nourlangie-rock-walk/" rel="noreferrer noopener" target="_blank">トレッキングコース</a>を楽しみながらロックアートを鑑賞できます。ロックアートには動物の内臓や骨格を描くＸ線画法が用いられ、当時の生活や神話が描かれています。トレッキングコース沿いにあるナダブ展望台からは湿原を一望することができ、特に夕暮れ時は絶景です。</p>
@@ -155,7 +155,7 @@
 <div class="Class_AB">
 <strong>所在地：</strong>Cradle Mountain-Lake St Clair National Park<br /><strong>アクセス：</strong>メルボルンから飛行機で約1時間<br /><strong>登録年(拡張年)：</strong>1982年 (1989年)<br /><strong>オーストラリア政府農業水環境局サイト：</strong><a href="https://www.environment.gov.au/heritage/places/world/tasmanian-wilderness" rel="noreferrer noopener" target="_blank">World Heritage Places – Tasmanian Wilderness</a><br /><strong>ユネスコ公式サイト：</strong><a href="https://whc.unesco.org/en/list/181" rel="noreferrer noopener" target="_blank">Tasmanian Wilderness</a></div>
 <picture>
-<source alt="タスマニア原生地域 / Tasmanian Wilderness" class="img_big m20-t m20-b lazyloaded" height="425" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/0aef37ee8424ad7e094d0637d6eb0326.webp" type="image/webp" width="640"/><img alt="タスマニア原生地域 / Tasmanian Wilderness" class="img_big m20-t m20-b" decoding="async" height="425" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/09/0aef37ee8424ad7e094d0637d6eb0326.jpg" width="640"/>
+
 </picture>
 <h2 class="wp-block-heading" id="world4">短期のオーストラリア入国・渡航にはETAS(イータス)の事前申請が必要です</h2>
 <p>日本国籍の方が90日以内の観光や商用を目的としてオーストラリアへ渡航する際は、電子渡航認証“ETAS(イータス)”の申請が必須となります。事前にETAS(イータス)を取得していない方は航空機への搭乗が認められないため、オーストラリアへ観光する際は必ず申請をお願いします。<br />ETAS(イータス)に関する詳細は「<a href="/australia-etas-about/">オーストラリア観光ビザのETAS(イータス)とは</a>」をご確認ください。</p>
@@ -186,6 +186,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

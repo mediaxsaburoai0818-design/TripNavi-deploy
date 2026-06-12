@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T7422,<div class="page-layout">
+2:T6eef,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ 【2022年最新】 オーストラリアのワーキングホリデー</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>【2022年最新】 オーストラリアのワーキングホリデー</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -53,7 +53,7 @@
 </nav>
 </div>
 <picture>
-<source alt="オーストラリア国旗とスーツケース" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/406f24b748e7c3951dedf2d562f7a561.webp" type="image/webp" width="640"/><img alt="オーストラリア国旗とスーツケース" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/406f24b748e7c3951dedf2d562f7a561.jpg" width="640"/>
+
 </picture>
 <p><a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462" rel="noreferrer noopener" target="_blank">ワーキングホリデー</a>とは18歳から30歳までの若者を対象とした文化交流プログラムで、語学学校への通学や付帯的な就労とともに長期滞在が認められる制度です。1980年に発足し、現在<a href="https://www.mofa.go.jp/mofaj/toko/visa/working_h.html" rel="noreferrer noopener" target="_blank">26の国と地域</a>を対象にワーキングホリデーに関する協定を締結しています。<br />このページではオーストラリアのワーキングホリデーを申請する際の条件や、滞在年度によって異なる手続き等について解説します。</p>
 <h2 class="wp-block-heading" id="working1">オーストラリア入国に関する重要事項</h2>
@@ -81,7 +81,7 @@
 <h3 class="wp-block-heading" id="working2-4">ビザ取得までの流れ</h3>
 <p><strong>手順1.　ファーストビザの必要書類を用意する<br />手順2.　<a href="https://immi.homeaffairs.gov.au/help-support/applying-online-or-on-paper/online" rel="noreferrer noopener" target="_blank">Immi Account</a>にてアカウントを作成<br />手順3.　<a href="https://immi.homeaffairs.gov.au/help-support/applying-online-or-on-paper/online" rel="noreferrer noopener" target="_blank">Immi Account</a>よりファーストビザを申請：提出書類をアップロードし申請料を支払う<br />手順4.　ファーストビザの交付</strong><br />2年目の滞在を希望する方は、ファーストビザの有効期間内に<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417/specified-work" rel="noreferrer noopener" target="_blank">指定職種</a>において3か月間または88日間以上の就労が必要となります。<br /><strong>手順5.　セカンドビザの必要書類を用意する<br />手順6.　<a href="https://immi.homeaffairs.gov.au/help-support/applying-online-or-on-paper/online" rel="noreferrer noopener" target="_blank">Immi Account</a>よりセカンドビザを申請：提出書類をアップロードし申請料を支払う</strong><br />オーストラリア国内にて申請する場合は、ファーストビザの有効期間内または経過後28日以内に申請する必要があります。ファーストビザの有効期間内にセカンドビザの交付目途が立たない方は、ブリッジングビザ(ビザ申請結果が判明するまでオーストラリアに滞在するためのビザ)を申請してください。<br /><strong>手順7.　セカンドビザの交付</strong><br />3年目の滞在を希望する方は、セカンドビザの有効期間内に<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417/specified-work" rel="noreferrer noopener" target="_blank">指定職種</a>において6か月間または179日間以上の就労が必要となります。<br /><strong>手順8.　サードビザの必要書類を用意する<br />手順9.　<a href="https://immi.homeaffairs.gov.au/help-support/applying-online-or-on-paper/online" rel="noreferrer noopener" target="_blank">Immi Account</a>よりサードビザを申請：提出書類をアップロードし申請料を支払う</strong><br />オーストラリア国内から申請する場合は、セカンドビザの有効期間内または経過後28日以内に申請する必要があります。セカンドビザの有効期間内にサードビザ交付の交付目途が立たない方は、ブリッジングビザを申請してください。<br /><strong>手順10.　サードビザの交付</strong><br />書類はすべて英語表記または翻訳会社による英訳が必須となります。オーストラリア以外の国で翻訳する場合は公証人による認証は不要となりますが、翻訳者の氏名などを明記する必要があります。</p>
 <picture>
-<source alt="オーストラリアビジネス" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/6TRLsKHTKkEke1I1630379339.webp" type="image/webp" width="640"/><img alt="オーストラリアビジネス" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/6TRLsKHTKkEke1I1630379339.jpg" width="640"/>
+
 </picture>
 <h2 class="wp-block-heading" id="working3">ワーキングホリデーに求められる英語力と就労可能な仕事</h2>
 <p>オーストラリアで就労する際は英語が必須となります。そのため、語学の習得を目的として渡航する方や英語が初級レベルの方は、高いスキルを必要とする職種への就労が困難となります。また、多くの移民が暮らすオーストラリアでは、英語力だけでなく様々な文化を理解する柔軟性やコミュニケーション力も重要な査定基準となります。この章では英語レベルに応じたオーストラリアにおける職業の一例を紹介します。自身の適正や現在の英語力を考慮したうえで職種や就職先をご検討ください。</p>
@@ -110,7 +110,7 @@
 <p><ul><li>営業職全般</li><li>一般企業や行政施設などの管理職</li><li>飲食店や店舗等のマネージャー</li><li>専門分野のコンサルタント業務</li><li>出版会社やIT企業での翻訳および通訳</li></ul></p>
 </div>
 <picture>
-<source alt="オーストラリアシドニータウンホール" class="img_big m20-t m20-b lazyloaded" height="428" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/3952659c1c707747e304135ea61e5fa7.webp" type="image/webp" width="640"/><img alt="オーストラリアシドニータウンホール" class="img_big m20-t m20-b" decoding="async" height="428" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/08/3952659c1c707747e304135ea61e5fa7.jpg" width="640"/>
+
 </picture>
 <h2 class="wp-block-heading" id="working4">オーストラリアのワーキングホリデーにお勧めの都市</h2>
 <h3 class="wp-block-heading" id="working4-1">シドニー / Sidney(ニューサウスウェールズ州)</h3>
@@ -148,6 +148,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T858c,<div class="page-layout">
+2:T83cd,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ オーストラリア留学のメリット・デメリット、学校の選び方など徹底解説</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>オーストラリア留学のメリット・デメリット、学校の選び方など徹底解説</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -59,7 +59,7 @@
 </nav>
 </div>
 <picture>
-<source alt="オーストラリア留学のメリット・デメリットとは" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/35c273cab2cc92531d09c8c1e57f9471.webp" type="image/webp" width="640"/><img alt="オーストラリア留学のメリット・デメリットとは" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/35c273cab2cc92531d09c8c1e57f9471.jpg" width="640"/>
+
 </picture>
 <p>雄大な自然と近代的な都市が融合するオーストラリアは留学生の受け入れが盛んな国で、世界中から毎年多くの学生が訪れます。オーストラリアは国内全域において治安が良いことで知られ、世界的にもめずらしい留学生の権利を守る法律が制定されています。<br />国内における大半の大学が公立で、大学のほかTAFE(Technical and Further Education)と呼ばれる州立の専門学校への留学が人気となっています。各州の大学、専門学校、語学学校では様々な留学プログラムが用意され、英語をはじめ各分野で質の高い教育を受けることができます。<br />このページでは留学先として人気の高いオーストラリアの留学事情について解説します。</p>
 <h2 class="wp-block-heading" id="study1">オーストラリア留学のメリット</h2>
@@ -170,6 +170,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T5369,<div class="page-layout">
+2:T4cda,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ オーストラリア固有の動物と絶滅危惧種について</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>オーストラリア固有の動物と絶滅危惧種について</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -48,8 +48,8 @@
 </nav>
 </div>
 <picture>
-<source alt="オーストラリア固有の動物と絶滅危惧種について" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/3bb11443bad87d72b101523116d5766a.webp" type="image/webp" width="640"/>
-<img alt="オーストラリア固有の動物と絶滅危惧種について" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/06/3bb11443bad87d72b101523116d5766a.jpg" width="640"/>
+
+
 </picture>
 <p>広大な自然を有するオーストラリアには多種多様な動物が暮らしています。他の大陸から離れた場所に位置することからオーストラリア大陸でしか見ることのできない動物も数多く生息しており、人気のあるコアラやカンガルーはこの国ならではの固有種のひとつです。オーストラリアには約378種の哺乳類と828種の鳥類、爬虫類は300種のトカゲ、140種のヘビ、2種のワニが生息しています。海や川には魚類が4,000種、海洋哺乳類は50種ほど確認され、幅広い種類の動物が共存しています。これらの中には絶滅の危機に瀕している希少な動物も含まれ、生態系は政府の動物保護法などによって守られています。このページではオーストラリアに生息する有名な動物から珍しい動物まで紹介します。</p>
 <h2 class="wp-block-heading" id="animal1">オーストラリアで人気の動物(有袋類)</h2>
@@ -62,8 +62,8 @@
 <h3 class="wp-block-heading" id="animal5">ウォンバット</h3>
 <p>ウォンバットはオーストラリアの固有種でカンガルーやコアラと同様に袋の中で子供を育てる有袋類の動物です。タスマニア州などオーストラリア南部を中心に生息しています。夜行性のため日中は巣穴で身を潜めていますが、気温が低く寒い日は日中に日向ぼっこをする姿を見ることができます。体長は約1ｍ、体重は20kgから30kgほどで、のそのそと歩く可愛らしい姿が人気です。人懐っこい性格をしており、タスマニア州のマリア島では野生のウォンバットを間近で見ることができます。また、国内にはウォンバットを抱っこして写真撮影ができるクイーンズランド州タウンズビルにある<a href="https://www.billabongsanctuary.com.au/" rel="noreferrer noopener" target="_blank">ビラボン自然保護区</a>をはじめ、ふれあい体験を楽しめる施設が多くあります。</p>
 <picture>
-<source alt="タスマニアンデビル" class="img_big m20-t m20-b" height="426.5" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/05/610ad813db7667ac78b2caf8b47c28da.webp" type="image/webp" width="640"/>
-<img alt="タスマニアンデビル" class="img_big m20-t m20-b" decoding="async" height="426.5" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/05/610ad813db7667ac78b2caf8b47c28da.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="animal6">オーストラリアに生息する哺乳類</h2>
 <h3 class="wp-block-heading" id="animal7">タスマニアンデビル</h3>
@@ -71,8 +71,8 @@
 <h3 class="wp-block-heading" id="animal8">ディンゴ</h3>
 <p>ディンゴはタスマニア州を除くオーストラリア全土に生息する野犬です。およそ4000年前に先住民がオーストラリア大陸に移住した際、一緒に連れてこられたことが起源とされています。ディンゴはペットとして見かけるような一般的な犬(イエイヌ)と同じような姿をしていますが、タイリクオオカミの亜種に分類される野性的な肉食動物です。仲間同士はオオカミのような遠吠えでコミュニケーションをとり、ヒツジやワラビー、ウォンバットなどを主食にしています。現在はイエイヌとの交配により純潔のディンゴは減少傾向にあるため、国際自然保護連合(IUCN)により絶滅危惧種へ認定されています。クイーンズランド州のフレーザー島には野生のディンゴが数多く生息していますが、旅行客が噛まれたり子どもが襲われる痛ましい事件が発生しているため見かけた際には注意が必要です。ディンゴとの触れ合いを希望する場合はニューサウスウェールズ州にある“<a href="https://symbiozoo.com.au/" rel="noreferrer noopener" target="_blank">シンビオワイルドライフパーク</a>”などの動物園を訪れることをおすすめします。</p>
 <picture>
-<source alt="ハリモグラ" class="img_big m20-t m20-b" height="426.5" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/05/8cb422ec3585ee083c22072047679a54.webp" type="image/webp" width="640"/>
-<img alt="ハリモグラ" class="img_big m20-t m20-b" decoding="async" height="426.5" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/05/8cb422ec3585ee083c22072047679a54.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="animal9">オーストラリアの単孔類</h2>
 <h3 class="wp-block-heading" id="animal10">ハリモグラ</h3>
@@ -80,8 +80,8 @@
 <h3 class="wp-block-heading" id="animal11">カモノハシ</h3>
 <p>カモノハシはカワウソのような胴体にカモのようなくちばし、水かきの付いた足がある不思議な動物です。古代の化石などから白亜紀時代には既に存在していたことが分かっており、「生きた化石」と呼ばれます。カモノハシは哺乳類に分類されますが、単孔類に属し卵を産んで繁殖する珍しい特徴を持ちます。生息地はクイーンズランド州、ニューサウスウェールズ州、ビクトリア州、タスマニア州などオーストラリア東部から南部となり、川や湖を中心に暮らしています。野生の姿はビクトリア州の<a href="https://www.zoo.org.au/healesville" rel="noreferrer noopener" target="_blank">ヒールズビル自然保護区</a>、キャンベラ近郊にある<a href="https://www.tidbinbilla.act.gov.au/" rel="noreferrer noopener" target="_blank">ティドビンビラ自然保護区</a>などオーストラリアの自然保護区で見ることができます。しかし、なかなか遭遇できないため現地のツアーガイドに参加したり、<a href="https://www.zoo.org.au/melbourne/" rel="noreferrer noopener" target="_blank">メルボルン動物園</a>など国内の動物園を訪れるのもおすすめです。</p>
 <picture>
-<source alt="ウミガメ" class="img_big m20-t m20-b" height="360" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/05/1f92a97ed0b7b1098fa23c108c7b5b15.webp" type="image/webp" width="640"/>
-<img alt="ウミガメ" class="img_big m20-t m20-b" decoding="async" height="360" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/05/1f92a97ed0b7b1098fa23c108c7b5b15.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="animal12">オーストラリアの爬虫類</h2>
 <h3 class="wp-block-heading" id="animal13">ウミガメ</h3>
@@ -117,6 +117,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

@@ -1,0 +1,199 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T818,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"アメリカで乗り継ぎするだけでもESTAは必要ですか？","acceptedAnswer":{"@type":"Answer","text":"はい。CBPによれば、VWP対象国の国民がアメリカを経由（トランジット）する場合も、ESTAまたはビザのいずれかが必要です。米国の空港で乗り継ぐだけでもESTAの取得が求められます。"}},{"@type":"Question","name":"乗り継ぎ用のESTAは通常のESTAと違いますか？","acceptedAnswer":{"@type":"Answer","text":"乗り継ぎ専用のESTAという別の種類はありません。通常のESTAを取得し、申請時に滞在先住所欄へ「In Transit」と最終目的地を記入します。"}},{"@type":"Question","name":"乗り継ぎのときESTA申請でどう記入すればよいですか？","acceptedAnswer":{"@type":"Answer","text":"CBPの案内では、米国を通過するだけの場合、滞在先住所欄に「In Transit」と最終目的地を入力します。"}},{"@type":"Question","name":"ESTAがあれば乗り継ぎ時の入国審査は不要ですか？","acceptedAnswer":{"@type":"Answer","text":"いいえ。アメリカでは乗り継ぎであっても一度入国審査を受けるのが一般的です。ESTAは搭乗を可能にする認証で、最終的な入国可否は到着時にCBP審査官が判断します。"}},{"@type":"Question","name":"ESTAの代わりにビザでも乗り継ぎできますか？","acceptedAnswer":{"@type":"Answer","text":"はい。CBPによれば、米国を通過するにはESTAまたはビザのいずれかが必要です。有効な該当ビザを持っている場合はそれで乗り継ぎが可能です。"}},{"@type":"Question","name":"乗り継ぎでもESTAの料金は同じですか？","acceptedAnswer":{"@type":"Answer","text":"乗り継ぎでも通常のESTAを取得するため、料金は通常の申請と同じです。最新の料金は公式サイト（esta.cbp.dhs.gov）でご確認ください。"}}]}3:T321b,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/usa-esta-application/">アメリカ</a> ＞
+        乗り継ぎでのESTA
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>アメリカ乗り継ぎにESTAは必要？トランジットの要否を解説</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">乗り継ぎでもESTAは必要</a></li>
+                <li><a href="#section2">なぜトランジットでもESTAが要るのか</a></li>
+                <li><a href="#section3">乗り継ぎ時のESTA申請方法</a>
+                  <ul>
+                    <li><a href="#section3-1">「In Transit」の記入方法</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section4">乗り継ぎでも入国審査がある</a></li>
+                <li><a href="#section5">ESTAとビザ、どちらでも乗り継ぎ可能</a></li>
+                <li><a href="#section6">乗り継ぎ時の注意点</a></li>
+                <li><a href="#section7">よくある質問</a></li>
+                <li><a href="#section8">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>「最終目的地は別の国だけど、アメリカで飛行機を乗り継ぐ」——このような場合、ESTAは必要なのでしょうか。答えは<strong>「必要」</strong>です。この記事では、アメリカを経由（トランジット）する際のESTAの要否と、申請時の記入方法を、米国CBP公式情報をもとに解説します。</p>
+
+          <h2 id="section1">乗り継ぎでもESTAは必要</h2>
+          <p>結論から言うと、VWP対象国（日本を含む）の国民がアメリカを<strong>経由・乗り継ぎする場合でも、ESTAまたはビザのいずれかが必要</strong>です。CBPは、米国を通過する（transit する）には、ESTAかビザのいずれかを取得しなければならないと明確に説明しています。</p>
+          <div class="warn-box">
+            <h4>「降りないから不要」は誤り</h4>
+            <p>アメリカの空港で乗り継ぐだけで、街に出ない場合であっても、ESTA（またはビザ）は必要です。「空港から出ないからいらない」と考えるのは誤りなので注意してください。</p>
+          </div>
+
+          <h2 id="section2">なぜトランジットでもESTAが要るのか</h2>
+          <p>多くの国では「空港の乗り継ぎエリアにとどまる限り入国扱いにならない」という考え方がありますが、<strong>アメリカは乗り継ぎであっても渡航認証を求める</strong>のが特徴です。これは、アメリカへ向かう航空機・船舶に搭乗するすべてのVWP対象者に、事前の渡航認証を義務付けているためです。乗り継ぎのために米国行きの便に乗る時点で、ESTAが必要になります。</p>
+
+          <h2 id="section3">乗り継ぎ時のESTA申請方法</h2>
+          <p>乗り継ぎ専用のESTAという別種類はありません。<strong>通常のESTAをそのまま申請</strong>し、申請内容の中で「乗り継ぎである」ことを示すだけです。</p>
+
+          <h3 id="section3-1">「In Transit」の記入方法</h3>
+          <div class="info-box">
+            <h4>滞在先住所欄の記入方法（CBP案内）</h4>
+            <p>CBPの案内によれば、米国を通過して別の目的地へ向かうだけの場合、ESTA申請の<strong>「Address While In The United States（米国滞在中の住所）」欄に「In Transit」と入力し、続けて最終目的地を記入</strong>します。</p>
+          </div>
+          <p>アメリカ国内に宿泊する予定がないため、ホテル住所の代わりにこの「In Transit」表記を使う、という流れです。</p>
+
+          <h2 id="section4">乗り継ぎでも入国審査がある</h2>
+          <p>アメリカでの乗り継ぎで注意したいのが、<strong>乗り継ぎであっても入国審査を受けるのが一般的</strong>だという点です。多くの国のように「乗り継ぎエリアだけで完結する」のではなく、一度入国手続きを行い、預け荷物を受け取り、再度預け直すケースが多くあります。</p>
+          <div class="warn-box">
+            <h4>ESTAは入国を保証しない</h4>
+            <p>ESTAはあくまで搭乗を可能にする渡航認証です。乗り継ぎであっても、最終的な入国の可否は到着時にCBPの審査官が判断します。乗り継ぎ時間には余裕を持たせましょう。</p>
+          </div>
+
+          <h2 id="section5">ESTAとビザ、どちらでも乗り継ぎ可能</h2>
+          <p>CBPによれば、米国を通過するにはESTAまたはビザのいずれかが必要です。すでに有効な該当ビザ（例：通過に対応するビザなど）を持っている場合は、そのビザで乗り継ぐこともできます。どちらを使うかは、自分の渡航目的や保有状況に応じて選びましょう。ESTAとビザの違いは関連記事で詳しく解説しています。</p>
+
+          <h2 id="section6">乗り継ぎ時の注意点</h2>
+          <div class="info-box">
+            <h4>トランジット時のチェックポイント</h4>
+            <ul>
+              <li>乗り継ぎでもESTA（またはビザ）を必ず事前取得する</li>
+              <li>申請時は滞在先欄に「In Transit」＋最終目的地を記入</li>
+              <li>入国審査・荷物の受け取り直しを見越して乗り継ぎ時間に余裕を</li>
+              <li>ESTAは出発の3日前までに取得する（CBP推奨）</li>
+            </ul>
+          </div>
+
+          <h2 id="section7">よくある質問</h2>
+          <div class="faq-item">
+            <h3>Q1: アメリカで乗り継ぎするだけでもESTAは必要ですか？</h3>
+            <p><strong>A:</strong> はい。CBPによれば、VWP対象国の国民がアメリカを経由する場合もESTAまたはビザが必要です。空港で乗り継ぐだけでも取得が求められます。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q2: 乗り継ぎ用のESTAは通常のESTAと違いますか？</h3>
+            <p><strong>A:</strong> 乗り継ぎ専用のESTAはありません。通常のESTAを取得し、申請時に滞在先住所欄へ「In Transit」と最終目的地を記入します。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q3: 乗り継ぎのときESTA申請でどう記入すればよいですか？</h3>
+            <p><strong>A:</strong> CBPの案内では、米国を通過するだけの場合、滞在先住所欄に「In Transit」と最終目的地を入力します。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q4: ESTAがあれば乗り継ぎ時の入国審査は不要ですか？</h3>
+            <p><strong>A:</strong> いいえ。アメリカでは乗り継ぎでも一度入国審査を受けるのが一般的です。ESTAは搭乗を可能にする認証で、入国可否は到着時に審査官が判断します。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q5: ESTAの代わりにビザでも乗り継ぎできますか？</h3>
+            <p><strong>A:</strong> はい。CBPによれば米国通過にはESTAまたはビザのいずれかが必要で、有効な該当ビザがあればそれで乗り継ぎ可能です。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q6: 乗り継ぎでもESTAの料金は同じですか？</h3>
+            <p><strong>A:</strong> 乗り継ぎでも通常のESTAを取得するため、料金は通常申請と同じです。最新料金は公式サイトでご確認ください。</p>
+          </div>
+
+          <h2 id="section8">まとめ</h2>
+          <p>アメリカでの乗り継ぎ（トランジット）であっても、VWP対象国の国民にはESTAまたはビザが必要です。空港から出ない場合でも例外ではありません。ESTA申請時には、滞在先住所欄に「In Transit」と最終目的地を記入します。また、乗り継ぎでも入国審査を受けるのが一般的なため、乗り継ぎ時間に余裕を持たせることが大切です。</p>
+          <div class="info-box">
+            <h4>乗り継ぎとESTAのポイント</h4>
+            <ul>
+              <li>乗り継ぎでもESTA（またはビザ）が必要（CBP）</li>
+              <li>空港から出なくても取得が必要</li>
+              <li>申請時は「In Transit」＋最終目的地を記入</li>
+              <li>乗り継ぎでも入国審査を受けるのが一般的</li>
+              <li>乗り継ぎ時間には余裕を</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/usa-esta-vs-visa/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAとビザの違いを徹底解説！どちらが必要？</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-about/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）とは？制度概要を解説</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-application/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
+              </div>
+            </a>
+            <a href="/usa-vwp/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ビザ免除プログラム(VWP)とは？対象国・条件を解説</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-check/" style="color: #D4885A; text-decoration: underline;">ESTAの申請状況・承認確認の方法を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-validity/" style="color: #D4885A; text-decoration: underline;">ESTAの有効期限は何年？2年ルールを解説</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/usa-esta-application/">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/usa-esta-vs-visa/">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTAとビザの違いを解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/usa-esta-about/">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTAとは？制度概要を解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"アメリカ\",\"item\":\"https://trips-now.com/usa-esta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"乗り継ぎでのESTA\",\"item\":\"https://trips-now.com/usa-esta-transit/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

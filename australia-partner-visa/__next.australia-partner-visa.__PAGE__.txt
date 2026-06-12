@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4a61,<div class="page-layout">
+2:T4787,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ 【2022年最新】オーストラリアパートナービザの申請方法・取得方法</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>【2022年最新】オーストラリアパートナービザの申請方法・取得方法</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -40,7 +40,7 @@
 </nav>
 </div>
 <picture>
-<source alt="canada-partner-visa" class="img_big m20-t m20-b lazyloaded" height="360" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/12/2abdf8c9d166fab9e312d696cea64473.webp" type="image/webp" width="640"/><img alt="canada-partner-visa" class="img_big m20-t m20-b" decoding="async" height="360" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/12/2abdf8c9d166fab9e312d696cea64473.jpg" width="640"/>
+
 </picture>
 <p>移住者が多く生活するオーストラリアでは、様々なビザ制度を導入しています。「パートナービザ」はオーストラリア市民、オーストラリア永住者、ニュージーランド市民の“配偶者やパートナー”が取得可能なビザで、一定の審査や条件を満たすことでオーストラリアでの居住が認められます。このページではパートナービザの概要と、申請から取得までの流れについて解説します。</p>
 <h2 class="wp-block-heading" id="partner1">【2022年1月最新】オーストラリアパートナービザの最新動向</h2>
@@ -63,7 +63,7 @@
 <p>すべての申請書類は英語での提出が求められ、<a href="https://www.naati.com.au/" rel="noreferrer noopener" target="_blank">オーストラリア公認の翻訳者(NAATI)</a>または翻訳専門会社に依頼する必要があります。オーストラリア国外に居住する翻訳者は名前、住所、電話番号、翻訳言語の資格と経験の記載が必須となります。<br />二人の関係を証明する書類に加え、ビザ申請前に少なくとも1年間以上の交際を証明する書類やデータなどの提出も求められます。交際期間が1年未満の場合は、ビザを希望する理由などを記載した書類が必要となりますのでご注意ください。</p>
 <h2 class="wp-block-heading" id="partner5">パートナービザ申請から取得までの流れ</h2>
 <picture>
-<source alt="flow" class="img_big m20-t m20-b lazyloaded" height="298" srcset="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/12/S2iK57GrcQ8Iuwm1640674976.webp" type="image/webp" width="900"/><img alt="flow" class="img_big m20-t m20-b" decoding="async" height="298" src="http://xs640823.xsrv.jp/etas/wp-content/uploads/2021/12/S2iK57GrcQ8Iuwm1640674976.png" width="900"/>
+
 </picture>
 <p>パートナービザは<a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/partner-offshore/provisional-309#Overview" rel="noreferrer noopener" target="_blank">Subclass 309 Partner (Provisional) visaの専用ページ</a>からオンラインで申請手続きを行う必要があります。</p>
 <div class="Class_J">
@@ -118,6 +118,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4220,<div class="page-layout">
+2:T4ace,<div class="page-layout">
     <main class="page-main">
       <div class="breadcrumb">
         <a href="/">ホーム</a> ＞ 
@@ -14,7 +14,7 @@
         <span class="card-tag">イギリス渡航ノウハウ</span>
         <h1>イギリスETAとは？申請方法を解説【イギリス入国】</h1>
         <div class="article-meta">
-          <span class="meta-date">更新日：2026年03月31日</span>
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月31日</span>
         </div>
 
         <div class="content">
@@ -54,7 +54,7 @@
             <h4>イギリスETAの特徴</h4>
             <ul>
               <li><strong>導入日:</strong> 2025年1月8日（日本人対象）</li>
-              <li><strong>申請料金:</strong> 16ポンド（将来20ポンドへ引き上げ予定）</li>
+              <li><strong>申請料金:</strong> 20ポンド（従来の16ポンドから引き上げ。最新はGOV.UK公式で確認を）</li>
               <li><strong>有効期限:</strong> 承認日から2年間</li>
               <li><strong>対象:</strong> 6か月以内の短期観光・商用・乗り継ぎ</li>
               <li><strong>申請方法:</strong> 公式ウェブサイトまたはスマホアプリ「UK ETA」</li>
@@ -93,7 +93,7 @@
           </ul>
 
           <h3 id="section1-3">イギリスETAの申請料金</h3>
-          <p>申請料金は<strong>16ポンド</strong>です。将来的に<strong>20ポンド</strong>へ引き上げられる予定です。</p>
+          <p>申請料金は<strong>20ポンド</strong>です（従来の16ポンドから引き上げられました）。料金は段階的に改定されているため、最新の金額は必ずGOV.UK公式サイトでご確認ください。</p>
 
           <h3 id="section1-4">イギリスETAの申請から取得までかかる期間</h3>
           <p>通常、<strong>72時間以内</strong>に審査結果が通知されます。追加審査が必要な場合は、3日以上かかることもあります。</p>
@@ -111,7 +111,7 @@
             <li><strong>公式ウェブサイト:</strong> <a href="https://www.gov.uk/eta/apply" target="_blank">https://www.gov.uk/eta/apply</a></li>
             <li><strong>スマホアプリ「UK ETA」:</strong> iOS / Android対応</li>
           </ul>
-          <p>申請料金は<strong>16ポンド</strong>。支払いはクレジットカード、Apple Pay、Google Payが利用可能です。</p>
+          <p>申請料金は<strong>20ポンド</strong>。支払いはクレジットカード、Apple Pay、Google Payが利用可能です。</p>
 
           
           <h2 id="section3">イギリスETA申請に必要な書類・情報</h2>
@@ -165,7 +165,7 @@
           <p>氏名、パスポート番号などを最終確認します。</p>
 
           <h3>9. 申請料金の支払い</h3>
-          <p><strong>16ポンド</strong>をクレジットカード、Apple Pay、Google Payで支払います。</p>
+          <p><strong>20ポンド</strong>をクレジットカード、Apple Pay、Google Payで支払います。</p>
 
           <h3>10. 申請状況・審査結果の確認</h3>
           <p>通常72時間以内に審査結果がメールで届きます。<strong>「ETA application approved」</strong>と表示されれば承認完了です。</p>
@@ -219,7 +219,7 @@
 
           
           <h2 id="section7">まとめ</h2>
-          <p>イギリスETAは2025年1月8日より日本人に必須の電子渡航認証です。オンライン申請で、料金は<strong>16ポンド</strong>、有効期限は<strong>2年間</strong>です。6か月以内の短期観光、商用、乗り継ぎが対象です。</p>
+          <p>イギリスETAは2025年1月8日より日本人に必須の電子渡航認証です。オンライン申請で、料金は<strong>20ポンド</strong>、有効期限は<strong>2年間</strong>です。6か月以内の短期観光、商用、乗り継ぎが対象です。</p>
 
           <p>ETA未取得の場合、搭乗不可となる可能性があります。出発の<strong>1〜2週間前</strong>までに取得することを推奨します。</p>
 
@@ -227,7 +227,7 @@
             <h4>イギリスETA申請のポイント</h4>
             <ul>
               <li>2025年1月8日より必須（日本人対象）</li>
-              <li>申請料金: 16ポンド</li>
+              <li>申請料金: 20ポンド</li>
               <li>有効期限: 2年間（複数回渡航可能）</li>
               <li>申請方法: 公式アプリ「UK ETA」またはウェブサイト</li>
               <li>申請推奨: 出発1〜2週間前</li>
@@ -279,6 +279,7 @@
             <li style="margin-bottom: 0.5rem;"><a href="/usa-vwp/" style="color: #D4885A; text-decoration: underline;">ビザ免除プログラム(VWP)とは？対象国・条件・ESTAとの違いを解説</a></li>
           </ul>
         </section>
+      <section style="margin-top:2rem;padding:1.5rem;background-color:#FFF8F3;border-radius:12px;border-left:4px solid #D4885A;"><h3 style="margin-top:0;color:#D4885A;font-size:1.1rem;">イギリスETAの関連記事</h3><ul style="list-style:none;padding:0;margin:0;"><li style="margin-bottom:0.5rem;"><a href="/uk-eta-about/" style="color:#D4885A;text-decoration:underline;">UK ETAとは？制度概要を解説</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-vs-visa/" style="color:#D4885A;text-decoration:underline;">UK ETAとビザの違い</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-validity/" style="color:#D4885A;text-decoration:underline;">UK ETAの有効期限は2年間</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-timing/" style="color:#D4885A;text-decoration:underline;">UK ETAはいつから申請？</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-smartphone/" style="color:#D4885A;text-decoration:underline;">スマホアプリでのUK ETA申請方法</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-check/" style="color:#D4885A;text-decoration:underline;">申請状況・審査結果の確認方法</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-pending/" style="color:#D4885A;text-decoration:underline;">審査中・保留のときの対処法</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-rejection/" style="color:#D4885A;text-decoration:underline;">却下・拒否されたら？原因と対応</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-renewal/" style="color:#D4885A;text-decoration:underline;">更新・再申請のやり方と注意点</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-criminal-record/" style="color:#D4885A;text-decoration:underline;">犯罪歴がある場合の注意点</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-transit/" style="color:#D4885A;text-decoration:underline;">乗り継ぎ・トランジットで必要？</a></li></ul></section>
       </article>
     </main>
 
@@ -317,6 +318,6 @@
         </ol>
       </div>
     </aside>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

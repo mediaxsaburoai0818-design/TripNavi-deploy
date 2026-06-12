@@ -1,0 +1,211 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T9cd,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"犯罪歴があるとESTAは絶対に取れませんか？","acceptedAnswer":{"@type":"Answer","text":"犯罪歴があれば必ず取れないとは限りませんが、ESTAの適格性に関する質問の内容に該当する場合は不許可となり、ビザ申請が必要になることがあります。該当の有無はケースにより異なるため、判断に迷う場合は米国大使館・領事館や専門家に相談してください。"}},{"@type":"Question","name":"適格性の質問で正直に「はい」と答えるべきですか？","acceptedAnswer":{"@type":"Answer","text":"はい。ESTAの適格性に関する質問には正直に回答する必要があります。CBPによれば、虚偽の情報で渡航認証を得ようとすると、VWPでの米国渡航が永久にできなくなります。"}},{"@type":"Question","name":"軽微な交通違反も申告が必要ですか？","acceptedAnswer":{"@type":"Answer","text":"ESTAの質問はモラル・ターピチュード（道徳的に問題のある犯罪）や薬物関連などを対象としています。自分のケースが該当するか判断に迷う場合は、自己判断せず公式情報の確認や専門家への相談が安全です。"}},{"@type":"Question","name":"犯罪歴を理由にESTAが拒否されたらどうすればよいですか？","acceptedAnswer":{"@type":"Answer","text":"ESTAが拒否された場合は、米国大使館・領事館で非移民ビザを申請するのが正しい対応です。CBPによれば、ESTA拒否後に渡航するにはビザ取得が唯一の方法です。"}},{"@type":"Question","name":"逮捕されたが有罪にならなかった場合はどうなりますか？","acceptedAnswer":{"@type":"Answer","text":"逮捕歴や有罪判決の有無で取り扱いは変わり得ます。判断が難しいケースが多いため、自己判断せず米国大使館・領事館や移民法の専門家に確認することをおすすめします。"}},{"@type":"Question","name":"正しく回答したか不安な場合はどうすればよいですか？","acceptedAnswer":{"@type":"Answer","text":"適格性の質問への回答は決済後に変更できません。回答に誤りがあった場合は再申請が必要です。回答内容に不安がある場合は、申請前に米国大使館・領事館などへ確認すると安心です。"}}]}3:T369c,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/usa-esta-application/">アメリカ</a> ＞
+        犯罪歴がある場合のESTA
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>犯罪歴があるとESTAは取れない？正しい回答と対応方法を解説</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">ESTAの「適格性に関する質問」とは</a></li>
+                <li><a href="#section2">犯罪歴があると必ず取れない？</a></li>
+                <li><a href="#section3">正直に回答することの重要性</a>
+                  <ul>
+                    <li><a href="#section3-1">虚偽申告の重大なリスク</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section4">判断に迷うときの相談先</a></li>
+                <li><a href="#section5">犯罪歴を理由に拒否されたときの対応</a></li>
+                <li><a href="#section6">回答は決済後に変更できない</a></li>
+                <li><a href="#section7">よくある質問</a></li>
+                <li><a href="#section8">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <div class="warn-box">
+            <h4>はじめに（重要）</h4>
+            <p>本記事は一般的な情報提供を目的としたものです。犯罪歴・逮捕歴とESTA／入国可否の関係は個別事情によって大きく異なります。具体的な判断は、必ず米国大使館・領事館や移民法の専門家にご確認ください。</p>
+          </div>
+
+          <p>「過去に犯罪歴・逮捕歴があるけれど、ESTAは取れるのだろうか」と不安に思う方は少なくありません。この記事では、ESTAの<strong>適格性に関する質問</strong>と、犯罪歴がある場合の考え方・正しい対応を、米国CBP公式情報の範囲で慎重に解説します。</p>
+
+          <h2 id="section1">ESTAの「適格性に関する質問」とは</h2>
+          <p>ESTA申請では、申請者の渡航適格性を確認するための<strong>「Eligibility Questions（適格性に関する質問）」</strong>に回答します。これは健康状態、犯罪歴、過去のビザ拒否歴、特定地域への渡航歴などに関する一連の質問で、「はい／いいえ」で答える形式です。</p>
+          <div class="info-box">
+            <h4>適格性の質問で問われる主な内容</h4>
+            <ul>
+              <li>特定の重大な犯罪（道徳的に問題のある犯罪など）に関わったことがあるか</li>
+              <li>薬物関連の問題に関わったことがあるか</li>
+              <li>過去に米国ビザの拒否や米国入国拒否を受けたことがあるか</li>
+              <li>特定地域への渡航歴があるか　など</li>
+            </ul>
+            <p>※具体的な質問文と最新の内容は、公式サイト（esta.cbp.dhs.gov）でご確認ください。</p>
+          </div>
+
+          <h2 id="section2">犯罪歴があると必ず取れない？</h2>
+          <p>結論として、<strong>犯罪歴があれば必ずESTAが取れない、とは限りません</strong>。一方で、適格性の質問の内容に該当する犯罪歴がある場合は、ESTAが不許可（Travel Not Authorized）となり、ビザ申請が必要になることがあります。</p>
+          <div class="warn-box">
+            <h4>該当するかどうかはケース次第</h4>
+            <p>どのような犯罪歴が質問に「該当する」かは、罪状や処分内容によって異なります。軽微なものか、道徳的に問題のある犯罪（モラル・ターピチュード）に当たるかなどで取り扱いが変わるため、自己判断は禁物です。</p>
+          </div>
+
+          <h2 id="section3">正直に回答することの重要性</h2>
+          <p>適格性の質問には、必ず<strong>正直に回答</strong>してください。「はい」と答えると不許可になりそうだからと、事実を偽って「いいえ」と答えるのは絶対に避けるべきです。</p>
+
+          <h3 id="section3-1">虚偽申告の重大なリスク</h3>
+          <div class="warn-box">
+            <h4>虚偽申告はVWP永久不可</h4>
+            <p>CBPによれば、渡航認証を得るために<strong>虚偽の情報で申請すると、その渡航者はVWP（ビザ免除）での米国渡航が永久にできなくなります</strong>。一時的に承認されたとしても、後に発覚すれば深刻な不利益につながります。正直な回答が結果的に最も安全な選択です。</p>
+          </div>
+
+          <h2 id="section4">判断に迷うときの相談先</h2>
+          <p>「自分のケースが質問に該当するのか分からない」という場合は、自己判断せず専門の窓口に相談しましょう。</p>
+          <div class="info-box">
+            <h4>主な相談先</h4>
+            <ul>
+              <li><strong>米国大使館・領事館</strong>（usembassy.gov で管轄を確認）</li>
+              <li><strong>米国ビザ情報</strong>（travel.state.gov）</li>
+              <li><strong>移民法に詳しい専門家・弁護士</strong></li>
+            </ul>
+          </div>
+          <p>該当の可能性がある場合は、ESTAではなく最初からビザ申請を検討したほうがスムーズなこともあります。</p>
+
+          <h2 id="section5">犯罪歴を理由に拒否されたときの対応</h2>
+          <p>適格性の質問への回答が原因でESTAが拒否された場合、渡航を希望するなら<strong>米国大使館・領事館で非移民ビザを申請する</strong>のが正しい対応です。CBPによれば、ESTAが拒否された渡航者がアメリカへ渡航する唯一の方法はビザの取得です。拒否後の詳しい対応は、関連記事でも解説しています。</p>
+
+          <h2 id="section6">回答は決済後に変更できない</h2>
+          <p>ESTAの適格性に関する質問への回答は、<strong>決済後に変更できません</strong>。誤って回答してしまった場合は、再申請が必要になります（あらためて手数料がかかります）。回答に不安がある場合は、申請前によく確認しておきましょう。誤入力・再申請の取り扱いは別記事で解説しています。</p>
+
+          <h2 id="section7">よくある質問</h2>
+          <div class="faq-item">
+            <h3>Q1: 犯罪歴があるとESTAは絶対に取れませんか？</h3>
+            <p><strong>A:</strong> 必ず取れないとは限りませんが、適格性の質問に該当する場合は不許可となりビザ申請が必要になることがあります。該当の有無はケースにより異なるため、判断に迷う場合は大使館・領事館や専門家に相談してください。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q2: 適格性の質問で正直に「はい」と答えるべきですか？</h3>
+            <p><strong>A:</strong> はい。正直に回答する必要があります。CBPによれば、虚偽情報で渡航認証を得ようとするとVWPでの米国渡航が永久にできなくなります。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q3: 軽微な交通違反も申告が必要ですか？</h3>
+            <p><strong>A:</strong> 質問は道徳的に問題のある犯罪や薬物関連などを対象としています。自分のケースが該当するか迷う場合は、自己判断せず公式情報の確認や専門家への相談が安全です。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q4: 犯罪歴を理由にESTAが拒否されたらどうすればよいですか？</h3>
+            <p><strong>A:</strong> 米国大使館・領事館で非移民ビザを申請するのが正しい対応です。CBPによれば、ESTA拒否後に渡航するにはビザ取得が唯一の方法です。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q5: 逮捕されたが有罪にならなかった場合はどうなりますか？</h3>
+            <p><strong>A:</strong> 逮捕歴や有罪判決の有無で取り扱いは変わり得ます。判断が難しいケースが多いため、大使館・領事館や移民法の専門家に確認することをおすすめします。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q6: 正しく回答したか不安な場合はどうすればよいですか？</h3>
+            <p><strong>A:</strong> 適格性の質問への回答は決済後に変更できず、誤りがあれば再申請が必要です。不安がある場合は申請前に大使館・領事館などへ確認すると安心です。</p>
+          </div>
+
+          <h2 id="section8">まとめ</h2>
+          <p>犯罪歴があっても必ずESTAが取れないとは限りませんが、適格性の質問に該当する場合は不許可となり、ビザ申請が必要になることがあります。最も重要なのは、質問に正直に回答することです。虚偽申告はVWPでの渡航が永久に不可能になる重大なリスクがあります。判断に迷う場合は、自己判断せず米国大使館・領事館や専門家に相談しましょう。</p>
+          <div class="info-box">
+            <h4>犯罪歴とESTAのポイント</h4>
+            <ul>
+              <li>犯罪歴があっても必ず不許可とは限らない</li>
+              <li>適格性の質問には必ず正直に回答する</li>
+              <li>虚偽申告はVWP永久不可（CBP）</li>
+              <li>該当の判断に迷えば大使館・専門家へ相談</li>
+              <li>拒否された場合はビザ申請が正しい対応</li>
+              <li>適格性の回答は決済後に変更不可</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/usa-esta-rejection/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAが拒否されたときの対応方法</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-vs-visa/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAとビザの違いを徹底解説！どちらが必要？</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-renewal/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAに更新は必要？入力ミスの対応も解説</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-application/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-pending/" style="color: #D4885A; text-decoration: underline;">ESTAが審査中・保留のときの対処法</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-about/" style="color: #D4885A; text-decoration: underline;">ESTA（エスタ）とは？制度概要を解説</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/usa-esta-application/">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/usa-esta-rejection/">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTAが拒否されたときの対応</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/usa-esta-vs-visa/">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTAとビザの違いを解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"アメリカ\",\"item\":\"https://trips-now.com/usa-esta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"犯罪歴がある場合のESTA\",\"item\":\"https://trips-now.com/usa-esta-criminal-record/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

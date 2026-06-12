@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T5148,<div class="page-layout">
+2:T4f97,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ カナダ留学の特徴・メリットデメリットを徹底解説</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>カナダ留学の特徴・メリットデメリットを徹底解説</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -48,7 +48,7 @@
 </nav>
 </div>
 <picture>
-<source alt="カナダ留学のメリット・デメリットについて" class="img_big m20-t m20-b lazyloaded" height="412" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/d75418af534cf5d59a533c2eac0decff.webp" type="image/webp" width="640"/><img alt="カナダ留学のメリット・デメリットについて" class="img_big m20-t m20-b" decoding="async" height="412" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/35c273cab2cc92531d09c8c1e57f9471.jpg" width="640"/>
+
 </picture>
 <p>世界第2位の面積を保有するカナダ。人口は約3,800万人で、日本のおよそ1/3となります。雄大な自然環境に囲まれながらも都市圏へのアクセスに優れ、治安も良いことから毎年多くの移民や留学生が訪れます。市民のおよそ7割はトロントやバンクーバーなどアメリカ国境付近の南側の都市に居住し、留学生の受け入れ先である学校や大学も集中しています。カナダの公用語は英語とフランス語のため、2か国語を同時に学べる地域もあります。このページではカナダの語学留学、高校留学、専門留学、ワーキングホリデーなど様々な分野の留学について解説します。</p>
 <h2 class="wp-block-heading" id="study1">カナダ留学のメリット</h2>
@@ -112,6 +112,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

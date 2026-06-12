@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T6f88,<div class="page-layout">
+2:T6e01,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ カナダのワーキングホリデー(ワーホリ)</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>カナダのワーキングホリデー(ワーホリ)</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -43,7 +43,7 @@
 </nav>
 </div>
 <picture>
-<source alt="カナダのワーキングホリデー" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/544b6f3073c112ca7139aa0a19946ab5.webp" type="image/webp" width="640"/><img alt="カナダのワーキングホリデー" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/06/544b6f3073c112ca7139aa0a19946ab5.jpg" width="640"/>
+
 </picture>
 <h2 class="wp-block-heading" id="working0">ワーキングホリデーとカナダ渡航に関する最新情報</h2>
 <p>規定回数のワクチン接種が完了した方は、渡航目的を問わずカナダへの入国が可能です。入国する際はカナダ政府が承認するワクチンの接種完了を示す証明書の提示が必須となり、接種完了の翌日から2週間以上の経過が求められます。日本からカナダへ入国する際の条件や渡航に関する最新情報は「<a href="/country-canada/">カナダの新型コロナウイルスと入国制限 最新情報</a>」をご確認ください。<br />なお、2022年1月15日より、ワクチン未接種の方に対する入国制限が強化されました。これまでワーキングホリデービザ所持者はワクチン未接種の場合も条件付きで入国を認めていましたが、現在は規定回数の接種が必須となりますのでご注意ください。<br />カナダ政府は2022年度における日本国籍のワーキングホリデー発給枠を6,500件に策定しました。最新の発給状況や残数は<a href="https://www.cic.gc.ca/english/work/iec/selections.asp?country=jp&amp;cat=wh" rel="noreferrer noopener" target="_blank">IRCC(カナダ移民・難民・市民権省)のワーキングホリデー情報</a>をご確認ください。</p>
@@ -133,6 +133,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

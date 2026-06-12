@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T6051,<div class="page-layout">
+2:T5a43,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ カナダ イエローナイフの観光スポット13選とオーロラのベストシーズン</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>カナダ イエローナイフの観光スポット13選とオーロラのベストシーズン</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -53,7 +53,7 @@
 </nav>
 </div>
 <picture>
-<source alt="yellowknife" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/60394d39b37d19214165e37d190cce00.webp" type="image/webp" width="640"/><img alt="yellowknife" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/60394d39b37d19214165e37d190cce00.jpg" width="640"/>
+
 </picture>
 <p>イエローナイフはノースウエスト準州の州都で、カナダで最も北極圏に近い街です。世界屈指のオーロラ出現率を誇り、世界中から多くの観光客が訪れます。<br />イエローナイフにおけるオーロラ鑑賞のベストシーズンは11月中旬～4月、8月中旬～9月頃となります。夏期でもオーロラ鑑賞ができる地域として知られ、湖が凍結していない時期は水面に映る″逆さオーロラ”が観光客の人気を集めています。また、イエローナイフは大自然の中で楽しめるアクティビティが充実し、伝統的なカナダ北部の料理も堪能できます。<br />このページではイエローナイフの魅力と観光スポットについて解説します。</p>
 <h2 class="wp-block-heading" id="yellowknife1">イエローナイフとは</h2>
@@ -74,7 +74,7 @@
 <h3 class="wp-block-heading" id="yellowknife1-4">イエローナイフと日本の時差</h3>
 <p>カナダは6つのタイムゾーンに分類され、イエローナイフがあるノースウエスト準州はアルバータ州やブリティッシュコロンビア州南東部と同様の“山岳部時間“に該当します。日本とは16時間(サマータイム中は15時間)の時差があります。<br />カナダと日本の時差について詳しくは「<a href="/canada-time-difference/">カナダ主要都市と日本の時差・サマータイムについて</a>」をご確認ください。</p>
 <picture>
-<source alt="yellowknife2" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/d8aee61987b480e76ca019cb00dc4283.webp" type="image/webp" width="640"/><img alt="yellowknife2" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/d8aee61987b480e76ca019cb00dc4283.jpg" width="640"/>
+
 </picture>
 <h2 class="wp-block-heading" id="yellowknife2">イエローナイフのおすすめ観光スポット</h2>
 <h3 class="wp-block-heading" id="yellowknife2-1">ブラッチフォード・レイク・ロッジ / Blachford Lake Lodge</h3>
@@ -89,7 +89,7 @@
 <p>19世紀の開拓時代にパイロットがイエローナイフの目印とした場所である小高い丘“THE ROCK“にあります。当時のイエローナイフには滑走路がなく、水上や草原など場所を選ばず着陸する必要がありました。悪条件の中で飛行し発展に貢献した操縦士は“ブッシュパイロット“と呼ばれ、パイロットやエンジニアの功績を称えたモニュメントが設置されています。</p>
 <p class="Class_J"><strong>所在地：</strong>3513 Ingraham Dr #3511, Yellowknife, NT X1A 2E8<br /><strong>公式サイト：</strong><a href="https://spectacularnwt.com/attraction/bush-pilots-monument" rel="noreferrer noopener" target="_blank">BUSH PILOT’S MONUMENT</a></p>
 <picture>
-<source alt="yellowknife3" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/d5c8cdd6c8f429829796c99bc9337f57.webp" type="image/webp" width="640"/><img alt="yellowknife3" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/d5c8cdd6c8f429829796c99bc9337f57.jpg" width="640"/>
+
 </picture>
 <h3 class="wp-block-heading" id="yellowknife2-5">ノーザン・ヘリテージ・センター / Northern Heritage Centre</h3>
 <p>ノーザン・ヘリテージ・センターはフレーム湖のほとりにある博物館です。正式名称は“プリンス・オブ・ウェールズ・ノーザン・ヘリテージ・センター“と言います。1979年にイギリスのチャーチル皇太子が訪れたときにオープンしました。カナダ北部に生息する動物のはく製や先住民族の歴史・文化などの資料が展示されています。入館料は無料で、年間58,000人が訪れる人気の観光スポットです。</p>
@@ -107,7 +107,7 @@
 <p>ノースウェスト準州はダイヤモンドの産地としても有名な地域です。同施設では採鉱の歴史やダイヤモンドの原石が採掘・研磨される様子を写真やビデオを通して学ぶことができ、研磨体験に参加することもできます。また、ノースウエスト準州で採掘、切断、研磨した美しいダイヤモンドが多数展示され販売も行っています。</p>
 <p class="Class_J"><strong>所在地：</strong>5105 49 St, Yellowknife, NT X1A 1P8<br /><strong>営業時間：</strong>年中無休 10:00～17:30<br /><strong>公式サイト：</strong><a href="https://www.nwtdiamondcentre.com/japanese" rel="noreferrer noopener" target="_blank">NWT Diamond and Jewellery Centre</a></p>
 <picture>
-<source alt="yellowknife4" class="img_big m20-t m20-b lazyloaded" height="427" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/e3f5b15f53ad51105ce23bbec682779b.webp" type="image/webp" width="640"/><img alt="yellowknife4" class="img_big m20-t m20-b" decoding="async" height="427" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/07/851f58f5eb8d6288f925e70cebe00454.jpg" width="640"/>
+
 </picture>
 <h3 class="wp-block-heading" id="yellowknife2-10">プレリュード・レイク・テリトリアル・パーク / Prelude Lake Territorial Park</h3>
 <p>イエローナイフから東に位置するプレリュード湖に面した公園で、夜はオーロラが見られるスポットとしても知られています。ハイキングコースや湖水浴用のビーチ、キャンプ場などがあり、自然を満喫できるスポットとして地元市民にも人気です。</p>
@@ -147,6 +147,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

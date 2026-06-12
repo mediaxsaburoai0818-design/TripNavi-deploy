@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4e65,<div class="page-layout">
+2:T4cc9,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ eTA(イータ)申請後に「認証保留」になった場合の対処方法</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>eTA(イータ)申請後に「認証保留」になった場合の対処方法</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -39,8 +39,8 @@
 </nav>
 </div>
 <picture>
-<source alt="eTA(イータ)申請後に「認証保留」になった場合の対処方法" class="img_big m20-t m20-b" height="411" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p08_01.webp" type="image/webp" width="640"/>
-<img alt="eTA(イータ)申請後に「認証保留」になった場合の対処方法" class="img_big m20-t m20-b" decoding="async" height="411" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p08_01.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="pending1">eTA(イータ)申請完了後に届く通知メールを確認しましょう</h2>
 <p>日本国籍者が飛行機を利用してカナダへ渡航する際、６か月以内の観光を目的とした滞在であればビザを取得せずに<a class="link-no-color" href="/country-canada/">eTA(イータ)申請</a>のみでカナダ渡航が可能となります。eTA(イータ)申請の手続きが完了すると、登録したメールアドレス宛に審査結果が届きます。<br /> ”通知メールが来ない”などのお問い合わせが多く発生しておりますので、eTA(イータ)申請書に登録するメールアドレスは正しく入力し、スムーズな送受信が可能であることをご確認ください。<br />迷惑メールフィルタなどの受信制限を設定していると通知メールを正常に受信できない場合がありますので事前に確認しましょう。<br />また、eTA(イータ)申請の認証結果は通常72時間以内に通知されますが、追加書類の提出などを求められた場合は審査期間が延びる可能性があります。カナダ渡航が決まった際は早めにeTA(イータ)の申請手続きを進めましょう。</p>
@@ -145,6 +145,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

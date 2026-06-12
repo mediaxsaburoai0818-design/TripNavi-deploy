@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[93061,["/_next/static/chunks/0nt8rd7.i2vy7.js","/_next/static/chunks/02jhp7w6sb7ms.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4c30,<div class="page-layout">
+2:T4aaa,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/country-canada/">カナダ</a> ＞ <a href="/">観光・グルメ</a> ＞ カナダビザ申請センター・カナダ大使館について</div>
 
@@ -9,7 +9,7 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>カナダビザ申請センター・カナダ大使館について</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
  </div>
 
  <div class="content">
@@ -49,8 +49,8 @@
 </nav>
 </div>
 <picture>
-<source alt="カナダビザ申請センター・カナダ大使館について" class="img_big m20-t m20-b" height="384" srcset="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p31_01.webp" type="image/webp" width="640"/>
-<img alt="カナダビザ申請センター・カナダ大使館について" class="img_big m20-t m20-b" decoding="async" height="384" src="http://xs640823.xsrv.jp/eta/wp-content/uploads/2021/04/img_p31_01.jpg" width="640"/>
+
+
 </picture>
 <h2 class="wp-block-heading" id="embassy1">ビザ申請センターについて</h2>
 <p>カナダへ渡航する日本国籍者を含む外国人は、事前にビザを取得する必要があります。ビザの取得が免除される条件を満たしている対象者は電子渡航認証システム<a class="link-no-color" href="/country-canada/">eTA(イータ)申請</a>の取得のみで渡航することも可能ですが、eTA(イータ)申請の取得条件に該当しない方またはeTA(イータ)申請の取得を拒否された方はカナダへの渡航内容に沿ったビザを取得する必要があります。<br /> 2012年4月末日にて在日カナダ大使館における査証(ビザ)部が閉鎖されたことにより、日本国内のカナダビザに関する業務は在フィリピンカナダ大使館(マニラ)へと移行されました。<br />日本におけるカナダビザに関する業務は民間のVFSグループに委託されておりカナダビザ申請センター(CVAC)として運営を行っております。<br />ビザ申請センターでは就学許可証(学生ビザ)、就労許可証(就労ビザ)など一時滞在で必要となるビザとカナダ永住者渡航証(トラベルドキュメント)の申請受付、バイオメトリクスの登録などビザの基本的な情報提供が中心となっています。<br />ビザ申請に関するアドバイス等は一切受け付けておりませんのでご了承ください。<br />なお、カナダの各種ビザはオンラインから申請が可能です。ビザ申請センターへ出向かなくても申請手続をすることが可能ですが、バイオメトリクスの登録については必ずビザ申請センターにて行う必要があります。</p>
@@ -152,6 +152,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wR6_NIw4cCi2EeBu42m7Z"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
