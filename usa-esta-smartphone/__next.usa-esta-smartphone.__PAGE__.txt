@@ -1,26 +1,26 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T436a,<div className="page-layout">
-    <main className="page-main">
-      <div className="breadcrumb">
-        <a href="index.html">ホーム</a> ＞ 
+2:T45ae,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞ 
         <a href="#usa">アメリカ</a> ＞ 
         <a href="#visa-info">渡航ノウハウ</a> ＞ 
         ESTAアプリでの申請方法
       </div>
 
-      <article className="article-detail">
-        <span className="card-tag">USA渡航ノウハウ</span>
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
         <h1>ESTAアプリでの申請方法を解説！スマホ申請のポイントを紹介</h1>
-        <div className="article-meta">
-          <span className="meta-date">更新日：2026年03月31日</span>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月31日</span>
         </div>
 
-        <div className="content">
+        <div class="content">
           
-          <div className="article-toc">
-            <h4 className="toc-title">📋 目次</h4>
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
             <nav>
               <ol>
                 <li><a href="#section1">「ESTA Mobile」について</a>
@@ -52,7 +52,7 @@
           <h2 id="section1">「ESTA Mobile」について</h2>
           <p><strong>ESTA Mobile</strong>は、米国税関・国境警備局（CBP）が2023年より提供している公式ESTAアプリです。スマホ1台で、<strong>申請から支払い、ステータス確認まで完結</strong>できます。</p>
 
-          <div className="info-box">
+          <div class="info-box">
             <h4>📱 ESTA Mobileの特徴</h4>
             <ul>
               <li><strong>iOS/Android対応</strong></li>
@@ -108,8 +108,8 @@
           
           <h2 id="section2">ESTA Mobileでの申請で必要なもの</h2>
           
-          <div className="info-box">
-            <h4>📋 必要なもの</h4>
+          <div class="info-box">
+            <h4>必要なもの</h4>
             <ul>
               <li><strong>有効なパスポート</strong>（ICチップ搭載、有効期限が渡航終了日から6ヶ月以上）</li>
               <li><strong>メールアドレス</strong>（申請完了通知受信用）</li>
@@ -141,8 +141,8 @@
             <li>パスポート番号、生年月日などが自動反映されるので確認</li>
           </ol>
 
-          <div className="warn-box">
-            <h4>⚠️ 注意</h4>
+          <div class="warn-box">
+            <h4>注意</h4>
             <p>光の反射や影でうまく読み取れない場合があります。明るい場所で撮影してください。</p>
           </div>
 
@@ -177,8 +177,8 @@
           
           <h2 id="section4">申請時の注意点</h2>
           
-          <div className="warn-box">
-            <h4>⚠️ 重要な注意点</h4>
+          <div class="warn-box">
+            <h4>重要な注意点</h4>
             
             <p><strong>申請期限:</strong></p>
             <p>出発<strong>72時間前（3日前）まで</strong>に申請を完了することを推奨します。審査には最大3日かかる場合があります。</p>
@@ -189,7 +189,7 @@
               <li>氏名、生年月日、申請番号を入力</li>
               <li>審査中: <strong>「保留中」</strong>と表示</li>
               <li>結果: <strong>「渡航認証許可」</strong>または<strong>「渡航認証拒否」</strong></li>
-              <li>⚠️ 画面を横スワイプすると無効化される可能性があるため注意</li>
+              <li>画面を横スワイプすると無効化される可能性があるため注意</li>
             </ul>
 
             <p><strong>料金改定:</strong></p>
@@ -204,17 +204,17 @@
           
           <h2 id="section5">よくある質問</h2>
 
-          <div className="faq-item">
+          <div class="faq-item">
             <h3>Q1: ESTAの申請はスマホでできますか？</h3>
             <p><strong>A:</strong> はい、可能です。公式アプリ<strong>「ESTA Mobile」</strong>をインストールすることで、スマホから申請できます。カメラでパスポートを撮影し、ICチップをスキャンする必要があります。公式サイトからの申請とは手順が一部異なります。</p>
           </div>
 
-          <div className="faq-item">
+          <div class="faq-item">
             <h3>Q2: ESTAの入力は日本語にならない？</h3>
             <p><strong>A:</strong> ESTA Mobileアプリは日本語表示に切り替え可能です。ただし、<strong>入力は英語（ローマ字）のみ</strong>です。スペルミスがあると再申請が必要になり、虚偽申請と見なされると入国拒否の恐れがあるため、慎重に入力してください。</p>
           </div>
 
-          <div className="faq-item">
+          <div class="faq-item">
             <h3>Q3: ESTAの料金は2025年にいくらになりますか？</h3>
             <p><strong>A:</strong> ESTA申請料金は以下の通りです：</p>
             <ul>
@@ -231,8 +231,8 @@
 
           <p>パスポート撮影やICチップ読み取りなど、公式サイトとは手順が一部異なるため、事前に手順を確認してから申請を進めることを推奨します。</p>
 
-          <div className="info-box">
-            <h4>✅ ESTA Mobileのポイント</h4>
+          <div class="info-box">
+            <h4>ESTA Mobileのポイント</h4>
             <ul>
               <li>スマホ1台で申請完結</li>
               <li>パスポート自動読み取りでスペルミス防止</li>
@@ -245,76 +245,84 @@
         </div>
 
         
-        <div className="related-articles">
-          <h3 className="related-title">関連記事</h3>
-          <div className="related-grid">
-            <a href="usa-esta-application.html" className="related-card">
-              <div className="related-card-body">
-                <span className="related-card-tag">USA渡航ノウハウ</span>
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/usa-esta-application/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
                 <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
               </div>
             </a>
             
-            <a href="usa-esta-group.html" className="related-card">
-              <div className="related-card-body">
-                <span className="related-card-tag">USA渡航ノウハウ</span>
+            <a href="/usa-esta-group/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
                 <h3>ESTAのグループ申請方法を解説！</h3>
               </div>
             </a>
             
-            <a href="usa-esta-renewal.html" className="related-card">
-              <div className="related-card-body">
-                <span className="related-card-tag">USA渡航ノウハウ</span>
+            <a href="/usa-esta-renewal/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
                 <h3>ESTA(エスタ)に更新は必要？</h3>
               </div>
             </a>
             
-            <a href="usa-hawaii-esta.html" className="related-card">
-              <div className="related-card-body">
-                <span className="related-card-tag">USA渡航ノウハウ</span>
+            <a href="/usa-hawaii-esta/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
                 <h3>ハワイ渡航時にESTAは必要？</h3>
               </div>
             </a>
           </div>
         </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-birthplace/" style="color: #D4885A; text-decoration: underline;">ESTA申請時の出生した市区町村名の記載方法を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-vwp/" style="color: #D4885A; text-decoration: underline;">ビザ免除プログラム(VWP)とは？対象国・条件・ESTAとの違いを解説</a></li>
+          </ul>
+        </section>
       </article>
     </main>
 
     
-    <aside className="sidebar">
-      <div className="sidebar-section">
-        <h3 className="sidebar-title">人気記事ランキング</h3>
-        <ol className="sidebar-ranking">
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
           <li>
-            <a href="canada-eta-about.html">
-              <span className="rank-num">1</span>
-              <div className="rank-info">
-                <span className="rank-tag">カナダeTA</span>
-                <div className="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+            <a href="/canada-eta-about/">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">カナダeTA</span>
+                <div class="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
               </div>
             </a>
           </li>
           <li>
-            <a href="australia-etas-about.html">
-              <span className="rank-num">2</span>
-              <div className="rank-info">
-                <span className="rank-tag">オーストラリア</span>
-                <div className="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+            <a href="/australia-etas-about/">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">オーストラリア</span>
+                <div class="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
               </div>
             </a>
           </li>
           <li>
-            <a href="usa-esta-application.html">
-              <span className="rank-num">3</span>
-              <div className="rank-info">
-                <span className="rank-tag">USA ESTA</span>
-                <div className="rank-title">ESTA（エスタ）の申請方法を解説</div>
+            <a href="/usa-esta-application/">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
               </div>
             </a>
           </li>
         </ol>
       </div>
     </aside>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

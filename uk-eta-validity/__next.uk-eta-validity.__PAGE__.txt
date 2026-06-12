@@ -1,0 +1,141 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T28d8,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/uk-eta-application/">イギリス</a> ＞
+        UK ETAの有効期限
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">イギリス渡航ノウハウ</span>
+        <h1>UK ETAの有効期限は2年間｜滞在日数との違いも解説</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">UK ETAの有効期限は2年間</a>
+                  <ul>
+                    <li><a href="#section1-1">パスポート失効が先なら短くなる</a></li>
+                    <li><a href="#section1-2">有効期間中は複数回渡航できる</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section2">「ETAの有効期間」と「滞在できる期間」の違い</a></li>
+                <li><a href="#section3">有効期限が切れたときの対応</a></li>
+                <li><a href="#section4">有効期限に関する注意点</a></li>
+                <li><a href="#section5">よくある質問</a></li>
+                <li><a href="#section6">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>UK ETAを取得するうえで意外と誤解されやすいのが「有効期限」と「1回に滞在できる日数」の違いです。この記事では、GOV.UK（英国政府公式）の情報をもとに、UK ETAの有効期間を正確に整理します。</p>
+
+          <h2 id="section1">UK ETAの有効期限は2年間</h2>
+          <p>UK ETAは、<strong>承認から2年間、またはパスポートの有効期限までのいずれか早い方</strong>まで有効です。この期間中は、何度でもイギリスへの渡航にETAを使うことができます。</p>
+
+          <h3 id="section1-1">パスポート失効が先なら短くなる</h3>
+          <p>ETAはパスポートに電子的に紐づきます。そのため、<strong>パスポートの有効期限が2年より先に来る場合は、その失効日までがETAの有効期限</strong>になります。たとえばパスポートが1年半後に切れるなら、ETAも実質1年半までしか使えません。</p>
+
+          <h3 id="section1-2">有効期間中は複数回渡航できる</h3>
+          <p>UK ETAは1回限りの認証ではなく、有効期間中であれば<strong>複数回（何度でも）渡航</strong>できます。観光や出張で年に何度かイギリスを訪れる方も、有効期間内なら同じETAを使えます。</p>
+
+          <div class="info-box">
+            <h4>有効期限の基本</h4>
+            <ul>
+              <li>承認から2年間、またはパスポート失効までの早い方</li>
+              <li>有効期間中は何度でも渡航可能</li>
+              <li>パスポートが先に切れるとETAも切れる</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">「ETAの有効期間」と「滞在できる期間」の違い</h2>
+          <p>ここが最も混同しやすいポイントです。</p>
+          <table>
+            <tr><th>項目</th><th>内容</th></tr>
+            <tr><td>ETAの有効期間</td><td>承認から最大2年間（パスポート失効まで）</td></tr>
+            <tr><td>1回あたりの滞在</td><td>最長6か月まで</td></tr>
+            <tr><td>渡航回数</td><td>有効期間中は複数回可能</td></tr>
+          </table>
+          <p>つまり、ETAそのものは最大2年間有効ですが、<strong>1回の渡航で滞在できるのは最長6か月まで</strong>です。2年の間に何度も渡航でき、それぞれの滞在が最長6か月という考え方になります。</p>
+          <div class="warn-box">
+            <h4>「2年間ずっと滞在できる」わけではない</h4>
+            <p>有効期間が2年だからといって、2年間連続でイギリスに滞在できるわけではありません。1回の滞在は最長6か月で、頻繁・連続した訪問による実質的な居住もできません。長期滞在にはビザが必要です。</p>
+          </div>
+
+          <h2 id="section3">有効期限が切れたときの対応</h2>
+          <p>ETAの有効期限が切れた場合や、パスポートを更新した場合は、次の渡航前に改めてETAを申請（再申請）します。延長型の「更新」はありません。詳しくは<a href="/uk-eta-renewal/">更新・再申請の記事</a>をご覧ください。</p>
+
+          <h2 id="section4">有効期限に関する注意点</h2>
+          <div class="warn-box">
+            <h4>確認しておきたいポイント</h4>
+            <ul>
+              <li>渡航前にETAの有効期限が渡航日をカバーしているか確認する</li>
+              <li>パスポートの有効期限とETAの関係を確認する</li>
+              <li>1回の滞在が6か月を超えないよう計画する</li>
+              <li>有効期限や滞在ルールは変更され得るため、公式サイトで最新を確認する</li>
+            </ul>
+          </div>
+
+          <h2 id="section5">よくある質問</h2>
+          <div class="faq-item"><h3>Q1: UK ETAの有効期限は？</h3><p><strong>A:</strong> 承認から2年間、またはパスポート失効までのいずれか早い方です。期間中は何度でも渡航できます。</p></div>
+          <div class="faq-item"><h3>Q2: 有効期間と滞在期間は違う？</h3><p><strong>A:</strong> 違います。ETAの有効期間は最大2年ですが、1回の滞在は最長6か月までです。</p></div>
+          <div class="faq-item"><h3>Q3: パスポートが2年未満で切れる場合は？</h3><p><strong>A:</strong> その場合はパスポート失効日までがETAの有効期限になります。</p></div>
+          <div class="faq-item"><h3>Q4: 何回でも渡航できますか？</h3><p><strong>A:</strong> はい。有効期間中は複数回渡航できます。各回の滞在は最長6か月です。</p></div>
+          <div class="faq-item"><h3>Q5: 期限が切れたらどうなる？</h3><p><strong>A:</strong> 期限切れのETAは使えません。次の渡航前に再申請が必要です。</p></div>
+          <div class="faq-item"><h3>Q6: ETAで長く住めますか？</h3><p><strong>A:</strong> いいえ。1回最長6か月までで、実質的な居住はできません。長期滞在にはビザが必要です。</p></div>
+
+          <h2 id="section6">まとめ</h2>
+          <p>UK ETAの有効期限は承認から2年間（またはパスポート失効まで）で、その間は何度でも渡航できます。ただし1回の滞在は最長6か月まで。「有効期間2年」と「1回の滞在6か月」は別物である点に注意しましょう。長期滞在や就労にはビザが必要です。</p>
+          <div class="info-box">
+            <h4>有効期限のポイント</h4>
+            <ul>
+              <li>有効期間：2年間またはパスポート失効まで</li>
+              <li>1回の滞在：最長6か月</li>
+              <li>有効期間中は複数回渡航可</li>
+              <li>期限切れ後は再申請が必要</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/uk-eta-renewal/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAの更新・再申請</h3></div></a>
+            <a href="/uk-eta-about/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAとは？制度概要を解説</h3></div></a>
+            <a href="/uk-eta-vs-visa/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAとビザの違い</h3></div></a>
+            <a href="/uk-eta-timing/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETA申請のタイミング</h3></div></a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">UK ETA関連記事</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-application/" style="color: #D4885A; text-decoration: underline;">イギリスETAとは？申請方法を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-check/" style="color: #D4885A; text-decoration: underline;">UK ETAの申請状況・審査結果の確認方法</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-transit/" style="color: #D4885A; text-decoration: underline;">乗り継ぎ・トランジットでUK ETAは必要？</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">UK ETA関連記事</h3>
+        <ol class="sidebar-ranking">
+          <li><a href="/uk-eta-application/"><span class="rank-num">1</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">イギリスETAの申請方法</div></div></a></li>
+          <li><a href="/uk-eta-renewal/"><span class="rank-num">2</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">UK ETAの更新・再申請</div></div></a></li>
+          <li><a href="/uk-eta-vs-visa/"><span class="rank-num">3</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">UK ETAとビザの違い</div></div></a></li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"イギリス\",\"item\":\"https://trips-now.com/uk-eta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UK ETAの有効期限\",\"item\":\"https://trips-now.com/uk-eta-validity/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"UK ETAの有効期限はどれくらいですか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"承認から2年間、またはパスポートの有効期限までのいずれか早い方まで有効です。有効期間中は何度でも渡航できます。\"}},{\"@type\":\"Question\",\"name\":\"ETAの有効期間と1回の滞在期間は違いますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"違います。ETA自体の有効期間は最大2年間ですが、1回の渡航で滞在できるのは最長6か月までです。2年の間に複数回渡航でき、各回が最長6か月です。\"}},{\"@type\":\"Question\",\"name\":\"パスポートの有効期限が2年未満だとETAも短くなりますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"はい。ETAは「2年間またはパスポート失効まで」のいずれか早い方が有効期限になるため、パスポートが2年以内に切れる場合はその失効日までとなります。\"}},{\"@type\":\"Question\",\"name\":\"ETAの有効期間中は何回でも渡航できますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"はい。有効期間中であれば複数回（何度でも）イギリスへ渡航できます。ただし各回の滞在は最長6か月までです。\"}},{\"@type\":\"Question\",\"name\":\"ETAの有効期限が切れたらどうなりますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"有効期限が過ぎたETAは使えません。次の渡航前に新たにETAを再申請する必要があります。\"}},{\"@type\":\"Question\",\"name\":\"ETAがあればイギリスに長く住めますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"いいえ。1回の滞在は最長6か月までで、頻繁・連続した訪問による実質的な居住もできません。長期滞在にはビザが必要です。\"}}]}"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

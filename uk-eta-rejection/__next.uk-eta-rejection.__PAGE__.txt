@@ -1,0 +1,138 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T841,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"UK ETAが却下されたらどうすればいいですか？","acceptedAnswer":{"@type":"Answer","text":"却下された場合は、申請内容の誤りがないか確認したうえで、状況に応じて再申請するか、ビザの申請を検討します。具体的な対応や次の手続きは、GOV.UK公式サイトの案内をご確認ください。"}},{"@type":"Question","name":"ETAが却下される主な原因は何ですか？","acceptedAnswer":{"@type":"Answer","text":"入力情報の誤り、パスポート情報の不一致、過去の入国拒否歴、特定の経歴などが影響する可能性があります。個別の判断理由は公表されないことがあります。"}},{"@type":"Question","name":"ETAが却下されても再申請できますか？","acceptedAnswer":{"@type":"Answer","text":"入力ミスが原因であれば正しい情報で再申請できる場合があります。一方、ETAでは渡航できないと判断された場合はビザ申請が必要になることがあります。最新の取り扱いは公式でご確認ください。"}},{"@type":"Question","name":"ETAが却下されたら料金は返金されますか？","acceptedAnswer":{"@type":"Answer","text":"GOV.UK公式は、申請後の返金はできないとしています。却下された場合も支払った料金は戻りません。"}},{"@type":"Question","name":"ETAが却下されたらイギリスに行けませんか？","acceptedAnswer":{"@type":"Answer","text":"ETAでの渡航ができないと判断された場合でも、ビザの取得など別の方法で渡航できる可能性があります。詳細は公式サイトや必要に応じて専門機関にご確認ください。"}},{"@type":"Question","name":"却下の理由は教えてもらえますか？","acceptedAnswer":{"@type":"Answer","text":"判断理由が詳しく示されないこともあります。通知メールの案内に従い、必要に応じてUKVIに問い合わせてください。"}}]}3:T294f,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/uk-eta-application/">イギリス</a> ＞
+        UK ETAが却下された場合
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">イギリス渡航ノウハウ</span>
+        <h1>UK ETAが却下・拒否されたら？原因と対応を解説</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">UK ETAが却下されることはある</a></li>
+                <li><a href="#section2">却下の原因として考えられること</a>
+                  <ul>
+                    <li><a href="#section2-1">入力情報の誤り</a></li>
+                    <li><a href="#section2-2">経歴・過去の入国履歴</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section3">却下されたときの対応</a></li>
+                <li><a href="#section4">却下を防ぐためのポイント</a></li>
+                <li><a href="#section5">よくある質問</a></li>
+                <li><a href="#section6">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>UK ETAは多くの場合スムーズに承認されますが、まれに却下（拒否）されることもあります。この記事では、GOV.UK（英国政府公式）の情報をもとに、UK ETAが却下された場合の考え方と対応を整理します。なお、個別の審査基準は公表されない部分も多いため、断定的な情報は避け、公式での確認を前提に解説します。</p>
+
+          <h2 id="section1">UK ETAが却下されることはある</h2>
+          <p>ETAはイギリスへの入国を保証するものではなく、申請内容や経歴によっては承認されないことがあります。却下された場合は、UKVIからの通知メールの内容を確認し、次にどうすべきかを判断します。<strong>却下された場合でも、支払った料金は返金されません。</strong></p>
+
+          <h2 id="section2">却下の原因として考えられること</h2>
+          <p>却下の具体的な理由は個別に詳しく示されないこともありますが、一般的に次のような要因が影響し得ます。</p>
+
+          <h3 id="section2-1">入力情報の誤り</h3>
+          <p>氏名のスペル、パスポート番号、生年月日などの入力ミスや、パスポート情報との不一致は、却下や手続き上の問題につながる可能性があります。申請前の確認が重要です。</p>
+
+          <h3 id="section2-2">経歴・過去の入国履歴</h3>
+          <p>過去の入国拒否歴や、一定の経歴に関する事情がある場合、ETAでの渡航が認められないことがあります。犯罪歴に関しては<a href="/uk-eta-criminal-record/">犯罪歴がある場合の記事</a>もあわせてご確認ください。</p>
+
+          <div class="info-box">
+            <h4>却下に影響し得る主な要因</h4>
+            <ul>
+              <li>入力情報の誤り・パスポート情報との不一致</li>
+              <li>過去の入国拒否歴</li>
+              <li>一定の経歴に関する事情</li>
+              <li>そのほか個別の審査判断</li>
+            </ul>
+          </div>
+
+          <h2 id="section3">却下されたときの対応</h2>
+          <div class="warn-box">
+            <h4>却下されたら確認したいこと</h4>
+            <ol>
+              <li><strong>通知メールの内容を確認する</strong> — 次の手続きの案内が記載されていることがあります。</li>
+              <li><strong>入力内容に誤りがなかったか振り返る</strong> — 誤りが原因なら、正しい情報での再申請が選択肢になる場合があります。</li>
+              <li><strong>ビザ申請を検討する</strong> — ETAでは渡航できないと判断された場合、ビザの申請が必要になることがあります。</li>
+              <li><strong>公式・専門機関に確認する</strong> — 判断が難しい場合は、GOV.UK公式やビザ手続きの専門機関に相談します。</li>
+            </ol>
+          </div>
+          <p>却下後の具体的な手続き（再申請の可否やビザへの切り替え）は状況や制度の運用によって異なります。<strong>最新の取り扱いは必ずGOV.UK公式サイトでご確認ください。</strong></p>
+
+          <h2 id="section4">却下を防ぐためのポイント</h2>
+          <ul>
+            <li>パスポート情報と一字一句一致するよう入力する</li>
+            <li>氏名・生年月日・パスポート番号を申請前に再確認する</li>
+            <li>経歴に関する質問には正確に回答する</li>
+            <li>渡航で実際に使うパスポートで申請する</li>
+            <li>渡航直前ではなく、余裕を持って申請する</li>
+          </ul>
+
+          <h2 id="section5">よくある質問</h2>
+          <div class="faq-item"><h3>Q1: ETAが却下されたらどうする？</h3><p><strong>A:</strong> 通知メールを確認し、入力誤りがないか見直したうえで、再申請やビザ申請を検討します。具体的な手続きは公式でご確認ください。</p></div>
+          <div class="faq-item"><h3>Q2: 却下される主な原因は？</h3><p><strong>A:</strong> 入力情報の誤り、パスポート情報の不一致、過去の入国拒否歴などが影響し得ます。理由が詳しく示されないこともあります。</p></div>
+          <div class="faq-item"><h3>Q3: 却下されても再申請できる？</h3><p><strong>A:</strong> 入力ミスが原因なら正しい情報で再申請できる場合があります。ETAで渡航できない場合はビザが必要になることがあります。</p></div>
+          <div class="faq-item"><h3>Q4: 却下されたら返金される？</h3><p><strong>A:</strong> いいえ。申請後の返金はできません。</p></div>
+          <div class="faq-item"><h3>Q5: 却下されたら行けない？</h3><p><strong>A:</strong> ビザ取得など別の方法で渡航できる可能性があります。詳細は公式でご確認ください。</p></div>
+          <div class="faq-item"><h3>Q6: 却下の理由は教えてもらえる？</h3><p><strong>A:</strong> 詳しく示されないこともあります。通知の案内に従い、必要に応じてUKVIに問い合わせてください。</p></div>
+
+          <h2 id="section6">まとめ</h2>
+          <p>UK ETAは却下されることもあり、料金は返金されません。却下された場合は通知メールを確認し、入力誤りの見直しや再申請、状況によってはビザ申請を検討します。却下を防ぐには、正確な情報入力と早めの申請が大切です。判断に迷う場合は、GOV.UK公式や専門機関に確認しましょう。</p>
+          <div class="info-box">
+            <h4>却下時のポイント</h4>
+            <ul>
+              <li>料金は返金されない</li>
+              <li>まず通知メールと入力内容を確認</li>
+              <li>再申請またはビザ申請を検討</li>
+              <li>最新の取り扱いは公式で確認</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/uk-eta-pending/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAが審査中・保留のときの対処</h3></div></a>
+            <a href="/uk-eta-criminal-record/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>犯罪歴がある場合のUK ETA申請</h3></div></a>
+            <a href="/uk-eta-vs-visa/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAとビザの違い</h3></div></a>
+            <a href="/uk-eta-check/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAの確認方法</h3></div></a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">UK ETA関連記事</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-application/" style="color: #D4885A; text-decoration: underline;">イギリスETAとは？申請方法を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-about/" style="color: #D4885A; text-decoration: underline;">UK ETAとは？制度概要を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-renewal/" style="color: #D4885A; text-decoration: underline;">UK ETAの更新・再申請</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">UK ETA関連記事</h3>
+        <ol class="sidebar-ranking">
+          <li><a href="/uk-eta-application/"><span class="rank-num">1</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">イギリスETAの申請方法</div></div></a></li>
+          <li><a href="/uk-eta-pending/"><span class="rank-num">2</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">審査中・保留の対処</div></div></a></li>
+          <li><a href="/uk-eta-criminal-record/"><span class="rank-num">3</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">犯罪歴がある場合</div></div></a></li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"イギリス\",\"item\":\"https://trips-now.com/uk-eta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UK ETAが却下された場合\",\"item\":\"https://trips-now.com/uk-eta-rejection/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

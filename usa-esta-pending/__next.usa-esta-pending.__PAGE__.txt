@@ -1,0 +1,225 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T85e,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ESTAの「Authorization Pending」はどういう意味ですか？","acceptedAnswer":{"@type":"Answer","text":"CBPによれば、即時に判断ができなかったため申請が審査中であることを意味します。これは否定的な結果を示すものではなく、通常72時間以内に結果が出ます。"}},{"@type":"Question","name":"保留中はどのくらい待てばよいですか？","acceptedAnswer":{"@type":"Answer","text":"CBP公式では、多くの場合72時間以内に結果が判明するとされています。72時間が経過したら、公式サイトで個人ステータスを再確認してください。"}},{"@type":"Question","name":"保留中に再申請してもよいですか？","acceptedAnswer":{"@type":"Answer","text":"審査中に同じ内容で重複申請するのは避けるのが無難です。まずは72時間ほど待ち、結果を確認しましょう。重複申請は手数料が二重にかかる可能性があります。"}},{"@type":"Question","name":"保留中に航空券を予約してもよいですか？","acceptedAnswer":{"@type":"Answer","text":"ESTAは承認されてはじめて搭乗が可能になります。保留中はまだ承認が確定していないため、結果が出る前提でのスケジュールには注意し、余裕をもって申請することが大切です。"}},{"@type":"Question","name":"保留はそのまま拒否につながりますか？","acceptedAnswer":{"@type":"Answer","text":"いいえ。CBPは保留（Pending）が否定的な結果を意味するものではないと説明しています。保留後に承認されることも、不許可になることもあります。"}},{"@type":"Question","name":"72時間を過ぎても保留のままの場合は？","acceptedAnswer":{"@type":"Answer","text":"72時間を大きく過ぎても結果が出ない場合は、公式サイトの問い合わせ窓口からCBPに照会するとよいでしょう。入力ミスがないかも併せて確認してください。"}}]}3:T33ba,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/usa-esta-application/">アメリカ</a> ＞
+        ESTAが審査中・保留のとき
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>ESTAが審査中・保留（Pending）のときは？原因と対処法を解説</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">「Authorization Pending」の意味</a></li>
+                <li><a href="#section2">保留は不許可ではない</a></li>
+                <li><a href="#section3">72時間ルールと待ち方</a></li>
+                <li><a href="#section4">保留中にやるべきこと・避けること</a>
+                  <ul>
+                    <li><a href="#section4-1">やるべきこと</a></li>
+                    <li><a href="#section4-2">避けたほうがよいこと</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section5">72時間を過ぎても保留のままのとき</a></li>
+                <li><a href="#section6">保留を避けるための事前対策</a></li>
+                <li><a href="#section7">よくある質問</a></li>
+                <li><a href="#section8">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>ESTAを申請したのにすぐ承認されず、「Authorization Pending（承認保留）」と表示されると不安になるものです。しかし、これは決して悪い結果ではありません。この記事では、ESTAが<strong>審査中・保留になったときの意味と対処法</strong>を、米国CBP公式情報をもとに落ち着いて対応できるよう解説します。</p>
+
+          <h2 id="section1">「Authorization Pending」の意味</h2>
+          <p>ESTAの申請結果には主に3つのステータスがあり、そのうちのひとつが<strong>「Authorization Pending（承認保留）」</strong>です。CBPによれば、これは申請に対して<strong>即時の判断ができなかったため、審査中である</strong>ことを示します。システムが自動で承認・不承認を即決できなかったケースで表示されます。</p>
+          <table>
+            <thead>
+              <tr><th>ステータス</th><th>状態</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Authorization Approved</td><td>承認済み（渡航可）</td></tr>
+              <tr><td>Authorization Pending</td><td>審査中（このページのテーマ）</td></tr>
+              <tr><td>Travel Not Authorized</td><td>不許可（ビザが必要）</td></tr>
+            </tbody>
+          </table>
+
+          <h2 id="section2">保留は不許可ではない</h2>
+          <div class="info-box">
+            <h4>Pendingは悪い知らせではない</h4>
+            <p>CBPは、「Authorization Pending」は<strong>否定的な結果を意味するものではない</strong>と明確に説明しています。単に判断に少し時間がかかっているだけで、この後に承認されるケースも多くあります。慌てて何度も再申請する必要はありません。</p>
+          </div>
+          <p>つまり、保留＝拒否ではありません。まずは落ち着いて、結果が出るのを待ちましょう。</p>
+
+          <h2 id="section3">72時間ルールと待ち方</h2>
+          <p>CBPによれば、ESTAの結果は通常<strong>72時間以内</strong>に判明します。保留と表示されても、多くはこの時間内に承認・不許可のいずれかが確定します。</p>
+          <div class="info-box">
+            <h4>待ち方の目安</h4>
+            <ul>
+              <li>保留表示後、すぐに繰り返し確認する必要はない</li>
+              <li>数時間〜1日ほど間隔をあけて再確認する</li>
+              <li>72時間を目安に結果を確認する</li>
+            </ul>
+          </div>
+          <p>確認は公式サイト（<strong>esta.cbp.dhs.gov</strong>）の個人ステータス確認から行えます。確認自体に追加料金はかかりません。</p>
+
+          <h2 id="section4">保留中にやるべきこと・避けること</h2>
+
+          <h3 id="section4-1">やるべきこと</h3>
+          <ul>
+            <li>申請時に入力した内容（パスポート番号・生年月日など）を控えておく</li>
+            <li>72時間を目安に公式サイトでステータスを再確認する</li>
+            <li>万一不許可だった場合に備え、ビザ申請の選択肢も頭に入れておく</li>
+          </ul>
+
+          <h3 id="section4-2">避けたほうがよいこと</h3>
+          <div class="warn-box">
+            <h4>保留中の重複申請に注意</h4>
+            <p>結果を待たずに同じ内容で重複申請すると、手数料が二重にかかる可能性があります。まずは72時間ほど待ち、結果を確認してから次の行動を判断しましょう。</p>
+          </div>
+
+          <h2 id="section5">72時間を過ぎても保留のままのとき</h2>
+          <p>目安の72時間を大きく過ぎても保留のままの場合は、次の点を確認してください。</p>
+          <ul>
+            <li>パスポート番号や生年月日に入力ミスがないか（照会できていないだけの可能性）</li>
+            <li>決済が正しく完了しているか</li>
+          </ul>
+          <p>それでも結果が出ない場合は、公式サイトの問い合わせ窓口からCBPに照会するとよいでしょう。なお、保留が長引いた末に不許可となった場合の対応は、別記事で詳しく解説しています。</p>
+
+          <h2 id="section6">保留を避けるための事前対策</h2>
+          <p>保留は必ずしも避けられるものではありませんが、余裕を持った行動でリスクを減らせます。</p>
+          <div class="info-box">
+            <h4>余裕を持った申請を</h4>
+            <ul>
+              <li><strong>出発の3日前まで</strong>に申請を完了する（CBP推奨）</li>
+              <li>入力内容はパスポートと照らし合わせて正確に</li>
+              <li>直前申請を避け、保留になっても対応できる時間を確保する</li>
+            </ul>
+          </div>
+
+          <h2 id="section7">よくある質問</h2>
+          <div class="faq-item">
+            <h3>Q1: ESTAの「Authorization Pending」はどういう意味ですか？</h3>
+            <p><strong>A:</strong> CBPによれば、即時の判断ができず審査中であることを意味します。否定的な結果ではなく、通常72時間以内に結果が出ます。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q2: 保留中はどのくらい待てばよいですか？</h3>
+            <p><strong>A:</strong> CBP公式では多くの場合72時間以内に結果が判明します。72時間経過後に公式サイトで再確認してください。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q3: 保留中に再申請してもよいですか？</h3>
+            <p><strong>A:</strong> 同じ内容での重複申請は避けるのが無難です。まず72時間ほど待ち、結果を確認しましょう。重複は手数料が二重にかかる可能性があります。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q4: 保留中に航空券を予約してもよいですか？</h3>
+            <p><strong>A:</strong> ESTAは承認されてはじめて搭乗できます。保留中はまだ確定していないため、余裕をもって申請し、結果を確認してから判断するのが安心です。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q5: 保留はそのまま拒否につながりますか？</h3>
+            <p><strong>A:</strong> いいえ。CBPは保留が否定的な結果を意味しないと説明しています。保留後に承認されることもあります。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q6: 72時間を過ぎても保留のままの場合は？</h3>
+            <p><strong>A:</strong> 入力ミスや決済状況を確認し、それでも解決しなければ公式サイトの問い合わせ窓口からCBPに照会してください。</p>
+          </div>
+
+          <h2 id="section8">まとめ</h2>
+          <p>ESTAの「Authorization Pending（承認保留）」は、審査に少し時間がかかっているだけで、CBPによれば否定的な結果を意味しません。多くは72時間以内に結果が出るため、慌てて重複申請せず、落ち着いて待つのが正解です。万一に備えて、出発の3日前までに余裕をもって申請しておきましょう。</p>
+          <div class="info-box">
+            <h4>ESTA保留時のポイント</h4>
+            <ul>
+              <li>Pendingは「審査中」で否定的な結果ではない（CBP）</li>
+              <li>通常72時間以内に結果が判明</li>
+              <li>保留中の重複申請は避ける</li>
+              <li>確認は公式サイトの個人ステータスで</li>
+              <li>出発3日前までの申請で余裕を確保</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/usa-esta-check/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAの申請状況・承認確認の方法を解説</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-rejection/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAが拒否されたときの対応方法</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-application/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-about/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）とは？制度概要を解説</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-criminal-record/" style="color: #D4885A; text-decoration: underline;">犯罪歴があるとESTAは取れない？対応を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-validity/" style="color: #D4885A; text-decoration: underline;">ESTAの有効期限は何年？2年ルールを解説</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/usa-esta-application/">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/usa-esta-check/">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTAの申請状況・承認確認</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/usa-esta-rejection/">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTAが拒否されたときの対応</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"アメリカ\",\"item\":\"https://trips-now.com/usa-esta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ESTAが審査中・保留のとき\",\"item\":\"https://trips-now.com/usa-esta-pending/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

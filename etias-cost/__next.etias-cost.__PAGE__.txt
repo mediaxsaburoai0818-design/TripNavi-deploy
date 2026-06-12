@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T22fa,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/etias-about/">ETIAS</a> ＞ ETIAS申請費用・料金</div>
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/tripnavi-hero-a.jpg" alt="ヨーロッパ渡航" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="blue">渡航手続き</span>
+ <h1>ETIAS申請費用・料金｜20ユーロの申請料と無料対象者を徹底解説</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年05月02日</span>
+ </div>
+ <div class="content">
+
+<h2>ETIAS申請費用の概要</h2>
+<p>ETIAS（欧州渡航情報・認証システム）の申請費用は<strong>20ユーロ</strong>です。日本円に換算すると約3,400円程度（為替レートにより変動）。2025年7月にEU委任規則 (EU) 2025/1411 により、従来発表の7ユーロから20ユーロに改定されました（ETIAS運用開始時点から適用）。この費用は1回の申請につき発生し、承認されたETIASは3年間有効です。ETIASの概要については<a href="/etias-about/">ETIASとは</a>をご確認ください。</p>
+
+<h2>ETIAS申請料の詳細</h2>
+<figure class="wp-block-table">
+<table>
+<thead>
+<tr><th>項目</th><th>内容</th></tr>
+</thead>
+<tbody>
+<tr><td>申請料金</td><td>20ユーロ（約3,400円）</td></tr>
+<tr><td>通貨</td><td>ユーロ（EUR）建て</td></tr>
+<tr><td>有効期間</td><td>3年間（1回の支払いで3年分）</td></tr>
+<tr><td>1年あたりのコスト</td><td>約2.3ユーロ（約370円）</td></tr>
+<tr><td>返金</td><td>申請却下の場合でも返金なし</td></tr>
+</tbody>
+</table>
+</figure>
+
+<h2>申請料が無料になる対象者</h2>
+<p>以下に該当する方は、ETIAS申請料が<strong>免除（無料）</strong>されます。</p>
+<ul>
+<li><strong>18歳未満の方</strong>：未成年者は申請料が免除されます。子供連れの家族旅行の場合、大人の分のみ費用が発生します。</li>
+<li><strong>70歳を超える方</strong>：高齢者も申請料が免除されます。</li>
+<li><strong>EU加盟国の国民の家族</strong>：EU市民の配偶者や子供など、家族としての権利を持つ第三国国民は免除の対象です。</li>
+</ul>
+<p>年齢による免除は申請時点の年齢で判定されます。例えば、申請時に17歳であれば無料ですが、渡航時に18歳になっていても追加費用は発生しません。</p>
+
+<h2>他の電子渡航認証との費用比較</h2>
+<figure class="wp-block-table">
+<table>
+<thead>
+<tr><th>渡航認証</th><th>対象地域</th><th>申請費用</th><th>有効期限</th><th>1年あたりコスト</th></tr>
+</thead>
+<tbody>
+<tr><td>ETIAS</td><td>シェンゲン圏（30カ国）</td><td>20ユーロ（約3,400円）</td><td>3年間</td><td>約1,100円</td></tr>
+<tr><td>ESTA（アメリカ）</td><td>アメリカ合衆国</td><td>40.27米ドル（約6,100円）</td><td>2年間</td><td>約1,600円</td></tr>
+<tr><td>eTA（カナダ）</td><td>カナダ</td><td>7カナダドル（約780円）</td><td>5年間</td><td>約156円</td></tr>
+<tr><td>ETAS（オーストラリア）</td><td>オーストラリア</td><td>20豪ドル（約2,000円）</td><td>1年間</td><td>約2,000円</td></tr>
+<tr><td>UK-ETA（イギリス）</td><td>イギリス</td><td>10ポンド（約1,900円）</td><td>2年間</td><td>約950円</td></tr>
+</tbody>
+</table>
+</figure>
+<p>ETIASは30カ国に渡航可能でありながら、申請費用は他の制度と比較しても低い水準に設定されています。1年あたりのコストで見ると、カナダのeTAに次いで低コストです。各制度の比較は<a href="/etias-vs-esta/">ETIASとESTAの違い比較</a>もご参照ください。</p>
+
+<h2>支払い方法</h2>
+<p>ETIAS申請料の支払いは以下の方法に対応しています。</p>
+<ul>
+<li><strong>クレジットカード</strong>：Visa、Mastercard、American Express等の主要国際ブランドに対応</li>
+<li><strong>デビットカード</strong>：国際ブランド付きのデビットカード</li>
+</ul>
+<p>日本で発行されたクレジットカードであれば、ほとんどの場合問題なく利用できます。支払いはユーロ建てで処理され、カード会社の為替レートで日本円に換算されます。海外事務手数料（通常1.6〜2.2%程度）が別途かかる場合があります。</p>
+
+<h2>費用に関する注意点</h2>
+<ul>
+<li><strong>申請却下でも返金なし</strong>：ETIASの申請が却下された場合でも、申請料は返金されません。正確な情報で申請することが重要です。</li>
+<li><strong>再申請時は再度費用が発生</strong>：申請が却下されて再申請する場合、または有効期限が切れて再度申請する場合は、改めて20ユーロの費用が必要です。</li>
+<li><strong>非公式サイトに注意</strong>：ETIAS公式サイト以外の第三者サイトで申請すると、高額な代行手数料が上乗せされることがあります。必ず公式サイトまたは公式アプリから申請してください。</li>
+<li><strong>為替レートの変動</strong>：日本円での実際の支払い額は、為替レートによって変動します。</li>
+</ul>
+
+<h2>家族旅行の場合の費用計算例</h2>
+<p>家族でのヨーロッパ旅行を想定した費用例をご紹介します。</p>
+<figure class="wp-block-table">
+<table>
+<thead>
+<tr><th>家族構成</th><th>ETIAS費用</th><th>日本円換算（目安）</th></tr>
+</thead>
+<tbody>
+<tr><td>大人2名</td><td>40ユーロ</td><td>約6,800円</td></tr>
+<tr><td>大人2名＋子供2名（18歳未満）</td><td>40ユーロ（子供は無料）</td><td>約6,800円</td></tr>
+<tr><td>大人2名＋祖父母2名（70歳超）</td><td>40ユーロ（祖父母は無料）</td><td>約6,800円</td></tr>
+<tr><td>大人1名のみ</td><td>20ユーロ</td><td>約3,400円</td></tr>
+</tbody>
+</table>
+</figure>
+
+<h2>よくある質問（FAQ）</h2>
+<h3>Q. ETIASの20ユーロは1回の渡航につき必要ですか？</h3>
+<p>いいえ。20ユーロは1回の申請費用で、承認されたETIASは3年間有効です。有効期間中は何度でもシェンゲン圏に渡航できるため、複数回渡航する場合は非常にお得です。</p>
+
+<h3>Q. 申請料は将来的に値上げされる可能性がありますか？</h3>
+<p>2025年7月に従来発表の7ユーロから20ユーロへ改定されました（EU委任規則 2025/1411）。改定理由としてインフレ、運用コストの増加、他国の類似制度（ESTA等）との料金水準の整合が挙げられています。今後も運用状況により見直される可能性があります。</p>
+
+<h3>Q. PayPalや銀行振込で支払えますか？</h3>
+<p>現時点ではクレジットカードおよびデビットカードが主な支払い方法として予定されています。PayPalや銀行振込の対応については、運用開始時に確定する見込みです。</p>
+
+<h3>Q. 17歳で申請して18歳でヨーロッパに行く場合、費用は無料ですか？</h3>
+<p>はい。申請時点の年齢が18歳未満であれば無料です。渡航時に18歳になっていても追加の費用は発生しません。</p>
+
+<h3>Q. ETIASの費用にはクレジットカードの手数料が含まれていますか？</h3>
+<p>ETIAS申請料20ユーロにはカード手数料は含まれていません。カード会社によって海外事務手数料（1.6〜2.2%程度）が別途かかる場合があります。</p>
+
+ </div>
+ </article>
+
+      <section class="related-articles">
+ <h2 class="related-title">ETIAS関連記事</h2>
+ <div class="related-grid">
+ <a href="/etias-about/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1485081669829-bacb8c7bb1f3?w=300&h=180&fit=crop" alt="ETIASとは" />
+ <p>ETIASとは？EU渡航認証システムの概要</p>
+ </a>
+ <a href="/etias-application/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=300&h=180&fit=crop" alt="ETIAS申請" />
+ <p>ETIAS申請方法・手順ガイド</p>
+ </a>
+ <a href="/etias-vs-esta/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=300&h=180&fit=crop" alt="ETIASとESTA" />
+ <p>ETIASとESTAの違い比較</p>
+ </a>
+ <a href="/etias-japan/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=300&h=180&fit=crop" alt="日本人のETIAS" />
+ <p>日本人のETIAS申請ガイド</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

@@ -1,26 +1,26 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T3f2a,<div className="page-layout">
-    <main className="page-main">
-      <div className="breadcrumb">
-        <a href="index.html">ホーム</a> ＞ 
+2:T4ace,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞ 
         <a href="#uk">イギリス</a> ＞ 
         <a href="#visa-info">渡航ノウハウ</a> ＞ 
         イギリスETAの申請方法
       </div>
 
-      <article className="article-detail">
-        <span className="card-tag">イギリス渡航ノウハウ</span>
+      <article class="article-detail">
+        <span class="card-tag">イギリス渡航ノウハウ</span>
         <h1>イギリスETAとは？申請方法を解説【イギリス入国】</h1>
-        <div className="article-meta">
-          <span className="meta-date">更新日：2026年03月31日</span>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月31日</span>
         </div>
 
-        <div className="content">
+        <div class="content">
           
-          <div className="article-toc">
-            <h4 className="toc-title">📋 目次</h4>
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
             <nav>
               <ol>
                 <li><a href="#section1">イギリス入国に必要なETA（電子渡航認証）とは？</a>
@@ -50,11 +50,11 @@
           <h2 id="section1">イギリス入国に必要なETA（電子渡航認証）とは？</h2>
           <p><strong>イギリスETA</strong>は、ビザ免除国の国民がイギリスに入国する際に必要となる電子渡航認証です。アメリカのESTAや韓国のK-ETAと類似した制度で、短期観光、出張、乗り継ぎ目的の渡航者が対象です。</p>
 
-          <div className="info-box">
-            <h4>📌 イギリスETAの特徴</h4>
+          <div class="info-box">
+            <h4>イギリスETAの特徴</h4>
             <ul>
               <li><strong>導入日:</strong> 2025年1月8日（日本人対象）</li>
-              <li><strong>申請料金:</strong> 16ポンド（将来20ポンドへ引き上げ予定）</li>
+              <li><strong>申請料金:</strong> 20ポンド（従来の16ポンドから引き上げ。最新はGOV.UK公式で確認を）</li>
               <li><strong>有効期限:</strong> 承認日から2年間</li>
               <li><strong>対象:</strong> 6か月以内の短期観光・商用・乗り継ぎ</li>
               <li><strong>申請方法:</strong> 公式ウェブサイトまたはスマホアプリ「UK ETA」</li>
@@ -80,8 +80,8 @@
             <li>Permitted paid engagement</li>
           </ul>
 
-          <div className="warn-box">
-            <h4>⚠️ 重要</h4>
+          <div class="warn-box">
+            <h4>重要</h4>
             <p>子供・乳幼児も年齢不問で申請が必要です。</p>
           </div>
 
@@ -93,7 +93,7 @@
           </ul>
 
           <h3 id="section1-3">イギリスETAの申請料金</h3>
-          <p>申請料金は<strong>16ポンド</strong>です。将来的に<strong>20ポンド</strong>へ引き上げられる予定です。</p>
+          <p>申請料金は<strong>20ポンド</strong>です（従来の16ポンドから引き上げられました）。料金は段階的に改定されているため、最新の金額は必ずGOV.UK公式サイトでご確認ください。</p>
 
           <h3 id="section1-4">イギリスETAの申請から取得までかかる期間</h3>
           <p>通常、<strong>72時間以内</strong>に審査結果が通知されます。追加審査が必要な場合は、3日以上かかることもあります。</p>
@@ -111,13 +111,13 @@
             <li><strong>公式ウェブサイト:</strong> <a href="https://www.gov.uk/eta/apply" target="_blank">https://www.gov.uk/eta/apply</a></li>
             <li><strong>スマホアプリ「UK ETA」:</strong> iOS / Android対応</li>
           </ul>
-          <p>申請料金は<strong>16ポンド</strong>。支払いはクレジットカード、Apple Pay、Google Payが利用可能です。</p>
+          <p>申請料金は<strong>20ポンド</strong>。支払いはクレジットカード、Apple Pay、Google Payが利用可能です。</p>
 
           
           <h2 id="section3">イギリスETA申請に必要な書類・情報</h2>
           
-          <div className="info-box">
-            <h4>📋 必要な書類</h4>
+          <div class="info-box">
+            <h4>必要な書類</h4>
             <ul>
               <li><strong>パスポート</strong>（ICチップ付き、有効期限内）</li>
               <li><strong>顔写真データ</strong>（jpg/jpeg、3か月以内撮影、パスポート写真とは別。9歳以下は不要）</li>
@@ -126,8 +126,8 @@
             </ul>
           </div>
 
-          <div className="info-box">
-            <h4>📝 必要な情報</h4>
+          <div class="info-box">
+            <h4>必要な情報</h4>
             <ul>
               <li>パスポート情報（番号、氏名、国籍、生年月日、有効期限）</li>
               <li>個人情報（住所、電話番号、職業）</li>
@@ -165,7 +165,7 @@
           <p>氏名、パスポート番号などを最終確認します。</p>
 
           <h3>9. 申請料金の支払い</h3>
-          <p><strong>16ポンド</strong>をクレジットカード、Apple Pay、Google Payで支払います。</p>
+          <p><strong>20ポンド</strong>をクレジットカード、Apple Pay、Google Payで支払います。</p>
 
           <h3>10. 申請状況・審査結果の確認</h3>
           <p>通常72時間以内に審査結果がメールで届きます。<strong>「ETA application approved」</strong>と表示されれば承認完了です。</p>
@@ -173,8 +173,8 @@
           
           <h2 id="section5">イギリスETA申請時の注意点</h2>
           
-          <div className="warn-box">
-            <h4>⚠️ 4つの重要な注意点</h4>
+          <div class="warn-box">
+            <h4>4つの重要な注意点</h4>
 
             <p><strong>1. パスポート情報の入力ミス</strong></p>
             <p>ローマ字入力時のスペルミスに注意してください。却下された場合も返金はありません。</p>
@@ -192,22 +192,22 @@
           
           <h2 id="section6">よくある質問</h2>
 
-          <div className="faq-item">
+          <div class="faq-item">
             <h3>Q1: イギリスのETAは何日前から申請すればいいですか？</h3>
             <p><strong>A:</strong> 出発の<strong>1〜2週間前</strong>までに申請することを推奨します。通常72時間以内に結果が出ますが、繁忙期は遅延する可能性があります。却下された場合は再申請またはビザ取得が必要です。</p>
           </div>
 
-          <div className="faq-item">
+          <div class="faq-item">
             <h3>Q2: イギリスETAの取得方法は？</h3>
             <p><strong>A:</strong> 公式ウェブサイトまたはスマホアプリから申請します。ICチップ付きパスポートとクレジットカードを準備し、カメラでパスポートを読み取り、顔認証と写真撮影を行います。</p>
           </div>
 
-          <div className="faq-item">
+          <div class="faq-item">
             <h3>Q3: イギリス旅行にETAはいつから必要ですか？</h3>
             <p><strong>A:</strong> 日本国籍者は<strong>2025年1月8日以降</strong>、ETAの取得が必須となりました。6か月以内の観光、商用、乗り継ぎが対象です。ETA未取得の場合、搭乗拒否される可能性があります。</p>
           </div>
 
-          <div className="faq-item">
+          <div class="faq-item">
             <h3>Q4: イギリスのETAは誰が免除されますか？</h3>
             <p><strong>A:</strong> 以下の方は免除されます：</p>
             <ul>
@@ -219,15 +219,15 @@
 
           
           <h2 id="section7">まとめ</h2>
-          <p>イギリスETAは2025年1月8日より日本人に必須の電子渡航認証です。オンライン申請で、料金は<strong>16ポンド</strong>、有効期限は<strong>2年間</strong>です。6か月以内の短期観光、商用、乗り継ぎが対象です。</p>
+          <p>イギリスETAは2025年1月8日より日本人に必須の電子渡航認証です。オンライン申請で、料金は<strong>20ポンド</strong>、有効期限は<strong>2年間</strong>です。6か月以内の短期観光、商用、乗り継ぎが対象です。</p>
 
           <p>ETA未取得の場合、搭乗不可となる可能性があります。出発の<strong>1〜2週間前</strong>までに取得することを推奨します。</p>
 
-          <div className="info-box">
-            <h4>✅ イギリスETA申請のポイント</h4>
+          <div class="info-box">
+            <h4>イギリスETA申請のポイント</h4>
             <ul>
               <li>2025年1月8日より必須（日本人対象）</li>
-              <li>申請料金: 16ポンド</li>
+              <li>申請料金: 20ポンド</li>
               <li>有効期限: 2年間（複数回渡航可能）</li>
               <li>申請方法: 公式アプリ「UK ETA」またはウェブサイト</li>
               <li>申請推奨: 出発1〜2週間前</li>
@@ -238,76 +238,86 @@
         </div>
 
         
-        <div className="related-articles">
-          <h3 className="related-title">関連記事</h3>
-          <div className="related-grid">
-            <a href="usa-esta-application.html" className="related-card">
-              <div className="related-card-body">
-                <span className="related-card-tag">USA渡航ノウハウ</span>
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/usa-esta-application/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
                 <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
               </div>
             </a>
             
-            <a href="canada-eta-about.html" className="related-card">
-              <div className="related-card-body">
-                <span className="related-card-tag">カナダeTA</span>
+            <a href="/canada-eta-about/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">カナダeTA</span>
                 <h3>カナダの電子渡航認証eTA（イータ）とは</h3>
               </div>
             </a>
             
-            <a href="korea-keta-application.html" className="related-card">
-              <div className="related-card-body">
-                <span className="related-card-tag">韓国K-ETA</span>
+            <a href="/korea-keta-application/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">韓国K-ETA</span>
                 <h3>韓国K-ETAの申請方法を解説！</h3>
               </div>
             </a>
             
-            <a href="australia-etas-about.html" className="related-card">
-              <div className="related-card-body">
-                <span className="related-card-tag">オーストラリア</span>
+            <a href="/australia-etas-about/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">オーストラリア</span>
                 <h3>ETAS（イータス）とは - オーストラリア観光ビザ</h3>
               </div>
             </a>
           </div>
         </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-application/" style="color: #D4885A; text-decoration: underline;">K-ETA(電子旅行許可証)とは？申請方法や一時免除措置について解説【韓国旅行】</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/guam-eta-application/" style="color: #D4885A; text-decoration: underline;">グアム旅行に必要なGuam-CNMI ETAの申請方法について解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-vwp/" style="color: #D4885A; text-decoration: underline;">ビザ免除プログラム(VWP)とは？対象国・条件・ESTAとの違いを解説</a></li>
+          </ul>
+        </section>
+      <section style="margin-top:2rem;padding:1.5rem;background-color:#FFF8F3;border-radius:12px;border-left:4px solid #D4885A;"><h3 style="margin-top:0;color:#D4885A;font-size:1.1rem;">イギリスETAの関連記事</h3><ul style="list-style:none;padding:0;margin:0;"><li style="margin-bottom:0.5rem;"><a href="/uk-eta-about/" style="color:#D4885A;text-decoration:underline;">UK ETAとは？制度概要を解説</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-vs-visa/" style="color:#D4885A;text-decoration:underline;">UK ETAとビザの違い</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-validity/" style="color:#D4885A;text-decoration:underline;">UK ETAの有効期限は2年間</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-timing/" style="color:#D4885A;text-decoration:underline;">UK ETAはいつから申請？</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-smartphone/" style="color:#D4885A;text-decoration:underline;">スマホアプリでのUK ETA申請方法</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-check/" style="color:#D4885A;text-decoration:underline;">申請状況・審査結果の確認方法</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-pending/" style="color:#D4885A;text-decoration:underline;">審査中・保留のときの対処法</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-rejection/" style="color:#D4885A;text-decoration:underline;">却下・拒否されたら？原因と対応</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-renewal/" style="color:#D4885A;text-decoration:underline;">更新・再申請のやり方と注意点</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-criminal-record/" style="color:#D4885A;text-decoration:underline;">犯罪歴がある場合の注意点</a></li><li style="margin-bottom:0.5rem;"><a href="/uk-eta-transit/" style="color:#D4885A;text-decoration:underline;">乗り継ぎ・トランジットで必要？</a></li></ul></section>
       </article>
     </main>
 
     
-    <aside className="sidebar">
-      <div className="sidebar-section">
-        <h3 className="sidebar-title">人気記事ランキング</h3>
-        <ol className="sidebar-ranking">
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
           <li>
-            <a href="canada-eta-about.html">
-              <span className="rank-num">1</span>
-              <div className="rank-info">
-                <span className="rank-tag">カナダeTA</span>
-                <div className="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+            <a href="/canada-eta-about/">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">カナダeTA</span>
+                <div class="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
               </div>
             </a>
           </li>
           <li>
-            <a href="australia-etas-about.html">
-              <span className="rank-num">2</span>
-              <div className="rank-info">
-                <span className="rank-tag">オーストラリア</span>
-                <div className="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+            <a href="/australia-etas-about/">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">オーストラリア</span>
+                <div class="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
               </div>
             </a>
           </li>
           <li>
-            <a href="usa-esta-application.html">
-              <span className="rank-num">3</span>
-              <div className="rank-info">
-                <span className="rank-tag">USA ESTA</span>
-                <div className="rank-title">ESTA（エスタ）の申請方法を解説</div>
+            <a href="/usa-esta-application/">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
               </div>
             </a>
           </li>
         </ol>
       </div>
     </aside>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

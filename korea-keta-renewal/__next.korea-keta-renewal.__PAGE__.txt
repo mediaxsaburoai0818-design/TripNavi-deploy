@@ -1,0 +1,159 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T804,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"K-ETAは更新できますか？","acceptedAnswer":{"@type":"Answer","text":"K-ETAに既存の認証を「延長更新」する仕組みはありません。有効期限が切れた場合や登録情報が変わった場合は、あらためて新規でK-ETAを申請（再申請）します。"}},{"@type":"Question","name":"パスポートを更新したらK-ETAも取り直しが必要ですか？","acceptedAnswer":{"@type":"Answer","text":"はい。K-ETAはパスポート情報と紐づいているため、パスポートを新しくした場合は、有効なK-ETAが残っていても再申請が必要です。"}},{"@type":"Question","name":"有効期限が切れたK-ETAはどうすればよいですか？","acceptedAnswer":{"@type":"Answer","text":"有効期限を過ぎたK-ETAは使えません。再度渡航する場合は、新たにK-ETAを申請してください。料金は再申請のたびに発生します。"}},{"@type":"Question","name":"入力を間違えた場合、修正できますか？","acceptedAnswer":{"@type":"Answer","text":"審査開始後は登録内容を修正できません。姓名・パスポート番号・生年月日など重要項目に誤りがある場合は、正しい情報であらためて申請し直す必要があります。"}},{"@type":"Question","name":"再申請のときも料金はかかりますか？","acceptedAnswer":{"@type":"Answer","text":"かかります。再申請は新規申請と同じ扱いのため、そのたびに申請手数料（₩10,000＋決済手数料、合計₩10,300前後）が必要です。"}},{"@type":"Question","name":"同じ内容で何度も再申請できますか？","acceptedAnswer":{"@type":"Answer","text":"一定期間内に複数回不承認となった場合、その後の一定期間は再申請が制限されることがあります。不承認の理由を確認せず同じ内容で繰り返し申請することは避けましょう。"}}]}3:T334e,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/korea-keta-application/">韓国 K-ETA</a> ＞
+        更新・再申請
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>K-ETAの更新・再申請が必要なケースと手順【韓国旅行】</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">K-ETAに「更新」はある？</a></li>
+                <li><a href="#section2">再申請が必要になる主なケース</a>
+                  <ul>
+                    <li><a href="#section2-1">有効期限が切れたとき</a></li>
+                    <li><a href="#section2-2">パスポートを更新したとき</a></li>
+                    <li><a href="#section2-3">氏名・国籍が変わったとき</a></li>
+                    <li><a href="#section2-4">入力を間違えたとき</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section3">再申請の手順</a></li>
+                <li><a href="#section4">再申請時の注意点</a></li>
+                <li><a href="#section5">よくある質問</a></li>
+                <li><a href="#section6">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>「前に取ったK-ETAをそのまま使える？」「パスポートを新しくしたけど更新が必要？」——韓国へ再訪する方からよくある疑問です。この記事では、<strong>K-ETAの更新・再申請が必要になるケースと手順</strong>を整理します。</p>
+
+          <h2 id="section1">K-ETAに「更新」はある？</h2>
+          <p>結論から言うと、K-ETAには既存の認証を延長する「更新」という仕組みはありません。有効期限が切れたり、登録情報が変わったりした場合は、<strong>あらためて新規で申請（再申請）</strong>します。一般的に言う「更新」も、実態は新規の再申請にあたります。</p>
+
+          <div class="info-box">
+            <h4>ここがポイント</h4>
+            <ul>
+              <li>K-ETAは延長更新できない（その都度、新規申請）</li>
+              <li>再申請のたびに申請手数料が発生する</li>
+              <li>有効期限内かつ情報に変更がなければ、同じK-ETAで複数回渡航できる</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">再申請が必要になる主なケース</h2>
+
+          <h3 id="section2-1">有効期限が切れたとき</h3>
+          <p>K-ETAの有効期限は、2023年7月3日以降の取得分で承認日から3年間です。期限を過ぎると使えなくなるため、再度渡航する場合は新規申請が必要です。有効期限の確認方法は、有効期限の解説ページもあわせてご覧ください。</p>
+
+          <h3 id="section2-2">パスポートを更新したとき</h3>
+          <p>K-ETAはパスポート情報に紐づいています。<strong>パスポートを新しくした場合は、有効なK-ETAが残っていても再申請が必要</strong>です。新旧パスポートで番号が変わるため、古いK-ETAは新しいパスポートに引き継げません。</p>
+
+          <div class="warn-box">
+            <h4>パスポート切替に注意</h4>
+            <p>残存期間不足でパスポートを切り替えた直後は、K-ETAの取り直しを忘れがちです。渡航前に「いま手元のパスポートに対応した有効なK-ETAがあるか」を必ず確認しましょう。</p>
+          </div>
+
+          <h3 id="section2-3">氏名・国籍が変わったとき</h3>
+          <p>結婚などで氏名が変わった場合や、国籍が変わった場合も、登録情報が実態と異なるため再申請が必要です。これらの項目は申請後に修正できません。</p>
+
+          <h3 id="section2-4">入力を間違えたとき</h3>
+          <p>姓名のスペル、パスポート番号、生年月日などに誤りがあると、入国時にトラブルになる可能性があります。審査開始後は修正できないため、誤りに気づいたら正しい情報で再申請してください。</p>
+
+          <h2 id="section3">再申請の手順</h2>
+          <p>再申請は、基本的に新規申請と同じ流れで行います。</p>
+          <ul>
+            <li><strong>1.</strong> K-ETA公式サイト（www.k-eta.go.kr）または公式アプリにアクセスする</li>
+            <li><strong>2.</strong> 「K-ETAを申請する」を選び、利用規約に同意する</li>
+            <li><strong>3.</strong> メール認証を行う（非会員の場合）</li>
+            <li><strong>4.</strong> 最新のパスポート情報を正確に入力する</li>
+            <li><strong>5.</strong> 連絡先・渡航情報・滞在先などを入力する</li>
+            <li><strong>6.</strong> 規定に沿った顔写真をアップロードする</li>
+            <li><strong>7.</strong> 内容を確認し、申請手数料を決済する</li>
+            <li><strong>8.</strong> 受付完了後、結果照会で承認を確認する</li>
+          </ul>
+
+          <div class="info-box">
+            <h4>申請窓口は公式のみ</h4>
+            <p>再申請も必ず公式サイト（www.k-eta.go.kr）または公式アプリ「K-ETA」から行ってください。非公式の代行サイトは追加手数料が発生することがあります。</p>
+          </div>
+
+          <h2 id="section4">再申請時の注意点</h2>
+          <div class="warn-box">
+            <h4>再申請で気をつけたいこと</h4>
+            <p><strong>1. 料金は毎回発生:</strong> 再申請は新規扱いのため、そのたびに手数料がかかります。</p>
+            <p><strong>2. 修正は不可:</strong> 審査開始後は内容を変更できません。決済前に入力内容をよく確認しましょう。</p>
+            <p><strong>3. 連続不承認の制限:</strong> 一定期間内に複数回不承認になると、その後一定期間は再申請が制限される場合があります。</p>
+            <p><strong>4. 余裕をもって:</strong> 審査は通常72時間以内ですが、出発直前の再申請は避け、数日前までに済ませましょう。</p>
+          </div>
+
+          <p>なお、現在は一時免除措置により、日本を含む対象国・地域の国民は2026年12月31日までK-ETAなしで入国できます。再申請の前に、そもそもK-ETAが必要な時期・目的かどうかを公式サイトで確認すると無駄がありません。免除期間は変動するため、最新情報の確認をおすすめします。</p>
+
+          <h2 id="section5">よくある質問</h2>
+          <div class="faq-item"><h3>Q: K-ETAは更新できますか？</h3><p><strong>A:</strong> K-ETAに既存の認証を「延長更新」する仕組みはありません。有効期限が切れた場合や登録情報が変わった場合は、あらためて新規でK-ETAを申請（再申請）します。</p></div>
+          <div class="faq-item"><h3>Q: パスポートを更新したらK-ETAも取り直しが必要ですか？</h3><p><strong>A:</strong> はい。K-ETAはパスポート情報と紐づいているため、パスポートを新しくした場合は、有効なK-ETAが残っていても再申請が必要です。</p></div>
+          <div class="faq-item"><h3>Q: 有効期限が切れたK-ETAはどうすればよいですか？</h3><p><strong>A:</strong> 有効期限を過ぎたK-ETAは使えません。再度渡航する場合は、新たにK-ETAを申請してください。料金は再申請のたびに発生します。</p></div>
+          <div class="faq-item"><h3>Q: 入力を間違えた場合、修正できますか？</h3><p><strong>A:</strong> 審査開始後は登録内容を修正できません。姓名・パスポート番号・生年月日など重要項目に誤りがある場合は、正しい情報であらためて申請し直す必要があります。</p></div>
+          <div class="faq-item"><h3>Q: 再申請のときも料金はかかりますか？</h3><p><strong>A:</strong> かかります。再申請は新規申請と同じ扱いのため、そのたびに申請手数料（₩10,000＋決済手数料、合計₩10,300前後）が必要です。</p></div>
+          <div class="faq-item"><h3>Q: 同じ内容で何度も再申請できますか？</h3><p><strong>A:</strong> 一定期間内に複数回不承認となった場合、その後の一定期間は再申請が制限されることがあります。不承認の理由を確認せず同じ内容で繰り返し申請することは避けましょう。</p></div>
+
+          <h2 id="section6">まとめ</h2>
+          <p>K-ETAに延長更新の仕組みはなく、<strong>有効期限切れ・パスポート更新・氏名や国籍の変更・入力ミス</strong>があった場合は、新規で再申請します。再申請のたびに手数料（₩10,300前後）が発生し、審査開始後は内容を修正できません。</p>
+          <p>渡航前には、手元のパスポートに対応した有効なK-ETAがあるかを確認し、必要なら早めに再申請しておきましょう。料金・有効期限・免除状況の最新情報はK-ETA公式サイトでご確認ください。</p>
+
+          <div class="info-box">
+            <h4>更新・再申請のポイント</h4>
+            <ul>
+              <li>延長更新はなく、毎回が新規の再申請</li>
+              <li>パスポート更新・氏名/国籍変更・入力ミスで再申請が必要</li>
+              <li>料金は再申請のたびに発生</li>
+              <li>申請は必ず公式窓口から、出発の数日前までに</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-validity/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAの有効期限はいつまで？</h3></div></a>
+            <a href="/korea-keta-application/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAの申請方法を解説</h3></div></a>
+            <a href="/korea-keta-rejection/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAが却下された場合の対処法</h3></div></a>
+            <a href="/korea-keta-check/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>申請状況・結果を確認する方法</h3></div></a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">韓国K-ETAの関連記事</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-about/" style="color: #D4885A; text-decoration: underline;">K-ETAとは？制度の概要</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-criminal-record/" style="color: #D4885A; text-decoration: underline;">犯罪歴がある場合のK-ETA申請</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-smartphone/" style="color: #D4885A; text-decoration: underline;">スマホ・アプリでのK-ETA申請方法</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">韓国K-ETA 記事一覧</h3>
+        <ol class="sidebar-ranking">
+          <li><a href="/korea-keta-application/"><span class="rank-num">1</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">K-ETAの申請方法</div></div></a></li>
+          <li><a href="/korea-keta-validity/"><span class="rank-num">2</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">K-ETAの有効期限</div></div></a></li>
+          <li><a href="/korea-keta-rejection/"><span class="rank-num">3</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">却下された場合</div></div></a></li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"韓国 K-ETA\",\"item\":\"https://trips-now.com/korea-keta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"K-ETAの更新・再申請\",\"item\":\"https://trips-now.com/korea-keta-renewal/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

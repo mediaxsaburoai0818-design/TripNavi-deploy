@@ -1,0 +1,124 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T7ca,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"イギリスで乗り継ぎするだけでもUK ETAは必要ですか？","acceptedAnswer":{"@type":"Answer","text":"入国審査（border control）を通過する乗り継ぎの場合はUK ETAが必要です。一方、入国審査を通過しない「エアサイド」乗り継ぎの場合は、ETAは不要です。"}},{"@type":"Question","name":"エアサイド乗り継ぎとは何ですか？","acceptedAnswer":{"@type":"Answer","text":"入国審査を通過せず、空港の制限エリア内で乗り継ぐことを指します。GOV.UK公式によると、エアサイド乗り継ぎの場合はUK ETAは必要ありません。"}},{"@type":"Question","name":"自分が入国審査を通過するかどうか分からないときは？","acceptedAnswer":{"@type":"Answer","text":"GOV.UK公式は、入国審査を通過するか不明な場合は航空会社に確認するよう案内しています。"}},{"@type":"Question","name":"荷物を一度受け取る乗り継ぎはETAが必要ですか？","acceptedAnswer":{"@type":"Answer","text":"入国審査を通過する形になる場合はETAが必要です。乗り継ぎの形態は便や空港によって異なるため、航空会社に確認してください。"}},{"@type":"Question","name":"トランジットビザとETAは違いますか？","acceptedAnswer":{"@type":"Answer","text":"はい。国籍や状況によってはトランジットビザが必要なケースもあり、ETAとは別の制度です。自分にどれが必要かはGOV.UK公式でご確認ください。"}},{"@type":"Question","name":"ETAが必要な乗り継ぎで取得を忘れるとどうなりますか？","acceptedAnswer":{"@type":"Answer","text":"必要なETAを取得していないと、搭乗を拒否される可能性があります。乗り継ぎでも事前に要否を確認し、必要なら取得しておきましょう。"}}]}3:T2660,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/uk-eta-application/">イギリス</a> ＞
+        乗り継ぎ・トランジットでのUK ETA
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">イギリス渡航ノウハウ</span>
+        <h1>乗り継ぎ・トランジットでUK ETAは必要？要否を解説</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">乗り継ぎでのUK ETA要否は「入国審査を通過するか」で決まる</a></li>
+                <li><a href="#section2">ETAが必要なケース・不要なケース</a>
+                  <ul>
+                    <li><a href="#section2-1">入国審査を通過する乗り継ぎ</a></li>
+                    <li><a href="#section2-2">エアサイド乗り継ぎ</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section3">判断に迷ったら航空会社に確認</a></li>
+                <li><a href="#section4">トランジットビザとの違い</a></li>
+                <li><a href="#section5">よくある質問</a></li>
+                <li><a href="#section6">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>イギリスを経由して別の国へ向かう「乗り継ぎ（トランジット）」の場合、UK ETAが必要かどうかは渡航計画を立てるうえで重要なポイントです。この記事では、GOV.UK（英国政府公式）の情報をもとに、乗り継ぎでのUK ETAの要否を整理します。</p>
+
+          <h2 id="section1">乗り継ぎでのUK ETA要否は「入国審査を通過するか」で決まる</h2>
+          <p>結論から言うと、乗り継ぎでUK ETAが必要かどうかは<strong>「イギリスの入国審査（border control）を通過するかどうか」</strong>で決まります。入国審査を通過する乗り継ぎなら必要、通過しないエアサイド乗り継ぎなら不要、というのが基本的な考え方です。</p>
+
+          <div class="info-box">
+            <h4>要否の基本</h4>
+            <ul>
+              <li>入国審査を通過する乗り継ぎ → <strong>ETAが必要</strong></li>
+              <li>入国審査を通過しないエアサイド乗り継ぎ → <strong>ETAは不要</strong></li>
+            </ul>
+          </div>
+
+          <h2 id="section2">ETAが必要なケース・不要なケース</h2>
+
+          <h3 id="section2-1">入国審査を通過する乗り継ぎ</h3>
+          <p>乗り継ぎの際にイギリスの入国審査を通過する場合（一度入国手続きをする形になる場合）は、<strong>UK ETAが必要</strong>です。たとえば、ターミナルの移動や手続きの都合で入国審査を経由する乗り継ぎなどが該当し得ます。</p>
+
+          <h3 id="section2-2">エアサイド乗り継ぎ</h3>
+          <p>入国審査を通過せず、空港の制限エリア（エアサイド）内だけで乗り継ぐ場合は、<strong>UK ETAは必要ありません</strong>。GOV.UK公式も、エアサイド乗り継ぎではETAが不要であるとしています。</p>
+
+          <h2 id="section3">判断に迷ったら航空会社に確認</h2>
+          <div class="warn-box">
+            <h4>自分の乗り継ぎがどちらか分からないとき</h4>
+            <p>自分の乗り継ぎが入国審査を通過するものかどうか分からない場合、GOV.UK公式は<strong>航空会社に確認する</strong>よう案内しています。同じ空港でも、便や経路によって入国審査の有無が変わることがあるため、事前に確認しておくと安心です。</p>
+          </div>
+          <p>必要なETAを取得していないと搭乗を拒否される可能性があるため、「念のため確認する」ことが大切です。</p>
+
+          <h2 id="section4">トランジットビザとの違い</h2>
+          <p>イギリスには、国籍や状況に応じて必要となる「トランジットビザ」という別の制度もあります。ETAとトランジットビザは別物で、自分にどれが必要かは国籍や乗り継ぎの形態によって異なります。<strong>正確な要否は必ずGOV.UK公式でご確認ください。</strong></p>
+
+          <h2 id="section5">よくある質問</h2>
+          <div class="faq-item"><h3>Q1: 乗り継ぎだけでもETAは必要？</h3><p><strong>A:</strong> 入国審査を通過する乗り継ぎなら必要、通過しないエアサイド乗り継ぎなら不要です。</p></div>
+          <div class="faq-item"><h3>Q2: エアサイド乗り継ぎとは？</h3><p><strong>A:</strong> 入国審査を通過せず制限エリア内で乗り継ぐことです。この場合ETAは不要です。</p></div>
+          <div class="faq-item"><h3>Q3: 入国審査を通過するか分からない場合は？</h3><p><strong>A:</strong> 航空会社に確認するよう公式が案内しています。</p></div>
+          <div class="faq-item"><h3>Q4: 荷物を受け取る乗り継ぎは必要？</h3><p><strong>A:</strong> 入国審査を通過する形になる場合は必要です。乗り継ぎ形態は便・空港で異なるため航空会社に確認を。</p></div>
+          <div class="faq-item"><h3>Q5: トランジットビザとETAは違う？</h3><p><strong>A:</strong> 違います。状況によってはトランジットビザが必要なこともあります。要否は公式でご確認ください。</p></div>
+          <div class="faq-item"><h3>Q6: 必要なのに取得を忘れたら？</h3><p><strong>A:</strong> 搭乗を拒否される可能性があります。乗り継ぎでも事前に要否を確認しましょう。</p></div>
+
+          <h2 id="section6">まとめ</h2>
+          <p>乗り継ぎでのUK ETAの要否は「イギリスの入国審査を通過するかどうか」で決まります。入国審査を通過する場合は必要、エアサイド乗り継ぎの場合は不要です。判断に迷う場合は航空会社に確認しましょう。トランジットビザはETAとは別の制度なので、正確な要否は必ずGOV.UK公式でご確認ください。</p>
+          <div class="info-box">
+            <h4>乗り継ぎでの要否ポイント</h4>
+            <ul>
+              <li>入国審査を通過する乗り継ぎ → ETA必要</li>
+              <li>エアサイド乗り継ぎ → ETA不要</li>
+              <li>分からなければ航空会社に確認</li>
+              <li>トランジットビザは別制度・公式で確認</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/uk-eta-about/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAとは？制度概要を解説</h3></div></a>
+            <a href="/uk-eta-vs-visa/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAとビザの違い</h3></div></a>
+            <a href="/uk-eta-timing/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETA申請のタイミング</h3></div></a>
+            <a href="/uk-eta-application/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>イギリスETAの申請方法</h3></div></a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">UK ETA関連記事</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-check/" style="color: #D4885A; text-decoration: underline;">UK ETAの申請状況・審査結果の確認方法</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-validity/" style="color: #D4885A; text-decoration: underline;">UK ETAの有効期限</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-smartphone/" style="color: #D4885A; text-decoration: underline;">スマホアプリでのUK ETA申請方法</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">UK ETA関連記事</h3>
+        <ol class="sidebar-ranking">
+          <li><a href="/uk-eta-application/"><span class="rank-num">1</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">イギリスETAの申請方法</div></div></a></li>
+          <li><a href="/uk-eta-about/"><span class="rank-num">2</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">UK ETAとは</div></div></a></li>
+          <li><a href="/uk-eta-vs-visa/"><span class="rank-num">3</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">UK ETAとビザの違い</div></div></a></li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"イギリス\",\"item\":\"https://trips-now.com/uk-eta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"乗り継ぎ・トランジットでのUK ETA\",\"item\":\"https://trips-now.com/uk-eta-transit/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

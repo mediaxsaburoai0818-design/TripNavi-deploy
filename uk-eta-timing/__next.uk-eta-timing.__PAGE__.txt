@@ -1,0 +1,125 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T7d4,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"UK ETAはいつから申請できますか？","acceptedAnswer":{"@type":"Answer","text":"渡航日が決まったら早めに申請できます。審査に最長3営業日かかることを踏まえ、渡航直前ではなく余裕を持って申請するのがおすすめです。"}},{"@type":"Question","name":"UK ETAは何日前までに申請すればいいですか？","acceptedAnswer":{"@type":"Answer","text":"審査は通常1日程度、最長3営業日が目安です。週末・祝日を考慮し、少なくとも数日〜1週間程度の余裕を持って申請すると安心です。"}},{"@type":"Question","name":"出発当日でもUK ETAは間に合いますか？","acceptedAnswer":{"@type":"Answer","text":"通常は早く結果が出ますが、最長3営業日かかることがあるため当日申請は推奨されません。ETA取得を確認するメールを受け取る前に渡航してはいけません。"}},{"@type":"Question","name":"早く申請しすぎても問題ありませんか？","acceptedAnswer":{"@type":"Answer","text":"ETAには有効期間（2年間またはパスポート失効まで）があるため、極端に早く取得すると渡航時に期限切れになる可能性があります。有効期間と渡航日の関係を確認しましょう。"}},{"@type":"Question","name":"航空券を取る前にUK ETAを取得すべきですか？","acceptedAnswer":{"@type":"Answer","text":"ETAは入国を保証しないため、申請の順序は個人の判断によります。一般的には渡航計画が固まってから申請する人が多いです。"}},{"@type":"Question","name":"繁忙期は早めに申請したほうがいいですか？","acceptedAnswer":{"@type":"Answer","text":"はい。申請が混み合う時期は結果まで時間がかかることがあるため、いつも以上に早めの申請をおすすめします。"}}]}3:T27a0,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/uk-eta-application/">イギリス</a> ＞
+        UK ETA申請のタイミング
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">イギリス渡航ノウハウ</span>
+        <h1>UK ETAはいつから申請？タイミングの目安を解説</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">UK ETA申請のタイミングの基本</a></li>
+                <li><a href="#section2">審査時間を踏まえた申請時期の目安</a>
+                  <ul>
+                    <li><a href="#section2-1">週末・祝日に注意</a></li>
+                    <li><a href="#section2-2">繁忙期はさらに早めに</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section3">直前申請のリスク</a></li>
+                <li><a href="#section4">早く申請しすぎる場合の注意</a></li>
+                <li><a href="#section5">よくある質問</a></li>
+                <li><a href="#section6">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>UK ETAは「いつ申請すればいいのか」を知っておくと、渡航直前で慌てずに済みます。この記事では、GOV.UK（英国政府公式）の情報をもとに、UK ETA申請のタイミングの目安を整理します。</p>
+
+          <h2 id="section1">UK ETA申請のタイミングの基本</h2>
+          <p>UK ETAは、<strong>渡航日が決まったら早めに申請する</strong>のが基本です。審査には最長3営業日かかることがあるため、渡航直前ではなく、余裕を持って手続きしておくと安心です。多くの場合は1日程度で結果が出ますが、「早く出ることも、時間がかかることもある」前提で動くのが安全です。</p>
+
+          <h2 id="section2">審査時間を踏まえた申請時期の目安</h2>
+          <p>GOV.UK公式によると、結果は通常1日程度、最長で3営業日（月〜金）が目安です。これを踏まえると、<strong>少なくとも数日〜1週間程度の余裕</strong>を持って申請しておくとよいでしょう。</p>
+          <div class="info-box">
+            <h4>申請時期の目安</h4>
+            <ul>
+              <li>渡航日が決まったら早めに申請</li>
+              <li>審査は通常1日程度、最長3営業日</li>
+              <li>数日〜1週間程度の余裕を持つと安心</li>
+            </ul>
+          </div>
+
+          <h3 id="section2-1">週末・祝日に注意</h3>
+          <p>審査時間の「3営業日」は<strong>月〜金</strong>でカウントされます。金曜の夜や週末・祝日をはさんで申請すると、結果が出るまで実際のカレンダー上では長く感じられることがあります。出発日が週明けなどの場合は、特に早めの申請を心がけましょう。</p>
+
+          <h3 id="section2-2">繁忙期はさらに早めに</h3>
+          <p>申請が混み合う時期は、結果が出るまで時間がかかることがあります。長期休暇シーズンなどに渡航する場合は、いつも以上に早めの申請をおすすめします。</p>
+
+          <h2 id="section3">直前申請のリスク</h2>
+          <div class="warn-box">
+            <h4>渡航直前・当日の申請は避ける</h4>
+            <p>通常は早く結果が出ますが、最長3営業日かかる可能性があるため、出発当日や直前の申請は推奨されません。<strong>ETA取得を確認するメールを受け取る前に渡航してはいけません。</strong>結果が間に合わないと、搭乗を拒否される可能性があります。</p>
+          </div>
+          <p>万一、申請後に結果が届かない場合の対処は<a href="/uk-eta-pending/">審査中・保留のときの対処の記事</a>をご確認ください。</p>
+
+          <h2 id="section4">早く申請しすぎる場合の注意</h2>
+          <p>一方で、極端に早く取得すると別の注意点があります。ETAには<strong>有効期間（承認から2年間、またはパスポート失効まで）</strong>があるため、渡航がかなり先の場合は、渡航時点で有効期限が切れていないか確認が必要です。有効期間の詳細は<a href="/uk-eta-validity/">有効期限の記事</a>をご覧ください。</p>
+
+          <h2 id="section5">よくある質問</h2>
+          <div class="faq-item"><h3>Q1: いつから申請できる？</h3><p><strong>A:</strong> 渡航日が決まったら早めに申請できます。最長3営業日の審査を踏まえ余裕を持って申請しましょう。</p></div>
+          <div class="faq-item"><h3>Q2: 何日前までに申請すべき？</h3><p><strong>A:</strong> 週末・祝日を考慮し、少なくとも数日〜1週間程度の余裕を持つと安心です。</p></div>
+          <div class="faq-item"><h3>Q3: 当日でも間に合う？</h3><p><strong>A:</strong> 最長3営業日かかることがあるため当日申請は推奨されません。確認メールを受け取る前に渡航しないでください。</p></div>
+          <div class="faq-item"><h3>Q4: 早く申請しすぎても問題ない？</h3><p><strong>A:</strong> 有効期間（2年間またはパスポート失効まで）があるため、渡航時に期限切れにならないか確認しましょう。</p></div>
+          <div class="faq-item"><h3>Q5: 航空券の前に取得すべき？</h3><p><strong>A:</strong> ETAは入国を保証しないため順序は個人の判断です。渡航計画が固まってから申請する人が多いです。</p></div>
+          <div class="faq-item"><h3>Q6: 繁忙期は早めがいい？</h3><p><strong>A:</strong> はい。混み合う時期は時間がかかることがあるため、いつも以上に早めの申請をおすすめします。</p></div>
+
+          <h2 id="section6">まとめ</h2>
+          <p>UK ETAは渡航日が決まったら早めに申請するのが基本です。審査は通常1日程度、最長3営業日（月〜金）が目安なので、週末・祝日や繁忙期を考慮し、数日〜1週間程度の余裕を持ちましょう。直前・当日の申請は避け、確認メールを受け取る前の渡航はしないこと。一方で極端に早すぎる取得は有効期限切れに注意が必要です。</p>
+          <div class="info-box">
+            <h4>申請タイミングのポイント</h4>
+            <ul>
+              <li>渡航日が決まったら早めに申請</li>
+              <li>最長3営業日（月〜金）を見込む</li>
+              <li>直前・当日申請は避ける</li>
+              <li>早すぎる取得は有効期限切れに注意</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/uk-eta-pending/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAが審査中・保留のときの対処</h3></div></a>
+            <a href="/uk-eta-validity/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAの有効期限</h3></div></a>
+            <a href="/uk-eta-check/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAの申請状況・審査結果の確認方法</h3></div></a>
+            <a href="/uk-eta-about/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAとは？制度概要を解説</h3></div></a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">UK ETA関連記事</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-application/" style="color: #D4885A; text-decoration: underline;">イギリスETAとは？申請方法を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-smartphone/" style="color: #D4885A; text-decoration: underline;">スマホアプリでのUK ETA申請方法</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-transit/" style="color: #D4885A; text-decoration: underline;">乗り継ぎ・トランジットでUK ETAは必要？</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">UK ETA関連記事</h3>
+        <ol class="sidebar-ranking">
+          <li><a href="/uk-eta-application/"><span class="rank-num">1</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">イギリスETAの申請方法</div></div></a></li>
+          <li><a href="/uk-eta-pending/"><span class="rank-num">2</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">審査中・保留の対処</div></div></a></li>
+          <li><a href="/uk-eta-validity/"><span class="rank-num">3</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">UK ETAの有効期限</div></div></a></li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"イギリス\",\"item\":\"https://trips-now.com/uk-eta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UK ETA申請のタイミング\",\"item\":\"https://trips-now.com/uk-eta-timing/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

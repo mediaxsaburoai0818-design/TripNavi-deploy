@@ -1,0 +1,217 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T820,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ESTAの有効期限は何年ですか？","acceptedAnswer":{"@type":"Answer","text":"CBP公式情報によると、承認されたESTAは原則として承認日から2年間有効です。ただしパスポートの有効期限が2年より先に来る場合は、パスポート失効日が有効期限となります。"}},{"@type":"Question","name":"有効期限内なら何回でもアメリカに行けますか？","acceptedAnswer":{"@type":"Answer","text":"はい。ESTAは有効期間内であれば、何度でも渡航できます。ただし1回あたりの滞在は最大90日までです。"}},{"@type":"Question","name":"パスポートを更新したらESTAはどうなりますか？","acceptedAnswer":{"@type":"Answer","text":"CBPによれば、新しいパスポートを取得した場合は、その新しいパスポートで新たにESTAを申請する必要があります。旧パスポートに紐づくESTAは新パスポートでは使えません。"}},{"@type":"Question","name":"滞在中に有効期限が切れたらどうなりますか？","acceptedAnswer":{"@type":"Answer","text":"入国時にESTAが有効であれば、滞在中に有効期限が切れても、許可された滞在期間（最大90日）まで滞在を続けることができます。重要なのは入国時点で有効であることです。"}},{"@type":"Question","name":"有効期限はどこで確認できますか？","acceptedAnswer":{"@type":"Answer","text":"公式サイト（esta.cbp.dhs.gov）で個人ステータスを確認すると、承認状況とともに有効期限が表示されます。出発前に確認しておくと安心です。"}},{"@type":"Question","name":"有効期限が切れたら更新できますか？","acceptedAnswer":{"@type":"Answer","text":"ESTAに更新（延長）機能はありません。有効期限が切れた場合は、新たに申請し直す必要があり、その際にあらためて手数料がかかります。"}}]}3:T3696,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/usa-esta-application/">アメリカ</a> ＞
+        ESTAの有効期限
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>ESTAの有効期限は何年？2年ルールとパスポート失効の関係を解説</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">ESTAの有効期限は原則2年</a>
+                  <ul>
+                    <li><a href="#section1-1">パスポート失効が優先されるケース</a></li>
+                    <li><a href="#section1-2">具体例で見る有効期限</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section2">1回の滞在は最大90日</a></li>
+                <li><a href="#section3">有効期限と「入国時点」の重要性</a></li>
+                <li><a href="#section4">有効期限が変わる・無効になるケース</a></li>
+                <li><a href="#section5">有効期限が切れたときの対応</a></li>
+                <li><a href="#section6">有効期限の確認方法</a></li>
+                <li><a href="#section7">よくある質問</a></li>
+                <li><a href="#section8">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>「ESTAは一度取れば何年使えるの？」という疑問は、アメリカへ繰り返し渡航する方にとって特に気になるポイントです。この記事では、ESTAの<strong>有効期限</strong>に焦点を当て、原則2年というルールと、パスポート失効との関係、1回の滞在上限について、米国CBP公式情報をもとに整理します。</p>
+
+          <h2 id="section1">ESTAの有効期限は原則2年</h2>
+          <p>米国CBPの公式情報によると、承認されたESTAは<strong>承認日から原則2年間</strong>有効です。この期間内であれば、ESTAを取り直すことなく、複数回アメリカへ渡航できます。</p>
+
+          <h3 id="section1-1">パスポート失効が優先されるケース</h3>
+          <p>ただし、注意したいのが<strong>パスポートの有効期限との関係</strong>です。CBPによれば、ESTAの有効期限は「承認から2年」と「パスポート失効日」の<strong>いずれか早い方</strong>までとなります。つまり、パスポートの有効期限が2年より先に来る場合は、パスポート失効日がそのままESTAの有効期限になります。</p>
+          <div class="info-box">
+            <h4>ESTAの有効期限ルール</h4>
+            <ul>
+              <li><strong>原則:</strong> 承認日から2年間</li>
+              <li><strong>例外:</strong> パスポート有効期限が2年より早ければ、パスポート失効日まで</li>
+              <li><strong>判定:</strong> 「2年後」と「パスポート失効日」の早い方が有効期限</li>
+            </ul>
+          </div>
+
+          <h3 id="section1-2">具体例で見る有効期限</h3>
+          <table>
+            <thead>
+              <tr><th>パスポートの残存期間</th><th>ESTAの有効期限</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>3年以上ある</td><td>承認日から2年間</td></tr>
+              <tr><td>2年ちょうど</td><td>承認日から2年間（パスポート失効と同日）</td></tr>
+              <tr><td>1年しかない</td><td>パスポート失効日まで（＝約1年）</td></tr>
+            </tbody>
+          </table>
+          <p>このように、パスポートの残存期間が短いと、ESTAの有効期間も短くなります。渡航予定が続く方は、パスポートの残存期間にも注意しましょう。</p>
+
+          <h2 id="section2">1回の滞在は最大90日</h2>
+          <p>ESTAの「有効期限」と混同しやすいのが、<strong>1回あたりの滞在期間</strong>です。ESTAが2年間有効だからといって、2年間連続でアメリカに滞在できるわけではありません。</p>
+          <div class="warn-box">
+            <h4>有効期限と滞在期間は別物</h4>
+            <p>ESTAでの1回の滞在は<strong>最大90日まで</strong>です。有効期間（原則2年）内であれば、この90日以内の渡航を何度でも繰り返せる、という仕組みです。</p>
+          </div>
+          <p>また、短期間の出国・再入国を繰り返して実質的に長期滞在しようとすると、入国時に厳しく審査される場合があります。あくまで短期滞在向けの制度であることを理解しておきましょう。</p>
+
+          <h2 id="section3">有効期限と「入国時点」の重要性</h2>
+          <p>有効期限を考えるうえで重要なのが、<strong>「入国する時点」でESTAが有効であるか</strong>という点です。CBPの考え方では、入国時にESTAが有効であれば、その後の滞在中に有効期限が切れても、許可された滞在期間（最大90日）まで滞在を続けることができます。</p>
+          <div class="info-box">
+            <h4>入国時点が基準</h4>
+            <p>例えば、有効期限まで残り1週間のタイミングで入国した場合でも、入国時に有効であれば、その後90日まで滞在可能です。逆に、入国前に有効期限が切れていれば搭乗・入国はできません。</p>
+          </div>
+
+          <h2 id="section4">有効期限が変わる・無効になるケース</h2>
+          <p>有効期限内であっても、以下のような場合はESTAが無効になり、新パスポートでの再申請が必要になります。</p>
+          <ul>
+            <li>パスポートを更新・再発行した場合</li>
+            <li>氏名・性別・国籍などパスポート記載情報が変わった場合</li>
+            <li>CBPの判断でESTAが取り消された場合</li>
+          </ul>
+          <p>特にパスポート更新は見落としがちです。新しいパスポートを取得したら、たとえ前のESTAが有効期間内でも、新パスポートで申請し直す必要があります。</p>
+
+          <h2 id="section5">有効期限が切れたときの対応</h2>
+          <p>ESTAには更新（延長）機能はありません。有効期限が切れた場合は、<strong>新規に申請し直す</strong>必要があり、その際にあらためて申請手数料がかかります。次回の渡航予定がある場合は、出発の3日前までに余裕をもって再申請しましょう。再申請や入力ミスの取り扱いについては、別記事で詳しく解説しています。</p>
+
+          <h2 id="section6">有効期限の確認方法</h2>
+          <p>自分のESTAの有効期限は、公式サイト（<strong>esta.cbp.dhs.gov</strong>）で個人ステータスを確認すると、承認状況とあわせて表示されます。出発前にチェックしておけば、「気づいたら期限切れだった」というトラブルを防げます。</p>
+
+          <h2 id="section7">よくある質問</h2>
+          <div class="faq-item">
+            <h3>Q1: ESTAの有効期限は何年ですか？</h3>
+            <p><strong>A:</strong> CBP公式情報によると原則2年間です。ただしパスポート有効期限が2年より早い場合は、パスポート失効日までとなります。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q2: 有効期限内なら何回でもアメリカに行けますか？</h3>
+            <p><strong>A:</strong> はい。有効期間内なら何度でも渡航できます。ただし1回あたりの滞在は最大90日までです。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q3: パスポートを更新したらESTAはどうなりますか？</h3>
+            <p><strong>A:</strong> 新しいパスポートで新たにESTAを申請する必要があります。旧パスポートに紐づくESTAは新パスポートでは使えません。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q4: 滞在中に有効期限が切れたらどうなりますか？</h3>
+            <p><strong>A:</strong> 入国時にESTAが有効であれば、滞在中に期限が切れても許可された滞在期間（最大90日）まで滞在できます。入国時点で有効であることが重要です。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q5: 有効期限はどこで確認できますか？</h3>
+            <p><strong>A:</strong> 公式サイト（esta.cbp.dhs.gov）で個人ステータスを確認すると、承認状況とともに有効期限が表示されます。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q6: 有効期限が切れたら更新できますか？</h3>
+            <p><strong>A:</strong> ESTAに更新機能はありません。期限切れの場合は新たに申請し直す必要があり、あらためて手数料がかかります。</p>
+          </div>
+
+          <h2 id="section8">まとめ</h2>
+          <p>ESTAの有効期限は原則2年ですが、パスポートの有効期限が2年より早い場合はそちらが優先されます。有効期間内なら複数回の渡航が可能で、1回の滞在は最大90日まで。パスポートを更新すると再申請が必要になる点や、入国時点で有効であることが重要な点も押さえておきましょう。</p>
+          <div class="info-box">
+            <h4>ESTA有効期限のポイント</h4>
+            <ul>
+              <li>有効期限は原則2年（CBP公式）</li>
+              <li>パスポート失効日が早ければそちらが優先</li>
+              <li>1回の滞在は最大90日まで</li>
+              <li>入国時点で有効であることが重要</li>
+              <li>パスポート更新時は再申請が必要</li>
+              <li>更新機能はなく、期限切れは新規申請</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/usa-esta-renewal/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAに更新は必要？入力ミスの対応も解説</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-about/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）とは？制度概要を解説</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-check/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAの申請状況・承認確認の方法を解説</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-application/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-vs-visa/" style="color: #D4885A; text-decoration: underline;">ESTAとビザの違いを徹底解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-vwp/" style="color: #D4885A; text-decoration: underline;">ビザ免除プログラム(VWP)とは？対象国・条件を解説</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/usa-esta-application/">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/usa-esta-about/">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTAとは？制度概要を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/usa-esta-renewal/">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTAに更新は必要？</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"アメリカ\",\"item\":\"https://trips-now.com/usa-esta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ESTAの有効期限\",\"item\":\"https://trips-now.com/usa-esta-validity/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

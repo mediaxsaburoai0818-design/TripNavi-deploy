@@ -1,0 +1,138 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T79f,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"UK ETAが審査中のまま結果が出ません。どうすればいいですか？","acceptedAnswer":{"@type":"Answer","text":"GOV.UK公式は最長3営業日（月〜金）を見込むよう案内しています。3営業日を過ぎても結果が出ない場合は、まず迷惑メールフォルダを確認し、それでも届かなければUKVIに問い合わせてください。"}},{"@type":"Question","name":"UK ETAの審査にはどれくらいかかりますか？","acceptedAnswer":{"@type":"Answer","text":"通常は1日程度で結果が出ますが、追加確認が必要な場合などは最長3営業日かかることがあります。"}},{"@type":"Question","name":"審査が長引くのはなぜですか？","acceptedAnswer":{"@type":"Answer","text":"追加の確認が必要な場合や混雑時期などに時間がかかることがあります。具体的な理由は示されないこともあります。"}},{"@type":"Question","name":"審査中に再申請してもいいですか？","acceptedAnswer":{"@type":"Answer","text":"重複申請は料金の二重支払いなどにつながる可能性があるため、まずは結果を待ち、必要に応じてUKVIに確認することをおすすめします。"}},{"@type":"Question","name":"審査中のまま渡航日が近づいたらどうすればいいですか？","acceptedAnswer":{"@type":"Answer","text":"ETA取得を確認するメールを受け取る前に渡航してはいけません。渡航が迫っている場合は早めにUKVIへ問い合わせてください。"}},{"@type":"Question","name":"審査状況はどこで確認できますか？","acceptedAnswer":{"@type":"Answer","text":"基本は登録メールアドレスへの通知で確認します。アプリ申請の場合はアプリ上で状況を確認できることがあります。"}}]}3:T28f1,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/uk-eta-application/">イギリス</a> ＞
+        UK ETAが審査中・保留のとき
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">イギリス渡航ノウハウ</span>
+        <h1>UK ETAが審査中・保留のときの対処法を解説</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">UK ETAの審査時間の目安</a></li>
+                <li><a href="#section2">審査が長引くことがある理由</a></li>
+                <li><a href="#section3">3営業日を過ぎても結果が出ないとき</a>
+                  <ul>
+                    <li><a href="#section3-1">まず迷惑メールを確認する</a></li>
+                    <li><a href="#section3-2">UKVIに問い合わせる</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section4">審査中にやってはいけないこと</a></li>
+                <li><a href="#section5">よくある質問</a></li>
+                <li><a href="#section6">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>UK ETAを申請したあと、なかなか結果が届かず「審査中（pending）のまま大丈夫だろうか」と不安になる方もいます。この記事では、GOV.UK（英国政府公式）の情報をもとに、審査が長引いているときの対処法を整理します。</p>
+
+          <h2 id="section1">UK ETAの審査時間の目安</h2>
+          <p>GOV.UK公式によると、UK ETAの結果は<strong>通常1日程度</strong>で届きます。ただし、<strong>最長で3営業日（月〜金）</strong>を見込むよう案内されています。つまり、申請から数時間〜3営業日程度であれば、まだ通常の審査期間内ということになります。</p>
+          <div class="info-box">
+            <h4>審査時間の目安</h4>
+            <ul>
+              <li>通常：1日程度</li>
+              <li>目安：最長3営業日（月〜金）</li>
+              <li>週末・祝日は営業日に含まれない点に注意</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">審査が長引くことがある理由</h2>
+          <p>多くの申請は短時間で承認されますが、追加の確認が必要な場合や申請が混み合う時期には、結果が出るまでに時間がかかることがあります。<strong>「審査中」の状態自体は必ずしも問題を意味しません。</strong>まずは3営業日を一つの目安として落ち着いて待ちましょう。</p>
+
+          <h2 id="section3">3営業日を過ぎても結果が出ないとき</h2>
+
+          <h3 id="section3-1">まず迷惑メールを確認する</h3>
+          <p>結果はUKVIからメールで届きます。<strong>承認メールが迷惑メール（スパム）フォルダに振り分けられている</strong>ことがあるため、まずはそこを確認してください。登録したメールアドレスに誤りがなかったかも振り返りましょう。</p>
+
+          <h3 id="section3-2">UKVIに問い合わせる</h3>
+          <p>迷惑メールにも見当たらず、3営業日を過ぎても結果が届かない場合は、<strong>UKVI（UK Visas and Immigration）に問い合わせ</strong>ます。問い合わせ方法はGOV.UK公式サイトに案内があります。渡航日が迫っているほど、早めの問い合わせが大切です。</p>
+
+          <div class="warn-box">
+            <h4>結果が出ないときの手順</h4>
+            <ol>
+              <li>申請から3営業日が過ぎているか確認する</li>
+              <li>迷惑メールフォルダを確認する</li>
+              <li>登録メールアドレスに誤りがなかったか確認する</li>
+              <li>それでも届かなければUKVIに問い合わせる</li>
+            </ol>
+          </div>
+
+          <h2 id="section4">審査中にやってはいけないこと</h2>
+          <div class="warn-box">
+            <h4>注意点</h4>
+            <p><strong>1. 確認前に渡航しない</strong></p>
+            <p>ETA取得を確認するメールを受け取る前に渡航してはいけません。承認前の渡航は避けてください。</p>
+            <p><strong>2. 安易に重複申請しない</strong></p>
+            <p>結果を待たずに再申請すると、料金の二重支払いなどにつながる可能性があります。まずは結果を待ち、必要に応じてUKVIに確認しましょう。</p>
+            <p><strong>3. 渡航直前の申請を避ける</strong></p>
+            <p>そもそも審査に最長3営業日かかることを前提に、余裕を持って申請しておくことが最大の対策です。</p>
+          </div>
+
+          <h2 id="section5">よくある質問</h2>
+          <div class="faq-item"><h3>Q1: 審査中のまま結果が出ません。どうする？</h3><p><strong>A:</strong> 最長3営業日が目安です。過ぎても出ない場合は迷惑メールを確認し、それでも届かなければUKVIに問い合わせます。</p></div>
+          <div class="faq-item"><h3>Q2: 審査はどれくらいかかる？</h3><p><strong>A:</strong> 通常1日程度、追加確認が必要な場合などは最長3営業日です。</p></div>
+          <div class="faq-item"><h3>Q3: 審査が長引くのはなぜ？</h3><p><strong>A:</strong> 追加確認が必要な場合や混雑時期などに時間がかかることがあります。理由が示されないこともあります。</p></div>
+          <div class="faq-item"><h3>Q4: 審査中に再申請してもいい？</h3><p><strong>A:</strong> 重複申請は二重支払いなどにつながる可能性があります。まず結果を待ち、必要ならUKVIに確認しましょう。</p></div>
+          <div class="faq-item"><h3>Q5: 渡航日が近づいたら？</h3><p><strong>A:</strong> 確認メールを受け取る前に渡航してはいけません。早めにUKVIへ問い合わせてください。</p></div>
+          <div class="faq-item"><h3>Q6: 審査状況はどこで確認できる？</h3><p><strong>A:</strong> 基本はメール通知です。アプリ申請の場合はアプリ上で確認できることがあります。</p></div>
+
+          <h2 id="section6">まとめ</h2>
+          <p>UK ETAの審査は通常1日程度、最長3営業日が目安です。審査中の状態は必ずしも問題ではありません。3営業日を過ぎても結果が出ない場合は、迷惑メールを確認し、それでも届かなければUKVIに問い合わせましょう。確認前の渡航や安易な重複申請は避け、何より早めの申請が安心につながります。</p>
+          <div class="info-box">
+            <h4>審査中の対処ポイント</h4>
+            <ul>
+              <li>最長3営業日を一つの目安にする</li>
+              <li>過ぎたら迷惑メール→UKVIへ問い合わせ</li>
+              <li>確認前の渡航・重複申請は避ける</li>
+              <li>そもそも早めに申請しておく</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/uk-eta-check/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAの申請状況・審査結果の確認方法</h3></div></a>
+            <a href="/uk-eta-rejection/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAが却下された場合の対応</h3></div></a>
+            <a href="/uk-eta-timing/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETA申請のタイミング</h3></div></a>
+            <a href="/uk-eta-about/" class="related-card"><div class="related-card-body"><span class="related-card-tag">イギリス渡航ノウハウ</span><h3>UK ETAとは？制度概要を解説</h3></div></a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">UK ETA関連記事</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-application/" style="color: #D4885A; text-decoration: underline;">イギリスETAとは？申請方法を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-smartphone/" style="color: #D4885A; text-decoration: underline;">スマホアプリでのUK ETA申請方法</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-criminal-record/" style="color: #D4885A; text-decoration: underline;">犯罪歴がある場合のUK ETA申請</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">UK ETA関連記事</h3>
+        <ol class="sidebar-ranking">
+          <li><a href="/uk-eta-application/"><span class="rank-num">1</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">イギリスETAの申請方法</div></div></a></li>
+          <li><a href="/uk-eta-check/"><span class="rank-num">2</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">UK ETAの確認方法</div></div></a></li>
+          <li><a href="/uk-eta-rejection/"><span class="rank-num">3</span><div class="rank-info"><span class="rank-tag">イギリス</span><div class="rank-title">却下された場合の対応</div></div></a></li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"イギリス\",\"item\":\"https://trips-now.com/uk-eta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UK ETAが審査中・保留のとき\",\"item\":\"https://trips-now.com/uk-eta-pending/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

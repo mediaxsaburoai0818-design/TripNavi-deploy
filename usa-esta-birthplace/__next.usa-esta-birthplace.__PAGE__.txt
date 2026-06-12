@@ -1,26 +1,26 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T2ebd,<div className="page-layout">
-    <main className="page-main">
-      <div className="breadcrumb">
-        <a href="index.html">ホーム</a> ＞ 
+2:T3100,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞ 
         <a href="#usa">アメリカ</a> ＞ 
         <a href="#visa-info">渡航ノウハウ</a> ＞ 
         ESTA申請時の出生した市区町村名
       </div>
 
-      <article className="article-detail">
-        <span className="card-tag">USA渡航ノウハウ</span>
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
         <h1>ESTA申請時の出生した市区町村名の記載方法を解説</h1>
-        <div className="article-meta">
-          <span className="meta-date">更新日：2026年03月31日</span>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月31日</span>
         </div>
 
-        <div className="content">
+        <div class="content">
           
-          <div className="article-toc">
-            <h4 className="toc-title">📋 目次</h4>
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
             <nav>
               <ol>
                 <li><a href="#section1">ESTA申請で出生した市区町村名について</a>
@@ -43,8 +43,8 @@
           <h2 id="section1">ESTA申請で出生した市区町村名について</h2>
           <p>ESTA申請では、「<strong>出生地（City of Birth）</strong>」の入力が必須です。出生地とは、<strong>実際に生まれた場所</strong>（病院・助産院・自宅の所在地）を指します。</p>
 
-          <div className="warn-box">
-            <h4>⚠️ 重要</h4>
+          <div class="warn-box">
+            <h4>重要</h4>
             <p><strong>出生地 ≠ 本籍地</strong></p>
             <p>出生地と本籍地を混同しないようご注意ください。本籍地は変更可能ですが、<strong>出生地は生涯変わりません</strong>。</p>
           </div>
@@ -59,8 +59,8 @@
 
           <h3 id="section1-1">出生地を記入する際の注意点</h3>
           
-          <div className="info-box">
-            <h4>✅ 出生地記入の3つの注意点</h4>
+          <div class="info-box">
+            <h4>出生地記入の3つの注意点</h4>
             
             <p><strong>1. ローマ字で正確に入力</strong></p>
             <ul>
@@ -96,8 +96,8 @@
           <h2 id="section2">実際の記入例</h2>
           <p>以下、具体的な記入例をご紹介します。</p>
 
-          <div className="info-box">
-            <h4>📝 記入例</h4>
+          <div class="info-box">
+            <h4>記入例</h4>
 
             <p><strong>例1: 東京都新宿区西新宿2丁目8-1で出生</strong></p>
             <p>出生地: <strong>「SHINJUKU-KU」</strong>または<strong>「SHINJUKU」</strong>、<strong>「TOKYO」</strong></p>
@@ -110,8 +110,8 @@
 
             <p><strong>例4: 東京都田無市南町5丁目で出生（現在は西東京市）</strong></p>
             <p>出生地: <strong>「TANASHI-SHI」</strong>または<strong>「TANASHI」</strong></p>
-            <div className="warn-box">
-              <h4>⚠️ 注意</h4>
+            <div class="warn-box">
+              <h4>注意</h4>
               <p>現在の住所が「西東京市」でも、出生当時が「田無市」であれば、<strong>「TANASHI-SHI」</strong>と記入してください。</p>
             </div>
           </div>
@@ -119,7 +119,7 @@
           
           <h2 id="section3">よくある質問</h2>
 
-          <div className="faq-item">
+          <div class="faq-item">
             <h3>Q1: ESTAの出生した市区町村の書き方は？</h3>
             <p><strong>A:</strong> ローマ字（英語）表記で市区町村名を入力します。</p>
             <ul>
@@ -130,7 +130,7 @@
             </ul>
           </div>
 
-          <div className="faq-item">
+          <div class="faq-item">
             <h3>Q2: 出生した市区町村名はどうやって調べますか？</h3>
             <p><strong>A:</strong> 以下の方法で確認できます：</p>
             <ol>
@@ -141,7 +141,7 @@
             </ol>
           </div>
 
-          <div className="faq-item">
+          <div class="faq-item">
             <h3>Q3: ESTAの住所の書き方は？</h3>
             <p><strong>A:</strong> 現住所もローマ字（英語）表記で入力します。</p>
             <ul>
@@ -159,8 +159,8 @@
 
           <p>誤入力は審査遅延や再申請の原因となるため、十分に確認してから申請を進めてください。</p>
 
-          <div className="info-box">
-            <h4>✅ 出生地記入のポイント</h4>
+          <div class="info-box">
+            <h4>出生地記入のポイント</h4>
             <ul>
               <li>出生地は実際に生まれた市区町村（病院・自宅の所在地）</li>
               <li>出生地≠本籍地（混同に注意）</li>
@@ -173,76 +173,84 @@
         </div>
 
         
-        <div className="related-articles">
-          <h3 className="related-title">関連記事</h3>
-          <div className="related-grid">
-            <a href="usa-esta-application.html" className="related-card">
-              <div className="related-card-body">
-                <span className="related-card-tag">USA渡航ノウハウ</span>
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/usa-esta-application/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
                 <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
               </div>
             </a>
             
-            <a href="usa-esta-group.html" className="related-card">
-              <div className="related-card-body">
-                <span className="related-card-tag">USA渡航ノウハウ</span>
+            <a href="/usa-esta-group/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
                 <h3>ESTAのグループ申請方法を解説！</h3>
               </div>
             </a>
             
-            <a href="usa-esta-renewal.html" className="related-card">
-              <div className="related-card-body">
-                <span className="related-card-tag">USA渡航ノウハウ</span>
+            <a href="/usa-esta-renewal/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
                 <h3>ESTA(エスタ)に更新は必要？</h3>
               </div>
             </a>
             
-            <a href="usa-esta-smartphone.html" className="related-card">
-              <div className="related-card-body">
-                <span className="related-card-tag">USA渡航ノウハウ</span>
+            <a href="/usa-esta-smartphone/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
                 <h3>ESTAアプリでの申請方法を解説！</h3>
               </div>
             </a>
           </div>
         </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-hawaii-esta/" style="color: #D4885A; text-decoration: underline;">ハワイ渡航時にESTAは必要？申請時の注意点も解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-vwp/" style="color: #D4885A; text-decoration: underline;">ビザ免除プログラム(VWP)とは？対象国・条件・ESTAとの違いを解説</a></li>
+          </ul>
+        </section>
       </article>
     </main>
 
     
-    <aside className="sidebar">
-      <div className="sidebar-section">
-        <h3 className="sidebar-title">人気記事ランキング</h3>
-        <ol className="sidebar-ranking">
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
           <li>
-            <a href="canada-eta-about.html">
-              <span className="rank-num">1</span>
-              <div className="rank-info">
-                <span className="rank-tag">カナダeTA</span>
-                <div className="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+            <a href="/canada-eta-about/">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">カナダeTA</span>
+                <div class="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
               </div>
             </a>
           </li>
           <li>
-            <a href="australia-etas-about.html">
-              <span className="rank-num">2</span>
-              <div className="rank-info">
-                <span className="rank-tag">オーストラリア</span>
-                <div className="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+            <a href="/australia-etas-about/">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">オーストラリア</span>
+                <div class="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
               </div>
             </a>
           </li>
           <li>
-            <a href="usa-esta-application.html">
-              <span className="rank-num">3</span>
-              <div className="rank-info">
-                <span className="rank-tag">USA ESTA</span>
-                <div className="rank-title">ESTA（エスタ）の申請方法を解説</div>
+            <a href="/usa-esta-application/">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
               </div>
             </a>
           </li>
         </ol>
       </div>
     </aside>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

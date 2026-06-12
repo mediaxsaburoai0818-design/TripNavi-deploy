@@ -1,0 +1,231 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T8f7,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ESTAの申請状況はどこで確認できますか？","acceptedAnswer":{"@type":"Answer","text":"米国CBPの公式サイト（esta.cbp.dhs.gov）の「Check Existing Application（既存の申請を確認）」から「Check Individual Status（個人ステータス確認）」を選び、パスポート番号・生年月日・申請番号などを入力して確認します。"}},{"@type":"Question","name":"ESTAが承認されたかどうかはどう見分けますか？","acceptedAnswer":{"@type":"Answer","text":"ステータスが「Authorization Approved（認証許可）」と表示されていれば承認済みです。「Authorization Pending（承認保留）」は審査中、「Travel Not Authorized（渡航不許可）」は不承認を意味します。"}},{"@type":"Question","name":"申請番号がわからなくても確認できますか？","acceptedAnswer":{"@type":"Answer","text":"パスポート番号・生年月日・国籍・パスポート発行国・有効期限などの情報があれば、申請番号がなくても個人ステータスの確認が可能です。"}},{"@type":"Question","name":"結果はどのくらいで分かりますか？","acceptedAnswer":{"@type":"Answer","text":"多くの場合は申請後すぐに結果が表示されますが、CBPによると最大72時間かかることがあります。余裕を持って出発の3日前までに申請・確認を済ませることが推奨されています。"}},{"@type":"Question","name":"承認メールが届かない場合はどうすればよいですか？","acceptedAnswer":{"@type":"Answer","text":"メールが届かなくても、公式サイトでステータスを直接確認できます。承認状況は登録したパスポート情報をもとに公式サイトで照会するのが最も確実です。"}},{"@type":"Question","name":"承認後にステータスを再確認する必要はありますか？","acceptedAnswer":{"@type":"Answer","text":"出発前にもう一度ステータスを確認し、有効期限内であることを確かめておくと安心です。ESTAは取り消されることもあるため、直前の再確認が推奨されます。"}}]}3:T39fa,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/usa-esta-application/">アメリカ</a> ＞
+        ESTAの申請状況確認
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>ESTAの申請状況・承認確認の方法を解説！ステータスの見方も紹介</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">ESTAの申請状況を確認する必要性</a></li>
+                <li><a href="#section2">ESTAの承認確認の手順</a>
+                  <ul>
+                    <li><a href="#section2-1">確認に必要な情報</a></li>
+                    <li><a href="#section2-2">個人ステータスの確認手順</a></li>
+                    <li><a href="#section2-3">グループ申請の確認方法</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section3">3つのステータスの意味</a></li>
+                <li><a href="#section4">確認時の注意点</a></li>
+                <li><a href="#section5">承認確認に関するトラブル対処</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>ESTAを申請した後、「ちゃんと承認されたのか」「結果はどこで見られるのか」と不安になる方は少なくありません。この記事では、ESTAの<strong>申請状況（ステータス）の確認方法</strong>と、表示される各ステータスの意味を、米国CBP公式情報をもとに解説します。申請手順そのものではなく、申請後の「結果確認」に特化した内容です。</p>
+
+          <h2 id="section1">ESTAの申請状況を確認する必要性</h2>
+          <p>ESTAは申請後すぐに承認されることが多いものの、CBPによれば結果が出るまでに<strong>最大72時間</strong>かかる場合があります。また、承認メールが迷惑メールフォルダに振り分けられたり、届かなかったりすることもあるため、メールだけに頼らず<strong>公式サイトで直接ステータスを確認する</strong>ことが確実です。</p>
+          <div class="warn-box">
+            <h4>搭乗前の確認が重要</h4>
+            <p>ESTAが承認されていないと、航空機への搭乗を拒否される可能性があります。出発前には必ず承認状況を確認しましょう。</p>
+          </div>
+
+          <h2 id="section2">ESTAの承認確認の手順</h2>
+          <p>申請状況の確認は、米国CBPの公式ESTAサイト（<strong>esta.cbp.dhs.gov</strong>）から行います。確認自体に追加料金はかかりません。</p>
+
+          <h3 id="section2-1">確認に必要な情報</h3>
+          <div class="info-box">
+            <h4>個人ステータス確認に必要な情報</h4>
+            <ul>
+              <li>パスポート番号</li>
+              <li>生年月日</li>
+              <li>国籍・パスポート発行国</li>
+              <li>パスポートの有効期限</li>
+              <li>（任意）申請番号 ※あれば入力するとよりスムーズ</li>
+            </ul>
+          </div>
+          <p>申請番号がわからない場合でも、上記のパスポート情報があれば確認可能です。</p>
+
+          <h3 id="section2-2">個人ステータスの確認手順</h3>
+          <ol>
+            <li>公式サイト（esta.cbp.dhs.gov）にアクセスする</li>
+            <li>トップページの<strong>「Check Existing Application（既存の申請を確認）」</strong>を選ぶ</li>
+            <li><strong>「Check Individual Status（個人ステータスの確認）」</strong>をクリックする</li>
+            <li>セキュリティ通知に同意する</li>
+            <li>パスポート番号・生年月日などの必要情報を入力する</li>
+            <li>表示されたステータスを確認する</li>
+          </ol>
+
+          <h3 id="section2-3">グループ申請の確認方法</h3>
+          <p>家族やグループでまとめて申請した場合は、個人ステータス確認とは別に<strong>「Check Group Status（グループステータスの確認）」</strong>から、グループIDを使って全員の状況をまとめて確認することもできます。グループ申請の詳しい手順は別記事で解説しています。</p>
+
+          <h2 id="section3">3つのステータスの意味</h2>
+          <p>ESTAのステータスには、主に次の3種類があります。表示された言葉の意味を正しく理解しましょう。</p>
+          <table>
+            <thead>
+              <tr><th>ステータス</th><th>意味</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Authorization Approved<br>（認証許可）</td><td>承認済み。VWPでの渡航が認められた状態です。</td></tr>
+              <tr><td>Authorization Pending<br>（承認保留）</td><td>審査中。即時判断ができなかったため確認中で、否定的な結果を意味するものではありません。通常72時間以内に結果が出ます。</td></tr>
+              <tr><td>Travel Not Authorized<br>（渡航不許可）</td><td>不承認。VWPでの渡航は認められず、渡航するにはビザの取得が必要です。</td></tr>
+            </tbody>
+          </table>
+          <div class="info-box">
+            <h4>「Pending」は不安にならなくてOK</h4>
+            <p>CBPによれば、「Authorization Pending」はあくまで審査に時間がかかっているという状態で、否定的な結果を示すものではありません。72時間ほど待ってから再度確認しましょう。</p>
+          </div>
+
+          <h2 id="section4">確認時の注意点</h2>
+          <div class="warn-box">
+            <h4>確認時の4つの注意点</h4>
+            <p><strong>1. 公式サイトで確認する</strong><br>申請状況の確認も、必ず公式サイト（esta.cbp.dhs.gov）で行ってください。非公式サイトで個人情報を入力しないよう注意します。</p>
+            <p><strong>2. 入力情報はパスポートと一致させる</strong><br>パスポート番号や生年月日に入力ミスがあると照会できません。パスポートを見ながら正確に入力しましょう。</p>
+            <p><strong>3. 有効期限も合わせて確認する</strong><br>承認済みでも、有効期限が切れていれば渡航できません。残りの有効期間も確認しておきましょう。</p>
+            <p><strong>4. 直前の再確認</strong><br>承認後に取り消されるケースもあるため、出発前にもう一度確認すると安心です。</p>
+          </div>
+
+          <h2 id="section5">承認確認に関するトラブル対処</h2>
+          <p>確認画面で「該当する申請が見つからない」と表示される場合は、次の点を確認してください。</p>
+          <ul>
+            <li>パスポート番号のアルファベットと数字を取り違えていないか</li>
+            <li>生年月日の月日を逆に入力していないか</li>
+            <li>そもそも申請（決済）が完了しているか</li>
+          </ul>
+          <p>それでも解決しない場合は、公式サイトの問い合わせ窓口を利用してCBPに照会します。なお、不承認となった場合の理由は原則として開示されません。</p>
+
+          <h2 id="section6">よくある質問</h2>
+          <div class="faq-item">
+            <h3>Q1: ESTAの申請状況はどこで確認できますか？</h3>
+            <p><strong>A:</strong> 公式サイト（esta.cbp.dhs.gov）の「Check Existing Application」から「Check Individual Status」を選び、パスポート番号・生年月日などを入力して確認します。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q2: ESTAが承認されたかどうかはどう見分けますか？</h3>
+            <p><strong>A:</strong> ステータスが「Authorization Approved」なら承認済み、「Authorization Pending」は審査中、「Travel Not Authorized」は不承認を意味します。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q3: 申請番号がわからなくても確認できますか？</h3>
+            <p><strong>A:</strong> パスポート番号・生年月日・国籍・パスポート有効期限などの情報があれば、申請番号がなくても個人ステータスを確認できます。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q4: 結果はどのくらいで分かりますか？</h3>
+            <p><strong>A:</strong> 多くは申請後すぐ表示されますが、CBPによると最大72時間かかることがあります。出発の3日前までに申請・確認を済ませましょう。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q5: 承認メールが届かない場合は？</h3>
+            <p><strong>A:</strong> メールが届かなくても公式サイトでステータスを直接確認できます。パスポート情報をもとに照会するのが最も確実です。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q6: 承認後にステータスを再確認する必要はありますか？</h3>
+            <p><strong>A:</strong> 出発前にもう一度確認し、有効期限内であることを確かめておくと安心です。ESTAは取り消されることもあるため、直前の再確認が推奨されます。</p>
+          </div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>ESTAの申請状況は、米国CBPの公式サイトから「個人ステータス確認」を使って簡単にチェックできます。表示される3つのステータス（Approved / Pending / Not Authorized）の意味を理解しておけば、結果を正しく判断できます。承認メールが届かない場合でも、公式サイトで直接確認すれば確実です。</p>
+          <div class="info-box">
+            <h4>ESTA承認確認のポイント</h4>
+            <ul>
+              <li>確認は公式サイト（esta.cbp.dhs.gov）で</li>
+              <li>パスポート番号・生年月日があれば申請番号なしでもOK</li>
+              <li>「Approved」=承認、「Pending」=審査中、「Not Authorized」=不承認</li>
+              <li>結果は最大72時間。出発3日前までに確認</li>
+              <li>出発直前にも有効期限を含めて再確認</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/usa-esta-pending/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAが審査中・保留のときの対処法</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-rejection/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAが拒否されたときの対応方法</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-application/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-group/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAのグループ申請方法を解説！</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-about/" style="color: #D4885A; text-decoration: underline;">ESTA（エスタ）とは？制度概要を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-validity/" style="color: #D4885A; text-decoration: underline;">ESTAの有効期限は何年？2年ルールを解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-renewal/" style="color: #D4885A; text-decoration: underline;">ESTAに更新は必要？入力ミスの対応も解説</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/usa-esta-application/">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/usa-esta-pending/">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTAが審査中・保留のときの対処法</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/usa-esta-rejection/">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTAが拒否されたときの対応</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"アメリカ\",\"item\":\"https://trips-now.com/usa-esta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ESTAの申請状況確認\",\"item\":\"https://trips-now.com/usa-esta-check/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

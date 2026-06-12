@@ -1,23 +1,23 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T3ddb,<div className="page-layout">
-    <main className="page-main">
-      <div className="breadcrumb"><a href="index.html">ホーム</a> ＞ <a href="area-northamerica.html">北アメリカ</a> ＞ <a href="country-usa.html">アメリカ</a> ＞ <a href="tips.html">入国・ビザガイド</a> ＞ ビザ免除プログラム(VWP)とは</div>
+2:T43f0,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/usa-esta-application/">アメリカ</a> ＞ <a href="/">入国・ビザガイド</a> ＞ ビザ免除プログラム(VWP)とは</div>
 
-      <article className="article-detail">
-        <span className="card-tag">入国・ビザガイド</span>
+      <article class="article-detail">
+        <span class="card-tag">入国・ビザガイド</span>
         <h1>ビザ免除プログラム(VWP)とは？対象国・条件・ESTAとの違いを解説</h1>
-        <div className="article-meta">
-          <span className="meta-date">更新日：2026年3月5日</span>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年3月5日</span>
         </div>
-        <img src="https://images.unsplash.com/photo-1501466044931-62695aada8e9?w=800&h=400&fit=crop" alt="アメリカの国旗とパスポート" className="article-hero" />
+        <img src="https://images.unsplash.com/photo-1501466044931-62695aada8e9?w=800&h=400&fit=crop" alt="アメリカの国旗とパスポート" class="article-hero" />
 
-        <div className="content">
+        <div class="content">
           <p>アメリカへビザなしで渡航できる「ビザ免除プログラム（VWP：Visa Waiver Program）」。日本を含む41の国と地域が対象となっており、90日以内の観光・商用目的であればビザの取得が不要です。本記事では、VWPの仕組みや対象国一覧、ESTA（エスタ）との違い、利用条件について詳しく解説します。</p>
 
-          <div className="article-toc">
-            <p className="toc-title">目次</p>
+          <div class="article-toc">
+            <p class="toc-title">目次</p>
             <ul>
               <li><a href="#vwp-about">ビザ免除プログラム(VWP)とは</a></li>
               <li><a href="#vwp-countries">VWP対象国と開始年月日</a></li>
@@ -31,10 +31,10 @@
           </div>
 
           <h2 id="vwp-about">ビザ免除プログラム(VWP)とは</h2>
-          <img src="https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=300&fit=crop" alt="パスポートと航空券" className="section-img" />
+          <img src="https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=300&fit=crop" alt="パスポートと航空券" class="section-img" />
           <p>ビザ免除プログラム（VWP：Visa Waiver Program）とは、アメリカ政府が定めた国・地域の市民に限り、ビザを取得せずに渡米が認められる制度です。渡航目的は90日以内の観光または商用に限られ、VWPを利用して渡米する際は電子渡航認証システム「ESTA（エスタ）」を申請し、「渡航認証許可」の取得が求められます。</p>
-          <div className="point-box">
-            <p className="box-title">💡 ポイント</p>
+          <div class="point-box">
+            <p class="box-title">ポイント</p>
             <p>就労や留学を目的として渡米する方はVWPの利用条件に該当しないため、ビザの取得が必須です。ビザの取得には多くの書類提出や領事官との面接などが求められ、申請から取得までに1か月以上かかるため早めの手続きをお勧めします。</p>
           </div>
 
@@ -70,7 +70,7 @@
           <p>また、ESTAは米国入国を保証するものではなく、空港のCBP（米国国土安全保障省税関・国境取締局）審査官が最終的に判断します。承認済みのESTAを保持する渡航者であっても、入国審査時の質問に正確な渡航目的を回答できず入国を拒否されるケースも少なくありません。</p>
 
           <h2 id="vwp-conditions">VWPの利用条件</h2>
-          <img src="https://images.unsplash.com/photo-1540339832862-474599807836?w=800&h=300&fit=crop" alt="空港のチェックインカウンター" className="section-img" />
+          <img src="https://images.unsplash.com/photo-1540339832862-474599807836?w=800&h=300&fit=crop" alt="空港のチェックインカウンター" class="section-img" />
           <p>ビザ免除プログラム（VWP）を利用してアメリカへ入国する際は、以下の条件を満たす必要があります。</p>
           <ul>
             <li>ESTA（エスタ）を申請し「渡航認証許可」を取得していること</li>
@@ -90,8 +90,8 @@
             <li>過去にオーバーステイ（不法滞在）の履歴があり、強制送還された方</li>
             <li>特定の伝染病を患っている方</li>
           </ul>
-          <div className="warn-box">
-            <p className="box-title">⚠️ ご注意ください</p>
+          <div class="warn-box">
+            <p class="box-title">ご注意ください</p>
             <p>上記に該当する方はESTA（エスタ）申請の対象外となるため、在日米国大使館・総領事館にて目的にあわせたビザの取得をご検討ください。</p>
           </div>
           <p>また、カナダ・メキシコ・英領バミューダ諸島は、アメリカのVWPに参加していません。ただし、米国移民国籍法ではカナダおよびバミューダ諸島の市民がビザを取得せずに渡航する場合は特定の条項を定めています。</p>
@@ -118,8 +118,8 @@
             <li>商用目的でイラクに入国した場合</li>
           </ul>
 
-          <div className="summary-box">
-            <p className="box-title">📝 この記事のまとめ</p>
+          <div class="summary-box">
+            <p class="box-title">この記事のまとめ</p>
             <ul>
               <li>VWPは日本を含む41か国が対象で、90日以内の観光・商用目的ならビザ不要</li>
               <li>VWP利用にはESTA申請が必須（出発72時間前までに申請推奨）</li>
@@ -130,43 +130,55 @@
           </div>
 
           <h2>よくある質問</h2>
-          <div className="accordion-item">
-            <div className="accordion-header">VWPとESTAは同じものですか？<span className="icon">▼</span></div>
-            <div className="accordion-body">
+          <div class="accordion-item">
+            <div class="accordion-header">VWPとESTAは同じものですか？<span class="icon">▼</span></div>
+            <div class="accordion-body">
               <p>いいえ。VWPはビザ免除の「制度」であり、ESTAはVWP利用者が渡航前に取得する「電子渡航認証」です。VWPの条件を満たす方がESTAを申請し、認証許可を得てビザなしで渡米できます。</p>
             </div>
           </div>
-          <div className="accordion-item">
-            <div className="accordion-header">ESTAの有効期限はどのくらいですか？<span className="icon">▼</span></div>
-            <div className="accordion-body">
+          <div class="accordion-item">
+            <div class="accordion-header">ESTAの有効期限はどのくらいですか？<span class="icon">▼</span></div>
+            <div class="accordion-body">
               <p>ESTAの有効期限は取得日から2年間です。ただし、パスポートの有効期限が2年以内の場合は、パスポートの失効日にESTAも無効となります。有効期間中は何度でも渡米が可能です。</p>
             </div>
           </div>
-          <div className="accordion-item">
-            <div className="accordion-header">乗り継ぎ（トランジット）だけでもESTAは必要ですか？<span className="icon">▼</span></div>
-            <div className="accordion-body">
+          <div class="accordion-item">
+            <div class="accordion-header">乗り継ぎ（トランジット）だけでもESTAは必要ですか？<span class="icon">▼</span></div>
+            <div class="accordion-body">
               <p>はい。アメリカでは乗り継ぎ客も「入国者」として扱われるため、トランジットであってもESTA申請が必須です。年齢や性別を問わず、全ての渡航者が対象となります。</p>
             </div>
           </div>
         </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-application/" style="color: #D4885A; text-decoration: underline;">ESTA（エスタ）の申請方法を記入例付きで解説！料金や有効期限も紹介！</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-renewal/" style="color: #D4885A; text-decoration: underline;">ESTA（エスタ）に更新は必要？入力ミスをした際の対応についても解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-smartphone/" style="color: #D4885A; text-decoration: underline;">ESTAアプリでの申請方法を解説！スマホ申請のポイントを紹介</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-group/" style="color: #D4885A; text-decoration: underline;">ESTAのグループ申請方法を解説！家族で申請する際の注意点も紹介</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-birthplace/" style="color: #D4885A; text-decoration: underline;">ESTA申請時の出生した市区町村名の記載方法を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-hawaii-esta/" style="color: #D4885A; text-decoration: underline;">ハワイ渡航時にESTAは必要？申請時の注意点も解説</a></li>
+          </ul>
+        </section>
       </article>
 
-      <section className="related-articles">
-        <h2 className="related-title">関連記事</h2>
-        <div className="related-grid">
-          <a href="usa-transit.html" className="related-card">
+      <section class="related-articles">
+        <h2 class="related-title">関連記事</h2>
+        <div class="related-grid">
+          <a href="/usa-esta-application/" class="related-card">
             <img src="https://images.unsplash.com/photo-1556388158-158ea5ccacbd?w=300&h=180&fit=crop" alt="トランジットESTA" />
             <p>アメリカでの乗り継ぎ(トランジット)にもESTA申請は必要！</p>
           </a>
-          <a href="usa-news-latest.html" className="related-card">
+          <a href="/usa-esta-application/" class="related-card">
             <img src="https://images.unsplash.com/photo-1508433957232-3107f5fd5995?w=300&h=180&fit=crop" alt="アメリカ入国最新情報" />
             <p>アメリカ入国・渡航に関する最新情報【2026年最新】</p>
           </a>
-          <a href="usa-losangeles-immigration.html" className="related-card">
+          <a href="/usa-esta-application/" class="related-card">
             <img src="https://images.unsplash.com/photo-1534190239940-9ba8944ea261?w=300&h=180&fit=crop" alt="ロサンゼルス入国審査" />
             <p>ロサンゼルス国際空港(LAX)入国審査の流れを徹底解説</p>
           </a>
-          <a href="usa-hawaii-news.html" className="related-card">
+          <a href="/usa-hawaii-esta/" class="related-card">
             <img src="https://images.unsplash.com/photo-1507876466758-bc54f384809c?w=300&h=180&fit=crop" alt="ハワイ渡航情報" />
             <p>ハワイ入国・渡航に関する最新情報【2026年3月最新】</p>
           </a>
@@ -174,6 +186,6 @@
       </section>
     </main>
     <div id="sidebar-mount"></div>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

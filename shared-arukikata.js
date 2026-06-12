@@ -3,11 +3,28 @@
 // Mobile menu toggle
 document.addEventListener('DOMContentLoaded', function() {
   const menuToggle = document.querySelector('.menu-toggle');
-  const nav = document.querySelector('.nav');
-  
-  if (menuToggle && nav) {
+  const mobileNav = document.querySelector('.mobile-nav');
+
+  if (menuToggle && mobileNav) {
     menuToggle.addEventListener('click', function() {
-      nav.classList.toggle('open');
+      menuToggle.classList.toggle('active');
+      mobileNav.classList.toggle('open');
+    });
+
+    // Close menu when clicking a link
+    mobileNav.querySelectorAll('a').forEach(function(link) {
+      link.addEventListener('click', function() {
+        menuToggle.classList.remove('active');
+        mobileNav.classList.remove('open');
+      });
+    });
+
+    // Close menu on outside click
+    document.addEventListener('click', function(e) {
+      if (!menuToggle.contains(e.target) && !mobileNav.contains(e.target)) {
+        menuToggle.classList.remove('active');
+        mobileNav.classList.remove('open');
+      }
     });
   }
 });

@@ -1,0 +1,240 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T93d,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ESTAとビザの一番の違いは何ですか？","acceptedAnswer":{"@type":"Answer","text":"ESTAはビザ免除プログラム（VWP）対象国の国民が短期滞在（90日以内）のためにオンラインで取得する電子渡航認証で、ビザは長期滞在・就労・留学などのために米国大使館・領事館で取得する正式な査証です。手続きの重さと対象範囲が大きく異なります。"}},{"@type":"Question","name":"観光ならESTAとビザのどちらが必要ですか？","acceptedAnswer":{"@type":"Answer","text":"90日以内の観光であれば、VWP対象国の国民は原則ESTAで渡航できます。90日を超える滞在や、ESTAが利用できない事情がある場合はビザが必要です。"}},{"@type":"Question","name":"ESTAが使えずビザが必要になるのはどんな場合ですか？","acceptedAnswer":{"@type":"Answer","text":"就労・留学・移住・90日超の滞在のほか、ESTAが拒否された場合や、テロ渡航防止法（VWPITPA）の対象となる一部の渡航歴・国籍を持つ場合などはビザが必要です。"}},{"@type":"Question","name":"ESTAとビザの料金はどちらが高いですか？","acceptedAnswer":{"@type":"Answer","text":"一般にビザのほうが手数料が高く、手続きも面接を含めて時間がかかります。ESTAはオンラインで完結し、手数料は2025年9月30日より40米ドルに改定されました。最新の金額は公式サイトでご確認ください。"}},{"@type":"Question","name":"ビザを持っていればESTAは不要ですか？","acceptedAnswer":{"@type":"Answer","text":"有効な該当ビザを持っている場合は、そのビザで渡航できるためESTAは不要です。ESTAはあくまでビザなし渡航のための仕組みです。"}},{"@type":"Question","name":"VWPITPA（テロ渡航防止法）とは何ですか？","acceptedAnswer":{"@type":"Answer","text":"VWPの安全性を高める米国の法律で、特定国の国籍を持つ人や、指定された国へ一定時期以降に渡航した人をVWPの対象外とし、ビザ取得を求める内容です。対象者は大使館・領事館でビザを申請する必要があります。"}}]}3:T3dc9,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/usa-esta-application/">アメリカ</a> ＞
+        ESTAとビザの違い
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">USA渡航ノウハウ</span>
+        <h1>ESTAとビザの違いを徹底解説！どちらが必要かを目的別に紹介</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">ESTAとビザの基本的な違い</a></li>
+                <li><a href="#section2">項目別の比較</a>
+                  <ul>
+                    <li><a href="#section2-1">対象・目的の違い</a></li>
+                    <li><a href="#section2-2">手続き・期間の違い</a></li>
+                    <li><a href="#section2-3">料金の違い</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section3">どちらが必要か：目的別の判断</a></li>
+                <li><a href="#section4">ESTAが使えずビザが必要になるケース</a>
+                  <ul>
+                    <li><a href="#section4-1">テロ渡航防止法（VWPITPA）の対象者</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section5">ビザを持っている場合のESTAの要否</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>アメリカへ渡航する際、「ESTAとビザはどう違うの？」「自分はどちらが必要なの？」と迷う方は多いものです。この記事では、ESTAとアメリカビザの<strong>違いを項目別に比較</strong>し、目的別にどちらが必要かを、米国CBP公式情報をもとに整理します。</p>
+
+          <h2 id="section1">ESTAとビザの基本的な違い</h2>
+          <p>まず大枠を押さえましょう。<strong>ESTA</strong>は、ビザ免除プログラム（VWP）対象国の国民が、ビザなしで短期滞在するためにオンラインで取得する電子渡航認証です。一方<strong>ビザ（査証）</strong>は、米国大使館・領事館で取得する正式な渡航許可で、長期滞在や就労・留学など幅広い目的に対応します。</p>
+          <div class="info-box">
+            <h4>ざっくり言うと</h4>
+            <ul>
+              <li><strong>ESTA:</strong> 短期・観光/商用向けの「簡易な電子手続き」</li>
+              <li><strong>ビザ:</strong> 長期・就労/留学なども含む「正式な査証」</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">項目別の比較</h2>
+          <table>
+            <thead>
+              <tr><th>項目</th><th>ESTA</th><th>ビザ</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>対象</td><td>VWP対象国の国民</td><td>すべての渡航者（目的に応じて）</td></tr>
+              <tr><td>主な目的</td><td>観光・商用・乗り継ぎ（短期）</td><td>就労・留学・長期滞在・移住など</td></tr>
+              <tr><td>滞在期間</td><td>1回最大90日</td><td>ビザの種類による</td></tr>
+              <tr><td>申請方法</td><td>オンライン完結</td><td>大使館・領事館で面接など</td></tr>
+              <tr><td>取得までの期間</td><td>通常すぐ〜最大72時間</td><td>面接予約を含め長め</td></tr>
+            </tbody>
+          </table>
+
+          <h3 id="section2-1">対象・目的の違い</h3>
+          <p>ESTAはVWP対象国（日本を含む）の国民が、観光・商用・乗り継ぎ目的で<strong>90日以内</strong>滞在する場合に使えます。これに対し、就労・留学・移住・90日超の滞在などはESTAでは対応できず、ビザが必要です。</p>
+
+          <h3 id="section2-2">手続き・期間の違い</h3>
+          <p>ESTAはオンラインで完結し、結果も通常すぐ（最大72時間）に出ます。ビザは大使館・領事館での面接が必要なことが多く、予約から取得まで相応の時間を見込む必要があります。スケジュールに余裕を持って準備しましょう。</p>
+
+          <h3 id="section2-3">料金の違い</h3>
+          <p>一般にビザのほうが手数料は高く、手続きの負担も大きくなります。ESTAの申請手数料は、CBP公式発表によると<strong>2025年9月30日より21米ドルから40米ドルに改定</strong>されました。ビザの料金は種類によって異なります。いずれも最新の金額は公式サイト（ESTAは esta.cbp.dhs.gov、ビザは travel.state.gov）でご確認ください。</p>
+
+          <h2 id="section3">どちらが必要か：目的別の判断</h2>
+          <p>自分にESTAとビザのどちらが必要かは、<strong>渡航目的と滞在期間</strong>でおおむね判断できます。</p>
+          <table>
+            <thead>
+              <tr><th>渡航目的・状況</th><th>必要なもの（目安）</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>90日以内の観光・商用・乗り継ぎ</td><td>ESTA</td></tr>
+              <tr><td>90日を超える滞在</td><td>ビザ</td></tr>
+              <tr><td>就労・報酬を得る活動</td><td>ビザ</td></tr>
+              <tr><td>長期留学</td><td>ビザ</td></tr>
+              <tr><td>移住</td><td>ビザ（移民ビザ）</td></tr>
+            </tbody>
+          </table>
+          <div class="info-box">
+            <h4>迷ったら目的と期間で判断</h4>
+            <p>「短期の観光・出張」ならESTA、「働く・長く住む・長く学ぶ」ならビザ、と覚えておくとシンプルです。判断に迷う場合は travel.state.gov や管轄の米国大使館・領事館で確認しましょう。</p>
+          </div>
+
+          <h2 id="section4">ESTAが使えずビザが必要になるケース</h2>
+          <p>短期の観光・商用であっても、以下のような場合はESTAが使えず、ビザの取得が必要になります。</p>
+          <ul>
+            <li>ESTAが拒否（Travel Not Authorized）された場合</li>
+            <li>ICチップ付き電子パスポートを持っていない場合</li>
+            <li>テロ渡航防止法（VWPITPA）の対象となる場合</li>
+          </ul>
+
+          <h3 id="section4-1">テロ渡航防止法（VWPITPA）の対象者</h3>
+          <p>米国の<strong>テロ渡航防止法（Visa Waiver Program Improvement and Terrorist Travel Prevention Act / VWPITPA）</strong>により、VWP（ビザ免除）の対象から外れ、ビザ取得が必要になる人がいます。CBPによれば、主に次のような場合が該当します。</p>
+          <div class="warn-box">
+            <h4>VWPITPAの主な対象（CBP公式より）</h4>
+            <ul>
+              <li>VWP対象国の国民でありながら、イラン・イラク・シリア・スーダンなど指定国の国籍も併せ持つ二重国籍者</li>
+              <li>2011年3月1日以降に、イラク・シリア等の指定国に渡航したことがあるVWP国民（一部の公務・軍務などの例外あり。ただし二重国籍の制限には例外が適用されない）</li>
+            </ul>
+            <p>これらに該当する場合、VWP（ESTA）での渡航はできず、米国大使館・領事館でビザを申請する必要があります。対象国や条件は更新されることがあるため、最新情報はCBP公式でご確認ください。</p>
+          </div>
+          <p>なお、これらの制限は渡航そのものを禁じるものではなく、ビザを取得すれば渡航できる点が重要です。例外的に国土安全保障長官の判断で個別に免除（ウェイバー）が認められる場合もあります。</p>
+
+          <h2 id="section5">ビザを持っている場合のESTAの要否</h2>
+          <p>すでに有効な該当ビザを持っている場合は、そのビザで渡航できるため、ESTAは不要です。ESTAはあくまで「ビザなしで渡航するための仕組み」だからです。ビザとESTAを両方取る必要はありません。</p>
+
+          <h2 id="section6">よくある質問</h2>
+          <div class="faq-item">
+            <h3>Q1: ESTAとビザの一番の違いは何ですか？</h3>
+            <p><strong>A:</strong> ESTAはVWP対象国の国民が短期滞在（90日以内）のためにオンラインで取得する電子渡航認証、ビザは長期滞在・就労・留学などのために大使館・領事館で取得する正式な査証です。手続きの重さと対象範囲が異なります。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q2: 観光ならESTAとビザのどちらが必要ですか？</h3>
+            <p><strong>A:</strong> 90日以内の観光ならVWP対象国の国民は原則ESTAで渡航できます。90日超や、ESTAが使えない事情がある場合はビザが必要です。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q3: ESTAが使えずビザが必要になるのはどんな場合ですか？</h3>
+            <p><strong>A:</strong> 就労・留学・移住・90日超の滞在のほか、ESTAが拒否された場合や、VWPITPAの対象となる一部の渡航歴・国籍を持つ場合などはビザが必要です。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q4: ESTAとビザの料金はどちらが高いですか？</h3>
+            <p><strong>A:</strong> 一般にビザのほうが高く、手続きも面接を含め時間がかかります。ESTAは2025年9月30日より40米ドルに改定されました。最新額は公式サイトでご確認ください。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q5: ビザを持っていればESTAは不要ですか？</h3>
+            <p><strong>A:</strong> 有効な該当ビザがあればそのビザで渡航でき、ESTAは不要です。ESTAはビザなし渡航のための仕組みです。</p>
+          </div>
+          <div class="faq-item">
+            <h3>Q6: VWPITPA（テロ渡航防止法）とは何ですか？</h3>
+            <p><strong>A:</strong> VWPの安全性を高める米国の法律で、特定国の国籍を持つ人や指定国へ一定時期以降に渡航した人をVWP対象外とし、ビザ取得を求める内容です。対象者は大使館・領事館でビザを申請します。</p>
+          </div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>ESTAとビザの違いは、「短期・簡易」か「長期・正式」かに集約されます。90日以内の観光・商用・乗り継ぎならESTA、就労・留学・長期滞在・移住などはビザ、というのが基本の判断軸です。ただし、ESTAが拒否された場合やテロ渡航防止法（VWPITPA）の対象となる場合は、短期渡航でもビザが必要になります。自分のケースで迷う場合は、公式情報や大使館・領事館で確認しましょう。</p>
+          <div class="info-box">
+            <h4>ESTAとビザの違い・ポイント</h4>
+            <ul>
+              <li>ESTA=短期・観光/商用向けの電子認証</li>
+              <li>ビザ=長期・就労/留学なども含む正式査証</li>
+              <li>90日以内の観光・商用ならESTAが目安</li>
+              <li>就労・留学・90日超・移住はビザ</li>
+              <li>VWPITPA対象者・ESTA拒否者はビザが必要</li>
+              <li>有効なビザがあればESTAは不要</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/usa-vwp/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ビザ免除プログラム(VWP)とは？対象国・条件を解説</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-about/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）とは？制度概要を解説</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-rejection/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTAが拒否されたときの対応方法</h3>
+              </div>
+            </a>
+            <a href="/usa-esta-application/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
+                <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-criminal-record/" style="color: #D4885A; text-decoration: underline;">犯罪歴があるとESTAは取れない？対応を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-transit/" style="color: #D4885A; text-decoration: underline;">乗り継ぎ（トランジット）でESTAは必要？</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-validity/" style="color: #D4885A; text-decoration: underline;">ESTAの有効期限は何年？2年ルールを解説</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
+          <li>
+            <a href="/usa-esta-application/">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/usa-vwp/">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ビザ免除プログラム(VWP)とは</div>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/usa-esta-about/">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTAとは？制度概要を解説</div>
+              </div>
+            </a>
+          </li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"アメリカ\",\"item\":\"https://trips-now.com/usa-esta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ESTAとビザの違い\",\"item\":\"https://trips-now.com/usa-esta-vs-visa/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

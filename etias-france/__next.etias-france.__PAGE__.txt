@@ -1,0 +1,121 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T208f,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/etias-about/">ETIAS</a> ＞ フランス渡航とETIAS</div>
+ <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
+  <img src="/tripnavi-hero-a.jpg" alt="フランス渡航" style="width: 100%; height: 280px; object-fit: cover;">
+</div>
+      <article class="article-detail">
+ <span class="card-tag" data-color="blue">渡航手続き</span>
+ <h1>フランス渡航にETIASは必要？パリ旅行前に知っておくべき申請情報</h1>
+ <div class="article-meta">
+ <span class="meta-date">更新日：2026年05月02日</span>
+ </div>
+ <div class="content">
+
+<h2>フランス渡航にETIASは必要か</h2>
+<p><strong>はい、フランスはシェンゲン協定加盟国であるため、ETIAS導入後はフランスへの渡航にETIASの取得が必要です。</strong>フランスはシェンゲン協定の原加盟国の一つであり、パリ、ニース、リヨン、マルセイユなどフランス本土への渡航はすべてETIASの対象となります。日本人に最も人気のあるヨーロッパの渡航先の一つであるフランスへの旅行を計画されている方は、ETIAS導入後は事前に渡航認証を取得してください。ETIASの概要は<a href="/etias-about/">ETIASとは</a>をご確認ください。</p>
+
+<h2>フランス渡航のETIAS基本情報</h2>
+<figure class="wp-block-table">
+<table>
+<thead>
+<tr><th>項目</th><th>内容</th></tr>
+</thead>
+<tbody>
+<tr><td>ETIASの要否</td><td>必要（シェンゲン協定加盟国のため）</td></tr>
+<tr><td>申請費用</td><td>20ユーロ（約3,400円）</td></tr>
+<tr><td>有効期限</td><td>3年間</td></tr>
+<tr><td>最大滞在日数</td><td>180日間のうち最大90日（シェンゲン圏全体で合算）</td></tr>
+<tr><td>入国空港</td><td>パリ・シャルル・ド・ゴール空港、オルリー空港など</td></tr>
+<tr><td>フランスの首都</td><td>パリ</td></tr>
+<tr><td>通貨</td><td>ユーロ（EUR）</td></tr>
+<tr><td>時差</td><td>日本より-8時間（サマータイム時-7時間）</td></tr>
+</tbody>
+</table>
+</figure>
+
+<h2>パリ旅行に向けたETIAS申請の流れ</h2>
+<p>パリ旅行を計画している方は、以下の手順でETIASを申請します。</p>
+<ul>
+<li><strong>渡航の72時間以上前</strong>にETIAS公式サイトまたはアプリから申請を開始</li>
+<li>パスポート情報、個人情報を入力（最初に入国する国として「フランス」を選択）</li>
+<li>セキュリティ質問に回答</li>
+<li>申請料20ユーロを支払い</li>
+<li>メールで承認通知を受信</li>
+</ul>
+<p>通常は数分で承認されますが、余裕を持って申請してください。申請の詳細な手順は<a href="/etias-application/">ETIAS申請方法・手順ガイド</a>をご参照ください。</p>
+
+<h2>フランスの主要空港と入国審査</h2>
+<p>日本からフランスへの直行便が就航している主な空港と入国に関する情報をまとめます。</p>
+<ul>
+<li><strong>パリ・シャルル・ド・ゴール空港（CDG）</strong>：日本からの直行便が最も多く就航する空港。エールフランス、ANA、JALなどが運航。入国審査はターミナル2で行われることが多い。</li>
+<li><strong>パリ・オルリー空港（ORY）</strong>：国内線やヨーロッパ内の短距離便が中心。パリ市内へのアクセスが良い。</li>
+</ul>
+<p>ETIAS導入後は、入国審査時にパスポートとETIAS認証が電子的に照合されます。紙の印刷物は不要ですが、念のためスクリーンショットを保存しておくと安心です。</p>
+
+<h2>フランスからの周遊旅行とETIAS</h2>
+<p>フランスを起点にヨーロッパ周遊旅行を計画されている方にとって、ETIASは非常に便利です。1つのETIASでシェンゲン圏30カ国すべてに渡航できるため、以下のような周遊ルートも1回の申請で対応可能です。</p>
+<ul>
+<li>パリ → ブリュッセル（ベルギー）→ アムステルダム（オランダ）</li>
+<li>パリ → バルセロナ（スペイン）→ ローマ（イタリア）</li>
+<li>パリ → チューリッヒ（スイス）→ ミュンヘン（ドイツ）</li>
+<li>ニース → モナコ → ジェノヴァ（イタリア）</li>
+</ul>
+<p>ただし、シェンゲン圏全体での滞在日数は合算されるため、180日間のうち合計90日を超えないよう注意してください。対象国一覧は<a href="/etias-countries/">ETIAS対象国一覧</a>をご確認ください。</p>
+
+<h2>フランスの海外領土とETIAS</h2>
+<p>注意が必要なのは、フランスには本土以外に海外県・海外領土が存在し、これらはシェンゲン圏に含まれないということです。</p>
+<ul>
+<li><strong>シェンゲン圏（ETIAS対象）</strong>：フランス本土、コルシカ島</li>
+<li><strong>シェンゲン圏外（ETIAS対象外）</strong>：グアドループ、マルティニーク、レユニオン、フランス領ギアナ、マヨット、ニューカレドニア、フランス領ポリネシア（タヒチ）など</li>
+</ul>
+<p>フランス海外領土への渡航には別途入国要件を確認してください。</p>
+
+<h2>よくある質問（FAQ）</h2>
+<h3>Q. パリへの旅行にETIASはいつから必要ですか？</h3>
+<p>ETIASの正式な運用開始日はまだ確定していません。2026年中の開始が見込まれています。最新情報は<a href="/etias-start-date/">ETIASはいつから？</a>をご確認ください。</p>
+
+<h3>Q. フランスに長期留学する場合もETIASで大丈夫ですか？</h3>
+<p>いいえ。90日を超える長期滞在（留学、就労など）の場合はETIASではなく、フランスのビザが必要です。<a href="/etias-vs-visa/">ETIASとビザの違い</a>をご確認ください。</p>
+
+<h3>Q. シャルル・ド・ゴール空港でのトランジットにもETIASは必要ですか？</h3>
+<p>空港の入国審査を通過する場合はETIASが必要です。国際線エリア内のみでの乗り継ぎの場合は不要なケースもありますが、多くの場合はフランスの入国審査を通過するためETIASが必要と考えてください。</p>
+
+<h3>Q. ETIASのほかにフランス入国に必要なものはありますか？</h3>
+<p>ETIASと有効なパスポートがあれば、短期渡航（90日以内）の場合はフランスに入国できます。ただし、入国審査時に帰国便の予約確認や滞在先の情報を求められる場合がありますので、これらの書類も準備しておくことをお勧めします。</p>
+
+<h3>Q. モナコへの渡航にもETIASは必要ですか？</h3>
+<p>モナコはシェンゲン協定に加盟していませんが、事実上フランスを経由して入国するため、フランスのETIAS認証が必要です。モナコ独自の入国審査はありません。</p>
+
+ </div>
+ </article>
+
+      <section class="related-articles">
+ <h2 class="related-title">ETIAS関連記事</h2>
+ <div class="related-grid">
+ <a href="/etias-about/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1485081669829-bacb8c7bb1f3?w=300&h=180&fit=crop" alt="ETIASとは" />
+ <p>ETIASとは？EU渡航認証システムの概要</p>
+ </a>
+ <a href="/etias-italy/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?w=300&h=180&fit=crop" alt="イタリアETIAS" />
+ <p>イタリア渡航にETIASは必要？</p>
+ </a>
+ <a href="/etias-countries/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=300&h=180&fit=crop" alt="ETIAS対象国" />
+ <p>ETIAS対象国一覧（シェンゲン協定加盟国）</p>
+ </a>
+ <a href="/etias-application/" class="related-card">
+ <img src="https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=300&h=180&fit=crop" alt="ETIAS申請" />
+ <p>ETIAS申請方法・手順ガイド</p>
+ </a>
+ </div>
+ </section>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

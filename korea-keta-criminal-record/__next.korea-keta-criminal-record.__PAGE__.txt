@@ -1,0 +1,143 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T8a6,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"犯罪歴があるとK-ETAは必ず却下されますか？","acceptedAnswer":{"@type":"Answer","text":"必ず却下されるわけではありません。事案の内容や時期、その後の事情などにより個別に判断されます。軽微なものか重大なものかでも扱いは異なります。"}},{"@type":"Question","name":"申請フォームの犯罪歴の質問には正直に答えるべきですか？","acceptedAnswer":{"@type":"Answer","text":"はい。質問には正確に回答してください。虚偽の申告は信頼性を損ない、入国時のトラブルや将来の渡航への影響につながる可能性があります。"}},{"@type":"Question","name":"犯罪歴は申請後に修正できますか？","acceptedAnswer":{"@type":"Answer","text":"できません。犯罪歴を含む一部の重要項目は審査開始後の変更ができません。回答内容は申請前によく確認してください。"}},{"@type":"Question","name":"不安がある場合はどうすればよいですか？","acceptedAnswer":{"@type":"Answer","text":"判断に迷う場合は、行政書士など渡航手続きに詳しい専門家への相談や、在外公館でのビザ申請を検討するのが安全です。自己判断で繰り返し再申請するのは避けましょう。"}},{"@type":"Question","name":"却下された場合はどうなりますか？","acceptedAnswer":{"@type":"Answer","text":"却下（Not OK）の場合、そのK-ETAでは入国できません。入力ミスが原因なら再申請、それ以外で解決が難しい場合はビザの取得を検討します。連続して不承認になると再申請が制限される場合があります。"}},{"@type":"Question","name":"過去の渡航で問題がなければ大丈夫ですか？","acceptedAnswer":{"@type":"Answer","text":"過去に問題なく入国できていても、審査は申請ごとに行われます。状況が変わっている場合もあるため、最新の取り扱いはK-ETA公式サイトで確認し、不安があれば専門家に相談してください。"}}]}3:T2e2e,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/korea-keta-application/">韓国 K-ETA</a> ＞
+        犯罪歴がある場合
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>犯罪歴があるとK-ETAは取れない？申請時の考え方【韓国旅行】</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">犯罪歴があるとK-ETAは取れない？</a></li>
+                <li><a href="#section2">申請フォームの質問項目</a></li>
+                <li><a href="#section3">正直に回答することが大切な理由</a></li>
+                <li><a href="#section4">不承認になりやすいケース</a></li>
+                <li><a href="#section5">不安がある場合の選択肢</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>「過去に犯罪歴があるけれど、K-ETAは取れるの？」という不安を抱える方は少なくありません。この記事では、<strong>犯罪歴がある場合のK-ETA申請の考え方</strong>を、質問項目への向き合い方や選択肢とともに整理します。なお、最終的な可否は審査によって個別に判断されます。</p>
+
+          <h2 id="section1">犯罪歴があるとK-ETAは取れない？</h2>
+          <p>犯罪歴があるからといって、<strong>必ずK-ETAが却下されるわけではありません</strong>。事案の内容（軽微か重大か）、発生した時期、その後の事情などにより、個別に判断されます。一方で、重大な事案については慎重に審査され、不承認となる場合もあります。</p>
+
+          <div class="info-box">
+            <h4>基本の考え方</h4>
+            <ul>
+              <li>犯罪歴があっても一律に却下されるとは限らない</li>
+              <li>事案の内容・時期などにより個別に判断される</li>
+              <li>質問には正確に回答することが前提</li>
+              <li>不安が大きい場合はビザ・専門家相談も選択肢</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">申請フォームの質問項目</h2>
+          <p>K-ETAの申請では、犯罪歴や過去の渡航に関する質問項目があります。これらは「はい／いいえ」で回答する形式が中心です。犯罪歴を含む一部の重要項目は、<strong>審査開始後に修正できません</strong>。回答内容は申請前によく確認しましょう。</p>
+
+          <div class="warn-box">
+            <h4>修正できない項目に注意</h4>
+            <p>姓名・生年月日・国籍・パスポート番号・顔写真・渡航歴・犯罪歴などは、申請後の変更ができません。誤りがあった場合は、正しい内容での再申請が必要になります。</p>
+          </div>
+
+          <h2 id="section3">正直に回答することが大切な理由</h2>
+          <p>不利になりそうな情報を隠したくなるかもしれませんが、<strong>虚偽の申告は避けるべき</strong>です。申告内容と実態が食い違うと、信頼性を損ない、入国時のトラブルや将来の渡航への影響につながる可能性があります。質問には事実に基づいて正確に回答しましょう。</p>
+
+          <h2 id="section4">不承認になりやすいケース</h2>
+          <p>一般に、次のようなケースでは審査が慎重になりやすいと考えられます。</p>
+          <ul>
+            <li>重大な犯罪に関する記録がある</li>
+            <li>過去に入国を拒否された、または強制退去となった記録がある</li>
+            <li>オーバーステイ（不法滞在）の記録がある</li>
+            <li>申告内容に矛盾や不自然な点がある</li>
+          </ul>
+          <p>これらに該当する場合でも、必ず却下されるとは限りませんが、不承認の可能性を想定して準備しておくと安心です。</p>
+
+          <h2 id="section5">不安がある場合の選択肢</h2>
+          <p>判断に迷う場合や、不承認のリスクが気になる場合は、次の選択肢があります。</p>
+          <div class="info-box">
+            <h4>検討したい選択肢</h4>
+            <ul>
+              <li><strong>専門家に相談する:</strong> 行政書士など渡航手続きに詳しい専門家に相談する</li>
+              <li><strong>ビザを申請する:</strong> 在外公館（韓国大使館・領事館）でビザ申請を検討する</li>
+              <li><strong>公式情報を確認する:</strong> K-ETA公式サイトで最新の取り扱いを確認する</li>
+            </ul>
+          </div>
+
+          <div class="warn-box">
+            <h4>繰り返しの再申請は避ける</h4>
+            <p>原因を確認しないまま再申請を繰り返すと、一定期間内に複数回不承認となった場合に再申請が制限されることがあります。不安がある場合は、自己判断で連続申請せず、専門家やビザ申請を検討しましょう。</p>
+          </div>
+
+          <h2 id="section6">よくある質問</h2>
+          <div class="faq-item"><h3>Q: 犯罪歴があるとK-ETAは必ず却下されますか？</h3><p><strong>A:</strong> 必ず却下されるわけではありません。事案の内容や時期、その後の事情などにより個別に判断されます。軽微なものか重大なものかでも扱いは異なります。</p></div>
+          <div class="faq-item"><h3>Q: 申請フォームの犯罪歴の質問には正直に答えるべきですか？</h3><p><strong>A:</strong> はい。質問には正確に回答してください。虚偽の申告は信頼性を損ない、入国時のトラブルや将来の渡航への影響につながる可能性があります。</p></div>
+          <div class="faq-item"><h3>Q: 犯罪歴は申請後に修正できますか？</h3><p><strong>A:</strong> できません。犯罪歴を含む一部の重要項目は審査開始後の変更ができません。回答内容は申請前によく確認してください。</p></div>
+          <div class="faq-item"><h3>Q: 不安がある場合はどうすればよいですか？</h3><p><strong>A:</strong> 判断に迷う場合は、行政書士など渡航手続きに詳しい専門家への相談や、在外公館でのビザ申請を検討するのが安全です。自己判断で繰り返し再申請するのは避けましょう。</p></div>
+          <div class="faq-item"><h3>Q: 却下された場合はどうなりますか？</h3><p><strong>A:</strong> 却下（Not OK）の場合、そのK-ETAでは入国できません。入力ミスが原因なら再申請、それ以外で解決が難しい場合はビザの取得を検討します。連続して不承認になると再申請が制限される場合があります。</p></div>
+          <div class="faq-item"><h3>Q: 過去の渡航で問題がなければ大丈夫ですか？</h3><p><strong>A:</strong> 過去に問題なく入国できていても、審査は申請ごとに行われます。状況が変わっている場合もあるため、最新の取り扱いはK-ETA公式サイトで確認し、不安があれば専門家に相談してください。</p></div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>犯罪歴があっても、<strong>一律にK-ETAが却下されるわけではありません</strong>。事案の内容や時期などにより個別に判断されます。申請の質問には正確に回答することが前提で、虚偽申告は避けてください。</p>
+          <p>重大な事案や入国拒否歴などで不安がある場合は、繰り返しの再申請を避け、専門家への相談や在外公館でのビザ申請を検討するのが安全です。最終的な可否や最新の取り扱いは、K-ETA公式サイトでご確認ください。</p>
+
+          <div class="info-box">
+            <h4>犯罪歴がある場合のポイント</h4>
+            <ul>
+              <li>犯罪歴があっても一律却下ではなく個別判断</li>
+              <li>質問には正確に回答（虚偽申告はNG）</li>
+              <li>犯罪歴など重要項目は申請後に修正不可</li>
+              <li>不安があればビザ・専門家相談を検討</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-rejection/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAが却下された場合の対処法</h3></div></a>
+            <a href="/korea-keta-vs-visa/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAとビザの違い</h3></div></a>
+            <a href="/korea-keta-application/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAの申請方法を解説</h3></div></a>
+            <a href="/korea-keta-about/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAとは？制度の概要</h3></div></a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">韓国K-ETAの関連記事</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-renewal/" style="color: #D4885A; text-decoration: underline;">K-ETAの更新・再申請</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-check/" style="color: #D4885A; text-decoration: underline;">申請状況・結果を確認する方法</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-transit/" style="color: #D4885A; text-decoration: underline;">乗り継ぎ（トランジット）でK-ETAは必要？</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">韓国K-ETA 記事一覧</h3>
+        <ol class="sidebar-ranking">
+          <li><a href="/korea-keta-application/"><span class="rank-num">1</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">K-ETAの申請方法</div></div></a></li>
+          <li><a href="/korea-keta-rejection/"><span class="rank-num">2</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">却下された場合</div></div></a></li>
+          <li><a href="/korea-keta-vs-visa/"><span class="rank-num">3</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">K-ETAとビザの違い</div></div></a></li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"韓国 K-ETA\",\"item\":\"https://trips-now.com/korea-keta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"犯罪歴がある場合のK-ETA\",\"item\":\"https://trips-now.com/korea-keta-criminal-record/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

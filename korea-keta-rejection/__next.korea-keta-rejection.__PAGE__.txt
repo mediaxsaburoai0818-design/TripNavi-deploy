@@ -1,0 +1,153 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T8e3,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"K-ETAが却下されると韓国に行けないのですか？","acceptedAnswer":{"@type":"Answer","text":"却下（Not OK）の場合、そのK-ETAでは入国できません。ただし、入力ミスが原因なら正しい情報での再申請で承認される可能性があります。入力に問題がないのに却下される場合は、ビザの取得を検討します。"}},{"@type":"Question","name":"却下の理由は教えてもらえますか？","acceptedAnswer":{"@type":"Answer","text":"却下理由が個別に詳しく開示されないことが多いです。まずは入力情報に誤りがないかを丁寧に確認し、改善できる点があれば修正したうえで再申請を検討してください。"}},{"@type":"Question","name":"入力ミスで却下されたらどうすればいいですか？","acceptedAnswer":{"@type":"Answer","text":"姓名のスペル、パスポート番号、生年月日などを正しい内容に直したうえで、新規に再申請します。審査開始後は修正できないため、再申請時は決済前に入力内容をよく確認しましょう。"}},{"@type":"Question","name":"何度も却下されると再申請できなくなりますか？","acceptedAnswer":{"@type":"Answer","text":"一定期間内に複数回（一般に3回以上）不承認になると、その後の一定期間（おおむね180日程度）は再申請が制限される場合があります。同じ内容での繰り返し申請は避けましょう。"}},{"@type":"Question","name":"犯罪歴があると必ず却下されますか？","acceptedAnswer":{"@type":"Answer","text":"必ず却下されるわけではありません。事案の内容や時期などにより判断されます。不安がある場合は、専門家への相談やビザ取得の検討も選択肢になります。"}},{"@type":"Question","name":"却下された場合の申請料金は返金されますか？","acceptedAnswer":{"@type":"Answer","text":"K-ETAの申請手数料は、審査の結果にかかわらず原則として返金されません。再申請する場合は、あらためて手数料が発生します。"}}]}3:T3264,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞
+        <a href="/korea-keta-application/">韓国 K-ETA</a> ＞
+        却下された場合
+      </div>
+
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
+        <h1>K-ETAが却下（Not OK）された場合の原因と対処法【韓国旅行】</h1>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月09日</span>
+        </div>
+
+        <div class="content">
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
+            <nav>
+              <ol>
+                <li><a href="#section1">K-ETAの却下（Not OK）とは</a></li>
+                <li><a href="#section2">却下される主な原因</a>
+                  <ul>
+                    <li><a href="#section2-1">入力ミス・情報の不一致</a></li>
+                    <li><a href="#section2-2">過去の渡航・滞在に関する事情</a></li>
+                    <li><a href="#section2-3">犯罪歴など</a></li>
+                  </ul>
+                </li>
+                <li><a href="#section3">却下されたときの対処法</a></li>
+                <li><a href="#section4">連続して却下された場合の制限</a></li>
+                <li><a href="#section5">ビザを検討すべきケース</a></li>
+                <li><a href="#section6">よくある質問</a></li>
+                <li><a href="#section7">まとめ</a></li>
+              </ol>
+            </nav>
+          </div>
+
+          <p>せっかく韓国旅行を計画したのに、K-ETAが「<strong>Not OK（不承認）</strong>」になってしまうと不安になりますよね。この記事では、<strong>K-ETAが却下される主な原因と、その後の対処法</strong>を整理します。落ち着いて原因を切り分けることが大切です。</p>
+
+          <h2 id="section1">K-ETAの却下（Not OK）とは</h2>
+          <p>K-ETAの審査結果が「<strong>Not OK（不承認）</strong>」となった場合、そのK-ETAでは韓国に入国できません。ただし、却下の理由が入力ミスのような修正可能なものか、それ以外かによって、その後の対応は変わります。</p>
+
+          <div class="info-box">
+            <h4>まず確認したいこと</h4>
+            <ul>
+              <li>姓名のスペルやパスポート番号に誤りがないか</li>
+              <li>生年月日・国籍など基本情報が正しいか</li>
+              <li>顔写真が規定（白背景・サイズなど）を満たしていたか</li>
+              <li>質問項目への回答に矛盾がなかったか</li>
+            </ul>
+          </div>
+
+          <h2 id="section2">却下される主な原因</h2>
+
+          <h3 id="section2-1">入力ミス・情報の不一致</h3>
+          <p>もっとも多いのが、<strong>パスポート情報の入力ミス</strong>です。姓と名の取り違え、スペル誤り、番号の打ち間違いなどがあると、パスポートの記載と一致せず却下されることがあります。この場合は、正しい情報で再申請すれば承認される可能性があります。</p>
+
+          <h3 id="section2-2">過去の渡航・滞在に関する事情</h3>
+          <p>過去に入国を拒否された、オーバーステイ（不法滞在）の記録があるといった事情がある場合、審査で慎重に判断されることがあります。これらは申請後に修正できない項目に含まれます。</p>
+
+          <h3 id="section2-3">犯罪歴など</h3>
+          <p>重大な犯罪歴がある場合などは、審査で不承認となることがあります。ただし、必ず却下されるわけではなく、事案の内容や時期などにより判断されます。詳しくは犯罪歴に関する解説ページもあわせてご覧ください。</p>
+
+          <div class="warn-box">
+            <h4>虚偽申告は避ける</h4>
+            <p>不利になりそうな情報を隠したり、事実と異なる回答をしたりすると、かえって信頼性を損ない、入国時のトラブルにつながる可能性があります。質問には正確に回答しましょう。</p>
+          </div>
+
+          <h2 id="section3">却下されたときの対処法</h2>
+          <p>K-ETAが却下されたら、次の手順で落ち着いて対応しましょう。</p>
+          <ul>
+            <li><strong>1.</strong> 入力した情報とパスポートを照合し、誤りがないか確認する</li>
+            <li><strong>2.</strong> 入力ミスが見つかった場合は、正しい情報で再申請する</li>
+            <li><strong>3.</strong> 入力に問題がないのに却下された場合は、再申請を繰り返さず原因を検討する</li>
+            <li><strong>4.</strong> 必要に応じて、ビザの取得や専門家への相談を検討する</li>
+          </ul>
+
+          <div class="info-box">
+            <h4>再申請は公式窓口から</h4>
+            <p>再申請はK-ETA公式サイト（www.k-eta.go.kr）または公式アプリ「K-ETA」から行います。再申請のたびに申請手数料（₩10,300前後）が発生し、却下されても返金はされません。</p>
+          </div>
+
+          <h2 id="section4">連続して却下された場合の制限</h2>
+          <p>一定期間内に<strong>複数回（一般に3回以上）不承認</strong>になると、その後の一定期間（おおむね180日程度）は再申請が制限される場合があります。原因を確認しないまま同じ内容で繰り返し申請することは避けましょう。</p>
+
+          <div class="warn-box">
+            <h4>「とりあえず再申請」はNG</h4>
+            <p>原因を切り分けずに連続で再申請すると、制限にかかって渡航計画に支障が出る恐れがあります。1回目の却下時に、入力内容を丁寧に見直すことが重要です。</p>
+          </div>
+
+          <h2 id="section5">ビザを検討すべきケース</h2>
+          <p>入力情報に誤りがないのに却下される場合は、K-ETAでの入国が難しい可能性があります。その場合は、<strong>在外公館でのビザ申請</strong>を検討します。とくに、過去の入国拒否歴や重大な犯罪歴など、申請内容に不安がある場合は、無理に再申請を繰り返さず、ビザ申請や専門家への相談を検討するのが安全です。</p>
+
+          <h2 id="section6">よくある質問</h2>
+          <div class="faq-item"><h3>Q: K-ETAが却下されると韓国に行けないのですか？</h3><p><strong>A:</strong> 却下（Not OK）の場合、そのK-ETAでは入国できません。ただし、入力ミスが原因なら正しい情報での再申請で承認される可能性があります。入力に問題がないのに却下される場合は、ビザの取得を検討します。</p></div>
+          <div class="faq-item"><h3>Q: 却下の理由は教えてもらえますか？</h3><p><strong>A:</strong> 却下理由が個別に詳しく開示されないことが多いです。まずは入力情報に誤りがないかを丁寧に確認し、改善できる点があれば修正したうえで再申請を検討してください。</p></div>
+          <div class="faq-item"><h3>Q: 入力ミスで却下されたらどうすればいいですか？</h3><p><strong>A:</strong> 姓名のスペル、パスポート番号、生年月日などを正しい内容に直したうえで、新規に再申請します。審査開始後は修正できないため、再申請時は決済前に入力内容をよく確認しましょう。</p></div>
+          <div class="faq-item"><h3>Q: 何度も却下されると再申請できなくなりますか？</h3><p><strong>A:</strong> 一定期間内に複数回（一般に3回以上）不承認になると、その後の一定期間（おおむね180日程度）は再申請が制限される場合があります。同じ内容での繰り返し申請は避けましょう。</p></div>
+          <div class="faq-item"><h3>Q: 犯罪歴があると必ず却下されますか？</h3><p><strong>A:</strong> 必ず却下されるわけではありません。事案の内容や時期などにより判断されます。不安がある場合は、専門家への相談やビザ取得の検討も選択肢になります。</p></div>
+          <div class="faq-item"><h3>Q: 却下された場合の申請料金は返金されますか？</h3><p><strong>A:</strong> K-ETAの申請手数料は、審査の結果にかかわらず原則として返金されません。再申請する場合は、あらためて手数料が発生します。</p></div>
+
+          <h2 id="section7">まとめ</h2>
+          <p>K-ETAが却下（Not OK）された場合、まずは<strong>入力情報とパスポートの照合</strong>を行いましょう。入力ミスが原因なら正しい情報での再申請で承認される可能性があります。一方、情報に問題がないのに却下される場合や、過去の入国拒否歴・重大な犯罪歴がある場合は、再申請を繰り返さずビザの取得や専門家への相談を検討します。</p>
+          <p>連続不承認による再申請制限にも注意が必要です。最新の審査・再申請の取り扱いはK-ETA公式サイトでご確認ください。</p>
+
+          <div class="info-box">
+            <h4>却下時のポイント</h4>
+            <ul>
+              <li>まず入力ミス・情報の不一致を確認</li>
+              <li>入力ミスなら正しい情報で再申請</li>
+              <li>連続不承認は再申請が制限される場合あり</li>
+              <li>解決しない場合はビザ・専門家相談を検討</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/korea-keta-criminal-record/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>犯罪歴がある場合のK-ETA申請</h3></div></a>
+            <a href="/korea-keta-renewal/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAの更新・再申請</h3></div></a>
+            <a href="/korea-keta-check/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>申請状況・結果を確認する方法</h3></div></a>
+            <a href="/korea-keta-vs-visa/" class="related-card"><div class="related-card-body"><span class="related-card-tag">韓国K-ETA</span><h3>K-ETAとビザの違い</h3></div></a>
+          </div>
+        </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">韓国K-ETAの関連記事</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-application/" style="color: #D4885A; text-decoration: underline;">K-ETAの申請方法を解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-about/" style="color: #D4885A; text-decoration: underline;">K-ETAとは？制度の概要</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-smartphone/" style="color: #D4885A; text-decoration: underline;">スマホ・アプリでのK-ETA申請方法</a></li>
+          </ul>
+        </section>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">韓国K-ETA 記事一覧</h3>
+        <ol class="sidebar-ranking">
+          <li><a href="/korea-keta-application/"><span class="rank-num">1</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">K-ETAの申請方法</div></div></a></li>
+          <li><a href="/korea-keta-criminal-record/"><span class="rank-num">2</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">犯罪歴がある場合</div></div></a></li>
+          <li><a href="/korea-keta-check/"><span class="rank-num">3</span><div class="rank-info"><span class="rank-tag">韓国K-ETA</span><div class="rank-title">申請状況・結果の確認</div></div></a></li>
+        </ol>
+      </div>
+    </aside>
+  </div>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://trips-now.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"韓国 K-ETA\",\"item\":\"https://trips-now.com/korea-keta-application/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"K-ETAが却下された場合\",\"item\":\"https://trips-now.com/korea-keta-rejection/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

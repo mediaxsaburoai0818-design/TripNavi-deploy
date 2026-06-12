@@ -1,26 +1,26 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/0t0~vf8vpn6e-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T45a1,<div className="page-layout">
-    <main className="page-main">
-      <div className="breadcrumb">
-        <a href="index.html">ホーム</a> ＞ 
+2:T4f78,<div class="page-layout">
+    <main class="page-main">
+      <div class="breadcrumb">
+        <a href="/">ホーム</a> ＞ 
         <a href="#korea">韓国</a> ＞ 
         <a href="#visa-info">渡航ノウハウ</a> ＞ 
         K-ETAの申請方法
       </div>
 
-      <article className="article-detail">
-        <span className="card-tag">韓国渡航ノウハウ</span>
+      <article class="article-detail">
+        <span class="card-tag">韓国渡航ノウハウ</span>
         <h1>K-ETA(電子旅行許可証)とは？申請方法や一時免除措置について解説【韓国旅行】</h1>
-        <div className="article-meta">
-          <span className="meta-date">更新日：2026年03月31日</span>
+        <div class="article-meta">
+          <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月31日</span>
         </div>
 
-        <div className="content">
+        <div class="content">
           
-          <div className="article-toc">
-            <h4 className="toc-title">📋 目次</h4>
+          <div class="article-toc">
+            <h4 class="toc-title">目次</h4>
             <nav>
               <ol>
                 <li><a href="#section1">K-ETAとは</a>
@@ -47,8 +47,8 @@
           <h2 id="section1">K-ETAとは</h2>
           <p><strong>K-ETA（Korea Electronic Travel Authorization）</strong>は、2021年9月に導入された電子旅行認証制度です。ビザ免除国の国民が90日以内の観光やビジネス目的で韓国に入国する際に必要となります。アメリカのESTAと同様の仕組みです。</p>
 
-          <div className="info-box">
-            <h4>📌 K-ETAの特徴</h4>
+          <div class="info-box">
+            <h4>K-ETAの特徴</h4>
             <ul>
               <li><strong>導入日:</strong> 2021年9月</li>
               <li><strong>有効期限:</strong> 承認日から3年間（2023年7月2日以降）</li>
@@ -60,7 +60,7 @@
 
           <h3 id="section1-1">2026年12月までK-ETA一時免除措置が延長</h3>
           
-          <div className="info-box">
+          <div class="info-box">
             <h4>✨ 重要：一時免除措置（2026年12月31日まで）</h4>
             <p>日本を含む22の国・地域が対象となる一時免除措置が実施されています：</p>
             <ul>
@@ -140,8 +140,8 @@
           
           <h2 id="section3">K-ETA申請に必要な書類</h2>
           
-          <div className="info-box">
-            <h4>📋 必要な書類</h4>
+          <div class="info-box">
+            <h4>必要な書類</h4>
             <ul>
               <li><strong>パスポート</strong>（ICチップ搭載、有効期限内、残存3か月以上）</li>
               <li><strong>顔写真データ</strong>（JPEG、6か月以内撮影、白背景、100KB以下、700px以下）</li>
@@ -150,8 +150,8 @@
             </ul>
           </div>
 
-          <div className="info-box">
-            <h4>📝 必要な情報</h4>
+          <div class="info-box">
+            <h4>必要な情報</h4>
             <ul>
               <li>個人情報、パスポート情報、連絡先情報</li>
               <li>韓国での滞在先情報</li>
@@ -198,7 +198,7 @@
           
           <h2 id="section5">よくある質問</h2>
 
-          <div className="faq-item">
+          <div class="faq-item">
             <h3>Q1: 日本人でもK-ETAは必要ですか？</h3>
             <p><strong>A:</strong> <strong>2026年12月31日まで</strong>は一時免除措置により、K-ETA不要です。条件は以下の通りです：</p>
             <ul>
@@ -209,7 +209,7 @@
             <p>免除措置終了後は、K-ETA申請が必要になります。</p>
           </div>
 
-          <div className="faq-item">
+          <div class="faq-item">
             <h3>Q2: K-ETAなしで韓国に入国できますか？</h3>
             <p><strong>A:</strong> 以下の場合は可能です：</p>
             <ul>
@@ -218,12 +218,12 @@
             </ul>
           </div>
 
-          <div className="faq-item">
+          <div class="faq-item">
             <h3>Q3: K-ETAの免除は2026年までですか？</h3>
             <p><strong>A:</strong> 現時点では<strong>2026年12月31日まで</strong>です。当初2024年12月31日まででしたが、延長されました。今後も延長または短縮される可能性があります。</p>
           </div>
 
-          <div className="faq-item">
+          <div class="faq-item">
             <h3>Q4: 韓国に入国するにはK-ETAが必要ですか？</h3>
             <p><strong>A:</strong> 国籍、渡航時期、目的により異なります：</p>
             <ul>
@@ -232,12 +232,12 @@
             </ul>
           </div>
 
-          <div className="faq-item">
+          <div class="faq-item">
             <h3>Q5: K-ETAはいつまで有効ですか？</h3>
             <p><strong>A:</strong> 承認日から<strong>3年間</strong>有効です。ただし、パスポート有効期限が3年未満の場合は、その期限までとなります。有効期限内は複数回渡航可能で、1回の滞在は最長90日です。</p>
           </div>
 
-          <div className="faq-item">
+          <div class="faq-item">
             <h3>Q6: K-ETAは申請後に内容を変更できますか？</h3>
             <p><strong>A:</strong> 審査開始後は変更不可です。入力ミスも修正できません。パスポート更新や氏名変更時は、再申請が必要です。</p>
           </div>
@@ -248,8 +248,8 @@
 
           <p>免除措置終了後は、K-ETA申請が必要となります。料金は<strong>₩10,300</strong>、有効期限は<strong>3年間</strong>です。公式ウェブサイトから10ステップで申請できます。</p>
 
-          <div className="info-box">
-            <h4>✅ K-ETA申請のポイント</h4>
+          <div class="info-box">
+            <h4>K-ETA申請のポイント</h4>
             <ul>
               <li>2026年12月31日まで日本人は一時免除措置でK-ETA不要</li>
               <li>申請料金: ₩10,300</li>
@@ -262,76 +262,86 @@
         </div>
 
         
-        <div className="related-articles">
-          <h3 className="related-title">関連記事</h3>
-          <div className="related-grid">
-            <a href="usa-esta-application.html" className="related-card">
-              <div className="related-card-body">
-                <span className="related-card-tag">USA渡航ノウハウ</span>
+        <div class="related-articles">
+          <h3 class="related-title">関連記事</h3>
+          <div class="related-grid">
+            <a href="/usa-esta-application/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">USA渡航ノウハウ</span>
                 <h3>ESTA（エスタ）の申請方法を記入例付きで解説！</h3>
               </div>
             </a>
             
-            <a href="uk-eta-application.html" className="related-card">
-              <div className="related-card-body">
-                <span className="related-card-tag">イギリス渡航ノウハウ</span>
+            <a href="/uk-eta-application/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">イギリス渡航ノウハウ</span>
                 <h3>イギリスETAとは？申請方法を解説</h3>
               </div>
             </a>
             
-            <a href="canada-eta-about.html" className="related-card">
-              <div className="related-card-body">
-                <span className="related-card-tag">カナダeTA</span>
+            <a href="/canada-eta-about/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">カナダeTA</span>
                 <h3>カナダの電子渡航認証eTA（イータ）とは</h3>
               </div>
             </a>
             
-            <a href="australia-etas-about.html" className="related-card">
-              <div className="related-card-body">
-                <span className="related-card-tag">オーストラリア</span>
+            <a href="/australia-etas-about/" class="related-card">
+              <div class="related-card-body">
+                <span class="related-card-tag">オーストラリア</span>
                 <h3>ETAS（イータス）とは - オーストラリア観光ビザ</h3>
               </div>
             </a>
           </div>
         </div>
+
+        <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+          <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-application/" style="color: #D4885A; text-decoration: underline;">イギリスETAとは？申請方法を解説【イギリス入国】</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/guam-eta-application/" style="color: #D4885A; text-decoration: underline;">グアム旅行に必要なGuam-CNMI ETAの申請方法について解説</a></li>
+            <li style="margin-bottom: 0.5rem;"><a href="/usa-vwp/" style="color: #D4885A; text-decoration: underline;">ビザ免除プログラム(VWP)とは？対象国・条件・ESTAとの違いを解説</a></li>
+          </ul>
+        </section>
+      <section style="margin-top:2rem;padding:1.5rem;background-color:#FFF8F3;border-radius:12px;border-left:4px solid #D4885A;"><h3 style="margin-top:0;color:#D4885A;font-size:1.1rem;">韓国K-ETAの関連記事</h3><ul style="list-style:none;padding:0;margin:0;"><li style="margin-bottom:0.5rem;"><a href="/korea-keta-about/" style="color:#D4885A;text-decoration:underline;">K-ETAとは？制度の概要</a></li><li style="margin-bottom:0.5rem;"><a href="/korea-keta-vs-visa/" style="color:#D4885A;text-decoration:underline;">K-ETAとビザの違い</a></li><li style="margin-bottom:0.5rem;"><a href="/korea-keta-validity/" style="color:#D4885A;text-decoration:underline;">K-ETAの有効期限はいつまで？</a></li><li style="margin-bottom:0.5rem;"><a href="/korea-keta-smartphone/" style="color:#D4885A;text-decoration:underline;">スマホ・アプリで申請する方法</a></li><li style="margin-bottom:0.5rem;"><a href="/korea-keta-check/" style="color:#D4885A;text-decoration:underline;">申請状況・審査結果を確認する方法</a></li><li style="margin-bottom:0.5rem;"><a href="/korea-keta-rejection/" style="color:#D4885A;text-decoration:underline;">却下された場合の原因と対処</a></li><li style="margin-bottom:0.5rem;"><a href="/korea-keta-renewal/" style="color:#D4885A;text-decoration:underline;">更新・再申請が必要なケース</a></li><li style="margin-bottom:0.5rem;"><a href="/korea-keta-criminal-record/" style="color:#D4885A;text-decoration:underline;">犯罪歴がある場合の考え方</a></li><li style="margin-bottom:0.5rem;"><a href="/korea-keta-transit/" style="color:#D4885A;text-decoration:underline;">乗り継ぎでK-ETAは必要？</a></li></ul></section>
       </article>
     </main>
 
     
-    <aside className="sidebar">
-      <div className="sidebar-section">
-        <h3 className="sidebar-title">人気記事ランキング</h3>
-        <ol className="sidebar-ranking">
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">人気記事ランキング</h3>
+        <ol class="sidebar-ranking">
           <li>
-            <a href="canada-eta-about.html">
-              <span className="rank-num">1</span>
-              <div className="rank-info">
-                <span className="rank-tag">カナダeTA</span>
-                <div className="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
+            <a href="/canada-eta-about/">
+              <span class="rank-num">1</span>
+              <div class="rank-info">
+                <span class="rank-tag">カナダeTA</span>
+                <div class="rank-title">カナダの電子渡航認証eTA（イータ）とは</div>
               </div>
             </a>
           </li>
           <li>
-            <a href="australia-etas-about.html">
-              <span className="rank-num">2</span>
-              <div className="rank-info">
-                <span className="rank-tag">オーストラリア</span>
-                <div className="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
+            <a href="/australia-etas-about/">
+              <span class="rank-num">2</span>
+              <div class="rank-info">
+                <span class="rank-tag">オーストラリア</span>
+                <div class="rank-title">ETAS（イータス）とは - オーストラリア観光ビザ</div>
               </div>
             </a>
           </li>
           <li>
-            <a href="usa-esta-application.html">
-              <span className="rank-num">3</span>
-              <div className="rank-info">
-                <span className="rank-tag">USA ESTA</span>
-                <div className="rank-title">ESTA（エスタ）の申請方法を解説</div>
+            <a href="/usa-esta-application/">
+              <span class="rank-num">3</span>
+              <div class="rank-info">
+                <span class="rank-tag">USA ESTA</span>
+                <div class="rank-title">ESTA（エスタ）の申請方法を解説</div>
               </div>
             </a>
           </li>
         </ol>
       </div>
     </aside>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BUw1Fe83VmYHU62kZXI8s"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0UUAihTmUVFWij2ddtmp5"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
