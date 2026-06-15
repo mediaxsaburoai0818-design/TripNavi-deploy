@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+3:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+2:T127e,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/">オセアニア</a> ＞ ニュージーランド ＞ NZeTAとは｜ニュージーランドの電子渡航認証</div>
+ <article class="article-detail">
+ <span class="card-tag" data-color="orange">渡航認証</span>
+ <h1>NZeTAとは｜ニュージーランドの電子渡航認証</h1>
+ <div class="article-meta"><span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月15日</span></div>
+ <div class="content">
+<div style="background:#FFF8F3;border:1px solid #E8C9B0;border-radius:12px;padding:1.2rem;margin-bottom:1.5rem;">
+<p style="margin:0 0 0.6rem;font-weight:bold;color:#D4885A;">NZeTA 早わかり（NZ移民局・2026年6月確認）</p>
+<ul style="margin:0;padding-left:1.2rem;line-height:1.9;">
+<li><strong>費用：アプリ NZD17 ／ ウェブ NZD23</strong>（アプリが安い）</li>
+<li><strong>別途 IVL（国際観光環境保全税）NZD100</strong> をNZeTA申請時に同時支払い</li>
+<li><strong>有効期限：発給から2年</strong>（期間内は複数回渡航可）</li>
+<li><strong>1回の滞在：最大3ヶ月</strong>（12ヶ月のうち通算6ヶ月まで）</li>
+<li><strong>審査：72時間を見込む</strong></li>
+<li>日本はビザ免除国。ビザは不要だが<strong>NZeTAの事前取得が必要</strong></li>
+</ul>
+</div>
+<h2 class="wp-block-heading">NZeTA(エヌゼットイーティーエー)とは</h2>
+<p>NZeTA（New Zealand Electronic Travel Authority）は、ニュージーランドが導入している電子渡航認証です。日本を含むビザ免除国・地域のパスポート保持者は、観光・休暇・親族訪問などの短期渡航であればビザを取得せずに入国できますが、その場合でも<strong>渡航前にNZeTAを取得しておくことが必須</strong>です。オーストラリアのETAS(ETA)と同様、入国に必要な事前認証と考えるとわかりやすいでしょう。</p>
+<h2 class="wp-block-heading">日本国籍でもNZeTAは必要</h2>
+<p>日本はニュージーランドのビザ免除国に含まれているため、短期の観光であればビザは不要です。ただしビザ免除で渡航する場合はNZeTAの取得が条件となっており、NZeTAなしでは航空機への搭乗を拒否される可能性があります。NZeTAは観光だけでなく、ニュージーランドでの乗り継ぎ(トランジット)でも必要になる場合があるため、NZを経由する旅程の方も取得しておくと安心です。</p>
+<h2 class="wp-block-heading">オーストラリアETAS(ETA)との違い</h2>
+<p>オセアニアを周遊する場合、オーストラリアとニュージーランドはそれぞれ別の渡航認証が必要です。豪ETASは有効期限12ヶ月・費用AUD20で税の上乗せはありませんが、NZeTAは有効期限2年と長い一方、本体費用に加えてIVL（国際観光環境保全税）NZD100が必ずかかります。両国を訪れる場合は、それぞれの認証を別々に取得してください。</p><p style="margin-top:1rem;font-size:0.85rem;color:#888;">出典：ニュージーランド移民局 Immigration New Zealand 公式サイト（2026年6月15日確認）。費用・制度は変更される場合があるため、申請前に必ず公式サイトでご確認ください。</p>
+ </div>
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-about/" style="color: #D4885A; text-decoration: underline;">NZeTAとは｜ニュージーランド電子渡航認証</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-application/" style="color: #D4885A; text-decoration: underline;">NZeTAの申請方法・手順</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-cost/" style="color: #D4885A; text-decoration: underline;">NZeTAの費用とIVL(国際観光環境保全税)</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-validity/" style="color: #D4885A; text-decoration: underline;">NZeTAの有効期限と滞在可能期間</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-about/" style="color: #D4885A; text-decoration: underline;">オーストラリアETAS(ETA)とは</a></li>
+   </ul>
+ </section>
+ </article>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"kXNKdj7wxh_NXfXqCUkOf"}
+5:null

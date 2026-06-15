@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+3:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+2:Tf3c,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/">オセアニア</a> ＞ ニュージーランド ＞ NZeTAの有効期限と滞在可能期間</div>
+ <article class="article-detail">
+ <span class="card-tag" data-color="orange">渡航認証</span>
+ <h1>NZeTAの有効期限と滞在可能期間</h1>
+ <div class="article-meta"><span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月15日</span></div>
+ <div class="content">
+<h2 class="wp-block-heading">NZeTAの有効期限は2年間</h2>
+<p>NZeTAの有効期限は、旅行者の場合<strong>発給から2年間</strong>です（航空・船舶の乗組員は5年）。有効期限内であれば、その都度申請し直すことなく<strong>複数回ニュージーランドへ渡航できます</strong>。オーストラリアETAS(ETA)の有効期限が12ヶ月であるのに対し、NZeTAは2年と長めに設定されています。</p>
+<h2 class="wp-block-heading">1回の滞在は最大3ヶ月・12ヶ月で通算6ヶ月まで</h2>
+<p>有効期限が2年ある一方で、滞在期間にはルールがあります。NZeTAでの<strong>1回の滞在は最大3ヶ月まで</strong>。さらに、<strong>12ヶ月の期間内で合計6ヶ月を超えて滞在することはできません</strong>。長期滞在や繰り返しの長期渡航を予定している場合は、適切なビザの取得を検討してください。</p>
+<h2 class="wp-block-heading">パスポートとの関係</h2>
+<p>NZeTAはパスポート情報に紐づいて発行されます。NZeTAの有効期限内であっても、渡航に使うパスポートが申請時のものと異なる場合や、パスポートの有効期限が切れている場合は利用できません。渡航前にパスポートの有効期限を必ず確認し、余裕がない場合は更新してからNZeTAを申請するのが安心です。</p>
+<h2 class="wp-block-heading">有効期限が切れたら再申請</h2>
+<p>NZeTAに更新の仕組みはありません。有効期限の2年が過ぎた後も渡航する場合は、あらためてNZeTA(本体費用＋IVL)を申請し直す必要があります。次回の渡航予定が近い場合は、有効期限を確認しておきましょう。</p><p style="margin-top:1rem;font-size:0.85rem;color:#888;">出典：ニュージーランド移民局 Immigration New Zealand 公式サイト（2026年6月15日確認）。費用・制度は変更される場合があるため、申請前に必ず公式サイトでご確認ください。</p>
+ </div>
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-about/" style="color: #D4885A; text-decoration: underline;">NZeTAとは｜ニュージーランド電子渡航認証</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-application/" style="color: #D4885A; text-decoration: underline;">NZeTAの申請方法・手順</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-cost/" style="color: #D4885A; text-decoration: underline;">NZeTAの費用とIVL(国際観光環境保全税)</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-validity/" style="color: #D4885A; text-decoration: underline;">NZeTAの有効期限と滞在可能期間</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-about/" style="color: #D4885A; text-decoration: underline;">オーストラリアETAS(ETA)とは</a></li>
+   </ul>
+ </section>
+ </article>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"kXNKdj7wxh_NXfXqCUkOf"}
+5:null
