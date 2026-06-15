@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T1248,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/">オセアニア</a> ＞ ニュージーランド ＞ NZeTAの費用とIVL(国際観光環境保全税)</div>
+ <article class="article-detail">
+ <span class="card-tag" data-color="orange">渡航認証</span>
+ <h1>NZeTAの費用とIVL(国際観光環境保全税)</h1>
+ <div class="article-meta"><span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月15日</span></div>
+ <div class="content">
+<h2 class="wp-block-heading">NZeTAの費用は「本体＋IVL」の2階建て</h2>
+<p>NZeTAにかかる費用は、NZeTA本体の申請料と、IVL（International Visitor Conservation and Tourism Levy／国際観光環境保全税）の2つで構成されます。NZeTA本体は<strong>公式アプリでNZD17、ウェブ申請でNZD23</strong>。これに<strong>IVL NZD100</strong>が加わり、申請時にまとめて支払います。</p>
+<h2 class="wp-block-heading">合計費用の目安</h2>
+<table class="comparison-table" style="width:100%;border-collapse:collapse;margin:1rem 0;">
+<thead><tr><th style="border-bottom:2px solid #ddd;text-align:left;padding:8px;">申請方法</th><th style="border-bottom:2px solid #ddd;text-align:left;padding:8px;">NZeTA本体</th><th style="border-bottom:2px solid #ddd;text-align:left;padding:8px;">IVL</th><th style="border-bottom:2px solid #ddd;text-align:left;padding:8px;">合計</th></tr></thead>
+<tbody>
+<tr><td style="padding:8px;border-bottom:1px solid #eee;">公式アプリ</td><td style="padding:8px;border-bottom:1px solid #eee;">NZD17</td><td style="padding:8px;border-bottom:1px solid #eee;">NZD100</td><td style="padding:8px;border-bottom:1px solid #eee;font-weight:bold;">NZD117</td></tr>
+<tr><td style="padding:8px;border-bottom:1px solid #eee;">ウェブ</td><td style="padding:8px;border-bottom:1px solid #eee;">NZD23</td><td style="padding:8px;border-bottom:1px solid #eee;">NZD100</td><td style="padding:8px;border-bottom:1px solid #eee;font-weight:bold;">NZD123</td></tr>
+</tbody></table>
+<p>アプリ申請の方がNZD6安くなります。家族で渡航する場合はそれぞれにNZeTAとIVLが必要なため、人数分の費用がかかります。</p>
+<h2 class="wp-block-heading">IVLとは</h2>
+<p>IVL（国際観光環境保全税）は、ニュージーランドが観光資源と自然環境の保全のために、多くの海外渡航者に課している税です。NZeTAの対象者は申請時にIVLを同時に支払う仕組みになっており、NZeTA本体だけを支払うことはできません。費用は申請が却下されても返金されない点に注意してください。</p>
+<h2 class="wp-block-heading">豪ETASとの費用比較</h2>
+<p>オーストラリアのETAS(ETA)はサービス料AUD20のみで税の上乗せはありません。一方ニュージーランドのNZeTAはIVL NZD100が必須のため、認証だけで見ると費用はNZの方が高くなります。オセアニア周遊では両国分の費用を見込んでおきましょう。</p><p style="margin-top:1rem;font-size:0.85rem;color:#888;">出典：ニュージーランド移民局 Immigration New Zealand 公式サイト（2026年6月15日確認）。費用・制度は変更される場合があるため、申請前に必ず公式サイトでご確認ください。</p>
+ </div>
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-about/" style="color: #D4885A; text-decoration: underline;">NZeTAとは｜ニュージーランド電子渡航認証</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-application/" style="color: #D4885A; text-decoration: underline;">NZeTAの申請方法・手順</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-cost/" style="color: #D4885A; text-decoration: underline;">NZeTAの費用とIVL(国際観光環境保全税)</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-validity/" style="color: #D4885A; text-decoration: underline;">NZeTAの有効期限と滞在可能期間</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-about/" style="color: #D4885A; text-decoration: underline;">オーストラリアETAS(ETA)とは</a></li>
+   </ul>
+ </section>
+ </article>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"kXNKdj7wxh_NXfXqCUkOf"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

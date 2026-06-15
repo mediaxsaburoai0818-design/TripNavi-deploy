@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+3:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+2:T1078,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/">オセアニア</a> ＞ ニュージーランド ＞ NZeTAの申請方法・手順</div>
+ <article class="article-detail">
+ <span class="card-tag" data-color="orange">渡航認証</span>
+ <h1>NZeTAの申請方法・手順</h1>
+ <div class="article-meta"><span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月15日</span></div>
+ <div class="content">
+<h2 class="wp-block-heading">NZeTAは公式アプリかウェブから申請</h2>
+<p>NZeTAは、ニュージーランド移民局の<strong>公式NZeTAアプリ（iOS/Android・無料）</strong>または<strong>公式ウェブサイト</strong>から申請します。費用は申請方法で異なり、<strong>アプリ NZD17 / ウェブ NZD23</strong>とアプリの方が安く設定されています。アプリでは最大10名まで同時に申請できるため、家族やグループでの渡航時はアプリが便利です。いずれの方法でも、NZeTA本体の費用に加えて<strong>IVL（国際観光環境保全税）NZD100</strong>を同時に支払います。</p>
+<h2 class="wp-block-heading">申請に必要なもの</h2>
+<p>申請にはパスポート、有効なメールアドレス、支払い用のクレジットカード等が必要です。アプリではパスポートの読み取りや顔写真の撮影を求められる場合があります。申請内容（氏名・パスポート番号など）はパスポートの記載と完全に一致させてください。情報が一致しないと、認証が有効でも搭乗・入国を拒否される可能性があります。</p>
+<h2 class="wp-block-heading">審査時間は72時間が目安</h2>
+<p>NZ移民局は、NZeTAの審査に<strong>最大72時間を見込む</strong>よう案内しています。多くの場合はより短時間で処理されますが、追加確認が必要なケースでは時間がかかることがあります。航空券の手配後すぐ、遅くとも渡航の数日前までには申請を済ませておきましょう。承認結果はメールで通知されます。</p>
+<h2 class="wp-block-heading">申請時の注意点</h2>
+<p>NZeTAの費用とIVLは、申請が却下された場合でも原則返金されません。申請は必ずニュージーランド移民局の公式アプリ・公式サイトから行い、手数料を上乗せする非公式の代行サイトに注意してください。最新の費用・手順は申請前に公式サイトで確認することをおすすめします。</p><p style="margin-top:1rem;font-size:0.85rem;color:#888;">出典：ニュージーランド移民局 Immigration New Zealand 公式サイト（2026年6月15日確認）。費用・制度は変更される場合があるため、申請前に必ず公式サイトでご確認ください。</p>
+ </div>
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-about/" style="color: #D4885A; text-decoration: underline;">NZeTAとは｜ニュージーランド電子渡航認証</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-application/" style="color: #D4885A; text-decoration: underline;">NZeTAの申請方法・手順</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-cost/" style="color: #D4885A; text-decoration: underline;">NZeTAの費用とIVL(国際観光環境保全税)</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-validity/" style="color: #D4885A; text-decoration: underline;">NZeTAの有効期限と滞在可能期間</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-about/" style="color: #D4885A; text-decoration: underline;">オーストラリアETAS(ETA)とは</a></li>
+   </ul>
+ </section>
+ </article>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"kXNKdj7wxh_NXfXqCUkOf"}
+5:null

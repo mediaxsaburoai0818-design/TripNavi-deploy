@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T394d,<div class="page-layout">
+2:T3e29,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ オーストラリアETAS(イータス)の有効期限と再申請について</div>
 
@@ -9,11 +9,24 @@
  <span class="card-tag" data-color="orange">観光・グルメ</span>
  <h1>オーストラリアETAS(イータス)の有効期限と再申請について</h1>
  <div class="article-meta">
- <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年03月23日</span>
+ <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月15日</span>
  </div>
 
  <div class="content">
 
+<div style="background:#FFF8F3;border:1px solid #E8C9B0;border-radius:12px;padding:1.2rem;margin-bottom:1.5rem;">
+<p style="margin:0 0 0.6rem;font-weight:bold;color:#D4885A;">公式情報まとめ（豪内務省・2026年6月確認）</p>
+<ul style="margin:0;padding-left:1.2rem;line-height:1.9;">
+<li><strong>有効期限：発給から12ヶ月</strong>（期間内は何度でも渡航可）</li>
+<li><strong>1回の滞在：最大3ヶ月</strong></li>
+<li><strong>費用：サービス料 AUD20</strong>（「Australian ETA」アプリの利用料。これ以外の課金なし・返金不可）</li>
+<li><strong>申請：スマホ専用「Australian ETA」アプリ</strong>（パスポートICチップ読取＋顔写真撮影）</li>
+<li><strong>審査：多くの場合は即時通知</strong>（不備時は時間を要する）</li>
+<li><strong>パスポート更新時は新ETAの再申請が必要</strong>（旧ETAは移行不可・サービス料も再度発生）</li>
+<li>用途は観光・短期商用。就労は不可</li>
+</ul>
+<p style="margin:0.6rem 0 0;font-size:0.85rem;color:#888;">出典：オーストラリア内務省 Electronic Travel Authority (subclass 601) 公式ページ（2026年6月15日確認）</p>
+</div>
 <h2 class="wp-block-heading">オーストラリアETAS(イータス)の有効期限と再申請について</h2>
 <div class="counter-flat lazyloaded" id="ez-toc-container">
 <div class="ez-toc-title-container lazyloaded">
@@ -84,6 +97,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"6V70YC4oS_H3ucVtcbQ75"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"kXNKdj7wxh_NXfXqCUkOf"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
