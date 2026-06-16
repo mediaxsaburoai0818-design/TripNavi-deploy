@@ -1,0 +1,46 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T12c3,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ オーストラリアETAS(ETA)の料金と支払い方法</div>
+ <article class="article-detail">
+ <span class="card-tag" data-color="orange">渡航認証</span>
+ <h1>オーストラリアETAS(ETA)の料金と支払い方法</h1>
+ <div class="article-meta"><span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月16日</span></div>
+ <div class="content">
+<div style="background:#FFF8F3;border:1px solid #E8C9B0;border-radius:12px;padding:1.2rem;margin-bottom:1.5rem;">
+<p style="margin:0 0 0.6rem;font-weight:bold;color:#D4885A;">料金の要点(豪内務省・2026年6月確認)</p>
+<ul style="margin:0;padding-left:1.2rem;line-height:1.9;">
+<li><strong>サービス料 AUD20</strong>(「Australian ETA」アプリの利用料)</li>
+<li><strong>これ以外の課金は一切なし</strong>(ビザ申請料は別途不要)</li>
+<li><strong>返金不可</strong>(non-refundable)</li>
+<li>支払い: Mastercard / Visa / American Express / Diners Club / JCB</li>
+<li>パスポート更新で再申請する場合は<strong>AUD20が再度発生</strong></li>
+</ul>
+</div>
+<h2 class="wp-block-heading">ETASの料金はサービス料AUD20のみ</h2>
+<p>オーストラリアのETAS(ETA・subclass601)にかかる費用は、公式アプリ「Australian ETA」の<strong>サービス料 AUD20のみ</strong>です。豪内務省は「アプリの利用にAUD20のサービス料がかかり、ETAに対してそれ以外の支払いは発生しない」と明記しています。ビザのような申請料は別途かからず、料金体系は非常にシンプルです。AUD20は日本円でおよそ2,000円前後(為替により変動)が目安です。</p>
+<h2 class="wp-block-heading">支払い方法と返金について</h2>
+<p>支払いはクレジットカード(Mastercard・Visa・American Express・Diners Club・JCB)で行います。<strong>このサービス料は返金されません</strong>(申請が不承認の場合も同様)。申請内容に誤りがないか、支払い前に十分確認してください。</p>
+<h2 class="wp-block-heading">再申請時は再度AUD20</h2>
+<p>ETAはパスポートに紐づくため、パスポートを更新したり有効期限(発給から12ヶ月)が切れて再取得する場合は、改めてAUD20のサービス料がかかります。料金は申請ごとに発生する仕組みです。</p>
+<h2 class="wp-block-heading">ニュージーランドNZeTAとの費用比較</h2>
+<p>オセアニアを周遊する場合、ニュージーランドのNZeTAは費用構造が異なります。NZeTAは本体がアプリNZD17/ウェブNZD23で、さらに<strong>IVL(国際観光環境保全税)NZD100が必須</strong>のため、認証だけで見るとNZの方が高くなります。詳しくは<a class="aioseop-link" href="/nz-eta-cost/">NZeTAの費用とIVL</a>をご覧ください。豪ETASはサービス料AUD20のみで税の上乗せがない点が特徴です。</p><p style="margin-top:1rem;font-size:0.85rem;color:#888;">出典：オーストラリア内務省(Department of Home Affairs)Electronic Travel Authority (subclass 601)公式ページ(2026年6月16日確認)。費用・制度は変更される場合があるため、申請前に必ず公式情報をご確認ください。</p>
+ </div>
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-about/" style="color: #D4885A; text-decoration: underline;">ETASとは -オーストラリア観光ビザ(電子渡航認証)</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-application/" style="color: #D4885A; text-decoration: underline;">ETASの申請方法・手順</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-cost/" style="color: #D4885A; text-decoration: underline;">ETASの料金(AUD20)と支払い方法</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-validity/" style="color: #D4885A; text-decoration: underline;">ETASの有効期限と再申請</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-about/" style="color: #D4885A; text-decoration: underline;">NZeTA(ニュージーランド)とは</a></li>
+   </ul>
+ </section>
+ </article>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"48npwuRInx_Nq-0WfuYKL"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T15d6,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ オーストラリアETAS(ETA)の申請方法・手順</div>
+ <article class="article-detail">
+ <span class="card-tag" data-color="orange">渡航認証</span>
+ <h1>オーストラリアETAS(ETA)の申請方法・手順</h1>
+ <div class="article-meta"><span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月16日</span></div>
+ <div class="content">
+<div style="background:#FFF8F3;border:1px solid #E8C9B0;border-radius:12px;padding:1.2rem;margin-bottom:1.5rem;">
+<p style="margin:0 0 0.6rem;font-weight:bold;color:#D4885A;">申請の要点(豪内務省・2026年6月確認)</p>
+<ul style="margin:0;padding-left:1.2rem;line-height:1.9;">
+<li>申請は<strong>スマホ専用「Australian ETA」アプリ</strong>から(App Store/Google Playで無料)</li>
+<li><strong>パスポートのICチップ読み取り＋本人の顔写真撮影</strong>で手続き</li>
+<li><strong>サービス料 AUD20</strong>(アプリ利用料。これ以外の課金なし・返金不可)</li>
+<li><strong>審査は多くの場合すぐに結果通知</strong>。不備時は時間がかかることも</li>
+<li>日本国籍パスポートは対象。用途は観光・短期商用</li>
+</ul>
+</div>
+<h2 class="wp-block-heading">申請は「Australian ETA」アプリから</h2>
+<p>オーストラリアのETAS(現地名称ETA・subclass601)は、オーストラリア内務省の公式スマートフォンアプリ「<strong>Australian ETA</strong>」から申請するのが個人の標準的な方法です。アプリはApple App StoreおよびGoogle Playから無料でダウンロードでき、申請時にパスポートのICチップを読み取り、本人のライブ写真(顔写真)を撮影して手続きを進めます。なお、旅行代理店・航空会社・専門業者経由での申請ルートも公式に案内されています。</p>
+<h2 class="wp-block-heading">申請に必要なもの</h2>
+<p>申請には、ICチップ付きの有効なパスポート、NFC対応のスマートフォン、有効なメールアドレス、サービス料AUD20の支払い用クレジットカード(Mastercard・Visa・American Express・Diners Club・JCB)が必要です。入力したパスポート情報は実際のパスポートと完全に一致させてください。</p>
+<h2 class="wp-block-heading">申請の手順</h2>
+<p>(1)「Australian ETA」アプリをインストール →(2)パスポートのICチップを読み取り →(3)顔写真を撮影 →(4)必要事項を入力 →(5)サービス料AUD20を支払い、申請完了。承認結果はメールおよびアプリで通知されます。ETAはパスポートに電子的に紐づくため、紙の証書は発行されません。</p>
+<h2 class="wp-block-heading">審査時間と申請のタイミング</h2>
+<p>豪内務省は「多くの場合、申請結果は即時に通知される」としています。ただし内容に不備があったり追加情報が必要な場合は時間を要することがあるため、公式は「ETAが付与されるまで航空券などの旅行手配を確定しないこと」を推奨しています。余裕をもって渡航の数日前までに申請を済ませましょう。</p>
+<h2 class="wp-block-heading">パスポートを更新したら再申請が必要</h2>
+<p>ETAは申請したパスポートに紐づくため、パスポートを更新した場合は<strong>新しいパスポートで改めてETAを申請する必要があります</strong>(旧ETAは新パスポートに引き継げません)。その際もサービス料AUD20が再度発生します。詳しくは<a class="aioseop-link" href="/australia-etas-validity/">ETASの有効期限と再申請</a>をご覧ください。</p><p style="margin-top:1rem;font-size:0.85rem;color:#888;">出典：オーストラリア内務省(Department of Home Affairs)Electronic Travel Authority (subclass 601)公式ページ(2026年6月16日確認)。費用・制度は変更される場合があるため、申請前に必ず公式情報をご確認ください。</p>
+ </div>
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-about/" style="color: #D4885A; text-decoration: underline;">ETASとは -オーストラリア観光ビザ(電子渡航認証)</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-application/" style="color: #D4885A; text-decoration: underline;">ETASの申請方法・手順</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-cost/" style="color: #D4885A; text-decoration: underline;">ETASの料金(AUD20)と支払い方法</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-validity/" style="color: #D4885A; text-decoration: underline;">ETASの有効期限と再申請</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-about/" style="color: #D4885A; text-decoration: underline;">NZeTA(ニュージーランド)とは</a></li>
+   </ul>
+ </section>
+ </article>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"48npwuRInx_Nq-0WfuYKL"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null
