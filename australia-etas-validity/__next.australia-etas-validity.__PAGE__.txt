@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T3e29,<div class="page-layout">
+2:T3f7e,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-australia/">オセアニア</a> ＞ <a href="/country-australia/">オーストラリア</a> ＞ <a href="/">観光・グルメ</a> ＞ オーストラリアETAS(イータス)の有効期限と再申請について</div>
 
@@ -64,6 +64,8 @@
  <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
    <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
    <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-application/" style="color: #D4885A; text-decoration: underline;">ETASの申請方法・手順</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-cost/" style="color: #D4885A; text-decoration: underline;">ETASの料金(AUD20)と支払い方法</a></li>
      <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-about/" style="color: #D4885A; text-decoration: underline;">ETASとは -オーストラリア観光ビザ(電子渡航認証システム)</a></li>
      <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-renewal/" style="color: #D4885A; text-decoration: underline;">ETAS(イータス)更新方法について</a></li>
      <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-timing/" style="color: #D4885A; text-decoration: underline;">ETAS(イータス)申請のベストなタイミングとは？</a></li>
@@ -97,6 +99,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"48npwuRInx_Nq-0WfuYKL"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"D1VZdlTv2iXshz0rr-K3a"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
