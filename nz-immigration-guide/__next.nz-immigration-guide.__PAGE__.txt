@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T18e3,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/">オセアニア</a> ＞ ニュージーランド ＞ 入国審査ガイド</div>
+ <article class="article-detail">
+ <span class="card-tag" data-color="orange">入国審査</span>
+ <h1>ニュージーランド入国審査ガイド</h1>
+ <div class="article-meta"><span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月16日</span></div>
+ <div class="content">
+<div style="background:#FFF8F3;border:1px solid #E8C9B0;border-radius:12px;padding:1.2rem;margin-bottom:1.5rem;">
+<p style="margin:0 0 0.6rem;font-weight:bold;color:#D4885A;">NZ入国の要点(公式・2026年6月確認)</p>
+<ul style="margin:0;padding-left:1.2rem;line-height:1.9;">
+<li>渡航前に<strong>NZeTA</strong>取得+<strong>NZ Traveller Declaration(NZTD)</strong>提出が必須</li>
+<li>NZTDは<strong>無料・出発24時間前から</strong>提出可(公式: travellerdeclaration.govt.nz)</li>
+<li>日本のeパスポートは<strong>eGate(自動化ゲート)対象</strong>(10歳以上)</li>
+<li>パスポートは<strong>出国予定日から3ヶ月以上</strong>の有効期限が必要</li>
+<li>検疫が非常に厳格。食品・はちみつ等は必ず申告。<strong>申告漏れは即時罰金NZD400</strong></li>
+</ul>
+</div>
+<h2 class="wp-block-heading">ニュージーランド入国の全体像</h2>
+<p>ニュージーランドへの入国は、(1)渡航前に<strong>NZeTA(電子渡航認証)</strong>を取得し、(2)<strong>NZ Traveller Declaration(NZTD・デジタル入国申告)</strong>を提出、(3)到着後に入国審査(eGateまたは有人)、(4)荷物受取、(5)税関・バイオセキュリティ検査、という流れです。日本はビザ免除国ですが、NZeTAとNZTDはビザの有無に関わらず必要です。NZeTAの詳細は<a class="aioseop-link" href="/nz-eta-about/">NZeTAとは</a>をご覧ください。</p>
+<h2 class="wp-block-heading">NZ Traveller Declaration(NZTD)の提出</h2>
+<p>NZTDは2023年に紙の到着カードを置き換えたデジタル入国申告で、<strong>全入国者に提出義務</strong>があります。<strong>出発の24時間前から</strong>、公式サイト(travellerdeclaration.govt.nz)または公式NZTDアプリで提出できます。料金は<strong>無料</strong>で、手数料を取る代行サイトは公式が利用を避けるよう注意喚起しています。渡航・税関・検疫・健康に関する質問に回答し、入国審査に到達する時点までに完了が必要です。リファレンス番号で後から修正もできます。</p>
+<h2 class="wp-block-heading">入国審査はeGateが使える</h2>
+<p>日本のICチップ入りeパスポート保持者(10歳以上)は、オークランド・ウェリントン・クライストチャーチ・クイーンズタウンの空港で<strong>eGate(自動化ゲート)</strong>を利用できます。顔認証でスムーズに通過でき、到着時に必要なのはパスポートとNZTDの提出完了です(搭乗券は出発時のみ必要)。</p>
+<h2 class="wp-block-heading">バイオセキュリティ(検疫)が世界有数に厳格</h2>
+<p>ニュージーランドは自然環境保護のため検疫が非常に厳しく、食品・果物・野菜・<strong>はちみつ</strong>・植物・木製品・土の付いたアウトドア用品などは申告が必須です。「申告すれば没収・処分で済むことが多いが、<strong>申告漏れは故意でなくても即時罰金NZD400</strong>(厳格責任)」という構造です。故意の隠匿・虚偽申告は最大NZD100,000の罰金・最大5年の禁錮の対象になります。<strong>迷ったら必ず申告</strong>が鉄則です。はちみつ・ミツバチ関連(巣板・蜜蝋・養蜂器具)は持ち込み禁止品に含まれます。</p>
+<h2 class="wp-block-heading">必要書類とパスポート要件</h2>
+<p>パスポートは<strong>NZ出国予定日から3ヶ月以上</strong>の有効期限が必要です。加えて取得済みのNZeTA、滞在資金を示せる書類、状況により復路・第三国行きの航空券を求められる場合があります(具体的な金額基準は公式に明示されていないため、余裕をもって準備しましょう)。</p>
+<h2 class="wp-block-heading">日本語が不安な方へ</h2>
+<p>NZTDは出発24時間前にアプリで事前提出しておくと当日がスムーズです(パスポートをスキャンして入力でき、後から修正可)。なお申告フォーム本体やeGateの日本語対応状況は公式で明確化されていないため、英語に不安がある場合は事前にアプリで入力を済ませ、申告すべき品目(食品・はちみつ・木製品・キャンプ用品)を出発前に確認しておくと安心です。豪州も訪れる場合は<a class="aioseop-link" href="/australia-immigration-guide/">オーストラリアの入国審査ガイド</a>もあわせてご覧ください。</p><p style="margin-top:1rem;font-size:0.85rem;color:#888;">出典：ニュージーランド移民局(Immigration NZ)・NZ税関(NZ Customs)・第一次産業省(MPI)・NZ Traveller Declaration公式(2026年6月16日確認)。制度・金額は変更される場合があるため渡航前に公式でご確認ください。</p>
+ </div>
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-about/" style="color: #D4885A; text-decoration: underline;">NZeTAとは｜申請・費用・有効期限</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-japan/" style="color: #D4885A; text-decoration: underline;">日本人はNZeTAが必要？</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-immigration-guide/" style="color: #D4885A; text-decoration: underline;">オーストラリア入国審査ガイド</a></li>
+   </ul>
+ </section>
+ </article>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"8D6OM8OUvmc4YekxlJmZL"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

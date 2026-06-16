@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+3:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/11g__.5wd7i15.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+2:T1245,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/">オセアニア</a> ＞ ニュージーランド ＞ ニュージーランド乗り継ぎ(トランジット)でNZeTAは必要？</div>
+ <article class="article-detail">
+ <span class="card-tag" data-color="orange">渡航認証</span>
+ <h1>ニュージーランド乗り継ぎ(トランジット)でNZeTAは必要？</h1>
+ <div class="article-meta"><span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月16日</span></div>
+ <div class="content">
+<div style="background:#FFF8F3;border:1px solid #E8C9B0;border-radius:12px;padding:1.2rem;margin-bottom:1.5rem;">
+<p style="margin:0 0 0.6rem;font-weight:bold;color:#D4885A;">要点(NZ移民局・2026年6月確認)</p>
+<ul style="margin:0;padding-left:1.2rem;line-height:1.9;">
+<li>日本はビザ免除国のため、<strong>NZeTAを取得すれば入国・トランジットともに対応可能</strong></li>
+<li>NZを経由して第三国へ向かう場合もNZeTAの取得を推奨</li>
+<li>トランジット専用のビザ免除リスト(transit visa waiver)とは別枠の整理になるため、特殊な経路は事前に公式で確認を</li>
+</ul>
+</div>
+<h2 class="wp-block-heading">日本人は通常NZeTAでトランジット可能</h2>
+<p>ニュージーランドには「トランジット・ビザ免除国(transit visa waiver)」というリストがあり、その国民はオークランド国際空港で最大24時間・トランジットエリア内に限り認証で乗り継ぎができます。日本はこのトランジット専用リストには記載がありませんが、<strong>日本は通常のビザ免除国であり、NZeTAを取得していれば入国もトランジットもカバーされます</strong>。そのため実務上、NZを経由する旅程でもNZeTAを取得しておけば対応できます。</p>
+<h2 class="wp-block-heading">NZ経由で第三国へ行く場合も取得を</h2>
+<p>ニュージーランドで飛行機を乗り継いで別の国へ向かう場合でも、入国(再入国)扱いになるケースがあるため、NZeTAを事前に取得しておくのが安全です。取得していないと、出発地の空港で搭乗を拒否される可能性があります。費用・手順は<a class="aioseop-link" href="/nz-eta-cost/">NZeTAの費用</a>・<a class="aioseop-link" href="/nz-eta-application/">申請方法</a>をご覧ください。</p>
+<h2 class="wp-block-heading">特殊な経路は公式で確認を</h2>
+<p>クルーズ船での入域、長時間のトランジット、複数国を絡む複雑な経路など、特殊なケースではNZeTAだけでカバーされない場合があります。トランジット・ビザ免除の正確な適用関係は旅程によって異なるため、不安な場合はニュージーランド移民局の公式サイトまたは航空会社に事前に確認してください。豪州も経由する場合は別途オーストラリアの<a class="aioseop-link" href="/australia-etas-transit/">ETASの乗り継ぎ要否</a>もご確認を。</p><p style="margin-top:1rem;font-size:0.85rem;color:#888;">出典：ニュージーランド移民局 Immigration New Zealand 公式サイト(2026年6月16日確認)。制度は変更される場合があるため、渡航前に必ず公式情報をご確認ください。</p>
+ </div>
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-about/" style="color: #D4885A; text-decoration: underline;">NZeTAとは｜ニュージーランド電子渡航認証</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-application/" style="color: #D4885A; text-decoration: underline;">NZeTAの申請方法・手順</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-cost/" style="color: #D4885A; text-decoration: underline;">NZeTAの費用とIVL</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-validity/" style="color: #D4885A; text-decoration: underline;">NZeTAの有効期限</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-about/" style="color: #D4885A; text-decoration: underline;">オーストラリアETAS(ETA)とは</a></li>
+   </ul>
+ </section>
+ </article>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"8D6OM8OUvmc4YekxlJmZL"}
+5:null
