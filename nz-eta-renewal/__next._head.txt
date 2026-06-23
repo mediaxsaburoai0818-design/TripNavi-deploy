@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63143,["/_next/static/chunks/07qfxv4j1vlvm.js","/_next/static/chunks/039.kylfqjkva.js"],"ViewportBoundary"]
+3:I[63143,["/_next/static/chunks/07qfxv4j1vlvm.js","/_next/static/chunks/039.kylfqjkva.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[74898,["/_next/static/chunks/07qfxv4j1vlvm.js","/_next/static/chunks/039.kylfqjkva.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"NZeTAの更新・再申請【2026年】期限切れ後の手順とIVL再支払いを解説 | TripsNow"}],["$","meta","1",{"name":"description","content":"NZeTAに「更新」の仕組みはなく、有効期限（2年）が切れたら新規に再申請します。再申請のタイミング・手順・IVL（国際観光保全税）の再支払い・パスポート変更時の対応をNZ移民局の公式情報で解説します。2026年最新版。"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZWDX2KxaTRQUp52BjZ3r-"}

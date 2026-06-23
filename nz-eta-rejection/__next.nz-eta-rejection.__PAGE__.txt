@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+3:I[63143,["/_next/static/chunks/07qfxv4j1vlvm.js","/_next/static/chunks/039.kylfqjkva.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+2:T13cf,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/">オセアニア</a> ＞ ニュージーランド ＞ NZeTAが却下されたら</div>
+ <article class="article-detail">
+ <span class="card-tag" data-color="orange">渡航認証</span>
+ <h1>NZeTAが却下・拒否されたときの原因と対処法</h1>
+ <div class="article-meta"><span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月23日</span></div>
+ <div class="content">
+<p>NZeTA（ニュージーランド電子渡航認証）は多くの場合すぐに承認されますが、申請者によっては<strong>承認されず却下される</strong>ことがあります。ここでは、NZ移民局（Immigration New Zealand）の公式情報にもとづいて、NZeTAが却下される主な原因と、却下された場合にどうすればよいかを解説します。</p>
+
+<h2 class="wp-block-heading">NZeTAが却下される主な原因</h2>
+<p>NZeTAが承認されない代表的なケースは、次のような場合です。</p>
+<ul>
+<li><strong>犯罪歴がある場合</strong>（過去の有罪判決など）</li>
+<li><strong>過去に国外退去・強制送還（deport / remove）されたことがある場合</strong></li>
+<li><strong>人格要件（character）や治安・公共の秩序の観点で懸念があると判断された場合</strong></li>
+</ul>
+<p>NZ移民局は、こうした事情がある人については「NZeTAに頼らず、渡航前に適切なビザを申請すべき」と案内しています。NZeTAは観光・短期渡航者向けの簡易な認証であり、入国に懸念がある人を対象とした制度ではないためです。</p>
+
+<h2 class="wp-block-heading">却下されたらどうする？ ビザ申請への切替</h2>
+<p>NZeTAが却下された、あるいは犯罪歴などで承認が見込めない場合は、<strong>NZeTAではなくビザ（visa）を申請する</strong>必要があります。犯罪歴などがあっても、ケースによっては「人格要件の免除（character waiver）」が検討されることがあります。自己判断で再度NZeTAを申請し直すよりも、自身の状況に合ったビザの種類を確認し、余裕をもって申請することが大切です。</p>
+
+<h2 class="wp-block-heading">入力ミスが原因のことも</h2>
+<p>却下や承認の遅れは、犯罪歴などの本質的な理由だけでなく、<strong>パスポート番号・氏名・生年月日などの入力ミス</strong>が原因のこともあります。申請内容がパスポートと完全に一致しているかを必ず確認しましょう。NZeTAは<strong>申請から72時間（3日）程度</strong>で結果が出るのが目安ですが、追加審査が必要な場合はさらに時間がかかります。出発直前ではなく、余裕をもって申請してください。</p>
+
+<h2 class="wp-block-heading">申請状況の確認方法</h2>
+<p>申請後のステータスは、NZ移民局の公式ポータルで、承認メールに記載された<strong>NZeTAリファレンス番号</strong>を使って確認できます。なかなか結果が来ない場合は、迷惑メールフォルダも確認のうえ、公式サイトでステータスをチェックしましょう。</p>
+
+<p style="margin-top:1rem;font-size:0.85rem;color:#888;">出典：ニュージーランド移民局 Immigration New Zealand 公式サイト（NZeTA／犯罪歴に関する案内、2026年6月23日確認）。制度の細目は変更される場合があるため、申請前に必ず公式サイトでご確認ください。本記事は一般的な情報であり、個別の入国可否を保証するものではありません。</p>
+ </div>
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-about/" style="color: #D4885A; text-decoration: underline;">NZeTAとは｜ニュージーランド電子渡航認証</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-application/" style="color: #D4885A; text-decoration: underline;">NZeTAの申請方法・手順</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-renewal/" style="color: #D4885A; text-decoration: underline;">NZeTAの更新・再申請</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-validity/" style="color: #D4885A; text-decoration: underline;">NZeTAの有効期限と滞在可能期間</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/eta-comparison/" style="color: #D4885A; text-decoration: underline;">各国の電子渡航認証 比較一覧</a></li>
+   </ul>
+ </section>
+ </article>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZWDX2KxaTRQUp52BjZ3r-"}
+5:null
