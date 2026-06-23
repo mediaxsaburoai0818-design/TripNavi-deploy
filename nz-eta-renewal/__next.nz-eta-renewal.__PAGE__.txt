@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+3:I[63143,["/_next/static/chunks/07qfxv4j1vlvm.js","/_next/static/chunks/039.kylfqjkva.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+2:T123d,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/">オセアニア</a> ＞ ニュージーランド ＞ NZeTAの更新・再申請</div>
+ <article class="article-detail">
+ <span class="card-tag" data-color="orange">渡航認証</span>
+ <h1>NZeTAの更新・再申請の方法</h1>
+ <div class="article-meta"><span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月23日</span></div>
+ <div class="content">
+<p>「前回ニュージーランドに行ったときのNZeTAを更新できる？」という疑問を持つ方は多いですが、結論から言うと<strong>NZeTAに「更新（renew）」の仕組みはありません</strong>。ここでは、有効期限が切れた後の再申請の手順や注意点を、NZ移民局（Immigration New Zealand）の公式情報にもとづいて解説します。</p>
+
+<h2 class="wp-block-heading">NZeTAは「更新」できない。期限切れ後は新規に再申請</h2>
+<p>NZeTAの有効期限は<strong>旅行者で発給から2年</strong>（乗務員は5年）です。この期限が切れた後に再びニュージーランドへ渡航する場合は、既存のNZeTAを延長・更新するのではなく、<strong>あらためて新規にNZeTAを申請（リクエスト）</strong>します。手続き自体は初回と同じです。</p>
+
+<h2 class="wp-block-heading">再申請のタイミング</h2>
+<p>NZeTAは<strong>申請から72時間（3日）程度</strong>で結果が出るのが目安ですが、追加審査が入るとさらに時間がかかります。渡航直前にあわてないよう、有効期限が切れている場合は<strong>出発の数日前までに余裕をもって再申請</strong>しておきましょう。なお、有効期限がまだ残っていれば、その期間内は再申請せずに繰り返し渡航できます（1回の滞在は最長3ヶ月などの滞在ルールは適用されます）。</p>
+
+<h2 class="wp-block-heading">再申請でもIVL（国際観光保全税）は再度かかる</h2>
+<p>NZeTAの申請時には、本体費用（アプリ NZD$17／ウェブ NZD$23）に加えて<strong>IVL（国際観光保全税）NZD$100</strong>を支払います。再申請の場合も、原則としてこのIVLは<strong>あらためて必要</strong>になります。費用面でも、有効期限が残っているうちは無駄な再申請をしないのが得策です。</p>
+
+<h2 class="wp-block-heading">パスポートを変更したときは必ず再申請</h2>
+<p>NZeTAはパスポート情報に紐づいて発行されます。そのため、<strong>パスポートを更新・変更した場合は、有効期限が残っていても新しいパスポートでNZeTAを再申請</strong>する必要があります。古いパスポートに紐づいたNZeTAは、新しいパスポートでの渡航には使えません。渡航前にパスポートの有効期限と、NZeTA申請時のパスポートが一致しているかを必ず確認してください。</p>
+
+<p style="margin-top:1rem;font-size:0.85rem;color:#888;">出典：ニュージーランド移民局 Immigration New Zealand 公式サイト（NZeTA／IVL案内、2026年6月23日確認）。費用・制度は変更される場合があるため、申請前に必ず公式サイトでご確認ください。</p>
+ </div>
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-validity/" style="color: #D4885A; text-decoration: underline;">NZeTAの有効期限と滞在可能期間</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-cost/" style="color: #D4885A; text-decoration: underline;">NZeTAの費用とIVL(国際観光環境保全税)</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-application/" style="color: #D4885A; text-decoration: underline;">NZeTAの申請方法・手順</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-rejection/" style="color: #D4885A; text-decoration: underline;">NZeTAが却下・拒否されたら</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/eta-comparison/" style="color: #D4885A; text-decoration: underline;">各国の電子渡航認証 比較一覧</a></li>
+   </ul>
+ </section>
+ </article>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZWDX2KxaTRQUp52BjZ3r-"}
+5:null

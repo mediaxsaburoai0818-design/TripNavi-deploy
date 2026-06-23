@@ -1,0 +1,67 @@
+1:"$Sreact.fragment"
+4:I[63143,["/_next/static/chunks/07qfxv4j1vlvm.js","/_next/static/chunks/039.kylfqjkva.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T2277,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ 電子渡航認証の比較</div>
+ <article class="article-detail">
+ <span class="card-tag" data-color="orange">渡航認証</span>
+ <h1>各国の電子渡航認証 比較一覧【2026年最新】</h1>
+ <div class="article-meta"><span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月23日</span></div>
+ <div class="content">
+<p>近年、ビザなしで短期渡航できる国でも、出発前に<strong>オンラインの「電子渡航認証」</strong>の取得が必須になるケースが増えています。アメリカのESTA、ヨーロッパのETIAS、イギリスのETAなど、名前も料金も有効期限もバラバラで分かりにくいもの。このページでは、日本人旅行者に関係する<strong>主要7つの電子渡航認証</strong>を一覧で比較します。</p>
+
+<h2 class="wp-block-heading">主要7制度の比較表（2026年6月時点）</h2>
+<div style="overflow-x:auto;">
+<table style="width:100%;border-collapse:collapse;font-size:0.9rem;">
+<thead>
+<tr style="background:#FCEEE3;">
+<th style="border:1px solid #E8D5C4;padding:8px;text-align:left;">国・制度</th>
+<th style="border:1px solid #E8D5C4;padding:8px;text-align:left;">料金（原通貨）</th>
+<th style="border:1px solid #E8D5C4;padding:8px;text-align:left;">有効期限</th>
+<th style="border:1px solid #E8D5C4;padding:8px;text-align:left;">1回の滞在上限</th>
+<th style="border:1px solid #E8D5C4;padding:8px;text-align:left;">申請</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="border:1px solid #E8D5C4;padding:8px;"><strong>アメリカ ESTA</strong></td><td style="border:1px solid #E8D5C4;padding:8px;">US$40<br><span style="font-size:0.8rem;color:#888;">（2025年9月に$21から値上げ）</span></td><td style="border:1px solid #E8D5C4;padding:8px;">最長2年</td><td style="border:1px solid #E8D5C4;padding:8px;">最長90日</td><td style="border:1px solid #E8D5C4;padding:8px;">オンライン／公式アプリ</td></tr>
+<tr><td style="border:1px solid #E8D5C4;padding:8px;"><strong>カナダ eTA</strong></td><td style="border:1px solid #E8D5C4;padding:8px;">CAD$7</td><td style="border:1px solid #E8D5C4;padding:8px;">最長5年</td><td style="border:1px solid #E8D5C4;padding:8px;">通常最長6ヶ月（入国時審査）</td><td style="border:1px solid #E8D5C4;padding:8px;">オンライン</td></tr>
+<tr><td style="border:1px solid #E8D5C4;padding:8px;"><strong>オーストラリア ETA</strong></td><td style="border:1px solid #E8D5C4;padding:8px;">AUD$20<br><span style="font-size:0.8rem;color:#888;">（アプリのサービス料）</span></td><td style="border:1px solid #E8D5C4;padding:8px;">12ヶ月</td><td style="border:1px solid #E8D5C4;padding:8px;">1回最長3ヶ月</td><td style="border:1px solid #E8D5C4;padding:8px;">公式アプリ</td></tr>
+<tr><td style="border:1px solid #E8D5C4;padding:8px;"><strong>イギリス ETA</strong></td><td style="border:1px solid #E8D5C4;padding:8px;">£20<br><span style="font-size:0.8rem;color:#888;">（2026年4月に£16から値上げ）</span></td><td style="border:1px solid #E8D5C4;padding:8px;">2年</td><td style="border:1px solid #E8D5C4;padding:8px;">1回最長6ヶ月</td><td style="border:1px solid #E8D5C4;padding:8px;">オンライン／公式アプリ</td></tr>
+<tr><td style="border:1px solid #E8D5C4;padding:8px;"><strong>韓国 K-ETA</strong></td><td style="border:1px solid #E8D5C4;padding:8px;">10,000ウォン<br><span style="font-size:0.8rem;color:#888;">（日本人は2026年末まで免除中）</span></td><td style="border:1px solid #E8D5C4;padding:8px;">3年</td><td style="border:1px solid #E8D5C4;padding:8px;">在留資格による</td><td style="border:1px solid #E8D5C4;padding:8px;">オンライン／公式アプリ</td></tr>
+<tr><td style="border:1px solid #E8D5C4;padding:8px;"><strong>欧州 ETIAS</strong></td><td style="border:1px solid #E8D5C4;padding:8px;">€20<br><span style="font-size:0.8rem;color:#888;">（18歳未満・70歳超は無料）</span></td><td style="border:1px solid #E8D5C4;padding:8px;">3年</td><td style="border:1px solid #E8D5C4;padding:8px;">180日内で90日</td><td style="border:1px solid #E8D5C4;padding:8px;">オンライン（2026年後半 運用開始予定）</td></tr>
+<tr><td style="border:1px solid #E8D5C4;padding:8px;"><strong>NZ NZeTA</strong></td><td style="border:1px solid #E8D5C4;padding:8px;">アプリNZD$17／ウェブNZD$23<br><span style="font-size:0.8rem;color:#888;">＋IVL NZD$100</span></td><td style="border:1px solid #E8D5C4;padding:8px;">2年</td><td style="border:1px solid #E8D5C4;padding:8px;">1回最長3ヶ月</td><td style="border:1px solid #E8D5C4;padding:8px;">公式アプリ（安い）／ウェブ</td></tr>
+</tbody>
+</table>
+</div>
+<p style="font-size:0.85rem;color:#888;margin-top:0.5rem;">※2026年6月時点。料金・運用開始時期は変更されることがあります（特にETIASの開始時期、各国の料金改定）。申請前に必ず各国公式サイトでご確認ください。</p>
+
+<h2 class="wp-block-heading">ポイント①：料金と有効期限は国ごとに大きく違う</h2>
+<p>同じ「電子渡航認証」でも、カナダeTAはCAD$7で<strong>最長5年</strong>と長く使えるのに対し、オーストラリアETAは<strong>12ヶ月</strong>と短め。アメリカESTAは2025年9月に<strong>$21から$40へ値上げ</strong>され、イギリスETAも2026年4月に<strong>£16から£20へ値上げ</strong>されました。「以前取ったときと料金が違う」というケースが増えているため、再渡航時も最新料金の確認をおすすめします。</p>
+
+<h2 class="wp-block-heading">ポイント②：今は「不要」でも今後必要になる国がある</h2>
+<p>ヨーロッパ（シェンゲン圏）の<strong>ETIASは2026年後半に運用開始予定</strong>で、開始後はビザなし渡航にも事前申請が必須になります。韓国<strong>K-ETAは日本人について2026年末まで免除</strong>が延長されていますが、免除期間が終われば再び必要になります。渡航予定の国の「最新の要否」を出発前に必ず確認しましょう。</p>
+
+<h2 class="wp-block-heading">ポイント③：申請は必ず「公式サイト・公式アプリ」で</h2>
+<p>電子渡航認証には、公式を装った高額な代行サイトが多数存在します。料金は各国とも上表のとおりで、これを大きく超える請求には注意が必要です。オーストラリアETA・NZeTAのように<strong>公式スマホアプリからの申請が最も安い</strong>制度もあります。各制度の詳しい申請手順は、下記の個別ページで解説しています。</p>
+
+<p style="margin-top:1rem;font-size:0.85rem;color:#888;">出典：各国政府公式（米CBP、カナダIRCC、豪Home Affairs、英GOV.UK、韓国法務部K-ETA、欧州委員会ETIAS、NZ移民局）2026年6月23日確認。制度・料金は変更される場合があるため、申請前に必ず各公式サイトでご確認ください。</p>
+ </div>
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">国別の詳しい解説はこちら</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/usa-esta-about/" style="color: #D4885A; text-decoration: underline;">アメリカ ESTA とは｜申請方法・料金</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/canada-eta-about/" style="color: #D4885A; text-decoration: underline;">カナダ eTA とは｜申請方法・料金</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-etas-about/" style="color: #D4885A; text-decoration: underline;">オーストラリア ETA(ETAS) とは</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-about/" style="color: #D4885A; text-decoration: underline;">ニュージーランド NZeTA とは</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/uk-eta-application/" style="color: #D4885A; text-decoration: underline;">イギリス ETA の申請方法</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/korea-keta-application/" style="color: #D4885A; text-decoration: underline;">韓国 K-ETA の申請方法</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/etias-vs-esta/" style="color: #D4885A; text-decoration: underline;">ETIAS と ESTA の違い</a></li>
+   </ul>
+ </section>
+ </article>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZWDX2KxaTRQUp52BjZ3r-"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null
