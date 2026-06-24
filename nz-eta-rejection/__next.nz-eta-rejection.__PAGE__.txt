@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-3:I[63143,["/_next/static/chunks/07qfxv4j1vlvm.js","/_next/static/chunks/039.kylfqjkva.js"],"OutletBoundary"]
+3:I[3902,["/_next/static/chunks/10lsb_rd7~9-p.js","/_next/static/chunks/0qaysijcgf3ws.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
 2:T13cf,<div class="page-layout">
  <main class="page-main">
@@ -44,5 +44,5 @@
  </article>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZWDX2KxaTRQUp52BjZ3r-"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"25k9JvNTH2rgI5oiD9H9s"}
 5:null

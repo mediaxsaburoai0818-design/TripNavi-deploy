@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-4:I[63143,["/_next/static/chunks/07qfxv4j1vlvm.js","/_next/static/chunks/039.kylfqjkva.js"],"OutletBoundary"]
+4:I[3902,["/_next/static/chunks/10lsb_rd7~9-p.js","/_next/static/chunks/0qaysijcgf3ws.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
 2:T4cc9,<div class="page-layout">
  <main class="page-main">
@@ -145,6 +145,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZWDX2KxaTRQUp52BjZ3r-"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"25k9JvNTH2rgI5oiD9H9s"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
