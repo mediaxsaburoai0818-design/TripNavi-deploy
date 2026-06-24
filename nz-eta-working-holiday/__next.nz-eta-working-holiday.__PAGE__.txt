@@ -1,0 +1,56 @@
+1:"$Sreact.fragment"
+4:I[3902,["/_next/static/chunks/10lsb_rd7~9-p.js","/_next/static/chunks/0qaysijcgf3ws.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T13c8,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/">オセアニア</a> ＞ ニュージーランド ＞ ワーホリとNZeTA</div>
+ <article class="article-detail">
+ <span class="card-tag" data-color="orange">渡航認証</span>
+ <h1>ニュージーランドのワーホリにNZeTAは使える？必要なビザと違い</h1>
+ <div class="article-meta"><span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月24日</span></div>
+ <div class="content">
+<p>「ニュージーランドでワーホリしたいけど、NZeTAだけで行けるの？」という疑問に答えます。結論から言うと、<strong>ワーキングホリデーはNZeTAでは渡航できず、専用の「ワーキングホリデービザ」が必要</strong>です。NZ移民局（Immigration New Zealand）の公式情報をもとに、NZeTAとの違いを整理します。</p>
+
+<h2 class="wp-block-heading">ワーホリにNZeTAは使えない（ビザが必要）</h2>
+<p>NZeTA（電子渡航認証）でできるのは、<strong>ビザなしでの観光・短期渡航（最大3ヶ月）・乗継・クルーズ</strong>です。就労を主な目的とするワーキングホリデーには使えません。ワーホリをするには、別途<strong>ワーキングホリデービザ（Working Holiday Visa）の取得が必要</strong>です。NZeTAと混同しやすいので注意しましょう。</p>
+
+<h2 class="wp-block-heading">日本人向け NZワーキングホリデービザの基本（2026年時点）</h2>
+<table>
+<thead><tr><th>項目</th><th>内容</th></tr></thead>
+<tbody>
+<tr><td>対象年齢</td><td>18〜30歳</td></tr>
+<tr><td>滞在できる期間</td><td>最長12ヶ月</td></tr>
+<tr><td>ビザ費用</td><td>NZD 770〜</td></tr>
+<tr><td>必要資金（生活費）</td><td>最低 NZD 4,200（別途、帰国用の渡航費が必要）</td></tr>
+<tr><td>就労</td><td>一時的な仕事は可。永続的な仕事（permanent job）は不可</td></tr>
+</tbody>
+</table>
+<p>ワーホリビザでは、滞在しながら一時的に働いて旅費をまかなうことができます。ただし永続的な雇用はできません。年齢の上限（30歳）があるため、検討している場合は早めの申請がおすすめです。</p>
+
+<h2 class="wp-block-heading">ワーホリビザがあればNZeTAは別途不要</h2>
+<p>有効なニュージーランドのビザ（ワーク・スチューデント・ビジター・レジデント等）を持っている人は、<strong>NZeTAは別途取得不要</strong>です。ワーキングホリデービザはワークビザの一種なので、<strong>ワーホリビザ保有者はNZeTAを取る必要はありません</strong>。観光でNZeTAを取った後にワーホリへ切り替える、という関係ではなく、最初からワーホリビザを申請する形になります。</p>
+
+<h2 class="wp-block-heading">まとめ：観光はNZeTA、ワーホリはビザ</h2>
+<ul>
+<li>観光・短期（3ヶ月以内）・乗継 → <strong>NZeTA</strong></li>
+<li>ワーキングホリデー（働きながら長期滞在）→ <strong>ワーキングホリデービザ</strong>（NZeTAは不要）</li>
+</ul>
+
+<p style="margin-top:1rem;font-size:0.85rem;color:#888;">出典：ニュージーランド移民局 Immigration New Zealand 公式サイト（NZeTA／Japan Working Holiday Visa／NZeTA不要な渡航者の案内、2026年6月24日確認）。なお日本国籍者のワーホリ年間発給枠の有無・上限は公式に明示が確認できませんでした。費用・要件は変更される場合があるため、申請前に必ず公式サイトでご確認ください。</p>
+ </div>
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-about/" style="color: #D4885A; text-decoration: underline;">NZeTAとは｜ニュージーランド電子渡航認証</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-application/" style="color: #D4885A; text-decoration: underline;">NZeTAの申請方法・手順</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-validity/" style="color: #D4885A; text-decoration: underline;">NZeTAの有効期限と滞在可能期間</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/australia-working-holiday/" style="color: #D4885A; text-decoration: underline;">オーストラリアのワーキングホリデー</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/eta-comparison/" style="color: #D4885A; text-decoration: underline;">各国の電子渡航認証 比較一覧</a></li>
+   </ul>
+ </section>
+ </article>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"25k9JvNTH2rgI5oiD9H9s"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

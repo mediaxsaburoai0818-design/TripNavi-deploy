@@ -1,0 +1,43 @@
+1:"$Sreact.fragment"
+3:I[3902,["/_next/static/chunks/10lsb_rd7~9-p.js","/_next/static/chunks/0qaysijcgf3ws.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+2:T12f3,<div class="page-layout">
+ <main class="page-main">
+ <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/">オセアニア</a> ＞ ニュージーランド ＞ 子供・赤ちゃんのNZeTA</div>
+ <article class="article-detail">
+ <span class="card-tag" data-color="orange">渡航認証</span>
+ <h1>子供・赤ちゃんのNZeTAは必要？家族で渡航する場合</h1>
+ <div class="article-meta"><span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年06月24日</span></div>
+ <div class="content">
+<p>家族でニュージーランドへ旅行するとき、「子供や赤ちゃんもNZeTAが必要なの？」と迷う方は多いです。結論から言うと、<strong>年齢に関係なく、子供も赤ちゃんも1人ずつ個別にNZeTAが必要</strong>です。NZ移民局（Immigration New Zealand）の公式情報をもとに、家族渡航のポイントを解説します。</p>
+
+<h2 class="wp-block-heading">子供・赤ちゃんも1人ずつNZeTAが必要</h2>
+<p>NZeTAは<strong>渡航者ごと（パスポートごと）に取得</strong>します。家族でまとめて1つ、ということはできません。座席を持たない<strong>膝の上の乳幼児（lap infant）でも、その子自身のNZeTA</strong>が必要です。公式アプリを使えば、最大10人分まで同時に申請できます。</p>
+
+<h2 class="wp-block-heading">子供の分は保護者が代理で申請できる</h2>
+<p>子供のNZeTAは<strong>保護者が代理で申請</strong>できます。申請時には、子供本人の情報に加えて<strong>保護者自身のパスポート情報の入力</strong>が求められます。子供がまだ自分でアカウントを持てなくても、保護者がまとめて手続きできるので安心です。</p>
+
+<h2 class="wp-block-heading">子供のパスポートが必要（出国時3ヶ月以上有効）</h2>
+<p>NZeTAは<strong>子供本人のパスポートに紐づけて申請</strong>します。実際に渡航するパスポートと、申請に使ったパスポートが同一である必要があります。パスポートは<strong>ニュージーランド出国予定日から3ヶ月以上有効</strong>であることが求められるため、子供のパスポートの有効期限も早めに確認しておきましょう。</p>
+
+<h2 class="wp-block-heading">子供にもIVL（国際観光保全税）がかかる</h2>
+<p>NZeTAで渡航する場合、申請料に加えて<strong>IVL（国際観光保全税）NZD100</strong>がかかりますが、これは<strong>子供も同様で、年齢による免除はありません</strong>。IVLはNZeTAの申請料と一緒に支払います。つまり家族4人で渡航する場合は、4人分のNZeTA申請料＋4人分のIVL（NZD100×4）が必要になります。費用がまとまった金額になるため、人数分の予算を見込んでおきましょう。</p>
+<p>（※扶養ビザなど一部のビザにはIVL免除がありますが、観光でNZeTA渡航する子供は免除対象に含まれません。）</p>
+
+<p style="margin-top:1rem;font-size:0.85rem;color:#888;">出典：ニュージーランド移民局 Immigration New Zealand 公式サイト（NZeTA／IVL案内、2026年6月24日確認）。NZeTA申請料は申請方法により異なり（アプリが安い・公式表記「NZD17から」）、これにIVL NZD100が加算されます。費用・制度は変更される場合があるため、申請前に必ず公式サイトでご確認ください。</p>
+ </div>
+ <section style="margin-top: 2rem; padding: 1.5rem; background-color: #FFF8F3; border-radius: 12px; border-left: 4px solid #D4885A;">
+   <h3 style="margin-top: 0; color: #D4885A; font-size: 1.1rem;">関連記事をもっと見る</h3>
+   <ul style="list-style: none; padding: 0; margin: 0;">
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-about/" style="color: #D4885A; text-decoration: underline;">NZeTAとは｜ニュージーランド電子渡航認証</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-cost/" style="color: #D4885A; text-decoration: underline;">NZeTAの費用とIVL(国際観光環境保全税)</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-application/" style="color: #D4885A; text-decoration: underline;">NZeTAの申請方法・手順</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/nz-eta-validity/" style="color: #D4885A; text-decoration: underline;">NZeTAの有効期限と滞在可能期間</a></li>
+     <li style="margin-bottom: 0.5rem;"><a href="/eta-comparison/" style="color: #D4885A; text-decoration: underline;">各国の電子渡航認証 比較一覧</a></li>
+   </ul>
+ </section>
+ </article>
+ </main>
+ <div id="sidebar-mount"></div>
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"25k9JvNTH2rgI5oiD9H9s"}
+5:null
