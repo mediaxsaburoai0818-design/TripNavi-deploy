@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[3902,["/_next/static/chunks/10lsb_rd7~9-p.js","/_next/static/chunks/0qaysijcgf3ws.js"],"OutletBoundary"]
+4:I[63143,["/_next/static/chunks/07qfxv4j1vlvm.js","/_next/static/chunks/039.kylfqjkva.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T43f0,<div class="page-layout">
+2:T4788,<div class="page-layout">
     <main class="page-main">
       <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/country-canada/">北アメリカ</a> ＞ <a href="/usa-esta-application/">アメリカ</a> ＞ <a href="/">入国・ビザガイド</a> ＞ ビザ免除プログラム(VWP)とは</div>
 
@@ -10,6 +10,14 @@
         <h1>ビザ免除プログラム(VWP)とは？対象国・条件・ESTAとの違いを解説</h1>
         <div class="article-meta">
           <span class="meta-author">制作・編集：TripsNow編集部</span><span class="meta-date">更新日：2026年3月5日</span>
+        </div>
+        <div style="border-left:4px solid #2563eb;background:#eff6ff;padding:16px 20px;margin:16px 0;border-radius:8px;">
+          <p style="font-weight:bold;margin:0 0 8px;">【3行でわかる】VWP（ビザ免除プログラム）とは</p>
+          <ul style="margin:0;padding-left:1.2em;line-height:1.8;">
+            <li>日本など指定国の国民が、<strong>ビザなしで最大90日間</strong>アメリカに渡航できる制度です</li>
+            <li>VWPで渡航するには、事前に<strong>ESTA（電子渡航認証）の取得が必須</strong>（手数料US$40）</li>
+            <li>つまり「VWP＝ビザ免除の枠組み」「ESTA＝その枠組みを使うための申請」の関係です → <a class="aioseop-link" href="/usa-esta-about/">ESTAの詳細</a>／<a class="aioseop-link" href="/eta-comparison/">各国の渡航認証を比較</a></li>
+          </ul>
         </div>
         <img src="https://images.unsplash.com/photo-1501466044931-62695aada8e9?w=800&h=400&fit=crop" alt="アメリカの国旗とパスポート" class="article-hero" />
 
@@ -186,6 +194,6 @@
       </section>
     </main>
     <div id="sidebar-mount"></div>
-  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"25k9JvNTH2rgI5oiD9H9s"}
+  </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-page","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-ChyTHfIn7d1lNcKB2eit"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

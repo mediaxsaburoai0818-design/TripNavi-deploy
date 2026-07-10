@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[3902,["/_next/static/chunks/10lsb_rd7~9-p.js","/_next/static/chunks/0qaysijcgf3ws.js"],"OutletBoundary"]
+4:I[63143,["/_next/static/chunks/07qfxv4j1vlvm.js","/_next/static/chunks/039.kylfqjkva.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T1ff0,<div class="page-layout">
+2:T2490,<div class="page-layout">
  <main class="page-main">
  <div class="breadcrumb"><a href="/">ホーム</a> ＞ <a href="/etias-about/">ETIAS</a> ＞ ETIASはいつから？</div>
  <div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.08);">
@@ -11,7 +11,18 @@
  <span class="card-tag" data-color="blue">渡航手続き</span>
  <h1>ETIASはいつから？開始時期・導入スケジュールの最新情報【2026年版】</h1>
  <div class="article-meta">
- <span class="meta-date">更新日：2026年06月12日</span>
+ <span class="meta-date">更新日：2026年07月10日</span>
+ </div>
+ <div style="border-left:4px solid #7c3aed;background:#f5f3ff;padding:16px 20px;margin:16px 0;border-radius:8px;">
+ <p style="font-weight:bold;margin:0 0 8px;">📌 現在の公式ステータス（2026年7月10日時点・EU公式確認）</p>
+ <ul style="margin:0 0 10px;padding-left:1.2em;line-height:1.8;">
+ <li>ETIASの運用開始は<strong>2026年最終四半期（Q4）に予定</strong>（EU公式の最新案内）。開始日はまだ正式確定していません</li>
+ <li>手数料は<strong>当初7ユーロ→20ユーロへの引き上げ</strong>がEU側で示されています（EU規則2025/1411）。確定額は開始時の公式発表を要確認</li>
+ <li><strong>現時点ではETIASの申請は不要</strong>です。開始前に「申請できる」とする案内は公式ではありません（詐欺サイトに注意）</li>
+ <li>出典：EU公式 travel-europe.europa.eu（当サイトは月2回定点確認し、変化があれば更新します）</li>
+ </ul>
+ <p style="font-size:0.85em;color:#666;margin:0;"><strong>更新履歴</strong>：2026-07-10 公式ステータス確認（Q4開始予定・申請不要を再確認）</p>
+ </div>
  </div>
  <div class="content">
 
@@ -104,6 +115,6 @@
  </section>
  </main>
  <div id="sidebar-mount"></div>
- </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"25k9JvNTH2rgI5oiD9H9s"}
+ </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-ChyTHfIn7d1lNcKB2eit"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
